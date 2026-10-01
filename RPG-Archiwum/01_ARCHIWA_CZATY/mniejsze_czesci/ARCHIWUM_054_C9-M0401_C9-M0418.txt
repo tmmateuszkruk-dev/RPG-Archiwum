@@ -1,0 +1,389 @@
+[C9-M0401]
+===== USER =====
+
+wziąłem z powrotem do ręki drugi bukiet i pakunek a potem ruszyłem z nią
+
+
+[C9-M0402]
+===== ASSISTANT =====
+
+Hermiona poprowadziła go krótkim korytarzem w stronę salonu, nadal trzymając swój bukiet przy sobie.
+
+W pomieszczeniu czekali już jej rodzice. Oboje wstali, gdy James wszedł.
+
+Pani Granger miała na sobie jasną bluzkę z długim rękawem podwiniętym do łokci i ciemną spódnicę do kolan; wyglądała schludnie, ale zdecydowanie domowo. Pan Granger był ubrany w jasną koszulę, ciemne spodnie i cienki sweter narzucony na ramiona — również bez przesadnej formalności. Oboje mieli ten charakterystyczny, uważny sposób patrzenia ludzi przyzwyczajonych do pracy z pacjentami.
+
+Hermiona zatrzymała się obok Jamesa.
+
+— Mamo, tato… to James.
+
+Jej matka uśmiechnęła się pierwsza.
+
+— Wreszcie możemy cię poznać. Hermiona naprawdę dużo o tobie mówiła.
+
+Ojciec Hermiony spojrzał na Jamesa z nieco bardziej badawczą miną, ale bez niechęci. Jego wzrok na sekundę przesunął się na elegancki strój, potem na bukiet i duży zapakowany pakunek.
+
+— James Brown — powiedział, jakby zestawiał nazwisko z historiami usłyszanymi wcześniej. — Miło cię poznać.
+
+Hermiona rzuciła ojcu krótkie spojrzenie.
+
+— Tato.
+
+— Co? Nic jeszcze nie powiedziałem.
+
+Pani Granger parsknęła cicho, po czym jej uwagę przyciągnął drugi bukiet trzymany przez Jamesa.
+
+— Och… mam wrażenie, że jeden z tych nie jest dla Hermiony.
+
+Hermiona spojrzała na Jamesa z boku, już podejrzewając dokładnie to samo.
+
+
+[C9-M0403]
+===== USER =====
+
+-Dzień dobry powiedziałem i lekko kiwnąłem głową do obu -tak....powiedziałem i uniosłem lekko bukiet w stronę jej mamy - Bukiet jest dla Pani ...a to powiedziałem i gdy zabrała bukiet wziąłem do obu rąk pakunek - To...nie jest prezent...po prostu uznałem że z racji tego że Państwa tam nie było...to dobrze zeby Państwo mieli chociaż tyle....powiedziałem i podałem jej ojciu
+
+
+[C9-M0404]
+===== ASSISTANT =====
+
+Pani Granger przyjęła bukiet obiema rękami, wyraźnie zaskoczona.
+
+— Och… dziękuję, James. Naprawdę nie musiałeś.
+
+Przyjrzała się jasnoróżowym różom i frezjom, po czym uśmiechnęła się szerzej.
+
+— Są przepiękne.
+
+Pan Granger tymczasem przejął od Jamesa zapakowany przedmiot. Przy słowach, że „nie jest prezentem”, spojrzał na pakunek z wyraźną ciekawością.
+
+— Skoro tak to ujmujesz… — powiedział, ostrożnie rozrywając papier.
+
+Po chwili odsłonił srebrną, misternie zdobioną ramę zwierciadła. Najpierw zwrócił uwagę na samo wykonanie, lecz kiedy obrócił taflę w swoją stronę, znieruchomiał.
+
+Nie zobaczył własnego odbicia.
+
+W zwierciadle trwała utrwalona chwila z Balu Bożonarodzeniowego — Hermiona w momencie wejścia na salę, wykadrowana tak, żeby to ona była centrum obrazu.
+
+— O… — wyrwało mu się.
+
+Pani Granger podeszła bliżej z bukietem nadal w rękach.
+
+— To Hermiona?
+
+Hermiona, która do tej pory stała obok Jamesa, również spojrzała na zwierciadło. Jej oczy rozszerzyły się.
+
+— James…
+
+Jej matka natomiast patrzyła już głównie na obraz córki.
+
+— Kochanie… — powiedziała cicho. — Tak wyglądałaś na tym balu?
+
+Pan Granger przesunął zwierciadło trochę w jej stronę, żeby oboje mogli lepiej widzieć.
+
+— Mówiłaś nam o nim — powiedział do Hermiony. — Ale nie mieliśmy pojęcia…
+
+Urwał, najwyraźniej szukając odpowiednich słów.
+
+— Wyglądałaś pięknie.
+
+Hermiona zarumieniła się niemal natychmiast.
+
+— Tato…
+
+— Co? To prawda.
+
+Pani Granger dotknęła delikatnie skraju srebrnej ramy.
+
+— I to naprawdę… zachowuje dokładnie tamtą chwilę?
+
+Hermiona spojrzała na taflę jeszcze raz, a potem na Jamesa. Tym razem w jej spojrzeniu było już znacznie więcej ciekawości.
+
+— Kiedy ty właściwie to zrobiłeś?
+
+
+[C9-M0405]
+===== USER =====
+
+-pierwsze takie lustro od razu po balu ale to konkretne parę dni temu....
+
+
+[C9-M0406]
+===== ASSISTANT =====
+
+Hermiona mrugnęła.
+
+— Pierwsze?
+
+Teraz spojrzała na Jamesa znacznie uważniej.
+
+— Chcesz powiedzieć, że od miesięcy masz u siebie drugie takie lustro z dokładnie tą samą chwilą i ani razu mi o nim nie powiedziałeś?
+
+W jej głosie nie było złości — raczej szczere zaskoczenie połączone z tym charakterystycznym dla niej pragnieniem natychmiastowego poznania całej historii.
+
+Jej ojciec popatrzył najpierw na zwierciadło, potem na córkę.
+
+— Czyli to jest kopia czegoś, co zrobiłeś dla siebie?
+
+Pani Granger jeszcze raz przyjrzała się obrazowi Hermiony.
+
+— To chyba tłumaczy, dlaczego tak dobrze wiedziałeś, jaki moment wybrać.
+
+Hermiona zarumieniła się trochę mocniej.
+
+— Nie pomagacie.
+
+Ojciec uśmiechnął się pod nosem.
+
+— Jeszcze nawet nie zaczęliśmy.
+
+Hermiona rzuciła mu ostrzegawcze spojrzenie, po czym znów zwróciła się do Jamesa.
+
+— Później mi pokażesz to pierwsze. Teraz naprawdę chcę je zobaczyć.
+
+
+[C9-M0407]
+===== USER =====
+
+wzruszyłem ramionami -Po prostu nie chciałem zapomnieć tamtego momentu... szczególnie dlatego bo tu obecna Herniona postanowiła się wtedy spóźnić.....
+
+
+[C9-M0408]
+===== ASSISTANT =====
+
+Hermiona natychmiast zmrużyła oczy.
+
+— „Postanowiła się spóźnić” to bardzo wygodna wersja wydarzeń — odparła, ale kącik ust już jej drgał. — Przygotowanie się zajęło mi trochę dłużej, niż planowałam.
+
+Jej ojciec spojrzał na obraz w zwierciadle, potem na córkę.
+
+— Czyli kazałaś chłopakowi czekać?
+
+— Tato.
+
+Pani Granger parsknęła śmiechem.
+
+— Nie sądzę, żeby bardzo na tym ucierpiał, skoro kilka miesięcy później nadal przechowuje dokładnie moment, w którym weszłaś.
+
+Hermiona zrobiła się jeszcze bardziej czerwona.
+
+— Mamo…
+
+Pan Granger ponownie przyjrzał się zwierciadłu.
+
+— Muszę przyznać, że to dość skuteczny sposób na zachowanie wspomnienia.
+
+Hermiona spojrzała na Jamesa.
+
+— I teraz rozumiem, dlaczego akurat ten moment. Stałeś tam i czekałeś, a potem zrobiłam wejście z opóźnieniem.
+
+Westchnęła teatralnie.
+
+— Dobrze. Możesz mi to wypominać. Ale tylko dlatego, że efekt najwyraźniej ci się spodobał.
+
+Jej matka uśmiechnęła się szerzej i uniosła swój bukiet.
+
+— Zaczynam rozumieć, dlaczego Hermiona tyle o tobie opowiadała.
+
+
+[C9-M0409]
+===== USER =====
+
+w odpowiedzi rylko lekko się usmiechnąłem
+
+
+[C9-M0410]
+===== ASSISTANT =====
+
+Hermiona odpowiedziała mu równie lekkim uśmiechem, po czym pokręciła głową z miną sugerującą, że doskonale wie, iż temat balu jeszcze wróci.
+
+Pani Granger tymczasem uniosła bukiet.
+
+— Zaniosę to do wody, zanim całkiem zapomnę o wszystkim przez to lustro.
+
+Ruszyła w stronę kuchni, nadal oglądając kwiaty.
+
+Pan Granger ostrożnie odstawił zwierciadło na komodę tak, by niczego nie uszkodzić, a potem wskazał salon.
+
+— Chodźmy usiąść. Skoro już przyszedłeś, nie będziemy cię przecież przesłuchiwać na stojąco.
+
+Hermiona natychmiast spojrzała na ojca.
+
+— „Przesłuchiwać”?
+
+— Przenośnia.
+
+— Tato.
+
+— Hermiono, naprawdę jeszcze nic nie zrobiłem.
+
+Z kuchni dobiegł rozbawiony głos pani Granger:
+
+— Daj mu pięć minut, kochanie.
+
+Hermiona westchnęła, po czym odwróciła się do Jamesa.
+
+— Ostrzegałam cię.
+
+
+[C9-M0411]
+===== USER =====
+
+kiwnąłem głową a potem poszedłem z Panem Granger
+
+
+[C9-M0412]
+===== ASSISTANT =====
+
+Pan Granger poprowadził go do salonu i wskazał miejsce przy jednej z kanap.
+
+— Usiądź, proszę. Czuj się swobodnie.
+
+Sam zajął fotel naprzeciwko, ale zanim zdążył powiedzieć coś więcej, do pomieszczenia weszła Hermiona ze swoim bukietem, a chwilę później jej matka wróciła z kuchni. Kwiaty dla niej stały już w wazonie.
+
+Hermiona usiadła blisko Jamesa, choć zostawiła między nimi tyle miejsca, żeby nie wyglądało to jak demonstracyjne przyklejenie się do siebie przed rodzicami.
+
+Pan Granger przez moment przyglądał mu się z zainteresowaniem.
+
+— No dobrze. Hermiona opowiedziała nam o tobie całkiem sporo, ale… — zerknął na córkę. — …mam podejrzenie, że bardzo starannie wybierała, co nam powiedzieć.
+
+— Oczywiście, że wybierałam — odpowiedziała Hermiona natychmiast.
+
+Jej matka usiadła obok męża.
+
+— Wiemy, że przeniosłeś się do Hogwartu dopiero w tym roku. Wiemy też, że ty i Hermiona jesteście razem…
+
+Pan Granger dodał:
+
+— …i że według naszej córki jesteś jednocześnie bardzo inteligentny, trochę szalony i masz wyjątkowy talent do pakowania się w sytuacje, których normalni ludzie raczej unikają.
+
+Hermiona obróciła się do niego.
+
+— Nie powiedziałam „szalony”.
+
+— Powiedziałaś „czasami kompletnie nierozsądny”.
+
+— To nie jest to samo.
+
+— Dla ojca brzmi wystarczająco podobnie.
+
+Pani Granger uśmiechnęła się pod nosem, po czym spojrzała na Jamesa.
+
+— Nie zamierzamy robić z tego prawdziwego przesłuchania. Po prostu chcielibyśmy trochę cię poznać. Skoro jesteś dla Hermiony tak ważny, to dla nas też ma znaczenie, kim jesteś.
+
+Hermiona rzuciła Jamesowi krótkie spojrzenie, jakby dokładnie tego spodziewała się po rodzicach.
+
+Pan Granger oparł się wygodniej.
+
+— Zacznijmy więc od czegoś prostego. Jak właściwie poznałeś naszą córkę?
+
+
+[C9-M0413]
+===== ASSISTANT =====
+
+Jasne, Part 9 możemy zaczynać. Odświeżyłem obowiązkowe pliki 08_CURRENT, 10_ZASADY_I_CIAGLOSC, bieżącą część 09_REJESTR_KOREKT i 04_KTO_CO_WIE, a dodatkowo sprawdziłem bezpośrednio końcówkę nowego 01_ARCHIWUM_CZAT_1-8_SCALONE.txt. Nie będę udawał, że ponownie przeczytałem linijka po linijce całe 172 tys. linii archiwum — do szczegółów będę wracał przez ID i wyszukiwanie w scalonym pliku. To właśnie on będzie teraz głównym archiwum źródłowym.
+
+Najważniejsze, co mam ustawione przed C9:
+
+Punkt startowy: 24 czerwca 1995, błonia przy jeziorze, przed trzecim zadaniem Turnieju. W scenie są tylko James i Hermiona. Hermiona siedzi, James nadal leży z głową na jej kolanach; nie usiadł ani nie ruszył na trybuny. 08_CURRENT
+
+Ostatnia akcja Jamesa to przebudzenie i: „Cóż za śliczna dziewczyna…”. Odpowiedź Hermiony już padła; kończy się tym, że specjalnie pozwoliła mu długo spać, bo wyglądał, jakby tego potrzebował. Teraz ruch należy do Ciebie. 08_CURRENT
+
+Trzecie zadanie jeszcze się nie rozpoczęło i ma być dzisiaj o zmierzchu. Nie zakładam z góry książkowego wyniku, śmierci Cedrika, powrotu Voldemorta ani demaskacji Moody’ego — wydarzenia książkowe nie są automatycznie przyszłością naszej kampanii. 08_CURRENT
+
+Zachowuję ścisły rozdział wiedzy NPC. Hermiona zna np. motyw ćwiczeń Jamesa, ale nie dokładny harmonogram 4:00/biegania; zna tylko ograniczoną wersję zajścia z Draco. Pansy i Nott nie widzieli samego chwytu. Luna, Krum i Hermiona otrzymali różne części historii. 04_KTO_CO_WIE
+
+James pozostaje w 100% Twój. Nie dopisuję mu myśli, emocji, wypowiedzi, reakcji, ruchów ani decyzji. Prowadzę wyłącznie świat i NPC. Późniejsze jawne korekty mają pierwszeństwo przed wcześniejszym tekstem, a błędna odpowiedź narratora nie staje się kanonem. 10_ZASADY_I_CIAGLOSC
+
+Pilnuję charakterów: Hermiona nie będzie terapeutką ani potulnym dodatkiem do Jamesa, Draco nie zrobi się uległy, Ron nie będzie tylko workiem treningowym do żartów, Pansy/Nott zachowują własne charaktery. 10_ZASADY_I_CIAGLOSC
+
+Nowe wydarzenia oznaczamy już jako C9; C1–C8 zostają bez przenumerowywania. 10_ZASADY_I_CIAGLOSC
+
+Czyli wszystko jest ustawione. Nie resetuję historii do CURRENT przy każdej turze — CURRENT jest tylko punktem startowym Part 9, a od następnej Twojej akcji historia idzie już dalej.
+
+Możesz od razu rzucić pierwszą akcję Jamesa w Part 9.
+
+
+[C9-M0414]
+===== USER =====
+
+słuchałem tego co mówił co jakiś czas lekko przytakując gdy zadał pytanie chwilę się zastanawiałem -hmm, to nawet śmieszna historia....jak Pewnie Pan wie w Hogwarcie jest podział ma domy...a domy z których my jesteśmy niezbyt się lubią....ja też nie byłem do końca pewien jak Hermiona na mnie zareaguje więc przez pierwsze miesiące po prostu się jej przyglądałem jak się później okazało nie tak dyskretnie jak myślałem....i chyba pierwsza odezwała się do mnie Hermiona....potem już poszło z górki no z wyjatkiem okresu jak zacząłem jej unikać....
+
+
+[C9-M0415]
+===== ASSISTANT =====
+
+Pan Granger przez chwilę milczał, jakby układał sobie tę historię w głowie.
+
+— Chwileczkę — powiedział w końcu. — Czyli przez pierwsze miesiące obserwowałeś ją z daleka, bo nie wiedziałeś, jak zareaguje na Ślizgona?
+
+Hermiona skrzyżowała ręce, ale miała już lekko rozbawioną minę.
+
+— „Z daleka” to bardzo korzystne określenie.
+
+Jej matka spojrzała na nią.
+
+— Zauważyłaś?
+
+— Oczywiście, że zauważyłam. — Hermiona zerknęła na Jamesa. — On tylko przez jakiś czas był przekonany, że nie.
+
+Pan Granger parsknął cicho.
+
+— Rozumiem. Dyskretny obserwator.
+
+Po chwili jednak wrócił do ostatniej części odpowiedzi.
+
+— Ale bardziej zainteresowało mnie coś innego. — Spojrzał na Jamesa. — Powiedziałeś: „okres, kiedy zacząłem jej unikać”.
+
+Hermiona westchnęła.
+
+— O tak. Ten etap też był.
+
+Jej matka przeniosła wzrok między nimi.
+
+— Dlaczego zacząłeś jej unikać?
+
+Hermiona nie odpowiedziała za Jamesa. Usiadła tylko wygodniej obok niego i spojrzała w jego stronę, zostawiając mu tę część historii.
+
+
+[C9-M0416]
+===== USER =====
+
+Heh wpadłem w lekkie zakłopotanie - To dość skomplikowane....
+
+
+[C9-M0417]
+===== ASSISTANT =====
+
+Pan Granger uniósł lekko brwi.
+
+— To zwykle oznacza, że właśnie dotarliśmy do ciekawszej części historii.
+
+Pani Granger uśmiechnęła się łagodnie.
+
+— Nie musisz opowiadać niczego, czego nie chcesz. Po prostu zabrzmiało to dość… znacząco.
+
+Hermiona siedząca obok Jamesa spojrzała na niego z wyraźnym rozbawieniem, ale nie ratowała go odpowiedzią.
+
+— Jest skomplikowane — potwierdziła. — I trochę głupie.
+
+Jej ojciec spojrzał na nią.
+
+— To pomaga wyjątkowo mało.
+
+— Wiem.
+
+Hermiona znów przeniosła wzrok na Jamesa.
+
+— Ale skoro sam zacząłeś ten fragment historii, to teraz chyba musisz zdecydować, ile chcesz im powiedzieć.
+
+
+[C9-M0418]
+===== USER =====
+
+-Bylo kilka powodów....spojrzałem na Hermione - Jaki powiedziałem tobie?
+
+ARCHIWUM CZATU 10 — treść rozmowy w dotychczasowym formacie
+
+253 bloki TURN rozdzielono na 506 wiadomości USER/ASSISTANT. Usunięto wyłącznie opakowanie eksportu i metadane interfejsu (opis w 00_MAPOWANIE_C10.md). Oryginał zachowany bez zmian. Błędy narratora pozostają tekstem historycznym; status w 09_REJESTR_KOREKT.md.
+

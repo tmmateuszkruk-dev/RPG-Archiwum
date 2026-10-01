@@ -1,0 +1,3102 @@
+[C8-M0001]
+===== USER =====
+
+Siema
+
+
+[C8-M0002]
+===== ASSISTANT =====
+
+Siema 😄 Co działamy?
+
+
+[C8-M0003]
+===== ASSISTANT =====
+
+Teraz tak 😄 Mam już dostęp do właściwej bazy RPG i widzę aktualny punkt historii.
+
+Jesteśmy na 23 czerwca 1995, początek obiadu w Wielkiej Sali przy stole Slytherinu. James i Hermiona właśnie podeszli do Notta, Pansy i Draco; Nott zrobił miejsce, ale James jeszcze nie usiadł. Ostatnia akcja Jamesa brzmi dokładnie: „Rzuciłem Pansy zimne spojrzenie”. Następna reakcja należy więc do Pansy/NPC-ów. 08_CURRENT
+
+Mam też zasady ciągłości: James jest w 100% Twój, więc nie dopisuję mu ruchów, słów, myśli ani reakcji; pilnuję wiedzy NPC, późniejszych korekt i charakterów postaci. 10_ZASADY_I_CIAGLOSC Rejestr potwierdza też, że C7-M0702 jest tylko wtrąceniem poza kolejnością i nie cofa nas z czerwca do lutego. 09_REJESTR_KOREKT
+
+Czyli możemy normalnie lecieć z Part 8 dokładnie od zimnego spojrzenia na Pansy. 😎
+
+
+[C8-M0004]
+===== USER =====
+
+(Super to przypomnij sobie wszystko przeanalizuj i kontynuuj sprawdź też przed odpowiedzią że tak powiem nadtawienie Jamesa I Hermiony do zwracania się do niej po nazwisku)
+
+
+[C8-M0005]
+===== ASSISTANT =====
+
+Sprawdziłem to dokładnie. Obowiązujące ustawienie jest takie: Hermionie „Granger” samo w sobie nie przeszkadza; od Jamesa woli „Hermiona”, ale nie uważa, że inni mają obowiązek używać jej imienia. To Jamesowi przeszkadza, gdy inni mówią do niej po nazwisku — i Nott, Draco oraz Pansy już o tym wiedzą. Hermiona nie chce, żeby James prowadził w jej imieniu kampanię o nazwisko, a jednocześnie rozumie, że zwłaszcza Draco potrafi użyć „Granger” celowo jako prowokacji. 04_KTO_CO_WIE Obecny zapis dodatkowo podkreśla, że Pansy nie jest Jamesowi podporządkowana i że jej „Granger” tuż przed zimnym spojrzeniem było już rozegranym faktem. 05_RELACJE
+
+Pansy wyłapała spojrzenie natychmiast.
+
+Przez moment po prostu patrzyła Jamesowi w oczy. Uniesiona wcześniej brew przesunęła się odrobinę wyżej, a rozbawienie na jej twarzy przygasło — nie ze strachu, raczej dlatego, że bez większego trudu połączyła zimne spojrzenie z własnym powitaniem.
+
+— Och — mruknęła.
+
+Kącik jej ust drgnął.
+
+— Nadal to.
+
+Nie przeprosiła. Nie spuściła też wzroku.
+
+Draco zerknął najpierw na Pansy, potem na Jamesa. Po jego minie było widać, że również pamięta, o co chodzi, ale tym razem niczego nie dopowiedział.
+
+Hermiona natomiast spojrzała krótko na Pansy, a potem na Jamesa.
+
+— Pansy — odezwała się spokojnie. — Moje nazwisko naprawdę nadal brzmi „Granger”.
+
+Pansy przeniosła na nią wzrok.
+
+— Wiem.
+
+— Świetnie. — Hermiona uniosła lekko brew. — W takim razie możemy chyba zjeść obiad bez rozpoczynania kolejnej wojny o to, jak się nazywam.
+
+Na ustach Pansy pojawił się cienki uśmiech.
+
+— Mnie pasuje.
+
+Nott, który przez cały ten czas nie wtrącił ani słowa, przesunął tylko wzrok z Pansy na Jamesa, a potem na wciąż wolne miejsce na ławie. Nie komentował.
+
+Draco za to oparł się odrobinę wygodniej.
+
+— Minęła może minuta — powiedział sucho. — A eksperyment już daje wyniki.
+
+
+[C8-M0006]
+===== USER =====
+
+poczekałem chwilę a gdy Herniona usiadła zająłem miejsce obok niej
+
+
+[C8-M0007]
+===== ASSISTANT =====
+
+Hermiona usiadła na wolnym miejscu obok Notta, zsuwając torbę z ramienia i stawiając ją przy swoich nogach. Kiedy James zajął miejsce obok niej, przesunęła się odrobinę, robiąc mu wygodniej miejsce przy stole.
+
+Pansy zerknęła na nich oboje, lecz tym razem powstrzymała się od komentarza. Sięgnęła tylko po dzbanek z sokiem dyniowym.
+
+Draco natomiast spojrzał na Hermionę, potem na Jamesa.
+
+— No dobrze — powiedział, nakładając sobie jedzenie. — Skoro już wszyscy postanowiliśmy zachowywać się cywilizowanie…
+
+Hermiona uniosła brew.
+
+— To dla ciebie nowość?
+
+Nott opuścił wzrok na talerz, ale kącik jego ust drgnął.
+
+Draco zatrzymał łyżkę w połowie ruchu.
+
+— Wiedziałem, że zaproszenie Gryfonki do naszego stołu będzie błędem.
+
+— A jednak jeszcze żyjesz — odparła Hermiona spokojnie, sięgając po półmisek stojący bliżej środka stołu.
+
+Pansy parsknęła cicho.
+
+— Daj jej pięć minut, Draco. Dopiero usiadła.
+
+Draco rzucił jej urażone spojrzenie.
+
+— Cieszę się, że wszyscy świetnie się bawicie.
+
+
+[C8-M0008]
+===== USER =====
+
+też nałożyłem sobie trochę jedzenia a potem rzuciłem do Malfoy'a - Dokończy jestem ciekaw co chciałeś powiedzieć...
+
+
+[C8-M0009]
+===== ASSISTANT =====
+
+Draco zatrzymał na moment widelec i spojrzał na Jamesa znad talerza. W jego twarzy nie pojawiło się zakłopotanie — raczej lekkie rozdrażnienie, że jego zdanie w ogóle stało się przedmiotem przesłuchania.
+
+— Chciałem powiedzieć — zaczął powoli — że skoro już wszyscy postanowiliśmy zachowywać się cywilizowanie, możemy chyba zjeść jeden obiad bez robienia przedstawienia z każdego słowa.
+
+Jego spojrzenie przesunęło się na Hermionę.
+
+— Nawet jeśli mamy dziś… nietypowe towarzystwo.
+
+Hermiona odłożyła widelec i popatrzyła na niego przez sekundę.
+
+— Widzisz? Dało się powiedzieć całe zdanie bez katastrofy.
+
+Pansy zakryła usta dłonią, ale krótki śmiech i tak jej uciekł.
+
+Draco rzucił jej ostre spojrzenie.
+
+— Parkinson.
+
+— Co? — odpowiedziała niewinnie. — Zachowuję się cywilizowanie.
+
+Nott tym razem już wyraźnie się uśmiechnął, choć nadal niczego nie skomentował. Draco zauważył to kątem oka i westchnął zirytowany.
+
+— Fantastycznie. Teraz już cała trójka.
+
+
+[C8-M0010]
+===== USER =====
+
+(ok czy Draco rzeczywiście by tak powiedział a jeżeli tak to mi to uzasadnij)
+
+
+[C8-M0011]
+===== ASSISTANT =====
+
+Nie w tej dokładnej formie. Po sprawdzeniu archiwum widzę, że za bardzo go wygładziłem — i co ważniejsze, niemal powtórzyłem sposób mówienia Draco, który już wcześniej został przez Ciebie zakwestionowany.
+
+W C2 Draco powiedział kiedyś: „Powiedziałem już: potrafię zachować się cywilizowanie.” Ty od razu zapytałeś, czy nie wygładzam jego charakteru, a późniejsza korekta ustaliła wprost, że tak: Draco z IV roku powinien być bardziej dumny, uprzedzony i złośliwy, a nie brzmieć jak ktoś dojrzale zarządzający konfliktem. Ta sama korekta mówi też, że przy Hermionie może się powstrzymywać ze względu na Jamesa, własny interes czy sytuację społeczną, ale jego pierwszy odruch nadal powinien być autentycznie dracowski. 01_ARCHIWUM_CZAT_2
+
+Dlatego moje:
+
+„skoro już wszyscy postanowiliśmy zachowywać się cywilizowanie, możemy chyba zjeść jeden obiad bez robienia przedstawienia z każdego słowa”
+
+jest zbyt ugodowe i zbyt rozsądnie sformułowane. Draco może chcieć uniknąć awantury, ale raczej nie przedstawiałby siebie jako tego, który apeluje o spokojny, cywilizowany obiad.
+
+Za to część:
+
+„Nawet jeśli mamy dziś… nietypowe towarzystwo.”
+
+jest już znacznie bardziej wiarygodna. To pozwala mu jednocześnie nie zaatakować Hermiony otwarcie i jednak zaznaczyć, że uważa jej obecność przy stole Slytherinu za coś odstającego. Pasuje to również do jego zachowania dosłownie chwilę wcześniej: widząc Hermionę powiedział „Widzę, że dziś mamy gościa”, a po jej „Przeżyjesz” odpowiedział „Nie powiedziałem, że nie. Jeszcze.” Czyli już był powściągliwy, ale kąśliwy, a nie serdeczny. 01_ARCHIWUM_CZAT_7
+
+Do tego Draco dokładnie wie, że Jamesowi przeszkadza zwracanie się do Hermiony samym „Granger”. Wie również, że Hermionie samej to nie przeszkadza. Wcześniej powiedział to wprost: Nott przekazał im, że problem ma James, a nie Hermiona. 01_ARCHIWUM_CZAT_3 To oznacza, że Draco może świadomie używać „Granger” jako drobnego ukłucia skierowanego bardziej w Jamesa niż w nią — i zapis relacji wręcz mówi, że Draco nadal potrafi tę prośbę testować. 11_LOREBOOK_HOGWARTS_C1-C7
+
+Tak samo końcówka „Fantastycznie. Teraz już cała trójka.” nie jest niemożliwa, ale zrobiłem scenę trochę zbyt sitcomową: Hermiona ripostuje, Pansy się śmieje, Nott się uśmiecha, a Draco zostaje komiczną ofiarą całego stołu. To może zdarzyć się raz, ale nie powinienem systematycznie ustawiać całej grupy przeciwko niemu. Pansy szczególnie nie jest nagle koleżanką Hermiony — aktualne zasady mówią, że pozostaje społecznie czujna i selektywnie złośliwa, a współpraca nie oznacza ciepłej przyjaźni. 10_ZASADY_I_CIAGLOSC
+
+Czyli skorygowałbym ostatnią wypowiedź Draco. Po Twoim: „Dokończ, jestem ciekaw co chciałeś powiedzieć…” bardziej charakterystyczne byłoby coś w rodzaju:
+
+— Chciałem powiedzieć, Brown, że skoro już przyprowadziłeś Granger do naszego stołu, mam nadzieję, że nie zamierzasz patrzeć na każdego jak na mordercę za każdym razem, kiedy ktoś otworzy usta.
+
+Potem spojrzenie na Hermionę:
+
+— I że może uda nam się skończyć obiad bez robienia z tego historycznego pojednania Gryffindoru ze Slytherinem.
+
+To nadal jest kontrolowany Draco, bo nie rzuca obelgi i nie rozpoczyna awantury, ale pozostaje dumny, zaczepny i świadomie mówi „Granger”, wiedząc dokładnie, że to Jamesowi może wejść pod skórę.
+
+Tę wersję uznałbym za znacznie lepiej zgodną z naszym dotychczasowym Draco.
+
+
+[C8-M0012]
+===== USER =====
+
+(ok jeszcze jedno pamiętaj w jakim wieku są poszczególne postacie i nie przypisuj im na przykład zachowań dorosłych ludzi)
+
+
+[C8-M0013]
+===== ASSISTANT =====
+
+Jasne — to traktuję jako stałą zasadę prowadzenia.
+
+Będę pilnował nie tylko kanonicznego charakteru postaci, ale też ich wieku i dojrzałości. Czyli piętnastolatkowie nadal mogą być impulsywni, zazdrośni, dumni, małostkowi, przesadnie pewni siebie, zawstydzeni, złośliwi albo nieporadni emocjonalnie. Nie będę robił z Hermiony terapeuty, z Draco dojrzałego dyplomaty, z Notta chłodnego trzydziestolatka ani z całej grupy grona rozsądnych dorosłych mediatorów.
+
+To zresztą jest już zapisane w aktualnych zasadach kampanii: trzeba pamiętać o wieku i niedoskonałości reakcji nastolatków, a charaktery mają pozostać samodzielne i nieprzesadnie wygładzone. 10_ZASADY_I_CIAGLOSC Rejestr korekt też wprost mówi, żeby nie robić z Hermiony terapeuty ani z grupy idealnie wyważonych dorosłych. 09_REJESTR_KOREKT
+
+Czyli przy dalszej scenie będę patrzył równocześnie na: wiek + charakter + relacje + aktualne emocje + to, co dana postać faktycznie wie.
+
+
+[C8-M0014]
+===== USER =====
+
+(ok to kontynuuj)
+
+
+[C8-M0015]
+===== ASSISTANT =====
+
+Draco spojrzał na Jamesa przez chwilę, jakby oceniał, czy pytanie jest zaczepką. Potem prychnął cicho i oparł widelec o brzeg talerza.
+
+— Chciałem powiedzieć, Brown, że skoro już przyprowadziłeś Granger do naszego stołu, to mam nadzieję, że nie zamierzasz patrzeć na każdego jak na potencjalnego mordercę za każdym razem, kiedy ktoś otworzy usta.
+
+Przy „Granger” jego spojrzenie na moment zatrzymało się na Jamesie. Zbyt krótko, żeby można było udawać, że to przypadek.
+
+— I może uda nam się zjeść jeden obiad bez robienia z tego jakiegoś wielkiego pojednania Gryffindoru ze Slytherinem — dokończył. — Przecież ona tylko usiadła przy stole.
+
+Hermiona natychmiast uniosła brew.
+
+— Niesamowite. Prawie zabrzmiało rozsądnie.
+
+— Prawie?
+
+— Zepsułeś to mniej więcej w połowie.
+
+Pansy parsknęła, ale szybko zajęła się swoim talerzem, najwyraźniej nie mając zamiaru drugi raz w ciągu kilku minut ściągać na siebie uwagi Jamesa.
+
+Draco przewrócił oczami.
+
+— Właśnie dlatego zwykle nie zaprasza się Gryfonów do rozmowy.
+
+— Nikt mnie nie zapraszał do rozmowy, Malfoy. — Hermiona sięgnęła spokojnie po dzbanek. — Sama zaczęłam mówić.
+
+— To akurat zauważyłem.
+
+Nott siedzący obok zerknął między nimi.
+
+— Minęły dwie minuty.
+
+Pansy spojrzała na niego.
+
+— Optymista.
+
+Draco rzucił obojgu urażone spojrzenie, ale wrócił do jedzenia. 01_ARCHIWUM_CZAT_3 01_ARCHIWUM_CZAT_2
+
+
+[C8-M0016]
+===== USER =====
+
+ja widząc i słysząc że Hermiona sobie radzi nie dołączyłem do tej wyśmiany zdań ale było widać że Draco mnie zirytował po chwili bardzo delikatnie pocałowałem jej policzek i wróciłem do nakładania sobie jedzenie i po chwili zacząłem jeść
+
+
+[C8-M0017]
+===== ASSISTANT =====
+
+Hermiona przerwała na moment nakładanie sobie jedzenia, kiedy poczuła pocałunek w policzek. Zerknęła na Jamesa z ukosa i uśmiechnęła się krótko, trochę cieplej niż przed chwilą, ale niczego nie komentowała. Po prostu wróciła do swojego talerza.
+
+Draco natomiast zauważył zarówno pocałunek, jak i wcześniejsze rozdrażnienie Jamesa. Kącik jego ust uniósł się odrobinę — nie w szerokim uśmiechu, raczej w tej irytująco zadowolonej minie kogoś, kto właśnie upewnił się, że jego zaczepka trafiła.
+
+Przez kilka chwil przy stole było nawet spokojnie. Słychać było głównie sztućce, rozmowy z dalszej części Wielkiej Sali i przesuwane półmiski.
+
+W końcu Draco, nadal patrząc w swój talerz, rzucił niby od niechcenia:
+
+— Wiesz, Brown… jeżeli jedno nazwisko wystarcza, żeby tak cię zirytować, to zaczyna się robić trochę zbyt łatwe.
+
+Hermiona od razu spojrzała na niego.
+
+— Malfoy.
+
+— Co? — Draco uniósł niewinnie brwi.
+
+— Właśnie udowadniasz, że robisz to specjalnie.
+
+Przez sekundę wyglądał, jakby chciał zaprzeczyć, ale zamiast tego tylko wzruszył ramionami.
+
+— Może.
+
+Pansy spojrzała na niego znad kielicha.
+
+— Ty naprawdę czasem sam prosisz się o kłopoty.
+
+— Parkinson, nie pomagaj.
+
+Hermiona pokręciła głową i wróciła do jedzenia, tym razem z ledwo widocznym rozbawieniem na ustach.
+
+
+[C8-M0018]
+===== USER =====
+
+-Pamietaj że na dłuższą metę znam conajmniej 3 sposoby aby zamknąć ci morde....powiedziałem zimno
+
+
+[C8-M0019]
+===== ASSISTANT =====
+
+Draco znieruchomiał na ułamek sekundy z widelcem w dłoni.
+
+Potem powoli odłożył go na talerz i spojrzał Jamesowi prosto w oczy. Z jego twarzy zniknęło wcześniejsze rozbawienie.
+
+— Och, groźby. Jak subtelnie.
+
+Brzmiał zaczepnie, ale już bez tej samej lekkości co chwilę wcześniej. Duma nie pozwoliła mu spuścić wzroku.
+
+— I co, mam się teraz przestraszyć i przestać mówić?
+
+Hermiona od razu odwróciła głowę w stronę Jamesa, po czym spojrzała na Draco.
+
+— Nie. Ty masz po prostu przestać go celowo prowokować.
+
+— To nie ja właśnie zacząłem mówić o zamykaniu komuś mordy — odbił Draco.
+
+— A ty bardzo dobrze wiedziałeś, co robisz z tym „Granger”.
+
+Draco zacisnął usta.
+
+Pansy przeniosła wzrok z jednego na drugiego i tym razem się nie śmiała.
+
+— Dobra, to już przestało być zabawne.
+
+Nott również oderwał się od jedzenia.
+
+— Malfoy, odpuść.
+
+Draco rzucił mu ostre spojrzenie.
+
+— Nie potrzebuję, żebyście wszyscy—
+
+— Nikt cię nie broni — przerwał mu Nott. — Mówię, żebyś przestał dolewać oliwy do ognia.
+
+Hermiona westchnęła cicho i oparła przedramię o stół.
+
+— Możemy przez pięć minut zachowywać się jak ludzie w naszym wieku, a nie jak idioci próbujący sprawdzić, kto pierwszy przesadzi?
+
+
+[C8-M0020]
+===== USER =====
+
+lekko wkurzył się fakt że Hermiona się trochę wtrąciła ale słysząc jej apel tylko mocniej zacisnąłem rękę na widelcu i wróciłem bez słowa do jedzenia
+
+
+[C8-M0021]
+===== ASSISTANT =====
+
+Hermiona zauważyła mocniej zaciśnięte palce na widelcu. Przez moment zerknęła na dłoń Jamesa, potem na jego twarz, ale tym razem niczego nie powiedziała.
+
+Nie próbowała też ciągnąć tematu.
+
+Draco jeszcze przez chwilę siedział sztywno, jakby bardzo chciał dorzucić ostatnie słowo, ale po spojrzeniu Notta tylko prychnął pod nosem i wrócił do jedzenia.
+
+Pansy wykorzystała ciszę jako pierwsza. Sięgnęła po półmisek i rzuciła do Notta:
+
+— Podasz?
+
+Nott przesunął go w jej stronę.
+
+— Proszę.
+
+— Widzicie? — mruknęła Pansy. — Rozmowa bez groźby pojedynku. Da się.
+
+Draco spojrzał na nią spode łba.
+
+— Jeszcze jedno słowo, Parkinson.
+
+— No właśnie o tym mówię.
+
+Hermionie uciekł krótki uśmiech, ale tym razem powstrzymała komentarz. Po chwili po prostu wróciła do jedzenia, zostawiając napięcie przy stole, żeby samo trochę opadło.
+
+
+[C8-M0022]
+===== USER =====
+
+ja nadal jadłem bez słowa a moja mina została zimna
+
+
+[C8-M0023]
+===== ASSISTANT =====
+
+Hermiona zerknęła na Jamesa jeszcze raz.
+
+Tym razem zatrzymała na nim wzrok odrobinę dłużej. Zauważyła chłodną minę, ale po wcześniejszym spięciu najwyraźniej uznała, że dalsze naciskanie tylko pogorszyłoby sytuację. Sama też nie wyglądała już tak swobodnie jak kilka minut wcześniej.
+
+Draco zauważył zmianę nastroju, lecz tym razem nie skomentował jej. Jadł dalej, od czasu do czasu tylko zerkając w stronę Jamesa. W jego minie nadal było trochę uporu, ale wcześniejsza chęć do prowokowania wyraźnie osłabła.
+
+Przy stole zapadła na chwilę niezręczna cisza.
+
+Pansy pierwsza zaczęła rozmawiać z Nottem o czymś zupełnie innym — o końcu roku i pakowaniu kufrów — najwyraźniej próbując skierować rozmowę na bezpieczniejszy temat.
+
+Hermiona przez moment słuchała ich w milczeniu, po czym odezwała się już do całego stołu:
+
+— Nadal nie mogę uwierzyć, że pojutrze naprawdę koniec roku.
+
+Nott wzruszył lekko ramionami.
+
+— Ja mogę.
+
+— Oczywiście, że możesz — mruknęła Pansy. — Ty wyglądasz, jakbyś zaczął pakować się w marcu.
+
+— W kwietniu.
+
+Pansy spojrzała na niego.
+
+— To nie była pochwała.
+
+Draco prychnął cicho, tym razem bardziej rozbawiony rozmową niż zaczepny.
+
+
+[C8-M0024]
+===== USER =====
+
+ja nadal nic nie mówiłem
+
+
+[C8-M0025]
+===== ASSISTANT =====
+
+Przez następnych kilka chwil rozmowa toczyła się głównie między Pansy i Nottem.
+
+— W kwietniu? — Pansy pokręciła głową. — Jesteś chory.
+
+— Po prostu nie lubię robić wszystkiego ostatniego wieczoru.
+
+— To jest właśnie choroba.
+
+Nott spojrzał na nią bez większego wzruszenia.
+
+— Ty zapewne zaczniesz pakować się jutro o północy.
+
+— Jutro? — Pansy prychnęła. — Nie jestem aż tak zorganizowana.
+
+Hermiona parsknęła cicho i przez moment dała się wciągnąć w rozmowę, choć co jakiś czas zerkała na milczącego Jamesa. Nie próbowała jednak wyciągać z niego słów przy całym stole.
+
+Draco również milczał przez dłuższą chwilę. W końcu, najwyraźniej znudzony słuchaniem o kufrach, odezwał się:
+
+— Wszyscy zachowujecie się, jakby jutro nic się nie działo.
+
+Pansy spojrzała na niego.
+
+— Bo nie wszyscy mamy obsesję na punkcie Turnieju.
+
+— To trzecie zadanie.
+
+— Brawo, Malfoy. Pamiętasz numer.
+
+Draco zmrużył oczy.
+
+— Jesteś dziś wyjątkowo zabawna.
+
+— Dziękuję.
+
+Hermiona uśmiechnęła się pod nosem, ale zaraz spoważniała odrobinę.
+
+— Ciekawe, co właściwie przygotowali.
+
+Nott wzruszył ramionami.
+
+— Jeśli powiedzieliby wcześniej, trochę zepsuliby sens zadania.
+
+— Wiem — odparła Hermiona. — To nie znaczy, że nie mogę być ciekawa.
+
+Draco zerknął na nią.
+
+— Ty? Ciekawa czegoś, czego nie możesz wcześniej przeczytać w książce?
+
+Hermiona odwróciła ku niemu głowę.
+
+— Uważaj, Malfoy. Jeszcze chwila i znowu zaczniesz być sobą.
+
+Pansy zachichotała, a nawet Nott tym razem wyraźnie się uśmiechnął.
+
+
+[C8-M0026]
+===== USER =====
+
+ja nadal zostałem niewzruszony
+
+
+[C8-M0027]
+===== ASSISTANT =====
+
+Hermiona zerknęła na Jamesa jeszcze raz, tym razem już wyraźnie dłużej. Kiedy zobaczyła, że jego mina ani trochę się nie zmienia, jej własny uśmiech powoli zgasł.
+
+Nie zrobiła jednak z tego kolejnej rozmowy przy wszystkich.
+
+Zamiast tego odłożyła na chwilę widelec i mruknęła pod nosem:
+
+— Świetny obiad.
+
+Pansy spojrzała na nią, potem krótko na Jamesa i chyba zrozumiała, do czego pije, bo tym razem nie odpowiedziała żartem.
+
+Draco również zauważył, że kolejne zaczepki nie wywołują już żadnej reakcji. Przez moment wyglądał, jakby chciał coś powiedzieć, ale ostatecznie tylko przewrócił oczami i zajął się swoim talerzem.
+
+Nott natomiast po kilku sekundach rzucił spokojnie:
+
+— To może po prostu zjemy.
+
+— Genialny pomysł — odpowiedziała Pansy.
+
+Hermiona pokiwała lekko głową.
+
+— Popieram.
+
+I przez następnych parę chwil naprawdę zapanował spokój. Hermiona jadła wolniej niż wcześniej, od czasu do czasu zerkając w bok na Jamesa, ale nie próbowała go rozruszać ani wypytywać przy całym stole. Draco też już nie prowokował.
+
+
+[C8-M0028]
+===== USER =====
+
+ja po chwili skończyłem jeść i pp prostu odłożyłem sztućce na talerz
+
+
+[C8-M0029]
+===== ASSISTANT =====
+
+Hermiona zauważyła odłożone przez Jamesa sztućce i zerknęła na jego pusty talerz.
+
+Sama miała jeszcze trochę jedzenia, więc nie spieszyła się z kończeniem. Przez chwilę jadła w ciszy, po czym spojrzała na niego z boku.
+
+Nie zapytała od razu, czy wszystko w porządku. Po wcześniejszym napięciu chyba uznała, że robienie tego przy Draco, Pansy i Notcie byłoby kiepskim pomysłem.
+
+Pansy również kończyła już posiłek. Draco odsunął swój talerz kawałek od siebie i oparł się wygodniej na ławie.
+
+— No — rzucił po chwili. — Przynajmniej tym razem obiad skończył się bez rzucania zaklęć.
+
+Nott spojrzał na niego.
+
+— Jeszcze nie wstaliśmy od stołu.
+
+Pansy parsknęła.
+
+— Theodore, nie kuś losu.
+
+Hermiona pokręciła lekko głową, ale tym razem nie podchwyciła zaczepki Draco. Zamiast tego dokończyła ostatni kęs i dopiero wtedy odłożyła sztućce.
+
+
+[C8-M0030]
+===== USER =====
+
+spojrzałem na Hermionę
+
+
+[C8-M0031]
+===== ASSISTANT =====
+
+Hermiona od razu wychwyciła jego spojrzenie.
+
+Przez sekundę patrzyła na niego w milczeniu, jakby próbowała zdecydować, czy chce coś powiedzieć przy całej trójce. Potem lekko uniosła brwi.
+
+— Co? — zapytała cicho, już bez wcześniejszego żartobliwego tonu.
+
+Nie brzmiała chłodno. Raczej ostrożnie.
+
+Pansy i Nott nadal byli zajęci sobą, a Draco tylko zerknął w ich stronę kątem oka, ale nic nie powiedział.
+
+
+[C8-M0032]
+===== USER =====
+
+-Idziemy?
+
+
+[C8-M0033]
+===== ASSISTANT =====
+
+Hermiona przyjrzała mu się przez moment, po czym skinęła głową.
+
+— Tak. Chodźmy.
+
+Sięgnęła pod ławę po swoją torbę i zarzuciła ją na ramię. Wstając, rzuciła jeszcze krótkie spojrzenie pozostałej trójce.
+
+— Dzięki za… interesujący obiad.
+
+Pansy uniosła kącik ust.
+
+— Nie ma za co.
+
+— Ja nic nie zrobiłem — zauważył Nott.
+
+Hermiona zerknęła na niego.
+
+— Dlatego właśnie tobie dziękuję najbardziej.
+
+Pansy parsknęła śmiechem.
+
+Draco przewrócił oczami.
+
+— Bardzo zabawne, Granger.
+
+Hermiona już nawet nie podjęła zaczepki. Po prostu stanęła obok Jamesa, gotowa odejść od stołu.
+
+
+[C8-M0034]
+===== USER =====
+
+ja wstałem praktycznie w tym czasie co ona i spokojnie słuchałem tego co mówią dopiero gdy odezwał się Draco na chwilę moja twarz lekko drgnęła następnie obróciłem się bardziej w stronę Hermiony i delikatnie chwyciłem jej ręce
+-Możesz już iść na następną lekcję ja zaraz do ciebie dołączę...
+
+
+[C8-M0035]
+===== ASSISTANT =====
+
+Hermiona zatrzymała się.
+
+Najpierw spojrzała na ich splecione dłonie, potem podniosła wzrok na Jamesa. Przez krótką chwilę nic nie mówiła. Dopiero potem jej oczy przesunęły się na Draco i z powrotem.
+
+— James… — odezwała się ciszej.
+
+Zmarszczyła lekko brwi.
+
+— Dlaczego mam iść sama?
+
+Nie wyrwała dłoni, ale też nie ruszyła w stronę wyjścia. W jej spojrzeniu pojawiła się wyraźna podejrzliwość.
+
+— Jeszcze chwilę temu mieliśmy iść razem.
+
+Draco, który zdążył usłyszeć tę wymianę, uniósł brew, ale tym razem rozsądnie nie skomentował jej od razu.
+
+Hermiona ścisnęła lekko palce Jamesa.
+
+— Jeżeli chcesz zostać, żeby coś mu powiedzieć… — zerknęła krótko w stronę Malfoya — …to po prostu mi powiedz. Nie musisz mnie odsyłać.
+
+
+[C8-M0036]
+===== USER =====
+
+ściszyłem głos tak że tylko ona słyszała - Nie będę już mówić...
+
+
+[C8-M0037]
+===== ASSISTANT =====
+
+Hermiona znieruchomiała.
+
+Przez moment tylko patrzyła mu w oczy. To jedno zdanie wystarczyło, żeby zniknęła z jej twarzy resztka wcześniejszego rozluźnienia.
+
+Jej palce zacisnęły się trochę mocniej na jego dłoniach.
+
+— Nie — odpowiedziała równie cicho. — W takim razie tym bardziej nie pójdę sama.
+
+Krótko zerknęła w stronę Draco, po czym natychmiast wróciła spojrzeniem do Jamesa.
+
+— Nie wiem, co dokładnie masz zamiar zrobić — dodała szeptem — ale po tym, jak to powiedziałeś, naprawdę nie zamierzam po prostu odwrócić się i wyjść.
+
+Zmarszczyła lekko brwi.
+
+— Miałeś go uciszyć słowami, pamiętasz?
+
+Nie brzmiała jak nauczyciel ani ktoś wygłaszający kazanie. Bardziej jak zirytowana i jednocześnie zaniepokojona piętnastolatka, która bardzo dobrze wyczuła, że rozmowa właśnie zaczyna iść w złą stronę.
+
+Draco, Pansy i Nott widzieli tylko, że rozmawiają szeptem. Żadne z nich nie mogło usłyszeć słów Hermiony.
+
+
+[C8-M0038]
+===== USER =====
+
+westchnąłem i tylko delikatnie się do niej przytuliłem
+
+
+[C8-M0039]
+===== ASSISTANT =====
+
+Hermiona od razu odwzajemniła objęcie.
+
+Przez chwilę nic nie mówiła. Jedną dłoń położyła mu na plecach, drugą nadal trzymając gdzieś blisko jego ramienia. Nie próbowała go od siebie odsuwać ani wypytywać.
+
+— Dobrze — mruknęła bardzo cicho, tylko dla niego. — To zostańmy po prostu chwilę.
+
+Pansy zerknęła w ich stronę, ale tym razem powstrzymała się od komentarza.
+
+Nott również nic nie powiedział.
+
+Draco patrzył przez moment, wyraźnie świadomy, że napięcie przy stole w dużej mierze zaczęło się od jego zaczepki. Jego mina nadal była uparta, ale już bez wcześniejszej satysfakcji.
+
+Hermiona po kilku sekundach odsunęła głowę tylko tyle, żeby móc spojrzeć Jamesowi w twarz.
+
+— Możemy iść razem — powiedziała cicho. — Nie musisz tu zostawać sam.
+
+
+[C8-M0040]
+===== USER =====
+
+zacząłem również szeptem - Wiesz że wychodzę teraz na słabego...
+
+
+[C8-M0041]
+===== ASSISTANT =====
+
+Hermiona na moment zesztywniała w objęciu, jakby to zdanie naprawdę ją zaskoczyło.
+
+Odsunęła głowę tylko trochę, żeby móc spojrzeć mu w twarz.
+
+— Słabego? — powtórzyła szeptem, marszcząc brwi.
+
+Przez sekundę wyglądała bardziej zirytowana niż zatroskana.
+
+— James, przecież ty właśnie nie rzuciłeś się na niego tylko dlatego, że cię wkurzył.
+
+Zerknęła krótko w stronę Draco, potem wróciła wzrokiem do Jamesa.
+
+— To ma być słabość?
+
+Ściszyła głos jeszcze bardziej.
+
+— Bo jeśli tak to wygląda w twojej głowie, to trochę głupie.
+
+Nie powiedziała tego złośliwie. Raczej bardzo po hermionowemu — bez owijania.
+
+— Malfoy może sobie myśleć, co chce. Pansy też. Nott też. Ja nie będę udawać, że bardziej szanowałabym cię, gdybyś zrobił awanturę tylko po to, żeby nikt nie pomyślał, że odpuściłeś.
+
+Przez chwilę patrzyła mu prosto w oczy.
+
+— A poza tym… — dodała ciszej. — Wcale nie wyglądasz na słabego. Wyglądasz na wkurzonego. To jednak nie to samo.
+
+
+[C8-M0042]
+===== USER =====
+
+Znowu westchnąłem a później bardzo delikatnie chwyciłem ją w talii i ostrożnie podniosłem z ziemi jakby nic nie ważyła na taką wysokości aż nasze oczy były naprzeciwko siebie i po chwili złożyłem na jej ustach bardzo delikatny ale czuły pocałunek
+
+
+[C8-M0043]
+===== ASSISTANT =====
+
+Hermiona wydała z siebie ciche, zaskoczone:
+
+— James—!
+
+Odruchowo złapała go za ramiona, kiedy nagle znalazła się wyżej. Zanim zdążyła powiedzieć coś więcej, pocałunek skutecznie ją uciszył.
+
+Przez krótką chwilę została zupełnie nieruchoma, zaskoczona przede wszystkim tym, że zrobił to tutaj, przy stole Slytherinu i w środku Wielkiej Sali. Potem jednak delikatnie odwzajemniła pocałunek.
+
+Kiedy ich usta się rozdzieliły, jej policzki były już mocno czerwone.
+
+— Ty jesteś niemożliwy… — szepnęła, patrząc mu prosto w oczy.
+
+Kącik jej ust drgnął, ale zaraz zerknęła ponad jego ramieniem na stół.
+
+Pansy patrzyła na nich z wysoko uniesionymi brwiami.
+
+Nott bardzo demonstracyjnie zainteresował się swoim kielichem.
+
+Draco wyglądał, jakby właśnie zobaczył coś, czego absolutnie nie chciał oglądać podczas obiadu.
+
+Hermiona natychmiast zrobiła się jeszcze bardziej czerwona.
+
+— I teraz mnie postaw — dodała szybko szeptem. — Zanim pół Wielkiej Sali zacznie się gapić.
+
+
+[C8-M0044]
+===== USER =====
+
+nie ciągnąłem tego zmiast tego powoli odstawiałem ją na ziemię a potem razem wyszliśmy z wielkiej sali kierując się na następną lekcję
+
+
+[C8-M0045]
+===== ASSISTANT =====
+
+Sprawdzone: 23 czerwca 1995 jest w naszej kampanii piątkiem. 08_CURRENT I ten dzień tygodnia był już wcześniej rozegrany, więc nie trzeba wymyślać nowego planu.
+
+Co ważniejsze, plan jest spójny. W poprzedni rozegrany piątek po obiedzie zostało wprost ustalone: Zaklęcia z Flitwickiem → Historia Magii z Binnsem → Zielarstwo ze Sprout. 01_ARCHIWUM_CZAT_2 Jeszcze wcześniej, 30 września, również po obiedzie James szedł właśnie na Zaklęcia, a potem na Historię Magii i na końcu Zielarstwo. 01_ARCHIWUM_CZAT_1
+
+Dzisiejszy poranek też już zachował ten sam piątkowy układ: Eliksiry → OPCM → Transmutacja → obiad. Czyli nie ma tu sprzeczności. Następną lekcją są Zaklęcia u Flitwicka.
+
+Hermiona jeszcze przez moment była wyraźnie zarumieniona po pocałunku, kiedy razem opuścili Wielką Salę. Dopiero za drzwiami, kiedy obiadowy gwar został trochę z tyłu, wypuściła powietrze i poprawiła torbę na ramieniu.
+
+— Naprawdę musiałeś mnie podnosić przy całym stole? — mruknęła.
+
+Ton miała bardziej zawstydzony niż zły.
+
+Po chwili zerknęła na Jamesa z boku.
+
+— Pansy będzie to pamiętać przez miesiąc.
+
+Korytarzem płynęła już większa grupa czwartoklasistów. Część również zmierzała w stronę sali Zaklęć; kawałek przed nimi szli Harry i Ron, a dalej kilku Krukonów.
+
+Hermiona przez chwilę milczała.
+
+Napięcie z obiadu najwyraźniej jeszcze całkiem z niej nie zeszło, bo po paru krokach odezwała się ciszej:
+
+— I… James?
+
+Spojrzała na niego.
+
+— Nadal jesteś na mnie zły za to, że się wtrąciłam?
+
+Nie próbowała odpowiedzieć za niego ani zgadywać. Po prostu czekała, idąc obok niego w stronę sali Flitwicka.
+
+
+[C8-M0046]
+===== USER =====
+
+zatrzymałem się i spojrzałem jej w oczy
+-Po pierwsze bardzo cię przepraszam.... zapomniałem że ty trochę bardziej przejmujesz się tym co myślą inni
+..
+A jeśli chodzi o to drugie...to uważam że jak mu nic nie zrobię to on nigdy nie przestanie...ale do ciebie nie mam pretensji po prostu jesteś czasm zbyt dobra...
+
+
+[C8-M0047]
+===== ASSISTANT =====
+
+Hermiona zatrzymała się razem z nim i przez chwilę patrzyła mu prosto w oczy.
+
+Na pierwszą część lekko zmarszczyła nos.
+
+— To nie jest tak, że strasznie przejmuję się tym, co wszyscy pomyślą — odpowiedziała ciszej. — Po prostu… kiedy podnosisz mnie przy całej Wielkiej Sali, to trochę trudno udawać, że nikt nie patrzy.
+
+Na policzki znowu wszedł jej delikatny rumieniec.
+
+— I nie musisz mnie za to aż tak przepraszać. Po prostu następnym razem może… uprzedź mnie sekundę wcześniej.
+
+Kiedy przeszedł do Draco, jej mina zrobiła się poważniejsza.
+
+— A z Malfoyem… — westchnęła. — Wiem, że robi to specjalnie. Naprawdę wiem.
+
+Przewróciła lekko oczami.
+
+— On chce, żebyś zareagował. Im bardziej widzi, że cię to rusza, tym bardziej będzie próbował.
+
+Na „zbyt dobra” od razu spojrzała na niego trochę ostrzej.
+
+— I nie jestem „zbyt dobra”.
+
+Krótka pauza.
+
+— Po prostu nie uważam, że jedynym sposobem na zatrzymanie idioty jest zrobienie mu krzywdy.
+
+Po chwili dodała, już ciszej:
+
+— Ale też nie oczekuję, że będziesz wszystko po prostu znosił. Jeśli chcesz mu odpowiedzieć, odpowiedz. Tylko… nie rób czegoś, czego potem sam będziesz żałował dlatego, że Malfoy wiedział, który guzik nacisnąć.
+
+Zerknęła w stronę korytarza, którym uczniowie dalej zmierzali na Zaklęcia, a potem z powrotem na Jamesa.
+
+— I tak, nadal uważam, że czasem jesteś za bardzo przekonany, że wszystko trzeba rozwiązać siłą. — Kącik jej ust drgnął. — A ty możesz nadal uważać, że ja jestem czasem za dobra. Chyba przeżyjemy.
+
+
+[C8-M0048]
+===== USER =====
+
+delkatnie chwyciłem za jej policzki i oparłem czoło o jej czoło - Oczywiście że wszyscy patrzą bo jesteś bardzo piękna...ale dobrze następnym razem najpierw zapytam....ale to mnei drażni...jak mówią coś omnie nie ważne...ale jeśli chodzi o Ciebie i moją rodzinę....to nie mogę mówić że to nie ważne i to ignorować...
+
+
+[C8-M0049]
+===== ASSISTANT =====
+
+Hermiona odruchowo zrobiła się trochę czerwona na „bardzo piękna”, ale tym razem nie odwróciła wzroku. Została tak blisko, z czołem opartym o jego.
+
+— To akurat było bardzo sprytne — mruknęła. — Najpierw mnie zawstydzić, a potem obiecać, że następnym razem zapytasz.
+
+Kącik jej ust drgnął, ale kiedy wspomniał o rodzinie, spoważniała.
+
+— Wiem, że dla ciebie to nie jest to samo — powiedziała ciszej. — Jak ktoś gada o tobie, możesz to olać. Ale jak dotyka kogoś, na kim ci zależy… wtedy już nie potrafisz.
+
+Przez chwilę patrzyła mu prosto w oczy.
+
+— I nie mówię ci, że masz udawać, że nic cię nie obchodzi. To byłoby bez sensu.
+
+Lekko zmarszczyła brwi.
+
+— Tylko nie chcę, żeby Malfoy mógł tobą sterować jednym słowem. Bo wtedy to on decyduje, kiedy się wkurzysz i co zrobisz.
+
+Po sekundzie dodała już trochę ciszej:
+
+— A jeśli chodzi o mnie… możesz mnie bronić. Tylko czasem pozwól też mnie samej zdecydować, kiedy naprawdę potrzebuję obrony.
+
+I po krótkiej pauzie, z lekkim rumieńcem:
+
+— A to o byciu piękną nadal było przesadzone. Ale możesz mówić dalej.
+
+
+[C8-M0050]
+===== USER =====
+
+Widząc jej rumieniec nie mogłem powstrzymać uśmiechu -
+..... chyba nie mogę rozmawiać na poważne tematy gdy ty wygladasz tak uroczo.....
+
+
+[C8-M0051]
+===== ASSISTANT =====
+
+Hermiona zmrużyła oczy, ale rumieniec tylko zrobił się odrobinę mocniejszy.
+
+— Och, świetnie — mruknęła. — Czyli teraz to moja wina, że nie potrafisz się skupić?
+
+Mimo słów kącik jej ust wyraźnie drgnął.
+
+— Bardzo wygodne, Brown.
+
+Przez chwilę próbowała utrzymać poważną minę, ale ostatecznie sama lekko się uśmiechnęła.
+
+— I właśnie dlatego nie powinieneś używać takich argumentów podczas poważnych rozmów. To jest oszustwo.
+
+Po sekundzie dodała ciszej:
+
+— …ale nadal możemy dokończyć tę rozmowę później.
+
+Zerknęła w stronę korytarza.
+
+— Bo jeżeli przez to spóźnimy się do Flitwicka, to tym razem naprawdę nie będę brała winy za mój „uroczy wygląd”.
+
+
+[C8-M0052]
+===== USER =====
+
+pokiwałem głową -a mówiłem ci już dzisiaj że masz bardzo śliczne piegi, a gdy się rumienisz to bardzo ładnie są podkreślone....?
+
+
+[C8-M0053]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego z miną, która przez dobrą sekundę próbowała być oburzona.
+
+Nie udało się.
+
+Rumieniec tylko pogłębił się jeszcze bardziej.
+
+— Nie — odpowiedziała, trochę za szybko. — Tego akurat dzisiaj jeszcze nie mówiłeś.
+
+Przewróciła oczami, ale uśmiech wyraźnie jej się wymknął.
+
+— I przestań zwracać uwagę na każdą rzecz, przez którą robię się jeszcze bardziej czerwona.
+
+Po chwili dodała, już ciszej:
+
+— To jest kompletnie nieuczciwe.
+
+Zerknęła na niego spod brwi.
+
+— A teraz naprawdę chodźmy, zanim stwierdzisz jeszcze, że moje uszy też robią się uroczo czerwone.
+
+
+[C8-M0054]
+===== USER =====
+
+kiwnąłem głową a potem odsunąłem się od niej trochę chwyciłem ją za rękę i ruszyliśmy dalej
+
+
+[C8-M0055]
+===== ASSISTANT =====
+
+Hermiona ruszyła obok niego bez protestu, splatając z nim palce.
+
+Przez kilka kroków nic nie mówiła. Rumieniec powoli schodził jej z policzków, choć co jakiś czas zerkała na Jamesa z ukosa, jakby nadal podejrzewała, że zaraz wymyśli kolejny komplement tylko po to, żeby znowu ją zawstydzić.
+
+— Wreszcie — mruknęła po chwili. — Pięć minut rozmowy i udało nam się ruszyć może dziesięć metrów.
+
+W jej głosie było już jednak więcej rozbawienia niż irytacji.
+
+Korytarz przed salą Zaklęć zaczynał się zapełniać. Kilku uczniów stało już pod drzwiami, rozmawiając półgłosem. Hermiona zatrzymała się razem z Jamesem niedaleko wejścia i poprawiła torbę na ramieniu.
+
+— I żadnego rozpraszania mnie na lekcji — dodała, zerkając na niego podejrzliwie. — Przynajmniej przez pierwsze pięć minut.
+
+
+[C8-M0056]
+===== USER =====
+
+-Oczywiście moja ukochana Hermiono...powiedziałem i bardzo delikatnie poprawiłem jej włosy
+
+
+[C8-M0057]
+===== ASSISTANT =====
+
+Hermiona na moment przymknęła oczy, kiedy poprawił jej włosy, a potem spojrzała na niego z lekkim uśmiechem.
+
+— „Ukochana Hermiono”… — powtórzyła półgłosem. — Czyli jednak postanowiłeś mnie rozpraszać jeszcze przed lekcją.
+
+Nie odsunęła się jednak. Przeciwnie, przez sekundę została blisko, po czym ścisnęła lekko jego dłoń.
+
+— Ale to ci daruję.
+
+W tej samej chwili drzwi sali otworzyły się i profesor Flitwick wychylił się na korytarz.
+
+— Czwarty rok! Zapraszam, zapraszam! Nie stójcie w przejściu!
+
+Hermiona od razu wyprostowała się odrobinę i spojrzała na Jamesa.
+
+— Pięć minut — przypomniała mu z udawaną surowością, po czym ruszyła razem z resztą uczniów do środka.
+
+
+[C8-M0058]
+===== USER =====
+
+pokiwałem głową i ruszyłem za nią
+
+
+[C8-M0059]
+===== ASSISTANT =====
+
+Hermiona weszła do sali kilka kroków przed Jamesem i zajęła miejsce przy jednej z ławek, odkładając torbę obok krzesła. Kiedy James podszedł bliżej, zerknęła na niego i wskazała ruchem głowy wolne miejsce obok siebie.
+
+Na stanowiskach czekały niewielkie drewniane obręcze, kilka piór oraz po trzy metalowe kule różnej wielkości.
+
+Flitwick zamknął drzwi, wspiął się na swój zwyczajowy stos książek i klasnął w dłonie.
+
+— Dobrze! Ostatni piątek roku, więc nie zamierzam udawać, że rozpoczniemy dziś zupełnie nowy dział.
+
+Po sali przeszedł cichy pomruk ulgi.
+
+— Ale — dodał natychmiast, unosząc palec — to nie znaczy, że będzie łatwo.
+
+Kilka osób jęknęło.
+
+Flitwick uśmiechnął się szeroko.
+
+— Dzisiaj połączymy kilka rzeczy, które ćwiczyliście w tym roku: lewitację, kontrolę toru, zmianę prędkości i, przede wszystkim, precyzję.
+
+Machnął różdżką.
+
+Jedna z metalowych kul poderwała się z jego biurka, przemknęła przez dwie obręcze, zatrzymała się nagle w powietrzu, cofnęła dokładnie tym samym torem, a na końcu miękko wylądowała na blacie.
+
+— Nie interesuje mnie, kto zrobi to najszybciej. Interesuje mnie, kto zrobi to najlepiej.
+
+Hermiona od razu pochyliła się trochę do przodu, przyglądając się układowi.
+
+Potem rzuciła Jamesowi krótkie spojrzenie.
+
+— Pięć minut — przypomniała mu szeptem, z ledwie widocznym uśmiechem.
+
+
+[C8-M0060]
+===== USER =====
+
+pokręciłem głową i przez całą lekcję jej nie przeszkadzałem skupiając się na poleceniach
+
+
+[C8-M0061]
+===== ASSISTANT =====
+
+Przez całą lekcję Hermiona rzeczywiście mogła skupić się na swoim zadaniu bez żadnych dodatkowych zaczepień.
+
+Flitwick stopniowo podnosił poziom trudności. Najpierw jedna kula i dwie obręcze, później zmiana kierunku w połowie lotu, następnie utrzymanie drugiej kuli w powietrzu, podczas gdy pierwsza przechodziła przez wyznaczony tor.
+
+James wykonywał kolejne polecenia bez zbędnego kombinowania. Przy bardziej złożonych etapach Flitwick kilka razy zatrzymał się przy jego stanowisku, obserwując precyzję ruchów.
+
+— Dobrze, panie Brown. Właśnie tak. Nie szybciej — dokładniej.
+
+Hermiona pracowała obok równie konsekwentnie. Przy jednym z trudniejszych przejść jej mniejsza kula zahaczyła lekko o obręcz, przez co zacisnęła usta i od razu spróbowała ponownie. Za drugim razem przeszła czysto.
+
+Pod koniec zajęć Flitwick kazał wszystkim odłożyć różdżki.
+
+— Bardzo dobrze! I proszę zapamiętać jedną rzecz na przyszły rok: jeżeli zaklęcie działa tylko wtedy, kiedy wszystko wokół was jest idealnie spokojne, to znaczy, że jeszcze go nie opanowaliście.
+
+Kilka osób zaczęło już pakować rzeczy.
+
+Hermiona zamknęła książkę, schowała różdżkę i dopiero wtedy spojrzała na Jamesa z lekkim uśmiechem.
+
+— Przyznaję — powiedziała ciszej. — Wytrzymałeś całą lekcję.
+
+Po chwili dodała:
+
+— Jestem pod wrażeniem.
+
+Następna była Historia Magii z Binnsem.
+
+
+[C8-M0062]
+===== USER =====
+
+-Dziekuje....odpowiedziałem z uśmiechem
+
+
+[C8-M0063]
+===== ASSISTANT =====
+
+Hermiona odwzajemniła uśmiech.
+
+— Nie przyzwyczajaj się — mruknęła. — Następnym razem poprzeczka może być wyżej.
+
+Zarzuciła torbę na ramię i ruszyła wraz z resztą uczniów na korytarz. Po chwili zerknęła jeszcze na Jamesa.
+
+— Chociaż… cała lekcja bez przeszkadzania mi to już całkiem imponujący wynik.
+
+Przed salą Historii Magii było znacznie spokojniej. Uczniowie wchodzili bez większego pośpiechu, a z wnętrza już dobiegał jednostajny głos profesora Binnsa, jakby wykład zaczął się bez najmniejszego zainteresowania tym, czy ktokolwiek zdążył usiąść.
+
+Hermiona westchnęła cicho.
+
+— No dobrze. Teraz prawdziwy test wytrzymałości.
+
+Weszła do środka i zaczęła przygotowywać pergamin, pióro oraz podręcznik.
+
+
+[C8-M0064]
+===== USER =====
+
+ja zająłem miejsce obok niej - Czyli Panna Granger nawet w ostatni dzień zajęć zamierza pisać notatki?
+
+
+[C8-M0065]
+===== ASSISTANT =====
+
+Hermiona nawet nie podniosła od razu wzroku znad pergaminu. Na „Panna Granger” tylko kącik jej ust lekko drgnął — to określenie było między nimi na tyle zwyczajne, że nie robiło już na niej większego wrażenia.
+
+— Oczywiście — odpowiedziała, maczając pióro w atramencie. — To, że to ostatni dzień zajęć, nie oznacza, że Binns nagle przestanie mówić coś, co może później być przydatne.
+
+Dopiero wtedy zerknęła na Jamesa.
+
+— Poza tym ktoś musi mieć porządne notatki, kiedy reszta klasy za dziesięć minut zacznie wyglądać, jakby walczyła o życie.
+
+Kilka ławek dalej Ron właśnie przeciągle ziewnął.
+
+Hermiona spojrzała w tamtą stronę i uniosła brew.
+
+— Albo za dwie.
+
+
+[C8-M0066]
+===== USER =====
+
+Może racja...ale ja w tym czasie będę dokładnie ci się przyglądać...
+
+
+[C8-M0067]
+===== ASSISTANT =====
+
+Hermiona zatrzymała pióro w połowie pierwszego zdania i spojrzała na niego z boku.
+
+— Oczywiście, że będziesz — mruknęła, jakby właśnie usłyszała coś całkowicie przewidywalnego.
+
+Uniósł się jej lekki uśmiech.
+
+— Tylko spróbuj się przy tym nie gapić tak bezczelnie, żeby Binns znowu uznał, że twoje „notatki” są ciekawsze od jego wykładu.
+
+Po chwili pochyliła się z powrotem nad pergaminem.
+
+— I jak już zamierzasz się przyglądać, to przynajmniej nie przeszkadzaj mi pisać.
+
+Kilka sekund później, nadal notując, dodała ciszej:
+
+— Chociaż znając ciebie, to i tak pewnie uznasz to za część rozrywki.
+
+
+[C8-M0068]
+===== USER =====
+
+ja po prostu oparłem głowę p jedną rękę i jak powiedziałem tal zrobiłem wbiłem wzrok w twarz Herniony
+
+
+[C8-M0069]
+===== ASSISTANT =====
+
+Hermiona wytrzymała może kilkanaście sekund.
+
+Najpierw próbowała zwyczajnie pisać dalej, ale w końcu jej pióro zwolniło. Zerknęła na Jamesa kątem oka.
+
+Potem drugi raz.
+
+Za trzecim odłożyła na moment pióro i odwróciła głowę w jego stronę.
+
+— Naprawdę? — szepnęła, walcząc z uśmiechem. — Tak po prostu będziesz siedział i patrzył mi w twarz przez całą lekcję?
+
+Uniosła lekko brew.
+
+— Nawet nie próbujesz udawać, że słuchasz Binnsa.
+
+Z przodu sali monotonny głos profesora ciągnął się bez najmniejszej przerwy.
+
+Hermiona znów spojrzała na Jamesa, tym razem odrobinę dłużej.
+
+— To jest trochę rozpraszające, wiesz? — dodała ciszej. — Zwłaszcza kiedy siedzisz teraz tuż obok, a nie pół sali dalej.
+
+
+[C8-M0070]
+===== USER =====
+
+westchnąłem -Jeśli naprawdę ci to przezzkdza to po prostu powiedz...
+
+
+[C8-M0071]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego, a jej mina od razu trochę złagodniała.
+
+— Nie powiedziałam, że chcę, żebyś przestał — szepnęła. — Powiedziałam tylko, że mnie rozpraszasz.
+
+Przez chwilę obracała pióro między palcami.
+
+— To nie jest dokładnie to samo.
+
+Zerknęła na swoje notatki, potem znów na Jamesa.
+
+— Trochę mi przeszkadza w pisaniu… ale nie na tyle, żebym chciała ci zabronić patrzeć.
+
+Kącik jej ust uniósł się lekko.
+
+— Tylko jeżeli przez ciebie zgubię trzy daty pod rząd, będziesz mi potem pomagał je uzupełniać.
+
+Po czym wróciła do notowania, choć delikatny uśmiech jeszcze przez chwilę nie znikał z jej twarzy.
+
+
+[C8-M0072]
+===== USER =====
+
+po jej odpowiedzi na chwilę się do niej przysunąłem i złożyłem delikatny pocałunek na jej policzku a potem wróciłem do poprzedniej pozycji
+
+
+[C8-M0073]
+===== ASSISTANT =====
+
+Hermiona na moment zastygła z piórem nad pergaminem.
+
+Rumieniec wrócił jej na policzki niemal natychmiast, ale tym razem tylko zerknęła na Jamesa z boku.
+
+— To się chyba liczy jako przeszkadzanie — szepnęła.
+
+Kącik jej ust wyraźnie drgnął.
+
+— Ale… wyjątkowo nie będę protestować.
+
+Po chwili znów pochyliła się nad notatkami, próbując wrócić do wykładu Binnsa. Przez pierwszych kilka sekund pisała odrobinę wolniej niż wcześniej.
+
+Profesor tymczasem monotonnym głosem ciągnął dalej, kompletnie nieświadomy krótkiej wymiany przy jednej z ławek.
+
+Hermiona po chwili mruknęła jeszcze, nie odrywając wzroku od pergaminu:
+
+— I właśnie straciłam jedną datę. Zapamiętaj.
+
+
+[C8-M0074]
+===== ASSISTANT =====
+
+Hermiona zauważyła skinienie i tylko lekko się uśmiechnęła, po czym wróciła do notatek.
+
+Przez następne minuty naprawdę próbowała już skupić się na wykładzie. Pióro znowu zaczęło poruszać się szybciej po pergaminie, a Binns ciągnął swój monotonny wywód o kolejnych decyzjach Ministerstwa i sporach z olbrzymami.
+
+Od czasu do czasu Hermiona zerkała krótko na Jamesa, ale tym razem nic nie mówiła.
+
+Lekcja mijała spokojnie, aż w końcu Binns przeszedł do podsumowania tematu, nadal dokładnie tym samym tonem, jakby nie zauważył, że połowa klasy już tylko czeka na koniec.
+
+Hermiona dopisała ostatnią linijkę i odstawiła pióro.
+
+— Jedna data — przypomniała cicho, zerkając na Jamesa. — Nadal mi ją jesteś winien.
+
+
+[C8-M0075]
+===== USER =====
+
+-Dobrze Panno Granger później wspólnie ją ustalimy...a teraz przypomnijmy sobie plan.... widzimy się po kolacji...ale jak zatęsknisz wcześniej to też możesz mnie znaleźć...powiedziałem cicho
+
+
+[C8-M0076]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego z lekkim uśmiechem.
+
+— Pamiętam, panie Brown — szepnęła. — Jeszcze Zielarstwo, potem mam trochę czasu dla siebie, a po kolacji widzimy się w Pokoju Życzeń.
+
+Przez moment poprawiała pergaminy, układając je równo.
+
+— Bez nauki. Bez treningu — dodała, zerkając na niego znacząco. — To też pamiętam.
+
+Na ostatnie zdanie uniosła lekko brew.
+
+— A jeśli zatęsknię wcześniej… — kącik jej ust drgnął — …to rozważę możliwość odnalezienia cię.
+
+Po chwili ciszej dodała:
+
+— Nie obiecuję, że będę tęsknić po pięciu minutach.
+
+Zaczęła pakować notatki do torby, przygotowując się do wyjścia na ostatnią lekcję dnia.
+
+
+[C8-M0077]
+===== USER =====
+
+też szybko się spakowałem i ruszyłem za nią ostatnia lekcja również minęła bardzo szybko i znowu się pakowaliśmy
+
+
+[C8-M0078]
+===== ASSISTANT =====
+
+Profesor Sprout klasnęła w dłonie, zwracając uwagę ostatnich uczniów jeszcze stojących przy stołach.
+
+— Dobrze, wystarczy na dziś! Zostawcie donice tam, gdzie są, rękawice do skrzynek i możecie iść. I nie chcę w poniedziałek żadnych skarg, że ktoś zabrał coś ze szklarni „na pamiątkę”.
+
+Kilka osób parsknęło śmiechem.
+
+Hermiona wsunęła ostatni pergamin do torby, zamknęła ją i zarzuciła na ramię. Przez chwilę spojrzała na Jamesa, jakby właśnie przypomniała sobie ich wcześniejszą rozmowę.
+
+— No dobrze — powiedziała z lekkim uśmiechem. — Oficjalnie koniec lekcji.
+
+Na zewnątrz szklarni część uczniów od razu ruszała w stronę zamku, inni zostawali jeszcze na błoniach. Hermiona wyszła razem z Jamesem i po kilku krokach zatrzymała się.
+
+— Czyli teraz zgodnie z planem każde z nas robi swoje aż do kolacji.
+
+Przechyliła lekko głowę.
+
+— A potem Pokój Życzeń.
+
+Po chwili dodała, z odrobiną zaczepności:
+
+— Chyba że oczywiście przez ten czas zdążysz zatęsknić pierwszy.
+
+
+[C8-M0079]
+===== USER =====
+
+-oczywiście że zatęsknię piwrwszy...ale nie chcę zabierać ci twojego czasu.... więc widzimy się po kolacji....
+
+
+[C8-M0080]
+===== ASSISTANT =====
+
+Hermiona uśmiechnęła się lekko.
+
+— Wiem — odpowiedziała. — I właśnie dlatego cię za chwilę zostawię, zanim jednak spróbujesz przekonać mnie, że moje „trochę czasu dla siebie” powinno trwać trzy minuty.
+
+Przesunęła torbę wygodniej na ramieniu, ale jeszcze przez moment została na miejscu.
+
+— Widzimy się po kolacji.
+
+Po krótkim wahaniu nachyliła się i delikatnie pocałowała Jamesa w policzek.
+
+— Żebyś jakoś przeżył to straszne rozstanie.
+
+Odsunęła się z rozbawionym błyskiem w oczach.
+
+— I nie szukaj mnie po pięciu minutach.
+
+Po czym ruszyła w stronę zamku, zostawiając Jamesowi popołudnie zgodnie z ich wcześniejszym planem.
+
+
+[C8-M0081]
+===== USER =====
+
+westchnąłem a potem szybko ruszyłem w stronę Pokoju wspólnego Slytherin'u a gdy byłem już na miejscu nie wszedłem do środka tylko czekałem kawałek przed
+
+
+[C8-M0082]
+===== ASSISTANT =====
+
+Korytarz prowadzący do wejścia do pokoju wspólnego Slytherinu był chłodny i półmroczny jak zwykle. Za grubymi kamiennymi ścianami dało się wyczuć wilgoć jeziora, a od czasu do czasu przez przejście przemykał ktoś z młodszych Ślizgonów wracający po zajęciach.
+
+James stał kawałek od ukrytego wejścia, nie wchodząc do środka.
+
+Po kilku minutach od strony schodów rozległy się głosy. Najpierw zza zakrętu wyszła Pansy, a kilka kroków za nią Theodore. Draco nie było z nimi.
+
+Pansy zauważyła Jamesa praktycznie od razu. Zwolniła i spojrzała najpierw na niego, potem na wejście do pokoju wspólnego.
+
+— Brown?
+
+Theodore również zatrzymał na nim wzrok.
+
+— Zgubiłeś hasło? — rzucił spokojnie.
+
+Pansy parsknęła.
+
+— Albo czeka na kogoś. To brzmi bardziej podejrzanie.
+
+
+[C8-M0083]
+===== USER =====
+
+-Pamietam hasło...powiedziałem chłodno
+
+
+[C8-M0084]
+===== ASSISTANT =====
+
+Pansy uniosła obie brwi na jego chłodny ton.
+
+— No dobrze — mruknęła. — To przynajmniej jedną teorię możemy skreślić.
+
+Theodore spojrzał na Jamesa trochę uważniej, ale nie drążył od razu.
+
+Pansy zerknęła jeszcze raz na wejście do pokoju wspólnego, potem z powrotem na niego.
+
+— Czyli jednak na kogoś czekasz.
+
+Zawiesiła głos na moment.
+
+— Tylko błagam, nie mów, że znowu na Granger, bo wtedy zacznę się zastanawiać, czy wy w ogóle potraficie spędzić godzinę osobno.
+
+Theodore rzucił jej krótkie spojrzenie.
+
+— Parkinson.
+
+— Co? — odbiła natychmiast. — Pytam tylko.
+
+Za nimi korytarz nadal pozostawał pusty. Draco wciąż się nie pojawiał.
+
+
+[C8-M0085]
+===== USER =====
+
+Nie odpowiedziałem tylko zacisnąłem pięści
+
+
+[C8-M0086]
+===== ASSISTANT =====
+
+Pansy zauważyła zaciśnięte pięści.
+
+Jej uśmiech zgasł odrobinę. Przez chwilę patrzyła na Jamesa, najwyraźniej zastanawiając się, czy jeszcze coś dorzucić.
+
+Tym razem odpuściła.
+
+— Dobra — mruknęła tylko i odwróciła się w stronę wejścia do pokoju wspólnego.
+
+Theodore zatrzymał na Jamesie spojrzenie sekundę dłużej.
+
+— Parkinson ma czasem fatalne wyczucie momentu.
+
+— Słyszę cię, Nott.
+
+— Wiem.
+
+Pansy rzuciła mu urażone spojrzenie, po czym podała hasło i przejście zaczęło się otwierać.
+
+Theodore nie ruszył od razu. Spojrzał jeszcze raz na Jamesa.
+
+— Jeżeli na kogoś czekasz, to raczej nie na nas.
+
+Nie brzmiało to jak pytanie. Po chwili ruszył za Pansy do środka.
+
+
+[C8-M0087]
+===== USER =====
+
+ja nadal czekałem
+
+
+[C8-M0088]
+===== ASSISTANT =====
+
+Minęło jeszcze kilka minut.
+
+Przez korytarz przewinęło się paru Ślizgonów wracających ze szklarni i innych części zamku. Niektórzy rzucali Jamesowi krótkie spojrzenia, ale nikt się nie zatrzymywał.
+
+W końcu zza dalszego zakrętu dobiegły kolejne kroki.
+
+Tym razem pojawił się Draco.
+
+Szedł sam, z torbą przewieszoną przez ramię. Gdy zauważył Jamesa stojącego przed wejściem, zwolnił odruchowo.
+
+Przez moment nic nie powiedział.
+
+Potem podszedł bliżej, ale zatrzymał się w pewnej odległości.
+
+— Brown.
+
+Jego wzrok przesunął się po Jamesie, potem na wejście do pokoju wspólnego.
+
+— Parkinson i Nott już weszli?
+
+Krótka pauza.
+
+Draco zmrużył lekko oczy.
+
+— Czy ty przypadkiem nie czekasz tutaj na mnie?
+
+
+[C8-M0089]
+===== USER =====
+
+kiwnąłem głową a potem nagle zrobiłem krok w przód i złapałem go za kołnierz -OSTATNI RAZ ZROBIŁEŚ COŚ TAKIEGO.....NIGDY WIĘCEJ NIE PRÓBUJ TEGO PRZY NICH A PRZY HERMIONIE NAWET O TYM NIE MYŚL...
+
+
+[C8-M0090]
+===== ASSISTANT =====
+
+Draco zesztywniał natychmiast.
+
+Przez ułamek sekundy na jego twarzy pojawiło się czyste zaskoczenie, ale bardzo szybko ustąpiło miejsca wściekłości. Jedną ręką złapał Jamesa za nadgarstek trzymający jego kołnierz.
+
+— Puść mnie, Brown — syknął.
+
+Nie cofnął się. Nawet przy różnicy w sile i sytuacji jego duma nie pozwalała mu wyglądać, jakby się przestraszył.
+
+— I nie wrzeszcz na mnie, jakbym był jakimś pierwszorocznym.
+
+Jego druga ręka przesunęła się odruchowo bliżej miejsca, gdzie trzymał różdżkę, choć jeszcze jej nie wyciągnął.
+
+— Wiem dokładnie, o co ci chodzi.
+
+Zmrużył oczy.
+
+— Ale przypomnę ci coś, skoro najwyraźniej zapomniałeś: jej nie przeszkadza, kiedy mówię „Granger”. Tobie przeszkadza.
+
+Zacisnął mocniej palce na jego nadgarstku.
+
+— Więc nie próbuj udawać, że robisz to w jej imieniu.
+
+Po krótkiej pauzie dodał chłodno:
+
+— Chcesz, żebym przestał robić to specjalnie, żeby cię wkurzyć? To powiedz właśnie to. Ale nie będziesz mnie łapał za szaty i mówił mi, jak wolno mi się do niej odzywać.
+
+
+[C8-M0091]
+===== USER =====
+
+złapałem go mocnien ignorując jego chwyt - MÓWIĘ CI ŻE MASZ TEGO NIE ROBIĆ I MASZ TEGO NIW ROBIĆ...
+
+
+[C8-M0092]
+===== ASSISTANT =====
+
+Draco szarpnął się mocniej, próbując wyrwać kołnierz z uchwytu Jamesa.
+
+Tym razem z jego twarzy zniknęło już wszystko poza czystą złością.
+
+— NIE BĘDZIESZ MI ROZKAZYWAŁ! — warknął równie głośno.
+
+Jego ręka błyskawicznie zeszła do różdżki. Nie rzucił zaklęcia, ale wysunął ją i uniósł między nimi, wyraźnie gotowy użyć jej, jeśli James nie puści.
+
+— Myślisz, że jak złapiesz mnie za kołnierz i zaczniesz wrzeszczeć, to będę potakiwał jak Crabbe?!
+
+Zacisnął szczękę.
+
+— Powiedziałem ci już: wiem, że robiłem to specjalnie. I może przestanę, bo zaczęło mnie to nudzić.
+
+Jego oczy zwęziły się.
+
+— Ale nie dlatego, że ty mi kazałeś.
+
+Znów spróbował wyrwać się z chwytu.
+
+— Puść. Mnie. Brown.
+
+Głos niósł się po kamiennym korytarzu znacznie dalej, niż zapewne którekolwiek z nich by chciało. Jeśli ktoś właśnie zmierzał w stronę lochów, miał sporą szansę usłyszeć awanturę, zanim jeszcze zobaczył jej źródło.
+
+
+[C8-M0093]
+===== USER =====
+
+Widząc że wyciągnął różdżkę lekko się zaśmiałem - A miałem cię za o inteligentnego...
+
+
+[C8-M0094]
+===== ASSISTANT =====
+
+Draco zmrużył oczy.
+
+Przez sekundę wyglądał, jakby ten śmiech zirytował go jeszcze bardziej niż sam chwyt za kołnierz.
+
+— Och, zamknij się, Brown.
+
+Różdżka nadal tkwiła w jego dłoni, uniesiona między nimi, ale Draco nie rzucił zaklęcia. Zamiast tego szarpnął kołnierzem jeszcze raz.
+
+— Właśnie dlatego ją wyciągnąłem. Bo ty najwyraźniej uznałeś, że rozmowa polega na wrzeszczeniu komuś w twarz i trzymaniu go za szaty.
+
+Jego usta wykrzywiły się w pogardliwym grymasie.
+
+— I przestań robić tę minę, jakbyś już wygrał.
+
+Zacisnął mocniej palce na różdżce.
+
+— Chcesz, żebym nie używał „Granger” specjalnie po to, żeby cię drażnić? Dobrze. Dotarło do mnie za pierwszym razem.
+
+Potem dodał, wyraźnie przez zaciśnięte zęby:
+
+— Ale jeśli jeszcze raz złapiesz mnie tak przy Parkinson albo Notcie, to nie licz, że będę stał grzecznie tylko dlatego, że jesteś silniejszy.
+
+
+[C8-M0095]
+===== USER =====
+
+odstawiłem go na ziemię lekko go odpychając -Następnym razem po prostu zacznę cię tłuc....powiedziałem a potem odwróciłem się do niego plecami i rzuciłem Hasło
+
+
+[C8-M0096]
+===== ASSISTANT =====
+
+Draco zachwiał się pół kroku po odepchnięciu, ale szybko odzyskał równowagę.
+
+Przez moment patrzył Jamesowi w plecy z twarzą ściągniętą ze złości.
+
+— Tak, jasne — rzucił za nim ostro. — Bo to zawsze świetnie wygląda, kiedy ktoś musi udowadniać swoją rację pięściami.
+
+Brzmiał bardziej wściekle niż przestraszony.
+
+Gdy James podał hasło, ukryte wejście do pokoju wspólnego zaczęło się otwierać.
+
+Draco schował różdżkę, ale zanim ruszył za nim, poprawił brutalnie kołnierz szaty i dorzucił jeszcze:
+
+— I żeby było jasne, Brown… jeśli naprawdę następnym razem mnie uderzysz, to nie będę stał i czekał na drugi raz.
+
+Po czym również ruszył w stronę wejścia, nadal wyraźnie nabuzowany po całej konfrontacji.
+
+
+[C8-M0097]
+===== USER =====
+
+-Żeby była jasność po pierwszym ciosie nastąpi koniec...rzuciłem mu i po chwili oboje już byliśmy w pokoju wspólnym
+
+
+[C8-M0098]
+===== ASSISTANT =====
+
+Draco wszedł zaraz za nim, wciąż poprawiając przekrzywiony kołnierz.
+
+Na ostatnią uwagę tylko prychnął.
+
+— Oczywiście, Brown. W twojej głowie wszystko kończy się po jednym ruchu.
+
+W pokoju wspólnym Pansy siedziała już na jednym z foteli, a Nott przeglądał coś przy stoliku. Oboje podnieśli wzrok niemal jednocześnie.
+
+Pansy najpierw spojrzała na Jamesa, potem na Draco — i na jego kołnierz.
+
+— Co wy znowu zrobiliście?
+
+— Nic — odburknął Draco natychmiast.
+
+Nott spojrzał na niego znad pergaminu.
+
+— Wyglądasz bardzo „nic”.
+
+Draco rzucił mu ostre spojrzenie.
+
+— Zamknij się, Nott.
+
+Pansy zmrużyła oczy, wyraźnie już zainteresowana.
+
+— Brown stał przed wejściem, czekał na kogoś, potem ty przychodzisz wyglądając, jakby ktoś próbował cię powiesić za szatę…
+
+Draco poprawił kołnierz jeszcze raz.
+
+— Parkinson.
+
+— No co? Przecież mam oczy.
+
+Nott nie dopytywał. Tylko spojrzał krótko od Draco do Jamesa i wrócił do pergaminu, jakby uznał, że jeśli któryś z nich będzie chciał coś powiedzieć, zrobi to sam.
+
+
+[C8-M0099]
+===== USER =====
+
+ja tylko lekko się usmiechnąłem -Draco ma rację nie wydarzyło się nic czy warto było by się pochwalić...
+
+
+[C8-M0100]
+===== ASSISTANT =====
+
+Pansy spojrzała na Jamesa, potem na Draco i znowu na Jamesa.
+
+— Aha — powiedziała powoli. — Czyli wydarzyło się coś, czym nie warto się chwalić.
+
+Draco rzucił jej natychmiast ostrzegawcze spojrzenie.
+
+— Parkinson.
+
+— No już dobrze.
+
+Pansy uniosła dłonie w niewinnym geście, ale uśmiech mówił jasno, że zapamiętała temat.
+
+Nott przez chwilę przyglądał się Draco, szczególnie jego wciąż lekko przekrzywionemu kołnierzowi.
+
+— Czyli standardowy piątek — stwierdził sucho.
+
+Draco prychnął i ruszył głębiej do pokoju wspólnego.
+
+— Jeśli Brown chce opowiadać bajki o swoich wielkich zwycięstwach, niech sobie opowiada.
+
+Pansy uniosła brew.
+
+— Przecież właśnie powiedział, że nie ma czym się chwalić.
+
+Draco zatrzymał się na pół kroku.
+
+— Parkinson, naprawdę chcesz dziś sprawdzać moją cierpliwość?
+
+— Nie. — Uśmiechnęła się szerzej. — Ale skoro pytasz, to trochę.
+
+Nott tylko pokręcił głową i wrócił do swojego pergaminu, zostawiając Draco bez dalszego wsparcia.
+
+
+[C8-M0101]
+===== USER =====
+
+ja ruszyłem w przód i usiadłem na jednym z foteli
+
+
+[C8-M0102]
+===== ASSISTANT =====
+
+Pansy odprowadziła Jamesa wzrokiem, kiedy usiadł, ale tym razem nie skomentowała tego od razu.
+
+Draco zajął miejsce po drugiej stronie pokoju wspólnego, wyraźnie dalej niż zwykle od Jamesa. Nadal był podenerwowany; rzucił torbę obok fotela trochę mocniej, niż było to konieczne, po czym usiadł i przez chwilę poprawiał kołnierz szaty.
+
+Nott zerknął znad pergaminu.
+
+— Wygląda, jakbyście obaj postanowili bardzo dojrzale zakończyć dzień.
+
+Draco spojrzał na niego spode łba.
+
+— Mówiłem ci już, żebyś się zamknął.
+
+— Wiem.
+
+Pansy prychnęła cicho, ale nie ciągnęła tematu. Sięgnęła po książkę leżącą obok fotela i zaczęła ją przeglądać.
+
+Przez kilka minut w pokoju wspólnym było zaskakująco spokojnie.
+
+Od czasu do czasu ktoś przechodził między dormitoriami a wyjściem, kilka młodszych osób rozmawiało przy jednym ze stolików, a zza wysokich szyb wpadało zielonkawe światło jeziora.
+
+Draco w końcu przestał zerkać w stronę Jamesa i zajął się własnymi rzeczami, choć napięcie między nimi nadal było wyraźne.
+
+
+[C8-M0103]
+===== USER =====
+
+ja widząc że trochę ochłonął zamknąłem oczy i przeszedłem w tryb czuwania
+
+
+[C8-M0104]
+===== ASSISTANT =====
+
+Zamknięcie oczu nie odcięło Jamesa od pokoju wspólnego. Jak zwykle podczas czuwania ciało pozostawało nieruchome, ale dźwięki dookoła nadal były wyraźne.
+
+Przez pierwszych kilka minut nikt go nie zaczepiał.
+
+Słychać było szelest pergaminu Notta, przewracane strony książki Pansy i od czasu do czasu czyjeś kroki na kamiennej posadzce. Draco siedział po drugiej stronie pomieszczenia i przez dłuższą chwilę również się nie odzywał.
+
+W końcu Pansy przerwała ciszę.
+
+— Dobra, Malfoy. Teraz już naprawdę wyglądasz, jakbyś chciał kogoś przekląć.
+
+— Nie zaczynaj — odburknął Draco.
+
+— Nie zaczynam. To obserwacja.
+
+Nott nie podniósł wzroku.
+
+— Bardzo odważna obserwacja.
+
+— Dzięki, Theodore.
+
+Draco prychnął.
+
+— Oboje możecie się ode mnie odczepić.
+
+Potem rozmowa urwała się równie szybko, jak się zaczęła.
+
+Czas płynął spokojnie. Kolejni uczniowie wracali do podziemi, ktoś zaczął partię szachów czarodziejów przy dalszym stoliku, a liczba głosów w pokoju wspólnym powoli rosła wraz ze zbliżającym się wieczorem.
+
+Nikt jednak nie próbował wyciągać Jamesa z czuwania.
+
+
+[C8-M0105]
+===== USER =====
+
+ja po prostu siedziałem czekając na kolację
+
+
+[C8-M0106]
+===== ASSISTANT =====
+
+Minuty ciągnęły się spokojnie.
+
+Pokój wspólny stopniowo coraz bardziej pustoszał, kiedy kolejne grupki uczniów ruszały na kolację. Gwar przy stolikach cichł, szachownice znikały do pudełek, a torby lądowały pod fotelami albo były zabierane do dormitoriów.
+
+Pansy zamknęła w końcu książkę i przeciągnęła się.
+
+— Dobra. Ja idę jeść, zanim zostaną same resztki.
+
+Nott złożył pergamin i również wstał.
+
+Draco podniósł się chwilę później. Kiedy mijał fotel Jamesa, spojrzał na niego przez moment, ale po wcześniejszej konfrontacji nie rzucił żadnej uwagi.
+
+Pansy zatrzymała się przy wyjściu.
+
+— Brown? Kolacja.
+
+Nie czekała jednak na odpowiedź. Cała trójka ruszyła w stronę Wielkiej Sali, zostawiając wybór Jamesowi.
+
+
+[C8-M0107]
+===== USER =====
+
+ja wstałem chwilę po tym i ruszyłem za nimi
+
+
+[C8-M0108]
+===== ASSISTANT =====
+
+Draco, Pansy i Nott szli kilka kroków przed Jamesem. Po wcześniejszej awanturze Draco ani razu się nie odwrócił, a Pansy — mimo że parę razy wyglądała, jakby miała ochotę coś powiedzieć — tym razem zachowała komentarze dla siebie.
+
+Kiedy weszli do Wielkiej Sali, kolacja już się zaczynała. Stoły zapełniały się uczniami, a na półmiskach pojawiło się jedzenie.
+
+Przy stole Gryffindoru Hermiona siedziała już z Harrym i Ronem. Rozmawiała z nimi o czymś, ale kiedy ruch przy wejściu zwrócił jej uwagę, jej wzrok przesunął się w stronę Ślizgonów.
+
+Zauważyła Jamesa praktycznie od razu.
+
+Na moment zatrzymała na nim spojrzenie, a potem lekko się uśmiechnęła — bez wstawania czy wołania go, zgodnie z tym, że mieli zobaczyć się dopiero po kolacji.
+
+Draco, Pansy i Nott tymczasem zajęli swoje zwykłe miejsca przy stole Slytherinu. Draco usiadł nieco sztywniej niż zwykle i od razu sięgnął po jedzenie, najwyraźniej bez zamiaru wracania teraz do tego, co wydarzyło się przed pokojem wspólnym.
+
+
+[C8-M0109]
+===== USER =====
+
+ja również uśmiechnąłem się do Hermiony a potem wyjątkowo zająłem miejsce obok Kruma
+
+
+[C8-M0110]
+===== ASSISTANT =====
+
+Krum od razu zauważył, że James tym razem nie usiadł przy swojej zwyczajowej grupie Ślizgonów, tylko obok niego.
+
+Przesunął nieco półmisek, robiąc więcej miejsca.
+
+— Brown — przywitał go krótko, z lekkim skinieniem głowy.
+
+Spojrzał na niego uważniej.
+
+— Nietypowy wybór miejsca.
+
+Nie brzmiało to podejrzliwie. Raczej jak zwykłe stwierdzenie faktu.
+
+Przez chwilę Viktor nakładał sobie jedzenie, po czym dodał:
+
+— Jutro pewnie wszyscy będą chcieli rozmawiać tylko o Turnieju, więc dziś próbuję jeszcze udawać, że to zwykła kolacja.
+
+Kącik jego ust drgnął minimalnie.
+
+— Jak ci minął dzień?
+
+
+[C8-M0111]
+===== USER =====
+
+-Hmmm ciekawie... prawię zabiłem człowieka.... więc lepiej ty opwidaj.... spędziłeś w Hogwarcie jakieś dziesięć... dziewięć miesięcy....co myślisz o wszystkim?
+
+
+[C8-M0112]
+===== ASSISTANT =====
+
+Krum zatrzymał widelec w połowie drogi do ust.
+
+Spojrzał na Jamesa przez dłuższą chwilę.
+
+— „Prawie zabiłem człowieka” to dość ciekawy sposób na zakończenie tematu — powiedział sucho.
+
+Nie naciskał jednak od razu. Skoro James wyraźnie odbił rozmowę w inną stronę, Viktor po chwili wzruszył ramionami.
+
+— I nie dziewięć czy dziesięć. Bliżej ośmiu miesięcy.
+
+Oparł przedramiona o stół i przez moment zastanawiał się nad odpowiedzią.
+
+— Hogwarts jest... dziwny.
+
+Krótka pauza.
+
+— Za dużo schodów. Zdecydowanie za dużo. I połowa z nich uważa, że sama wie lepiej, gdzie powinieneś iść.
+
+Na jego twarzy pojawił się cień uśmiechu.
+
+— Jest tu też głośniej niż w Durmstrangu. Ludzie dużo mówią. Dużo patrzą. Jeszcze więcej plotkują.
+
+Zerknął po Wielkiej Sali.
+
+— Na początku myślałem, że to przez Turniej. Potem zrozumiałem, że wy po prostu tacy jesteście.
+
+Po chwili dodał już poważniej:
+
+— Ale mi się podobało. Nie wszystko. Nie wszyscy. Ale... szkoła jest żywa.
+
+Spojrzał na stół Gryffindoru, potem z powrotem na Jamesa.
+
+— Poznałem ludzi, których normalnie nigdy bym nie spotkał. Ciebie. Granger. Kilku innych.
+
+Sięgnął znów po widelec.
+
+— Turniej? Mniej mi się podoba. Za dużo ludzi chce oglądać, jak ktoś prawie ginie, a potem nazywają to tradycją.
+
+Kącik jego ust drgnął.
+
+— Ale skoro już tu jestem, zamierzam jutro skończyć to porządnie.
+
+Po sekundzie spojrzał jeszcze raz na Jamesa.
+
+— A teraz nadal zastanawiam się, kogo prawie zabiłeś.
+
+
+[C8-M0113]
+===== USER =====
+
+kiwnąłem głową przyjmując to co mówi -No strzelaj stary...
+
+
+[C8-M0114]
+===== ASSISTANT =====
+
+Krum zmrużył lekko oczy i przez moment przyglądał się Jamesowi, jakby próbował wyłapać coś z tonu.
+
+— Malfoy? — rzucił w końcu.
+
+Uniósł jedną brew.
+
+— Nie dlatego, że coś wiem. Po prostu… gdy ktoś w Hogwarcie mówi „prawie zabiłem człowieka” i wygląda przy tym tak spokojnie, to Malfoy wydaje się całkiem rozsądnym strzałem.
+
+Kącik jego ust drgnął.
+
+— Trafiłem?
+
+
+[C8-M0115]
+===== USER =====
+
+Trafiłeś...powiedziałem i sam nałożyłem sobie trochę jedzenia
+
+
+[C8-M0116]
+===== ASSISTANT =====
+
+Krum pokiwał głową, jakby ta odpowiedź jakoś pasowała mu do układanki.
+
+— Powinienem był się domyślić — mruknął.
+
+Przez chwilę jadł w ciszy, ale ciekawość najwyraźniej wygrała.
+
+— Co zrobił?
+
+Spojrzał na Jamesa z boku.
+
+— Bo zakładam, że nie próbowałeś go zabić tylko za to, że istnieje. Nawet jak na Malfoya byłoby to trochę przesadzone.
+
+
+[C8-M0117]
+===== USER =====
+
+-Powiedzmy że trochę się zapomniał i musiałem mu przypomnieć zasady etykiety...
+
+
+[C8-M0118]
+===== ASSISTANT =====
+
+Krum parsknął cicho pod nosem.
+
+— „Przypomnieć zasady etykiety” — powtórzył, jakby testował to określenie. — Ładna nazwa.
+
+Spojrzał na Jamesa z boku.
+
+— I po tym „przypomnieniu” Malfoy dalej chodzi o własnych siłach?
+
+Nie brzmiał szczególnie przejęty losem Draco, bardziej chciał ustalić skalę całej historii.
+
+Po chwili dodał już trochę poważniej:
+
+— Tylko nie mów mi, że znowu groziłeś komuś śmiercią przez dziewczynę.
+
+Sięgnął po kielich.
+
+— Bo wtedy naprawdę zaczynam myśleć, że ty masz bardzo szeroką definicję etykiety.
+
+
+[C8-M0119]
+===== USER =====
+
+Po pierwsze jak widzisz na kolację przyszedł o własnych siłach po drugie nie groziłem mu śmiercią...po prostu prawie go zabiłem a po trzecie nie przez dziewczynę tylko przez to że Malfoy wykazał się brakiem szacunku...
+
+
+[C8-M0120]
+===== ASSISTANT =====
+
+Krum spojrzał na niego dłużej, po czym powoli odstawił kielich.
+
+— To brzmi trochę jak różnica w słowach, Brown.
+
+Nie powiedział tego złośliwie. Raczej sucho, po swojemu.
+
+— Jeśli prawie go zabiłeś dlatego, że okazał komuś brak szacunku, to nadal ciekawi mnie, komu.
+
+Przez chwilę jadł w ciszy.
+
+— I nie mówię, że Malfoy nie potrafi sobie zasłużyć na problemy. Potrafi.
+
+Kącik jego ust drgnął.
+
+— Ale „brak szacunku” i „prawie zabiłem człowieka” to dość duży skok.
+
+Spojrzał na Jamesa z boku.
+
+— Więc co dokładnie zrobił?
+
+
+[C8-M0121]
+===== USER =====
+
+Poprosiłem go o coś jak kolega prosi kolegę a on...hmm napierw się zgodził a potem zaczął to łamać... więc był to oczywiście bark szacunku do mnie...
+
+
+[C8-M0122]
+===== ASSISTANT =====
+
+Krum przeżuł powoli kęs, patrząc na Jamesa z boku.
+
+— To już brzmi inaczej.
+
+Odłożył widelec na chwilę.
+
+— Poprosiłeś go o coś. Zgodził się. Potem świadomie zrobił odwrotnie.
+
+Lekko zmarszczył brwi.
+
+— To nie jest tylko „brak etykiety”. Po prostu złamał dane ci słowo.
+
+Przez sekundę Viktor wyglądał, jakby nawet rozumiał, czemu Jamesa to tak zirytowało.
+
+— Wkurzyłbym się.
+
+Krótka pauza.
+
+— Ale nadal nie próbowałbym go przez to prawie zabić.
+
+Sięgnął znowu po jedzenie.
+
+— Co mu właściwie kazałeś obiecać?
+
+
+[C8-M0123]
+===== USER =====
+
+... miał nie mówić na Hermionę po nazwisku...
+
+
+[C8-M0124]
+===== ASSISTANT =====
+
+Krum zatrzymał widelec i spojrzał na Jamesa trochę uważniej.
+
+— Aha.
+
+Przez chwilę milczał, jakby właśnie zrozumiał, dlaczego sprawa poszła akurat w tę stronę.
+
+— Czyli poprosiłeś Malfoya, żeby nie mówił do niej „Granger”, on się zgodził, a potem zaczął robić to specjalnie.
+
+Pokręcił lekko głową.
+
+— To brzmi bardzo jak Malfoy.
+
+Po chwili zmarszczył brwi.
+
+— Ale… Hermiona sama cię o to prosiła?
+
+Nie było w jego tonie oskarżenia. Zwyczajnie próbował ustalić, czy to była zasada Hermiony, czy coś Jamesa.
+
+— Bo jeśli to była twoja prośba do niego, to rozumiem, czemu uznałeś złamanie jej za brak szacunku wobec ciebie. Ale chcę wiedzieć, czy ona w ogóle ma z tym problem.
+
+
+[C8-M0125]
+===== USER =====
+
+Nie, ona nie ma z tym problemu.... nie przeszkadza jej to...ale mi tak...
+
+
+[C8-M0126]
+===== ASSISTANT =====
+
+Krum pokiwał powoli głową.
+
+— No właśnie.
+
+Przez moment patrzył na Jamesa, potem wrócił wzrokiem do talerza.
+
+— To wtedy nie chodzi o Hermionę. Chodzi o ciebie i Malfoya.
+
+Krótka pauza.
+
+— Poprosiłeś go o coś, bo tobie to przeszkadzało. Zgodził się. Potem specjalnie zaczął robić odwrotnie, żeby cię drażnić.
+
+Viktor wzruszył lekko ramionami.
+
+— To rozumiem.
+
+Spojrzał na niego z boku.
+
+— Tylko wtedy nie mów, że bronisz jej honoru czy coś takiego. Ona nie ma z tym problemu. To Malfoy łamie słowo dane tobie.
+
+Kącik jego ust drgnął.
+
+— I to, szczerze mówiąc, jest wystarczająco dobry powód, żeby się na niego wkurzyć. Nadal niekoniecznie żeby go prawie zabić.
+
+
+[C8-M0127]
+===== USER =====
+
+Bronię jej honoru!! To że ona im na to pozwala jest spowodowane tym że jest po prostu zbyt ddobra...
+
+
+[C8-M0128]
+===== ASSISTANT =====
+
+Krum spojrzał na Jamesa przez chwilę w milczeniu, wyraźnie nieprzekonany.
+
+— Nie, Brown.
+
+Pokręcił lekko głową.
+
+— To, że ona czegoś nie traktuje jak obrazy, nie znaczy od razu, że jest „zbyt dobra”, żeby zrozumieć, kiedy ktoś ją obraża.
+
+Odłożył widelec.
+
+— Hermiona potrafi się pokłócić. Widziałem.
+
+Kącik jego ust drgnął minimalnie.
+
+— I chyba potrafi też sama zdecydować, co uważa za brak szacunku wobec siebie.
+
+Przez moment patrzył mu prosto w oczy.
+
+— Możesz nie lubić, jak Malfoy mówi do niej po nazwisku. Możesz nawet uznać, że robi to specjalnie przeciwko tobie. Ale jeśli ona mówi, że jej to nie przeszkadza, to nie wiem, czemu ty masz decydować, że jednak powinno.
+
+Po chwili dodał już lżej:
+
+— Poza tym… jeśli naprawdę chcesz bronić jej honoru, może najpierw upewnij się, że ona chce, żeby był broniony akurat przed słowem „Granger”.
+
+
+[C8-M0129]
+===== USER =====
+
+Mieliśmy już takie rozmowy....
+
+
+[C8-M0130]
+===== ASSISTANT =====
+
+Krum uniósł lekko brew.
+
+— Domyślam się.
+
+Przez moment obracał widelec między palcami.
+
+— I nie pytam, żebyś mi opowiadał prywatne rzeczy między wami. Jeśli już o tym rozmawialiście, to dobrze.
+
+Spojrzał na Jamesa z boku.
+
+— Tylko nadal jest różnica między tym, że ty nie lubisz, kiedy Malfoy tak do niej mówi, a tym, że ona uważa to za obrazę.
+
+Krótka pauza.
+
+— Jeśli wie, jak na to reagujesz, i mimo wszystko jej to nie przeszkadza, to chyba po prostu macie inne granice w tej jednej sprawie.
+
+Kącik jego ust drgnął.
+
+— Co oczywiście nie zmienia faktu, że Malfoy robił to specjalnie, żeby cię wkurzyć. To akurat brzmi bardzo prawdopodobnie.
+
+
+[C8-M0131]
+===== USER =====
+
+Westchnąłem i w końcu zacząłem jeść -Dokladnie inne granice....bo ja wiem że Draco mówi to właśnie żeby mnie wkurzyć ale też ją obrazić...
+
+
+[C8-M0132]
+===== ASSISTANT =====
+
+Krum kiwnął głową, tym razem trochę wolniej.
+
+— To już rozumiem lepiej.
+
+Nabrał jedzenia na widelec.
+
+— Jeśli używa jej nazwiska normalnie, to jedno. Jeśli mówi „Granger” tylko po to, żeby pokazać pogardę i jednocześnie patrzy, czy ty się zagotujesz… to drugie.
+
+Spojrzał krótko w stronę dalszej części stołu, gdzie siedział Draco, po czym wrócił wzrokiem do Jamesa.
+
+— Malfoy potrafi obrazić człowieka jednym słowem, nawet jeśli samo słowo nie jest obraźliwe.
+
+Po chwili dodał:
+
+— Tyle że Hermiona może wiedzieć dokładnie, co on robi, i po prostu uznawać, że nie warto się tym przejmować.
+
+Krum wzruszył ramionami.
+
+— Ty najwyraźniej uznajesz odwrotnie.
+
+Zjadł kęs i mruknął:
+
+— I właśnie dlatego prawie udusiłeś Malfoya za nazwisko. Świetny ostatni dzień szkoły, Brown.
+
+
+[C8-M0133]
+===== USER =====
+
+pokręciłem głową - Nie zrozumiemy się....ty nie rozumiesz
+
+
+[C8-M0134]
+===== ASSISTANT =====
+
+Krum spojrzał na Jamesa bez urazy.
+
+— Możliwe.
+
+Wzruszył lekko ramionami i przez chwilę jadł w ciszy.
+
+— Nie muszę rozumieć wszystkiego tak samo jak ty.
+
+Spojrzał na niego z boku.
+
+— Dla mnie, jeśli Hermiona mówi, że coś jej nie przeszkadza, to przyjmuję to. Ty patrzysz na intencję Malfoya i na to, co według ciebie próbuje zrobić tym słowem.
+
+Krótka pauza.
+
+— To nie jest to samo.
+
+Viktor oparł przedramię o stół.
+
+— Więc tak. Być może nie rozumiem dokładnie tego, co ty w tym widzisz.
+
+Po chwili dodał spokojniej:
+
+— Ale chyba rozumiem przynajmniej, dlaczego ciebie to tak cholernie wkurza.
+
+
+[C8-M0135]
+===== USER =====
+
+znowu westchnąłem a po chwili skończyłem jeść
+-wybacz mi ale będę już iść...poowdzenia na jutrzejszym zadaniu...
+
+
+[C8-M0136]
+===== ASSISTANT =====
+
+Krum skinął głową, nie próbując go zatrzymywać.
+
+— Dzięki.
+
+Spojrzał na Jamesa jeszcze raz, tym razem z lekkim uśmiechem.
+
+— A ty spróbuj przez resztę wieczoru nikogo nie „prawie zabić”. Dobrze byłoby jutro zobaczyć znajomą twarz na trybunach.
+
+Sięgnął po kielich.
+
+— Do zobaczenia, Brown.
+
+Przy stole Gryffindoru Hermiona zauważyła, że James skończył posiłek znacznie szybciej niż większość sali i najwyraźniej zbiera się do wyjścia. Jej wzrok zatrzymał się na nim na moment; lekko uniosła brwi, jakby zastanawiała się, dokąd wybiera się jeszcze przed końcem kolacji, ale nie wołała go przez całą Wielką Salę.
+
+
+[C8-M0137]
+===== USER =====
+
+ja kiwnąłem jeszcze raz Krum'owi a potem opuściłem wielką salę ale nie poszedłem daleko stanąłem parę kroków przed wejściem i czekałem aż Hermiona wyjdzie
+
+
+[C8-M0138]
+===== ASSISTANT =====
+
+Przez kilka minut korytarz przed Wielką Salą pozostawał niemal pusty. Od środka dochodził przytłumiony gwar setek rozmów, brzęk sztućców i od czasu do czasu głośniejszy wybuch śmiechu.
+
+W końcu drzwi ponownie się otworzyły.
+
+Hermiona wyszła razem z Harrym i Ronem, nadal kończąc z nimi jakąś rozmowę. Dopiero po dwóch krokach zauważyła Jamesa stojącego niedaleko wejścia.
+
+Zatrzymała się.
+
+— Och.
+
+Na jej twarzy od razu pojawił się mały uśmiech.
+
+Harry zerknął najpierw na nią, potem na Jamesa, najwyraźniej szybko orientując się w sytuacji.
+
+— My chyba pójdziemy — rzucił.
+
+Ron popatrzył na Jamesa przez moment, ale tym razem nic nie powiedział. Ruszył dalej razem z Harrym.
+
+Hermiona została przy wejściu i podeszła kilka kroków bliżej.
+
+— Czekałeś na mnie?
+
+Spojrzała na niego z lekkim rozbawieniem.
+
+— A mówiłeś, że zobaczymy się po kolacji.
+
+
+[C8-M0139]
+===== USER =====
+
+też podszedłem do niej bliżej i momentalnie ją przytuliłem i położyłem głowę na jej ramieniu blisko jej szyji - czekałem...i przecież jest już po kolacji...powiedziałem i zacząłem zaciągać się jej zapachem
+
+
+[C8-M0140]
+===== ASSISTANT =====
+
+Hermiona objęła go odruchowo, choć przy jego ostatnim ruchu lekko zmarszczyła nos.
+
+— Technicznie rzecz biorąc… tak — przyznała. — Jest po kolacji.
+
+Po chwili poczuła, jak James wtula się bliżej w okolice jej szyi, więc odsunęła głowę odrobinę i spojrzała na niego z boku.
+
+— James…
+
+W jej głosie było więcej rozbawienia niż nagany.
+
+— Czy ty właśnie mnie obwąchujesz?
+
+Parsknęła cicho, nadal go obejmując.
+
+— Nie widzieliśmy się przez jakieś… dwie godziny.
+
+Po sekundzie dodała:
+
+— I zanim odpowiesz: tak, wiem. Dla ciebie to prawdopodobnie dramatycznie długo.
+
+
+[C8-M0141]
+===== USER =====
+
+-Nie obwąchuje...tylko delaktuje się tym jak ślicznie pachniesz...uwaga...powiedziałem a potem powoli i ostrożnie wsunąłem rękę pod jej łopatki i pod jej kolana i wziąłem ją ma ręce
+
+
+[C8-M0142]
+===== ASSISTANT =====
+
+Hermiona zdążyła tylko nabrać powietrza, zanim poczuła rękę pod kolanami i plecami. Tym razem jednak, po jego wyraźnym „uwaga”, nie wyglądała na kompletnie zaskoczoną.
+
+— O, czyli jednak pamiętałeś — mruknęła, kiedy znalazła się na jego rękach.
+
+Jedną ręką objęła go za kark, bardziej dla równowagi niż z paniki, a drugą oparła lekko na jego ramieniu.
+
+— To jest zdecydowanie lepsza wersja niż nagłe porwanie mnie przy całej Wielkiej Sali.
+
+Kącik jej ust uniósł się wyżej.
+
+— Nadal trochę absurdalna… ale lepsza.
+
+Spojrzała mu w twarz z bliska.
+
+— I nie próbuj teraz udawać, że „delektowanie się zapachem” to zupełnie normalne określenie. To brzmi jeszcze gorzej niż „obwąchiwanie”.
+
+
+[C8-M0143]
+===== USER =====
+
+na jej ostatnie lekko posmutniałem -To naprawdę nie moja wina że Panna Granger tal ślicznie pachnie...
+
+
+[C8-M0144]
+===== ASSISTANT =====
+
+Hermiona spojrzała na jego minę i od razu trochę złagodniała.
+
+— Ej, nie rób takiej miny — powiedziała ciszej, ale z uśmiechem. — Nie powiedziałam, że mi to przeszkadza.
+
+Przesunęła palcami lekko po jego karku.
+
+— Po prostu brzmisz czasem jak ktoś, kto opisuje wyjątkowo rzadkie perfumy, a nie swoją dziewczynę.
+
+Parsknęła cicho i nachyliła się odrobinę bliżej.
+
+— A skoro już koniecznie muszę to przyznać… cieszę się, że ci się podoba, jak pachnę.
+
+Po sekundzie uniosła brew.
+
+— Tylko proszę, nie ogłaszaj tego jutro na trybunach. Krum ma już wystarczająco dużo rzeczy do zapamiętania przed zadaniem.
+
+
+[C8-M0145]
+===== USER =====
+
+lekko się usmiechnąłem i pokiwałem głową -Pokouj życzeń?
+
+
+[C8-M0146]
+===== ASSISTANT =====
+
+Hermiona uśmiechnęła się od razu i skinęła głową.
+
+— Pokój Życzeń.
+
+Poprawiła lekko ułożenie ręki na jego karku i dodała z cieniem rozbawienia:
+
+— I przypominam: żadnej nauki. Żadnego treningu. Żadnych „tylko pięć minut, Hermiono”.
+
+Spojrzała mu blisko w oczy.
+
+— Dzisiaj naprawdę mamy po prostu odpocząć.
+
+
+[C8-M0147]
+===== USER =====
+
+kiwnąłem głową i zacząłem nieść ją na siódme piętro pp drodze cały czas czując jej słodki zapach gdy byliśmy już na miejscu drzwi pojawiły się praktycznie od razu i już wtedy wiedziałem że to zły znak... więc od razu lekko się zarumieniłem
+
+
+[C8-M0148]
+===== ASSISTANT =====
+
+Hermiona najpierw spojrzała na drzwi, które wyłoniły się z kamiennej ściany niemal bez zwłoki.
+
+Potem na twarz Jamesa.
+
+I jeszcze raz na drzwi.
+
+Jej oczy lekko się zwęziły, a na ustach pojawił się bardzo znajomy, podejrzliwie rozbawiony uśmiech.
+
+— O nie…
+
+Ponieważ wciąż trzymał ją na rękach, była wystarczająco blisko, żeby bez problemu zauważyć narastający rumieniec.
+
+— Ja już znam tę minę.
+
+Uniosła brew.
+
+— Ostatnim razem, kiedy Pokój pojawił się podejrzanie szybko, też zrobiłeś się czerwony, zanim w ogóle zobaczyliśmy środek.
+
+Przesunęła spojrzeniem po drzwiach, po czym wróciła do niego.
+
+— I tym razem nawet nie zdążyłeś porządnie pomyśleć, prawda?
+
+Kącik jej ust uniósł się jeszcze trochę.
+
+— Co ty mu właściwie powiedziałeś w głowie, James?
+
+
+[C8-M0149]
+===== USER =====
+
+pokręciłem głową -Po prostu twój zapach jwst bardzo odłużajacy...i na pewno myślałem o tobie ale co dokładnie
+.....nie wiem
+
+
+[C8-M0150]
+===== ASSISTANT =====
+
+Hermiona przez chwilę patrzyła na niego bez słowa, po czym jej brwi powędrowały wyżej.
+
+— To miało mnie uspokoić?
+
+Kącik ust zadrżał jej coraz mocniej.
+
+— „Myślałem o tobie, ale nie wiem dokładnie co” w chwili, kiedy Pokój Życzeń natychmiast otwiera drzwi, brzmi wręcz przeciwnie.
+
+Zerknęła na wejście, nadal znajdując się na jego rękach.
+
+— I jeszcze zwalasz wszystko na mój zapach.
+
+Pokręciła głową z rozbawieniem.
+
+— Niesamowite. Kompletnie niewinny James Brown został najwyraźniej pokonany przez szampon.
+
+Po chwili spojrzała mu prosto w oczy.
+
+— No dobrze. Teraz sama jestem ciekawa, co Pokój z tego wszystkiego zrozumiał.
+
+
+[C8-M0151]
+===== USER =====
+
+uciekałem na chwilę od jej wzrok -Tylko pamiętaj że to nie ja...albo że to nie do końca ja to zrobiłem...a po prostu bardzo cię kocham i czasami trochę za bardzo.... myślę o tym co może być kiedyś....
+
+
+[C8-M0152]
+===== ASSISTANT =====
+
+Hermiona przestała się uśmiechać aż tak zaczepnie. Rumieniec na jej policzkach zrobił się wyraźniejszy, ale tym razem nie odwróciła wzroku.
+
+— Wiem — powiedziała ciszej. — I wiem też, że czasem twoja wyobraźnia biegnie… bardzo daleko do przodu.
+
+Przez chwilę bawiła się palcami przy jego kołnierzu.
+
+— To, że myślisz o tym, co może być kiedyś, nie jest niczym złym.
+
+Spojrzała na drzwi, a potem znowu na niego.
+
+— Tylko pamiętaj, że cokolwiek ten pokój wymyślił, nie oznacza automatycznie, że właśnie zobaczył naszą przyszłość.
+
+Kącik jej ust znowu lekko się uniósł.
+
+— Chociaż przyznam, że po takim wstępie jestem teraz jeszcze bardziej ciekawa, co jest w środku.
+
+
+[C8-M0153]
+===== USER =====
+
+pokiwałem głową a potem otworzyłem drzwi os pokoju a naszym oczom po raz kolejny pokazał się znany pokój z różowym nasteojwoym światłem i wielkimi łóżkiem tym razem jednak dodatkowo pojawił się gramfon ktory odtwarzał cichą nastrojową muzykę
+
+
+[C8-M0154]
+===== ASSISTANT =====
+
+Hermiona zatrzymała wzrok na wnętrzu i przez moment nic nie powiedziała.
+
+Znajomy różowy blask, wielkie łóżko i ten sam wyraźnie bardziej nastrojowy charakter pokoju nie były już dla niej całkowitą niespodzianką.
+
+Ale gramofon był nowy.
+
+Cicha melodia sączyła się z tuby gdzieś z boku pomieszczenia, miękka i spokojna, idealnie pasująca do światła.
+
+Hermiona powoli przeniosła wzrok z gramofonu na łóżko, a potem na Jamesa.
+
+Jej policzki zrobiły się wyraźnie bardziej czerwone.
+
+— Oczywiście — mruknęła. — Oczywiście, że tym razem dodał jeszcze muzykę.
+
+Spojrzała ponownie na wnętrze.
+
+— Ten pokój naprawdę nie zna subtelności.
+
+Po sekundzie kącik jej ust drgnął.
+
+— Chociaż… przyznam, że muzyka jest całkiem ładna.
+
+I dopiero wtedy zerknęła na Jamesa z bliska.
+
+— Nadal twierdzisz, że kompletnie nie wiesz, o czym myślałeś?
+
+
+[C8-M0155]
+===== USER =====
+
+-Wiem...o czym...powiedziałem i lekko się zarumieniłem a potem odstawiłem ją na ziemię
+
+
+[C8-M0156]
+===== ASSISTANT =====
+
+Hermiona stanęła już pewnie na nogach i przez moment patrzyła na niego, potem na pokój.
+
+— Aha — powiedziała tylko.
+
+Rumieniec na jej twarzy pogłębił się odrobinę, ale zamiast ciągnąć temat, poprawiła swój krawat i zerknęła na gramofon.
+
+— Wiesz co? Chyba wolę nie pytać o szczegóły.
+
+Kącik jej ust uniósł się lekko.
+
+— Zwłaszcza że umówiliśmy się na odpoczynek, a nie na kolejną bardzo poważną analizę tego, co dokładnie Pokój wyciąga ci z głowy.
+
+Podeszła kilka kroków w głąb pomieszczenia i rozejrzała się jeszcze raz.
+
+— Ale muzyka zostaje. Ta część mi się podoba.
+
+Po chwili odwróciła się z powrotem do Jamesa.
+
+— No chodź. Skoro już Pokój zrobił z tego najbardziej przesadnie romantyczne miejsce w całym zamku, możemy przynajmniej z niego skorzystać i po prostu trochę pobyć razem.
+
+
+[C8-M0157]
+===== USER =====
+
+lekko się usmiechnąłem a potem znowu delaktnie chwyciłem Hermionę za rękę i usadziłem na skraju łóżka i kucnąłem przed nią i ostrożnie zdjąłem jej buty
+
+
+[C8-M0158]
+===== ASSISTANT =====
+
+Hermiona bez protestu uniosła najpierw jedną, a potem drugą stopę, ułatwiając mu zdjęcie butów. Ten gest był już między nimi na tyle znajomy, że nie robiła z niego żadnej wielkiej sprawy.
+
+Kiedy drugi but stanął obok pierwszego, poruszyła lekko stopami w ciemnych rajstopach i westchnęła z ulgą.
+
+— Mhm… tego mi brakowało po całym dniu chodzenia po zamku.
+
+Spojrzała na kucającego przed nią Jamesa i uśmiechnęła się.
+
+— Widzę, że mimo całej tej różowej atmosfery nadal zaczynasz od bardzo praktycznych rzeczy.
+
+Po chwili klepnęła dłonią materac obok siebie.
+
+— Teraz ty zdejmij swoje i chodź tutaj. Przecież mieliśmy odpoczywać, pamiętasz?
+
+
+[C8-M0159]
+===== USER =====
+
+też zdjąłem szybko zdjąłem buty a potem lekko się na nią rzuciłem i odrobinę przycisnąłem do łóżka i zacząłem całować całą jej twarz
+
+
+[C8-M0160]
+===== ASSISTANT =====
+
+Hermiona aż pisnęła z zaskoczenia, kiedy materac ugiął się pod nimi.
+
+— James!
+
+Pierwszy pocałunek trafił w policzek, drugi gdzieś przy skroni, kolejny w czubek nosa. Po kilku sekundach próbowała już bezskutecznie odwracać twarz, śmiejąc się przy tym coraz bardziej.
+
+— Przestań—! Nie, czekaj… przynajmniej daj mi oddychać!
+
+Uniesione dłonie oparła na jego ramionach, ale zamiast naprawdę go odpychać, próbowała głównie osłonić nimi twarz przed kolejną serią pocałunków.
+
+— To miało być odpoczywanie! — wyrzuciła między śmiechem. — Ty masz bardzo dziwną definicję odpoczynku!
+
+Kiedy na moment udało jej się odsłonić twarz, była już mocno zarumieniona i uśmiechała się szeroko.
+
+— I ostrzegam, Brown… jeśli jeszcze raz trafisz mnie prosto w nos, zaczynam się bronić.
+
+
+[C8-M0161]
+===== USER =====
+
+ściszyłem głos do szeptu -znowu ślicznie się rumienisz....powiedziałem i opadłem na obok i położyłem się obok niej a potem ułożyłem się wygodniej na środku łóżka i przyciągnąłem ją wyżej aby też leżała na środku obok mnie
+
+
+[C8-M0162]
+===== ASSISTANT =====
+
+Hermiona dała się przesunąć wyżej na środek łóżka i ułożyła się obok niego wygodniej, poprawiając tylko włosy, które rozsypały jej się po poduszce.
+
+Na jego szept jej policzki, oczywiście, zrobiły się jeszcze bardziej czerwone.
+
+— Właśnie przez takie komentarze robię się jeszcze bardziej czerwona — mruknęła, patrząc na niego z boku. — I doskonale o tym wiesz.
+
+Przez chwilę słuchała cichej muzyki z gramofonu. Po całym dniu zajęć i zamkowym gwarze pokój wydawał się niemal przesadnie spokojny.
+
+Hermiona przesunęła się odrobinę bliżej, tak żeby ich ramiona się stykały.
+
+— Ale… tak jest dobrze — powiedziała ciszej.
+
+Po sekundzie zerknęła na niego z małym uśmiechem.
+
+— Tylko ani słowa więcej o moim rumieńcu przez co najmniej pięć minut. Spróbuj pobić własny rekord.
+
+
+[C8-M0163]
+===== USER =====
+
+pokiwałem głową a potem objąłem ją i przytuliłem się delaktnie do jej obku zblizylem usta do jej szyjki i znowu zacząłem się zaciągać jej zapachem
+
+
+[C8-M0164]
+===== ASSISTANT =====
+
+Hermiona drgnęła lekko, kiedy poczuła jego oddech tak blisko szyi, ale nie odsunęła się. Przez moment tylko leżała cicho, wtulona w niego, a potem parsknęła pod nosem.
+
+— Znowu to robisz — mruknęła z rozbawieniem.
+
+Jedną dłonią przesunęła spokojnie po jego ramieniu.
+
+— I nadal będę twierdzić, że „delektowanie się zapachem” brzmi podejrzanie.
+
+Nie próbowała jednak przerwać przytulenia. Przeciwnie, ułożyła się trochę wygodniej obok niego, pozwalając, żeby cicha muzyka z gramofonu wypełniła chwilę ciszy.
+
+Po paru sekundach dodała już ciszej:
+
+— Ale możesz zostać. Tak jest przyjemnie.
+
+
+[C8-M0165]
+===== USER =====
+
+zacząłem szeptać -Naprawde bardzo ładnie pachnies....
+
+
+[C8-M0166]
+===== ASSISTANT =====
+
+Hermiona przez moment nic nie odpowiedziała. Przy takiej odległości szept brzmiał jeszcze ciszej niż muzyka płynąca z gramofonu.
+
+Jej policzki znowu lekko się zaróżowiły.
+
+— Dziękuję… — mruknęła w końcu.
+
+Po sekundzie kącik jej ust uniósł się jednak z typowym dla niej rozbawieniem.
+
+— Ale pamiętasz, że miałeś przez pięć minut nie komentować rzeczy, przez które się rumienię?
+
+Przesunęła dłonią po jego ramieniu i ułożyła się wygodniej przy nim.
+
+— Chociaż tego akurat nie będę ci zabraniać mówić.
+
+
+[C8-M0167]
+===== USER =====
+
+Nie wiedziałem że się zarumienisz....powiedziałem cicho -a
+... śpimy tutaj razem czy...nie?
+
+
+[C8-M0168]
+===== ASSISTANT =====
+
+Hermiona uniosła lekko głowę, żeby móc na niego spojrzeć.
+
+— James… przecież już spaliśmy razem w jednym pokoju. I nawet obok siebie — przypomniała mu cicho, z lekkim uśmiechem.
+
+Przez chwilę zerknęła na wielkie łóżko, potem znowu na niego.
+
+— Więc… tak. Możemy zostać tutaj na noc.
+
+Po sekundzie dodała od razu, bardziej po swojemu:
+
+— Tylko jutro jest trzecie zadanie, więc nie zamierzam obudzić się w południe dlatego, że uznałeś o trzeciej nad ranem, że koniecznie musimy jeszcze o czymś porozmawiać.
+
+Kącik jej ust drgnął.
+
+— I zanim zapytasz: tak, możesz spać obok mnie. Nie musisz budować sobie drugiego łóżka po drugiej stronie pokoju.
+
+
+[C8-M0169]
+===== USER =====
+
+lekko się usmiechnąłem i zacząłem jeździć palcem po jej brzuchu -a...a...starczy nam czasu żeby pójść do jacuzzi....?
+
+
+[C8-M0170]
+===== ASSISTANT =====
+
+Hermiona zerknęła na palec przesuwający się po jej brzuchu, potem na Jamesa.
+
+— Do jacuzzi? — powtórzyła i odruchowo spojrzała w stronę łazienki.
+
+Po chwili uśmiechnęła się lekko.
+
+— Tak, chyba zdążymy. Jest dopiero wieczór, a skoro i tak zostajemy tutaj na noc, nie musimy się nigdzie spieszyć.
+
+Uniosła jednak palec ostrzegawczo.
+
+— Ale normalnie, dobrze? Chcę jutro wstać wypoczęta, a nie odkryć o drugiej w nocy, że siedzimy tam od trzech godzin.
+
+Kącik jej ust drgnął.
+
+— I tym razem parawan albo osobne przebieranie nadal istnieje. Żebyś przypadkiem nie uznał, że jacuzzi magicznie unieważnia wszystkie wcześniejsze ustalenia.
+
+
+[C8-M0171]
+===== USER =====
+
+pokiwałem poważnie głową -Dobrze...
+
+
+[C8-M0172]
+===== ASSISTANT =====
+
+Hermiona przez sekundę patrzyła na jego poważną minę, jakby sprawdzała, czy tym razem rzeczywiście nie kryje się za nią żadna próba negocjacji.
+
+Potem uśmiechnęła się z wyraźnym zadowoleniem.
+
+— Dobrze. W takim razie umowa stoi.
+
+Podniosła się z łóżka i usiadła na jego skraju, poprawiając włosy.
+
+— Najpierw ręczniki i coś sensownego do wody. Potem jacuzzi.
+
+Zerknęła w stronę łazienki.
+
+— I skoro ostatnim razem Pokój sobie z tym poradził, teraz też powinien.
+
+
+[C8-M0173]
+===== USER =====
+
+znowu pokiwałem głową
+
+
+[C8-M0174]
+===== ASSISTANT =====
+
+Pokój zareagował niemal od razu. Przy łazience pojawiła się niska ławka z dwoma miękkimi ręcznikami oraz przygotowanymi strojami do wody.
+
+Dla Hermiony pojawił się dwuczęściowy strój, wyraźnie śmielszy od czegoś, co sama pewnie wybrałaby jako pierwsze, ale nadal prosty i odpowiedni do pływania — bez przesadnych ozdób czy niewygodnych elementów. Obok leżały kąpielowe spodenki dla Jamesa.
+
+Hermiona podniosła swój komplet i obejrzała go z obu stron.
+
+— Pokój ma dzisiaj… wyjątkowo zdecydowane zdanie — stwierdziła, unosząc brew.
+
+Po chwili jednak wzruszyła lekko ramionami.
+
+— Dobrze. To jeszcze mieści się w granicach rozsądku.
+
+Zabrała ręcznik i strój, po czym wskazała na parawan.
+
+— Ja tam. Ty tutaj. I żadnych negocjacji z architekturą.
+
+Kącik jej ust drgnął, zanim zniknęła za parawanem.
+
+
+[C8-M0175]
+===== USER =====
+
+na widok jej strój trochę bardziej się spiąłem a gdy wyszła sam szybkob wstałem z łóżka i się przebralem ia nastepnie czekałem w napięciu na nią
+
+
+[C8-M0176]
+===== ASSISTANT =====
+
+Po chwili zza parawanu dobiegł cichy szelest materiału, a potem Hermiona wyszła z ręcznikiem przerzuconym przez ramię.
+
+Dwuczęściowy strój rzeczywiście był odważniejszy niż jej zwykły wybór, przez co sama wyglądała na odrobinę bardziej skrępowaną niż wcześniej. Zatrzymała się na sekundę, poprawiła jeden z elementów stroju i spojrzała na Jamesa.
+
+Widząc jego napięcie, uniosła brew.
+
+— Nawet nic nie mów — uprzedziła go od razu, choć na jej policzkach pojawił się lekki rumieniec. — Pokój wybrał, nie ja.
+
+Po chwili zerknęła w stronę łazienki i dodała już swobodniej:
+
+— Chodź. Zanim zaczniesz analizować ten strój przez następne dziesięć minut.
+
+Ruszyła w stronę drzwi do łazienki, w której czekało już napełnione, ciepłe jacuzzi.
+
+
+[C8-M0177]
+===== USER =====
+
+jednak byłp już za późno na mojej twarzy pojawił się wielki rómieniec oraz jednocześnie wyraz Wielkiego zachwytu i podziwu
+
+
+[C8-M0178]
+===== ASSISTANT =====
+
+Hermiona zdążyła zrobić zaledwie kilka kroków, zanim spojrzała na niego jeszcze raz i zobaczyła jego minę.
+
+Zatrzymała się.
+
+— Och, na litość boską… — mruknęła, a jej własne policzki momentalnie zrobiły się bardziej czerwone.
+
+Przez chwilę wyglądała, jakby nie wiedziała, czy bardziej chce się roześmiać, czy schować z powrotem za parawan.
+
+— James, przestań się tak patrzeć — powiedziała, ale bez prawdziwej złości. — Wyglądasz, jakby Pokój właśnie pokazał ci ósmy cud świata.
+
+Poprawiła ręcznik na ramieniu, próbując odzyskać choć odrobinę zwykłej pewności siebie.
+
+— I nie waż się teraz mówić czegoś przesadnie romantycznego, bo już i tak wystarczająco się rumienię.
+
+Mimo to na jej twarzy pojawił się mały, trochę zawstydzony uśmiech.
+
+
+[C8-M0179]
+===== USER =====
+
+-Dla mnie pierwsz....powiedziałem cicho nadal z tą samą miną i rumieńcem
+
+
+[C8-M0180]
+===== ASSISTANT =====
+
+Hermiona znieruchomiała na moment.
+
+Najpierw spojrzała mu prosto w oczy, a potem jej wzrok uciekł gdzieś w bok. Rumieniec, który już miała na policzkach, zrobił się jeszcze wyraźniejszy.
+
+— Och… — wydusiła cicho.
+
+Przygryzła na sekundę wargę, próbując powstrzymać uśmiech.
+
+— Wiedziałam, że powiesz coś takiego.
+
+Po chwili pokręciła głową z bezradnym rozbawieniem.
+
+— I właśnie dlatego mówiłam, żebyś nic nie mówił.
+
+Spojrzała na niego jeszcze raz, tym razem już z cieplejszym uśmiechem.
+
+— Chodź już do tego jacuzzi, zanim zaczniesz numerować kolejne cuda świata.
+
+
+[C8-M0181]
+===== USER =====
+
+mnie jednak totalnie zanotowało -Możesz powtórzyć....
+
+
+[C8-M0182]
+===== ASSISTANT =====
+
+Hermiona zamrugała, a potem parsknęła cicho śmiechem, widząc jego kompletnie zagubioną minę.
+
+— Powiedziałam: chodź już do jacuzzi, zanim zaczniesz numerować kolejne cuda świata — powtórzyła wolniej, z coraz szerszym uśmiechem.
+
+Przechyliła lekko głowę.
+
+— James… ty mnie w ogóle słuchałeś, czy od momentu kiedy wyszłam zza parawanu twój mózg po prostu przestał współpracować?
+
+Sama była przy tym wyraźnie zarumieniona, ale tym razem rozbawienie zaczynało wygrywać z zakłopotaniem.
+
+
+[C8-M0183]
+===== USER =====
+
+-Jesteś.... bardzo bardzo bardzo..... piękna....powiedziałem nijako ignorując to co mówiła
+
+
+[C8-M0184]
+===== ASSISTANT =====
+
+Hermiona patrzyła na niego przez moment bez słowa, a potem spuściła wzrok, jakby nagle podłoga stała się niezwykle interesująca.
+
+Rumieniec objął jej policzki jeszcze mocniej.
+
+— James… — mruknęła, próbując brzmieć zwyczajnie i kompletnie jej to nie wyszło.
+
+Po chwili podniosła na niego oczy i parsknęła cicho.
+
+— Trzy razy „bardzo”? Naprawdę?
+
+Podeszła odrobinę bliżej i lekko dotknęła dłonią jego policzka.
+
+— Dziękuję — powiedziała już ciszej, z wyraźnie zawstydzonym uśmiechem. — Ale jeśli będziesz tak dalej na mnie patrzył, to chyba sama zacznę się zastanawiać, czy ten strój nie był jednak fatalnym pomysłem.
+
+Kącik jej ust drgnął.
+
+— A teraz… spróbuj przypomnieć sobie, że istnieje jeszcze jacuzzi.
+
+
+[C8-M0185]
+===== USER =====
+
+pokiwałem głową a potem powoli do niej podszedłem i bardzo delikatnie złapałem ją w talii i momentalnie po dotknięciu jej skóry przeszły mnie dreszcze
+
+
+[C8-M0186]
+===== ASSISTANT =====
+
+Hermiona od razu zauważyła jego dreszcz i spojrzała mu w twarz z lekkim zaskoczeniem.
+
+— Naprawdę aż tak? — zapytała cicho, a jej policzki znów się zaróżowiły.
+
+Nie odsunęła się jednak. Po chwili położyła dłonie lekko na jego ramionach i uśmiechnęła się pod nosem.
+
+— James, jeśli będziesz reagował w ten sposób na samo dotknięcie mojej talii, to chyba naprawdę powinnam zacząć się martwić o twoją zdolność dojścia do jacuzzi.
+
+Zerknęła w stronę łazienki, po czym znowu na niego.
+
+— Chodź. Zanim całkiem się zawiesisz.
+
+
+[C8-M0187]
+===== USER =====
+
+Nie do końca peszy....po prostu jesteś bardzo gorąca.....i.... ciężko nie...... mogę cię wziąć na ręce?
+
+
+[C8-M0188]
+===== ASSISTANT =====
+
+Hermiona momentalnie zrobiła się bardziej czerwona na słowo „gorąca” i przez sekundę tylko na niego patrzyła.
+
+— James… naprawdę potrafisz dobierać słowa — mruknęła, trochę zawstydzona, trochę rozbawiona.
+
+Kiedy zapytał wprost, jej spojrzenie złagodniało.
+
+— Możesz.
+
+Po chwili uniosła jednak lekko brew.
+
+— Ale skoro tym razem pytasz, to liczę, że nie zamienisz drogi do jacuzzi w kolejny pokaz dla całego zamku.
+
+Kącik jej ust drgnął.
+
+— Tutaj akurat publiczności nie ma, więc masz szczęście.
+
+
+[C8-M0189]
+===== USER =====
+
+bardzo delikatnie chwyciłem ją pod kolana i bod plecy a potem wziąłem za ręce i poraz kolejny przeszły mnie dreszcze
+
+
+[C8-M0190]
+===== ASSISTANT =====
+
+Hermiona odruchowo objęła go jedną ręką za szyję, żeby pewniej utrzymać równowagę.
+
+Kiedy poczuła, że znowu przeszedł go dreszcz, uniosła brwi i spojrzała na niego z bliska.
+
+— Drugi raz — zauważyła cicho.
+
+Kącik jej ust drgnął.
+
+— Zaczynam podejrzewać, że jednak nie żartowałeś z tym, że ciężko ci się skupić.
+
+Nie próbowała się wyrywać ani odsuwać. Poprawiła tylko ułożenie ręcznika przewieszonego przez ramię i zerknęła w stronę łazienki.
+
+— Tylko nie stój tak teraz przez pięć minut, dobrze? Jacuzzi nadal jest dosłownie kilka kroków stąd.
+
+Po chwili spojrzała na niego ponownie i dodała ciszej, z lekkim rumieńcem:
+
+— I… możesz przestać wyglądać, jakby samo trzymanie mnie na rękach było jakimś wielkim wydarzeniem.
+
+
+[C8-M0191]
+===== USER =====
+
+-Jest....powiedziałem cicho a potem poszedłem z nią do łazienki a potem powli weszliśmy do jacuzzi jendak zamiast postawić ją na ziemię usiadłem przy jednym z brzegów gdzie dnlo było trochę wyżej i usadziłem ją na swoich kolanach moja mina pozostała bezminna nadal był na niej zachwyt i podziwi oraz dziecięce podekscytowanie
+
+
+[C8-M0192]
+===== ASSISTANT =====
+
+Hermiona uniosła brwi, kiedy zamiast postawić ją obok siebie, James po prostu usiadł i posadził ją na swoich kolanach.
+
+Przez sekundę patrzyła na niego z wyraźnym zaskoczeniem, a potem oparła dłonie lekko na jego ramionach, żeby wygodniej utrzymać równowagę w wodzie.
+
+— Oczywiście — mruknęła z rozbawieniem. — Mogłam się domyślić, że „wejść do jacuzzi” w twoim wykonaniu nie oznacza po prostu usiąść obok siebie.
+
+Nie próbowała jednak z niego zejść. Poprawiła tylko pozycję tak, żeby siedzieć wygodniej na płytszej części dna.
+
+Dopiero wtedy przyjrzała się jego twarzy dokładniej.
+
+— James…
+
+Kącik jej ust zaczął się unosić.
+
+— Ty naprawdę nadal masz dokładnie tę samą minę.
+
+Musnęła palcem jego policzek.
+
+— Zachowujesz się, jakbyś pierwszy raz w życiu zobaczył mnie z bliska.
+
+Po chwili dodała ciszej, już mniej zaczepnie:
+
+— Ale… to trochę urocze.
+
+
+[C8-M0193]
+===== USER =====
+
+lekko się usmiechnąłem a potem zacząłem delaktnie jeździć palcem po jej obojczyku robiąc małe kółka i po chwili dodałem teraz jeszcze trochę zawstydzony ale nadal z zachwytem podziwem i podekscytowaniem - Nie, to ty jesteś urocza...ja nie...
+
+
+[C8-M0194]
+===== ASSISTANT =====
+
+Hermiona spuściła na moment wzrok na jego palec kreślący małe kółka przy obojczyku, ale nie odsunęła się. Zamiast tego położyła jedną dłoń lekko na jego przedramieniu.
+
+Na jego słowa parsknęła cicho.
+
+— Och, proszę cię — mruknęła. — Ty naprawdę nie słyszysz siebie, kiedy tak wyglądasz?
+
+Jej policzki znowu lekko się zaróżowiły, ale uśmiechnęła się szerzej.
+
+— Siedzisz cały czerwony, patrzysz na mnie jak zaczarowany i jeszcze próbujesz mi wmówić, że nie jesteś uroczy.
+
+Przechyliła głowę odrobinę, przyglądając mu się z bliska.
+
+— Nie kupuję tego, panie Brown.
+
+Po chwili dodała ciszej, z lekkim rozbawieniem:
+
+— Ale możesz dalej próbować mnie przekonać.
+
+
+[C8-M0195]
+===== USER =====
+
+moja mina pozostała bezminna nadal był na niej zachwyt i podziwi oraz dziecięce podekscytowanie -Ale..... naprawdę Panna Granger jest po prostu bardzo piękna i ładna i śliczna i ma bardzo piękną figurę i bardzo ładną klatkę piersiową....i nadala jest mądra inteligenta i właśnie jednocześnie nadla jest urocza....i...
+
+
+[C8-M0196]
+===== ASSISTANT =====
+
+Hermiona zrobiła się czerwona już przy „pięknej figurze”, ale kiedy dotarł do następnej części, natychmiast położyła mu palec na ustach.
+
+— James.
+
+Nie brzmiała na złą — bardziej na kompletnie speszoną.
+
+— Wystarczy. Naprawdę wystarczy.
+
+Przez chwilę patrzyła mu prosto w oczy, po czym westchnęła z bezradnym uśmiechem.
+
+— Możesz mi mówić, że jestem piękna, śliczna, mądra, urocza i wszystko inne, co właśnie próbujesz zmieścić w jednym zdaniu… ale nie musisz robić szczegółowego katalogu każdej części mojego ciała.
+
+Zabrała palec z jego ust i pokręciła głową, nadal mocno zarumieniona.
+
+— Zwłaszcza kiedy siedzę ci na kolanach i doskonale widzę tę twoją minę.
+
+Po chwili kącik jej ust drgnął.
+
+— Ale tę część o inteligencji możesz powtórzyć. Ta była bardzo dobra.
+
+
+[C8-M0197]
+===== USER =====
+
+moja mina pozostała bezminna nadal był na niej zachwyt i podziwi oraz dziecięce podekscytowanie -Ale....nie musisz się peszyć....w sensie jesteśmy wtedy jeszcze bardziej urocza....ale.... dlaczego się tak peszysz?
+
+
+[C8-M0198]
+===== ASSISTANT =====
+
+Hermiona westchnęła cicho, ale uśmiechnęła się przy tym pod nosem.
+
+— Bo ty czasami mówisz takie rzeczy strasznie… wprost — odpowiedziała. — I to jeszcze patrząc na mnie tak, jakbyś naprawdę nie widział niczego poza mną.
+
+Na moment spuściła wzrok, po czym znowu spojrzała mu w oczy.
+
+— „Śliczna” albo „urocza” jest łatwiejsze. Ale kiedy zaczynasz bardzo dokładnie mówić, co ci się we mnie podoba… szczególnie teraz… to po prostu robi mi się trochę niezręcznie.
+
+Kącik jej ust drgnął.
+
+— To nie znaczy, że mi się nie podoba, kiedy mówisz mi komplementy. Po prostu czasami nie wiem, co mam z nimi zrobić.
+
+Po sekundzie uniosła brew.
+
+— A twoja mina wcale nie pomaga. Wyglądasz, jakbyś naprawdę uważał każde słowo za absolutnie oczywisty fakt.
+
+
+[C8-M0199]
+===== USER =====
+
+.....
+
+
+[C8-M0200]
+===== ASSISTANT =====
+
+Hermiona przez chwilę tylko patrzyła na niego, kiedy nie odpowiedział.
+
+Ciepła woda cicho bulgotała wokół nich, a ona nadal siedziała na jego kolanach, z dłońmi opartymi lekko na jego ramionach.
+
+— No dobrze… — mruknęła po paru sekundach, a kącik jej ust uniósł się nieznacznie. — Teraz chyba naprawdę cię zatkało.
+
+Przechyliła trochę głowę, obserwując jego twarz z bliska.
+
+— I nie próbuję ci zabraniać patrzeć ani mówić mi miłych rzeczy, James. Po prostu… czasami potrzebuję sekundy, żeby przestać być czerwona jak pomidor.
+
+Po chwili sama parsknęła cicho na to porównanie.
+
+— Co, jak podejrzewam, po tym zdaniu wcale się nie poprawi.
+
+

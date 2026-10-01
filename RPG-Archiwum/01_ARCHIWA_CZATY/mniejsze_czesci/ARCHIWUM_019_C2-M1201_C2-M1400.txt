@@ -1,0 +1,4164 @@
+[C2-M1201]
+===== ASSISTANT =====
+
+Czarny skoczek przeskoczył z g8 na f6.
+
+Theodore spojrzał na planszę bez pośpiechu, po czym przesunął pionka z c2 na c4.
+
+— c4.
+
+Draco zerknął na ustawienie.
+
+— Czyli jednak zamierzasz grać normalnie.
+
+Theodore uniósł lekko brew.
+
+— W przeciwieństwie do kogo?
+
+Pansy parsknęła śmiechem, a Draco skrzywił się.
+
+— Grajcie.
+
+Theodore znów skupił się na planszy.
+
+— Twój ruch, Brown.
+
+
+
+[C2-M1202]
+===== USER =====
+
+pion d5
+
+
+
+[C2-M1203]
+===== ASSISTANT =====
+
+Czarny pionek z d7 ruszył na d5 i stanął naprzeciw białego centrum.
+
+Theodore przyjrzał się pozycji chwilę dłużej niż Draco podczas poprzedniej partii.
+
+— Dobrze.
+
+Przesunął pionka z c4 na d5, zbijając czarnego.
+
+— cxd5.
+
+Kamienny pionek zepchnął przeciwnika z pola i zajął jego miejsce.
+
+Draco od razu zerknął na Theodore’a.
+
+— Bierzesz?
+
+— Na razie tak.
+
+Theodore cofnął dłoń i spojrzał na drugą stronę planszy.
+
+— Twój ruch.
+
+
+
+[C2-M1204]
+===== USER =====
+
+skoczek xd5
+
+
+
+[C2-M1205]
+===== ASSISTANT =====
+
+Czarny skoczek z f6 przeskoczył na d5 i zbił białego pionka.
+
+Theodore przyjrzał się pozycji, po czym przesunął pionka z e2 na e4.
+
+— e4.
+
+Biały pionek stanął w centrum, od razu atakując skoczka na d5.
+
+Draco zerknął na planszę.
+
+— To już wygląda trochę bardziej agresywnie.
+
+Theodore nawet na niego nie spojrzał.
+
+— Twój ruch, Brown.
+
+
+
+[C2-M1206]
+===== USER =====
+
+skoczek b4
+
+
+
+[C2-M1207]
+===== ASSISTANT =====
+
+Czarny skoczek z d5 cofnął się na b4.
+
+Theodore zmrużył lekko oczy, śledząc jego drogę, po czym przesunął skoczka z g1 na f3.
+
+— Sf3.
+
+Draco spojrzał na planszę.
+
+— Wygląda, jakbyś próbował go wypchnąć z centrum i jednocześnie rozwijać figury.
+
+— To dość podstawowa koncepcja — odparł Theodore.
+
+Pansy rzuciła z boku:
+
+— Proszę, nie zaczynajcie wykładu. Jeszcze naprawdę zdążymy do wieczora.
+
+Theodore ponownie spojrzał na czarne figury.
+
+— Twój ruch, Brown.
+
+
+
+[C2-M1208]
+===== USER =====
+
+goniec g4
+
+
+
+[C2-M1209]
+===== ASSISTANT =====
+
+Czarny goniec z c8 przesunął się po przekątnej aż na g4, ustawiając się naprzeciw skoczka na f3.
+
+Theodore przyjrzał się planszy i tym razem zatrzymał wzrok także na czarnym skoczku stojącym na b4.
+
+— Mhm.
+
+Przesunął pionka z a2 na a3.
+
+— a3.
+
+Biały pionek stanął przed skoczkiem, natychmiast go atakując.
+
+Draco nachylił się odrobinę nad planszą.
+
+— Teraz musi się ruszyć.
+
+Theodore odpowiedział spokojnie:
+
+— Taki był zamysł.
+
+Po czym spojrzał na czarną stronę szachownicy.
+
+— Twój ruch, Brown.
+
+
+
+[C2-M1210]
+===== USER =====
+
+goniec f3
+
+
+
+[C2-M1211]
+===== ASSISTANT =====
+
+Czarny goniec z g4 zszedł na f3 i zbił białego skoczka.
+
+Theodore spojrzał na pole f3, potem na własnego hetmana. Nie zastanawiał się długo.
+
+— Hxf3.
+
+Biały hetman przesunął się z d1 po przekątnej przez puste e2 i zbił gońca na f3.
+
+Draco pokiwał głową.
+
+— Tym razem Nott przynajmniej zauważył, że ktoś zostawił mu figurę.
+
+Theodore spojrzał na niego bez emocji.
+
+— Nadal boli?
+
+— Nie.
+
+Pansy odezwała się natychmiast:
+
+— Boli.
+
+Theodore wrócił wzrokiem do planszy.
+
+— Twój ruch, Brown.
+
+
+
+[C2-M1212]
+===== ASSISTANT =====
+
+Czarny skoczek z b4 wskoczył na c2.
+
+Kamienny król Theodore’a natychmiast uniósł miecz alarmująco.
+
+— Szach — powiedział Theodore, spoglądając najpierw na skoczka, a potem na własną wieżę na a1.
+
+Draco od razu się pochylił.
+
+— Och. I widełki.
+
+Pansy zerknęła znad bukieciku.
+
+— Czyli jednak robi się ciekawie?
+
+— Trochę — przyznał Theodore.
+
+Po krótkim namyśle przesunął króla z e1 na d1.
+
+— Kd1.
+
+Król zszedł z atakowanego pola, ale czarny skoczek nadal stał na c2, z otwartą drogą do wieży na a1.
+
+Draco uśmiechnął się krzywo.
+
+— No, Nott. Teraz zobaczymy, czy Brown jest wystarczająco bezczelny, żeby ją zabrać.
+
+Theodore spojrzał na Jamesa ponad planszą.
+
+— Twój ruch.
+
+
+
+[C2-M1213]
+===== USER =====
+
+skoczek a1
+
+
+
+[C2-M1214]
+===== ASSISTANT =====
+
+Czarny skoczek z c2 przeskoczył na a1 i z hukiem strącił białą wieżę z planszy.
+
+Draco aż się wyprostował.
+
+— O, to już było paskudne.
+
+Theodore spojrzał na skoczka stojącego w rogu, potem na brakującą wieżę.
+
+— Za wcześnie, żeby świętować. Teraz musi jeszcze stamtąd wyjść.
+
+Przesunął gońca z f1 na c4, rozwijając figurę w stronę czarnego skrzydła królewskiego.
+
+— Gc4.
+
+Pansy zerknęła na planszę.
+
+— Czyli plan brzmi: stracić wieżę i udawać, że wszystko jest pod kontrolą?
+
+Theodore odpowiedział spokojnie:
+
+— Plan brzmi: sprawdzić, czy skoczek wróci żywy.
+
+Draco uśmiechnął się pod nosem.
+
+— Teraz jestem zainteresowany.
+
+Theodore spojrzał na czarne figury.
+
+— Twój ruch.
+
+
+
+[C2-M1215]
+===== USER =====
+
+hetman d4
+
+
+
+[C2-M1216]
+===== ASSISTANT =====
+
+Czarny hetman z d8 ruszył prosto w dół i zbił białego pionka stojącego na d4.
+
+Theodore natychmiast spojrzał na linię prowadzącą do własnego króla.
+
+— Hxd4+. Szach.
+
+Draco uśmiechnął się szerzej.
+
+— O, Brown przestał polować na materiał. Teraz zaczyna polować na króla.
+
+Theodore przez kilka sekund analizował pozycję, po czym przesunął gońca z c1 na d2, zasłaniając linię szacha.
+
+— Gd2.
+
+Goniec stanął pomiędzy hetmanem a królem.
+
+Pansy zerknęła na planszę.
+
+— Czy tylko mnie się wydaje, czy Nott ma coraz mniej miejsca?
+
+Theodore odpowiedział sucho:
+
+— Mam wystarczająco.
+
+Po czym spojrzał na czarne figury.
+
+— Twój ruch, Brown.
+
+
+
+[C2-M1217]
+===== USER =====
+
+Hetman b2
+
+
+
+[C2-M1218]
+===== ASSISTANT =====
+
+Czarny hetman przesunął się po przekątnej z d4 na b2, zbijając stojącego tam białego pionka.
+
+Theodore zmarszczył lekko brwi.
+
+— Hxb2. I jeszcze zaglądasz do skoczka na b1.
+
+Draco nachylił się nad planszą.
+
+— Nott, zaczynasz wyglądać, jakbyś żałował tej partii.
+
+— Jeszcze nie.
+
+Theodore przesunął gońca z d2 na c3.
+
+— Gc3.
+
+Biały goniec stanął na c3, osłaniany przez hetmana z f3, i zaatakował czarną królową na b2.
+
+Theodore cofnął dłoń.
+
+— Teraz hetman musi się ruszyć.
+
+Pansy zerknęła na planszę.
+
+— Przynajmniej tym razem ktoś próbuje wyrzucić go z własnej połowy.
+
+Draco prychnął.
+
+— Zobaczymy, dokąd Brown go schowa.
+
+
+
+[C2-M1219]
+===== USER =====
+
+Hetman xb1
+
+
+
+[C2-M1220]
+===== ASSISTANT =====
+
+Czarny hetman z b2 zsunął się na b1 i zbił stojącego tam białego skoczka.
+
+Kamienny król Theodore’a natychmiast uniósł miecz.
+
+— Szach — powiedział Theodore, spoglądając na linię b1–d1.
+
+Draco aż pochylił się nad planszą.
+
+— I drugi skoczek też zniknął.
+
+Theodore przez chwilę analizował pozycję. Drogi na c1 i e1 odcinał hetman, więc przesunął króla z d1 na d2.
+
+— Kd2.
+
+Król stanął na d2, a Theodore cofnął dłoń.
+
+Pansy spojrzała na planszę i pokręciła głową.
+
+— Wygląda to coraz mniej jak partia szachów, a coraz bardziej jak napad.
+
+Draco uśmiechnął się krzywo.
+
+— Brown ma wieżę, oba skoczki i kilka pionków. Nott, chyba powinieneś zacząć się martwić.
+
+Theodore nie oderwał wzroku od szachownicy.
+
+— Zacznę, kiedy będzie po partii.
+
+— Twój ruch, Brown.
+
+
+
+[C2-M1221]
+===== USER =====
+
+Hetman c2
+
+
+
+[C2-M1222]
+===== ASSISTANT =====
+
+Czarny hetman przesunął się z b1 na c2.
+
+Theodore od razu spojrzał na własnego króla.
+
+— Szach.
+
+Draco pochylił się nad planszą jeszcze bardziej.
+
+— Brown naprawdę nie zamierza dać ci chwili spokoju.
+
+Theodore przez moment sprawdził dostępne pola, po czym przesunął króla z d2 na e1.
+
+— Ke1.
+
+Biały król wycofał się na e1. Theodore cofnął rękę i spojrzał na pozycję bez większych emocji.
+
+— Twój ruch.
+
+
+
+[C2-M1223]
+===== USER =====
+
+Hetman c1
+
+
+
+[C2-M1224]
+===== ASSISTANT =====
+
+Czarny hetman zszedł z c2 na c1.
+
+Biały król natychmiast uniósł miecz.
+
+— Szach — stwierdził Theodore, tym razem marszcząc brwi trochę mocniej.
+
+Draco przesunął spojrzeniem od hetmana do króla.
+
+— Trzeci z rzędu. Nott, on cię prowadzi po planszy jak na smyczy.
+
+— Zauważyłem, Malfoy.
+
+Theodore przez chwilę analizował pola wokół króla, po czym przesunął go z e1 na e2.
+
+— Ke2.
+
+Król stanął na e2, wychodząc z linii hetmana.
+
+Pansy zerknęła znad bukieciku.
+
+— Powinnam zacząć liczyć, ile razy jeszcze zmusi cię do przesunięcia króla?
+
+Theodore spojrzał na czarne figury.
+
+— Lepiej licz, czy zdążymy skończyć przed balem.
+
+— Twój ruch, Brown.
+
+
+
+[C2-M1225]
+===== USER =====
+
+skoczek c2
+
+
+
+[C2-M1226]
+===== ASSISTANT =====
+
+Czarny skoczek z a1 przeskoczył na c2. Nic nie mogło go po drodze zablokować — skoczek przeskakuje nad figurami, a biały goniec, który zaczynał na f1, już wcześniej wyszedł na c4.
+
+Theodore spojrzał na ustawienie, po czym zamiast ratować kolejne figury przesunął właśnie tego gońca z c4 na f7, zbijając pionka.
+
+— Gxf7+. Szach.
+
+Draco uniósł brwi.
+
+— O. Nott jednak postanowił gryźć przed śmiercią.
+
+Theodore spojrzał spokojnie na czarnego króla.
+
+— Jeszcze nie umarłem.
+
+Pansy zerknęła na planszę.
+
+— Ta partia jest zdecydowanie ciekawsza od poprzedniej.
+
+
+
+[C2-M1227]
+===== USER =====
+
+partia wydłużyła się jeszcze trochę ale ostatecznie wygrałem wykonując ostatni ruch rzuciłem - Ty też jesteś raczej miernym szachistą
+
+
+
+[C2-M1228]
+===== ASSISTANT =====
+
+Theodore przez chwilę patrzył na końcową pozycję, po czym przewrócił własnego króla palcem.
+
+— Tak. To właśnie udowodniłeś.
+
+Draco natychmiast prychnął.
+
+— Nie przyzwyczajaj się, Brown. Pokonałeś dwóch ludzi w pokoju wspólnym, nie Capablankę.
+
+Pansy spojrzała znad pilnowanego bukieciku.
+
+— Ale za to obaj byliście bardzo pewni siebie przed rozpoczęciem.
+
+Theodore zaczął spokojnie zbierać zbite figury.
+
+— W mojej obronie przynajmniej nie dostałem mata na h2.
+
+Draco odwrócił głowę w jego stronę.
+
+— Naprawdę chcesz do tego wracać?
+
+— Nie. Chciałem tylko upewnić się, że ty wrócisz.
+
+Pansy parsknęła śmiechem.
+
+W ciągu wydłużonej partii pokój wspólny zdążył się trochę zmienić. Coraz więcej uczniów znikało w dormitoriach, a ci, którzy wracali, byli już wyraźnie bardziej odświętnie ubrani. Zegar przesunął się o kolejne kilkadziesiąt minut.
+
+Draco spojrzał na szachownicę.
+
+— Rewanż później.
+
+Theodore uniósł brew.
+
+— Czyli po tym, jak odzyskasz odwagę?
+
+— Nott.
+
+
+
+[C2-M1229]
+===== ASSISTANT =====
+
+Zegar w pokoju wspólnym wskazywał kilka minut po siedemnastej.
+
+Do rozpoczęcia balu zostały jeszcze niecałe trzy godziny.
+
+Pansy również zerknęła na tarczę.
+
+— No. Teraz przynajmniej zaczyna to przypominać rozsądny czas na bycie gotowym.
+
+Theodore odsunął szachownicę.
+
+— Dwie partie skutecznie zabiły sporą część popołudnia.
+
+Draco mruknął:
+
+— I moją reputację przy okazji.
+
+
+
+[C2-M1230]
+===== USER =====
+
+pokręciłem głową - Dobra, uderz mnie...
+
+
+
+[C2-M1231]
+===== ASSISTANT =====
+
+Draco uniósł brwi.
+
+— Naprawdę?
+
+Pansy natychmiast odwróciła głowę.
+
+— Nie dawaj mu takich zaproszeń, Brown.
+
+Theodore spojrzał znad szachownicy.
+
+— Szczególnie po tym, jak właśnie dwukrotnie obraziłeś jego umiejętności szachowe.
+
+Draco wstał, podszedł i bez większej ceremonii wymierzył Jamesowi krótki, kontrolowany cios pięścią w ramię — wystarczająco mocny, żeby rzeczywiście zabolało, ale zdecydowanie nie tak, jakby próbował zrobić mu krzywdę.
+
+— Proszę bardzo.
+
+Cofnął rękę i poprawił mankiet.
+
+— Bezpłatnie. Następny kosztuje galeona.
+
+Pansy pokręciła głową.
+
+— Wy jesteście idiotami.
+
+
+
+[C2-M1232]
+===== USER =====
+
+poruszyłem ramieniem sprawdzając czy nadal działa a potem znowu spojrzałem na zegar
+
+
+
+[C2-M1233]
+===== ASSISTANT =====
+
+Ramię nadal działało normalnie; po krótkim, kontrolowanym uderzeniu nie było widać niczego poza chwilowym dyskomfortem.
+
+Zegar wskazywał mniej więcej 17:10.
+
+Draco również na niego zerknął.
+
+— Nie patrz na niego co trzy minuty. Od tego nie przyspieszy.
+
+Theodore odparł spokojnie:
+
+— Technicznie zawsze przyspiesza. Tylko dokładnie w tym samym tempie.
+
+Pansy przewróciła oczami.
+
+— Jeszcze prawie trzy godziny. Jeśli zaczniecie teraz trzecią partię, może do osiemnastej Brown przestanie sprawdzać zegar co chwilę.
+
+
+
+[C2-M1234]
+===== USER =====
+
+-Wolal bym kogoś zabić....
+
+
+
+[C2-M1235]
+===== ASSISTANT =====
+
+Draco prychnął.
+
+— Wolałbym, żebyś jednak został przy szachach.
+
+Pansy spojrzała na Jamesa ponad oparciem fotela.
+
+— Zdecydowanie. Zwłaszcza dzisiaj. Nie mam zamiaru tłumaczyć McGonagall, że przed balem zabrakło jednego ucznia, bo Brown nie umiał znieść trzech godzin czekania.
+
+Theodore zamknął pudełko z figurami.
+
+— Poza tym zabójstwo prawdopodobnie zajęłoby mniej czasu niż rozsądna partia. Czyli nadal zostałby ci problem z zegarem.
+
+Draco zerknął na tarczę.
+
+— To może być najgorsza część całego wieczoru: patrzenie, jak Brown próbuje przetrwać do dwudziestej.
+
+
+
+[C2-M1236]
+===== USER =====
+
+-Dobra to omówimy plan... Jestem na sali wchodzi ona...i najpierw bukiet komplemnet czy ukłon czy może wszystko na raz? Spytałem ale spojrzałem tylko na Pansy
+
+
+
+[C2-M1237]
+===== ASSISTANT =====
+
+Pansy od razu spoważniała, skoro pytanie wyraźnie było skierowane do niej.
+
+— Nie wszystko naraz. Będziesz wyglądał, jakbyś odgrywał scenę z taniego romansu.
+
+Wskazała lekko palcem, jakby układała kolejność.
+
+— Najpierw pozwól jej podejść. Spójrz na nią porządnie. Powiedz jeden komplement — krótki, konkretny, bez przemowy. Potem daj bukiet.
+
+Zerknęła na czerwone róże leżące obok.
+
+— Ukłon zostawiłabym na moment, kiedy poprosisz ją do tańca. Wtedy będzie pasował. Przy samym powitaniu wystarczy, że nie staniesz jak sparaliżowany.
+
+Draco parsknął gdzieś z boku, ale Pansy nawet na niego nie spojrzała.
+
+— I Brown? Nie przygotowuj pięciu komplementów. Jeśli naprawdę zrobi wrażenie, pierwszy, który przyjdzie ci do głowy, będzie lepszy niż coś wyuczonego przez trzy godziny przed lustrem.
+
+
+
+[C2-M1238]
+===== USER =====
+
+-ok co jak jednsk stanę jak sparaliżowany?
+
+
+
+[C2-M1239]
+===== ASSISTANT =====
+
+Pansy wzruszyła lekko ramionami.
+
+— To przez pierwsze dwie sekundy wyglądasz jak sparaliżowany. Potem mówisz cokolwiek prostego.
+
+Spojrzała na Jamesa uważnie.
+
+— „Wyglądasz pięknie.” Naprawdę. Tyle wystarczy. Nie musisz być błyskotliwy.
+
+Przesunęła wzrok na bukiet.
+
+— A jeśli kompletnie zatnie ci mowę, po prostu podaj jej kwiaty. To przynajmniej da ci kilka sekund, żeby mózg wrócił do działania.
+
+Kącik jej ust drgnął.
+
+— I nie próbuj ratować sytuacji żartem typu „zapomniałem języka”. Jeśli ona zrobi aż takie wrażenie, to i tak będzie to po tobie widać.
+
+
+
+[C2-M1240]
+===== USER =====
+
+-To już się wcześniej zdażało ale nie pamiętam co wtedy się działo....
+
+
+
+[C2-M1241]
+===== ASSISTANT =====
+
+Pansy uniosła brew.
+
+— A ja mam niby pamiętać za ciebie?
+
+Po chwili jednak zerknęła na niego trochę uważniej.
+
+— Jeśli mówisz o sytuacjach z nią, to raczej mnie przy tym nie było. Więc nie będę ci wymyślać wspomnień.
+
+Draco prychnął z fotela.
+
+— Ja pamiętam kilka momentów, kiedy wyglądałeś, jakby ktoś ci nagle odłączył połowę mózgu.
+
+Theodore podniósł wzrok.
+
+— To nadal nie zawęża sprawy wystarczająco.
+
+Pansy zignorowała ich obu.
+
+— Ale skoro już ci się to zdarzało i przeżyłeś, to tym bardziej nie ma problemu. Nawet jeśli na chwilę cię zatka, nie musisz niczego „naprawiać”. Po prostu dajesz jej kwiaty i mówisz pierwszą sensowną rzecz, kiedy wróci ci język.
+
+
+
+[C2-M1242]
+===== USER =====
+
+-Słusznie....potem już z górki nie musze wam jej przedstawiać bo już ją raczej znacie...
+
+
+
+[C2-M1243]
+===== ASSISTANT =====
+
+Pansy spojrzała na niego podejrzliwie.
+
+— „Raczej znacie” to bardzo wygodne sformułowanie.
+
+Draco od razu podchwycił:
+
+— Czyli jest z Hogwartu.
+
+Theodore uniósł wzrok.
+
+— Tego akurat jeszcze nie powiedział.
+
+— Właśnie powiedział prawie dokładnie to — odparł Draco.
+
+Pansy zmrużyła oczy, ale nie naciskała dalej.
+
+— Dobrze. Jeśli ją znam, tym lepiej. Oszczędzimy sobie niezręcznego „to jest taka i taka”. Ty po prostu zajmij się nią, a reszta sama się zorientuje.
+
+Draco uśmiechnął się krzywo.
+
+— Och, zorientujemy się bardzo szybko.
+
+
+
+[C2-M1244]
+===== USER =====
+
+-ok, będzie dobrze...ale jak mnie wkurzycuw to już na pierwszym balu zmienię was w żaby....
+
+
+
+[C2-M1245]
+===== ASSISTANT =====
+
+Pansy spojrzała na niego z bardzo spokojną miną.
+
+— Nie. Żadnych żab na pierwszym balu.
+
+Draco prychnął.
+
+— Mów za siebie. Ja chcę zobaczyć, czy Brown w ogóle potrafi mnie zmienić w żabę, zanim McGonagall zmieni jego w coś znacznie mniej przyjemnego.
+
+Theodore odłożył książkę na kolano.
+
+— Przypominam, że po północy mamy już spisane zasady dotyczące pojedynków, bójek i wyrzucania ludzi z imprezy.
+
+Pansy wskazała Jamesa palcem.
+
+— I jeśli spróbujesz transmutować kogokolwiek dlatego, że skomentuje twoją partnerkę, sama cię wydam McGonagall.
+
+Draco uśmiechnął się pod nosem.
+
+— Czyli jednak planujesz zrobić coś, co nas wkurzy.
+
+Pansy od razu spojrzała na niego.
+
+— Malfoy. Nie pomagaj.
+
+
+
+[C2-M1246]
+===== USER =====
+
+Ok czyli lecisz pierwsa później dopiero osoba która poczuła się za Pewnie.....
+
+
+
+[C2-M1247]
+===== ASSISTANT =====
+
+Pansy spojrzała na Jamesa przez dłuższą chwilę.
+
+— Aha. Czyli ja pierwsza, a potem ten, kto poczuje się zbyt pewnie.
+
+Draco natychmiast się uśmiechnął.
+
+— Doskonale. W takim razie będę bardzo ostrożny.
+
+Theodore nawet nie podniósł głowy.
+
+— Nie będziesz.
+
+— Nott.
+
+Pansy skrzyżowała ręce.
+
+— Brown, jeśli naprawdę spróbujesz zrobić ze mnie żabę na balu, to po odwróceniu transmutacji osobiście zadbam, żeby twoja tajemnicza partnerka dowiedziała się dokładnie, jak zachowywałeś się trzy godziny przed jej wejściem.
+
+Draco parsknął.
+
+— To jest znacznie groźniejsze niż żaba.
+
+
+
+[C2-M1248]
+===== USER =====
+
+-myśle że ona zdaję sobie z tego sprawę...
+
+
+
+[C2-M1249]
+===== ASSISTANT =====
+
+Pansy prychnęła cicho.
+
+— To akurat brzmi wiarygodnie.
+
+Draco spojrzał między nimi.
+
+— Czyli ona już wie, że jesteś problemem?
+
+Theodore zamknął książkę na palcu.
+
+— To byłaby cenna informacja dla każdego, kto planuje spędzić z Brownem wieczór.
+
+Pansy zerknęła na bukiecik, a potem z powrotem na Jamesa.
+
+— W takim razie tym bardziej nie próbuj niczego udowadniać. Jeśli zna cię wystarczająco dobrze, to pewnie i tak rozpozna moment, w którym zaczynasz kombinować.
+
+
+
+[C2-M1250]
+===== USER =====
+
+-Niestety....
+
+
+
+[C2-M1251]
+===== ASSISTANT =====
+
+Pansy uśmiechnęła się z satysfakcją.
+
+— No widzisz. Czyli jednak jakaś rozsądna osoba będzie miała na ciebie oko.
+
+Draco prychnął.
+
+— Coraz bardziej chcę wiedzieć, kto dobrowolnie się na to pisał.
+
+Theodore uniósł brew.
+
+— Do dwudziestej wytrzymasz.
+
+Draco spojrzał na niego.
+
+— Nie jestem pewien.
+
+Pansy pokręciła głową.
+
+— I właśnie dlatego Brown nic wam nie mówi. Bo zachowujecie się jak dzieci przed otwieraniem prezentów.
+
+
+
+[C2-M1252]
+===== USER =====
+
+-Nie mówię im nic dlatego bo jeśli zareagowali by w "nieodpowiedni" sposób  to nie czekał bym do balu z transmutacja....
+
+
+
+[C2-M1253]
+===== ASSISTANT =====
+
+Pansy spojrzała na niego dłużej, tym razem bez rozbawienia.
+
+— I właśnie dlatego dobrze, że nam nic nie mówisz.
+
+Draco zmarszczył brwi.
+
+— „Nieodpowiedni sposób” według czyjej definicji?
+
+Theodore odpowiedział, zanim Pansy zdążyła:
+
+— Prawdopodobnie według Browna. Co nie jest szczególnie uspokajające.
+
+Pansy skrzyżowała ręce.
+
+— Możesz oczekiwać od nas przyzwoitego zachowania. Ale nie będziesz rzucał zaklęciami tylko dlatego, że ktoś zrobi minę, której nie polubisz.
+
+Draco prychnął.
+
+— A jeśli ta wielka tajemnica rzeczywiście ma mnie aż tak sprowokować, to teraz jestem jeszcze bardziej ciekawy.
+
+Theodore zerknął na niego.
+
+— I właśnie tego rodzaju zdanie sprawia, że Brown nic ci nie mówi.
+
+— Zamknij się, Nott.
+
+
+
+[C2-M1254]
+===== USER =====
+
+-Wedlug ogólnej definicji...wymagam tylko szacunku...do niej....i tyle mi wystarczy
+
+
+
+[C2-M1255]
+===== ASSISTANT =====
+
+Pansy kiwnęła głową, jakby to akurat uznawała za rozsądne.
+
+— To jest uczciwe.
+
+Draco przez moment nic nie mówił. Potem oparł łokieć o poręcz fotela.
+
+— Szacunek mogę okazać. Nie muszę od razu kogoś lubić.
+
+Theodore spojrzał na niego z boku.
+
+— To chyba właśnie Brown powiedział.
+
+— Słyszałem.
+
+Pansy przeniosła wzrok na Draco.
+
+— I żadnych komentarzy o pochodzeniu, rodzinie czy domu tylko po to, żeby sprowokować.
+
+Draco zmrużył oczy.
+
+— Parkinson, nie potrzebuję instrukcji obsługi rozmowy.
+
+Theodore odezwał się spokojnie:
+
+— Historia sugeruje coś innego.
+
+Draco posłał mu chłodne spojrzenie, ale nie odpowiedział od razu.
+
+Pansy wróciła wzrokiem do Jamesa.
+
+— Jeśli tylko tego oczekujesz, to nie powinno być problemu. Normalne przedstawienie, normalna rozmowa, żadnego robienia widowiska z tego, z kim przyszedłeś.
+
+Draco prychnął cicho.
+
+— Chociaż po całym tym ukrywaniu widowisko i tak już sobie zapewniłeś.
+
+
+
+[C2-M1256]
+===== USER =====
+
+kiwnąlem głową - może
+
+
+
+[C2-M1257]
+===== ASSISTANT =====
+
+Pansy uniosła brew.
+
+— „Może” brzmi bardzo uspokajająco.
+
+Draco uśmiechnął się krzywo.
+
+— Nie, brzmi dokładnie jak ktoś, kto już wie, że zrobi z wejścia przedstawienie.
+
+Theodore spokojnie przewrócił stronę książki.
+
+— Jeśli partnerka Browna rzeczywiście jest kimś, kogo znamy, przedstawienie zacznie się niezależnie od jego planu.
+
+Pansy zerknęła na bukiecik leżący obok.
+
+— Tym bardziej trzymaj się prostego planu. Ona wchodzi, ty nie robisz głupot, komplement, kwiaty. Reszta może wydarzyć się sama.
+
+Draco prychnął.
+
+— Najbardziej optymistyczna część tego planu to „Brown nie robi głupot”.
+
+
+
+[C2-M1258]
+===== USER =====
+
+Spojrzałem na Draco - Ja rzadko robię coś głupiego...
+
+
+
+[C2-M1259]
+===== ASSISTANT =====
+
+Draco patrzył na Jamesa przez moment w całkowitym milczeniu.
+
+Potem bardzo powoli uniósł brew.
+
+— Brown… ty masz zadziwiająco elastyczną definicję słowa „rzadko”.
+
+Pansy parsknęła śmiechem.
+
+— Chcesz, żebym zaczęła wymieniać przykłady, czy naprawdę zależy ci dziś na dobrym humorze?
+
+Theodore nawet nie podniósł wzroku znad książki.
+
+— Proponuję nie otwierać tej listy. Do balu zostało za mało czasu, żeby ją skończyć.
+
+Draco wskazał na niego.
+
+— Właśnie. Po raz pierwszy dzisiaj Nott powiedział coś rozsądnego.
+
+Pansy pokręciła głową.
+
+— Ale przyznam ci jedno: zwykle przynajmniej wyglądasz, jakbyś dokładnie wiedział, dlaczego robisz coś głupiego. To trochę pomaga.
+
+
+
+[C2-M1260]
+===== USER =====
+
+-Nie, bardzo proszę daj te przykłady albo nawet całą listę
+
+
+
+[C2-M1261]
+===== ASSISTANT =====
+
+Pansy od razu odłożyła to, co miała w rękach.
+
+— Sam tego chciałeś.
+
+Uniósła pierwszy palec.
+
+— Po pierwsze: zawiązałeś poprawnie muchę za pierwszym razem, a potem rozwiązałeś ją jakieś dwadzieścia razy, aż zacząłeś grozić ludziom śmiercią.
+
+Drugi.
+
+— Po drugie: ubrałeś się na bal kilka godzin przed jego rozpoczęciem, po czym usiadłeś w pełnym stroju i zacząłeś się zastanawiać, czym zabić czas.
+
+Trzeci.
+
+— Po trzecie: poprosiłeś Malfoya, żeby cię uderzył. Bez żadnego szczególnego powodu, który byłby dla mnie widoczny.
+
+Draco natychmiast wtrącił:
+
+— To akurat był świetny pomysł.
+
+— Dla ciebie — odbiła Pansy i uniosła kolejny palec. — Po czwarte: przed chwilą zagroziłeś, że zmienisz nas w żaby na balu, jeżeli cię zdenerwujemy. Czyli potencjalnie przed McGonagall.
+
+Theodore spokojnie dodał:
+
+— To byłby krótki eksperyment z konsekwencjami.
+
+Pansy kontynuowała:
+
+— Po piąte: zorganizowałeś dodatkowy bal po właściwym balu, dla setek osób, z cateringiem, muzyką, listą zaproszeń, ochroną wejścia i zastępcą uprawnionym do wyrzucenia samego organizatora.
+
+Theodore uniósł wzrok.
+
+— Ta ostatnia część akurat była rozsądna.
+
+— Zgadzam się. Dlatego nie mówię, że cały pomysł był głupi. Mówię, że skala była bardzo... Brownowa.
+
+Draco parsknął.
+
+Pansy wskazała kolejny palec.
+
+— Po szóste: planujesz wejście swojej partnerki z taką dokładnością, jakbyś organizował operację wojskową. Komplement, bukiet, ukłon, kolejność, reakcje świadków...
+
+— Jeszcze tylko mapa sali z zaznaczonymi pozycjami — mruknął Theodore.
+
+— Nie dawaj mu pomysłów.
+
+Pansy spojrzała prosto na Jamesa.
+
+— I po siódme: właśnie powiedziałeś trzem Ślizgonom, którzy znają cię już wystarczająco długo, że rzadko robisz coś głupiego, po czym poprosiłeś nas o całą listę.
+
+Draco uśmiechnął się szeroko.
+
+— To chyba mój ulubiony punkt.
+
+Theodore zamknął książkę.
+
+— Lista nie jest kompletna. Ale Pansy ma rację: problem nie polega na tym, że robisz głupie rzeczy bezmyślnie. Najczęściej dokładnie wiesz, co robisz. Po prostu dochodzisz do wniosku, że warto.
+
+Pansy skinęła głową.
+
+— Właśnie. I to jest znacznie bardziej niepokojące.
+
+
+
+[C2-M1262]
+===== USER =====
+
+Może z całej twojej listy tylko drugiejest glupie ale po za tym reszta to bardzo przenyslane i uzasadnione .... rzeczy
+
+
+
+[C2-M1263]
+===== ASSISTANT =====
+
+Pansy spojrzała na niego z miną pełną niedowierzania.
+
+— Oczywiście, że tak uważasz.
+
+Draco parsknął.
+
+— „Bardzo przemyślane i uzasadnione” to chyba najniebezpieczniejsze zdanie, jakie można usłyszeć od Browna przed rozpoczęciem wieczoru.
+
+Theodore uniósł lekko brwi.
+
+— Przyznam, że organizacja przyjęcia była przemyślana. Zastępca, lista gości, zasady, catering, dostęp… to miało strukturę.
+
+Pansy wskazała na niego.
+
+— Tak. To było przemyślane. Ale proszenie Malfoya, żeby cię uderzył, nie staje się genialnym planem tylko dlatego, że wcześniej o tym pomyślałeś.
+
+Draco uśmiechnął się.
+
+— Nie zgadzam się. To był znakomity pomysł.
+
+— Ty nie jesteś bezstronnym świadkiem.
+
+Theodore dodał spokojnie:
+
+— A grożenie transmutacją na balu może być uzasadnione w twojej głowie. To nadal nie znaczy, że McGonagall uzna uzasadnienie.
+
+Pansy skinęła głową.
+
+— Właśnie. Różnica między „przemyślane” a „rozsądne” jest większa, niż ci się wydaje.
+
+
+
+[C2-M1264]
+===== USER =====
+
+Pokręciłem głową - Malfoy miał mnie uderzyć abym mógł się skupić na tym jak bardzo momentami mnie wkurwia...wtedy czas płynie szybciej....a jeśli chodzi o przemiany ns balu to zapewaniam was że nikt nie zauważy że z 1200 osób na sali nagle gdzieś zniknie 3....
+
+
+
+[C2-M1265]
+===== ASSISTANT =====
+
+Draco patrzył na Jamesa przez chwilę, po czym bardzo powoli odchylił się w fotelu.
+
+— Czyli kazałeś mi się uderzyć, żeby łatwiej było ci przypominać sobie, że cię wkurwiam.
+
+Theodore uniósł wzrok znad książki.
+
+— Muszę przyznać, że to jest bardziej logiczne, niż się spodziewałem. Nie bardziej rozsądne. Ale bardziej logiczne.
+
+Pansy natomiast zatrzymała się na drugiej części wypowiedzi.
+
+— Nie. — Pokręciła głową. — Absolutnie nie podoba mi się, jak swobodnie powiedziałeś „nikt nie zauważy, że znikną trzy osoby”.
+
+Draco parsknął.
+
+— Zwłaszcza że jedną z tych trzech osób miałbym być zapewne ja.
+
+Theodore spokojnie dodał:
+
+— I nawet przy tysiącu dwustu uczniach McGonagall zauważyłaby trzy żaby zachowujące się podejrzanie ślizgońsko.
+
+Pansy wskazała Jamesa palcem.
+
+— Więc jeszcze raz: żadnych transmutacji ludzi na balu. Jeśli ktoś przekroczy granicę, możesz mu odpowiedzieć. Możesz odejść. Możesz zgłosić sprawę. Ale nie będziesz ukrywał trzech żab pod stołem i udawał, że to dekoracja.
+
+
+
+[C2-M1266]
+===== USER =====
+
+-Nie mogę tego obiecać, poza tym twoja lista obejmuje wydarzenia tylko z dzisiejszego dnia...
+
+
+
+[C2-M1267]
+===== ASSISTANT =====
+
+Pansy prychnęła.
+
+— Bo dzisiejszy dzień sam dostarczył mi wystarczająco materiału.
+
+Draco od razu podchwycił:
+
+— Chcesz pełną listę z całego roku? Świetnie. To może potrwać do rozpoczęcia balu.
+
+Theodore zamknął książkę całkiem i spojrzał na Jamesa.
+
+— Z pamięci? Dałoby się zebrać kilka kategorii.
+
+Pansy zaczęła odliczać na palcach.
+
+— Rzeczy robione tylko po to, żeby sprawdzić, czy się uda. Rzeczy robione dlatego, że ktoś powiedział, że nie powinieneś. Rzeczy robione dlatego, że uznałeś, że konsekwencje są „akceptowalne”. I rzeczy, które były technicznie przemyślane, ale normalny człowiek i tak by ich nie zrobił.
+
+Draco uśmiechnął się krzywo.
+
+— To ostatnie obejmuje chyba połowę wszystkiego.
+
+Pansy spojrzała jeszcze raz na Jamesa.
+
+— A co do żab: nie musisz obiecywać. Ja po prostu zapamiętam, że mam trzymać różdżkę pod ręką.
+
+
+
+[C2-M1268]
+===== USER =====
+
+pokręciłem głową - Wymyślacie to na poczekaniu...ale sprawdźmy poproszę przyklady
+
+
+
+[C2-M1269]
+===== ASSISTANT =====
+
+Pansy przez chwilę patrzyła na Jamesa, po czym skinęła głową.
+
+— Dobrze. To bez wymyślania. Tylko rzeczy, które sama widziałam albo o których wszyscy na danej lekcji wiedzieli.
+
+Wskazała Theodore’a.
+
+— Na Obronie rzuciłeś w niego własną różdżką, zanim zdążył się porządnie ustawić, bo Moody powiedział tylko, że masz dotknąć jego ramienia różdżką.
+
+Theodore odezwał się sucho:
+
+— Trafiła.
+
+— Potem — ciągnęła Pansy — postawiłeś niewidzialną barierę dokładnie na jego drodze i Nott wszedł w nią czołem.
+
+— To również pamiętam — mruknął Theodore.
+
+Draco zaczął się już uśmiechać.
+
+Pansy uniosła kolejny palec.
+
+— Na innym ćwiczeniu Moody’ego pierwszą rzeczą, o którą zapytałeś, było, czy skoro nie jesteśmy drużyną, możesz przekierowywać zagrożenia na innych uczniów.
+
+Draco parsknął.
+
+— Tak. To pamiętam. Weasley wyglądał wtedy, jakby bardzo szybko przemyślał sens stania obok ciebie.
+
+— Następne. — Pansy spojrzała na Jamesa. — Próbowałeś posłać drewnianą kulę w Moody’ego od tyłu. W człowieka z magicznym okiem, które widzi za jego plecami.
+
+Theodore uniósł brew.
+
+— To był szczególnie mocny kandydat.
+
+— I jeszcze pierwszy dzień — dodała Pansy. — Pół szkoły szepcze o nowym Brownie, wszyscy przy stole się na ciebie gapią, a ty wyciągasz hebanową różdżkę i kładziesz ją sobie demonstracyjnie na stole. Pamiętam, że moje pierwsze słowo brzmiało mniej więcej: „subtelnie”.
+
+Draco skinął głową.
+
+— To akurat pamiętam bardzo dobrze.
+
+Pansy oparła ręce o biodra.
+
+— I zauważ, że nawet nie zaliczam rzeczy, które były tylko dziwne, ale działały. Rosyjskich blefów na Obronie, organizowania dodatkowego balu dla kilkuset osób czy całej reszty twoich eksperymentów.
+
+Theodore spojrzał na Jamesa.
+
+— Więc teraz możesz po kolei wyjaśnić, dlaczego każda z wymienionych rzeczy była całkowicie rozsądna. Jestem nawet ciekaw.
+
+
+
+[C2-M1270]
+===== USER =====
+
+-Dobrze, zaczynając od końca blef był genialny. Położyłem różdżkę na stole żeby tacy jak Draco się trochę przestraszyli zadziałało i utrzymuję się aż do teraz. Moody to bardzo niebezpiecznym człowiek więc jedym z kluczowych działań w stosunku do niego z mojej strony jest to jak skutecznie zniwelować niebezpieczeństwo jakie tworzy. Musiałem Dopytać bo jak już mówiłem Moody to niebezpieczny człowiek czyli teoretycznie mógł dać komuś zadanie aby przeszkadzał reszcie grupy. A jeśli chodzi o zdanie to nie widzę nic głupiego w wykonywaniu jego założeń...
+
+
+
+[C2-M1271]
+===== ASSISTANT =====
+
+Pansy słuchała do końca, nie przerywając. Gdy James skończył, przez chwilę patrzyła na niego z lekko zmrużonymi oczami.
+
+— Dobrze. Blef wykreślam. Był skuteczny i Moody sam uznał go za dobry.
+
+Theodore skinął głową.
+
+— Zdecydowanie. Zmuszenie przeciwnika do obrony przed czymś, co nie istnieje, było jednym z lepszych ruchów tamtej lekcji.
+
+Pansy uniosła drugi palec.
+
+— Różdżka na stole… — zerknęła na Draco. — To też zadziałało.
+
+Draco skrzywił się.
+
+— Nie „przestraszyłem się”.
+
+— Oczywiście — odparła Pansy. — Po prostu przez pierwsze dni zwracałeś bardzo dużo uwagi na to, gdzie Brown trzyma różdżkę.
+
+Theodore spokojnie dodał:
+
+— Czyli rezultat został osiągnięty.
+
+Draco posłał mu chłodne spojrzenie.
+
+Pansy wróciła do Jamesa.
+
+— Z Moodym rozumiem logikę. Jest niebezpieczny, więc obserwujesz, jak reaguje i co potrafi. Tylko istnieje różnica między analizowaniem zagrożenia a rzucaniem w zagrożenie drewnianą kulą, żeby zobaczyć, co zrobi.
+
+Theodore lekko przechylił głowę.
+
+— Chociaż, technicznie rzecz biorąc, po tym wiedzieliśmy już dokładnie, co zrobi.
+
+Pansy westchnęła.
+
+— Nie pomagaj mi.
+
+Potem przeszła do kolejnego punktu.
+
+— Pytanie o przekierowywanie zagrożeń… dobrze. Przy założeniu, że Moody mógł celowo wprowadzić element sabotażu, miało sens ustalenie zasad przed rozpoczęciem.
+
+Draco prychnął.
+
+— Nadal sposób, w jaki to powiedziałeś, brzmiał jak: „Profesorze, czy wolno mi poświęcić Weasleya?”
+
+Theodore wzruszył ramieniem.
+
+— To już kwestia prezentacji, nie logiki.
+
+Pansy została z ostatnim argumentem i przez chwilę milczała.
+
+— A rzucenie różdżką w Notta…
+
+Theodore odezwał się pierwszy:
+
+— Polecenie brzmiało, żeby dotknąć mojego ramienia różdżką. Dotknął.
+
+— Wiem.
+
+— Szybciej niż gdyby próbował podejść.
+
+— Wiem.
+
+— I Moody zaliczył.
+
+Pansy zacisnęła usta.
+
+Draco zaczął się śmiać.
+
+— Parkinson, chyba właśnie przegrałaś własną listę.
+
+Pansy rzuciła mu spojrzenie.
+
+— Nie przegrałam. Doszłam do wniosku, że Brown nie robi głupich rzeczy.
+
+Krótka chwila.
+
+— Robi absurdalne rzeczy, dla których później potrafi przedstawić irytująco spójne uzasadnienie.
+
+Theodore skinął głową.
+
+— To znacznie trafniejsza diagnoza.
+
+Draco wskazał Jamesa.
+
+— I dlatego nigdy nie wiadomo, czy kiedy robi coś kompletnie niedorzecznego, właśnie popełnia idiotyzm, czy za pięć minut okaże się, że miał plan.
+
+
+
+[C2-M1272]
+===== USER =====
+
+puściłem oczko do Pansy a potem wstałem z fotela - po prostu musicie uznać że jestem Brown'em a co za tym idzie mam swój styl... który może wam się nie podobać ale jest skuteczny...
+
+
+
+[C2-M1273]
+===== ASSISTANT =====
+
+Pansy odpowiedziała mu spojrzeniem, w którym mieszało się rozbawienie z rezygnacją.
+
+— Och, to już dawno uznałam. Problem polega na tym, że „styl Browna” bardzo często wygląda z zewnątrz jak początek katastrofy.
+
+Draco prychnął.
+
+— A potem, ku irytacji wszystkich obecnych, zwykle okazuje się, że jednak wiedział, co robi.
+
+Theodore zamknął książkę i spojrzał na Jamesa.
+
+— „Skuteczny” przyjmę. „Rozsądny” nadal pozostawiam do indywidualnej oceny.
+
+Pansy wskazała na niego lekko palcem.
+
+— I pamiętaj o jednym: dziś wieczorem skuteczność nie polega na tym, żeby wszystkich zaskoczyć, ograć albo przechytrzyć.
+
+Jej wzrok na moment przesunął się ku bukiecikowi.
+
+— Wystarczy, że nie spieprzysz pierwszych trzydziestu sekund. Reszta naprawdę może już pójść sama.
+
+
+
+[C2-M1274]
+===== USER =====
+
+Takie uwagi to do reszty ślizgonów. Plan na dzisiejszy wieczór to po prostu pocałować .......tu szybko urwałem ją
+
+
+
+[C2-M1275]
+===== ASSISTANT =====
+
+Pansy od razu wychwyciła urwanie.
+
+— „Pocałować… ją” — powtórzyła powoli, unosząc brew. — Bardzo elegancko uratowane.
+
+Draco spojrzał na Jamesa z nagłym zainteresowaniem.
+
+— Oho. Czyli jednak prawie nam coś powiedziałeś.
+
+Theodore odezwał się spokojnie:
+
+— Nie powiedział. I jeśli zaczniecie zgadywać na głos, prawdopodobnie tylko go zirytujecie.
+
+Pansy zerknęła na bukiecik, potem z powrotem na Jamesa.
+
+— Dobrze. Tylko jedna uwaga: jeśli mówisz o pierwszym pocałunku, nie rób z niego kolejnego punktu planu do odhaczenia. Poczekaj na moment i upewnij się, że ona też tego chce.
+
+Draco prychnął.
+
+— Czyli cały wielki plan Browna na wieczór sprowadza się do: przetrwać wejście, wręczyć kwiaty i spróbować pocałować tajemniczą dziewczynę.
+
+Theodore uniósł brew.
+
+— Jak na Browna wyjątkowo mało skomplikowane.
+
+Pansy uśmiechnęła się lekko.
+
+— I dlatego może nawet zadziałać.
+
+
+
+[C2-M1276]
+===== USER =====
+
+pokręciłem głową a potem spojrzałem na Zegar który pokazywał 18:35 - może mogę już iść na wielką salę?
+
+
+
+[C2-M1277]
+===== ASSISTANT =====
+
+Pansy odruchowo spojrzała na zegar, jakby chciała upewnić się, że James nie próbuje oszukać czasu samą siłą woli.
+
+— Jest osiemnasta trzydzieści pięć. Bal zaczyna się o dwudziestej.
+
+Draco parsknął.
+
+— Możesz iść. A potem przez godzinę stać pod drzwiami Wielkiej Sali jak ochroniarz.
+
+Theodore policzył szybko w głowie.
+
+— Godzina i dwadzieścia pięć minut. Poza tym o tej porze nauczyciele i skrzaty prawdopodobnie nadal kończą przygotowania. Nie zdziwiłbym się, gdyby po prostu kazano ci odejść.
+
+Pansy pokręciła głową.
+
+— Nie idź jeszcze. Zwłaszcza że jesteś już ubrany. Jeśli pojawisz się tam pierwszy na półtorej godziny przed wszystkimi, stracisz całą przewagę tego swojego „wejścia”.
+
+Spojrzała na niego krytycznie.
+
+— Najwcześniej zaczęłabym się zbierać do wyjścia koło wpół do ósmej. Dojdziesz spokojnie, nie spóźnisz się i nie będziesz wyglądał, jakbyś od rana pilnował drzwi.
+
+Draco uśmiechnął się krzywo.
+
+— A przez najbliższą godzinę możemy przywiązać Browna do fotela.
+
+Theodore podniósł wzrok.
+
+— To pierwszy dzisiejszy plan Malfoya, który może rzeczywiście zadziałać.
+
+
+
+[C2-M1278]
+===== USER =====
+
+-możecie próbować
+
+
+
+[C2-M1279]
+===== ASSISTANT =====
+
+Draco od razu uniósł brwi.
+
+— Och, naprawdę nie powinieneś był tego mówić.
+
+Odstawił to, co trzymał, i podniósł się z fotela. Theodore spojrzał na niego, potem na Jamesa, ale nie ruszył się z miejsca.
+
+— Ja się w to nie mieszam — powiedział spokojnie. — Malfoy sam wpadł na ten pomysł, niech sam ponosi konsekwencje.
+
+Pansy westchnęła.
+
+— Na Merlina, tylko nie pogniećcie mu szaty. Spędziłam wystarczająco dużo czasu przy tej przeklętej muszce.
+
+Draco zatrzymał się kilka kroków od Jamesa i wyciągnął różdżkę, lecz jeszcze jej nie uniósł.
+
+— Mogę zrobić to elegancko. Jedno Incarcerous i przez godzinę będziesz dokładnie tam, gdzie powinieneś.
+
+Theodore odezwał się z fotela:
+
+— Jeśli trafisz.
+
+Draco powoli odwrócił ku niemu głowę.
+
+— Nott.
+
+— Tylko zwracam uwagę na istotny szczegół techniczny.
+
+Pansy zaśmiała się pod nosem.
+
+— A ja przypominam obu panom, że Brown jest już gotowy na bal. Jeśli rozwalicie mu włosy albo ubranie, was zmienię w żaby.
+
+
+
+[C2-M1280]
+===== USER =====
+
+usmiechnąłem się i momentalnie dobyłem różdżkę i wycelowałem w jego różdżkę Expelliarmus!! Trafiłem idealnie a potem szybko rzuciłem już w niego Incarcerous
+
+
+
+[C2-M1281]
+===== ASSISTANT =====
+
+Różdżka Draco wyrwała mu się z dłoni, przeleciała kilka metrów i stuknęła o kamienną podłogę.
+
+— Brown, ty—
+
+Nie zdążył dokończyć.
+
+Liny wystrzeliły z końca różdżki Jamesa i owinęły Draco wokół tułowia oraz ramion, zaciskając się dostatecznie mocno, by unieruchomić ręce przy bokach. Malfoy zachwiał się, ale utrzymał równowagę.
+
+Przez sekundę w pokoju wspólnym panowała cisza.
+
+Theodore spojrzał na Draco.
+
+Potem na jego różdżkę leżącą na podłodze.
+
+— „Jeśli trafisz” — przypomniał spokojnie.
+
+Pansy zakryła usta dłonią, ale tylko na moment.
+
+— Nie wierzę...
+
+Draco spojrzał na Jamesa z mieszaniną wściekłości i urażonej dumy.
+
+— Rozwiąż. Mnie. Natychmiast.
+
+Theodore uniósł brew.
+
+— Technicznie sam zaproponowałeś przywiązywanie ludzi do mebli.
+
+— Notcie.
+
+Pansy podeszła bliżej i przede wszystkim obejrzała ubranie Draco.
+
+— Przynajmniej niczego mu nie podarłeś. Dobrze.
+
+Draco odwrócił głowę w jej stronę.
+
+— Parkinson!
+
+— Co? Priorytety.
+
+
+
+[C2-M1282]
+===== USER =====
+
+machnąłem różdżką a liny zniknęły
+
+
+
+[C2-M1283]
+===== ASSISTANT =====
+
+Liny rozpłynęły się natychmiast.
+
+Draco wyprostował się, poprawił szatę i przez chwilę patrzył na Jamesa z miną człowieka, który właśnie zapamiętał coś na bardzo długo.
+
+— Dobrze. — Otrzepał rękaw. — To był jeden raz.
+
+Podszedł do swojej różdżki i podniósł ją z podłogi.
+
+Theodore odezwał się spokojnie:
+
+— Oczywiście.
+
+Pansy parsknęła śmiechem.
+
+— Malfoy, przegrałeś zanim zdążyłeś rzucić zaklęcie.
+
+Draco wsunął różdżkę na miejsce i spojrzał na nią chłodno.
+
+— Parkinson, naprawdę nie potrzebuję komentarza.
+
+— Potrzebujesz. Tylko go nie lubisz.
+
+Theodore dodał:
+
+— To już drugi raz dzisiaj. Najpierw szachy, teraz to.
+
+Draco powoli obrócił głowę.
+
+— Nott, przysięgam, że do balu jeszcze daleko.
+
+
+
+[C2-M1284]
+===== USER =====
+
+rzuciłem do Theodore'a - Ale oni są razem słodcy....
+
+
+
+[C2-M1285]
+===== ASSISTANT =====
+
+Theodore spojrzał najpierw na Draco, potem na Pansy.
+
+— Nie powiedziałbym „słodcy”.
+
+Pansy natychmiast rzuciła mu spojrzenie.
+
+— A co byś powiedział?
+
+Theodore zastanowił się sekundę.
+
+— Funkcjonalnie kompatybilni w stanie ciągłego wzajemnego irytowania się.
+
+Draco prychnął.
+
+— To brzmi jeszcze gorzej.
+
+Pansy uśmiechnęła się szerzej.
+
+— Czyli jednak kompatybilni.
+
+Theodore wzruszył ramionami.
+
+— Tego nie kwestionowałem.
+
+Draco spojrzał na Jamesa.
+
+— Brown, zajmij się własnym wieczorem romantycznym. My sobie poradzimy.
+
+
+
+[C2-M1286]
+===== USER =====
+
+-Mam nadzieję bo od razu mówię że nie poświęcę własnego aby ratować wasz...
+
+
+
+[C2-M1287]
+===== ASSISTANT =====
+
+Pansy uniosła brew.
+
+— Spokojnie. Jeśli nasz wieczór będzie wymagał ratowania przez ciebie, to znaczy, że naprawdę coś poszło bardzo źle.
+
+Draco prychnął.
+
+— Poza tym nie potrzebujemy opiekunki.
+
+Theodore spojrzał na niego z boku.
+
+— To akurat brzmi jak zdanie człowieka, który najczęściej jej potrzebuje.
+
+Pansy parsknęła śmiechem.
+
+— W każdym razie zajmij się swoją tajemniczą partnerką, Brown. My przeżyjemy kilka godzin bez twojej interwencji.
+
+Draco poprawił mankiet.
+
+— A jeśli nie, to przynajmniej będzie ciekawie.
+
+
+
+[C2-M1288]
+===== USER =====
+
+spojrzałem na nich - ale mam nadzieję że przynajmniej macie ustalone kto będzie prowadzić w tańcu?
+
+
+
+[C2-M1289]
+===== ASSISTANT =====
+
+Pansy spojrzała na Draco, a potem z powrotem na Jamesa.
+
+— Oczywiście, że mamy.
+
+Draco odpowiedział niemal jednocześnie:
+
+— Ja.
+
+Pansy odwróciła głowę w jego stronę.
+
+— Tak, ty, dopóki nie zaczniesz prowadzić mnie prosto w stolik.
+
+Draco wyglądał na urażonego samą sugestią.
+
+— Umiem tańczyć.
+
+— Wiem. Dlatego ci pozwalam prowadzić.
+
+Theodore uniósł brew.
+
+— Brzmi bardzo partnersko.
+
+Pansy zignorowała go.
+
+— Przy walcu prowadzi Draco. Przy czymś mniej formalnym nie zamierzam udawać, że każde pół kroku musi zatwierdzać rodzinny statut Malfoyów.
+
+Draco prychnął.
+
+— Jak długo nie próbujesz przejąć prowadzenia tylko po to, żeby mnie zirytować.
+
+— Nie obiecuję.
+
+
+
+[C2-M1290]
+===== USER =====
+
+-Słodziaki....
+
+
+
+[C2-M1291]
+===== ASSISTANT =====
+
+Pansy rzuciła Jamesowi spojrzenie pełne przesadnej cierpliwości.
+
+— Tak, tak. Śmiej się.
+
+Draco tylko prychnął.
+
+— Jeszcze jedno „słodziaki” i naprawdę zmienię zdanie co do tego, kto dziś zasługuje na transmutację.
+
+Theodore odezwał się sucho:
+
+— Wreszcie zaczynacie mówić jego językiem.
+
+Pansy westchnęła.
+
+— I to jest najbardziej niepokojące.
+
+
+
+[C2-M1292]
+===== USER =====
+
+Nie Śmiej się naprawdę tak uważam...
+
+
+
+[C2-M1293]
+===== ASSISTANT =====
+
+Pansy spojrzała na Jamesa trochę uważniej, jakby chciała ocenić, czy nadal sobie z niej żartuje.
+
+— Hm.
+
+Potem zerknęła na Draco.
+
+— No dobrze. To akurat przyjmę.
+
+Draco wyglądał, jakby nie był pewien, czy bardziej go to bawi, czy krępuje.
+
+— Nie przyzwyczajaj się, Brown.
+
+Theodore uniósł brew.
+
+— Za późno. Powiedział to już dwa razy.
+
+Pansy uśmiechnęła się pod nosem.
+
+— Niech mówi. Są gorsze rzeczy, które można usłyszeć przed balem.
+
+
+
+[C2-M1294]
+===== USER =====
+
+lekko się usniechnąłem - ile lat jesteście już w waszym "układzie"?
+
+
+
+[C2-M1295]
+===== ASSISTANT =====
+
+Pansy spojrzała na Draco, jakby samo określenie „układ” ją rozbawiło.
+
+— Lat? To zależy, co liczysz.
+
+Draco uniósł brew.
+
+— Znamy się praktycznie od początku Hogwartu.
+
+— A nawet wcześniej się kojarzyliśmy — dodała Pansy. — Ale jeśli pytasz, od kiedy jest… to…
+
+Wykonała niewielki gest między sobą a Draco.
+
+Draco skrzywił się lekko.
+
+— Nie mamy daty podpisania kontraktu, Brown.
+
+Theodore odezwał się znad książki:
+
+— Tragiczne niedopatrzenie jak na Malfoya.
+
+Draco zignorował go.
+
+Pansy wzruszyła ramionami.
+
+— Powiedzmy, że długo byliśmy po prostu bardzo blisko, a w tym roku przestaliśmy udawać, że to wyłącznie przyjaźń. Więc nie — nie jesteśmy „razem od czterech lat”, jeśli o to pytasz.
+
+Draco zerknął na nią.
+
+— Brzmi wystarczająco precyzyjnie.
+
+— Jak na nas? Wyjątkowo.
+
+
+
+[C2-M1296]
+===== USER =====
+
+lekko się zaśmiałem -Rozumiem też że wasz układ zbarnaia uzywania Pewnych słów? Boicie się ich?
+
+
+
+[C2-M1297]
+===== ASSISTANT =====
+
+Pansy spojrzała na Jamesa z lekkim rozbawieniem, ale tym razem nie odpowiedziała od razu.
+
+Draco zmrużył oczy.
+
+— Jakich słów?
+
+Theodore uniósł wzrok znad książki.
+
+Pansy zerknęła na Draco, potem z powrotem na Jamesa.
+
+— Jeśli próbujesz zapytać, czy mamy jakiś zakaz mówienia sobie „kocham cię”, to nie.
+
+Draco prychnął.
+
+— Po prostu nie widzę potrzeby robienia z każdego uczucia publicznego przedstawienia.
+
+Pansy uniosła brew.
+
+— Och, czyli uczucia są.
+
+Draco odwrócił głowę w jej stronę.
+
+— Parkinson.
+
+Kącik jej ust drgnął.
+
+— Co? Sam to powiedziałeś.
+
+Theodore zamknął książkę na palcu.
+
+— Brown zadał jedno pytanie i właśnie wyciągnął z Malfoya więcej, niż większość ludzi przez miesiąc.
+
+Draco spojrzał na Jamesa chłodno.
+
+— I nie, nie boję się słów. Po prostu nie rzucam nimi bez sensu.
+
+Pansy przyjrzała mu się jeszcze sekundę.
+
+— Mhm. Jasne.
+
+
+
+[C2-M1298]
+===== USER =====
+
+-Nie uwierzę w to...powiedziałem a potem znowu spojrzałem na zegar
+
+
+
+[C2-M1299]
+===== ASSISTANT =====
+
+Draco prychnął tylko na jego niedowierzanie.
+
+— I całe szczęście, że nie potrzebuję twojej wiary.
+
+Pansy rzuciła mu rozbawione spojrzenie.
+
+— Brzmisz dokładnie jak ktoś, kto absolutnie niczego się nie boi.
+
+Theodore uniósł kącik ust, ale nic nie dodał.
+
+Zegar w pokoju wspólnym wskazywał już mniej więcej 18:50. Do rozpoczęcia balu zostało około godziny i dziesięciu minut.
+
+Pansy także zerknęła na tarczę.
+
+— O. Widzisz? Przeżyłeś kolejne piętnaście minut. Jeszcze trochę i naprawdę pozwolę ci wyjść bez przywiązywania do fotela.
+
+
+
+[C2-M1300]
+===== USER =====
+
+Ok, w takimi razie przeanalizujmy najgorsze scenariusze...
+
+
+
+[C2-M1301]
+===== ASSISTANT =====
+
+Pansy westchnęła, ale tym razem bez złośliwości.
+
+— Dobrze. Tylko prawdziwe najgorsze scenariusze, a nie „ona wejdzie i przez trzy sekundy nie spojrzy dokładnie tak, jak sobie wyobraziłem”.
+
+Theodore odłożył książkę na bok.
+
+— Zacznijmy od najbardziej oczywistego. Ktoś reaguje źle na to, z kim przyszedłeś. Głośny komentarz, obraza, próba zrobienia sceny.
+
+Draco skrzywił się lekko.
+
+— Wtedy nie robisz nic spektakularnego. Jeśli to ktoś ze Slytherinu, można go uciszyć bez zamieniania go w płaza.
+
+Pansy spojrzała na niego znacząco.
+
+— Szczególnie ty.
+
+— Powiedziałem, że można.
+
+Theodore kontynuował spokojnie:
+
+— Drugi: twoja partnerka nie chce być centrum przedstawienia, a wszyscy się gapią. Wtedy nie próbujesz „ratować” sytuacji większym gestem. Po prostu zachowujesz się normalnie i dajesz jej możliwość zdecydowania, co robi dalej.
+
+Pansy uniosła trzeci palec.
+
+— Trzeci: coś idzie źle między wami. Nie podoba jej się jakiś żart, gest, plan, cokolwiek. Nie dyskutujesz z nią na środku Wielkiej Sali o tym, dlaczego technicznie miałeś rację.
+
+Draco prychnął.
+
+— To może być dla Browna najtrudniejszy scenariusz ze wszystkich.
+
+Pansy zignorowała go.
+
+— Czwarty: ktoś próbuje sprowokować ciebie specjalnie dlatego, że widzi, że zależy ci na jej opinii. Wtedy absolutnie nie dajesz mu tego, czego chce.
+
+Theodore skinął głową.
+
+— Piąty: ona wygląda tak dobrze, że naprawdę cię zatnie.
+
+Pansy uśmiechnęła się lekko.
+
+— Wtedy robisz dokładnie to, co mówiłam. Nic skomplikowanego. Kwiaty. Jedno zdanie. Oddychasz. Koniec katastrofy.
+
+Draco spojrzał na Jamesa.
+
+— I mój osobisty najgorszy scenariusz: po całych miesiącach tajemnicy okazuje się, że znam tę dziewczynę bardzo dobrze i naprawdę nie spodoba mi się odpowiedź.
+
+Na moment zrobiło się ciszej.
+
+Theodore zerknął na niego.
+
+— Wtedy, Malfoy, przypomnisz sobie rozmowę sprzed kilku minut o szacunku.
+
+Draco nie odpowiedział od razu.
+
+— Pamiętam.
+
+
+
+[C2-M1302]
+===== USER =====
+
+Nie nie nie nie, w najgorszym możliwym wyapdku Draco wpadnie w szał spowodowany wysłuchiwanie przez wiele lat propagandy Pana Malfoya
+
+
+
+[C2-M1303]
+===== ASSISTANT =====
+
+Draco natychmiast spoważniał. Wcześniejsze rozbawienie zniknęło mu z twarzy.
+
+— Uważaj trochę, Brown — powiedział chłodno. — Możesz mieć swoje zdanie o poglądach mojego ojca, ale nie nazywaj wszystkiego, czego mnie nauczył, „propagandą”.
+
+Pansy zerknęła na niego z boku. Tym razem nie próbowała żartować.
+
+Theodore natomiast odezwał się spokojnie:
+
+— Ale jako scenariusz kryzysowy to nie jest całkowicie absurdalne.
+
+Draco odwrócił ku niemu głowę.
+
+— Słucham?
+
+— Brown nie powiedział, że na pewno tak zareagujesz. Mówi o najgorszej możliwości. Jeśli jego partnerka jest kimś, wobec kogo masz bardzo silne uprzedzenia, możesz powiedzieć coś, czego później nie będziesz mógł łatwo cofnąć.
+
+Pansy spojrzała na Draco.
+
+— I to akurat warto ustalić teraz.
+
+Draco zacisnął lekko szczękę.
+
+— Nie będę wpadał w żaden „szał”.
+
+— Dobrze — odparła Pansy. — To jeszcze łatwiej. Ktokolwiek wejdzie z Brownem, zachowujesz się cywilizowanie. Nawet jeśli ci się to bardzo nie spodoba.
+
+Draco przeniósł wzrok na Jamesa.
+
+— Mogę nie aprobować jego wyboru. Mogę nawet uważać go za idiotyczny. Ale jeśli pytasz, czy zrobię scenę na środku Wielkiej Sali tylko dlatego, że nie spodoba mi się osoba, z którą przyszedłeś…
+
+Zawiesił głos na moment.
+
+— Nie planuję.
+
+Theodore uniósł lekko brew.
+
+— To nie jest dokładnie obietnica.
+
+Draco posłał mu ostrzegawcze spojrzenie.
+
+— To jest tyle, ile dostaniecie.
+
+
+
+[C2-M1304]
+===== USER =====
+
+-Nie mówię o wszystkim, ale rozumiem że nadal uważasz że wszycy którzy nie mają czystej krwi zasługują na śmierć?
+
+
+
+[C2-M1305]
+===== ASSISTANT =====
+
+Draco zesztywniał wyraźnie.
+
+— Nie. — Tym razem odpowiedział bez uśmiechu. — I nie wkładaj mi w usta czegoś aż takiego.
+
+Przez moment patrzył Jamesowi prosto w oczy.
+
+— Uważam, że pochodzenie ma znaczenie. Uważam, że stare rody mają coś, czego ludzie wychowani przez mugoli po prostu nie mają. I nie zamierzam nagle udawać, że wszystkie poglądy mojego ojca są idiotyczne tylko dlatego, że ty się z nimi nie zgadzasz.
+
+Pansy obserwowała go w milczeniu.
+
+Draco kontynuował chłodniej:
+
+— Ale „kto nie jest czystej krwi, powinien umrzeć” to nie jest to samo. Nie, Brown. Nie uważam, że należy wymordować każdego półkrwi i każdego mugolaka.
+
+Theodore uniósł lekko brwi, ale pozwolił mu mówić dalej.
+
+— Mogę uważać kogoś za gorszego. Mogę uważać, że nie powinien mieć takiej samej pozycji. Mogę go nie szanować. — Draco wzruszył jednym ramieniem. — To nadal nie oznacza, że chcę zobaczyć jego zwłoki.
+
+Pansy zerknęła na Jamesa.
+
+— To przynajmniej odpowiada na jeden z twoich „najgorszych scenariuszy”.
+
+Theodore dodał spokojnie:
+
+— Na jeden. Nadal pozostaje kwestia tego, co Malfoy zrobi, jeśli tajemnicza partnerka Browna okaże się kimś, kogo uważa za „gorszego”.
+
+Draco rzucił mu chłodne spojrzenie.
+
+— Powiedziałem już: potrafię zachować się cywilizowanie.
+
+
+
+[C2-M1306]
+===== USER =====
+
+(czat czy ty przypadkiem niezbyt za bardzo "wygłądasz" jego zachowanie a jeśli tak to dlaczego?)
+
+
+
+[C2-M1307]
+===== ASSISTANT =====
+
+Tak — w ostatniej odpowiedzi za bardzo go wygładziłem.
+
+Draco z 1994 roku nie powinien brzmieć aż tak dojrzale i analitycznie w stylu: „mogę uważać kogoś za gorszego, ale to nie znaczy, że chcę jego śmierci”. To jest zbyt uporządkowane, zbyt samoświadome i przede wszystkim zbyt łagodne jak na piętnastoletniego Draco wychowanego przez Lucjusza. Canonowy Draco otwarcie używa pogardliwego języka wobec mugolaków, uważa czystą krew za wyznacznik statusu i potrafi być naprawdę paskudny wobec Hermiony.
+
+Powód był taki, że próbowałem nie zrobić z niego karykatury typu „mugolak = natychmiast mordować”, bo aż takiego jednoznacznego poglądu canon Draco też nie prezentuje. Ale skorygowałem za mocno w drugą stronę i wyszedł Draco, który właściwie brzmi jak ktoś, kto już przemyślał własne uprzedzenia. A on na tym etapie historii zdecydowanie jeszcze tego nie zrobił.
+
+Lepsza reakcja na twoje pytanie byłaby mniej więcej taka: Draco najpierw oburzyłby się na samo sformułowanie, broniłby ojca i idei czystej krwi, prawdopodobnie powiedziałby coś bardzo pogardliwego o mugolakach, a dopiero przy dociśnięciu mógłby zaprzeczyć, że chce dosłownie wszystkich zabijać. I nawet wtedy nie zrobiłby tego w sposób, który brzmi tolerancyjnie. Raczej: „nie powiedziałem, że trzeba ich wszystkich zabijać, Brown, nie bądź idiotą” — po czym nadal utrzymywałby, że nie powinni być równi czystokrwistym.
+
+To samo będzie ważne przy wejściu Hermiony na bal: Draco nie powinien nagle zachować się idealnie tylko dlatego, że James wcześniej zażądał szacunku. Może się powstrzymać przed otwartą awanturą z rozsądku, dumy, obecności nauczycieli albo relacji z Jamesem, ale pierwszy odruch powinien być autentycznie Draco — szok, niedowierzanie, pogarda/konflikt z jego wychowaniem, być może bardzo paskudny komentarz. Dopiero potem zobaczymy, czy się kontroluje. Świat nie powinien naginać jego charakteru pod romans Jamesa.
+
+Czyli tak: od teraz mniej wygładzania Draco, więcej jego faktycznego charakteru z 4. roku.
+
+
+
+[C2-M1308]
+===== USER =====
+
+(pamiętaj też że Draco może się trochę Bać Brown'a ale Dobra leć dalej powtórz ostatnią wiadomość ale teraz dobrze)
+
+
+
+[C2-M1309]
+===== ASSISTANT =====
+
+Draco zesztywniał, a na jego twarzy od razu pojawiło się coś ostrzejszego.
+
+— Nie przekręcaj tego, Brown. — Jego głos był chłodny. — Nie powiedziałem, że każdy, kto nie ma czystej krwi, powinien umrzeć.
+
+Na moment jego wzrok zsunął się niżej, w stronę miejsca, gdzie James trzymał różdżkę, po czym wrócił na jego twarz. Nie cofnął się jednak ani nie spuścił tonu.
+
+— Ale jeśli pytasz, czy nagle uznałem, że mugolaki są nam równe, to nie. Nie uznałem. Ludzie bez żadnego czarodziejskiego wychowania przychodzą tutaj i zachowują się, jakby ich rodziny miały takie samo prawo do naszego świata jak rody, które budowały go od setek lat.
+
+Pansy nie wyglądała na szczególnie zszokowaną. Theodore natomiast obserwował Draco uważniej.
+
+Draco ciągnął:
+
+— Mój ojciec uważa, że pozwolono im wejść zdecydowanie za daleko. I w wielu sprawach się z nim zgadzam.
+
+Potem zmrużył oczy.
+
+— Ale „zabić wszystkich półkrwi i mugolaków”? Nie bądź idiotą. Gdyby ktoś naprawdę chciał zrobić coś takiego, wyciąłby pół magicznej Brytanii.
+
+Theodore odezwał się spokojnie:
+
+— To akurat matematycznie dość istotny problem dla ideologii czystej krwi.
+
+Draco rzucił mu ostre spojrzenie.
+
+— Nikt cię nie pytał.
+
+Pansy oparła łokieć o fotel.
+
+— Czyli najgorszy scenariusz nadal istnieje. Tylko nie w wersji „Draco zaczyna mordować ludzi”.
+
+— Parkinson—
+
+— W wersji — ciągnęła, ignorując go — „Draco widzi osobę, której pochodzenie uważa za coś poniżej siebie, otwiera usta i mówi dokładnie to, co zwykle mówi”.
+
+Draco zacisnął szczękę.
+
+— Potrafię się kontrolować.
+
+Theodore uniósł brew.
+
+— Pytanie brzmi, czy będziesz chciał.
+
+Przez chwilę Draco milczał.
+
+W końcu spojrzał ponownie na Jamesa.
+
+— Jeśli naprawdę przyprowadzisz kogoś, kogo normalnie nie chciałbym widzieć przy naszym stole, nie obiecuję ci, że będę udawał zachwyt.
+
+Krótka pauza.
+
+— Ale też nie jestem na tyle głupi, żeby rzucać ci w twarz pierwszą rzecz, jaka przyjdzie mi do głowy.
+
+Tym razem w sposobie, w jaki to powiedział, było coś więcej niż zwykła uprzejmość. Draco aż za dobrze pamiętał, jak szybko kilka minut wcześniej stracił różdżkę i skończył związany własnym pomysłem.
+
+
+
+[C2-M1310]
+===== USER =====
+
+-Bardzo słusznie bo, pomimo tego że twoje poglądy są....są...to nawet cię polubiłem....nie posuj tego...powiedziałem zimno
+
+
+
+[C2-M1311]
+===== ASSISTANT =====
+
+Draco przez moment nic nie powiedział.
+
+Twarz nadal miał dumną, ale tym razem nie odpowiedział odruchową zaczepką. Spojrzenie zatrzymał na Jamesie trochę dłużej, jakby oceniał, ile w tych słowach było ostrzeżenia, a ile zwykłego stwierdzenia.
+
+— To działa w obie strony, Brown.
+
+Ton miał chłodny, ale już nie prowokacyjny.
+
+— Ciebie też da się lubić. Czasami. Kiedy nie zachowujesz się jak kompletny wariat.
+
+Pansy zerknęła na Draco z lekkim zaskoczeniem.
+
+Theodore uniósł brew.
+
+— To chyba najbliższe przyjacielskiemu wyznaniu, na jakie Malfoya dziś stać.
+
+Draco natychmiast posłał mu spojrzenie.
+
+— Nie przesadzaj.
+
+Potem wrócił wzrokiem do Jamesa.
+
+— Nie zamierzam niczego „psuć” specjalnie. Ale nie oczekuj też, że nagle zacznę udawać kogoś, kim nie jestem.
+
+Pansy odezwała się spokojniej:
+
+— I chyba właśnie o to chodzi. Nikt nie wymaga, żebyś zmienił całe wychowanie w jeden wieczór. Tylko żebyś nie zachowywał się jak idiota wtedy, kiedy naprawdę będzie miało znaczenie.
+
+
+
+[C2-M1312]
+===== USER =====
+
+-Właśnie zmiana podejścia do życia przyjdzie z czasem....
+
+
+
+[C2-M1313]
+===== ASSISTANT =====
+
+Draco prychnął cicho.
+
+— Nie licz na cud, Brown.
+
+Nie brzmiało to jednak jak wcześniejsze ostre zaprzeczenie. Bardziej jak próba odzyskania zwykłego tonu.
+
+— Mam piętnaście lat, nie osiemdziesiąt. Nie zamierzam dziś wieczorem nagle uznać, że wszystko, co słyszałem od dziecka, było brednią tylko dlatego, że ty tak uważasz.
+
+Theodore spojrzał na niego z boku.
+
+— To akurat rozsądniejsze niż udawanie natychmiastowej przemiany.
+
+Pansy skinęła lekko głową.
+
+— Poglądy ludzi zwykle zmieniają się wtedy, kiedy rzeczywistość zaczyna im przeszkadzać w utrzymywaniu starych.
+
+Draco zmrużył oczy.
+
+— Czy wy właśnie planujecie moją edukację moralną?
+
+— Nie — odparł Theodore. — Obserwujemy potencjalnie interesujący proces.
+
+Draco westchnął i spojrzał ponownie na Jamesa.
+
+— Zobaczymy, Brown. Ale nie oczekuj ode mnie, że będę zachwycony każdym twoim pomysłem tylko dlatego, że cię polubiłem.
+
+Pansy parsknęła.
+
+— I właśnie powiedział to drugi raz.
+
+— Parkinson.
+
+
+
+[C2-M1314]
+===== USER =====
+
+-Rozumiem Draconie ale ty też nie oczekuj że z racji tego że cię polubiłem to pozwolę ci rzucać "mięsem"...
+
+
+
+[C2-M1315]
+===== ASSISTANT =====
+
+Draco prychnął pod nosem, ale nie odpowiedział od razu zaczepką.
+
+— To już brzmi bardziej uczciwie.
+
+Jego spojrzenie na moment zrobiło się twardsze.
+
+— Tylko nie próbuj robić ze mnie grzecznego chłopca na smyczy, Brown. Jeśli ktoś mnie wkurzy, to się o tym dowie.
+
+Pansy od razu weszła mu w słowo:
+
+— Ale nie przez wyzywanie jego matki, krwi, rodziny i połowy drzewa genealogicznego.
+
+Draco rzucił jej spojrzenie.
+
+— Wiem.
+
+Theodore odezwał się spokojnie:
+
+— Czyli granica jest prosta. Możesz być złośliwy. Nie możesz być podły tylko dlatego, że ktoś ma określone pochodzenie.
+
+Draco skrzywił się lekko.
+
+— Nie lubię, kiedy wszyscy nagle ustalają mi zasady zachowania.
+
+Pansy uniosła brew.
+
+— A mimo to właśnie siedzisz tutaj i ich słuchasz.
+
+Na sekundę zrobiło się ciszej.
+
+Draco spojrzał z powrotem na Jamesa.
+
+— Dobrze. Postaram się nie przekroczyć tej granicy.
+
+Nie brzmiało to jak entuzjastyczna zgoda. Bardziej jak niechętne ustępstwo człowieka, który bardzo nie chce przyznać, że bierze ostrzeżenie na serio.
+
+
+
+[C2-M1316]
+===== USER =====
+
+lekko się usniechnąłem - i Super....spojrzałem na Zegar
+
+
+
+[C2-M1317]
+===== ASSISTANT =====
+
+Zegar wskazywał już kilka minut po 18:50. Do rozpoczęcia balu nadal pozostawała ponad godzina.
+
+Pansy zauważyła kierunek spojrzenia i westchnęła teatralnie.
+
+— Nie. Nadal nie jest dziewiętnasta trzydzieści.
+
+Theodore zerknął na tarczę.
+
+— Czas najwyraźniej odmawia przyspieszenia tylko dlatego, że Brown jest gotowy od kilku godzin.
+
+Draco usiadł wygodniej.
+
+— Możesz patrzeć co trzydzieści sekund. To go nie zastraszy.
+
+Pansy rzuciła krótkie spojrzenie w stronę bezpiecznie odłożonego bukietu.
+
+— Kwiaty nadal żyją, mucha ci nie odpadła, ubranie też jeszcze przetrwało. Jak na razie wszystkie najgorsze scenariusze zawodzą.
+
+
+
+[C2-M1318]
+===== USER =====
+
+-A wy się nie szykujecie?
+
+
+
+[C2-M1319]
+===== ASSISTANT =====
+
+Pansy spojrzała po sobie, potem na Draco.
+
+— Ja jestem prawie gotowa. Zostało mi poprawić włosy i parę drobiazgów. Nie mam zamiaru siedzieć przez trzy godziny w pełnym stroju i pilnować, żeby przypadkiem nie oddychać za mocno.
+
+Draco poprawił mankiet.
+
+— Ja też jestem gotowy wystarczająco. Nie potrzebuję dwóch godzin na patrzenie w lustro.
+
+Pansy odwróciła głowę w jego stronę.
+
+— Nie?
+
+— Nie.
+
+— Fascynujące.
+
+Theodore parsknął cicho.
+
+— Malfoy po prostu robi to etapami, żeby nie wyglądało podejrzanie.
+
+Draco posłał mu chłodne spojrzenie.
+
+Pansy wskazała lekko na Jamesa.
+
+— Poza tym to ty jesteś tutaj wyjątkiem. Normalni ludzie nie ubierają się na bal tak wcześnie, żeby potem przez kilka godzin prowadzić debatę filozoficzną, grać w szachy, pojedynkować się i co pięć minut sprawdzać zegar.
+
+Theodore dodał sucho:
+
+— Technicznie rzecz biorąc, Brown rozpoczął przygotowania do balu zanim część ludzi zaczęła myśleć o kolacji.
+
+
+
+[C2-M1320]
+===== USER =====
+
+-Czyli wy założycie szaty wyjściowe dopiero za pół godziny?
+
+
+
+[C2-M1321]
+===== ASSISTANT =====
+
+Pansy skinęła głową.
+
+— Mniej więcej. Ja pójdę się przebrać trochę po siódmej. Nie potrzebuję godziny na samo założenie sukni.
+
+Draco wzruszył ramieniem.
+
+— Podobnie. Szata wyjściowa, włosy, kilka minut i jestem gotowy.
+
+Theodore spojrzał na nich obu.
+
+— Ja prawdopodobnie zacznę później niż wy, a i tak skończę przed Brownem… który technicznie skończył kilka godzin temu.
+
+Pansy zerknęła na Jamesa.
+
+— Więc tak. Za jakieś pół godziny zaczniemy wyglądać tak, jakbyśmy rzeczywiście szli na bal, a nie siedzieli zwyczajnie w pokoju wspólnym.
+
+Draco dodał sucho:
+
+— I wtedy może wreszcie przestaniesz wyglądać jak człowiek, który pomylił godzinę rozpoczęcia o pół dnia.
+
+
+
+[C2-M1322]
+===== USER =====
+
+-Możespojrzałem w ogień w kominku..a potem zamknąłem oczy - W takim razie poudaje że śpię...
+
+
+
+[C2-M1323]
+===== ASSISTANT =====
+
+Theodore spojrzał w stronę Jamesa i uniósł lekko brew.
+
+— W twoim przypadku „udawanie, że śpisz” jest chyba bardziej dosłowne niż u większości ludzi.
+
+Pansy parsknęła cicho.
+
+— Byle skutecznie. Może przynajmniej przez dziesięć minut nie sprawdzisz zegara.
+
+Draco oparł się wygodniej w fotelu.
+
+— Nie budźcie go. Jest znacznie mniej irytujący, kiedy nic nie mówi.
+
+— Draco — rzuciła Pansy.
+
+— Co? Przecież sam powiedział, że udaje.
+
+Ogień trzaskał spokojnie w kominku, a rozmowy pozostałych Ślizgonów mieszały się z odgłosami przygotowań dobiegającymi z dormitoriów. Ktoś przeszedł przez pokój wspólny z naręczem formalnych szat, dwie dziewczyny przy schodach dyskutowały o fryzurach, a zegar nieubłaganie odmierzał kolejne minuty.
+
+
+
+[C2-M1324]
+===== USER =====
+
+czuwałem przez jskieś pół godziny gdy otworzyłem oczy spojrzałem od razu na Zegar
+
+
+
+[C2-M1325]
+===== ASSISTANT =====
+
+Zegar wskazywał około 19:20.
+
+Przez te pół godziny pokój wspólny wyraźnie się zmienił. Coraz więcej Ślizgonów schodziło z dormitoriów już w szatach wyjściowych, przy schodach trwały ostatnie poprawki kołnierzyków, włosów i mankietów, a zwykły wieczorny gwar zaczął ustępować przedbalowemu zamieszaniu.
+
+Pansy zdążyła zniknąć na jakiś czas do dormitorium i właśnie wróciła już przygotowana na wieczór. Pierwszą rzeczą, jaką zrobiła po powrocie, było sprawdzenie małego bukietu pozostawionego na bezpiecznym stoliku.
+
+Draco również zdążył się przebrać i teraz poprawiał jeden z mankietów z miną sugerującą, że absolutnie nie poświęcił swojemu wyglądowi więcej czasu, niż było konieczne.
+
+Theodore był już niemal gotowy.
+
+Pansy zauważyła otwarte oczy Jamesa i zerknęła demonstracyjnie na zegar.
+
+— Gratulacje. Przeskoczyłeś całe pół godziny bez pytania, która jest.
+
+Draco spojrzał na tarczę.
+
+— I zostało ci tylko jakieś dziesięć minut do tej magicznej dziewiętnastej trzydzieści, którą Parkinson uznała za godzinę warunkowego zwolnienia.
+
+Theodore dodał sucho:
+
+— Najskuteczniejsza metoda przyspieszania czasu, jaką dziś zastosowałeś.
+
+
+
+[C2-M1326]
+===== USER =====
+
+wstałem a potem machnąłem różdżką usuwając wszystkie zagniecenia z szat a potem schowałem różdżkę do wewnętrznej kieszeni następnie zacząłem dokładnie obserwować ich stroję
+
+
+
+[C2-M1327]
+===== ASSISTANT =====
+
+Po zaklęciu materiał szaty Jamesa wygładził się niemal natychmiast; drobne zagniecenia po półgodzinnym siedzeniu zniknęły.
+
+Teraz, kiedy cała trójka była już przebrana, różnica względem codziennych szkolnych mundurków rzucała się w oczy.
+
+Draco zdecydowanie postawił na coś, co pasowało do Malfoya. Miał na sobie czarne, aksamitne szaty wyjściowe z wysokim kołnierzem, bardzo starannie skrojone i pozbawione krzykliwych ozdób. Materiał wyglądał drogo nawet bez żadnych herbów czy świecideł. Wszystko leżało na nim niemal irytująco równo, a jasne włosy były ułożone znacznie staranniej niż podczas zwyczajnego dnia.
+
+Kiedy zauważył dokładne oględziny, uniósł brew.
+
+— Co?
+
+Pansy wyglądała zupełnie inaczej niż w szkolnej szacie. Jej jasnoróżowa suknia była wyraźnie bardziej ozdobna, z dużą ilością falban i warstw materiału. Nie była subtelna — Pansy najwyraźniej wcale nie próbowała być subtelna. Włosy również miała ułożone staranniej niż zwykle, choć bez próby całkowitego zmienienia swojego wyglądu.
+
+Zauważyła spojrzenie Jamesa znacznie szybciej niż Draco.
+
+— Możesz oceniać — oznajmiła. — Tylko zastanów się bardzo dobrze przed wydaniem werdyktu.
+
+Draco spojrzał na nią z boku.
+
+— Wyglądasz dobrze.
+
+Pansy odwróciła głowę ku niemu.
+
+— „Dobrze”?
+
+Draco przez sekundę milczał.
+
+— Bardzo dobrze.
+
+— Lepiej.
+
+Theodore był, zgodnie z przewidywaniami, najmniej ostentacyjny z całej trójki. Jego szaty były ciemne, proste i dobrze dopasowane, bez falban, błyszczących elementów czy przesadnych zdobień. Jedynie jakość materiału i staranne wykończenie zdradzały, że nie były zwyczajnym szkolnym ubraniem. Przy szyi miał dyskretną srebrną spinkę.
+
+Theodore zauważył ocenianie własnego stroju.
+
+— Uprzedzam, że nie zmienię niczego na dziesięć minut przed wyjściem.
+
+Pansy przeniosła wzrok kolejno na Theodore’a, Draco, a potem na Jamesa.
+
+— Właściwie wyglądamy całkiem przyzwoicie.
+
+Theodore zerknął na różowe falbany.
+
+— Użyłbym słowa „różnorodnie”.
+
+— Nikt cię nie pytał, Nott.
+
+
+
+[C2-M1328]
+===== USER =====
+
+-No Panowie wyglądacie Prawie tak dobrze jak ja...a Ty Pansy....zasatanów się jeszcze czy aby na pewno Draco to opdowieni Partner lekko się zaśmiałem i puściłem jej oczko
+
+
+
+[C2-M1329]
+===== ASSISTANT =====
+
+Pansy spojrzała na Jamesa z miną pełną udawanego namysłu, po czym bardzo powoli przeniosła wzrok na Draco.
+
+— Wiesz co… może rzeczywiście powinnam była poczekać jeszcze kilka lat i zrobić lepszy wybór.
+
+Draco odwrócił się do niej natychmiast.
+
+— Parkinson.
+
+— Co? Brown tylko skłonił mnie do refleksji.
+
+Theodore uniósł lekko brew.
+
+— Refleksja rozpoczęta dziesięć minut przed balem. Idealny moment.
+
+Pansy parsknęła i znów spojrzała na Jamesa.
+
+— Ale niestety dla ciebie, Brown, już za późno. Malfoy został zatwierdzony.
+
+Draco poprawił mankiet, wyraźnie odzyskując grunt.
+
+— Oczywiście, że został.
+
+Pansy rzuciła mu spojrzenie.
+
+— Nie ciesz się za bardzo.
+
+Theodore zerknął na Jamesa.
+
+— A co do „prawie tak dobrze jak ja”… odważne stwierdzenie jak na człowieka, któremu Parkinson musiała wiązać muchę.
+
+Draco od razu się uśmiechnął.
+
+— Właśnie. Nie zapominajmy o szczegółach.
+
+
+
+[C2-M1330]
+===== USER =====
+
+-Nie musiała po prostu mi by zajęło o wiele dłużej dojście samodzielnie do perfekcji...ale masz refleks stary wziąłem bukiecik - ok... idziemy?
+
+
+
+[C2-M1331]
+===== ASSISTANT =====
+
+Pansy zerknęła na zegar, a potem na bukiet w dłoni Jamesa.
+
+— Jeszcze nie całkiem. Jest około dziewiętnastej dwadzieścia. Dajmy im te dziesięć minut, o których mówiłam, zanim zaczniemy kręcić się pod Wielką Salą jak obsługa techniczna.
+
+Draco prychnął.
+
+— Brown przetrwał pół dnia. Dziesięć minut go nie zabije.
+
+Theodore poprawił tylko mankiet.
+
+— Statystycznie właśnie teraz jest to najbardziej zagrożony odcinek wieczoru.
+
+Pansy spojrzała jeszcze raz na bukiet.
+
+— Ale już go trzymaj. Przynajmniej nie będziesz musiał wracać po niego w ostatniej chwili.
+
+Wokół nich kilku innych Ślizgonów także kończyło przygotowania; przy wyjściu zaczynała zbierać się niewielka grupa starszych uczniów, choć nikt jeszcze masowo nie ruszał na górę.
+
+
+
+[C2-M1332]
+===== USER =====
+
+pokręciłem głową i zacząłem w głowie odliczać minuty
+
+*Pierwsza
+Druga
+Trzecia
+Czwarta
+Poczułem jak moje serce przyspieszyło
+Piąta
+Szósta
+Siódma
+Ósma*
+
+Pokaż więcej
+
+
+
+[C2-M1333]
+===== ASSISTANT =====
+
+W pokoju wspólnym przez te osiem minut zrobiło się jeszcze bardziej ruchliwie. Kolejni Ślizgoni schodzili z dormitoriów w szatach wyjściowych, a przy wyjściu zebrało się już kilka par.
+
+Wskazówka zegara przesunęła się na około 19:28.
+
+Pansy zerknęła na tarczę i potem na Jamesa.
+
+— Dwie minuty.
+
+Draco westchnął.
+
+— Nie mów mu tego. Teraz będzie je przeżywał pojedynczo.
+
+Theodore poprawił srebrną spinkę przy szyi.
+
+— Po ośmiu minutach bez sprawdzania zegara osobiście i tak poczynił postęp.
+
+Pansy podeszła bliżej Draco, gotowa już do wyjścia.
+
+— O dziewiętnastej trzydzieści naprawdę możemy ruszać. Nie wcześniej.
+
+Draco spojrzał ku przejściu prowadzącemu z pokoju wspólnego.
+
+— I zapewne zanim dotrzemy do holu, połowa szkoły będzie już miała dokładnie ten sam pomysł.
+
+
+
+[C2-M1334]
+===== USER =====
+
+-Właśnie dlatego możemy iść już teraz i o 19.30 będziemy już na miejscu...
+
+
+
+[C2-M1335]
+===== ASSISTANT =====
+
+Pansy spojrzała na zegar, potem na Jamesa, a na końcu na Draco.
+
+— Technicznie… masz rację.
+
+Draco uniósł brew.
+
+— Nie mów mu tego zbyt często.
+
+Theodore spokojnie poprawił rękaw.
+
+— Jeśli wyjdziemy teraz, dotrzemy tam mniej więcej wtedy, kiedy Parkinson uznała to za społecznie akceptowalne. Matematycznie bez zarzutu.
+
+Pansy westchnęła.
+
+— Dobrze. Możemy iść. Ale jeśli okaże się, że przed Wielką Salą stoimy sami jak czwórka idiotów, oficjalnie to był twój pomysł.
+
+Draco spojrzał na nią.
+
+— Czwórka?
+
+— Ty idziesz ze mną, więc dzielisz odpowiedzialność.
+
+— Wspaniale.
+
+Theodore sięgnął po swoje rzeczy.
+
+— Ja po prostu chcę zobaczyć, czy Brown dotrze na miejsce bez kolejnego sprawdzenia zegara.
+
+Przy wyjściu kilka innych par również zaczynało się już zbierać, więc pomysł opuszczenia pokoju wspólnego nie wyglądał wcale tak przedwcześnie, jak jeszcze pół godziny wcześniej.
+
+
+
+[C2-M1336]
+===== USER =====
+
+po chwili wyszliśmy z pokoju wspólnego i skierowaliśmy się do wielkiej sali po drodze poczułem jak z każdą chwilą moje serce przyspieszyło
+
+
+
+[C2-M1337]
+===== ASSISTANT =====
+
+Kamienna ściana zamknęła się za nimi i cała czwórka ruszyła przez lochy w stronę głównych schodów.
+
+Im wyżej wychodzili, tym wyraźniej zamek przestawał przypominać zwykły wieczór. Na korytarzach pojawiało się coraz więcej uczniów w szatach wyjściowych; część szła parami, inni dopiero wracali do swoich wież i dormitoriów po zapomniane rzeczy. Tu i ówdzie wisiały bożonarodzeniowe girlandy, zbroje miały przy hełmach ostrokrzew, a z dalszych pięter dochodziły urwane fragmenty rozmów i śmiechu.
+
+Mały bukiet czerwonych róż z pomarańczowym blaskiem zdecydowanie zwracał uwagę. Dwie młodsze Ślizgonki mijające grupę spojrzały na niego, potem na Jamesa, ale poszły dalej bez komentarza.
+
+Draco zauważył to.
+
+— Zaczyna się — mruknął. — Jeszcze nawet nie wiedzą, dla kogo są, a już patrzą.
+
+Pansy szła obok niego.
+
+— Po dwóch miesiącach tajemnicy? Brown sam sobie na to zapracował.
+
+Theodore spojrzał przed siebie.
+
+— Za jakieś pół godziny problem tajemnicy rozwiąże się automatycznie.
+
+Po kilku kolejnych minutach dotarli do holu wejściowego.
+
+Było jeszcze stosunkowo luźno, ale zdecydowanie nie pusto. Kilkanaście osób już się tam kręciło, głównie starszych uczniów. Kilka par stało przy marmurowych schodach, rozmawiając i czekając na znajomych. Uczniowie Beauxbatons i Durmstrangu również zaczynali pojawiać się pojedynczo.
+
+Wielkie drzwi prowadzące do Wielkiej Sali pozostawały zamknięte. Za nimi dało się słyszeć stłumione odgłosy ostatnich przygotowań.
+
+Pansy zerknęła na zegar stojący w holu.
+
+— Dziewiętnasta trzydzieści jeden.
+
+Spojrzała na Jamesa.
+
+— Proszę bardzo. Nie jesteśmy pierwsi, nie jesteśmy kompromitująco wcześnie i nikt nas nie wyrzucił.
+
+Draco rozejrzał się po holu.
+
+— Jeszcze.
+
+Theodore zaś zatrzymał wzrok na zamkniętych drzwiach Wielkiej Sali.
+
+— Teraz pozostaje trudniejsza część.
+
+Pansy uniosła brew.
+
+— Jaka?
+
+— Czekanie w miejscu.
+
+
+
+[C2-M1338]
+===== USER =====
+
+Ale tak na poważnie cała szkoła o tym mowi??? Myślałem że tylko wasza trójka a głównie Draco....
+
+
+
+[C2-M1339]
+===== ASSISTANT =====
+
+Pansy od razu pokręciła głową.
+
+— Nie. Cała szkoła zdecydowanie o tym nie mówi. To zabrzmiało znacznie większe, niż jest naprawdę.
+
+Theodore zerknął na mijających ich uczniów.
+
+— Te dwie patrzyły na bukiet, Brown. Chłopak idący na Bal z kwiatami nie wymaga szczególnie skomplikowanego śledztwa.
+
+Draco skrzywił się lekko.
+
+— A jeśli chodzi o twoją tajemniczą partnerkę… tak, to głównie my się tym zajmowaliśmy.
+
+Pansy spojrzała na niego znacząco.
+
+— „My”.
+
+— Dobrze. Ja pytałem częściej.
+
+— Znacznie częściej — poprawił Theodore.
+
+Pansy wróciła wzrokiem do Jamesa.
+
+— Kilku Ślizgonów mogło coś usłyszeć przy stole albo zauważyć, że od tygodni nie chcesz powiedzieć nazwiska. Ale nie istnieje żadna ogólnoszkolna kampania pod tytułem „Z kim Brown idzie na bal?”.
+
+Theodore dodał:
+
+— A teraz, kiedy stoisz w holu wystrojony i trzymasz róże, ludzie mogą najwyżej dojść do niezwykle śmiałego wniosku, że prawdopodobnie masz partnerkę.
+
+Draco prychnął.
+
+— Daj im jeszcze pół godziny. Wtedy przynajmniej wreszcie ja przestanę się zastanawiać.
+
+Pansy uśmiechnęła się lekko.
+
+— Tak że spokojnie. Tajemnica nadal istnieje. Po prostu dla trzech osób tutaj stała się irytująco interesująca.
+
+
+
+[C2-M1340]
+===== USER =====
+
+-Pokazanie się na Balu na którym nie ma mocnych alkoholi bez partnerki to dopiero była by głupota....
+
+
+
+[C2-M1341]
+===== ASSISTANT =====
+
+Draco parsknął śmiechem.
+
+— Wreszcie jakaś rozsądna definicja głupoty.
+
+Pansy spojrzała na niego z ukosa.
+
+— Oczywiście. Bo bez mocnego alkoholu nie da się przeżyć wieczoru bez partnerki?
+
+— Da się — odparł Draco. — Tylko po co ryzykować?
+
+Theodore uniósł lekko brew.
+
+— Fascynujące, że w tej rozmowie największym problemem samotnego przyjścia na bal nie jest samotność, tylko brak odpowiednich środków znieczulających.
+
+Pansy zerknęła na Jamesa.
+
+— Poza tym sporo osób przyjdzie bez partnerów. Część z własnej woli, część dlatego, że za późno się zebrała, a część dlatego, że dostała kosza.
+
+Draco uśmiechnął się krzywo.
+
+— Ta ostatnia grupa będzie najłatwiejsza do rozpoznania.
+
+— Po czym?
+
+— Po tym, że będą twierdzić, że „i tak nie chciały iść”.
+
+
+
+[C2-M1342]
+===== USER =====
+
+Ale uczcimy tych ostatnich chwilą ciszy powiedziałem i skłoniłem głowę
+
+
+
+[C2-M1343]
+===== ASSISTANT =====
+
+Theodore bez słowa opuścił lekko głowę.
+
+Pansy zrobiła to samo, zdecydowanie bardziej teatralnie.
+
+Draco popatrzył najpierw na jednego, potem na drugiego.
+
+— Naprawdę?
+
+Pansy syknęła półgłosem:
+
+— Cisza, Malfoy. Oddajemy hołd poległym.
+
+Theodore odezwał się po chwili, nadal z opuszczoną głową:
+
+— Tym, którzy usłyszeli „nie” i mimo to będą przez cały wieczór udawać, że właśnie tak planowali.
+
+Draco westchnął, ale ostatecznie również skłonił głowę.
+
+— Dobrze. Pięć sekund. Ani jednej więcej.
+
+
+
+[C2-M1344]
+===== USER =====
+
+po pięciu sekundach podniosłem głowę - Dobrze że nie ma pierwszoroczniaków niezniósł bym wiodoku jedenastoletnich złamanych serc....
+
+
+
+[C2-M1345]
+===== ASSISTANT =====
+
+Pansy uniosła brew.
+
+— Nie ciesz się za wcześnie. Pierwszoroczniacy nie mogą przyjść sami, ale jeśli ktoś starszy któregoś zaprosił, regulamin ich nie wyklucza.
+
+Draco spojrzał na nią z niedowierzaniem.
+
+— Kto przy zdrowych zmysłach zabiera jedenastolatka na Bal Bożonarodzeniowy?
+
+Theodore wzruszył lekko ramieniem.
+
+— Ktoś, komu zabrakło innych możliwości.
+
+Pansy skrzywiła się.
+
+— Theodore.
+
+— Mówiliśmy właśnie o złamanych sercach.
+
+Draco parsknął.
+
+— Jeśli zobaczę pierwszoroczniaka stojącego tutaj z bukietem większym od niego, Brown może zarządzić drugą minutę ciszy.
+
+W holu tymczasem przybywało uczniów. Schodami zeszła kolejna grupa Krukonów, a kilka osób ustawiło się już niedaleko zamkniętych drzwi Wielkiej Sali. Nadal jednak było zdecydowanie za wcześnie na właściwe wejście.
+
+
+
+[C2-M1346]
+===== USER =====
+
+-Nie przesadzajmy jedynym uzasadnionym przypadkiem zapraszania kogoś z pierwszego roku jest moment w którym masz młodszą siostrę w tym roczniku, twoja partnerka i tak będzie na balu.. więc bierzesz młodszą siostrę na bal bo jesteś super bratem...
+
+
+
+[C2-M1347]
+===== ASSISTANT =====
+
+Pansy zastanowiła się przez sekundę.
+
+— Dobrze, to akurat uznaję. Starszy brat zabierający młodszą siostrę, żeby nie siedziała sama, brzmi całkiem słodko.
+
+Draco skrzywił się lekko.
+
+— Słodko? Brzmi jak obowiązek rodzinny.
+
+— W twoim wykonaniu wszystko brzmi jak obowiązek rodowy — odparła Pansy.
+
+Theodore spojrzał na nich spokojnie.
+
+— I praktycznie ma sens. Jeśli jego właściwa partnerka i tak jest na balu z kimś innym albo po prostu nie potrzebuje oficjalnego zaproszenia od niego, to młodsza siostra dostaje możliwość wejścia, której inaczej by nie miała.
+
+Draco uniósł brew.
+
+— Tylko potem przez cały wieczór pilnujesz jedenastolatki.
+
+Pansy wzruszyła ramionami.
+
+— Jeśli jesteś, cytuję Browna, „super bratem”, to chyba właśnie o to chodzi.
+
+Theodore dodał sucho:
+
+— Czyli ustaliliśmy jeden akceptowalny przypadek. Pozostałe zaproszenia pierwszoroczniaków nadal wymagają komisji śledczej.
+
+
+
+[C2-M1348]
+===== USER =====
+
+chwilę się zastanowiłem -Niekoniecznie...to jedynastolatka więc raczej jakoś po dziewiątej by zasnęła czyli potem masz juz normalne dwie godziny...
+
+
+
+[C2-M1349]
+===== ASSISTANT =====
+
+Pansy spojrzała na Jamesa z wyraźnym powątpiewaniem.
+
+— Ty naprawdę nie znasz jedenastolatków.
+
+Draco prychnął.
+
+— Daj im słodycze, muzykę, pełną salę ludzi i możliwość siedzenia poza łóżkiem później niż zwykle. O dziewiątej będą bardziej przytomni niż połowa siódmego roku.
+
+Theodore skinął lekko głową.
+
+— A nawet jeśli zaśnie, nadal masz problem logistyczny. Nie możesz po prostu zostawić śpiącej siostry pod stołem i uznać, że obowiązek rodzinny został wykonany.
+
+Pansy parsknęła śmiechem.
+
+— „Śpij spokojnie, mała. Brat idzie tańczyć, wrócę przed północą.”
+
+Draco skrzywił się.
+
+— I wtedy rzeczywiście przestajesz być „super bratem”.
+
+
+
+[C2-M1350]
+===== USER =====
+
+pokręciłem głową - jak ja miałem 11 lat to chodziłem spać ni nie do końca spać o 20:00 więc może rzeczywiście się nie znam.... ale kończyłem odpoczywać jakoś o 4:00
+
+
+
+[C2-M1351]
+===== ASSISTANT =====
+
+Theodore uniósł lekko brew.
+
+— To akurat nie jest szczególnie użyteczny punkt odniesienia.
+
+Pansy pokręciła głową z lekkim rozbawieniem.
+
+— Brown, ty od lat nie śpisz normalnie. Twoje „kiedy miałem jedenaście lat” nie jest chyba najlepszą podstawą do przewidywania, kiedy zaśnie przeciętny pierwszoroczniak.
+
+Draco prychnął.
+
+— Poza tym odpoczywanie od ósmej do czwartej brzmi bardziej jak zmiana nocna niż dzieciństwo.
+
+Theodore dodał spokojnie:
+
+— Więc podtrzymuję: jedenastolatek na balu po dziewiątej może być całkiem żywy. Zwłaszcza jeśli wszystko dookoła jest nowe, głośne i interesujące.
+
+Pansy zerknęła w stronę drzwi Wielkiej Sali.
+
+— A jeśli już zaśnie, to raczej na krześle podczas jakiegoś wolniejszego tańca, a nie grzecznie o wyznaczonej porze.
+
+
+
+[C2-M1352]
+===== USER =====
+
+-ok warto też zaznaczyć że w drugą stronę to nie działa starsza siostra nie może zabrać młodszego brata...
+
+
+
+[C2-M1353]
+===== ASSISTANT =====
+
+Pansy od razu spojrzała na Jamesa z uniesioną brwią.
+
+— A to niby dlaczego?
+
+Draco prychnął.
+
+— Bo wtedy młodszy brat przez cały wieczór będzie wyglądał, jakby został przyprowadzony za rękę przez mamę.
+
+Pansy odwróciła głowę w jego stronę.
+
+— Och, oczywiście. Straszna tragedia. Honor rodu zniszczony przez starszą siostrę.
+
+Theodore poprawił mankiet.
+
+— Logicznie nie widzę różnicy. Starsze rodzeństwo zabiera młodsze rodzeństwo. Płeć nie zmienia mechanizmu wejścia na bal.
+
+Draco zmarszczył nos.
+
+— Mechanizmu nie. Wyglądu sytuacji już trochę.
+
+Pansy skrzyżowała ręce.
+
+— Czyli jeśli starszy brat zabiera młodszą siostrę, jest „super bratem”, ale jeśli starsza siostra zabiera młodszego brata, to nagle kompromitacja?
+
+Theodore zerknął na Jamesa.
+
+— Brown właśnie stworzył bardzo specyficzny kodeks rodzeństwa. Mam wrażenie, że zaraz będzie potrzebował poprawek.
+
+
+
+[C2-M1354]
+===== USER =====
+
+-Pansy na logikę po pierwsze kto...powinien zaprosić kogo na bal.... mężczyzna kobietę...na odwrót...hm... było by to trochę dziwne... A po drugie chłopcy są bardziej zazdrośni niż dziewczyny więc gdyby dajmy Draco miał konkurować z twoimi nie istniejącym mlodszym bratem to myślę że mogły by być z tego problemy a po trzecie.... kobiety co do zasady chyba trochę bardziej lubią bale....
+
+
+
+[C2-M1355]
+===== ASSISTANT =====
+
+Pansy patrzyła na Jamesa przez moment, po czym uniosła brew jeszcze wyżej.
+
+— Brown… właśnie w trzech punktach zbudowałeś całą teorię społeczną tylko po to, żeby udowodnić, że starsza siostra nie może zabrać młodszego brata na bal.
+
+Draco jednak wyglądał, jakby pierwszy punkt przypadł mu do gustu.
+
+— Z tym pierwszym akurat ma rację. To chłopak powinien zapraszać dziewczynę. Inaczej wygląda to… dziwnie.
+
+Pansy natychmiast odwróciła głowę.
+
+— Oczywiście, że ty się z tym zgodzisz.
+
+— Bo to normalne.
+
+Theodore odezwał się spokojnie:
+
+— „Normalne” i „jedyny dopuszczalny wariant” to dwie różne rzeczy.
+
+Pansy wróciła wzrokiem do Jamesa.
+
+— A co do zazdrości… jeśli Draco czułby się zagrożony przez mojego jedenastoletniego brata, to mielibyśmy znacznie większy problem niż regulamin balu.
+
+Draco skrzywił się.
+
+— Nie czułbym się zagrożony.
+
+— Właśnie.
+
+Theodore uniósł lekko brew.
+
+— Choć przyznaję, że część o tym, że chłopcy bywają bardziej terytorialni, nie jest całkowicie wyssana z palca.
+
+Draco posłał mu krótkie spojrzenie.
+
+— „Terytorialni”?
+
+— Wolałem to od „zazdrośni”.
+
+Pansy parsknęła.
+
+— A trzeci punkt? Tak, możliwe, że przeciętnie więcej dziewczyn ekscytuje się samym balem niż chłopców. Ale to nadal nie znaczy, że młodszy brat nie chciałby zobaczyć Wielkiej Sali, muzyki, jedzenia i całego zamieszania.
+
+Draco wzruszył ramieniem.
+
+— Chociaż jeśli miałbym jedenaście lat, ostatnią rzeczą, jakiej bym chciał, byłoby wejście tam jako „młodszy brat Parkinson”.
+
+Pansy spojrzała na niego słodko.
+
+— Nie martw się. Jako „młodszy brat Parkinson” i tak miałbyś lepsze maniery.
+
+
+
+[C2-M1356]
+===== USER =====
+
+Pansy każdy mężczyzna ma w głowie jedynadtolatka który przejmuje kontrolę w sytuacjach.... wyjątkowych....i to właśnie ten jedynadtolatek w głowie Draco czuł by się zagrożony i przejął by kontrolę
+
+
+
+[C2-M1357]
+===== ASSISTANT =====
+
+Pansy przez moment patrzyła na Jamesa, jakby próbowała zdecydować, czy właśnie usłyszała teorię psychologiczną, czy kolejną wymówkę dla zazdrości.
+
+— Czyli według ciebie każdy chłopak ma w głowie jedenastolatka, który w krytycznym momencie krzyczy: „TO MOJA PARTNERKA”?
+
+Draco natychmiast się skrzywił.
+
+— Ja nie mam żadnego jedenastolatka w głowie.
+
+Theodore spojrzał na niego spokojnie.
+
+— To dokładnie to, co powiedziałby człowiek chwilę przed przejęciem kontroli przez jedenastolatka.
+
+Pansy parsknęła śmiechem.
+
+Draco rzucił mu chłodne spojrzenie.
+
+— Nott.
+
+— Tylko testuję teorię Browna.
+
+Pansy znów spojrzała na Jamesa.
+
+— Ale dobrze, załóżmy, że ten hipotetyczny jedenastolatek istnieje. Jeśli mój nieistniejący młodszy brat rzeczywiście wystarczyłby, żeby Draco zaczął zachowywać się jak zazdrosny dzieciak…
+
+Spojrzała na Draco.
+
+— …to byłby problem Draco, nie mojego brata.
+
+Draco prychnął.
+
+— Nie konkurowałbym z jedenastolatkiem.
+
+Theodore uniósł lekko brew.
+
+— Czyli teoria Browna właśnie poniosła pierwszą porażkę eksperymentalną.
+
+Pansy uśmiechnęła się.
+
+— Albo Draco właśnie bardzo rozpaczliwie próbuje udowodnić, że jego wewnętrzny jedenastolatek nie istnieje.
+
+
+
+[C2-M1358]
+===== USER =====
+
+-mniej więcej tak ale musisz to zrozumieć to tylko jedynadtoletni dzieciak...słuchałem dalszej części jej wypowiedzi
+Pansy... Tylko ci się twk wydaje ale tylko dlatego że rozważamy to teoretycznie...ale uproszcze ci to i może zmienisz zdanie....czy miala byś problem gdy dwie osoby które kochasz "konkurowały" by ze sobą?
+
+
+
+[C2-M1359]
+===== ASSISTANT =====
+
+Pansy tym razem nie odpowiedziała od razu.
+
+Spojrzała najpierw na Jamesa, potem krótko na Draco.
+
+— Tak. Gdyby dwie osoby, na których naprawdę bardzo mi zależy, zaczęły ze sobą konkurować o moją uwagę, miałabym z tym problem.
+
+Draco poruszył lekko szczęką, ale nic nie powiedział.
+
+Pansy uniosła palec.
+
+— Tylko że to nadal nie dowodzi twojej teorii o płci. Problemem nie byłoby to, że mój młodszy brat jest chłopcem. Problemem byłoby to, że dwie bliskie mi osoby zachowują się jak idioci i próbują mnie przeciągnąć każda na swoją stronę.
+
+Theodore skinął lekko głową.
+
+— To rozróżnienie jest istotne.
+
+Pansy spojrzała ponownie na Draco.
+
+— I gdybyś naprawdę zaczął rywalizować z moim jedenastoletnim bratem…
+
+Draco od razu prychnął.
+
+— Nie zacząłbym.
+
+— …to dostałbyś ode mnie bardzo krótką rozmowę o tym, że on ma jedenaście lat.
+
+Theodore odezwał się sucho:
+
+— A wewnętrzny jedenastolatek Malfoya?
+
+Pansy uśmiechnęła się lekko.
+
+— Jego też bym wychowała.
+
+Draco spojrzał na nią z urazą.
+
+— Coraz bardziej żałuję, że Brown rozpoczął tę teorię.
+
+
+
+[C2-M1360]
+===== USER =====
+
+-Ale w takim przypadku stało by się to też twoim problem po wysłuchaniu jej dodałem Czyli potraktowała byś jednego jedynadtolatka inaczej niż drugiego? Wiesz że to by wywołało odwrotnym efekt od zamierzonego.... bo po tym jak dzieciak Draco dostał by reprymendę to twój brat uznał by to za zwycięstwo.... co z kolei oznaczało by że Draco przegrał co z kolei od razu zaczęło by dążenie do zemsty
+
+
+
+[C2-M1361]
+===== ASSISTANT =====
+
+Pansy zamrugała kilka razy, po czym spojrzała na Jamesa z czymś pomiędzy rozbawieniem a niedowierzaniem.
+
+— Ty właśnie zbudowałeś pełny model eskalacji konfliktu pomiędzy jednym prawdziwym jedenastolatkiem i jednym wyimaginowanym jedenastolatkiem w głowie Draco.
+
+Theodore uniósł brew.
+
+— I niestety model jest bardziej spójny, niż powinien.
+
+Draco odwrócił głowę w jego stronę.
+
+— Nie pomagaj mu.
+
+Pansy jednak kontynuowała:
+
+— Dobrze. Załóżmy, że masz rację. Jeśli zrugam Draco, mój brat uzna to za zwycięstwo. Draco poczuje się upokorzony. Potem będzie chciał odzyskać przewagę.
+
+Draco prychnął.
+
+— Nie planowałbym zemsty na jedenastolatku.
+
+Theodore spojrzał na niego spokojnie.
+
+— Świadomie może nie.
+
+Draco zmrużył oczy.
+
+Pansy westchnęła.
+
+— I właśnie dlatego nie potraktowałabym ich tak samo. Mój brat byłby dzieckiem. Draco byłby piętnastoletnim idiotą, który powinien wiedzieć lepiej.
+
+— Dziękuję — rzucił Draco chłodno.
+
+— Nie ma za co.
+
+Pansy spojrzała ponownie na Jamesa.
+
+— Ale przyznam ci jedno. Gdyby naprawdę doszło do takiej głupiej rywalizacji, samo powiedzenie Draco „przestań” mogłoby nie wystarczyć. Bo wtedy rzeczywiście mógłby potraktować to jak przegraną.
+
+Theodore kiwnął lekko głową.
+
+— Zwłaszcza jeśli młodszy brat zauważyłby, że może sprowokować reakcję.
+
+Draco wyglądał coraz mniej zachwycony kierunkiem rozmowy.
+
+— Czy możemy przestać analizować moje hipotetyczne konflikty z dzieckiem, którego Parkinson nawet nie ma?
+
+Pansy uśmiechnęła się lekko.
+
+— Nie. Teraz chcę wiedzieć, jak głęboko Brown zamierza wejść w teorię twojego wewnętrznego jedenastolatka.
+
+
+
+[C2-M1362]
+===== USER =====
+
+Pansy, właśnie bo mam wrażenie że ciągle to odrzucasz w tym konflikcie nie bylo by tego w miarę inteligentnego, dumnego Draco którego tu widzimy był by jedynastoletni Draco który bardzo "kocha" według swoje dziecięcej definicji swoją ukochaną Pansy i nie chcę a nawet nie umiem się nią dzielić...i teraz musisz zastanowić się czy była byś w stanie przywrócić do sterow tego w miarę rozsądnego Draco...?
+
+
+
+[C2-M1363]
+===== ASSISTANT =====
+
+Pansy tym razem nie odpowiedziała od razu żartem.
+
+Przyjrzała się Draco uważniej, jakby rzeczywiście spróbowała na chwilę przyjąć założenie Jamesa zamiast je odrzucać.
+
+— Dobrze. Teraz rozumiem, o co ci chodzi.
+
+Draco skrzywił się.
+
+— Świetnie. Wszyscy właśnie zaakceptowali istnienie mojego wewnętrznego jedenastolatka.
+
+Pansy zignorowała go.
+
+— Jeśli mówimy nie o rozsądnym Draco, tylko o tej części niego, która w pewnym momencie przestaje myśleć i zaczyna działać wyłącznie na zasadzie „to jest moje, nie zabieraj”… wtedy zwykła reprymenda rzeczywiście mogłaby pogorszyć sprawę.
+
+Theodore spojrzał na nią z lekkim zainteresowaniem.
+
+— Czyli Brown jednak dostał częściowe uznanie teorii.
+
+— Częściowe — podkreśliła Pansy.
+
+Potem znów zerknęła na Draco.
+
+— Czy potrafiłabym przywrócić normalnego Draco? Prawdopodobnie tak. Ale nie przez zawstydzanie go przy wszystkich i nie przez stawianie go w sytuacji, w której uznałby, że właśnie „przegrał” ze swoim hipotetycznym jedenastoletnim rywalem.
+
+Draco natychmiast wszedł jej w słowo:
+
+— Nie przegrałbym z jedenastolatkiem.
+
+Theodore spojrzał na niego.
+
+— To zdanie bardzo wzmacnia teorię Browna.
+
+— Zamknij się.
+
+Pansy parsknęła, ale zaraz wróciła do tematu.
+
+— Raczej odciągnęłabym Draco na bok. Bez publiczności. Dałabym mu chwilę przestać zachowywać się jak idiota, a potem przypomniała, że mój brat nie jest jego konkurentem.
+
+Uniósł jej się lekko kącik ust.
+
+— A jeśli nadal próbowałby konkurować…
+
+Spojrzała na Draco.
+
+— …wtedy dopiero zaczęłabym się martwić, że mój chłopak naprawdę mentalnie cofnął się o cztery lata.
+
+Draco patrzył na nią z mieszaniną irytacji i urażonej dumy.
+
+— Parkinson, przypominam, że cały ten człowiek nie istnieje.
+
+— Tak samo jak mój młodszy brat — odparła.
+
+Theodore skinął głową.
+
+— Idealny eksperyment. Żadna ze stron konfliktu nie istnieje, a Malfoy i tak już jest obrażony.
+
+
+
+[C2-M1364]
+===== USER =====
+
+kiwnąłem głową - myślę że tu możemy zakończyć ten temat ale żeby nie było za smutno to trzeba pamiętać że ten jedynastoletni Draco w głowie Draco przejmuje też kontrolę gdy Draco jest bardzo szczęśliwy i dzięki temu Draco jest w stanie to w ogóle wyrazić... albo gdy patrzy na Pansy i uświadamia sobie że jest piękna wtedy też patrzy ten jedynastoletni Draco....i żeby Draco się nie obraził to u wszystkich mężczyzn jest tak samo...
+
+
+
+[C2-M1365]
+===== ASSISTANT =====
+
+Pansy przez chwilę patrzyła na Jamesa, a potem bardzo powoli przeniosła wzrok na Draco.
+
+— Czyli teraz ten twój „wewnętrzny jedenastolatek” nie tylko wszczyna wojny, ale też odpowiada za romantyczne przebłyski?
+
+Draco wyglądał, jakby właśnie zdecydował, że cała teoria powinna zostać zakazana prawnie.
+
+— Nie mam żadnego jedenastolatka w głowie.
+
+Theodore odezwał się spokojnie:
+
+— To już ustaliliśmy. Brown używa metafory.
+
+— Bardzo irytującej metafory.
+
+Pansy uśmiechnęła się lekko.
+
+— Ale ta część akurat jest trochę mniej absurdalna.
+
+Draco natychmiast spojrzał na nią.
+
+— Parkinson.
+
+— Co? — odparła. — Czasami rzeczywiście jesteś najbardziej szczery dokładnie wtedy, kiedy przestajesz wszystko analizować.
+
+Theodore uniósł brew.
+
+— To niekoniecznie dowód na obecność jedenastolatka. Bardziej na chwilowe wyłączenie filtra.
+
+Pansy skinęła głową.
+
+— O właśnie. To brzmi rozsądniej.
+
+Draco wskazał na Theodore’a.
+
+— Wreszcie ktoś mówi normalnie.
+
+Pansy jednak nie odpuszczała.
+
+— A jeśli chodzi o patrzenie na mnie i nagłe odkrywanie, że jestem piękna…
+
+Draco zesztywniał minimalnie.
+
+— Nie zaczynaj.
+
+Pansy uśmiechnęła się szerzej.
+
+— Nie muszę. Brown już zaczął.
+
+Theodore spojrzał między nimi.
+
+— I zanim pójdziemy dalej: nie, nie zamierzam podpisywać twierdzenia, że „u wszystkich mężczyzn jest tak samo”.
+
+Pansy parsknęła.
+
+— Dobrze. Czyli teoria Browna zostaje przyjęta warunkowo: istnieje jakaś bardziej impulsywna część Draco, która czasem przejmuje stery. Nie ma dowodów, że ma dokładnie jedenaście lat.
+
+Draco prychnął.
+
+— Nareszcie.
+
+Pansy spojrzała na niego z ukosa.
+
+— Ale jeśli za chwilę powiesz mi coś wyjątkowo słodkiego, uznam, że Brown miał rację.
+
+
+
+[C2-M1366]
+===== USER =====
+
+-tak u Draco jego wewnetzyn dzieciak ma max siedem kat....
+
+
+
+[C2-M1367]
+===== ASSISTANT =====
+
+Pansy parsknęła śmiechem.
+
+— Siedem?
+
+Draco od razu odwrócił głowę.
+
+— Brown.
+
+Theodore spojrzał na niego z udawaną analizą.
+
+— Hm. Przyznaję, siedem tłumaczyłoby kilka rzeczy lepiej niż jedenaście.
+
+— Nott.
+
+— Zwłaszcza upór — dodał Theodore spokojnie.
+
+Pansy uśmiechnęła się szerzej.
+
+— I to, że czasem wystarczy powiedzieć mu, że czegoś nie może, żeby natychmiast chciał udowodnić, że może.
+
+Draco zmrużył oczy.
+
+— Naprawdę wszyscy świetnie się bawicie.
+
+— Trochę — przyznała Pansy. — Ale jeśli ten siedmiolatek odpowiada też za momenty, kiedy Draco naprawdę się cieszy albo przestaje udawać, że nic go nie obchodzi…
+
+Spojrzała na niego z boku.
+
+— …to chyba nie mam nic przeciwko temu, żeby czasem dochodził do głosu.
+
+Draco przez sekundę nic nie powiedział.
+
+Theodore uniósł brew.
+
+— Uwaga. Możliwa aktywacja siedmiolatka.
+
+— Zamknij się, Nott.
+
+
+
+[C2-M1368]
+===== USER =====
+
+lekko się usniechnąłem a potem spojrzałem na Pansy i gdy złapałem z nią kontakt wzrokowy pokazałem oczami na Draco a potem gest pokazujący żeby go "przytuliła"
+Jednocześnie obróciłem się bardziej w stronę Notta i zacząłem z nim szybką wymianę zdań dając im trochę więcej prywatności
+
+
+
+[C2-M1369]
+===== ASSISTANT =====
+
+Pansy złapała spojrzenie Jamesa, potem zerknęła na wykonany gest. Przez sekundę uniosła brew, jakby pytała bez słów: serio?
+
+Potem spojrzała na Draco.
+
+Draco zdążył zauważyć tylko to ostatnie.
+
+— Co?
+
+Pansy nie odpowiedziała. Zrobiła pół kroku bliżej i po prostu objęła go krótko, bez żadnego teatralnego ostrzeżenia.
+
+Draco zesztywniał.
+
+— Parkinson…?
+
+Nie odsunął jej jednak. Po pierwszym zaskoczeniu jego ramiona poruszyły się nieco niezręcznie, ale odwzajemnił uścisk na krótką chwilę.
+
+Pansy powiedziała cicho:
+
+— Nic. Po prostu sprawdzam teorię Browna.
+
+Draco odsunął głowę odrobinę, żeby na nią spojrzeć.
+
+— Jaką część?
+
+— Tę lepszą.
+
+W tym samym czasie Theodore bez problemu podjął szybką wymianę zdań z Jamesem. Odpowiadał krótko i rzeczowo, najwyraźniej doskonale rozumiejąc, że jego aktualnym zadaniem jest patrzeć gdzie indziej.
+
+Po paru sekundach rzucił tylko półgłosem:
+
+— Nie patrzę.
+
+Za plecami Theodore’a Pansy jeszcze przez moment nie puszczała Draco.
+
+Draco mruknął:
+
+— Jeśli Brown się teraz odwróci i zacznie triumfować, zaprzeczę, że to się wydarzyło.
+
+Pansy uśmiechnęła się tuż przy jego ramieniu.
+
+— Oczywiście, Draco.
+
+
+
+[C2-M1370]
+===== USER =====
+
+słyszałem ich wymianę ale się od obróciłem i Nott też tego nie zrobił
+
+
+
+[C2-M1371]
+===== ASSISTANT =====
+
+Theodore faktycznie ani razu nie obejrzał się przez ramię.
+
+— Im dłużej o tym myślę, tym bardziej dochodzę do wniosku, że cały ten bal to społeczny eksperyment — rzucił spokojnie, podtrzymując rozmowę. — Setki nastolatków, formalne stroje, muzyka i oczekiwanie, że nikt nie zrobi niczego głupiego.
+
+Za nimi Pansy puściła Draco dopiero po chwili.
+
+— Widzisz? Przeżyłeś.
+
+Draco mruknął coś ciszej, już bez wcześniejszej ostrości:
+
+— To nie było konieczne.
+
+— Wiem.
+
+Przez moment zrobiło się tam ciszej.
+
+Theodore natomiast ciągnął, jakby niczego nie słyszał:
+
+— Najbardziej interesujące będzie ustalenie, po ilu minutach od otwarcia sali ktoś przewróci się podczas tańca.
+
+
+
+[C2-M1372]
+===== USER =====
+
+-miejmy nadzieję że to wydarzy sie dopiero na drugim balu...powiedziałem a potem obróciliśmy się z powrotem -Sory zagradaliśmy się trochę mówiliście coś?
+
+
+
+[C2-M1373]
+===== ASSISTANT =====
+
+Pansy zdążyła już zrobić pół kroku od Draco i spojrzała na Jamesa z niewinną miną.
+
+— Nie. Absolutnie nic.
+
+Draco odchrząknął cicho.
+
+— Nic wartego twojej uwagi.
+
+Theodore zerknął na nich obu, potem spokojnie dodał:
+
+— Rozmawiali o przetrwaniu.
+
+Draco natychmiast spojrzał na niego.
+
+— Nott.
+
+— Co? To prawda.
+
+Pansy uśmiechnęła się lekko.
+
+— Draco właśnie pomyślnie przeszedł bardzo trudny test. Bez obrażeń, bez utraty godności i, co najważniejsze, bez ucieczki.
+
+Draco skrzywił się.
+
+— Zostawmy ten temat.
+
+Theodore skinął głową.
+
+— Doskonały pomysł. Zwłaszcza że za chwilę Brown zacznie analizować wyniki eksperymentu.
+
+Pansy zerknęła w stronę zamkniętych drzwi Wielkiej Sali.
+
+— A co do przewracania się podczas tańca… na twoim drugim balu prawdopodobieństwo będzie znacznie wyższe. Po północy ludzie będą już zmęczeni, mniej formalni i zdecydowanie bardziej skłonni do głupich pomysłów.
+
+Theodore poprawił mankiet.
+
+— Czyli środowisko naturalne Browna.
+
+
+
+[C2-M1374]
+===== USER =====
+
+pokręciłem głową -juz dzisiaj o tym rozmawialiśmy....lepiej mi powiedz która godzina i gdzie Daphne?
+
+
+
+[C2-M1375]
+===== ASSISTANT =====
+
+Theodore zerknął na zegar w holu.
+
+— Około dziewiętnastej trzydzieści pięć.
+
+Potem rozejrzał się po schodach prowadzących z wyższych pięter.
+
+— A Daphne jeszcze nie zeszła. Umówiliśmy się tutaj, więc zakładam, że właśnie kończy przygotowania.
+
+Draco uniósł brew.
+
+— I nie zamierzasz po nią iść?
+
+Theodore spojrzał na niego spokojnie.
+
+— Nie. Powiedziała, że przyjdzie tutaj. Potrafię przez kilka minut nie wpadać w panikę.
+
+Pansy natychmiast zerknęła na Jamesa.
+
+— Widzisz? Można.
+
+Theodore dodał sucho:
+
+— Chociaż jeśli o dziewiętnastej pięćdziesiąt nadal jej nie będzie, dopuszczam możliwość rozpoczęcia umiarkowanego niepokoju.
+
+
+
+[C2-M1376]
+===== USER =====
+
+-ale Daphne to Daphne a.....jest inna
+
+
+
+[C2-M1377]
+===== ASSISTANT =====
+
+Pansy od razu wychwyciła urwaną końcówkę zdania.
+
+— „A… jest inna”? — powtórzyła, unosząc brew.
+
+Draco spojrzał na Jamesa uważniej.
+
+— Prawie znowu powiedziałeś za dużo.
+
+Theodore tylko lekko przechylił głowę.
+
+— Brown najwyraźniej uważa, że jego przypadek nie podlega porównaniom.
+
+Pansy uśmiechnęła się pod nosem.
+
+— Co akurat było widać od dawna.
+
+Draco prychnął.
+
+— Tak, tak. Tajemnicza wyjątkowa osoba, dla której Brown robi kwiaty, planuje pół wieczoru i nie potrafi normalnie siedzieć.
+
+Theodore dodał spokojnie:
+
+— A Daphne po prostu przyjdzie wtedy, kiedy powiedziała, że przyjdzie.
+
+Pansy spojrzała znowu na Jamesa.
+
+— Więc rozumiem różnicę. Tylko nie próbuj nam wmawiać, że jest logiczna.
+
+
+
+[C2-M1378]
+===== USER =====
+
+pokręciłem głową po raz kolejny -ok idźmy daje....powiedzialem ale wtedy też zobaczyłem przyjaciółkę z Beauxbatons
+
+
+
+[C2-M1379]
+===== ASSISTANT =====
+
+Wśród schodzących właśnie z marmurowych schodów uczniów Beauxbatons pojawiła się Élodie Moreau.
+
+Balowy strój wyraźnie różnił się od jej zwykłego jasnoniebieskiego mundurka: elegancki, francuski w kroju, bardziej subtelny niż przesadnie ozdobny. Ciemnoblond włosy miała ułożone staranniej niż zwykle, odsłaniając twarz.
+
+Szła z dwiema innymi uczennicami Beauxbatons, rozmawiając z nimi po francusku. Po paru krokach jej wzrok przesunął się po holu i zatrzymał na znajomej grupie Ślizgonów.
+
+Rozpoznała Jamesa.
+
+Jej twarz natychmiast się rozjaśniła i uniosła dłoń w krótkim powitaniu.
+
+— James!
+
+Draco spojrzał najpierw na nią, potem na Jamesa.
+
+— O. Francja.
+
+Pansy rzuciła mu spojrzenie.
+
+— Nie zaczynaj znowu tej dyplomacji.
+
+Theodore natomiast przyjrzał się Élodie przez moment.
+
+— Moreau. Czyli jedna z osób od drugiego balu.
+
+Élodie pożegnała coś szybko do swoich koleżanek i ruszyła kilka kroków w stronę grupy. Gdy znalazła się bliżej, jej wzrok na sekundę spadł na mały bukiet w dłoni Jamesa.
+
+Uśmiechnęła się trochę szerzej.
+
+— Ach. Więc to jest ten wieczór.
+
+
+
+[C2-M1380]
+===== USER =====
+
+przytuliłem ją na powitanie - tak to ten ... wieczór....jeszcze raz się jej przyjrzałem - świetnie wyglądasz....
+
+
+
+[C2-M1381]
+===== ASSISTANT =====
+
+Élodie odwzajemniła uścisk bez wahania, krótko i naturalnie, po czym odsunęła się odrobinę.
+
+— Merci. — Uśmiechnęła się szerzej. — Ty też wyglądasz bardzo dobrze. Znacznie bardziej… formalnie niż zwykle.
+
+Jej wzrok znów zsunął się na bukiet.
+
+— I widzę, że przygotowania były poważne.
+
+Pansy stanęła obok z lekkim uśmiechem.
+
+— Bardzo poważne. Nie pytaj, ile razy poprawiał muchę.
+
+Draco prychnął.
+
+— Ani o której godzinie był już gotowy.
+
+Élodie spojrzała między nimi, wyraźnie rozbawiona.
+
+— Ach, więc cały dzień był katastrofą?
+
+Theodore odezwał się spokojnie:
+
+— Jeszcze nie. Ale Brown bardzo się starał, żeby przynajmniej wyglądało, jakby mogła nią zostać.
+
+Élodie roześmiała się cicho, po czym znów spojrzała na Jamesa.
+
+— Czyli nadal nie zdradziłeś im, z kim idziesz?
+
+
+
+[C2-M1382]
+===== USER =====
+
+Nie..... a ty wiesz?
+
+
+
+[C2-M1383]
+===== ASSISTANT =====
+
+Élodie pokręciła głową.
+
+— Nie. Wiem tylko, że jest ktoś bardzo konkretny, przez kogo cały ten wieczór ma dla ciebie znaczenie.
+
+Spojrzała na bukiet, potem na Jamesa.
+
+— Ale nazwiska mi nie powiedziałeś.
+
+Pansy od razu zerknęła na Élodie z zainteresowaniem.
+
+— Dobrze. Czyli nawet Francja nie została wtajemniczona.
+
+Draco prychnął.
+
+— To zaczyna być absurdalne.
+
+Theodore wzruszył lekko ramieniem.
+
+— Za dwadzieścia kilka minut przestanie być tajemnicą.
+
+Élodie uśmiechnęła się lekko.
+
+— I chyba wolę zobaczyć reakcję na żywo niż dostać spoiler teraz.
+
+
+
+[C2-M1384]
+===== USER =====
+
+Te ostatnie minuty są jak wieczność.... kiedy w końcu otworzą salę?
+
+
+
+[C2-M1385]
+===== ASSISTANT =====
+
+Pansy zerknęła na zegar w holu.
+
+— Jest dopiero około dziewiętnastej trzydzieści pięć. Pewnie otworzą gdzieś za kwadrans, może trochę później. Muszą zdążyć wpuścić wszystkich przed ósmą.
+
+Theodore spojrzał na zamknięte drzwi.
+
+— Jeśli organizacja ma mieć jakikolwiek sens, zwykłych uczniów zaczną wpuszczać przed dwudziestą. Reprezentanci Turnieju i ich partnerzy zapewne dostaną osobne instrukcje.
+
+Élodie uśmiechnęła się na widok zniecierpliwienia Jamesa.
+
+— Czyli jeszcze jakieś piętnaście minut cierpienia.
+
+Draco prychnął.
+
+— Gorzej. Piętnaście minut, podczas których Brown będzie wiedział, że drzwi mogą otworzyć się w każdej chwili.
+
+Pansy spojrzała na niego z rozbawieniem.
+
+— Nie podpowiadaj mu.
+
+W tej samej chwili po drugiej stronie holu pojawiła się profesor McGonagall. Nie otwierała jeszcze drzwi; zaczęła za to rozmawiać z jednym z prefektów, a kilku nauczycieli przeszło obok nich w stronę Wielkiej Sali.
+
+Theodore skinął lekko w tamtym kierunku.
+
+— Ale wygląda na to, że przygotowania są już naprawdę na finiszu.
+
+
+
+[C2-M1386]
+===== USER =====
+
+westchnąłem
+
+
+
+[C2-M1387]
+===== ASSISTANT =====
+
+Élodie rzuciła mu rozbawione spojrzenie.
+
+— Och, nie rób takiej miny. Jeszcze chwila.
+
+Pansy zerknęła w stronę drzwi Wielkiej Sali.
+
+— Naprawdę zaczynam się zastanawiać, czy większym wydarzeniem będzie sam bal, czy moment, kiedy Brown wreszcie zobaczy swoją partnerkę.
+
+Draco prychnął.
+
+— Dla niego odpowiedź jest chyba oczywista.
+
+Theodore spojrzał na zegar.
+
+— Czas nadal płynie z normalną prędkością. Niestety.
+
+W holu tymczasem robiło się coraz tłoczniej. Kolejne pary schodziły po schodach, a McGonagall zaczęła ustawiać kilku uczniów tak, żeby nie blokowali wejścia. Zamknięte drzwi Wielkiej Sali nadal pozostawały jednak na swoim miejscu.
+
+
+
+[C2-M1388]
+===== USER =====
+
+-a jak wasza Mistrzyni? Będzie z kimś z Hogwartu?
+
+
+
+[C2-M1389]
+===== ASSISTANT =====
+
+Élodie skinęła głową.
+
+— Tak. Fleur idzie z chłopakiem z Hogwartu. Rogerem Daviesem, z Ravenclawu.
+
+Pansy uniosła lekko brew.
+
+— Kapitan drużyny quidditcha.
+
+— Ten sam — potwierdziła Élodie. — Fleur nie mówiła o tym szczególnie dużo, ale trudno było tego nie zauważyć.
+
+Draco spojrzał w stronę schodów.
+
+— Davies miał szczęście.
+
+Élodie parsknęła cicho.
+
+— Według niego zapewne ogromne.
+
+Theodore dodał spokojnie:
+
+— Według połowy chłopaków w Hogwarcie również.
+
+Élodie uśmiechnęła się.
+
+— A według Fleur… uznała, że jest wystarczająco interesujący, żeby powiedzieć „tak”. To chyba uczciwsza wersja.
+
+
+
+[C2-M1390]
+===== USER =====
+
+-Gdyby nie... siła wyższa to i ja bym spróbował ją zaprosić....
+
+
+
+[C2-M1391]
+===== ASSISTANT =====
+
+Élodie uniosła brwi.
+
+— Siła wyższa? — powtórzyła z wyraźnym rozbawieniem. — To brzmi dużo poważniej niż zwykłe „mam już partnerkę”.
+
+Pansy od razu podchwyciła:
+
+— Widzisz? Nawet ona zauważyła.
+
+Draco spojrzał na Jamesa z ukosa.
+
+— Czyli Fleur rzeczywiście była na liście, tylko przegrała z tajemniczą katastrofą narodową.
+
+Élodie parsknęła cicho.
+
+— Nie wiem, czy Fleur byłaby zachwycona, gdyby usłyszała, że była „planem awaryjnym”.
+
+Theodore poprawił mankiet.
+
+— Technicznie nie powiedział, że awaryjnym. Powiedział, że spróbowałby, gdyby nie istniała inna osoba.
+
+Élodie spojrzała znów na Jamesa.
+
+— To akurat brzmi trochę lepiej. Ale nadal jestem bardzo ciekawa, kto zdołał sprawić, że Fleur Delacour nawet nie dostała szansy.
+
+
+
+[C2-M1392]
+===== USER =====
+
+.....rozejrzałem się po holu wypatrując Kruma
+
+
+
+[C2-M1393]
+===== ASSISTANT =====
+
+Wśród uczniów zgromadzonych w holu Viktor Krum nie rzucał się jeszcze w oczy. Kilku Durmstrangowców stało bliżej schodów, rozmawiając między sobą, ale ich reprezentanta nie było w tej grupie.
+
+Élodie zauważyła kierunek spojrzenia.
+
+— Szukasz Kruma?
+
+Theodore również rozejrzał się pobieżnie.
+
+— Jeszcze go nie widzę. Możliwe, że reprezentanci mają zjawić się później albo są gdzieś z partnerami przed rozpoczęciem.
+
+Draco prychnął.
+
+— Jeśli chcesz teraz porównywać „siły wyższe”, Brown, to zaczyna się robić niebezpiecznie konkurencyjnie.
+
+Pansy spojrzała na niego z ukosa.
+
+— On nawet nic nie powiedział.
+
+— Jeszcze.
+
+
+
+[C2-M1394]
+===== USER =====
+
+-Nic z tych rzeczy po prostu jestem ciekaw z kim ostatecznie niektórzy się pojawią.... ale nie jakoś bardzo....
+
+
+
+[C2-M1395]
+===== ASSISTANT =====
+
+Élodie uśmiechnęła się lekko.
+
+— Oczywiście. Zupełnie przypadkowa ciekawość.
+
+Pansy spojrzała na Jamesa z miną, która mówiła, że nie kupuje tego ani trochę.
+
+— Mhm.
+
+Theodore zachował powagę.
+
+— To normalne. Przy takim balu połowa zabawy zaczyna się jeszcze przed wejściem, kiedy wszyscy próbują zgadnąć, kto z kim przyszedł.
+
+Draco wzruszył ramieniem.
+
+— I kto dostał kosza.
+
+Élodie zerknęła w stronę schodów.
+
+— Krum pewnie zaraz się pojawi. A wtedy dowiesz się bez żadnego śledztwa.
+
+Pansy spojrzała z boku na Jamesa.
+
+— Tylko błagam, nie zaczynaj teraz prowadzić tabeli par.
+
+
+
+[C2-M1396]
+===== USER =====
+
+Po słowach Draco - uczcijmy tych którzy dostali kosza chwilą ciszy....powiedzialem i skłoniłem głowę
+
+
+
+[C2-M1397]
+===== ASSISTANT =====
+
+Theodore bez komentarza skłonił głowę.
+
+Élodie spojrzała po nich zaskoczona, ale po sekundzie zrobiła to samo, tłumiąc uśmiech.
+
+Pansy westchnęła teatralnie.
+
+— Znowu?
+
+Draco prychnął.
+
+— To już druga minuta ciszy dla tej samej grupy ludzi.
+
+Theodore odezwał się spokojnie, nadal z opuszczoną głową:
+
+— Niektórzy mogli dostać kosza więcej niż raz. Statystycznie należy im się dodatkowe pięć sekund.
+
+Élodie parsknęła cicho.
+
+Pansy pokręciła głową, ale też opuściła ją na moment.
+
+— Dobrze. Ale jeśli zrobicie trzecią minutę ciszy przed otwarciem sali, zacznę pobierać opłatę za ceremonię.
+
+Draco spojrzał na Jamesa z boku.
+
+— I właśnie dlatego powinieneś był przynieść mocniejszy alkohol.
+
+
+
+[C2-M1398]
+===== USER =====
+
+po chwili podniosłem głowę i zacząłem lekko się śmiać - Myślę że trzecią minutę ciszy zrobimy dla jedynastoletniego Draco który umrze z zazdrości gdy Pansy zatanczy z kimś innym....
+
+
+
+[C2-M1399]
+===== ASSISTANT =====
+
+Draco natychmiast odwrócił głowę w stronę Jamesa.
+
+— Nie umrze.
+
+Pansy uniosła brew.
+
+— Och?
+
+— Bo nie będziesz tańczyć z kimś innym.
+
+Zapadła krótka cisza.
+
+Theodore spojrzał na niego z boku.
+
+— Interesujące.
+
+Draco zmarszczył brwi.
+
+— Co?
+
+— Nic. Po prostu siedmiolatek właśnie przejął stery bez żadnego ostrzeżenia.
+
+Élodie parsknęła śmiechem, najwyraźniej nie znając całego wcześniejszego kontekstu, ale rozumiejąc wystarczająco dużo.
+
+Pansy natomiast odwróciła się już całkiem do Draco.
+
+— A jeśli zatańczę?
+
+Draco odpowiedział od razu:
+
+— To zapytam dlaczego.
+
+— Tylko zapytasz?
+
+Draco zawahał się odrobinę.
+
+Theodore uniósł brew.
+
+— Minuta ciszy zaczyna wyglądać coraz bardziej prawdopodobnie.
+
+Pansy uśmiechnęła się szeroko.
+
+— Spokojnie, Draco. Nie planuję spędzić wieczoru, testując twoją odporność psychiczną.
+
+Draco prychnął.
+
+— Dobrze.
+
+— Ale teraz przynajmniej wiemy, że Brown nie wymyślił tego dzieciaka całkowicie.
+
+— Parkinson.
+
+Élodie spojrzała między nimi.
+
+— Mam wrażenie, że ominęła mnie bardzo długa rozmowa.
+
+Theodore odpowiedział sucho:
+
+— I bardzo dobrze.
+
+
+
+[C2-M1400]
+===== USER =====
+
+Draco nie pzowalaj żeby siedmiolatek popsuł ci bal....
+
+
+

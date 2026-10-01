@@ -1,0 +1,4553 @@
+[C1-M0601]
+===== ASSISTANT =====
+
+Moody zdążył już przygotować kolejny zestaw, gdy James ponownie skupił uwagę na zadaniu.
+
+Tym razem na stanowisku stały cztery skrzynki zamiast trzech.
+
+Seamus spojrzał na nie, potem na Moody’ego.
+
+— Oczywiście.
+
+— Narzekanie nie jest metodą diagnostyczną, Finnigan.
+
+Moody położył przed nimi jeden wspólny pergamin.
+
+— Zasady się zmieniają. Nie ma informatora. Nie ma tajnych rozkazów.
+
+Na pergaminie widniały tylko trzy zdania:
+
+Jedna skrzynka zawiera przedmiot do zabezpieczenia.
+Co najmniej jedna zawiera zagrożenie.
+Pozostałe mogą być puste, bezpieczne albo również niebezpieczne.
+
+Seamus przeczytał ostatnią linijkę jeszcze raz.
+
+— „Co najmniej jedna”?
+
+— Tak.
+
+Moody stuknął laską w podłogę.
+
+— I macie dodatkowy problem. Możecie wykonać łącznie tylko sześć zaklęć diagnostycznych. Każde zaklęcie rzucone na dowolną skrzynkę zużywa jedno.
+
+Jego magiczne oko przesunęło się po obu uczniach.
+
+— Otwieracie jedną. Wspólnie.
+
+Moody odszedł do kolejnego stanowiska.
+
+Seamus spojrzał na cztery skrzynki, ale tym razem nie wyciągnął od razu różdżki.
+
+— Dobra. Sześć prób na cztery skrzynki.
+
+Potarł kciukiem brodę.
+
+— Chyba najpierw powinniśmy zdecydować, jakie pytania warto zadawać, zanim zaczniemy marnować zaklęcia.
+
+Spojrzał na Jamesa.
+
+— Masz jakiś pomysł?
+
+
+
+[C1-M0602]
+===== USER =====
+
+— Moze nis potrezbujemy magi ani analiz ani nawet kartki...tylko trochę sprytu....co powiesz na mugolskie metody?
+
+
+
+[C1-M0603]
+===== ASSISTANT =====
+
+Seamus uniósł brew, ale różdżki nadal nie wyciągnął.
+
+— Mugolskie?
+
+Spojrzał na cztery skrzynki z trochę większym zainteresowaniem.
+
+— Mój ojciec jest mugolem, więc nie musisz mnie przekonywać, że czasem da się coś zrobić bez machania różdżką.
+
+Przykucnął przy skrzyniach, ale żadnej nie dotknął.
+
+— Tylko jeśli zaraz zaproponujesz potrząsanie każdą przy uchu, to przypominam, że przynajmniej jedna z nich jest pułapką.
+
+Uśmiechnął się lekko.
+
+— Ale dobra. Jestem ciekaw. Co kombinujesz?
+
+
+
+[C1-M0604]
+===== USER =====
+
+lekko sie usmiechnąłem
+— Prawie trafiłeś, ale myślałem bardziej żeby je wszystkie poprzez rzucać na bok żeby były wiekiem skiwrowanw dk ściany....i będzie wiadomo że te najlżejsze są puste te niebezpieczne z mechanizmami będą najcięższe a te bezpieczne... przynajmniej w teorii będzie słychać że medalion się obija...
+
+
+
+[C1-M0605]
+===== ASSISTANT =====
+
+Seamus spojrzał na cztery skrzynki, potem z powrotem na Jamesa. Po chwili na jego twarzy pojawił się lekki uśmiech.
+
+— To… właściwie może zadziałać.
+
+Przykucnął przy najbliższej, oceniając jej rozmiar.
+
+— Nie zużywamy ani jednego z sześciu zaklęć. Przy okazji dostajemy ciężar, środek ciężkości i dźwięk zawartości.
+
+Zerknął na pozostałe.
+
+— Tylko z tym medalionem bym uważał. Jeśli profesor zmienił zawartość tak jak pułapki, „coś luźno grzechocze” nie musi znaczyć „bezpieczne”.
+
+Wskazał na ścianę.
+
+— Ale jeśli położymy je wiekiem do niej i będziemy przewracać z dystansu, nawet gdy coś się uruchomi przy uderzeniu, nie powinno polecieć prosto w nas.
+
+Seamus wyprostował się i rozejrzał krótko, czy Moody nie podał wcześniej zakazu fizycznego ruszania skrzynek. Nie podał.
+
+— Podoba mi się.
+
+Stanął z boku pierwszej skrzyni.
+
+— Najpierw delikatnie. Nie rzucałbym nimi jak kaflami. Jeśli któraś reaguje na wstrząs, lepiej dowiedzieć się przy małym niż przy dużym.
+
+Spojrzał na Jamesa.
+
+— Robimy wszystkie cztery i zapisujemy: ciężar, dźwięk, czy coś się przemieszcza. Dopiero później wydamy zaklęcia na najbardziej podejrzane.
+
+
+
+[C1-M0606]
+===== USER =====
+
+kiwnąłem głową
+
+
+
+[C1-M0607]
+===== ASSISTANT =====
+
+Seamus odwzajemnił skinienie i podszedł do pierwszej skrzynki.
+
+— Dobra. Ja zacznę, ty patrz i słuchaj.
+
+Ustawił się z boku, poza linią wieka, po czym ostrożnie przechylił skrzynię I i pozwolił jej opaść na bok w stronę ściany.
+
+Łup.
+
+Nic się nie uruchomiło. Skrzynka upadła lekko, niemal bezwładnie. Ze środka nie dobiegł żaden dodatkowy dźwięk.
+
+Seamus spojrzał na nią.
+
+— Jedynka wygląda na pustą. Albo ma w środku coś bardzo lekkiego i dobrze zamocowanego.
+
+Podszedł do skrzyni II i zrobił to samo.
+
+Tym razem różnica była wyraźna.
+
+ŁUP—klak.
+
+Skrzynia opadła ciężej, a sekundę później ze środka dobiegło krótkie przesunięcie czegoś metalowego. Nie pojedyncze lekkie brzęknięcie medalionu — raczej cięższy element przesunął się o kilka centymetrów i uderzył w ściankę.
+
+Seamus natychmiast cofnął ręce.
+
+— Dwójka zdecydowanie nie jest pusta.
+
+Popatrzył na III i IV, po czym odsunął się, zostawiając miejsce przy skrzynkach.
+
+— I nadal mamy wszystkie sześć zaklęć.
+
+
+
+[C1-M0608]
+===== USER =====
+
+teraz tez podszedłem bliżej teraz ty słuchaj....powiedziałem i zacząłem robić to samo z III a potem IV skrzynią
+
+
+
+[C1-M0609]
+===== ASSISTANT =====
+
+Seamus odsunął się pół kroku i faktycznie zamilkł, skupiając się tylko na dźwiękach.
+
+James przechylił skrzynię III.
+
+Łup—brzdęk.
+
+Tym razem skrzynka sama w sobie nie wydawała się szczególnie ciężka. Dopiero po uderzeniu o podłogę coś niewielkiego przesunęło się swobodnie wewnątrz i uderzyło o drewnianą ściankę.
+
+Krótki, czysty, metaliczny dźwięk.
+
+Seamus natychmiast spojrzał na III, ale nic jeszcze nie powiedział.
+
+Potem przyszła kolej na IV.
+
+Już podczas przechylania było czuć wyraźnie większy opór.
+
+ŁUP.
+
+Skrzynia ciężko opadła na bok.
+
+Przez ułamek sekundy cisza.
+
+Potem ze środka:
+
+klik.
+
+I zaraz po nim ciche:
+
+szszzt.
+
+Jak naprężająca się sprężyna albo przesuwający się wewnętrzny mechanizm.
+
+James stał poza linią wieka, więc nawet gdyby coś próbowało się uruchomić, skrzynia była skierowana w stronę ściany.
+
+Nic jednak nie wyskoczyło. Mechanizm najwyraźniej nie został całkowicie aktywowany albo wymagał otwarcia.
+
+Seamus popatrzył kolejno na wszystkie cztery.
+
+— Dobra...
+
+Wskazał palcem.
+
+— Jedynka: bardzo lekka, cisza. Najbardziej prawdopodobne, że pusta.
+
+— Dwójka: cięższa, coś większego i metalowego przesuwa się w środku.
+
+— Trójka: lekka, ale mały luźny metalowy przedmiot.
+
+Na końcu IV.
+
+— A czwórka jest ciężka i właśnie coś w niej zrobiło „klik”, więc osobiście nie zamierzam wsadzać tam twarzy.
+
+Spojrzał na Jamesa z lekkim uśmiechem.
+
+— Jeśli profesor rzeczywiście nadal używa medalionu jako celu, trójka wygląda prawie zbyt pięknie.
+
+Po chwili spoważniał.
+
+— Ale mamy sześć zaklęć. Nie widzę powodu, żeby teraz zgadywać tylko dlatego, że mugolska metoda dała nam dobry trop.
+
+Z drugiego końca sali magiczne oko Moody’ego było zwrócone ku ich stanowisku.
+
+Profesor nadal się nie wtrącał.
+
+
+
+[C1-M0610]
+===== USER =====
+
+spradzmy dokładnie skrzynie III jak jakieś zaklecie wykaże coś niepokojącego to sprawdźmy I i II...?
+
+
+
+[C1-M0611]
+===== ASSISTANT =====
+
+Seamus skinął głową.
+
+— Tak. Najpierw trójka. Jeśli wygląda czysto, nie ma sensu marnować zaklęć na wszystkie pozostałe.
+
+Ustawił skrzynię III z powrotem pionowo, nadal nie stając przed wiekiem.
+
+— Ja sprawdzę aktywną magię. Ty możesz potem sprawdzić mechanizm albo zawartość.
+
+Skierował różdżkę na skrzynię.
+
+Pierwsze zaklęcie dało słabą, stabilną odpowiedź. Nie wykryło aktywnego zaklęcia obronnego ani czegoś, co wyglądałoby na przygotowaną klątwę.
+
+— Dobrze...
+
+Seamus rzucił drugie, bardziej skupione na obecności magicznego mechanizmu.
+
+Tym razem również nic niepokojącego. Żadnej sprężonej energii, żadnego wyzwalacza reagującego na zamek czy wieko.
+
+Spojrzał na Jamesa.
+
+— Dwa zużyte. Cztery zostały.
+
+Wskazał skrzynię III.
+
+— Na razie mamy: lekka skrzynia, mały metalowy przedmiot swobodnie w środku i zero wykrytej aktywnej magii.
+
+Potem zerknął na IV.
+
+— W przeciwieństwie do tego czegoś.
+
+Ze środka czwartej skrzyni ponownie dobiegło bardzo ciche klik.
+
+Seamus odruchowo odsunął od niej stopę.
+
+— Ja bym jeszcze jednym zaklęciem sprawdził trójkę pod kątem samego przedmiotu. Jeśli również nic dziwnego nie wyjdzie, stawiałbym na nią bez ruszania jedynki i dwójki.
+
+
+
+[C1-M0612]
+===== USER =====
+
+podszedłem do skrzyni III bliżej i rzuciłem zaklęcie które sprawdzało obecność konkretnego materialu e tym przypadku srebra
+
+
+
+[C1-M0613]
+===== ASSISTANT =====
+
+Zaklęcie objęło skrzynię III cienką, niemal niewidoczną warstwą magii.
+
+Przez sekundę nie wydarzyło się nic.
+
+Potem końcówka różdżki zareagowała krótkim, wyraźnym błyskiem.
+
+Srebro.
+
+Nie śladowa ilość w zawiasach czy zamku — zaklęcie wskazywało na osobny srebrny przedmiot znajdujący się wewnątrz skrzyni.
+
+Seamus spojrzał na III, a potem na Jamesa.
+
+— No dobra. To już wygląda bardzo konkretnie.
+
+Policzył na palcach.
+
+— Mały metalowy przedmiot, swobodnie się przemieszcza. Brak wykrytej pułapki. Brak aktywnej magii. I teraz srebro.
+
+Zerknął w stronę Moody’ego.
+
+— Profesorze, chyba mamy wybór.
+
+Moody podszedł bliżej, ale niczego nie potwierdził.
+
+— „Chyba” to dobre słowo, Finnigan.
+
+Jego magiczne oko przesunęło się po skrzyniach.
+
+— Zostały wam trzy zaklęcia diagnostyczne.
+
+Seamus popatrzył jeszcze raz na III.
+
+— Ja już bym jej nie ruszał. Każdy kolejny test chyba tylko potwierdzi to samo.
+
+Spojrzał na Jamesa.
+
+— Jeśli medalion nie został podmieniony na coś innego ze srebra tylko po to, żeby nas zrobić w konia, to trójka jest naszym celem.
+
+Moody milczał, najwyraźniej celowo zostawiając decyzję im.
+
+
+
+[C1-M0614]
+===== USER =====
+
+Skoro mamy jeszcze trzy zaklecia sprawdmzy po jednym na I i II a jeśli ktoras z tych skrzyń wzbudzi podejrzenia to uzyjemy na niej ostatniego...
+
+
+
+[C1-M0615]
+===== ASSISTANT =====
+
+Seamus skinął głową.
+
+— Ma sens. Nie ma żadnej nagrody za kończenie z niewykorzystanymi zaklęciami.
+
+Skierował różdżkę na skrzynię I. Tym razem sprawdził ją pod kątem ukrytego mechanizmu lub zaklęcia reagującego na otwarcie.
+
+Przez kilka sekund obserwował wynik.
+
+Nic.
+
+Żadnego wyzwalacza, żadnej aktywnej magii, nawet śladu mechanizmu podobnego do tego w skrzyni IV.
+
+— Jedynka wygląda jeszcze bardziej jak zwyczajnie pusta — stwierdził.
+
+Zostały dwa zaklęcia.
+
+Seamus opuścił różdżkę i wskazał skrzynię II.
+
+— Dobra. Dwójka twoja. Jeśli coś tam wyjdzie, ostatnie zaklęcie zużyjemy właśnie na nią. Jeśli nie...
+
+zerknął na III.
+
+— ...to chyba możemy przestać szukać powodów, żeby nie wybrać trójki.
+
+
+
+[C1-M0616]
+===== USER =====
+
+sprawdziłem dwójkę tym razem pod kątem "ilość powietrza w skrzni" czyli ysk naprawdę hak duże hezt to co znajduje się w środku
+
+
+
+[C1-M0617]
+===== ASSISTANT =====
+
+Zaklęcie objęło skrzynię II, tym razem nie próbując rozpoznawać samej zawartości, tylko ilość wolnej przestrzeni pozostającej wewnątrz.
+
+Wynik był wyraźny.
+
+Powietrza było znacznie mniej niż w skrzyni III.
+
+To, co znajdowało się w środku, zajmowało sporą część jej objętości — zdecydowanie nie był to mały medalion ani inny drobny przedmiot. Co więcej, wcześniejsze ciężkie klaknięcie pasowało do czegoś większego, co miało trochę miejsca na przesunięcie się, ale nie latało swobodnie po całym wnętrzu.
+
+Seamus spojrzał na wynik.
+
+— Czyli dwójka odpada jeszcze bardziej.
+
+Wskazał kolejno skrzynie.
+
+— Jedynka prawdopodobnie pusta. Dwójka ma coś dużego. Czwórka ma mechanizm. Trójka ma mały srebrny przedmiot i jak dotąd żadnego wykrytego zagrożenia.
+
+Spojrzał na Jamesa.
+
+— Zostało nam jedno zaklęcie.
+
+Po chwili dodał:
+
+— Ja bym go nawet nie wydawał na trójkę. Jeśli wszystko, co zebraliśmy niezależnymi metodami, wskazuje właśnie ją, to chyba mamy już dość danych.
+
+Moody stał kilka metrów dalej, ale tym razem nawet się nie odezwał. Wyraźnie czekał, czy para uzna analizę za zakończoną.
+
+
+
+[C1-M0618]
+===== USER =====
+
+spojrzałem jeszcze na Seamus'a i chwilę się zastanawiałem i dokładnie przejrzałem się pergaminiwi który dostaliśmy na razie nic mu nie mówiąc
+
+
+
+[C1-M0619]
+===== ASSISTANT =====
+
+Seamus zauważył, że James zamiast podejmować decyzję ponownie wczytuje się w pergamin, więc niczego nie przyspieszał.
+
+Na kartce nadal widniały tylko trzy zdania:
+
+Jedna skrzynka zawiera przedmiot do zabezpieczenia.
+Co najmniej jedna zawiera zagrożenie.
+Pozostałe mogą być puste, bezpieczne albo również niebezpieczne.
+
+Przy dokładniejszym czytaniu jedno rzucało się w oczy: Moody nigdzie nie napisał, że przedmiotem ponownie jest medalion.
+
+Nie było też napisane, że skrzynka zawierająca przedmiot do zabezpieczenia sama musi być bezpieczna.
+
+Dotychczasowe badania mówiły więc sporo o skrzyni III — mały srebrny przedmiot, brak wykrytej aktywnej magii i brak wykrytego magicznego mechanizmu — ale utożsamienie tego srebrnego przedmiotu z celem nadal było tylko założeniem wynikającym z poprzednich rund.
+
+Seamus po paru sekundach również zerknął na treść pergaminu, potem na III.
+
+— ...Czekaj.
+
+Zmarszczył brwi.
+
+— On ani słowem nie powiedział, że znowu szukamy medalionu.
+
+Moody znajdował się wystarczająco blisko, żeby ich słyszeć, lecz tym razem nawet nie drgnął.
+
+Seamus spojrzał na ostatnie niewykorzystane zaklęcie w ich limicie.
+
+— Chyba właśnie znaleźliśmy powód, żeby go jednak nie oszczędzać.
+
+
+
+[C1-M0620]
+===== USER =====
+
+bezpieczne wiemy ze skrznia 3 jest bezpieczna i skrzynia 1 też jest bezpieczna... możemy pójść na łatwiznę i otworzyć jedną z nuch albo zaryzykować i otwórz skrzynie 2 tylko z głową....jesli chcesz i masz pomysł hak sprawdzić dokładniej co jest w skrzyni 2 to śmiało
+
+
+
+[C1-M0621]
+===== ASSISTANT =====
+
+Seamus spojrzał najpierw na skrzynię I, potem III.
+
+— Powiedziałbym raczej, że niczego nie wykryliśmy, niż że wiemy na sto procent, że są bezpieczne… ale tak. Z całej czwórki wyglądają najlepiej.
+
+Potem przykucnął przy skrzyni II i przez chwilę patrzył na nią bez rzucania zaklęcia.
+
+— Wiemy, że w środku jest coś dużego. Wiemy też, że się przesuwa. To jeszcze nie mówi nam, czy to pułapka, czy po prostu większy przedmiot, który mamy zabezpieczyć.
+
+Uniósł różdżkę.
+
+— Zostało jedno pytanie. Ja bym nie próbował ustalać, co tam jest. Sprawdziłbym, czy zawartość jest połączona z zamkiem albo wiekiem.
+
+Spojrzał na Jamesa.
+
+— Jeśli tak, bardzo możliwe, że otwarcie coś uruchamia. Jeśli nie… dwójka robi się znacznie ciekawsza.
+
+Skierował różdżkę na skrzynię II i rzucił ostatnie zaklęcie diagnostyczne.
+
+Przez chwilę nic.
+
+Potem wzdłuż wieka pojawiła się blada linia, zeszła ku zawiasom… i zgasła.
+
+Brak połączenia.
+
+To, co znajdowało się w środku, nie było mechanicznie ani magicznie sprzężone z zamkiem, wiekiem czy zawiasami.
+
+Seamus powoli opuścił różdżkę.
+
+— No dobrze.
+
+Spojrzał na II już zupełnie inaczej.
+
+— Czyli wielkie, ciężkie, ruchome… ale nie wygląda na pułapkę uruchamianą otwarciem.
+
+Potem przeniósł wzrok na III.
+
+— A trójka nadal wygląda jak idealna przynęta dla kogoś, kto pamięta medalion z poprzednich rund.
+
+Krótki uśmiech.
+
+— Teraz naprawdę zaczynam podejrzewać dwójkę.
+
+
+
+[C1-M0622]
+===== USER =====
+
+Otwórzmy dwójkę ake stań za skrzynią otwierając a ja....wyjąłem różdżkę i wycelowałem w wieko - w razie potrzeby zneutralizuje zagrożenie....
+
+
+
+[C1-M0623]
+===== ASSISTANT =====
+
+Seamus zerknął na wycelowaną w wieko różdżkę, po czym skinął głową.
+
+— Dobra.
+
+Ustawił się za skrzynią II, poza osią otwarcia, przykucnął i sięgnął do zamka od boku. Nie szarpał. Najpierw przekręcił go powoli.
+
+Klik.
+
+Nic.
+
+Seamus odczekał sekundę, po czym uniósł wieko z pozycji osłoniętej skrzynią.
+
+Skrzyp.
+
+Żadnego wystrzału. Żadnego błysku. Żadnego gwałtownego ruchu.
+
+Wewnątrz znajdował się duży, ciężki czarny futerał obity metalem, zajmujący większość skrzyni. To właśnie on przesuwał się wcześniej przy przechylaniu.
+
+Na jego pokrywie widniała biała kartka:
+
+PRZEDMIOT DO ZABEZPIECZENIA
+
+Seamus przez sekundę patrzył na napis.
+
+— No proszę.
+
+Dopiero wtedy wyprostował się i spojrzał na skrzynię III.
+
+— Czyli srebro naprawdę było przynętą.
+
+Moody pojawił się przy stanowisku chwilę później. Spojrzał do otwartej II, następnie na ustawienie Seamusa i gotową różdżkę Jamesa.
+
+— Właściwa skrzynia.
+
+Stuknął laską w III.
+
+Wieko otworzyło się samo. W środku leżał niewielki srebrny krążek, bardzo podobny rozmiarem i dźwiękiem do wcześniejszego medalionu, ale bez żadnego znaczenia dla zadania.
+
+— Najbardziej użyteczna rzecz, jaką wynieśliście z poprzednich rund, prawie was pogrążyła — powiedział Moody. — Zapamiętaliście srebrny medalion. Więc dostałem bardzo tani sposób, żeby skierować waszą uwagę tam, gdzie chciałem.
+
+Seamus pokręcił głową.
+
+— To jest podłe.
+
+— Dziękuję.
+
+Moody zamknął III.
+
+— Za to końcówka była rozsądna. Nie mieliście pewności co do dwójki, więc nie udawaliście, że ją macie. Sprawdziliście mechanizm, a potem otworzyliście ją tak, jakby wasza analiza mimo wszystko mogła być błędna.
+
+Jego magiczne oko obróciło się ku Jamesowi.
+
+— To jest właściwy sposób ryzykowania. Nie „jestem pewien, więc nic się nie stanie”. Tylko „mogę się mylić, więc co zrobię, jeśli jednak coś się stanie?”.
+
+
+
+[C1-M0624]
+===== USER =====
+
+I kartka nie kłamała było co najmniej jedno zagrożeniepowiedziałem i popatrzyłem na IV
+
+
+
+[C1-M0625]
+===== ASSISTANT =====
+
+Moody podążył za spojrzeniem Jamesa w stronę skrzyni IV.
+
+— Zgadza się.
+
+Stuknął laską w jej bok.
+
+— Kartka nie miała obowiązku mówić wam wiele. Miała tylko nie wprowadzać w błąd.
+
+Seamus odsunął się odrobinę.
+
+— Czyli czwórka?
+
+Moody spojrzał na niego.
+
+— Chce pan wiedzieć?
+
+— Skoro już wybraliśmy dobrze… trochę tak.
+
+Moody ustawił się z boku skrzyni IV i jednym ruchem różdżki zwolnił zamek.
+
+Klik.
+
+Wieko odskoczyło.
+
+Ze środka natychmiast wystrzeliły trzy ciężkie, drewniane kule połączone krótkimi łańcuchami, obracając się gwałtownie na wysokości klatki piersiowej. Moody zatrzymał cały mechanizm w połowie pierwszego obrotu.
+
+Seamus cofnął się o krok.
+
+— Tak. Zdecydowanie zagrożenie.
+
+Moody opuścił kule z powrotem do środka.
+
+— I całkiem łatwe do wykrycia, gdy już zaczęliście ruszać skrzyniami.
+
+Zamknął wieko.
+
+— Co ciekawe, wasza mugolska metoda dała wam o tej skrzyni więcej użytecznych informacji niż pierwsze zaklęcie diagnostyczne prawdopodobnie by dało.
+
+Spojrzał na Jamesa.
+
+— Ciężar, ruch, dźwięk mechanizmu. Bez magii.
+
+Krótka pauza.
+
+— Proszę tego nie traktować jako argumentu przeciwko zaklęciom. Raczej jako przypomnienie, że różdżka nie zwalnia człowieka z używania oczu, uszu i mózgu.
+
+Seamus uśmiechnął się lekko.
+
+— Czyli mugole jeden, magia zero?
+
+— Nie, Finnigan.
+
+Moody odwrócił się do następnego stanowiska.
+
+— Ludzie myślący jeden. Ludzie polegający na jednym narzędziu zero.
+
+
+
+[C1-M0626]
+===== USER =====
+
+mój wzrok znowu mimowolnie powędrował ku Hermionie sprawdzając jsk sobie radzi
+
+
+
+[C1-M0627]
+===== ASSISTANT =====
+
+Hermiona z Neville’em nadal pracowali przy swoim zestawie, choć byli już wyraźnie bliżej końca niż początku.
+
+Ich podejście wyglądało zupełnie inaczej niż Jamesa i Seamusa.
+
+Neville stał z boku przy dwóch skrzyniach, zapisując wyniki kolejnych prób, podczas gdy Hermiona klęczała przy trzeciej z pergaminem rozłożonym obok kolana. Nie próbowali nimi rzucać ani ich przechylać — najwyraźniej od początku wydawali zaklęcia znacznie bardziej metodycznie.
+
+Hermiona coś szybko dopisała, potem wskazała Neville’owi jedną ze skrzyń.
+
+— Jeśli ten wynik jest prawidłowy, tej możemy już nie brać pod uwagę.
+
+Neville zerknął do notatek.
+
+— Ale zostały nam tylko dwa zaklęcia.
+
+— Wiem. Dlatego nie sprawdzamy ponownie tego samego.
+
+Przesunęła palcem po wcześniejszych wynikach.
+
+— Potrzebujemy informacji, która rozdzieli te dwie możliwości.
+
+Neville przez chwilę się zastanawiał, po czym powiedział coś ciszej. Hermiona natychmiast spojrzała na niego, potem na skrzynkę.
+
+— Tak. To ma sens.
+
+Podała mu miejsce.
+
+Neville rzucił zaklęcie.
+
+Reakcja skrzynki sprawiła, że oboje pochylili się nad wynikiem. Hermiona przez moment milczała, po czym jej twarz wyraźnie się rozjaśniła.
+
+— Dobrze. W takim razie druga.
+
+Neville wyglądał mniej przekonanie.
+
+— Na pewno?
+
+— Nie. Ale mamy wystarczająco dużo, żeby ją wybrać.
+
+Moody znajdował się akurat przy innej parze, więc ich decyzja jeszcze nie została sprawdzona.
+
+Hermiona podniosła wzrok znad stanowiska.
+
+Na krótką chwilę jej spojrzenie przecięło salę i trafiło dokładnie na Jamesa.
+
+Rozpoznała, że na nią patrzy.
+
+Nie zrobiła z tego niczego wielkiego — jedynie lekko uniosła brwi, jakby bezgłośnie pytała „co?”, po czym zerknęła na skrzynie Jamesa i Seamusa, najwyraźniej próbując ocenić, czy ich runda już się skończyła.
+
+
+
+[C1-M0628]
+===== USER =====
+
+nie odpowiedziałem na jej nieme pytanie za to lekko sie zarumieniłem ale przed tym odwróciłem wzrok ukrywając to przed nią hednsk nadal nasłuchiwałem czy ostatecznie dobrxe wybrali
+
+
+
+[C1-M0629]
+===== ASSISTANT =====
+
+James odwrócił wzrok wystarczająco szybko, zanim Hermiona mogła dostrzec cokolwiek więcej niż zwykłe przerwanie kontaktu wzrokowego.
+
+Przy jej stanowisku rozmowa trwała dalej.
+
+— Dobrze — odezwał się Neville. — To druga.
+
+Hermiona jeszcze raz przejrzała pergamin.
+
+— Druga.
+
+Podniósł rękę.
+
+— Profesorze?
+
+Moody dokończył krótką uwagę przy stanowisku Harry’ego i Rona, po czym ruszył w ich stronę.
+
+— Decyzja?
+
+— Skrzynia numer dwa — odpowiedziała Hermiona.
+
+Moody zerknął na Neville’a.
+
+— Longbottom?
+
+— Też druga.
+
+Laska stuknęła w zamek.
+
+Klik.
+
+Wieko powoli się uniosło.
+
+Przez kilka sekund James słyszał jedynie przesuwające się drewno, a potem głos Neville’a:
+
+— Jest!
+
+W środku znajdował się ich przedmiot do zabezpieczenia.
+
+Hermiona wypuściła powietrze i natychmiast pochyliła się nad własnymi notatkami, jakby bardziej interesowało ją potwierdzenie toku rozumowania niż sama wygrana.
+
+Moody otworzył później jedną z pozostałych skrzyń. Rozległ się nagły trzask, po którym Neville odruchowo cofnął się o krok.
+
+— Trójka była zagrożeniem — stwierdził Moody.
+
+— Czyli nasza druga eliminacja też była poprawna — powiedziała Hermiona niemal natychmiast.
+
+— Była.
+
+Moody wskazał jej pergamin.
+
+— Ale zauważyła pani problem dopiero, kiedy Longbottom zaproponował zmianę pytania.
+
+Hermiona skinęła głową.
+
+— Tak, profesorze.
+
+Moody zwrócił się do Neville’a.
+
+— A pan miał dobry pomysł i prawie go nie powiedział.
+
+Neville lekko się skrzywił.
+
+— Nie byłem pewny.
+
+— Pewność jest przereklamowana. Proszę następnym razem mówić, zanim panna Granger zdąży sama dojść do wszystkiego.
+
+Hermiona rzuciła Neville’owi krótki, rozbawiony uśmiech.
+
+— Mówiłam, że miał sens.
+
+Neville również się uśmiechnął.
+
+Wybrali dobrze.
+
+
+
+[C1-M0630]
+===== USER =====
+
+lekko się usmiechnąłem ale w głowie pojawiła mi się paranoiczna myśl.... jakby wybrali źle i Hermiona orwrzyka by niebezpieczną skrzynie....
+
+
+
+[C1-M0631]
+===== ASSISTANT =====
+
+Lekki uśmiech pozostał na twarzy Jamesa, ale myśl, która przemknęła mu przez głowę, była już znacznie mniej przyjemna.
+
+Gdyby wybrali źle. Gdyby to Hermiona stanęła przy wieku. Gdyby zabezpieczenie okazało się szybsze, niż zakładali…
+
+Nic takiego się jednak nie wydarzyło.
+
+Po drugiej stronie sali Hermiona spokojnie zwijała pergamin, a Neville odsuwał ich skrzynki na bok. Oboje byli cali, a największym skutkiem ich rundy było krótkie zadowolenie z poprawnego rozwiązania.
+
+Moody tymczasem przechodził już dalej. Przy jednym ze stanowisk zatrzymał ucznia, zanim ten zdążył wsadzić rękę pod wieko, i sam przestawił skrzynię pod bezpieczniejszym kątem. Nie komentował tego szerzej — po prostu pilnował ćwiczenia.
+
+Seamus oparł się lekko o własne stanowisko.
+
+— Ciekawe, ile jeszcze rund wymyślił.
+
+Jakby na odpowiedź Moody stuknął laską w podłogę.
+
+— Zostawić skrzynki.
+
+Rozmowy ucichły.
+
+— To wystarczy na dziś.
+
+Kilka osób wyraźnie odetchnęło.
+
+Moody przeszedł wzrokiem po klasie.
+
+— Jeśli zapamiętacie z tej lekcji tylko jedną rzecz, niech będzie nią to: brak pewności nie jest wymówką do zgadywania. Zdobywacie informacje. Sprawdzacie źródła. Ograniczacie konsekwencje błędu.
+
+Jego magiczne oko przesunęło się po sali.
+
+— A jeśli mimo wszystko wybierzecie źle, macie być ustawieni tak, żeby przeżyć własną pomyłkę.
+
+Hermiona słuchała już z pełną uwagą, pióro znowu miała w dłoni.
+
+
+
+[C1-M0632]
+===== USER =====
+
+wypuscilem powietrze i ostatni raz rzuciłem spojrzenie na Hermionę a potem wyszedłem z sali kierując się na następną lekcję
+
+
+
+[C1-M0633]
+===== ASSISTANT =====
+
+Ostatnie spojrzenie Jamesa przemknęło ku Hermionie. Była jeszcze przy swoim stanowisku, chowając pergamin razem z książkami. Chwilę później James opuścił salę.
+
+Na korytarzu klasa szybko się rozproszyła. Część uczniów została jeszcze na moment przy Moodym, inni ruszyli od razu schodami. Seamus odbił w stronę Harry’ego i Rona, komentując coś o „podejrzanych skrzynkach”, a Theodore szedł kawałek przed Jamesem.
+
+Kolejną lekcją była Transmutacja.
+
+Gdy uczniowie dotarli do sali McGonagall, na każdym stanowisku czekało coś dość niepozornego: niewielka porcelanowa filiżanka oraz zwykła metalowa łyżeczka.
+
+McGonagall stała przy biurku.
+
+— Proszę usiąść. Różdżki pozostają na razie na stołach.
+
+Kiedy wszyscy zajęli miejsca, jednym ruchem różdżki uniosła swoją filiżankę.
+
+— Dotychczas ćwiczyliście przede wszystkim zmianę formy. Dzisiaj interesować mnie będzie zachowanie funkcji.
+
+Filiżanka w jej dłoni zaczęła się zmieniać. Porcelana wydłużyła się, uchwyt zniknął i po chwili McGonagall trzymała niewielki szklany flakon.
+
+Nalała do niego odrobinę wody.
+
+Ani kropli wycieku.
+
+— Ładny przedmiot, który nie spełnia swojej funkcji, jest nieudaną transmutacją.
+
+Odłożyła flakon.
+
+— Waszym zadaniem będzie przekształcić filiżankę w dowolne naczynie użytkowe, zachowując szczelność, stabilność i odpowiednią strukturę materiału. Następnie przywrócicie dokładnie pierwotną filiżankę.
+
+Jej wzrok przesunął się po klasie.
+
+— Panie Brown.
+
+Na jego stanowisku druga łyżeczka drgnęła i przesunęła się obok filiżanki.
+
+— Pan zrobi to samo z oboma przedmiotami jednocześnie. Mają po transmutacji tworzyć funkcjonalny komplet.
+
+McGonagall ruszyła między ławkami.
+
+— Możecie zaczynać.
+
+
+
+[C1-M0634]
+===== USER =====
+
+chwilę się zastanawiałem przez dłuższą chwilę a później lekko usmiechnąłem i dobyłem różdżkę wykonywałem kekkie ruchu i szeptałem inkantacje zmieniłem filiżankę w jednorazowo kubek z Macdonald a łyżeczkę w słomkę
+
+
+
+[C1-M0635]
+===== ASSISTANT =====
+
+Przez chwilę nic się nie działo poza cichym szeptem inkantacji i precyzyjnymi ruchami różdżki.
+
+Porcelana filiżanki najpierw straciła połysk, potem jej ścianki wyciągnęły się ku górze. Ucho wtopiło się w bok, materiał zmatowiał i po kilku sekundach na stole stał papierowy jednorazowy kubek McDonald’s, razem z plastikową pokrywką i charakterystycznym nadrukiem.
+
+Metalowa łyżeczka jednocześnie wydłużyła się, zwęziła i utraciła metaliczny połysk.
+
+Po chwili leżała obok jako plastikowa słomka.
+
+Kilku uczniów najbliżej stanowiska zerknęło w tę stronę. Ron zmarszczył brwi, najwyraźniej nie mając pojęcia, dlaczego ktoś miałby specjalnie przemieniać porcelanę w coś wyglądającego na tani kubek. Hermiona natomiast rozpoznała przedmiot niemal natychmiast i na jej twarzy pojawiło się krótkie niedowierzanie połączone z rozbawieniem.
+
+McGonagall dotarła do stanowiska Jamesa chwilę później.
+
+Zatrzymała się.
+
+Spojrzała na kubek.
+
+Na słomkę.
+
+Ponownie na kubek.
+
+— …Interesujący wybór, panie Brown.
+
+Nie było do końca jasne, czy to pochwała.
+
+Wyjęła różdżkę i bez pytania napełniła kubek wodą mniej więcej do trzech czwartych wysokości.
+
+Papierowe ścianki się nie odkształciły. Dno nie przeciekało. Pokrywka pasowała prawidłowo.
+
+McGonagall wsunęła słomkę przez otwór i lekko poruszyła całym zestawem.
+
+— Szczelny. Stabilny. Słomka drożna.
+
+Jej brew uniosła się minimalnie.
+
+— Technicznie spełnił pan polecenie.
+
+Krótka pauza.
+
+— Choć przyznam, że rzadko widuję ucznia, który otrzymawszy porcelanę i srebro, uznaje za postęp przemienienie ich w papier i plastik.
+
+Z sąsiedniej ławki dobiegło stłumione parsknięcie.
+
+McGonagall nawet nie spojrzała w tamtą stronę.
+
+— Teraz proszę przywrócić dokładnie filiżankę i łyżeczkę. Łącznie z każdym zadrapaniem, przebarwieniem i deformacją, które znajdowały się na nich przed transmutacją.
+
+Odeszła pół kroku, ale tym razem została przy stanowisku, obserwując.
+
+
+
+[C1-M0636]
+===== USER =====
+
+najpierw dość teatralnie wypilem wode przez słomkę na koniec bylo słychać charakterystycznym dźwięk że napij się kończy a potem od razu przeszedłem do zadamia które zajelo mi o wiele dłużej i okazało się o wiele trudniejsze wyszeptałem o wiele więcej inkantacji i machnąłem więcej różdżką ale na koniec wydawalo mi się że wszystko jest tskie jskie było na początku
+
+
+
+[C1-M0637]
+===== ASSISTANT =====
+
+Charakterystyczne siorbnięcie pustej słomki przecięło ciszę sali.
+
+McGonagall powoli przeniosła wzrok z kubka na Jamesa.
+
+Nie powiedziała ani słowa.
+
+To było chyba gorsze niż komentarz.
+
+Dopiero kiedy kubek został opróżniony, James rozpoczął właściwe odwracanie transmutacji.
+
+Tym razem zmiana nie przyszła tak łatwo.
+
+Papier musiał odzyskać porcelanową strukturę, plastik słomki — metal łyżeczki, a do tego należało odtworzyć pierwotną geometrię obu przedmiotów zamiast po prostu nadać im dowolną poprawną formę. Kolejne inkantacje następowały po sobie, ruchy różdżki były znacznie liczniejsze niż wcześniej.
+
+Kubek powoli twardniał i kurczył się. Nadruk zniknął, z boku wyrósł uchwyt, a matowa powierzchnia odzyskała połysk porcelany.
+
+Słomka skróciła się, rozszerzyła na końcu i ponownie zalśniła metalem.
+
+Po dłuższej chwili na stole znów znajdowały się filiżanka i łyżeczka.
+
+Na pierwszy rzut oka — dokładnie takie jak wcześniej.
+
+McGonagall jednak nie ufała pierwszym rzutom oka.
+
+Wzięła filiżankę.
+
+Obróciła ją pod światło. Przesunęła kciukiem po krawędzi. Sprawdziła dno, uchwyt i niewielkie przebarwienie przy podstawie.
+
+Potem łyżeczkę.
+
+Przyjrzała się drobnym rysom na metalu.
+
+— Hm.
+
+Odłożyła ją.
+
+— Bardzo blisko.
+
+Końcem różdżki wskazała niemal niewidoczne zadrapanie po wewnętrznej stronie uchwytu filiżanki.
+
+— To było o mniej więcej dwa milimetry wyżej.
+
+Następnie dotknęła łyżeczki.
+
+— Natomiast tutaj odtworzył pan nawet nierówność, której większość klasy zapewne nie zauważyła przed rozpoczęciem ćwiczenia.
+
+Spojrzała na Jamesa.
+
+— Pierwsza transformacja była efektowna. Powrót był trudniejszy i znacznie bardziej wartościowy.
+
+Krótka pauza.
+
+— W transmutacji bardzo łatwo jest stworzyć coś, co wygląda prawidłowo. O wiele trudniej przywrócić dokładnie to, co istniało wcześniej.
+
+Jej wzrok na moment przesunął się na pustą filiżankę.
+
+— A picie materiału ćwiczeniowego nie było konieczne.
+
+Z sąsiednich ławek znów dało się usłyszeć kilka stłumionych śmiechów.
+
+McGonagall uniosła brew.
+
+— Chociaż przynajmniej dowiódł pan szczelności w sposób... przekonujący.
+
+I ruszyła do następnego stanowiska.
+
+
+
+[C1-M0638]
+===== USER =====
+
+lekko się usmiechhnąłem na jej komentarz odnosnie picia a na koniec kiwnąłem głową jakby przyjmujac jej uwagi i ekspertyzę
+
+
+
+[C1-M0639]
+===== ASSISTANT =====
+
+McGonagall przyjęła skinienie głowy bez komentarza i przeszła dalej między ławkami.
+
+Przez kolejne minuty sala wypełniła się cichymi inkantacjami, stukiem przesuwanych naczyń i sporadycznym brzękiem czegoś, co po transmutacji zdecydowanie nie powinno było brzęczeć.
+
+Przy stanowisku Harry’ego filiżanka przez chwilę miała dwa uchwyty, co McGonagall skwitowała jedynie krótkim:
+
+— Jeden użytkownik, Potter. Jedna rękojeść wystarczy.
+
+Ron walczył z czymś, co miało być dzbankiem, ale uparcie zachowywało kształt filiżanki przy trzykrotnie większym rozmiarze.
+
+Hermiona natomiast przemieniła swój zestaw w niewielką szklaną karafkę i dopasowany do niej korek z łyżeczki. Forma była dużo mniej widowiskowa niż kubek Jamesa, za to bardzo równa. Kiedy McGonagall nalała do środka wody i odwróciła karafkę do góry dnem, korek wytrzymał bez jednej kropli przecieku.
+
+— Dobrze, panno Granger.
+
+Hermiona od razu przeszła do odwracania transmutacji.
+
+Tu również zaczęły się schody.
+
+Łyżeczka wróciła niemal idealnie, ale na filiżance pozostała przez chwilę ledwo widoczna smuga po miejscu, w którym wcześniej kończyła się szyjka karafki. Hermiona zauważyła ją jeszcze zanim McGonagall zdążyła coś powiedzieć i natychmiast poprawiła.
+
+Profesor obserwowała przez moment.
+
+— Właśnie dlatego nie kończymy na „wygląda dobrze”.
+
+Ruszyła dalej.
+
+Po mniej więcej kwadransie McGonagall wróciła przed klasę.
+
+— Proszę nie chować jeszcze różdżek.
+
+Na biurku pojawił się rząd niewielkich, identycznych drewnianych pudełek.
+
+— Skoro większość z państwa zdołała zachować funkcję przedmiotu przy zmianie formy, przejdziemy do czegoś mniej wybaczającego.
+
+Jedno pudełko otworzyło się samo.
+
+W środku znajdowało się surowe jajko.
+
+Kilka osób jęknęło cicho.
+
+McGonagall uniosła brew.
+
+— Tym razem podczas transmutacji zawartość ma pozostać nienaruszona.
+
+
+
+[C1-M0640]
+===== USER =====
+
+zmarszczyłem brwi i zacząłem się zastanawiać
+
+
+
+[C1-M0641]
+===== ASSISTANT =====
+
+James zmarszczył brwi, przyglądając się pudełku i jajku.
+
+Zadanie wyglądało banalnie tylko przez pierwszą sekundę.
+
+Samo przekształcenie drewnianego pudełka w inny przedmiot nie stanowiłoby wielkiego problemu. Kłopot polegał na tym, że przy każdej zmianie proporcji, grubości ścian czy kształtu wnętrza istniało ryzyko, że magia „zabierze ze sobą” również zawartość albo po prostu ją zgniecie.
+
+McGonagall najwyraźniej właśnie na to liczyła.
+
+— Proszę zwrócić uwagę na jedno — powiedziała do klasy. — Nie transmutujecie jajka. Ono ma pozostać jajkiem od początku do końca.
+
+Uniósłszy własne pudełko, obróciła je w dłoni.
+
+— Możecie zmienić formę pojemnika dowolnie, ale po zakończeniu mam móc go otworzyć i wyjąć z niego to samo, nienaruszone jajko.
+
+Ron spojrzał na swoje.
+
+— A jeśli zrobię z pudełka coś większego?
+
+— Wtedy będzie pan miał większe pudełko z rozbitym jajkiem, jeśli nie zachowa pan kontroli nad wnętrzem, panie Weasley.
+
+Kilka osób zaśmiało się cicho.
+
+McGonagall przesunęła wzrokiem po sali.
+
+— Nie chodzi o siłę zaklęcia. Chodzi o granice transmutacji. Musicie zdecydować, co dokładnie zmieniacie, a czego magia ma nie obejmować.
+
+Jej spojrzenie zatrzymało się na moment przy Jamesie, jakby spodziewała się, że tym razem bardziej niż forma zainteresuje go właśnie ten problem.
+
+Na jego stanowisku leżało już zamknięte drewniane pudełko z jajkiem w środku.
+
+Nie było żadnego narzuconego kształtu końcowego.
+
+McGonagall uniosła różdżkę.
+
+— Zaczynajcie.
+
+
+
+[C1-M0642]
+===== USER =====
+
+uniosłem rękę
+
+
+
+[C1-M0643]
+===== ASSISTANT =====
+
+McGonagall zauważyła uniesioną rękę niemal od razu.
+
+— Tak, panie Brown?
+
+Zatrzymała się przy biurku i spojrzała na niego wyczekująco, nie ponaglając.
+
+
+
+[C1-M0644]
+===== USER =====
+
+Teoretycznie nie powiezial Pani ze nie możemy wyjąć jajka zmienić przedmiotu a potem schować jajka ale... zakładam ze jest to w domyśle?
+
+
+
+[C1-M0645]
+===== ASSISTANT =====
+
+McGonagall spojrzała na Jamesa przez moment ponad oprawkami okularów.
+
+— Tak, panie Brown. Jest to w domyśle.
+
+W jej głosie pojawiła się bardzo subtelna nuta rozbawienia.
+
+— Gdybym chciała sprawdzić, czy potrafią państwo wyjąć jajko z pudełka, nie potrzebowalibyśmy do tego Transmutacji.
+
+Kilka osób w sali zachichotało.
+
+McGonagall uniosła lekko różdżkę.
+
+— Jajko pozostaje wewnątrz od chwili rozpoczęcia zaklęcia aż do zakończenia transmutacji. Nie wolno go wyjmować, teleportować, chwilowo znikać ani zabezpieczać osobnym zaklęciem ochronnym.
+
+Krótka pauza.
+
+— Zmieniacie pojemnik, jednocześnie zachowując jego zawartość poza granicą przemiany.
+
+Jej brew uniosła się odrobinę.
+
+— Czy są jeszcze jakieś luki w poleceniu, które chciałby pan sprawdzić, zanim zaczniemy?
+
+Nie brzmiała na zirytowaną. Raczej jak ktoś, kto całkowicie spodziewał się, że James spróbuje znaleźć najprostsze obejście zadania.
+
+
+
+[C1-M0646]
+===== USER =====
+
+Z mojej strony nie Pani profesor. Powiedziałem i skupiłem sie na zadaniu i po kolejnej chwili namysłu dobyłem różdżkę i machnąłem wyszeptując inkantacje a wtedy pudelko zaczelo się zmieniać aż w końcu leżało przed mną jako pudelko na piwrscionek zaręczynowy. Ale na razie go nie otwierałem...* usmiechhnąłem sie do samego siebie*
+
+
+
+[C1-M0647]
+===== ASSISTANT =====
+
+Drewniane pudełko zaczęło się kurczyć.
+
+Krawędzie zaokrągliły się, powierzchnia pociemniała, a zwykłe drewno pokryło się miękkim, aksamitnym materiałem. Zamek zniknął, zastąpiony małym zawiasem z tyłu.
+
+Po kilku sekundach na stole leżało niewielkie pudełko na pierścionek zaręczynowy.
+
+Zamknięte.
+
+I zdecydowanie za małe, by zwyczajne kurze jajko mogło się w nim zmieścić.
+
+Hermiona, pracująca kilka stanowisk dalej nad własnym pojemnikiem, zerknęła w tę stronę i na moment zatrzymała wzrok na pudełeczku. Jej brwi lekko się ściągnęły, najwyraźniej z dokładnie tego samego powodu.
+
+McGonagall również zauważyła.
+
+Podeszła, ale nie sięgnęła po przedmiot.
+
+— Panie Brown…
+
+Spojrzała na jego rozmiar.
+
+— Albo właśnie osiągnął pan coś bardzo interesującego…
+
+Krótka pauza.
+
+— …albo będziemy za chwilę sprzątać jajko z wnętrza pańskiego pudełka.
+
+Nie brzmiała oskarżycielsko. Raczej była autentycznie zainteresowana wynikiem.
+
+Nachyliła się odrobinę, przyglądając się zewnętrznej powierzchni bez dotykania jej magią.
+
+— Nie czuję transmutacji samej zawartości. To dobrze.
+
+Wyprostowała się.
+
+— Ale zmniejszył pan zewnętrzną objętość pojemnika znacznie poniżej objętości jajka.
+
+Jej wzrok przesunął się na Jamesa.
+
+— Więc teraz najważniejszą częścią pańskiego rozwiązania jest to, co stało się z przestrzenią wewnątrz.
+
+McGonagall wskazała pudełeczko.
+
+— Proszę otworzyć.
+
+Kilka najbliższych osób mimochodem spojrzało w ich stronę.
+
+
+
+[C1-M0648]
+===== USER =====
+
+chwyciłem pudełko w charakterystycznym geście jakbym sie oświadczał tyle ze na siedząco a potem powli otworzyłem pudełko teoretycznie jako bylo całe i miesciło sie co do milimetra
+
+
+
+[C1-M0649]
+===== ASSISTANT =====
+
+Wieczko otworzyło się powoli.
+
+Przez krótką chwilę nic się nie wydarzyło.
+
+Żadnego trzasku skorupki. Żadnego wycieku. Żadnej nagłej deformacji.
+
+W aksamitnym wnętrzu leżało całe kurze jajko.
+
+Dopasowane niemal absurdalnie dokładnie — skorupka znajdowała się może o milimetr od ścianek w najszerszych miejscach. Nie było spłaszczone ani pomniejszone. Zachowało swój pierwotny kształt.
+
+Gest, w którym James otworzył pudełeczko, sprawił dodatkowo, że z najbliższych ławek dobiegło kilka cichych parsknięć. Hermiona również zerknęła w tę stronę; przez sekundę wyglądała na rozbawioną samą prezentacją, ale zaraz potem jej uwagę przyciągnęło to, co właściwie znajdowało się w środku.
+
+McGonagall natomiast kompletnie zignorowała teatralną oprawę.
+
+Pochyliła się nad pudełkiem.
+
+— Proszę go nie ruszać.
+
+Wyjęła różdżkę.
+
+Najpierw sprawdziła skorupkę bez dotykania jej. Potem granicę pomiędzy jajkiem a transmutowanym materiałem. Wreszcie bardzo dokładnie obejrzała wnętrze pudełka.
+
+Jej brwi powoli uniosły się wyżej.
+
+— Nie pomniejszył pan jajka.
+
+Kolejne krótkie zaklęcie kontrolne.
+
+— Nie transmutował go pan nawet częściowo.
+
+McGonagall wyprostowała się.
+
+— Zachował pan pierwotną przestrzeń konieczną dla zawartości, jednocześnie zmieniając zewnętrzne proporcje pojemnika.
+
+Tym razem w jej głosie było już wyraźne zainteresowanie.
+
+— To jest znacznie trudniejsze niż zrobienie większego naczynia i pozostawienie jajka pośrodku.
+
+Spojrzała ponownie na pudełeczko.
+
+— I wyjątkowo mało tolerancyjne na błąd. Gdyby wewnętrzna granica przesunęła się choć odrobinę bardziej, skorupka zostałaby ściśnięta podczas samej przemiany.
+
+Krótka pauza.
+
+McGonagall przeniosła wzrok na Jamesa, potem na sposób, w jaki nadal trzymał otwarte pudełeczko.
+
+— Natomiast wybór formy oraz sposób prezentacji pozostawię bez komentarza, panie Brown.
+
+Z którejś ławki rozległ się zduszony śmiech.
+
+McGonagall nawet nie spojrzała w tamtą stronę.
+
+— Teraz najtrudniejsza część.
+
+Wskazała pudełko.
+
+— Proszę przywrócić pierwotny pojemnik bez naruszenia jajka. I tym razem będzie pan musiał ponownie rozszerzyć granicę transmutacji, zamiast ją zwężać.
+
+Hermiona nadal przez chwilę patrzyła na pudełko, najwyraźniej próbując rozgryźć techniczną stronę rozwiązania, zanim wróciła do własnego zadania.
+
+
+
+[C1-M0650]
+===== USER =====
+
+teatralnie zamknąłem pudełko - Mogal Pani powiedzieć po prostu "Tak albo nie" bylo by teoche smieszniej...
+
+
+
+[C1-M0651]
+===== ASSISTANT =====
+
+McGonagall spojrzała na zamknięte pudełeczko, potem na Jamesa.
+
+— Nie.
+
+Idealnie poważna mina.
+
+Sekunda ciszy.
+
+— Proszę wrócić do zadania, panie Brown.
+
+Dopiero kiedy odwróciła się, by przejść dalej między ławkami, kącik jej ust drgnął tak nieznacznie, że równie dobrze mogło się to Jamesowi wydawać.
+
+Z pobliskiego stanowiska dobiegło ciche parsknięcie kogoś, kto zdecydowanie usłyszał wymianę.
+
+McGonagall zatrzymała się bez odwracania.
+
+— A państwu przypominam, że jajka nadal mają pozostać całe.
+
+Sala natychmiast wróciła do pracy.
+
+Przed Jamesem nadal leżało zamknięte pudełko na pierścionek, a w nim nienaruszone jajko. Teraz należało odwrócić całą transmutację.
+
+
+
+[C1-M0652]
+===== USER =====
+
+skupiłem sie bardziej niz wcześniej a potem przystąpiłem powoli do zadania i ponownie zajęło mi to dłużej zeby przywrócić go do pierwotnego stanu a gdy juz to zrobiłem nie czekałem tylko sam otworzyłem pudełko
+
+
+
+[C1-M0653]
+===== ASSISTANT =====
+
+Odwracanie transmutacji ponownie okazało się wyraźnie trudniejsze niż sama przemiana.
+
+Małe pudełeczko stopniowo rosło, aksamit znikał pod powracającym drewnem, a wewnętrzna przestrzeń rozszerzała się razem z zewnętrzną formą. Tym razem proces trwał dłużej i wymagał znacznie dokładniejszej kontroli granicy wokół jajka.
+
+Kiedy wszystko wreszcie wyglądało tak jak na początku, James od razu uniósł wieko.
+
+Jajko było całe.
+
+Leżało dokładnie tam, gdzie powinno, bez pęknięcia ani widocznego odkształcenia skorupki.
+
+McGonagall, która zdążyła wrócić w pobliże, zatrzymała się przy stanowisku.
+
+— Dobrze. Proszę zostawić otwarte.
+
+Sprawdziła jajko krótkim zaklęciem, potem sam pojemnik. Obróciła go, porównała zawiasy i narożniki z pierwotnym wyglądem.
+
+— Zawartość nienaruszona.
+
+Jeszcze chwila oględzin.
+
+— Pojemnik również bardzo blisko pierwowzoru.
+
+Wskazała różdżką jeden z dolnych narożników.
+
+— Tutaj drewno jest odrobinę gęstsze niż wcześniej. Niewielka różnica, ale jest.
+
+Spojrzała na Jamesa.
+
+— Przy takim rozwiązaniu zaakceptuję ją.
+
+Krótka pauza.
+
+— Zwłaszcza że wybrał pan chyba najbardziej niewygodną możliwą formę pośrednią, nie łamiąc przy tym polecenia.
+
+Zamknęła jego pudełko i ruszyła dalej.
+
+— Dobra robota, panie Brown.
+
+Kilka stanowisk dalej Hermiona właśnie otwierała własny pojemnik, żeby sprawdzić rezultat swojej transmutacji.
+
+
+
+[C1-M0654]
+===== USER =====
+
+kiwnąłem głową a potem skupiłem sie na rezultatach Hermiony
+
+
+
+[C1-M0655]
+===== ASSISTANT =====
+
+Hermiona właśnie kończyła odwracanie swojej transmutacji.
+
+W przeciwieństwie do rozwiązania Jamesa nie próbowała radykalnie zmniejszać pojemnika. Przekształciła drewniane pudełko w niewielki metalowy cylindryczny pojemnik z zakręcaną pokrywką, zachowując wewnątrz przestrzeń trochę większą od jajka. Mniej efektowne, ale dawało jej znacznie większy margines błędu.
+
+Teraz metal matowiał i przechodził z powrotem w drewno. Cylindryczna forma prostokątniała powoli, a pokrywka ponownie dzieliła się na wieko, zawiasy i zamek.
+
+Hermiona nie spieszyła się.
+
+Dopiero kiedy ostatnia metaliczna smuga zniknęła, odłożyła różdżkę i otworzyła pudełko.
+
+Jajko było całe.
+
+Na jej twarzy pojawił się krótki, zadowolony uśmiech.
+
+McGonagall podeszła chwilę później i przeprowadziła tę samą kontrolę, co wcześniej przy Jamesie.
+
+— Zawartość bez zmian.
+
+Obróciła pudełko.
+
+— Forma przywrócona bardzo dokładnie.
+
+Hermiona obserwowała uważnie jej ręce.
+
+McGonagall zatrzymała palec przy jednym z zawiasów.
+
+— Tutaj.
+
+Hermiona od razu nachyliła się bliżej.
+
+— Jest minimalnie szerszy.
+
+— O ułamek milimetra — potwierdziła profesor. — Niewielki błąd, ale przy odwracaniu transmutacji takie różnice mają znaczenie.
+
+— Rozumiem.
+
+McGonagall skinęła głową.
+
+— Poza tym bardzo dobrze, panno Granger. Rozsądnie zachowała pani wystarczającą przestrzeń wokół zawartości zamiast niepotrzebnie zwiększać trudność zadania.
+
+Hermiona rzuciła krótkie spojrzenie w stronę stanowiska Jamesa.
+
+Tym razem na pudełeczko, które przed chwilą było ledwie większe od samego jajka.
+
+Kącik jej ust drgnął.
+
+Potem wróciła do poprawiania zawiasu.
+
+
+
+[C1-M0656]
+===== USER =====
+
+widząc to też skupilem sie na poprawce
+
+
+
+[C1-M0657]
+===== ASSISTANT =====
+
+James wrócił uwagą do swojego pudełka i miejsca, które wskazała McGonagall.
+
+Dolny narożnik rzeczywiście różnił się minimalnie od pozostałych. Nie było tego właściwie widać, ale przy dokładniejszym przyjrzeniu drewno miało odrobinę inną strukturę.
+
+Poprawka wymagała znacznie mniej magii niż cała wcześniejsza transmutacja.
+
+Kilka spokojnych ruchów różdżki, cicho wypowiedziana inkantacja i materiał zaczął się wyrównywać. James nie zmieniał już kształtu pudełka — tylko gęstość drewna na bardzo małym obszarze.
+
+Po chwili narożnik wyglądał identycznie jak wcześniej.
+
+McGonagall akurat przechodziła między ławkami i zatrzymała się na moment, gdy zauważyła poprawkę.
+
+Przesunęła palcem po drewnie.
+
+— Tak.
+
+To wystarczyło.
+
+— Teraz jest właściwie.
+
+Skinęła lekko głową i ruszyła dalej, nie dokładając kolejnej pochwały do czegoś, co po prostu zostało poprawnie skorygowane.
+
+Hermiona kilka stanowisk dalej również skończyła poprawiać swój zawias. Po krótkim sprawdzeniu odłożyła różdżkę i zaczęła porządkować miejsce pracy.
+
+W sali powoli robiło się ciszej — większość klasy dochodziła już do końca zadania.
+
+
+
+[C1-M0658]
+===== USER =====
+
+ja ostatnie minuty poświęciłem na dyskretne obserwowanie Hermiony
+
+
+
+[C1-M0659]
+===== ASSISTANT =====
+
+Przez ostatnie minuty lekcji James nie robił już niczego, co wymagałoby większej uwagi, więc mógł pozwolić sobie na krótkie, dyskretne spojrzenia w stronę Hermiony.
+
+Hermiona siedziała pochylona nad swoim stanowiskiem i jeszcze raz porównywała przywrócone pudełko z tym, jak wyglądało na początku. Poprawiony zawias najwyraźniej wreszcie ją satysfakcjonował, bo po chwili odłożyła różdżkę.
+
+Zaczęła porządkować pergaminy.
+
+Jeden z nich wsunęła pomiędzy strony podręcznika, drugi zwinęła osobno. Pióro wytarła dokładnie przed schowaniem, a potem przez chwilę próbowała usunąć z palca niewielką plamę atramentu.
+
+Neville powiedział do niej coś cicho z sąsiedniego miejsca.
+
+— Myślisz, że następnym razem da nam coś żywego?
+
+Hermiona spojrzała na niego.
+
+— Mam nadzieję, że nie od razu po tym.
+
+Wskazała jajko.
+
+— Tutaj przynajmniej błąd kończy się bałaganem. Przy żywej istocie to już zupełnie inna odpowiedzialność.
+
+Neville pokiwał głową zdecydowanie zbyt poważnie.
+
+Hermiona uśmiechnęła się lekko i wróciła do pakowania.
+
+Przy jednym ze spojrzeń odgarnęła włosy z twarzy, wkładając luźne pasmo za ucho, po czym nachyliła się nad torbą w poszukiwaniu czegoś na jej dnie.
+
+McGonagall tymczasem wróciła przed klasę.
+
+— Proszę zostawić jajka i pudełka na stanowiskach. Nie są pamiątkami.
+
+Kilku uczniów zaczęło już wstawać.
+
+Hermiona zarzuciła torbę na ramię, przycisnęła książki do piersi i dopiero wtedy rozejrzała się po sali.
+
+Jej wzrok na moment przesunął się również przez stronę, po której siedział James.
+
+Nie zatrzymał się jednak na tyle długo, by było jasne, czy zauważyła, że ją obserwował.
+
+Rozległ się dzwonek.
+
+
+
+[C1-M0660]
+===== USER =====
+
+jej gest kompletnie mnie rozbroił i nawet mimo że zadzwonił dzwonek nie ruszyłem sie z miejsca
+
+
+
+[C1-M0661]
+===== ASSISTANT =====
+
+Dzwonek wywołał zwykły szmer odsuwanych krzeseł, zamykanych książek i rozmów, ale James pozostał na swoim miejscu.
+
+Wokół niego sala stopniowo pustoszała.
+
+Ron i Harry wyszli jednymi z pierwszych. Neville zatrzymał się jeszcze na moment, żeby upewnić się, że nie zostawił pióra pod ławką. Hermiona była już przy drzwiach, kiedy odwróciła głowę, odpowiadając mu na jakieś krótkie pytanie.
+
+Wtedy jej wzrok ponownie przesunął się przez salę.
+
+James nadal siedział.
+
+Hermiona zatrzymała na nim spojrzenie może sekundę dłużej niż wcześniej. Pojawiło się lekkie zmarszczenie brwi — bardziej pytające niż zaniepokojone. Potem Neville coś do niej powiedział i oboje wyszli na korytarz.
+
+Drzwi zamknęły się za kolejną grupą uczniów.
+
+Po kilkunastu sekundach w sali zostało już tylko kilka osób kończących pakowanie.
+
+McGonagall zbierała pudełka ze stanowisk jednym ruchem różdżki. Jedno po drugim unosiły się i lądowały na jej biurku.
+
+Dopiero gdy ostatni uczeń poza Jamesem wyszedł, profesor spojrzała w jego stronę.
+
+— Panie Brown?
+
+Nie brzmiała podejrzliwie. Po prostu zauważyła, że lekcja się skończyła, a jeden z uczniów najwyraźniej tego nie odnotował.
+
+Jej wzrok przesunął się krótko ku drzwiom.
+
+— O ile nie planuje pan spędzić tutaj również następnej lekcji, sugerowałabym ruszyć się przed kolejnym dzwonkiem.
+
+Na korytarzu za drzwiami nadal było słychać oddalające się głosy klasy.
+
+
+
+[C1-M0662]
+===== USER =====
+
+dopiero po jej słowach wróciłem na ziemie szybko wstałem z miejsca i chialem od razu wyjść nie pakując swoich rzeczy - ... Przepraszam zamyslilem się...
+
+
+
+[C1-M0663]
+===== ASSISTANT =====
+
+McGonagall spojrzała na gwałtownie podnoszącego się Jamesa, a potem bardzo spokojnie na ławkę, przy której nadal leżały jego książki, pergaminy i przybory.
+
+— Panie Brown.
+
+Pauza.
+
+— Pańskie rzeczy najwyraźniej również się zamyśliły.
+
+Jej brew uniosła się lekko.
+
+— Proponuję ich nie zostawiać.
+
+Nie dopytywała, nad czym tak się zamyślił. Po prostu wróciła do porządkowania własnego biurka, jakby uczniowskie momenty kompletnego oderwania od rzeczywistości nie były dla niej niczym szczególnie niezwykłym.
+
+Na korytarzu za drzwiami głosy reszty klasy były już wyraźnie dalsze.
+
+
+
+[C1-M0664]
+===== USER =====
+
+szybko wrocilem do ławki spakowałem rzeczy i opuściłem sale kierują sie na obiad do Wielkiej Sali
+
+
+
+[C1-M0665]
+===== ASSISTANT =====
+
+James szybko zgarnął książki i pergaminy do torby, po czym opuścił salę McGonagall.
+
+Na korytarzu nie był jeszcze sam. Draco, Pansy i Theodore szli kawałek przed nim — cała trójka również właśnie wyszła z Transmutacji. Draco coś komentował pod nosem na temat zadania z jajkiem, wyraźnie mniej zachwycony pomysłem McGonagall niż samą perspektywą obiadu.
+
+— Jeśli następnym razem da nam coś żywego — mruknął do Pansy — mam nadzieję, że przynajmniej nie będzie to coś, co śmierdzi po nieudanej przemianie.
+
+Theodore tylko zerknął na niego z boku, ale nic nie dodał.
+
+Schodami w dół płynął już większy strumień uczniów z różnych klas. Głosy mieszały się ze stukiem butów i przesuwającymi się po ścianach portretami.
+
+Po kilku minutach James dotarł do Wielkiej Sali.
+
+Drzwi były już szeroko otwarte, a stoły zaczynały się zapełniać.
+
+Przy stole Gryffindoru Harry i Ron właśnie zajmowali miejsca. Hermiona była z nimi — odkładała torbę przy ławie i przesuwała kilka książek na bok, robiąc sobie miejsce.
+
+Przy stole Slytherinu Draco, Pansy i Theodore zdążyli już usiąść.
+
+Jedzenie pojawiało się właśnie na półmiskach.
+
+Obiad się zaczynał.
+
+
+
+[C1-M0666]
+===== USER =====
+
+też zająłem swoje klasyczne miejsce i zacząłem nakładać sobię jedzenie a gdy juz skończyłem mój wzrok zatrzymał sie na grupie pierwszoroczniaków i zacząłem ich dokładnie skanować
+
+
+
+[C1-M0667]
+===== ASSISTANT =====
+
+James zajął swoje zwykłe miejsce przy stole Slytherinu, nałożył sobie jedzenie i przez chwilę jadł bez większego pośpiechu.
+
+Potem jego wzrok zatrzymał się na grupie siedzących kawałek dalej pierwszoroczniaków ze Slytherinu.
+
+Było ich kilkoro. Po miesiącu w Hogwarcie nie wyglądali już jak zagubione dzieci z pierwszego wieczoru, ale nadal wyraźnie odróżniali się od starszych uczniów. Szaty na części z nich wyglądały niemal zbyt nowe, ruchy przy stole były ostrożniejsze, a rozmowy częściej urywały się, gdy obok przechodził prefekt albo ktoś ze starszych klas.
+
+James zaczął przyglądać im się dokładniej.
+
+Jeden drobny chłopak jadł niemal bez odrywania wzroku od talerza, ale wyraźnie słuchał wszystkiego, co mówiono wokół. Obok siedziała dziewczyna z ciemnymi włosami, która mówiła najwięcej z całej grupki i co chwilę zerkała w stronę stołu nauczycielskiego. Naprzeciw niej dwóch chłopaków prowadziło cichą sprzeczkę o coś zapisanego na pergaminie — prawdopodobnie pracę domową.
+
+Jeszcze jeden siedział trochę z boku.
+
+To właśnie on najbardziej odstawał od reszty: nie rozmawiał prawie wcale, jadł powoli i od czasu do czasu obserwował starszych Ślizgonów, jakby próbował zorientować się w hierarchii domu, zanim sam zrobi coś głupiego.
+
+Żaden z nich początkowo nie zwrócił uwagi na Jamesa.
+
+Dopiero ciemnowłosa dziewczyna przypadkiem spojrzała w jego stronę. Zauważyła, że patrzy na ich grupę, urwała w połowie zdania i lekko trąciła łokciem chłopaka obok.
+
+Po chwili dwoje pierwszoroczniaków spojrzało na Jamesa.
+
+Nie wyglądali na przestraszonych. Raczej zastanawiali się, dlaczego starszy uczeń od dłuższej chwili tak dokładnie ich obserwuje.
+
+
+
+[C1-M0668]
+===== USER =====
+
+— Jak pierwszy miesiąc? Rzuciłem jakby do całej ich grupy
+
+
+
+[C1-M0669]
+===== ASSISTANT =====
+
+Przy pierwszoroczniakach zapadła na moment cisza. Kilkoro wymieniło szybkie spojrzenia, jakby ustalali, kto właściwie ma odpowiedzieć starszemu uczniowi.
+
+Ciemnowłosa dziewczyna odezwała się pierwsza.
+
+— Lepiej niż pierwszy tydzień.
+
+Chłopak obok niej parsknął cicho.
+
+— Bo już przynajmniej wiemy, które schody próbują nas wysłać nie tam, gdzie chcemy.
+
+Ten siedzący trochę z boku wzruszył ramionami.
+
+— Dużo nauki.
+
+— I Snape — dodał ktoś z drugiego końca grupki.
+
+Na to kilka osób zareagowało krótkimi uśmiechami.
+
+Drobny chłopak, który wcześniej prawie cały czas patrzył w talerz, podniósł wzrok.
+
+— Ale chyba... dobrze. Slytherin jest mniej straszny, niż ludzie opowiadali przed przyjazdem.
+
+Dziewczyna spojrzała na niego z boku.
+
+— Mów za siebie.
+
+Atmosfera przy ich części stołu wyraźnie się rozluźniła. Nadal byli trochę ostrożni, ale pytanie okazało się na tyle zwyczajne, że nie traktowali już rozmowy jak przesłuchania.
+
+— A twój? — zapytała w końcu dziewczyna. — W sensie pierwszy miesiąc tutaj.
+
+
+
+[C1-M0670]
+===== USER =====
+
+— Mogło być gorzej....puściłem jej oczko a potem znowu odezwałem sie do wzytkich
+— Jakbyście potrzebowali z czymś pomocy to smialo mówcie...
+
+
+
+[C1-M0671]
+===== ASSISTANT =====
+
+Dziewczyna uniosła lekko brwi na puszczone oczko, ale zaraz uśmiechnęła się pod nosem.
+
+— Zapamiętam.
+
+Drobny chłopak skinął głową trochę bardziej serio.
+
+— Dzięki.
+
+Jeden z pozostałych pierwszoroczniaków zerknął na resztę grupy, jakby przez chwilę rzeczywiście rozważał skorzystanie z propozycji już teraz.
+
+— Właściwie... — zaczął, po czym zawahał się. — Biblioteka. Jak się tam znajduje cokolwiek, jeśli nie zna się dokładnego tytułu? Pince patrzy na mnie, jakbym ją obraził samym pytaniem.
+
+Ciemnowłosa dziewczyna prychnęła.
+
+— Bo powiedziałeś jej: „jakieś książki o zaklęciach”.
+
+— Bo szukam książki o zaklęciach.
+
+— To nadal nie jest szczególnie precyzyjne.
+
+Kilku pierwszoroczniaków zachichotało.
+
+Chłopak spojrzał ponownie na Jamesa.
+
+— Chodzi mi o zaklęcia obronne. Podstawowe. Profesorzy ciągle odsyłają do dodatkowej lektury, ale tam są całe regały.
+
+Kawałek dalej Theodore na moment zerknął w stronę rozmowy, po czym wrócił do własnego obiadu. Draco również zauważył, że James rozmawia z pierwszoroczniakami, lecz poza krótkim spojrzeniem nie poświęcił temu większej uwagi.
+
+Przy młodszych uczniach atmosfera była już zdecydowanie swobodniejsza.
+
+Dziewczyna wskazała widelcem kolegę.
+
+— No proszę. Minęło jakieś dziesięć sekund i już znalazł ci robotę.
+
+
+
+[C1-M0672]
+===== USER =====
+
+— Jak orzyjdziesz do Biblioteki jutro jakos o 6:00 mogę być twoim łącznikiem....albo po prostu idź do Sznownej Pani Pince i opiwedz to co mi. Czyli ze profesor odsyła cię do dodatkowej lektury z zakresu zaklęć obronnych i czy jest ona ci w stanie coś polecieć biorąc pod uwagę ze masz chwilę sie zawachałem 11lat?
+
+
+
+[C1-M0673]
+===== ASSISTANT =====
+
+Chłopak przez chwilę patrzył na Jamesa, po czym skinął głową.
+
+— Jedenaście. Jeszcze.
+
+Ciemnowłosa dziewczyna spojrzała na niego.
+
+— Brzmi, jakbyś się spodziewał, że do jutra ci przejdzie.
+
+— W grudniu mam dwanaście — odburknął.
+
+Kilka osób przy grupce zachichotało.
+
+Chłopak wrócił spojrzeniem do Jamesa i tym razem wyglądał już na trochę pewniejszego.
+
+— Dobra. To chyba najpierw spróbuję zapytać panią Pince tak, jak powiedziałeś. Bez „jakiejś książki o zaklęciach”.
+
+Dziewczyna pokiwała głową z przesadną aprobatą.
+
+— Postęp.
+
+— A jeśli mnie wyrzuci—
+
+— Nie wyrzuci cię za pytanie — wtrąciła, zanim zdążył skończyć.
+
+Chłopak westchnął.
+
+— Jeśli nie pomoże, to przyjdę jutro rano.
+
+Zawahał się.
+
+— Tylko naprawdę jesteś tam około szóstej?
+
+Dla większości pierwszoroczniaków sama perspektywa dobrowolnego pojawienia się w bibliotece o tej porze wyglądała na coś pomiędzy dziwactwem a karą.
+
+Dziewczyna spojrzała na Jamesa z lekkim niedowierzaniem.
+
+— Codziennie?
+
+Kawałek dalej Draco, który akurat sięgał po dzbanek, rzucił bez większego zainteresowania:
+
+— Prawie.
+
+Theodore nie podniósł nawet wzroku znad talerza.
+
+— Zdecydowanie zbyt wcześnie.
+
+Pierwszoroczniacy spojrzeli między nimi, a chłopak najwyraźniej uznał, że propozycja Jamesa rzeczywiście była poważna.
+
+— Dobra. Najpierw Pince. A jak polegnę, jutro rano.
+
+Wrócił do obiadu, już najwyraźniej z konkretnym planem zamiast mglistego „znaleźć coś o zaklęciach”.
+
+
+
+[C1-M0674]
+===== USER =====
+
+słuchałem tego co mówią a potem zmarszczyłem lekko brwi i spojrzałem na tego dzieciaka co w grudniu ma 12
+— Dla pewności musze spytać, umiesz czytać prawda?
+
+
+
+[C1-M0675]
+===== ASSISTANT =====
+
+Chłopak zamarł z widelcem w połowie drogi do ust i przez sekundę patrzył na Jamesa, jakby nie był pewien, czy dobrze usłyszał.
+
+— …Tak.
+
+Ciemnowłosa dziewczyna natychmiast zakryła usta dłonią, ale i tak wyrwało jej się parsknięcie.
+
+Chłopak zmrużył oczy.
+
+— Po prostu nie wiedziałem, gdzie szukać, a nie jak odczytać tytuł książki.
+
+— To ważne rozróżnienie — wtrąciła dziewczyna, nadal walcząc ze śmiechem.
+
+Drobny chłopak obok również uśmiechnął się pod nosem.
+
+— Brown chyba robi kontrolę jakości pierwszego roku.
+
+Dwunastolatek-in-spe spojrzał na Jamesa z miną sugerującą, że od teraz będzie znacznie ostrożniej formułował pytania.
+
+— Umiem czytać. Pisać też. I liczyć, gdyby to miało być następne pytanie.
+
+Przy ich części stołu zrobiło się wyraźnie weselej.
+
+
+
+[C1-M0676]
+===== USER =====
+
+kiwnąłem głową z uznaniem jego odpowiedzi a potem skupilem sie na jedzeniu
+
+
+
+[C1-M0677]
+===== ASSISTANT =====
+
+Chłopak przyjął skinienie Jamesa z lekkim, triumfalnym uniesieniem brwi i wrócił do jedzenia.
+
+Rozmowa pierwszoroczniaków szybko rozeszła się na inne tematy — ktoś narzekał na długość wypracowania z eliksirów, ktoś inny próbował przekonać resztę, że znalazł krótszą drogę z lochów na drugie piętro, choć pozostali najwyraźniej nie byli gotowi mu uwierzyć.
+
+Przy stole znów zapanował zwykły obiadowy gwar.
+
+James mógł spokojnie skupić się na swoim talerzu. Kawałek dalej Draco rozmawiał półgłosem z Pansy, Theodore jadł w ciszy, a Wielka Sala stopniowo coraz bardziej wypełniała się głosami uczniów kończących poranne lekcje.
+
+Po kilku minutach chłopak, który pytał o bibliotekę, rzucił jeszcze krótkie spojrzenie w stronę Jamesa, jakby naprawdę zamierzał zapamiętać jego radę.
+
+Poza tym nikt już mu nie przeszkadzał.
+
+
+
+[C1-M0678]
+===== USER =====
+
+gdy juz zjadłem danie główne mój wzrok zaczął błądzić po innych stolach na sali i moj wzrok padł na dziewczynę przy stole Raivenclow'u było w niej cos specyficznego na oko też z czwartego roku i miala dlugie jasne włosy
+
+
+
+[C1-M0679]
+===== ASSISTANT =====
+
+Wzrok Jamesa przesuwał się leniwie po Wielkiej Sali, aż zatrzymał się przy stole Ravenclawu.
+
+Kilka miejsc dalej siedziała dziewczyna o bardzo długich, jasnych włosach, niemal bladych w świetle wpadającym przez wysokie okna. Z tej odległości można było ją wziąć za kogoś mniej więcej z podobnego rocznika, choć trudno było ocenić to dokładnie.
+
+Nie włosy jednak przyciągały uwagę najbardziej.
+
+Było w niej coś... osobliwego.
+
+Siedziała trochę bokiem do stołu, jakby gwar Wielkiej Sali docierał do niej z opóźnieniem. Podczas gdy uczniowie wokół rozmawiali, ona przez dłuższą chwilę wpatrywała się gdzieś wysoko ponad stołem Hufflepuffu, z lekko rozmarzonym, niemal nieobecnym wyrazem twarzy.
+
+Potem zupełnie spokojnie wróciła do jedzenia.
+
+Przy uchu miała zatkniętą różdżkę, jakby było to najnormalniejsze miejsce do jej przechowywania.
+
+Dwie siedzące niedaleko Krukonki prowadziły rozmowę obok niej, ale dziewczyna zdawała się ani specjalnie zabiegać o dołączenie, ani przejmować tym, że pozostaje trochę na uboczu.
+
+Po chwili sięgnęła po kielich, napiła się i znów zapatrzyła gdzieś przed siebie.
+
+Nie zauważyła jeszcze, że James ją obserwuje.
+
+
+
+[C1-M0680]
+===== USER =====
+
+zmarszczyłem brwi a potem pochyliłem sie w stronę Notta
+— Wiesz kto to...?
+
+
+
+[C1-M0681]
+===== ASSISTANT =====
+
+Theodore podniósł wzrok znad talerza i podążył za spojrzeniem Jamesa w stronę stołu Ravenclawu.
+
+Przez moment obserwował jasnowłosą dziewczynę, po czym odpowiedział cicho:
+
+— Lovegood.
+
+Wrócił wzrokiem do Jamesa.
+
+— Luna Lovegood. Jest rok niżej od nas.
+
+Jeszcze raz zerknął w jej stronę.
+
+— Trzeci rok. Ravenclaw.
+
+Na tym właściwie mógłby skończyć, ale po krótkiej chwili dodał:
+
+— Jest... charakterystyczna.
+
+Nie zabrzmiało to ani szczególnie złośliwie, ani życzliwie. Po prostu stwierdzenie faktu.
+
+Luna tymczasem nadal siedziała przy swoim stole, kompletnie nieświadoma tej krótkiej rozmowy.
+
+
+
+[C1-M0682]
+===== USER =====
+
+kiwnąłem głową a potem podążyłem wzrokiem tam gdzie ona patrzyła
+
+
+
+[C1-M0683]
+===== ASSISTANT =====
+
+James podążył za linią jej wzroku.
+
+Początkowo wyglądało na to, że Luna po prostu wpatruje się w pustą przestrzeń ponad stołem Hufflepuffu.
+
+Dopiero po chwili dało się zauważyć przyczynę.
+
+Między unoszącymi się pod sufitem świecami krążyła niewielka ćma. Co jakiś czas podlatywała niebezpiecznie blisko jednego z płomieni, odbijała w bok i zataczała kolejny nierówny krąg.
+
+Właśnie ją obserwowała.
+
+Nie robiła przy tym nic więcej. Nie próbowała zwracać niczyjej uwagi, nie wskazywała jej innym. Po prostu śledziła owada wzrokiem równie uważnie, jak ktoś inny mógłby obserwować mecz quidditcha.
+
+Ćma zanurkowała niżej.
+
+Luna przechyliła lekko głowę, podążając za jej lotem.
+
+Po chwili owad ponownie wzbił się między świece, a na twarzy dziewczyny pojawił się ledwie zauważalny uśmiech.
+
+Theodore, który zdążył zauważyć, gdzie teraz patrzy James, zerknął również ku górze.
+
+— Ćma — powiedział cicho.
+
+Krótka pauza.
+
+— Oczywiście.
+
+I wrócił do swojego talerza.
+
+
+
+[C1-M0684]
+===== USER =====
+
+zmarszczyłem jeszcze bardziej brwi a potem wróciłem do swojego talerza
+
+
+
+[C1-M0685]
+===== ASSISTANT =====
+
+James wrócił uwagą do własnego talerza.
+
+Przez następne kilka minut przy stole Slytherinu nie działo się nic szczególnego. Draco rozmawiał z Pansy o czymś związanym z Quidditchem, Theodore jadł w ciszy, a pierwszoroczniacy kawałek dalej zdążyli już całkowicie wrócić do własnej rozmowy.
+
+Przy stole Ravenclawu Luna nadal od czasu do czasu spoglądała gdzieś ponad głowami innych uczniów, ale nie przyciągała już uwagi Jamesa.
+
+Obiad powoli dobiegał końca. Część uczniów zaczynała wstawać, inni sięgali jeszcze po deser, a w Wielkiej Sali narastał ten charakterystyczny ruch poprzedzający popołudniowe lekcje.
+
+
+
+[C1-M0686]
+===== USER =====
+
+ja nie brałem desru tylko juz teraz wstałem od stołu i skierowałem się do następnej sali lekcyjnej
+
+
+
+[C1-M0687]
+===== ASSISTANT =====
+
+James zostawił za sobą gwar Wielkiej Sali i ruszył korytarzami w stronę kolejnych zajęć.
+
+Po obiedzie wypadały Zaklęcia u profesora Flitwicka. Nie był jedynym, który zrezygnował z deseru — kawałek dalej Theodore również zmierzał już w tę stronę, a po kilku minutach na schodach pojawili się Draco i Pansy.
+
+Gdy James dotarł pod salę, drzwi były jeszcze zamknięte. Przed nimi zebrała się dopiero garstka uczniów.
+
+Chwilę później Flitwick otworzył salę i energicznie zaprosił wszystkich do środka.
+
+Na ławkach nie czekały jednak książki ani metalowe kule znane Jamesowi z pierwszej lekcji.
+
+Przy każdym stanowisku stały trzy wysokie, wąskie szklanki wypełnione wodą, a pomiędzy nimi leżało pojedyncze pióro.
+
+Flitwick wspiął się na stos książek przy swoim biurku.
+
+— Dzisiaj zajmiemy się czymś, co wygląda niezwykle prosto, dopóki nie spróbujecie zrobić kilku rzeczy jednocześnie!
+
+Machnął różdżką.
+
+Pióro na jego stanowisku uniosło się, przeleciało nad pierwszą szklanką, zanurkowało pomiędzy dwiema następnymi, podczas gdy woda z każdej z nich jednocześnie uniosła się w powietrze w postaci trzech osobnych kul.
+
+Ani jedna kropla nie spadła na stół.
+
+— Kontrola podzielonej uwagi — oznajmił Flitwick. — Nie interesuje mnie dziś siła zaklęcia. Interesuje mnie, ile niezależnych elementów potraficie prowadzić równocześnie bez utraty precyzji.
+
+Na stanowisku Jamesa trzy szklanki i pióro czekały nieruchomo.
+
+— Zaczniemy od dwóch obiektów. Potem będziemy dodawać następne.
+
+
+
+[C1-M0688]
+===== USER =====
+
+odczekalem chwilę a gdy podła komenda że możemy zaczynać bez większych przygotowań wykonałem polecenie
+
+
+
+[C1-M0689]
+===== ASSISTANT =====
+
+Na komendę Flitwicka James po prostu uniósł różdżkę i przeszedł do działania.
+
+Pióro poderwało się ze stołu, a w tym samym czasie woda z pierwszej szklanki zebrała się w jedną zwartą kulę i zawisła kilka centymetrów nad szkłem.
+
+Dwa obiekty. Dwa niezależne tory.
+
+Pióro ruszyło poziomo nad blatem, podczas gdy kula wody zaczęła zataczać powolny okrąg w przeciwną stronę. Ani jedno nie przyspieszało gwałtownie, ani kropla nie oderwała się od powierzchni kuli.
+
+Flitwick, przechodząc między stanowiskami, zatrzymał się na moment przy Jamesie.
+
+— Dobrze, panie Brown. Bez szarpania.
+
+Spojrzał na stabilną kulę wody.
+
+— Proszę nie zatrzymywać pierwszych dwóch.
+
+Machnął lekko dłonią w stronę drugiej szklanki.
+
+— Trzeci obiekt.
+
+I odszedł pół kroku, pozostając na tyle blisko, by obserwować, czy dołączenie kolejnej porcji wody zaburzy rytm dwóch już prowadzonych elementów.
+
+
+
+[C1-M0690]
+===== USER =====
+
+wykonałem nastepny etap
+
+
+
+[C1-M0691]
+===== ASSISTANT =====
+
+Druga porcja wody uniosła się ze szklanki i zebrała w osobną kulę.
+
+Przez moment układ zrobił się wyraźnie bardziej wymagający: pióro nadal poruszało się swoim torem, pierwsza kula wody zataczała spokojny okrąg, a druga zaczęła krążyć po przeciwnej stronie stanowiska.
+
+Żaden z trzech elementów się nie zderzył.
+
+Flitwick obserwował przez kilka sekund, śledząc bardziej płynność ruchów niż sam fakt utrzymania przedmiotów w powietrzu.
+
+— Bardzo dobrze.
+
+Uniósł jeden palec.
+
+— Teraz nie dokładamy jeszcze czwartego.
+
+Machnął różdżką, a nad stanowiskiem Jamesa pojawiły się dwa niewielkie świetlne punkty wyznaczające bramki.
+
+— Proszę przeprowadzić pióro między nimi, nie zmieniając ruchu obu kul wody.
+
+Krótki uśmiech.
+
+— Dopiero potem zobaczymy, czy zostanie panu dość uwagi na trzecią szklankę.
+
+
+
+[C1-M0692]
+===== USER =====
+
+skupiłem się nieco bardziej i wykonałem to polecenie
+
+
+
+[C1-M0693]
+===== ASSISTANT =====
+
+Pióro ruszyło pomiędzy świetlnymi punktami, podczas gdy obie kule wody nadal krążyły po swoich torach.
+
+Przy przejściu przez pierwszą bramkę pióro lekko zwolniło, ale nie zatrzymało się. Druga kula wody na moment odchyliła się o kilka centymetrów od wcześniejszej trajektorii, po czym wróciła na właściwy tor.
+
+Pióro przeszło przez drugą bramkę.
+
+Ani jedna kropla nie spadła.
+
+Flitwick obserwował jeszcze moment, po czym skinął głową.
+
+— Dobrze. Właśnie o to chodzi. Nie o utrzymanie kilku rzeczy nieruchomo, tylko o wykonanie precyzyjnej operacji jedną z nich bez porzucenia pozostałych.
+
+Uniósł różdżkę.
+
+— Teraz trzecia szklanka.
+
+Woda w niej lekko zafalowała, ale profesor jej nie ruszył.
+
+— Proszę dołączyć ją do układu. Trzy kule mają poruszać się niezależnie, pióro nadal przechodzi przez bramki.
+
+Flitwick uśmiechnął się lekko.
+
+— I żeby nie było zbyt wygodnie…
+
+Machnął różdżką.
+
+Obie świetlne bramki zaczęły powoli przesuwać się nad stanowiskiem w przeciwnych kierunkach.
+
+— …one również przestają czekać na pana w miejscu.
+
+Po sali rozległo się kilka cichych jęków. Przy jednym ze stanowisk czyjaś kula wody właśnie rozpadła się i chlusnęła na blat.
+
+Flitwick odsunął się od Jamesa pół kroku.
+
+— Bez pośpiechu, panie Brown. Jeżeli układ zacznie się rozpadać, proszę najpierw odzyskać kontrolę, a dopiero potem próbować go przyspieszać.
+
+
+
+[C1-M0694]
+===== USER =====
+
+kiwnąłem głową i gdy profesor skupił sie ba innych uczniach js zacząłem wykonywać zadanie ale gdy dołączyłem czwarty obiekt z kul wody zaczęły wymykać się krople ale szybko to skorygowałem
+
+
+
+[C1-M0695]
+===== ASSISTANT =====
+
+Dołączenie trzeciej kuli wody od razu zachwiało rytmem całego układu.
+
+Jedna z wcześniejszych kul lekko się spłaszczyła, a z jej dolnej części oderwały się dwie krople. Zanim zdążyły spaść na blat, kontrola wróciła — krople zawisły, cofnęły się i ponownie połączyły z resztą wody.
+
+Pióro w tym czasie nadal poruszało się między przesuwającymi się bramkami.
+
+Po kilku sekundach wszystkie cztery elementy znów miały własny, stabilny rytm.
+
+Flitwick był akurat przy stanowisku po drugiej stronie przejścia, ale kątem oka zauważył krótką utratę kontroli. Nie przerwał rozmowy z tamtym uczniem. Dopiero gdy ruszył dalej, zatrzymał się przy Jamesie.
+
+— Widziałem.
+
+Spojrzał na trzy kule.
+
+— I bardziej interesuje mnie to, co zrobił pan po utracie stabilności, niż fakt, że w ogóle do niej doszło.
+
+Przez moment obserwował pióro przechodzące przez ruchomą bramkę.
+
+— Nie zatrzymał pan całego układu, żeby ratować jedną kulę. Skorygował ją w ruchu.
+
+Skinął głową.
+
+— Proszę utrzymać to jeszcze chwilę. Bez dokładania czegokolwiek.
+
+I odszedł do kolejnego stanowiska.
+
+Wokół kilka osób nadal walczyło z trzema elementami. Jedna z kul wody przy stole Draco właśnie rozlała się szeroko po blacie, co wywołało jego wyraźnie zirytowane syknięcie, natomiast Hermiona miała już cztery obiekty w powietrzu — jej ruchy były wolniejsze, ale bardzo równe.
+
+
+
+[C1-M0696]
+===== USER =====
+
+skupiłem na chwilę uwagę na Hermie nadal trzymając układ
+
+
+
+[C1-M0697]
+===== ASSISTANT =====
+
+James przeniósł część uwagi na Hermionę, nie przerywając prowadzenia własnego układu.
+
+To od razu uczyniło zadanie odrobinę trudniejszym.
+
+Jedna z kul wody zadrżała przy krawędzi, a pióro minęło ruchomą bramkę bliżej jej granicy niż wcześniej, ale całość nadal pozostawała pod kontrolą.
+
+Hermiona pracowała kilka stanowisk dalej.
+
+Jej trzy kule wody poruszały się wolniej niż u Jamesa, za to z niemal irytującą regularnością. Pióro przechodziło pomiędzy bramkami bez gwałtownych korekt. Widać było, że nie próbuje zwiększać tempa — budowała sobie powtarzalny rytm i trzymała się go.
+
+Przy jednej zmianie kierunku druga kula zaczęła lekko opadać.
+
+Hermiona natychmiast skorygowała wysokość, ale w tym samym momencie pióro zahaczyło końcówką o świetlną bramkę.
+
+Zmarszczyła brwi.
+
+Nie zatrzymała pozostałych elementów. Cofnęła tylko pióro, ustawiła je ponownie i przeprowadziła przez bramkę jeszcze raz.
+
+Tym razem czysto.
+
+Flitwick, który właśnie znalazł się przy jej stanowisku, pokiwał głową.
+
+— Właśnie tak, panno Granger. Błąd jednego elementu nie jest powodem, żeby porzucać trzy pozostałe.
+
+Hermiona odpowiedziała krótkim:
+
+— Tak, profesorze.
+
+I wtedy, podczas kolejnego okrążenia pióra, jej wzrok na moment oderwał się od własnego stanowiska.
+
+Spojrzała w stronę Jamesa.
+
+Tym razem mogła zobaczyć, że mimo utrzymywania wszystkich czterech elementów patrzy właśnie na nią.
+
+Jej spojrzenie zatrzymało się może na sekundę.
+
+Potem kącik ust lekko jej drgnął, jakby sama sytuacja ją rozbawiła, i bez słowa wróciła do własnego układu.
+
+W tej samej chwili jedna z kul wody Jamesa zaczęła niebezpiecznie wydłużać się od dołu.
+
+
+
+[C1-M0698]
+===== USER =====
+
+sam ruchu jej ust kąpletnie wybił mnie z rytmu 3 kule spadły na blat a piórko na podłogę
+
+
+
+[C1-M0699]
+===== ASSISTANT =====
+
+Efekt był natychmiastowy.
+
+Trzy kule straciły kształt niemal jednocześnie.
+
+Chlap. Chlap. Chlap.
+
+Woda runęła na blat, rozlewając się szeroko pomiędzy szklankami i pergaminami, a pióro po prostu straciło podtrzymanie, zakręciło się w powietrzu i opadło na kamienną podłogę.
+
+Przez moment stanowisko Jamesa wyglądało tak, jakby ktoś wylał na nie cały dzbanek.
+
+Kilka osób siedzących najbliżej odruchowo zerknęło w jego stronę.
+
+Hermiona również.
+
+Najpierw na mokry blat.
+
+Potem na Jamesa.
+
+Jej brwi uniosły się lekko, a ten wcześniejszy cień uśmiechu na moment wrócił — tym razem już wyraźniej rozbawiony — zanim szybko odwróciła uwagę z powrotem na własne cztery obiekty.
+
+Flitwick usłyszał chlupot i po paru sekundach znalazł się przy stanowisku Jamesa.
+
+Spojrzał na trzy rozlane porcje wody.
+
+Na pióro leżące na podłodze.
+
+Potem na Jamesa.
+
+— No cóż.
+
+Machnął różdżką. Woda zatrzymała się tuż przed krawędzią stołu, żeby nie kapała na podłogę.
+
+— To była bardzo kompletna utrata koncentracji.
+
+Nie brzmiał złośliwie. Raczej rzeczowo.
+
+— I właśnie dlatego ćwiczymy podzielność uwagi. Czasem wystarczy jedna rzecz, której nie uwzględniliśmy, i wszystkie pozostałe zadania przestają istnieć naraz.
+
+Flitwick wskazał różdżką na pióro.
+
+— Proszę zacząć od początku. Spokojnie. Dwa obiekty, potem trzeci, potem czwarty.
+
+Krótka pauza.
+
+— I tym razem proszę spróbować utrzymać uwagę przy własnym stanowisku przynajmniej do momentu, kiedy woda przestanie znajdować się na stole.
+
+Po czym odszedł, zostawiając Jamesowi możliwość odbudowania całego układu.
+
+
+
+[C1-M0700]
+===== USER =====
+
+tu jednak nie posłuchałem Profesora szybko wróciłem na ziemię i zberalem wszystkie kule i piórko z powrotem i ukald działał tak jak przed rozlaniem tym razem jednk nie ryzykowałem patrzeniem w stronę Hermiony
+
+
+
+[C1-M0701]
+===== ASSISTANT =====
+
+James nie odbudował układu etapami.
+
+Woda poderwała się z blatu niemal od razu. Rozlane porcje zebrały się w trzy osobne masy, oderwały od drewna i ponownie uformowały w kule. Pióro uniosło się z podłogi sekundę później.
+
+Po kilku krótkich korektach wszystkie cztery elementy znów poruszały się tak jak przed upadkiem.
+
+Trzy kule odzyskały swoje niezależne tory, a pióro ponownie zaczęło przechodzić pomiędzy ruchomymi bramkami.
+
+Tym razem James nie kierował wzroku w stronę Hermiony.
+
+Flitwick zauważył odbudowę układu właściwie od razu. Zatrzymał się przy innym stanowisku, dokończył uwagę skierowaną do ucznia, a dopiero potem wrócił kilka kroków.
+
+Przez chwilę tylko obserwował.
+
+— Mówiłem: dwa, potem trzy, potem cztery.
+
+Nie brzmiał na szczególnie zirytowanego.
+
+Spojrzał na stabilne kule.
+
+— Pan natomiast postanowił sprawdzić, czy potrafi odzyskać wszystkie naraz.
+
+Krótka pauza.
+
+— Najwyraźniej potrafi.
+
+Flitwick wskazał pierwszą kulę.
+
+— Ale proszę zrozumieć, dlaczego zaleciłem stopniowy powrót. Nie dlatego, że uważałem, że cztery są dla pana za trudne.
+
+Jego różdżka przesunęła się na pozostałe elementy.
+
+— Po całkowitej utracie kontroli najbezpieczniej jest odbudować stabilność warstwami. W ćwiczeniu najwyżej zmoczy pan stół. Przy bardziej wrażliwym zaklęciu próba złapania wszystkiego jednocześnie może tylko powiększyć błąd.
+
+Po chwili skinął jednak głową.
+
+— Skoro już pan to zrobił, proszę utrzymać układ.
+
+I odszedł.
+
+Minęło kilkanaście sekund.
+
+Pióro przeszło przez kolejną bramkę. Potem drugą. Trzy kule nadal krążyły bez utraty kropli.
+
+Kilka stanowisk dalej Hermiona również wciąż prowadziła swój układ. Tym razem James nie sprawdzał, co robi.
+
+Flitwick wrócił przed klasę i uniósł rękę.
+
+— Dobrze! Ci, którzy utrzymują cztery elementy, proszę przygotować się na ostatnią zmianę.
+
+Świetlne bramki nagle przyspieszyły.
+
+— Teraz zobaczymy, czy potraficie zachować precyzję, kiedy tempo przestaje należeć do was.
+
+
+
+[C1-M0702]
+===== USER =====
+
+zmarszczyłem brwi i przygotowalem się na zmianę
+
+
+
+[C1-M0703]
+===== ASSISTANT =====
+
+Flitwick odczekał jeszcze sekundę, aż wszyscy byli gotowi.
+
+Potem machnął różdżką.
+
+Dwie świetlne bramki nie tylko przyspieszyły — zaczęły zmieniać tempo niezależnie od siebie. Jedna przez kilka sekund przesuwała się szybko, po czym gwałtownie zwalniała, podczas gdy druga robiła dokładnie odwrotnie.
+
+To od razu rozbiło prosty rytm, który dało się wcześniej wyczuć.
+
+— Nie próbujcie przewidywać sekwencji! — zawołał Flitwick. — Reagujcie na to, co dzieje się teraz!
+
+W tej samej chwili pierwsza bramka obniżyła się niemal do poziomu blatu, a druga przesunęła wysoko ponad trzecią kulę wody.
+
+Pióro Jamesa zbliżało się właśnie do pierwszej.
+
+Trzy kule nadal pozostawały w ruchu, ale miejsca pomiędzy nimi a bramkami zaczynało być coraz mniej.
+
+Przy stanowisku Draco rozległo się gwałtowne chlupnięcie.
+
+— Cholera—
+
+— Koncentracja, panie Malfoy! — odpowiedział natychmiast Flitwick.
+
+Kilka miejsc dalej Hermiona nadal utrzymywała swój układ, choć jej pióro wyraźnie zwolniło, gdy jedna z bramek nagle zmieniła kierunek.
+
+Flitwick obserwował całą salę.
+
+— Nie interesuje mnie szybkość! Niech przedmiot poczeka, jeśli nie ma bezpiecznej drogi!
+
+Bramka przed Jamesem właśnie zaczęła ponownie wznosić się w górę.
+
+
+
+[C1-M0704]
+===== USER =====
+
+od razu na to zareagowałem nie zwalniając
+
+
+
+[C1-M0705]
+===== ASSISTANT =====
+
+James zareagował natychmiast, nie redukując tempa całego układu.
+
+Pióro zmieniło tor w locie, prześlizgnęło się pod wznoszącą bramką i niemal od razu odbiło w stronę drugiej. Jednocześnie trzy kule wody musiały skorygować swoje orbity, żeby zrobić mu miejsce.
+
+Jedna z nich niebezpiecznie zbliżyła się do drugiej.
+
+Krótka korekta.
+
+Minęły się o kilka centymetrów.
+
+Druga bramka nagle zwolniła, ale pióro nie. James poprowadził je po ostrzejszym łuku, przeciął otwór dokładnie w chwili, gdy świetlna obręcz zaczęła przesuwać się w przeciwną stronę.
+
+Ani jedna kropla nie spadła.
+
+Flitwick zauważył.
+
+— O, bardzo dobrze!
+
+Profesor obserwował jeszcze kilka sekund.
+
+— Pan Brown zdecydował się nie dostosowywać własnego tempa do bramek. Dostosowuje trasę.
+
+Machnął lekko różdżką.
+
+— To trudniejsze, ale przy wystarczającej kontroli całkowicie poprawne.
+
+W tej samej chwili jedna z bramek gwałtownie zmieniła kierunek po raz kolejny, zmuszając pióro do następnej natychmiastowej korekty.
+
+Flitwick uśmiechnął się szerzej.
+
+— Zobaczymy tylko, jak długo da się pan z tym utrzymać.
+
+Układ nadal działał.
+
+
+
+[C1-M0706]
+===== USER =====
+
+zmarszczyłem brwi jeszcze bardziej i całą uwagę skupilem na zadaniu i układzie
+
+
+
+[C1-M0707]
+===== ASSISTANT =====
+
+James całkowicie odciął uwagę od reszty sali.
+
+Teraz liczyły się tylko cztery elementy i dwa ruchome punkty odniesienia.
+
+Pióro.
+
+Pierwsza kula.
+
+Druga.
+
+Trzecia.
+
+Bramki.
+
+Układ przestał wyglądać jak seria osobnych zaklęć, a zaczął działać jak jeden mechanizm.
+
+Kiedy pierwsza obręcz nagle zeszła niżej, pióro natychmiast zmieniło wysokość. W tym samym czasie jedna z kul przesunęła się szerzej, żeby zwolnić przestrzeń. Druga bramka przyspieszyła — pióro przecięło jej tor pod kątem, zanim zdążyła uciec.
+
+Przy następnej zmianie jedna z kul zaczęła się lekko deformować.
+
+Korekta.
+
+Woda ponownie zebrała się w idealną sferę.
+
+Flitwick nie komentował już każdego ruchu. Stał przy swoim biurku i obserwował kilka najlepiej radzących sobie stanowisk jednocześnie.
+
+Po kilkudziesięciu sekundach machnął różdżką.
+
+Bramki nagle zamieniły wysokości.
+
+Kilku uczniów straciło kontrolę niemal natychmiast.
+
+Rozległo się chlupnięcie, potem kolejne.
+
+— Nie walczyć z błędem! — zawołał Flitwick. — Najpierw stabilizacja!
+
+Układ Jamesa nadal pozostawał w powietrzu.
+
+Pióro wykonało gwałtowniejszy łuk, jedna kula musiała przejść pod drugą, a przez krótką chwilę wszystkie trzy znalazły się nieprzyjemnie blisko siebie.
+
+Ale nie zderzyły się.
+
+Flitwick spojrzał w jego stronę.
+
+— Dobrze. Wystarczy.
+
+Jednym ruchem różdżki zatrzymał bramki.
+
+— Proszę sprowadzić wszystko na miejsce. Kontrolowanie końca zaklęcia jest częścią ćwiczenia, nie momentem, w którym można przestać uważać.
+
+W całej sali zaczęły opadać pióra i kule wody.
+
+Kilka stanowisk wyglądało jak po małej powodzi.
+
+Przy Jamesie trzy szklanki czekały poniżej swoich kul, a pióro miało wrócić na blat dokładnie tam, skąd wystartowało.
+
+
+
+[C1-M0708]
+===== USER =====
+
+kule po chwili znalazły swoej szklanki a piórko wrocilo na miejsce
+
+
+
+[C1-M0709]
+===== ASSISTANT =====
+
+Każda z trzech kul opadła spokojnie do swojej szklanki, bez rozprysku. Pióro zatoczyło krótki łuk i osiadło dokładnie w miejscu, z którego wystartowało.
+
+Flitwick obserwował końcówkę ćwiczenia i dopiero wtedy skinął głową.
+
+— Bardzo dobrze, panie Brown.
+
+Spojrzał na nieruchome szklanki.
+
+— Najważniejsze, że nie potraktował pan końca zadania jak momentu, w którym można nagle puścić kontrolę. To częsty błąd.
+
+Kilka stanowisk dalej woda nadal wracała do naczyń znacznie mniej elegancko. Ron próbował zebrać z blatu ostatnią kałużę, Draco z wyraźnym niezadowoleniem poprawiał przewróconą szklankę, a Flitwick ruszył już między rzędami, sprawdzając pozostałych.
+
+Po chwili profesor wrócił na podwyższenie.
+
+— Dobrze! Na dziś wystarczy.
+
+Machnął różdżką i świetlne bramki zniknęły.
+
+— Następnym razem dołożymy element, którego nie będziecie kontrolować bezpośrednio. Zobaczymy wtedy, jak dobrze radzicie sobie, kiedy układ nie tylko się porusza, ale również próbuje wam przeszkadzać.
+
+Po sali przeszedł cichy pomruk.
+
+Flitwick uśmiechnął się szeroko.
+
+— Proszę nie wyglądać tak entuzjastycznie.
+
+Rozległ się dzwonek i uczniowie zaczęli pakować rzeczy.
+
+
+
+[C1-M0710]
+===== USER =====
+
+spakowałem swoje rzeczy i skierowałem się na następną lekcję
+
+
+
+[C1-M0711]
+===== ASSISTANT =====
+
+James spakował książki i razem z resztą czwartego roku opuścił salę Flitwicka.
+
+Kolejne zajęcia wypadały z Historii Magii, więc tym razem nie trzeba było schodzić do lochów ani wychodzić na błonia. Draco, Theodore i Pansy również ruszyli w tę samą stronę, stopniowo mieszając się na korytarzu z Gryfonami.
+
+Po kilku minutach klasa zaczęła zajmować miejsca.
+
+Profesor Binns już tam był.
+
+A przynajmniej jego duch unosił się przy tablicy i mówił monotonnym głosem jeszcze zanim większość uczniów zdążyła usiąść.
+
+— ...co doprowadziło w tysiąc siedemset dwunastym roku do trzeciej serii sporów dotyczących własności ziem zamieszkiwanych przez...
+
+Ron opadł na krzesło obok Harry’ego.
+
+— On zaczął przed nami?
+
+Hermiona otworzyła podręcznik.
+
+— Prawdopodobnie nie przestał po poprzedniej klasie.
+
+Binns nie zareagował.
+
+Na tablicy widniał temat:
+
+KONFLIKTY CZARODZIEJÓW Z OLBRZYMAMI W XVIII WIEKU — PRÓBY REGULACJI I PRZYMUSOWYCH PRZESIEDLEŃ
+
+Theodore usiadł niedaleko Jamesa i spojrzał na tablicę.
+
+— Po Moodym, McGonagall i Flitwicku...
+
+wyciągnął pergamin.
+
+— ...teraz prawdziwa próba wytrzymałości.
+
+Binns tymczasem kontynuował dokładnie tym samym tonem:
+
+— ...błędem często popełnianym przez współczesnych historyków jest traktowanie społeczności olbrzymów jako jednolitej politycznie...
+
+Lekcja dopiero się zaczynała.
+
+
+
+[C1-M0712]
+===== USER =====
+
+ja tylko się usmiechhnąłem bo znalazłem juz sposób i na tą lekcję zajakem miejsce tak by mieć dobry widok na profil Hermiony a potem wyjąłem ołówek i kolejny pergamin i zacząłem na nowo szkicować jej podobiznę
+
+
+
+[C1-M0713]
+===== ASSISTANT =====
+
+James zajął miejsce pod takim kątem, żeby nie musieć obracać całej głowy za każdym razem, gdy chciał spojrzeć w stronę Hermiony.
+
+Binns tymczasem płynął dalej swoim monotonnym strumieniem dat, nazwisk i kolejnych nieudanych prób regulowania stosunków z olbrzymami.
+
+Hermiona, jak zwykle na Historii Magii, rzeczywiście robiła notatki.
+
+Siedziała lekko bokiem względem Jamesa, dzięki czemu przez większość czasu widoczny był jej profil. Co kilka chwil pochylała głowę, zapisując kolejne zdanie, potem unosiła ją, gdy Binns wymieniał jakąś datę albo nazwę dokumentu. Pióro poruszało się niemal bez przerwy.
+
+Ołówek Jamesa zaczął przesuwać się po czystym pergaminie.
+
+Najpierw lekkie linie orientacyjne. Kształt głowy. Linia nosa. Podbródek. Potem włosy — zdecydowanie najtrudniejsza część, bo przy każdym ruchu Hermiony układały się trochę inaczej.
+
+Nie było potrzeby się spieszyć. Binns dawał do tego wręcz idealne warunki.
+
+— ...następnie ministerialna komisja z roku tysiąc siedemset dwudziestego pierwszego uznała, że wcześniejsze przesiedlenia były niewystarczająco—
+
+Kilka miejsc dalej Ron już podpierał głowę dłonią.
+
+Hermiona natomiast uniosła pióro, na chwilę przestała pisać i poprawiła kosmyk włosów opadający jej przed oczy.
+
+Profil zmienił się na kilka sekund.
+
+Potem znów wróciła do notatek.
+
+Theodore siedzący niedaleko rzucił przelotne spojrzenie na pergamin Jamesa, ale z jego miejsca widział przede wszystkim ruch ołówka i fragment arkusza. Nie zatrzymał na nim uwagi i wrócił do własnych notatek.
+
+Na razie nikt nie reagował.
+
+A szkic powoli zaczynał nabierać kształtu.
+
+
+
+[C1-M0714]
+===== USER =====
+
+kontynuowałem szkic całkowicie nie zwracając uwagi na wszytko inne
+
+
+
+[C1-M0715]
+===== ASSISTANT =====
+
+Ołówek pracował dalej, linia po linii.
+
+Zarys twarzy stawał się coraz pewniejszy. Profil nosa, kształt ust, łuk brwi. Najwięcej czasu pochłaniały włosy — ich objętość i nieregularność sprawiały, że każda zbyt równa linia od razu wyglądała źle.
+
+Hermiona co jakiś czas zmieniała pozycję.
+
+Raz opierała policzek lekko na dłoni, nadal pisząc. Innym razem prostowała się, żeby przewrócić stronę podręcznika. Przy jednym z ruchów włosy zsunęły jej się na ramię i zasłoniły część profilu, więc przez chwilę szkicowanie tej części było niemożliwe.
+
+James jednak kontynuował.
+
+Binns mówił gdzieś w tle:
+
+— ...co w późniejszych opracowaniach bywa błędnie przedstawiane jako jednolita rebelia, mimo że poszczególne grupy olbrzymów nie posiadały wspólnego przywództwa...
+
+Szelest pergaminów.
+
+Skrzypnięcie krzesła.
+
+Ciche ziewnięcie kogoś z tyłu.
+
+Żadne z tego nie przerwało pracy nad rysunkiem.
+
+Po kilkunastu minutach szkic był już znacznie bardziej rozwinięty niż poranne próby w bibliotece. Nie był tylko konturem twarzy — pojawiły się cienie pod włosami, linia szyi, fragment szkolnej szaty i ręka trzymająca pióro.
+
+W pewnym momencie Hermiona przestała pisać.
+
+Uniosła głowę.
+
+Nie spojrzała od razu w stronę Jamesa. Najpierw popatrzyła na Binnsa, jakby próbowała zdecydować, czy właśnie usłyszała coś wartego zanotowania.
+
+Binns tymczasem nagle przerwał swój monolog.
+
+— Panie Brown.
+
+W klasie zrobiło się odrobinę ciszej.
+
+Duch profesora spojrzał znad swoich notatek.
+
+— Skoro najwyraźniej pańskie zapiski wymagają dziś wyjątkowo intensywnego skupienia...
+
+Ron uniósł głowę z dłoni.
+
+Hermiona również odwróciła wzrok w stronę Jamesa.
+
+Binns ciągnął tym samym zupełnie pozbawionym emocji tonem:
+
+— Proszę powiedzieć klasie, dlaczego próba przesiedlenia grup olbrzymów z północnej Szkocji w roku tysiąc siedemset dwudziestym trzecim zakończyła się fiaskiem.
+
+
+
+[C1-M0716]
+===== USER =====
+
+na chwilę przerwałem szkic odwracjac go obrazem dk stołu a potem odpowiedziałem dlugo i wyczerpująco ale dla zartu uzylem monotnnego tonu Profesora
+
+
+
+[C1-M0717]
+===== ASSISTANT =====
+
+James odwrócił pergamin rysunkiem do blatu, odłożył na moment ołówek i zaczął odpowiadać.
+
+Odpowiedź była długa. Nie ograniczała się do jednego powodu — James przeszedł przez problemy z samą ideą przymusowego przesiedlenia, brak jednolitej struktury wśród grup olbrzymów, błędne założenia Ministerstwa co do podporządkowania poszczególnych grup, trudności terenowe i fakt, że kolejne decyzje urzędników tylko zwiększały opór zamiast go wygaszać.
+
+Najbardziej rzucało się jednak w uszy jak mówił.
+
+Ten sam równy rytm.
+
+To samo niemal całkowite pozbawienie intonacji.
+
+Długie zdania wypowiadane tak, jakby każda informacja była dokładnie równie fascynująca jak poprzednia.
+
+Po kilkunastu sekundach Harry spojrzał na Rona.
+
+Ron już zaciskał usta, próbując się nie roześmiać.
+
+Theodore uniósł wzrok znad pergaminu i przyjrzał się Jamesowi przez moment, po czym bardzo spokojnie wrócił do swoich zapisków.
+
+Hermiona również szybko zrozumiała, co James robi.
+
+Jej pióro zatrzymało się.
+
+Spojrzała najpierw na Jamesa, potem na Binnsa i ponownie na Jamesa. Kąciki jej ust wyraźnie drgnęły, ale schowała reakcję, opuszczając wzrok na notatki.
+
+James skończył.
+
+Zapadła krótka cisza.
+
+Profesor Binns patrzył na niego przez kilka sekund.
+
+— Tak.
+
+Pauza.
+
+— W zasadzie kompletne.
+
+Jeszcze jedna pauza, nieco dłuższa niż zwykle.
+
+— Choć pański sposób przedstawienia materiału był... dziwnie znajomy.
+
+Ron wydał z siebie zduszony dźwięk i natychmiast udał kaszel.
+
+Binns spojrzał w jego stronę.
+
+— Panie Weasley, jeżeli cierpi pan na dolegliwości układu oddechowego, skrzydło szpitalne znajduje się poza tą salą.
+
+— Nic mi nie jest, profesorze.
+
+— Doskonale.
+
+I niemal bez żadnego przejścia duch wrócił do wykładu:
+
+— Jak zatem wspomniałem, wydarzenia roku tysiąc siedemset dwudziestego trzeciego nie powinny być interpretowane w oderwaniu od wcześniejszych—
+
+Monotonny głos ponownie wypełnił salę.
+
+Hermiona odczekała kilka sekund, aż Binns całkowicie wróci do swoich notatek.
+
+Potem spojrzała w stronę Jamesa.
+
+Tym razem jej uśmiech był już całkiem widoczny.
+
+Krótki.
+
+Powstrzymywany.
+
+Ale zdecydowanie tam był.
+
+A pergamin ze szkicem nadal leżał przed Jamesem rysunkiem do dołu.
+
+
+
+[C1-M0718]
+===== USER =====
+
+widząc jej uśmiech sam tez nie mogłem sie powstrzymać i na moje twarzy tez pojawił się szeroki uśmiech
+
+
+
+[C1-M0719]
+===== ASSISTANT =====
+
+Hermiona zauważyła szeroki uśmiech niemal od razu.
+
+Przez sekundę wyglądała, jakby to tylko bardziej ją rozbawiło. Opuściła wzrok na pergamin, ale kąciki ust nadal miała uniesione, kiedy ponownie zaczęła pisać.
+
+Nie odezwała się.
+
+Binns również najwyraźniej niczego nie zauważył albo uznał to za całkowicie nieistotne.
+
+— ...natomiast komisja powołana dwa lata później popełniła zasadniczo ten sam błąd, jedynie opisując go większą liczbą paragrafów...
+
+Monotonny wykład płynął dalej.
+
+Po chwili Hermiona odgarnęła włosy z twarzy i wróciła do normalnego skupienia na lekcji, choć ten lekki ślad uśmiechu utrzymał się jeszcze przez kilka sekund.
+
+Przed Jamesem nadal leżał odwrócony szkic.
+
+Nikt nie próbował go ruszać ani zaglądać pod pergamin.
+
+
+
+[C1-M0720]
+===== USER =====
+
+w głowie miałem teraz tylko uśmiech Hermiony obróciłem szkic ponownie i wróciłem do szlifowania ale tym razem na skupionej twarzy Hermiony dodałem właśnie ten usmeich
+
+
+
+[C1-M0721]
+===== ASSISTANT =====
+
+James ponownie obrócił pergamin i wrócił do pracy ołówkiem.
+
+Tym razem szkic zmienił się subtelnie, ale wyraźnie.
+
+Wcześniej na twarzy Hermiony dominowało skupienie — lekko zmarszczone brwi, uwaga wbita w notatki, profil napięty przez koncentrację. Teraz James dodał do tego ten krótki uśmiech, który pojawił się chwilę wcześniej. Nie szeroki, nie przesadzony — ledwie zaznaczony, ale wystarczający, by cała twarz na pergaminie od razu ożyła.
+
+Prawdziwa Hermiona tymczasem znów pisała.
+
+Co jakiś czas unosiła wzrok na Binnsa, potem wracała do pergaminu. Przy jednym z takich ruchów ten ślad rozbawienia jeszcze przez moment utrzymał się na jej ustach, zanim zgasł pod naporem kolejnych dat i nazw.
+
+Binns mówił dalej swoim niezmiennym tonem:
+
+— ...w związku z czym kolejne memorandum ministerialne nie tylko nie rozwiązało problemu, lecz również pogłębiło nieufność między społecznościami...
+
+Z tyłu sali ktoś stłumił ziewnięcie.
+
+Ron znowu podpierał głowę dłonią.
+
+Harry próbował jeszcze notować, choć szło mu to coraz wolniej.
+
+Theodore przez chwilę przesunął spojrzeniem po Jamesie i jego ruchach ołówka, ale nie odezwał się ani słowem.
+
+Na pergaminie szkic stawał się coraz pełniejszy.
+
+Uśmiech został już uchwycony. Teraz James dopracowywał linię włosów przy policzku, lekki cień przy szyi i drobne różnice w kształcie ust, które sprawiały, że rysunek coraz mniej przypominał zwykły profil, a coraz bardziej właśnie ją.
+
+W pewnym momencie Hermiona znów podniosła wzrok — nie na Binnsa, lecz odruchowo trochę bardziej w bok.
+
+Jej spojrzenie przecięło salę i na ułamek chwili znów trafiło w stronę Jamesa.
+
+Tym razem nie uśmiechnęła się tak wyraźnie jak wcześniej, ale w jej oczach pojawiło się coś pomiędzy zaciekawieniem a rozbawionym pytaniem, zanim znowu wróciła do notatek.
+
+Binns natomiast zdawał się całkowicie niewzruszony życiem toczącym się w klasie poza jego wykładem.
+
+— ...co prowadzi nas do dokumentu z roku tysiąc siedemset dwudziestego piątego, który, choć szeroko cytowany, w praktyce nie miał niemal żadnego wpływu na sytuację...
+
+Lekcja toczyła się dalej, a ołówek Jamesa nadal pracował po pergaminie.
+
+
+
+[C1-M0722]
+===== USER =====
+
+w pewnym momencie tak się wciągnąłem ale wtedy rysik mohego ołówka się złamał a ja odruchowo złapałem się za głowę
+
+
+
+[C1-M0723]
+===== ASSISTANT =====
+
+Suchy trzask grafitu był cichy, ale dla kogoś całkowicie skupionego na rysunku zabrzmiał niemal jak katastrofa.
+
+Końcówka ołówka odłamała się i potoczyła kilka centymetrów po pergaminie, zostawiając krótką ciemną smugę tuż obok szkicu.
+
+James odruchowo złapał się za głowę.
+
+Theodore, siedzący niedaleko, zerknął najpierw na niego, potem na złamany ołówek.
+
+— Tragicznie — mruknął cicho i wrócił do swoich notatek.
+
+Binns nawet nie przerwał.
+
+— ...w odpowiedzi Ministerstwo zdecydowało się powołać kolejną komisję, której raport liczył sto osiemdziesiąt siedem stron i nie zawierał żadnych nowych propozycji...
+
+Hermiona natomiast zauważyła nagły ruch.
+
+Podniosła głowę i przez moment patrzyła w stronę Jamesa. Z jej miejsca nie było widać dokładnie, co znajdowało się na pergaminie — przede wszystkim jego pochyloną sylwetkę, rękę przy głowie i ołówek, który najwyraźniej właśnie odmówił współpracy.
+
+Jej wzrok opadł na złamaną końcówkę leżącą na stole.
+
+Kącik ust drgnął jej lekko.
+
+Potem bez słowa sięgnęła do własnego piórnika, wyjęła niewielką mugolską temperówkę i położyła ją przy krawędzi swojego stanowiska, patrząc przez chwilę w stronę Jamesa.
+
+Nie wołała go ani nie próbowała zwracać uwagi całej klasy.
+
+Po prostu lekko wskazała temperówkę palcem.
+
+Potem wróciła do notatek, pozostawiając decyzję jemu.
+
+
+
+[C1-M0724]
+===== USER =====
+
+(tu znowu potrzebuje planu pogloadowego sali z zaznsczonymi osobami które wspomniałeś gdzie kto siedzi i oczywiście profesorem)
+
+
+
+[C1-M0725]
+===== USER =====
+
+Nie zgadza się spróbuj jeszcze raz
+
+
+
+[C1-M0726]
+===== USER =====
+
+Znowu się nie zgadza to musi być coś bardziej jak pierwsz tylko Hermiona musi siedzieć przede mną po skosie
+
+
+
+[C1-M0727]
+===== USER =====
+
+Chyba nic z tego nie bedzie ale sporboujny dokładnie tak. Przeanalizuj wszystko co sie stało od poaczyku lekcji...wzytkie twoje opisy i moje odpowiedzi i na tej podstawie stworz plan...i oczywiście uwzględnij też innych uczniów tak jak za pierwszym razem plis
+
+
+
+[C1-M0728]
+===== USER =====
+
+No dobra i teraz na podstawie tego co napisałeś zrob ładny plan w tskim stylu jak za pierwszym razem
+
+
+
+[C1-M0729]
+===== USER =====
+
+(ok super powiedzmy)
+Lekko się spiąłem a potem wstałem od stołu szybko podszedłem do stolika Hermiony wziąłem temperówkę i wróciłem na swoje miejsce a potem na ostrzyłem ołówek i wróciłem do szkicowania
+
+
+
+[C1-M0730]
+===== ASSISTANT =====
+
+James poderwał się z miejsca dość szybko, ale bez robienia większego hałasu. Binns nawet nie przerwał wykładu.
+
+— ...co w konsekwencji doprowadziło do kolejnej serii lokalnych starć, choć raport ministerialny z tego okresu—
+
+Hermiona zauważyła go, kiedy podszedł do jej ławki.
+
+Jej wzrok na moment powędrował ku Jamesowi, potem ku leżącej przy krawędzi temperówce. Nie musiała pytać, po co przyszedł. Przesunęła ją tylko odrobinę bliżej niego dwoma palcami.
+
+Kiedy James ją zabrał, na jej twarzy pojawił się bardzo krótki, dyskretny uśmiech.
+
+Potem wróciła do notatek.
+
+James szybko znalazł się z powrotem na swoim miejscu.
+
+Theodore rzucił mu krótkie spojrzenie, gdy ten usiadł, ale nie odezwał się. Binns nadal mówił dokładnie tym samym tonem, jakby przemieszczający się po sali uczeń w ogóle nie istniał.
+
+Kilka obrotów ołówka w temperówce.
+
+Grafit znów miał ostrą końcówkę.
+
+James odłożył temperówkę obok pergaminu i wrócił do szkicu.
+
+Hermiona siedziała nadal przed nim po skosie. Po krótkiej przerwie znów miał dokładnie ten widok, który wybrał sobie na początku lekcji — jej profil, fragment ramienia oraz włosy opadające częściowo na bok twarzy, gdy pochylała się nad notatkami.
+
+Ołówek ponownie ruszył.
+
+Teraz można było wrócić do drobniejszych szczegółów: linii ust, cieni przy włosach, kształtu oka widzianego z profilu i tego wcześniejszego uśmiechu, który James już zaczął przenosić na pergamin.
+
+Hermiona nie miała z miejsca, w którym siedziała, możliwości zobaczenia zawartości jego kartki.
+
+Temperówka natomiast nadal leżała przy Jamesie.
+
+
+
+[C1-M0731]
+===== USER =====
+
+kolekne minuty upływały mi na dodawaniu coraz większej ilości szczegółów
+
+
+
+[C1-M0732]
+===== ASSISTANT =====
+
+Minuty mijały powoli, odmierzane monotonnym głosem profesora Binnsa, szelestem pergaminów i cichym skrzypieniem piór.
+
+Ołówek Jamesa przesuwał się po kartce coraz pewniej.
+
+Szkic przestawał być już tylko uchwyconym profilem. Pojawiły się drobniejsze szczegóły: delikatniejsze przejścia cienia pod linią włosów, wyraźniejszy zarys rzęs widocznych z boku, dokładniejsza linia nosa i ust, a także fałdy szaty przy ramieniu. Nawet włosy Hermiony, wcześniej najbardziej oporne, zaczynały układać się na pergaminie w sposób znacznie bliższy rzeczywistości.
+
+Hermiona przez większość czasu nadal robiła notatki.
+
+Co jakiś czas przesuwała dłoń po pergaminie, poprawiała pióro w palcach albo lekko zmieniała kąt, pod jakim siedziała. Raz odgarnęła włosy z policzka, innym razem pochyliła głowę niżej nad ławką, kiedy Binns zaczął wymieniać kolejne daty i nazwy komisji.
+
+— ...oraz dlatego raport z tysiąc siedemset dwudziestego siódmego roku, mimo iż znacznie obszerniejszy od poprzednich, nie rozwiązał kwestii relokacji, a jedynie przesunął odpowiedzialność administracyjną na...
+
+Ron kilka ławek dalej wyglądał tak, jakby walczył o życie. Harry próbował jeszcze nadążać z notatkami, choć coraz częściej tylko patrzył na tablicę. Draco siedział z wyraźnie znudzoną miną, Pansy coś notowała, a Theodore od czasu do czasu unosił wzrok znad własnego pergaminu, po czym wracał do pracy.
+
+W pewnym momencie Hermiona znowu na chwilę podniosła głowę.
+
+Jej wzrok przesunął się po sali, tym razem już krócej niż wcześniej, i przez moment znów zatrzymał się w okolicy Jamesa. Nie mogła zobaczyć samego rysunku, ale najwyraźniej zauważyła, że ołówek nadal pracuje niemal bez przerwy.
+
+Kącik jej ust drgnął ledwie zauważalnie.
+
+Potem wróciła do notatek.
+
+Na pergaminie szkic był już wyraźnie bardziej dopracowany niż wszystkie poprzednie próby.
+
+Binns tymczasem wreszcie zaczął zbliżać się do końca wywodu.
+
+— ...co, jak państwo widzą, pokazuje, że problem konfliktów z olbrzymami w osiemnastym wieku nie wynikał wyłącznie z przemocy, ale również z niezdolności administracji do rozumienia struktur społecznych, których próbowała narzucić własne kategorie...
+
+Kilka osób w klasie wyraźnie się ożywiło, jakby sam ton kończącego zdania był zapowiedzią wybawienia.
+
+Do końca lekcji nie zostało już wiele czasu.
+
+
+
+[C1-M0733]
+===== USER =====
+
+słysząc to idrchowo schowałem szkic i ołówek do kieszeni szaty
+
+
+
+[C1-M0734]
+===== ASSISTANT =====
+
+James odruchowo zwinął szkic, schował go razem z ołówkiem do kieszeni szaty i dopiero wtedy wrócił wzrokiem ku przodowi sali.
+
+Na ławce została tylko temperówka Hermiony.
+
+Binns tymczasem kontynuował, jakby nic wokół niego nie istniało.
+
+— ...a zatem należy odróżniać polityczne decyzje Ministerstwa od późniejszej interpretacji samych wydarzeń, szczególnie w źródłach powstałych po—
+
+Dzwonek.
+
+Kilka osób natychmiast zaczęło składać pergaminy.
+
+Profesor Binns nie.
+
+— ...roku tysiąc siedemset trzydziestym pierwszym. Na następne zajęcia proszę zapoznać się z rozdziałem siedemnastym.
+
+Ron poderwał głowę.
+
+— To wszystko?
+
+Binns popatrzył na niego bez większego zainteresowania.
+
+— Tak, panie Weasley. Lekcja się zakończyła.
+
+Ron spojrzał na Harry’ego.
+
+— Chciałem tylko sprawdzić.
+
+W klasie rozległ się szmer odsuwanych krzeseł.
+
+Hermiona zaczęła układać swoje notatki w równy stos. Kiedy sięgnęła do miejsca, gdzie wcześniej leżała temperówka, jej dłoń zatrzymała się na pustym blacie.
+
+Przez sekundę wyglądała na zdezorientowaną.
+
+Potem przypomniała sobie.
+
+Odwróciła głowę lekko przez ramię w stronę Jamesa.
+
+Nie powiedziała nic. Tylko spojrzała na niego, a następnie na jego ławkę, najwyraźniej przypominając mu bez słów, że jedna z jego rzeczy wcale nie należała do niego.
+
+Theodore w tym czasie spokojnie zwijał własny pergamin.
+
+Draco już stał i zarzucał torbę na ramię, wyraźnie zdecydowany opuścić Historię Magii możliwie szybko.
+
+Temperówka Hermiony nadal leżała na ławce Jamesa.
+
+
+
+[C1-M0735]
+===== USER =====
+
+spojrzałem na temperówkę a potem wziąłem ją podszedłem do stolika Hermiony i odłożyłem ns miejsce z którego zabrałem - Dzięki...powiedziałem cicho i wróciłem na swoje miejsce i zacząłem pakować rzeczy
+
+
+
+[C1-M0736]
+===== ASSISTANT =====
+
+Hermiona spojrzała na temperówkę, gdy James odłożył ją dokładnie tam, skąd wcześniej ją zabrał.
+
+— Nie ma za co — odpowiedziała równie cicho.
+
+Na moment uniosła wzrok na Jamesa. Jej spojrzenie zatrzymało się może sekundę dłużej, po czym wróciła do swoich rzeczy.
+
+Nie zapytała, co właściwie szkicował przez większą część lekcji.
+
+James wrócił do swojej ławki, a wokół sala szybko pustoszała. Theodore zdążył już zarzucić torbę na ramię. Draco i Pansy byli przy wyjściu, Harry z Ronem również zbierali się do drzwi.
+
+Hermiona schowała temperówkę do piórnika, wsunęła do torby pergaminy i podręcznik, po czym wstała ze swojego miejsca.
+
+Profesor Binns tymczasem przepłynął w stronę tablicy, najwyraźniej już całkowicie niezainteresowany klasą, która właśnie kończyła wychodzić.
+
+James mógł spokojnie dokończyć pakowanie swoich rzeczy.
+
+
+
+[C1-M0737]
+===== USER =====
+
+gdy juz się zebrałem to w sali zostalem juz tylko ja i profesor a potem wyszedłem z klasy i skierowałem się na ostatnią lekcję
+
+
+
+[C1-M0738]
+===== ASSISTANT =====
+
+James spakował ostatnie rzeczy, zarzucił torbę na ramię i opuścił salę.
+
+Binns nie zwrócił na to większej uwagi. Już unosił się przy swoich notatkach, jakby równie dobrze mógł rozpocząć następny wykład dla pustej sali.
+
+Na korytarzu większość klasy była już daleko przed Jamesem. Został więc z tyłu i ruszył schodami w dół, a potem przez główne wyjście na błonia.
+
+Ostatnią lekcją tego dnia było Zielarstwo ze Sprout.
+
+Droga do szklarni po kilku godzinach spędzonych w kamiennych salach była wyraźną zmianą — chłodniejsze powietrze, wilgoć i zapach ziemi dochodzący już z okolic cieplarni.
+
+Gdy James dotarł na miejsce, większość czwartego roku była już przed szklarnią. Draco stał z Pansy i Theodore’em, a po drugiej stronie Harry, Ron i Hermiona czekali razem z resztą Gryfonów.
+
+Hermiona miała już książkę pod pachą i rozmawiała z Neville’em.
+
+Profesor Sprout pojawiła się chwilę później z rękawicami ogrodniczymi wetkniętymi za pas fartucha.
+
+— Dobrze, czwarty rok, do środka! I zanim ktokolwiek dotknie czegokolwiek: rękawice.
+
+W szklarni na długich stołach ustawiono po kilka dużych donic przykrytych płótnem.
+
+Sprout zamknęła drzwi za ostatnimi uczniami.
+
+— Dzisiaj zobaczymy, czy przez miesiąc nauczyliście się czegoś ważniejszego niż samo rozpoznawanie roślin.
+
+Położyła dłoń na jednym z płócien.
+
+— Czyli kiedy lepiej rośliny nie dotykać.
+
+Z kilku miejsc dobiegły ostrożne westchnienia.
+
+Sprout uśmiechnęła się szeroko.
+
+— O, nie martwcie się. Większość z was prawdopodobnie zachowa wszystkie palce.
+
+
+
+[C1-M0739]
+===== USER =====
+
+lekko się usniechnąłem na te słowa
+
+
+
+[C1-M0740]
+===== ASSISTANT =====
+
+Sprout zauważyła kilka uśmiechów w klasie, ale najwyraźniej dokładnie na taką reakcję liczyła.
+
+— To dobrze, że państwa to bawi — powiedziała pogodnie. — Zobaczymy, czy za dziesięć minut nadal będzie.
+
+Ściągnęła płótno z pierwszej donicy.
+
+Pod nim znajdowała się dość niepozorna roślina: grube, ciemnozielone liście wyrastające nisko nad ziemią i kilka zamkniętych, fioletowych pąków. Nic nie syczało, nie próbowało gryźć ani wyrywać się z doniczki.
+
+Sprout wskazała ją krótkim ruchem dłoni.
+
+— I właśnie dlatego jest przydatna na dzisiejszą lekcję. Nie wszystko, co niebezpieczne, uważa za stosowne państwa o tym uprzedzić.
+
+Podeszła do tablicy i napisała trzy hasła:
+
+WYGLĄD — REAKCJA — OTOCZENIE
+
+— Pracujecie parami. Najpierw obserwacja bez dotykania. Potem macie ustalić, czy i w jakich warunkach można bezpiecznie rozpocząć pracę z rośliną. Nie interesuje mnie dziś wyłącznie jej nazwa.
+
+Sprout wskazała pozostałe przykryte donice.
+
+— Każde stanowisko dostanie inny okaz. Niektóre są nieszkodliwe. Niektóre tylko wyglądają nieszkodliwie. A jeden z nich jest całkowicie bezpieczny, dopóki ktoś nie zrobi jednej bardzo konkretnej, bardzo głupiej rzeczy.
+
+Neville od razu spojrzał na donice z dużo większym zainteresowaniem.
+
+Ron znacznie mniejszym.
+
+— Czy dowiemy się, jaka to rzecz? — zapytał.
+
+Sprout uśmiechnęła się.
+
+— Mam nadzieję, panie Weasley, że wy mi to powiecie, zanim ją zrobicie.
+
+Zaczęła rozdzielać uczniów pomiędzy stanowiska.
+
+
+
+[C1-M0741]
+===== USER =====
+
+czekałem na swój przydział
+
+
+
+[C1-M0742]
+===== ASSISTANT =====
+
+Sprout przesuwała wzrokiem po klasie, dobierając pary bardziej pod kątem pracy niż sympatii.
+
+— Malfoy z Parkinson. Potter z Weasleyem. Granger z Nott’em...
+
+Jej palec przesunął się dalej.
+
+— Brown z Longbottomem.
+
+Neville, który właśnie zakładał grube rękawice, podniósł głowę. Nie wyglądał na niezadowolonego — przeciwnie, gdy tylko usłyszał przydział, zabrał torbę i przeszedł do wskazanego stanowiska.
+
+— Cześć — rzucił krótko do Jamesa.
+
+Sprout postawiła przed nimi szeroką donicę przykrytą grubym płótnem.
+
+— Wy dostajecie tę.
+
+Neville od razu spojrzał na materiał, jakby próbował zgadnąć zawartość jeszcze przed odsłonięciem.
+
+Sprout uniosła palec.
+
+— I przypominam: najpierw patrzycie. Ręce przy sobie, dopóki nie ustalicie, czy można ich użyć.
+
+Zdjęła płótno.
+
+W donicy znajdowała się niska roślina o szerokich, srebrzystozielonych liściach. Na ich powierzchni widoczne były drobne, błyszczące kropelki przypominające rosę, mimo że ziemia wyglądała na dość suchą.
+
+Neville pochylił się odrobinę, ale zgodnie z poleceniem niczego nie dotknął.
+
+— Hm...
+
+Przyjrzał się spodniej stronie jednego z liści.
+
+— Kojarzę ją, ale nie chcę jeszcze strzelać.
+
+Sprout już odchodziła do następnej pary.
+
+Neville zerknął na Jamesa.
+
+— Najpierw oglądamy osobno i potem porównujemy?
+
+
+
+[C1-M0743]
+===== USER =====
+
+kiwnąłem mu głową na powitanie a gdy zadał kolejne pytanie - Z tego co zaobserwowałem to twoja specjalność więc zajladam że twoje ekoertyzy będą o wiele bardziej trafne...
+
+
+
+[C1-M0744]
+===== ASSISTANT =====
+
+Neville spojrzał na Jamesa trochę zaskoczony, potem na roślinę.
+
+— W Zielarstwie… może — przyznał, bez szczególnej pewności siebie. — Ale profesor Sprout właśnie powiedziała, żeby nie zgadywać, więc lepiej i tak sprawdźmy.
+
+Pochylił się nad donicą, trzymając dłonie za plecami, żeby odruchowo niczego nie dotknąć.
+
+Najpierw obejrzał szerokie liście z góry, potem przesunął się kawałek w bok, próbując zajrzeć pod jeden z nich bez poruszania rośliną.
+
+— Te krople są dziwne.
+
+Zmrużył oczy.
+
+— Ziemia jest sucha, powietrze tutaj nie jest aż tak wilgotne, a wszystkie liście mają je prawie równomiernie. Więc to raczej nie rosa.
+
+Przysunął twarz odrobinę bliżej, ale nadal zachował dystans.
+
+— I nie widzę żadnych śladów owadów. Ani nadgryzień.
+
+Neville rozejrzał się po stole. Przy donicy leżały szczypce, mała szklana płytka, pergamin do notatek oraz dwie fiolki opisane jako woda i roztwór obojętny.
+
+— Profesor zostawiła nam rzeczy do testowania bez dotykania liści ręką.
+
+Spojrzał na błyszczące kropelki jeszcze raz.
+
+— Mój pierwszy strzał jest taki, że właśnie one są problemem. Sok albo wydzielina ochronna.
+
+Po chwili pokręcił głową.
+
+— Ale nie pamiętam tej rośliny wystarczająco dobrze, żeby powiedzieć, co robi.
+
+Wskazał szczypce.
+
+— Możemy zebrać jedną kroplę na płytkę i sprawdzić reakcję poza rośliną. To chyba najbezpieczniejszy pierwszy krok.
+
+Kawałek dalej Sprout przechodziła właśnie między stanowiskami, ale nie podpowiadała żadnej z par.
+
+Neville zerknął na Jamesa.
+
+— Chyba że zauważyłeś coś, czego ja nie widzę.
+
+
+
+[C1-M0745]
+===== USER =====
+
+ale ja byłem już w innym świecie pogrążony w obserwacjach Hermiony i czułem lekką zazdrości że to Nott zostal dobrany z nią jako para
+
+
+
+[C1-M0746]
+===== ASSISTANT =====
+
+Neville przez chwilę czekał na odpowiedź, ale szybko zorientował się, że James w ogóle nie patrzy na roślinę.
+
+Jego wzrok podążył w tym samym kierunku.
+
+Kilka stanowisk dalej Hermiona pracowała z Theodore’em. Pochylała się właśnie nad ich donicą, przyglądając się czemuś pod liściem, podczas gdy Nott stał po drugiej stronie stołu z pergaminem w dłoni.
+
+— Tutaj — powiedziała Hermiona, wskazując końcówką pióra, nie palcem. — Widzisz przebarwienie przy łodydze?
+
+Theodore pochylił się odrobinę.
+
+— Widzę.
+
+— Jeśli to reakcja na światło, powinniśmy sprawdzić stronę odwróconą od okna.
+
+Nott bez komentarza przesunął się na drugi bok donicy i porównał liście. Po paru sekundach skinął głową.
+
+— Jest różnica.
+
+Hermiona szybko coś zapisała.
+
+Nie było w ich zachowaniu nic szczególnego poza zwyczajną współpracą przy zadaniu. Theodore mówił niewiele, Hermiona prowadziła analizę bardziej szczegółowo, a oboje skupiali się na roślinie.
+
+Neville spojrzał jeszcze raz na Jamesa.
+
+— Brown?
+
+Lekko uniósł szklaną płytkę, którą wcześniej proponował.
+
+— Ta kropla raczej sama się nie zbada.
+
+Nie brzmiał urażenie. Bardziej próbował przywołać partnera z powrotem do zadania.
+
+W tej samej chwili Sprout odezwała się gdzieś dalej:
+
+— Pamiętajcie, że obserwacja otoczenia jest częścią ćwiczenia, ale dobrze byłoby od czasu do czasu obserwować również własną roślinę.
+
+Nie było jasne, czy uwaga była skierowana konkretnie do kogokolwiek.
+
+Neville natomiast nadal czekał przy ich donicy, dłonie trzymając bezpiecznie z dala od srebrzystych liści.
+
+
+
+[C1-M0747]
+===== USER =====
+
+po tych słowach wróciłem na ziemie - Tak..... kropla...trzeba sprawdzić co to.....powiedziałem i dobyłem różdżkę ale jakby sam nie wiedząc co chce zrobić
+
+
+
+[C1-M0748]
+===== ASSISTANT =====
+
+Neville zerknął na różdżkę Jamesa, potem na przygotowane przez Sprout szczypce i szklaną płytkę.
+
+— Chyba… nie potrzebujemy zaklęcia.
+
+Powiedział to ostrożnie, bez złośliwości.
+
+— Właśnie po to dała nam szczypce.
+
+Sam wziął je do ręki, ale zanim zbliżył do liścia, zatrzymał się jeszcze kilka centymetrów nad jego powierzchnią.
+
+— Jeśli to wydzielina kontaktowa, lepiej nie rozpryskiwać jej magią.
+
+Neville ustawił płytkę obok donicy i bardzo delikatnie zebrał jedną pojedynczą kroplę z końcówki liścia. Przeniósł ją na szkło.
+
+Kropla początkowo wyglądała zupełnie zwyczajnie.
+
+Po kilku sekundach jednak powierzchnia płytki bezpośrednio pod nią zaczęła lekko matowieć.
+
+Neville natychmiast odstawił szczypce.
+
+— Okej. Czyli zdecydowanie nie rosa.
+
+Nachylił się, ale zachował odległość.
+
+— Coś żrącego? Tylko bardzo słabo?
+
+Sięgnął po fiolkę oznaczoną roztwór obojętny i spojrzał na Jamesa.
+
+— Teraz jedna kropla tego i zobaczymy, czy reakcja ustanie.
+
+Kawałek dalej Hermiona i Theodore nadal pracowali przy swoim stanowisku, ale Neville już nie patrzył w tamtą stronę.
+
+— Brown?
+
+Lekko poruszył fiolką.
+
+— Tym razem jesteś ze mną?
+
+
+
+[C1-M0749]
+===== USER =====
+
+ale tym razem znowu byłem myślami i wzrokiem przy innym stanowisku
+
+
+
+[C1-M0750]
+===== ASSISTANT =====
+
+Neville urwał w połowie ruchu z fiolką.
+
+Spojrzał na Jamesa.
+
+Potem, po krótkim wahaniu, znowu podążył za jego wzrokiem.
+
+Przy stanowisku kilka miejsc dalej Hermiona i Theodore nadal analizowali własną roślinę. Hermiona trzymała teraz liść odsunięty długimi szczypcami, podczas gdy Nott porównywał przebarwienia na dwóch łodygach. Powiedział jej coś cicho; Hermiona odpowiedziała równie krótko, po czym oboje pochylili się nad tym samym fragmentem rośliny, próbując zobaczyć szczegół przy podstawie liścia.
+
+Neville popatrzył na nich przez sekundę.
+
+Potem na Jamesa.
+
+I jeszcze raz na nich.
+
+— …Aha.
+
+Nie rozwinął tego.
+
+Odstawił fiolkę na stół, najwyraźniej uznając, że na razie sam nie będzie wykonywał kolejnego testu.
+
+— Brown.
+
+Pauza.
+
+— Jeśli za chwilę profesor Sprout zapyta nas, dlaczego nasza roślina nadal jest na etapie „to chyba nie rosa”, to naprawdę nie mam dobrego wyjaśnienia.
+
+W tej samej chwili Hermiona wyprostowała się przy swoim stanowisku, coś zanotowała i przypadkiem przesunęła wzrok po szklarni.
+
+Na moment spojrzała w stronę Jamesa i Neville’a.
+
+Nie było jasne, czy zauważyła, na kogo James patrzył, czy po prostu zobaczyła, że ich para praktycznie nie posunęła się do przodu.
+
+Neville podniósł lekko fiolkę.
+
+— Mogę kontynuować sam, jeśli chcesz… ale wtedy profesor Sprout raczej zauważy, że pracuję w parze tylko formalnie.
+
+
+
+[C1-M0751]
+===== USER =====
+
+nic nie odpowiedziałem przynajmniej nie na temat - Nie uważasz że niektórym ludziom jakoś ladniej w zielonym otoczeniu...?
+
+
+
+[C1-M0752]
+===== ASSISTANT =====
+
+Neville przez chwilę patrzył na Jamesa bez słowa.
+
+Potem bardzo powoli zerknął w stronę stanowiska Hermiony.
+
+Z powrotem na Jamesa.
+
+— …Niektórym chyba tak.
+
+Kącik jego ust drgnął.
+
+— Chociaż mam wrażenie, że akurat tobie chodzi o bardzo konkretną osobę.
+
+Nie naciskał jednak ani nie próbował wyciągać z niego odpowiedzi. Po prostu spojrzał znowu na ich własną roślinę i podniósł fiolkę z roztworem obojętnym.
+
+— Ale jeśli chcesz dalej podziwiać, jak komuś ładnie wśród liści, to przynajmniej pomóż mi ustalić, czy nasze liście próbują nas rozpuścić.
+
+Na sąsiednim stanowisku Hermiona nadal była zajęta analizą swojej rośliny z Nottem i nie słyszała ich cichej rozmowy.
+
+
+
+[C1-M0753]
+===== USER =====
+
+bez słowa chycilem za pióro i szybko wpisałem co to za roślina i dlaczego
+-Mozesz jeszcze sprawdzić ale jestem pewien i tak lepiej jej nie dotykaj powiedziałem nieodrwajac wzroku od Hermiony
+
+
+
+[C1-M0754]
+===== ASSISTANT =====
+
+Neville spojrzał na pergamin, na którym James w kilka sekund zapisał nazwę rośliny i krótkie uzasadnienie swojej diagnozy.
+
+Przeczytał raz.
+
+Potem jeszcze raz, tym razem wolniej.
+
+— Serio?
+
+Zerknął na roślinę i od razu zaczął porównywać wskazane cechy: srebrzystą powierzchnię liści, równomiernie pojawiającą się wydzielinę, suchą ziemię oraz matowienie szkła pod kroplą.
+
+— ...To właściwie pasuje.
+
+Nie potraktował jednak zapewnienia Jamesa jako końca zadania. Wpuścił jedną kroplę roztworu obojętnego na próbkę znajdującą się na płytce.
+
+Reakcja ustała niemal natychmiast. Mętna plamka przestała się rozszerzać.
+
+Neville przyjrzał się temu z bliska.
+
+— Dobra. Kwaśna wydzielina obronna. I jeśli twoje wyjaśnienie tutaj jest poprawne, największy problem nie polega nawet na samym oparzeniu, tylko na tym, że potarcie liścia zwiększa jej wydzielanie.
+
+Spojrzał na dłonie w rękawicach i zdecydowanie nie zbliżał ich do rośliny.
+
+— Więc tak. Nie dotykamy.
+
+Przeniósł wzrok na Jamesa.
+
+James nadal patrzył gdzie indziej.
+
+Neville podążył za jego spojrzeniem już niemal automatycznie.
+
+Hermiona stała naprzeciw Theodore’a, z jedną dłonią opartą o krawędź stołu. Nott właśnie coś zapisywał, a ona pochylała się nad rośliną, porównując dwa liście pod różnymi kątami. Po chwili poprawiła włosy, które zsunęły jej się do przodu, i powiedziała coś Theodore’owi, czego z tej odległości nie dało się usłyszeć.
+
+Neville wrócił do własnego pergaminu.
+
+— Wiesz...
+
+Zaczął dopisywać wynik testu pod diagnozą Jamesa.
+
+— To trochę niesprawiedliwe, że potrafisz rozpoznać roślinę, praktycznie na nią nie patrząc.
+
+Nie było w tym pretensji. Raczej szczere zdziwienie.
+
+Kilka sekund później profesor Sprout znalazła się przy ich stanowisku. Najpierw obejrzała nienaruszoną roślinę, potem szklaną płytkę, a na końcu pergamin.
+
+Jej palec zatrzymał się przy zapisanej diagnozie.
+
+— Tak.
+
+Skinęła głową.
+
+— Identyfikacja poprawna. I bardzo dobrze, że nie próbowaliście sprawdzać jej przez dotyk. Wydzielina jest drażniąca już przy małej ilości, a mechaniczne podrażnienie liścia tylko zwiększa jej produkcję.
+
+Sprout spojrzała na Neville’a.
+
+— Dobry test kontrolny.
+
+Potem na Jamesa, którego uwaga nadal nie była szczególnie przywiązana do donicy.
+
+— A pan, panie Brown, najwyraźniej ma dziś wyjątkowo szerokie pole obserwacji.
+
+Nie czekała na wyjaśnienie. Po prostu ruszyła do następnej pary.
+
+Neville popatrzył za nią, potem na Jamesa.
+
+— Myślę, że zauważyła.
+
+I wrócił do notatek.
+
+
+
+[C1-M0755]
+===== USER =====
+
+-widzialem ta roślinę wielkorotrnie w dzieciństwie dlatego wystrcxyla mi tylko chwila....odpowiedziałem mu a potem na mojej twarzy pojawił się uśmiech bo Hermiona znowu przybrała skupiony wyraz twarzy
+
+
+
+[C1-M0756]
+===== ASSISTANT =====
+
+Neville skinął głową, przyjmując wyjaśnienie bez dalszego drążenia.
+
+— To wiele tłumaczy.
+
+Spojrzał jeszcze raz na roślinę, jakby próbował zapamiętać ją właśnie przez zestaw cech, które James rozpoznał odruchowo.
+
+Przy stanowisku obok Hermiona znów całkowicie skupiła się na zadaniu. Brwi miała lekko ściągnięte, pióro przesuwało się szybko po pergaminie, a kiedy Theodore coś wskazał przy łodydze, od razu pochyliła się niżej, żeby sprawdzić szczegół z drugiej strony.
+
+Na twarzy Jamesa pojawił się uśmiech.
+
+Neville to zauważył.
+
+Nie powiedział od razu nic. Dopisał tylko ostatnią linijkę do ich notatek, odłożył pióro i po chwili mruknął:
+
+— Mhm.
+
+Krótka pauza.
+
+— Zdecydowanie bardzo konkretna osoba.
+
+Nie zabrzmiało to złośliwie. Raczej jak spokojne potwierdzenie własnej wcześniejszej obserwacji.
+
+Sprout tymczasem klasnęła w dłonie, zwracając uwagę całej szklarni.
+
+— Dobrze! Kto skończył diagnozę, niech zostawi roślinę dokładnie tak, jak ją zastał. Za chwilę zamienicie się stanowiskami i sprawdzimy, czy potraficie zastosować tę samą ostrożność przy czymś, czego jeszcze nie widzieliście.
+
+Neville zerknął na ich pergamin.
+
+— My jesteśmy gotowi.
+
+Ich srebrzystozielona roślina nadal pozostawała nietknięta w donicy.
+
+
+
+[C1-M0757]
+===== USER =====
+
+automatycznie kiwnąłem głową potwierdzając te słowa
+
+
+
+[C1-M0758]
+===== ASSISTANT =====
+
+Neville zauważył automatyczne skinienie i tylko lekko się uśmiechnął, jakby uznał, że dalsze komentowanie nie jest potrzebne.
+
+— Dobra.
+
+Sprout klasnęła ponownie.
+
+— Zmiana stanowisk! Pary zostają te same. Przesuwacie się o jedno miejsce w prawo. Niczego nie dotykacie, dopóki nie obejrzycie nowego okazu.
+
+Neville zabrał ich pergamin i razem z Jamesem przesunął się do kolejnej donicy.
+
+Tym razem pod płótnem znajdowała się roślina zupełnie inna od poprzedniej: kilka cienkich, czerwono-brązowych łodyg zakończonych szerokimi liśćmi, które wyglądały niemal jak złożone dłonie. Co kilka sekund jeden z liści lekko się poruszał, choć w szklarni nie było przeciągu.
+
+Neville zatrzymał się pół kroku od stołu.
+
+— Okej. Ta przynajmniej od razu wygląda podejrzanie.
+
+Nie sięgnął po nic.
+
+Kilka stanowisk dalej Hermiona i Theodore również właśnie zmieniali miejsce. Przez chwilę Hermiona znalazła się nawet bardziej bokiem względem Jamesa niż wcześniej, ale od razu skupiła się na nowej roślinie.
+
+Sprout przechodziła środkiem szklarni.
+
+— Pamiętajcie: ruch nie zawsze oznacza agresję, a bezruch nie zawsze oznacza bezpieczeństwo!
+
+Neville przyjrzał się liściom.
+
+— Najpierw obserwacja. Tym razem naprawdę obaj.
+
+Zerknął krótko na Jamesa.
+
+
+
+[C1-M0759]
+===== USER =====
+
+pokiwałemn głową spojrzałem na roślinę i zmarszczyłem brwi
+
+
+
+[C1-M0760]
+===== ASSISTANT =====
+
+Nowa roślina rzeczywiście dawała więcej powodów do ostrożności.
+
+Cienkie czerwono-brązowe łodygi nie poruszały się, ale szerokie liście co kilka sekund lekko się składały i rozprostowywały, jakby reagowały na coś niewidocznego. Nie wyglądało to jednak na przypadkowe szarpnięcia.
+
+Neville też to zauważył.
+
+— Patrz na kolejność.
+
+Nie zbliżając rąk, wskazał brodą najbliższe liście.
+
+Najpierw poruszał się jeden.
+
+Po chwili drugi.
+
+Potem trzeci, nieco dalej.
+
+Ruch przechodził przez roślinę jak powolna fala.
+
+Neville przesunął się o krok w bok.
+
+— Nie reaguje chyba na nas. Przynajmniej nie bezpośrednio.
+
+Wtedy jeden z liści po stronie bliższej oknu złożył się wyraźniej niż pozostałe.
+
+Neville spojrzał w tamtą stronę.
+
+— Światło?
+
+Przesunął dłoń wysoko nad rośliną, na tyle daleko, żeby jej nie dotknąć, ale tak, by na moment rzucić cień na część liści.
+
+Reakcja była niemal natychmiastowa.
+
+Dwa liście znajdujące się w cieniu powoli się zamknęły.
+
+Neville cofnął rękę.
+
+Po kilku sekundach znów się otworzyły.
+
+— Dobra. To mamy pierwszą rzecz.
+
+Spojrzał na Jamesa.
+
+— Reaguje na zmianę światła.
+
+Na stole obok donicy leżały tym razem: małe lusterko, kawałek ciemnego materiału, drewniany patyczek i jedna fiolka z wodą.
+
+Neville zerknął na zestaw.
+
+— Sprout chyba chce, żebyśmy sprawdzili, czy ruch jest tylko reakcją na światło, czy czymś więcej.
+
+Przy ich roślinie jeden z liści nagle złożył się mocniej niż wcześniej.
+
+Neville zmarszczył brwi.
+
+— Tylko pytanie, co się stanie, jeśli przesadzimy z bodźcem.
+
+
+
+[C1-M0761]
+===== USER =====
+
+znów wziąłem peragmin i zapsalem kilka rzeczy a potem obróciłem - Wybacz tu odpowiedź jak chcesz sie nadal "bawić" to śmiało ale jak coś to no wiesz powiedziałem a potem moj wzrok znowu skupił się na Hermionie i tym razem na moje twarzy pojawił sie głupkowaty uśmiech
+
+
+
+[C1-M0762]
+===== ASSISTANT =====
+
+Neville wziął pergamin i przeczytał zapisane przez Jamesa uwagi.
+
+Najpierw zerknął na nazwę rośliny, potem na krótkie wyjaśnienie reakcji liści na zmianę natężenia światła i ostrzeżenie dotyczące zbyt gwałtownego zacienienia całego okazu.
+
+— Czyli znowu znasz odpowiedź…
+
+Spojrzał na roślinę, potem na przygotowane przez Sprout lusterko i materiał.
+
+— Ale skoro mamy czas, to sprawdzę. Wolę zapamiętać, dlaczego to działa, niż tylko przepisać nazwę.
+
+Rozłożył ciemny materiał tak, by stopniowo zasłonić część rośliny. Liście zaczęły zamykać się jeden po drugim, dokładnie w kierunku przesuwającego się cienia.
+
+Neville obserwował to z wyraźnym zainteresowaniem.
+
+— Okej… i jeśli zasłonię tylko jedną stronę…
+
+Przesunął materiał.
+
+Roślina zareagowała asymetrycznie, a nie jak jeden organizm zamykający wszystkie liście naraz.
+
+— Dobra. Teraz to ma sens.
+
+Dopisał własne obserwacje obok odpowiedzi Jamesa.
+
+Po chwili zerknął na partnera.
+
+I zobaczył ten uśmiech.
+
+Nie musiał nawet sprawdzać kierunku spojrzenia. Zrobił to jednak odruchowo.
+
+Hermiona była pochylona nad swoim stanowiskiem. Theodore trzymał lusterko pod kątem, podczas gdy ona obserwowała spodnią stronę jednego z liści i coś szybko zapisywała. W pewnej chwili przesunęła włosy za ramię, żeby nie opadały jej nad donicą.
+
+Neville powoli wrócił wzrokiem do Jamesa.
+
+Ten głupkowaty uśmiech nadal tam był.
+
+— Okej…
+
+Krótka pauza.
+
+— Teraz już nawet nie próbujesz udawać, że patrzysz na rośliny.
+
+Nie powiedział tego głośno; ledwie na tyle, żeby James mógł usłyszeć.
+
+Potem wrócił do własnego eksperymentu, zostawiając temat w spokoju.
+
+Hermiona natomiast nadal była całkowicie pochłonięta zadaniem i na razie nie patrzyła w ich stronę.
+
+
+
+[C1-M0763]
+===== USER =====
+
+-hmm przechyłem lekko głowę w bok moze masz rację...sama obserwacja nie wystrcza... Trzbea jeszcze sprawdzić ale to z kolei moze być niebezpieczne chociaż wyglada na niegroźne....ale z drugiej strony....
+
+
+
+[C1-M0764]
+===== ASSISTANT =====
+
+Neville zatrzymał pióro w połowie ruchu.
+
+Najpierw spojrzał na roślinę.
+
+Potem na Jamesa.
+
+Następnie, bardzo powoli, podążył za jego wzrokiem aż do stanowiska Hermiony i Theodore’a.
+
+Jego brwi uniosły się odrobinę.
+
+— …Mówisz jeszcze o roślinie, prawda?
+
+Przez moment naprawdę nie było jasne, czy pyta całkiem serio.
+
+Neville zerknął z powrotem na czerwono-brązowe łodygi i wziął ze stołu drewniany patyczek.
+
+— Bo jeśli tak, to możemy ją sprawdzić bez wkładania palców między liście. Wywołać reakcję z dystansu i zobaczyć, czy reaguje tylko na cień, czy również na zbliżający się obiekt.
+
+Zawiesił patyczek kilka centymetrów nad jednym z liści, ale jeszcze go nie opuszczał.
+
+Potem znowu rzucił Jamesowi krótkie spojrzenie.
+
+— Jeśli natomiast nie mówiłeś już o roślinie…
+
+Kącik jego ust drgnął.
+
+— …to w tym eksperymencie raczej ci nie pomogę.
+
+Przy stanowisku kilka miejsc dalej Hermiona nadal niczego z tej rozmowy nie słyszała; była pochylona nad swoim pergaminem, podczas gdy Theodore spokojnie ustawiał lusterko przy ich donicy.
+
+
+
+[C1-M0765]
+===== USER =====
+
+spojrzałem na niego - Tak o .........roślinie...... Wziąłem pergamin i zapisałem jeszcze raz to samo jakby z jakiegoś powodu zapominając że już to zrobiłem- tu odpowiedź...
+
+
+
+[C1-M0766]
+===== ASSISTANT =====
+
+Neville spojrzał na pergamin.
+
+Potem na wcześniejsze notatki.
+
+I znowu na świeżo zapisany fragment.
+
+Przez chwilę nic nie mówił.
+
+— Brown…
+
+Przesunął palcem kilka centymetrów wyżej.
+
+— To już tutaj napisałeś.
+
+Krótka pauza.
+
+— Prawie słowo w słowo.
+
+Neville uniósł wzrok na Jamesa, a potem odruchowo zerknął w stronę stanowiska Hermiony.
+
+Wrócił spojrzeniem.
+
+— Wiesz co? Chyba naprawdę lepiej, żebym ja dzisiaj prowadził część eksperymentalną.
+
+Nie brzmiał złośliwie. Bardziej jak ktoś, kto właśnie pogodził się z faktem, że jego partner jest fizycznie przy donicy, ale uwagą zdecydowanie mniej.
+
+Złożył pergamin tak, żeby oba niemal identyczne fragmenty znalazły się obok siebie.
+
+— Ale potwierdzę odpowiedź. Skoro profesor Sprout przygotowała nam patyczek, raczej właśnie po to, żeby sprawdzić reakcję bez dotykania.
+
+Powoli zbliżył drewniany patyczek do jednego z otwartych liści.
+
+Jeszcze zanim go dotknął, liść gwałtownie się zamknął.
+
+Neville zatrzymał rękę.
+
+— O.
+
+Przesunął patyczek w bok.
+
+Sąsiedni liść również złożył się, tym razem zanim przedmiot znalazł się naprawdę blisko.
+
+Neville zmarszczył brwi.
+
+— Czyli nie tylko światło. Reaguje też na ruch w bezpośrednim otoczeniu.
+
+Dopisał wynik pod notatkami.
+
+— I dobrze, że nie sprawdzaliśmy palcem.
+
+Po chwili spojrzał na dwa identyczne zapisy Jamesa i parsknął cicho.
+
+— Przynajmniej jeśli zapomnimy odpowiedzi, mamy ją dwa razy.
+
+
+
+[C1-M0767]
+===== USER =====
+
+-hmm przechyłem lekko głowę w bok* moze masz rację...sama obserwacja nie wystrcza... Trzbea jeszcze sprawdzić ale to z kolei moze być niebezpieczne chociaż wyglada na niegroźne....ale z drugiej strony....powtórzyłem to co dosłownie chwilę temu
+
+
+
+[C1-M0768]
+===== ASSISTANT =====
+
+Neville znieruchomiał z piórem nad pergaminem.
+
+Spojrzał na Jamesa.
+
+Potem na zapis, który przed chwilą pokazał mu dokładnie tę samą myśl.
+
+I znowu na Jamesa.
+
+— ...Powiedziałeś to już.
+
+Nie brzmiał rozbawienie. Tym razem bardziej zdziwienie.
+
+— Dosłownie przed chwilą.
+
+Neville zmarszczył lekko brwi, jakby przez moment próbował ustalić, czy James sobie z niego żartuje.
+
+— I nawet prawie tymi samymi słowami.
+
+Jego wzrok odruchowo przesunął się w stronę Hermiony, potem wrócił.
+
+— Brown, ty w ogóle wiesz, co teraz do mnie mówisz?
+
+Nie czekał jednak z testem. Ustawił patyczek bezpiecznie z boku rośliny i jeszcze raz sprawdził reakcję liści na zbliżający się przedmiot.
+
+— Bo jeśli mam być szczery, to zaczynam mieć wrażenie, że połowa ciebie stoi tutaj, a druga połowa jest trzy stanowiska dalej.
+
+Przy stanowisku Hermiony Theodore coś właśnie dopisywał, a ona pochylała się nad liściem, nadal skupiona na zadaniu i nieświadoma tej rozmowy.
+
+
+
+[C1-M0769]
+===== USER =====
+
+spojrzałem na niego i zacząłem po raz trzeci pisać odpowiedź ale nagle przerwałem - o... poradziłeś już sobie i nawet to napisałeś dwa razy... nieźle mówiłem ze to twoja specjalizacja....
+
+
+
+[C1-M0770]
+===== ASSISTANT =====
+
+Neville spojrzał na trzeci, niedokończony zapis, potem na dwa wcześniejsze fragmenty i w końcu na Jamesa.
+
+— Brown... to ty napisałeś to dwa razy.
+
+Wskazał kolejno oba niemal identyczne akapity.
+
+— Ja dopisałem tylko wynik testu.
+
+Przez moment próbował zachować poważną minę, ale ostatecznie parsknął cicho i pokręcił głową.
+
+— Ale dzięki. Chyba.
+
+Odłożył pióro i jeszcze raz przyjrzał się roślinie. Liście po chwili spokoju ponownie zaczęły się powoli rozwierać.
+
+— I tak, z tym sobie poradziliśmy. Reakcja na światło, reakcja na zbliżający się obiekt, a dotykanie bez potrzeby byłoby głupim pomysłem.
+
+Zerknął na Jamesa.
+
+— Tylko zaczynam podejrzewać, że gdyby profesor Sprout postawiła Hermionę w doniczce, pierwszy raz od początku tej rundy patrzyłbyś na właściwe stanowisko.
+
+Neville powiedział to bardzo cicho, wyłącznie do Jamesa, po czym natychmiast pochylił się nad pergaminem, jakby absolutnie niczego nie powiedział.
+
+
+
+[C1-M0771]
+===== USER =====
+
+po tych słowach spoważniałem i rzuciłem mu zabójcze spojrzenie
+
+
+
+[C1-M0772]
+===== ASSISTANT =====
+
+Neville’owi uśmiech zniknął z twarzy niemal natychmiast.
+
+Uniósł lekko obie dłonie, nadal trzymając pióro w jednej z nich.
+
+— Dobra. Już nic nie mówię.
+
+Nie brzmiał przestraszenie, raczej jak ktoś, kto bardzo szybko zrozumiał, że trafił w temat, z którego nie należało żartować.
+
+Odwrócił wzrok i wrócił do pergaminu.
+
+Przez kilka sekund między nimi panowała cisza, przerywana tylko szelestem liści i głosami innych par.
+
+Neville dopisał ostatnią uwagę do obserwacji rośliny, po czym mruknął już całkowicie neutralnie:
+
+— Mamy chyba wszystko do tej rundy.
+
+I tym razem naprawdę zostawił temat Hermiony w spokoju.
+
+
+
+[C1-M0773]
+===== USER =====
+
+Najwyraźniej....powiedziałem cicho ale nadla ostro
+
+
+
+[C1-M0774]
+===== ASSISTANT =====
+
+Neville tylko skinął głową.
+
+— Mhm.
+
+Tym razem nie próbował już rozładowywać sytuacji żartem. Zwinął lekko pergamin, odsunął patyczek od rośliny i sprawdził jeszcze raz, czy niczego przypadkiem nie przesunęli.
+
+Przez chwilę pracowali w ciszy.
+
+Liście czerwono-brązowej rośliny stopniowo ponownie się rozwarły, gdy przestały docierać do nich bodźce. Neville zapisał jeszcze jedną krótką uwagę przy wyniku testu, po czym odłożył pióro.
+
+Sprout właśnie zbliżała się do ich stanowiska.
+
+— Jak wam idzie?
+
+Neville przesunął pergamin trochę bliżej niej.
+
+— Reaguje na zmianę światła, ale także na zbliżający się obiekt. Nie trzeba jej dotknąć, żeby liście się zamknęły. Uznaliśmy, że bez potrzeby lepiej nie testować kontaktu.
+
+Sprout przeczytała zapis, przyjrzała się roślinie i skinęła głową.
+
+— Dobrze. Właśnie o to chodziło. Reakcja ostrzegawcza pojawia się wcześniej niż kontakt, więc ktoś uważny ma szansę wycofać rękę.
+
+Jej spojrzenie przesunęło się po obu uczniach.
+
+— I widzę, że tym razem wykonaliście również test, zamiast poprzestać na samej identyfikacji.
+
+Neville zerknął krótko na Jamesa, ale niczego nie skomentował.
+
+Sprout ruszyła dalej.
+
+Kilka minut później klasnęła w dłonie.
+
+— Dobrze, zostawiamy rośliny. Na dziś wystarczy.
+
+W szklarni natychmiast zrobiło się głośniej. Uczniowie zaczęli odkładać narzędzia, zdejmować rękawice i pakować pergaminy.
+
+Hermiona i Theodore również kończyli pracę przy swoim stanowisku. Theodore złożył notatki, a Hermiona upewniła się jeszcze, że lusterko i szczypce wróciły na miejsce.
+
+Ostatnia lekcja dnia dobiegała końca.
+
+
+
+[C1-M0775]
+===== USER =====
+
+szybko spakowałem rzeczy a potem spojrzałem na Neville'a jakby zapominając o piprzedmiej wymianie zdań - Ale szybko minęła ta lekcja, a tak ns marginesie Nie uważasz że niektórym ludziom jakoś ladniej w zielonym otoczeniu...?
+
+
+
+[C1-M0776]
+===== ASSISTANT =====
+
+Neville, który właśnie wkładał pergamin do torby, zatrzymał się w połowie ruchu.
+
+Spojrzał na Jamesa.
+
+Potem bardzo powoli w stronę Hermiony.
+
+I znowu na Jamesa.
+
+— …Ty już to mówiłeś.
+
+Przez moment jego twarz była całkowicie poważna.
+
+— Dokładnie to samo.
+
+Nie brzmiał złośliwie. Bardziej jak ktoś, kto właśnie dostał drugi raz ten sam dowód i nie bardzo wie, co z nim zrobić.
+
+Neville zarzucił torbę na ramię.
+
+— Ale tak. Nadal uważam, że niektórym ludziom chyba ładniej w zielonym otoczeniu.
+
+Krótka pauza.
+
+— I nadal mam wrażenie, że nie mówisz o ludziach w liczbie mnogiej.
+
+Tym razem jednak nie dodał żadnego żartu. Poprzednie spojrzenie Jamesa najwyraźniej zapamiętał.
+
+Kilka stanowisk dalej Hermiona właśnie kończyła pakowanie rzeczy. Theodore odłożył ostatnie narzędzie na miejsce i bez zbędnej rozmowy ruszył w stronę wyjścia.
+
+Neville spojrzał jeszcze raz na Jamesa.
+
+— Chodź. Sprout zaraz nas zamknie tu z doniczkami.
+
+Sam skierował się ku drzwiom szklarni.
+
+
+
+[C1-M0777]
+===== USER =====
+
+Serio? Dziwne...i rzeczywiście ruszyłem za nim
+
+
+
+[C1-M0778]
+===== ASSISTANT =====
+
+Neville zerknął na Jamesa przez ramię, kiedy wyszli ze szklarni.
+
+— Trochę — przyznał. — Zwłaszcza że powtórzyłeś dziś kilka rzeczy prawie identycznie.
+
+Nie powiedział tego oskarżycielsko. Raczej nadal próbował sam sobie poukładać, czy James po prostu był wyjątkowo rozkojarzony.
+
+— Może po prostu naprawdę nie słuchałeś połowy tego, co mówiłeś.
+
+Na zewnątrz uderzyło w nich chłodniejsze, świeższe powietrze. Za plecami kolejni uczniowie opuszczali szklarnię, a Sprout sprawdzała jeszcze stanowiska przed zamknięciem drzwi.
+
+Theodore był już kawałek dalej. Draco i Pansy ruszali razem w stronę zamku. Harry i Ron szli kilka metrów przed Neville’em.
+
+Hermiona wyszła chwilę później.
+
+Miała torbę przewieszoną przez ramię i przez moment rozmawiała jeszcze ze Sprout przy drzwiach, najwyraźniej dopytując o jeden z okazów użytych na lekcji. Dopiero później dołączyła do Harry’ego i Rona.
+
+Neville spojrzał w tamtą stronę.
+
+Potem krótko na Jamesa.
+
+Tym razem niczego nie skomentował.
+
+— W każdym razie koniec lekcji — powiedział. — I chyba pierwszy raz dzisiaj mam wrażenie, że naprawdę szybko minęła.
+
+Ruszyli razem ścieżką prowadzącą ku zamkowi.
+
+Po chwili Neville odbił nieco szybciej w stronę Harry’ego, Rona i Hermiony, zostawiając Jamesowi własne tempo.
+
+Przed nimi otwierało się już wejście do Hogwartu.
+
+Ostatnia lekcja tego dnia była skończona.
+
+
+
+[C1-M0779]
+===== USER =====
+
+na chwilę się zatrzymałem a potem bez większego namysłu udałem sie do pokoju wspólnego Slytherin'u
+
+
+
+[C1-M0780]
+===== ASSISTANT =====
+
+James zatrzymał się tylko na moment przy ścieżce, po czym zamiast iść za resztą uczniów w stronę Wielkiej Sali czy gdziekolwiek indziej, skierował się prosto do lochów.
+
+Po całym dniu korytarze wydawały się wyraźnie spokojniejsze. Część uczniów nadal krążyła między dziedzińcem a biblioteką, inni już znikali w swoich wieżach i pokojach wspólnych.
+
+Droga do Slytherinu zajęła kilka minut.
+
+Po podaniu hasła kamienna ściana odsunęła się i James wszedł do pokoju wspólnego.
+
+Zielonkawe światło wpadające przez okna pod powierzchnią jeziora odbijało się na kamiennych ścianach. W kominku palił się ogień, choć nie dawał szczególnie dużo światła.
+
+Nie było jeszcze tłoczno.
+
+Kilku młodszych uczniów siedziało przy jednym ze stołów nad pracą domową. Dwóch starszych rozmawiało cicho przy kominku.
+
+Theodore był już tutaj.
+
+Siedział w jednym z foteli z książką opartą o kolano. Kiedy James wszedł, uniósł na moment wzrok.
+
+— Brown.
+
+Krótki gest głową na powitanie.
+
+Potem wrócił do książki.
+
+Draco i Pansy jeszcze się nie pojawili.
+
+James miał więc na razie stosunkowo spokojny pokój wspólny, własny dormitorium kawałek dalej… i w kieszeni szaty nadal znajdował się dzisiejszy szkic Hermiony.
+
+
+
+[C1-M0781]
+===== USER =====
+
+też kiwnąlem mu głową a potem usiadłem w fotelu trochę obok i wyjąłem z kieszeni pierwszy z pogiętych pergaminów z dzisiejszego poranka
+
+
+
+[C1-M0782]
+===== ASSISTANT =====
+
+James usiadł w fotelu nieco z boku i wyciągnął z kieszeni pierwszy z porannych, pogiętych pergaminów.
+
+Papier był mocno pognieciony od wcześniejszego zgniecenia. Po rozprostowaniu nadal pełen był załamań, a ołówek miejscami rozmazał się od tarcia.
+
+To był pierwszy szkic Hermiony z biblioteki.
+
+Znacznie słabszy od tego z Historii Magii. Proporcje twarzy były trochę zbyt ostre, linia włosów nie układała się tak, jak powinna, a jeden z cieni przy policzku sprawiał, że całość wyglądała bardziej sztywno niż prawdziwa Hermiona.
+
+Theodore siedział kilka foteli dalej.
+
+Uniósł wzrok znad książki, gdy usłyszał szelest rozprostowywanego pergaminu, ale z jego miejsca widział przede wszystkim tył kartki i ruch dłoni Jamesa.
+
+Nie pytał.
+
+Po chwili wrócił do czytania.
+
+W pokoju wspólnym nadal było względnie spokojnie, więc James mógł bez przeszkód przyjrzeć się swojej porannej próbie i porównać ją w pamięci z dużo bardziej dopracowanym szkicem schowanym w innej kieszeni szaty.
+
+
+
+[C1-M0783]
+===== USER =====
+
+wziąłem do drugiej ręki różdżkę a potem wyszeptałem zaklecie a pergamin zmienił się w ogień i całkowicie zniknął
+
+
+
+[C1-M0784]
+===== ASSISTANT =====
+
+Pergamin zajął się ogniem niemal od razu.
+
+Płomień przeszedł po zagięciach papieru szybko i czysto. Najpierw sczerniały krawędzie, potem rysunek zaczął znikać fragment po fragmencie, aż po kilku sekundach nie zostało z niego nic poza drobną smugą popiołu, która również rozsypała się i zgasła.
+
+Theodore uniósł wzrok znad książki dopiero na widok krótkiego błysku ognia.
+
+Spojrzał na pustą dłoń Jamesa.
+
+Potem na różdżkę.
+
+— Porządki?
+
+Nie czekał jednak zbyt długo na odpowiedź. Jeśli James nie zamierzał rozwijać tematu, Theodore najwyraźniej również nie miał potrzeby go drążyć.
+
+W pokoju wspólnym wszystko szybko wróciło do wcześniejszego spokoju.
+
+Pierwszego porannego szkicu już nie było.
+
+W kieszeni Jamesa pozostawał jeszcze drugi zgnieciony szkic z biblioteki oraz znacznie bardziej dopracowany rysunek z Historii Magii.
+
+
+
+[C1-M0785]
+===== USER =====
+
+Ta....później tą samą procedurę powtórzyłem z drugim z porannych szkiców
+
+
+
+[C1-M0786]
+===== ASSISTANT =====
+
+Drugi pogięty pergamin podzielił los pierwszego.
+
+Krótka inkantacja.
+
+Papier zapalił się od jednego rogu, płomień szybko przeszedł przez szkic i po kilku sekundach pochłonął całą kartkę. Tym razem James nie musiał nawet poprawiać zaklęcia — resztki pergaminu zwęgliły się, skruszyły i zniknęły.
+
+Theodore ponownie uniósł wzrok znad książki.
+
+— Gruntowne porządki.
+
+Powiedział to spokojnie, bez próby zaglądania Jamesowi przez ramię czy ustalania, co właściwie pali.
+
+Po chwili przewrócił stronę i wrócił do czytania.
+
+Oba szkice z porannej biblioteki przestały istnieć.
+
+Z trzech wykonanych dziś prób została już tylko jedna — ta z Historii Magii, znacznie bardziej dopracowana, schowana bezpiecznie w kieszeni szaty razem z ołówkiem.
+
+Pokój wspólny nadal pozostawał dość cichy. Ogień w kominku trzaskał jednostajnie, młodsi uczniowie przy stole szeptali między sobą nad pracą domową, a za grubymi szybami przesuwały się od czasu do czasu niewyraźne cienie czegoś pływającego w jeziorze.
+
+
+
+[C1-M0787]
+===== USER =====
+
+wyjalem ostatni ze szkiców i zacząłem się mu przyglądać a na moje twarzy pojawił się uśmiech
+
+
+
+[C1-M0788]
+===== ASSISTANT =====
+
+Ostatni pergamin był wyraźnie inny od dwóch poprzednich.
+
+Niepognieciony tak mocno, prowadzony pewniejszą ręką, z większą ilością detali. Profil Hermiony był na nim uchwycony znacznie lepiej — linia nosa, włosy opadające przy policzku, ramię, fragment szaty… i ten subtelny uśmiech, który udało się złapać podczas Historii Magii. Nie wyglądało to już jak szybka próba. Raczej jak coś, nad czym naprawdę spędziło się czas.
+
+Uśmiech na twarzy Jamesa nie umknął Theodore’owi.
+
+Nott podniósł wzrok znad książki i przez chwilę przyglądał się mu bez słowa.
+
+— Widzę, że przynajmniej jeden z tych „porządków” uznałeś za warty ocalenia.
+
+Nie było w tym złośliwości. Raczej spokojna obserwacja.
+
+Przy wejściu do pokoju wspólnego rozległ się właśnie cichszy szmer odsuwającego się przejścia. Do środka weszli Draco i Pansy, rozmawiając półgłosem o czymś, co najwyraźniej zaczęło się jeszcze na korytarzu. Oboje ledwie rzucili okiem po pokoju wspólnym i skierowali się dalej.
+
+Theodore przewrócił stronę książki.
+
+— Ten też spalisz? — zapytał już całkiem neutralnie.
+
+W kominku ogień trzaskał spokojnie, a zielonkawe światło jeziora przesuwało się po kamiennych ścianach pokoju wspólnego.
+
+
+
+[C1-M0789]
+===== USER =====
+
+Nie wiem....powiedziałem trochę nieobecny
+
+
+
+[C1-M0790]
+===== ASSISTANT =====
+
+Theodore uniósł na moment wzrok znad książki, słysząc nieobecny ton Jamesa.
+
+Nie odpowiedział od razu.
+
+— Mhm.
+
+I na tym poprzestał.
+
+Nie próbował zaglądać w pergamin ani dopytywać, dlaczego dwa poprzednie skończyły w ogniu, a ten wciąż pozostawał w dłoniach Jamesa. Po prostu ponownie opuścił wzrok na książkę.
+
+W pokoju wspólnym zrobiło się odrobinę głośniej. Draco usiadł kawałek dalej z Pansy, kilku młodszych Ślizgonów zaczęło zbierać rzeczy ze stołu, a zza szyb dobiegł głuchy szum wody przesuwającej się gdzieś po drugiej stronie jeziora.
+
+Pergamin pozostał w rękach Jamesa.
+
+Rysunek Hermiony wciąż tam był — dopracowany profil, włosy, szkolna szata i ten krótki uśmiech uchwycony podczas Historii Magii.
+
+Ogień w kominku trzaskał kilka metrów dalej.
+
+Wystarczyłoby jedno zaklęcie, żeby trzeci szkic skończył tak samo jak dwa poprzednie.
+
+Na razie jednak nic się z nim nie działo.
+
+
+
+[C1-M0791]
+===== USER =====
+
+przevhyliłem lekko głowę a na moje twarzy pojawił się ten glupi uśmiech i nawet lekki rumieniec
+
+
+
+[C1-M0792]
+===== ASSISTANT =====
+
+Theodore podniósł wzrok znad książki jeszcze raz.
+
+Tym razem zatrzymał go na Jamesie trochę dłużej.
+
+Najpierw na lekkim przechyleniu głowy.
+
+Potem na uśmiechu.
+
+Wreszcie na delikatnym rumieńcu, który pojawił się na jego twarzy podczas wpatrywania się w pergamin.
+
+Nott nie próbował zaglądać na rysunek.
+
+— Hm.
+
+Zamknął książkę na palcu, zaznaczając stronę.
+
+— To chyba jednak nie wygląda jak coś, co zamierzasz spalić.
+
+Powiedział to spokojnie, bez uśmiechu i bez dalszych pytań.
+
+Draco siedzący kawałek dalej był zajęty rozmową z Pansy i najwyraźniej nie zwracał na nich większej uwagi.
+
+Theodore natomiast jeszcze przez sekundę patrzył na Jamesa, jakby coś sobie układał, ale ostatecznie wrócił do książki.
+
+— Przynajmniej nie teraz.
+
+Pergamin nadal pozostawał w dłoniach Jamesa.
+
+
+
+[C1-M0793]
+===== USER =====
+
+nie odpowiedziałem będąc w innym świecie
+
+
+
+[C1-M0794]
+===== ASSISTANT =====
+
+Theodore odczekał chwilę, ale kiedy stało się jasne, że odpowiedzi nie będzie, przestał próbować.
+
+Otworzył książkę na zaznaczonej stronie i wrócił do czytania.
+
+Przez następne minuty nikt Jamesowi nie przeszkadzał.
+
+Pokój wspólny żył własnym rytmem — przy jednym ze stołów ktoś rozkładał pergaminy do pracy domowej, Draco z Pansy nadal rozmawiali półgłosem, a zielonkawe światło zza szyb przesuwało się powoli po suficie.
+
+Rysunek nadal pozostawał przed Jamesem.
+
+Theodore raz jeszcze, znacznie później, zerknął znad książki. Nie na pergamin — na samego Jamesa.
+
+Tym razem niczego już nie skomentował.
+
+Najwyraźniej uznał, że cokolwiek znajdowało się na tej kartce, było wystarczająco ważne, skoro dwa wcześniejsze szkice spłonęły bez wahania, a ten nadal pozostawał cały.
+
+
+
+[C1-M0795]
+===== USER =====
+
+usniechnąłem się jeszcze bardziej bo przypomniałem sobie moment jsk uśmiechnęła do mnie się
+
+
+
+[C1-M0796]
+===== ASSISTANT =====
+
+Uśmiech Jamesa poszerzył się jeszcze odrobinę.
+
+Theodore zauważył to kątem oka, ale tym razem nawet nie odrywał książki od twarzy na dłużej. Wystarczyło mu jedno krótkie spojrzenie.
+
+— Mhm.
+
+I tyle.
+
+Pokój wspólny dalej żył własnym życiem.
+
+Ktoś przeszedł w stronę dormitoriów. Przy kominku dwóch starszych uczniów zaczęło sprzeczać się o wynik ostatniego meczu Quidditcha. Pansy coś powiedziała do Draco, na co ten odpowiedział z wyraźnym lekceważeniem, ale ich rozmowa pozostawała po drugiej stronie pomieszczenia.
+
+Nikt nie podchodził do Jamesa.
+
+Na pergaminie nieruchomo trwał ten sam uśmiech, który jeszcze kilka godzin wcześniej pojawił się na twarzy Hermiony podczas Historii Magii.
+
+Po chwili Theodore przewrócił kolejną stronę.
+
+— Wyglądasz, jakby ten kawałek pergaminu właśnie powiedział ci coś bardzo miłego.
+
+Nie spojrzał nawet znad książki.
+
+— Ale nie pytam.
+
+
+
+[C1-M0797]
+===== USER =====
+
+w tym momencie przypomniał mi się Fakt ze To Nott pracował z Hermioną schowałem szybko peragmin
+I słusznie....
+
+
+
+[C1-M0798]
+===== ASSISTANT =====
+
+Theodore zatrzymał wzrok na Jamesie na sekundę dłużej, wyłapując nagłą zmianę tonu i szybki ruch, którym pergamin zniknął w kieszeni.
+
+— Tak myślałem.
+
+Nie próbował zaglądać, nie pytał też, co nagle zmieniło nastrój Jamesa. Po prostu otworzył książkę szerzej i wrócił do czytania.
+
+Przez chwilę między nimi panowała cisza.
+
+Kawałek dalej Draco rzucił coś do Pansy, ta odpowiedziała mu śmiechem, a pokój wspólny nadal żył swoim spokojnym popołudniowym rytmem.
+
+Theodore przewrócił stronę.
+
+— Sprout dobrała dziś dziwne pary — rzucił po chwili całkowicie neutralnie, bardziej do przestrzeni niż do Jamesa. — Longbottom zna się na roślinach lepiej niż większość naszego roku.
+
+I wrócił wzrokiem do książki, jakby temat był dla niego zakończony.
+
+
+
+[C1-M0799]
+===== USER =====
+
+nie skomentowałem tego tylko nadal lekko wkurzony na niego patrzyłem
+
+
+
+[C1-M0800]
+===== ASSISTANT =====
+
+Theodore początkowo próbował wrócić do książki, ale po kilku sekundach stało się jasne, że James nadal patrzy właśnie na niego.
+
+Powoli uniósł wzrok.
+
+Nie wyglądał na speszonego. Raczej na coraz bardziej świadomego, że coś mu umknęło.
+
+— Brown.
+
+Zamknął książkę na palcu, zaznaczając stronę.
+
+— Masz jakiś problem?
+
+Krótka pauza.
+
+Theodore spojrzał na niego spokojnie, bez prowokującego uśmiechu.
+
+— Bo jeśli tak, wolałbym wiedzieć jaki, zamiast zgadywać, dlaczego nagle patrzysz na mnie, jakbym zrobił ci coś osobiście.
+
+Nie wspomniał o Hermionie. Najwyraźniej jeszcze nie połączył tego wprost z dzisiejszym przydziałem na Zielarstwie.
+
+
+

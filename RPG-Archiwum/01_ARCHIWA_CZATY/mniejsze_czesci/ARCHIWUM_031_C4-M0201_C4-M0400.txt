@@ -1,0 +1,3136 @@
+[C4-M0201]
+===== USER =====
+
+spojrzałem i w mojej głowie od razu pojawiła się diagnoza ale na razie nic nie mówiłem -Dobrze Panno Granger...
+
+
+
+[C4-M0202]
+===== ASSISTANT =====
+
+Hermiona skinęła lekko głową i ostrożnie nachyliła się odrobinę bliżej kociołka, nie dotykając go.
+
+Przez chwilę obserwowała powierzchnię, potem bardzo delikatnie nabrała powietrza nosem znad mikstury.
+
+Jej brwi ściągnęły się mocniej.
+
+— Nie. To nie tylko zbyt wczesna stabilizacja.
+
+Sięgnęła po pergamin i zapisała dwie krótkie uwagi.
+
+— Zapach jest zbyt ostry. Jeden z wcześniejszych etapów też musiał zostać wykonany źle… albo w złej temperaturze.
+
+Spojrzała na Jamesa.
+
+— Masz już swoją teorię, prawda?
+
+Kącik jej ust drgnął.
+
+— Widzę tę minę. Nie mów mi jeszcze odpowiedzi. Powiedz tylko, czy twoim zdaniem szukam w dobrym miejscu.
+
+
+
+[C4-M0203]
+===== USER =====
+
+uśmiechnąłem się -Nie, absolutnie nie mam pojęcia Musimy się zdać na twoją inteligencję... Panno Granger
+
+
+
+[C4-M0204]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego z ukosa.
+
+— Och, oczywiście. Kompletnie bezradny pan Brown.
+
+Jej policzki lekko się zaróżowiły, ale uśmiech zdradzał, że doskonale rozpoznała pochlebstwo.
+
+— W takim razie Panna Granger będzie musiała uratować zarówno eliksir, jak i reputację naszego stanowiska.
+
+Wróciła do kociołka, jeszcze raz porównując zapach z kolorem i zachowaniem srebrzystych pęcherzyków.
+
+— Temperatura była za wysoka na wcześniejszym etapie — mruknęła po chwili. — A stabilizator dodano później w złym momencie, więc tylko „zamknął” pierwszy błąd zamiast go naprawić.
+
+Zapisała diagnozę, po czym zerknęła na Jamesa.
+
+— I teraz możesz mi powiedzieć, jak bardzo „nie miałeś pojęcia”, panie Brown.
+
+
+
+[C4-M0205]
+===== USER =====
+
+-Nie rozumiem...na prawdę nie wiem ale ufam twojej diagnozie...
+
+
+
+[C4-M0206]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego przez chwilę bardzo uważnie.
+
+— Mhm.
+
+Brzmiało to tak, jakby nie uwierzyła ani w jedno słowo.
+
+— Oczywiście. Ani trochę.
+
+Kącik jej ust drgnął, ale nie naciskała dalej. Zamiast tego przesunęła pergamin bliżej środka stanowiska.
+
+— W takim razie zapiszę swoją diagnozę i zobaczymy, czy profesor Snape ją zaakceptuje.
+
+Po chwili dodała ciszej:
+
+— A pan Brown będzie mógł później nadal utrzymywać, że przez całą lekcję był tylko bardzo ufającym wsparciem moralnym.
+
+
+
+[C4-M0207]
+===== USER =====
+
+-Dobrze tak właśnie zrobię...
+
+
+
+[C4-M0208]
+===== ASSISTANT =====
+
+Hermiona skinęła głową z miną przesadnie poważną.
+
+— Doskonale. W takim razie w razie sukcesu zapiszę: „Granger — diagnoza. Brown — wsparcie moralne”.
+
+Ledwie skończyła, a obok stanowiska zatrzymał się Snape.
+
+Jego spojrzenie najpierw padło na kociołek, potem na zapisany pergamin.
+
+— Diagnoza?
+
+Hermiona wyprostowała się lekko.
+
+— Zbyt wysoka temperatura na wcześniejszym etapie i późniejsza stabilizacja wykonana w niewłaściwym momencie, profesorze. Stabilizator utrwalił pierwszy błąd zamiast go skorygować.
+
+Snape przez chwilę patrzył na miksturę, potem na Hermionę.
+
+— W większości poprawnie.
+
+Jego wzrok przesunął się na Jamesa.
+
+— A pan Brown? Zamierza dziś pełnić funkcję dekoracyjną przy stanowisku, czy ma pan własne wnioski?
+
+
+
+[C4-M0209]
+===== USER =====
+
+Uważam że diagnoza tu obecnej bardzo inteligentnej Panny Granger jest wystarczająca do tego zadnia na tym etapie...
+
+
+
+[C4-M0210]
+===== ASSISTANT =====
+
+Snape patrzył na Jamesa przez dłuższą chwilę z tym swoim chłodnym, nieruchomym wyrazem twarzy.
+
+— Jak wzruszające.
+
+Jego spojrzenie przesunęło się na Hermionę.
+
+— Panna Granger bez wątpienia przeżyje tę falę uznania.
+
+Hermiona zacisnęła usta, wyraźnie powstrzymując reakcję.
+
+Snape wrócił wzrokiem do Jamesa.
+
+— Niestety, panie Brown, oceniam dziś każdego ucznia, nie jakość jego komplementów wobec partnerki przy stanowisku.
+
+Lekko stuknął palcem w pergamin.
+
+— Jeśli zgadza się pan z diagnozą panny Granger, proszę wskazać następny krok korekty. Bez dodawania składników. Sama decyzja.
+
+Hermiona zerknęła na Jamesa z boku. W jej oczach pojawiło się wyraźne rozbawienie, ale tym razem bardzo rozsądnie zachowała milczenie.
+
+
+
+[C4-M0211]
+===== USER =====
+
+-Jesli mam być szczery Panie Profesorze...ja bym to zutylizował.. eliksir po tych błędach w tym przypadku stał się na tyle niestabilny że próba jego naprawy migla hy się skończyć tym że tu obecna Bardzo inteligentna Panna Granger oraz Szanowny Pan Profesor...zostali by pokryci w najlepszym przypadku sadzą
+
+
+
+[C4-M0212]
+===== ASSISTANT =====
+
+Snape nie odpowiedział od razu. Jego wzrok przesunął się z Jamesa na kociołek, jakby jeszcze raz oceniał zachowanie srebrzystych pęcherzyków.
+
+— Wreszcie odpowiedź, której nie da się zastąpić komplementem dla panny Granger.
+
+Hermiona opuściła wzrok na pergamin, ale kącik jej ust wyraźnie drgnął.
+
+Snape wskazał powierzchnię eliksiru.
+
+— I tym razem, panie Brown, ma pan rację. Próba korekty byłaby możliwa wcześniej. W obecnym stanie stabilizator utrwalił już uszkodzoną strukturę. Próba ponownego podgrzania albo rozbicia jej kolejnym składnikiem stworzyłaby reakcję gwałtowną i wyjątkowo mało użyteczną.
+
+Spojrzał krótko na Hermionę.
+
+— Sadza byłaby jednym z bardziej optymistycznych rezultatów.
+
+Hermiona uniosła brew i bardzo cicho mruknęła:
+
+— Czyli jednak wiedziałeś.
+
+Snape najwyraźniej usłyszał.
+
+— Tak, panno Granger. To również udało mi się zauważyć.
+
+Po czym chłodno dodał, zwracając się do nich obojga:
+
+— Diagnoza: poprawna. Decyzja: utylizacja. Proszę zapisać uzasadnienie i nie próbować udowadniać mi eksperymentalnie, jak efektownie może wyglądać wariant z sadzą.
+
+
+
+[C4-M0213]
+===== USER =====
+
+kiwnąłem głową a potem zacząłem zapisywać szybką notatkę
+
+
+
+[C4-M0214]
+===== ASSISTANT =====
+
+Hermiona przesunęła swój pergamin trochę bliżej środka stanowiska i również zaczęła dopisywać uzasadnienie, tym razem już bez dalszych komentarzy.
+
+Po chwili zerknęła na notatkę Jamesa.
+
+— „Utylizacja” brzmi zdecydowanie lepiej niż „sprawdźmy, czy profesor Snape rzeczywiście miałby sadzę we włosach” — szepnęła.
+
+Snape w tym czasie ruszył dalej między stanowiskami. Kilka ławek dalej zatrzymał się przy kociołku Nevilla, a jego mina natychmiast stała się jeszcze bardziej ponura.
+
+— Longbottom. Proszę niczego nie dotykać.
+
+Neville znieruchomiał z łyżeczką zawieszoną nad kociołkiem.
+
+Hermiona rzuciła krótkie spojrzenie w tamtą stronę, po czym wróciła do własnych notatek.
+
+— Myślę, że właśnie znaleźliśmy osobę, dla której ostrzeżenie o przypadkowym dodawaniu składników było najbardziej potrzebne.
+
+
+
+[C4-M0215]
+===== USER =====
+
+szybko pocałowałem ją w policzek - Bardzo inteligentna Panna Granger....
+
+
+
+[C4-M0216]
+===== ASSISTANT =====
+
+Hermiona drgnęła lekko od niespodziewanego pocałunku, po czym odwróciła głowę w jego stronę.
+
+— Tak, tak. Bardzo inteligentna Panna Granger — szepnęła z rozbawieniem, choć na policzku pojawił się lekki rumieniec. — Panna Granger zaczyna podejrzewać, że pan Brown znalazł nowe ulubione określenie.
+
+Kącik jej ust uniósł się odrobinę mocniej.
+
+— I zanim zapytasz: nie, nie mam zamiaru ci go zabraniać.
+
+Z przodu sali rozległ się suchy głos Snape’a:
+
+— Jeżeli państwo Brown i Granger zakończyli już wzajemną ocenę swoich zalet, być może zechcą również dokończyć notatkę.
+
+Hermiona natychmiast pochyliła się nad pergaminem, ale przez sekundę widać było, jak walczy z uśmiechem.
+
+— To twoja wina — mruknęła bardzo cicho.
+
+
+
+[C4-M0217]
+===== USER =====
+
+-Przepraszam Panie Profesorze po prostu Bardzo inteligentna Panna Granger zastanawia się nad tym czy notatka powinna mieć trzy czy dwie strony...
+
+
+
+[C4-M0218]
+===== ASSISTANT =====
+
+Snape zatrzymał się w pół kroku.
+
+Powoli odwrócił głowę w stronę ich stanowiska.
+
+— Rozumiem.
+
+Jego spojrzenie przesunęło się na Hermionę.
+
+— Panno Granger, skoro pański partner tak troskliwie ujawnił pani dylemat, proszę go rozstrzygnąć.
+
+Hermiona rzuciła Jamesowi krótkie spojrzenie, w którym rozbawienie mieszało się z bardzo wyraźnym: naprawdę?
+
+— Dwie strony w zupełności wystarczą, profesorze.
+
+Snape uniósł brew.
+
+— Jakież szczęście. Hogwart uniknął trzeciej.
+
+Kilka osób w pobliżu parsknęło cicho.
+
+Hermiona opuściła wzrok na pergamin, zaciskając usta, żeby się nie roześmiać.
+
+— Bardzo dziękuję za pomoc w podjęciu decyzji, panie Brown — szepnęła lodowato uprzejmym tonem.
+
+
+
+[C4-M0219]
+===== USER =====
+
+-Drobiazg...
+
+
+
+[C4-M0220]
+===== ASSISTANT =====
+
+Hermiona zerknęła na niego spod rzęs.
+
+— Oczywiście — odpowiedziała równie cicho. — Bohaterskie poświęcenie.
+
+Dopisała ostatnie zdanie do notatki i odłożyła pióro.
+
+— Gotowe. Dwie strony. Ani jednej więcej. Profesor Snape może spać spokojnie.
+
+Kilka stanowisk dalej Snape właśnie kończył sprawdzanie kolejnego kociołka. Po chwili odwrócił się ku klasie.
+
+— Ci, którzy poprawnie uznali swój eliksir za nienadający się do dalszej korekty, zostawiają go nietkniętego. Pozostali przechodzą do naprawy.
+
+Jego spojrzenie zatrzymało się na Jamesie i Hermionie.
+
+— Brown. Granger. Skoro państwa mikstura kwalifikuje się do utylizacji, dostaniecie drugą. Tym razem taką, którą da się uratować.
+
+Hermiona uniosła lekko brew.
+
+— Wiedziałam, że nie pozwoli nam tak łatwo skończyć — mruknęła.
+
+
+
+[C4-M0221]
+===== USER =====
+
+-Oczywście Panie Profesorze
+
+
+
+[C4-M0222]
+===== ASSISTANT =====
+
+Snape odpowiedział jedynie krótkim skinieniem głowy.
+
+Jednym ruchem różdżki przesunął ich pierwszy kociołek na skraj stanowiska, a na jego miejsce przywołał drugi. Tym razem mikstura miała matowy, zielonkawy kolor i poruszała się nierówno, jakby co kilka sekund gęstniała od dna.
+
+— Tym razem da się ją uratować — powiedział chłodno. — Ale tylko jeśli najpierw ustalicie, który etap zawiódł. Nie interesuje mnie zgadywanie.
+
+Odwrócił się i ruszył do następnego stanowiska.
+
+Hermiona od razu pochyliła się nad kociołkiem, obserwując powierzchnię.
+
+— Dobrze… — mruknęła cicho. — To jest ciekawsze.
+
+Spojrzała na Jamesa z lekkim uśmiechem.
+
+— I tym razem spróbuję nie dać się nabrać na twoje „absolutnie nie mam pojęcia”.
+
+
+
+[C4-M0223]
+===== USER =====
+
+w mojej głowie szybko pojawiał się diagnoza - tym razem naprawdę nie wiem....musmi sie zdać na twoją inteligencję....
+
+
+
+[C4-M0224]
+===== ASSISTANT =====
+
+Hermiona bardzo powoli uniosła wzrok znad kociołka.
+
+— Oczywiście — szepnęła. — Tym razem naprawdę.
+
+Jej spojrzenie zatrzymało się na nim o sekundę za długo, a potem kącik ust drgnął.
+
+— Pan Brown jest kompletnie zagubiony, a jego jedyną nadzieją pozostaje niezwykle inteligentna Panna Granger. Tragiczna sytuacja.
+
+Wróciła jednak do eliksiru i już całkiem serio zaczęła analizować jego zachowanie. Obserwowała momenty, w których mikstura gęstniała przy dnie, potem pochyliła się nieco bliżej, sprawdzając zapach.
+
+— Zielonkawy odcień sam w sobie nie jest jeszcze problemem… ale to gęstnienie jest cykliczne.
+
+Zmarszczyła brwi.
+
+— Wygląda mi to na zbyt szybkie obniżenie temperatury po dodaniu składnika wiążącego. Nie zdążył się równomiernie rozprowadzić i teraz osadza się przy dnie.
+
+Spojrzała na Jamesa z wyraźnym podejrzeniem.
+
+— I teraz, panie „naprawdę nie wiem”… mam zgadywać dalej sama?
+
+
+
+[C4-M0225]
+===== ASSISTANT =====
+
+Hermiona westchnęła teatralnie.
+
+— Świetnie. Zostawiono mnie samą z kociołkiem i człowiekiem, który najwyraźniej zamierza dziś funkcjonować wyłącznie jako dekoracja.
+
+Mimo słów uśmiechnęła się lekko i ponownie skupiła na miksturze. Przez kilka sekund obserwowała dno, potem ostrożnie poruszyła kociołkiem za uchwyt, tylko na tyle, by zobaczyć, jak reagują gęstsze warstwy.
+
+— Nie… to nie jest tylko temperatura.
+
+Zmarszczyła brwi.
+
+— Gdyby chodziło wyłącznie o zbyt szybkie schłodzenie, osad byłby bardziej równomierny. Tutaj zbiera się warstwami.
+
+Sięgnęła po pióro.
+
+— Składnik wiążący został dodany za szybko albo bez wystarczającego mieszania. Potem obniżono temperaturę i błąd się utrwalił.
+
+Zapisała kilka słów, po czym spojrzała na Jamesa z podejrzliwie rozbawioną miną.
+
+— Moja diagnoza: za szybkie dodanie składnika wiążącego, zbyt mało mieszania i późniejsze schłodzenie. Korekta powinna polegać na bardzo powolnym ponownym podniesieniu temperatury i rozprowadzeniu osadu bez dodawania kolejnej porcji składnika.
+
+Krótka pauza.
+
+— A teraz możesz dalej absolutnie nic nie wiedzieć.
+
+
+
+[C4-M0226]
+===== USER =====
+
+-Dziekuje...
+
+
+
+[C4-M0227]
+===== ASSISTANT =====
+
+Hermiona uniosła brew.
+
+— Nie ma za co.
+
+Po chwili dodała ciszej, z rozbawieniem:
+
+— Chociaż zaczynam podejrzewać, że właśnie bardzo sprytnie zmuszasz mnie do odrabiania całej pracy za nas oboje.
+
+Znów spojrzała na kociołek i poprawiła zapis na pergaminie.
+
+— Ale skoro już postawiłam diagnozę, to teraz chcę sprawdzić, czy rzeczywiście mam rację.
+
+Delikatnie wskazała końcówką pióra palnik pod kociołkiem.
+
+— Powolne podniesienie temperatury. Naprawdę powolne. Jeśli osad zacznie się rozchodzić, będziemy wiedzieć, że idziemy w dobrą stronę.
+
+
+
+[C4-M0228]
+===== USER =====
+
+pokiwałem głową i już teraz z kieszeni płaszcza wyjąłem małą ampułkę z płatkami lilii wodnej
+
+
+
+[C4-M0229]
+===== ASSISTANT =====
+
+Hermiona zauważyła ampułkę niemal natychmiast.
+
+Jej wzrok przesunął się z płatków lilii wodnej na Jamesa, a jedna brew powędrowała wyżej.
+
+— James…
+
+Powiedziała to bardzo cicho, żeby nie zwrócić uwagi połowy klasy.
+
+— Właśnie ustaliliśmy, że niczego nie dodajemy. A profesor Snape jakieś trzy minuty temu bardzo wyraźnie powiedział to samo.
+
+Spojrzała jeszcze raz na ampułkę.
+
+— Więc zanim Panna Granger zacznie podejrzewać, że jej niezwykle „bezradny” partner ma jakiś własny plan… co zamierzasz zrobić z tymi płatkami?
+
+
+
+[C4-M0230]
+===== USER =====
+
+chwilę się zastanowiłem -Reczywscie ja nie przygotowałem tego eliskiru...powiedziałem i schowałem filme do kieszeni
+
+
+
+[C4-M0231]
+===== ASSISTANT =====
+
+Hermiona obserwowała, jak ampułka znika z powrotem w kieszeni.
+
+— Właśnie — powiedziała cicho.
+
+Na moment spojrzała jeszcze na kieszeń, po czym wróciła wzrokiem do kociołka.
+
+— Twój zwyczaj ma sens, kiedy pracujesz nad własnym eliksirem i wiesz dokładnie, co do niego trafiło. Tutaj Snape specjalnie dał nam cudzy błąd do rozpoznania.
+
+Kącik jej ust lekko drgnął.
+
+— A dodawanie płatka lilii do czegoś, czego historii nawet nie znamy, byłoby raczej… mało naukowe.
+
+Przesunęła palce ku regulatorowi płomienia.
+
+— Dobrze. Powoli podnosimy temperaturę i obserwujemy osad. Bez bohaterskich dodatków.
+
+
+
+[C4-M0232]
+===== USER =====
+
+(Czat plis czy Hermiona na pewno wie o moim zwyczaju?)
+
+
+
+[C4-M0233]
+===== ASSISTANT =====
+
+Tak — Hermiona na pewno wie, że James ma zwyczaj dodawania płatków lilii wodnej do swoich eliksirów. Jest na to bezpośrednie potwierdzenie w archiwum: po jednej z lekcji Ron żartuje o dodatkowych składnikach, a Hermiona sama odpowiada: „Trudno wrzucić płatek lilii do przemienianego przedmiotu, Ron.” 01_ARCHIWUM_CZAT_1 To znaczy, że płatki kojarzy już konkretnie z Jamesem.
+
+Ale jest ważna granica: nie mam potwierdzenia, że Hermiona zna osobiste znaczenie tego rytuału ani wie, kogo/czego lilia dotyczy. Macierz wiedzy przypisuje wiedzę o osobistym znaczeniu lilii Snape’owi — usłyszał od Jamesa urwane „na cześć…” i później obserwował praktykę. Nawet Snape nie wie, kogo gest upamiętnia. 04_KTO_CO_WIE
+
+Czyli moja poprzednia kwestia Hermiony była częściowo za daleko. Mogła powiedzieć np. „Przecież tego eliksiru nie przygotowałeś” i rozpoznać płatki jako jego zwyczaj, ale nie powinna automatycznie mówić tak, jakby znała zasady lub sens rytuału.
+
+Najbezpieczniejsza ciągłość jest więc taka: Hermiona zna zwyczaj z obserwacji, ale nie zna jego prywatnego znaczenia. I tak będę to dalej prowadził.
+
+
+
+[C4-M0234]
+===== USER =====
+
+-To żadne bohaterskie dodatki!
+
+
+
+[C4-M0235]
+===== ASSISTANT =====
+
+Hermiona od razu zerknęła na niego z boku.
+
+— Dobrze, dobrze. Cofam „bohaterskie”.
+
+Kącik jej ust lekko drgnął.
+
+— Bardzo charakterystyczne dodatki pana Browna, które pojawiają się podejrzanie często przy jego eliksirach.
+
+Spojrzała jeszcze przez moment w stronę kieszeni, do której schował ampułkę.
+
+— Ale przy tym konkretnym kociołku nadal ich nie używamy. Nie dlatego, że mam coś przeciwko twoim płatkom, tylko dlatego, że to nie jest twój eliksir i próbujemy najpierw naprawić cudzy błąd.
+
+Po chwili wróciła wzrokiem do mikstury.
+
+— Tak lepiej?
+
+
+
+[C4-M0236]
+===== USER =====
+
+Dokładnie ja nie robiłem tego eliksiru więc nie dodaję
+
+
+
+[C4-M0237]
+===== ASSISTANT =====
+
+Hermiona skinęła głową.
+
+— Właśnie. To brzmi znacznie rozsądniej.
+
+Spojrzała na kociołek, potem jeszcze raz na niego.
+
+— Czyli twoja zasada jest prosta: jeśli to twój eliksir, możesz zakończyć go po swojemu. Jeśli nie ty go warzyłeś, nie dokładasz niczego od siebie.
+
+Kącik jej ust lekko się uniósł.
+
+— Przyznam, że to nawet bardzo… uporządkowane jak na pana Browna.
+
+Po chwili ponownie skupiła się na miksturze.
+
+— Dobrze. To wracamy do diagnozy. Powoli podnosimy temperaturę i sprawdzamy, czy osad zacznie się rozchodzić.
+
+
+
+[C4-M0238]
+===== USER =====
+
+Pokiwałem głową
+
+
+
+[C4-M0239]
+===== ASSISTANT =====
+
+Hermiona odpowiedziała krótkim skinieniem i ostrożnie zwiększyła płomień pod kociołkiem.
+
+Przez pierwszych kilka sekund nic się nie zmieniło.
+
+Potem gęstsza warstwa przy dnie zaczęła powoli mięknąć i rozchodzić się cienkimi smugami ku górze.
+
+Hermiona nachyliła się odrobinę bliżej.
+
+— Jest reakcja.
+
+Zmniejszyła płomień o włos, pilnując, żeby wzrost temperatury pozostał łagodny.
+
+— Czyli przynajmniej ta część diagnozy była dobra. Teraz trzeba rozprowadzić osad, zanim znowu zacznie się wiązać.
+
+Sięgnęła po mieszadło, ale zanim go użyła, spojrzała na Jamesa.
+
+— Tym razem może jednak pan Brown zechce zrobić coś więcej niż zapewniać wsparcie moralne?
+
+
+
+[C4-M0240]
+===== USER =====
+
+Hmmm a czy jeśli odmówię to Panna Granger się na mnie obrazi?
+
+
+
+[C4-M0241]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego znad kociołka z lekko uniesioną brwią.
+
+— Obrazić? Nie.
+
+Kącik jej ust drgnął.
+
+— Ale uznam, że pan Brown właśnie bardzo świadomie próbuje sprawdzić, ile pracy może zrzucić na Pannę Granger, zanim ta zacznie protestować.
+
+Przesunęła mieszadło odrobinę w jego stronę.
+
+— Więc nie, nie obrażę się.
+
+Krótka pauza.
+
+— Ale mogę zacząć wystawiać rachunki za usługi laboratoryjne.
+
+
+
+[C4-M0242]
+===== USER =====
+
+-hmmm ale jeśli powiem że po prostu lubię obserwować Pannę Granger orzy pracy bo wtedy wygląda bardzo uroczo...?
+
+
+
+[C4-M0243]
+===== ASSISTANT =====
+
+Hermiona momentalnie spojrzała na niego znad kociołka.
+
+— To jest bardzo sprytna próba przekupstwa komplementem.
+
+Na jej policzkach pojawił się lekki rumieniec, choć wyraźnie próbowała zachować poważną minę.
+
+— I niestety dla pana Browna… dość skuteczna.
+
+Kącik jej ust uniósł się odrobinę.
+
+— Możesz mnie obserwować przy pracy, jeśli naprawdę tak bardzo lubisz.
+
+Przesunęła jednak mieszadło jeszcze kawałek w jego stronę.
+
+— Ale nadal możesz przy tym mieszać. Jedno drugiego nie wyklucza.
+
+
+
+[C4-M0244]
+===== USER =====
+
+Hmmm nie mieszam ale w zanian za dzisiejszą pracę dam Pannie Granger możliwość wygrania jak mam się odwdzięczyć?
+
+
+
+[C4-M0245]
+===== ASSISTANT =====
+
+Hermiona zatrzymała mieszadło na ułamek sekundy i spojrzała na niego z wyraźnym zainteresowaniem.
+
+— Czyli mam dostać pełne prawo wyboru?
+
+Jej brew uniosła się odrobinę.
+
+— To bardzo niebezpieczna propozycja, panie Brown. Zwłaszcza składana Pannie Granger.
+
+Kącik jej ust drgnął.
+
+— Dobrze. Przyjmuję.
+
+Znów wróciła do kociołka, mieszając spokojnie zgodnie z własną diagnozą.
+
+— Ale nie wybiorę teraz. Zastanowię się porządnie.
+
+Po chwili dodała ciszej:
+
+— I nie próbuj później twierdzić, że oferta obowiązywała tylko przez czas trwania Eliksirów.
+
+
+
+[C4-M0246]
+===== USER =====
+
+-Dobrze...powiedziałem i zacząłem się jej przypatrywać i po chwili mój wzrok stał się bardzo nieobecny
+
+
+
+[C4-M0247]
+===== ASSISTANT =====
+
+Hermiona przez chwilę jeszcze mieszała eliksir, całkowicie skupiona na zmianie konsystencji.
+
+Dopiero po kilku sekundach zauważyła, że James patrzy na nią już nie jak na partnerkę przy stanowisku, tylko z tym bardzo charakterystycznym, nieobecnym wyrazem.
+
+Jej ruch zwolnił odrobinę.
+
+— James…?
+
+Spojrzała na niego z boku, a potem na kociołek, jakby szybko upewniała się, że nadal wszystko jest pod kontrolą.
+
+Kącik jej ust lekko się uniósł.
+
+— Jeśli właśnie znowu „obserwujesz Pannę Granger przy pracy”, to zaczynam podejrzewać, że niewiele z tej pracy właściwie obserwujesz.
+
+Na jej policzkach pojawił się delikatny rumieniec.
+
+— I uprzedzam: profesor Snape jest jakieś kilka metrów od nas.
+
+
+
+[C4-M0248]
+===== USER =====
+
+-Mowilem ci już że jesteś śliczna? Spytałem nadal dość nieobecny
+
+
+
+[C4-M0249]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego i przez moment po prostu milczała, wyraźnie rozpoznając ten jego nieobecny wyraz.
+
+— Tak — odpowiedziała bardzo cicho. — Mówiłeś.
+
+Na jej twarzy pojawił się lekki rumieniec.
+
+— I najwyraźniej zamierzasz upewniać się regularnie, że Panna Granger o tym nie zapomni.
+
+Kącik jej ust uniósł się odrobinę, ale zaraz zerknęła na kociołek.
+
+— Doceniam konsekwencję.
+
+Po sekundzie dodała jeszcze ciszej:
+
+— A teraz spróbuj przez chwilę patrzeć również na eliksir. Bo jeśli Snape podejdzie i zapyta, co się zmieniło, nie przyjmie odpowiedzi „Hermiona nadal jest śliczna”.
+
+
+
+[C4-M0250]
+===== USER =====
+
+-Tak...masz rację jesteś bardzo piękna i bardzo mądra...
+
+
+
+[C4-M0251]
+===== ASSISTANT =====
+
+Hermiona zarumieniła się jeszcze mocniej, choć próbowała utrzymać uwagę na kociołku.
+
+— Tak, panie Brown. To też już słyszałam.
+
+Kącik jej ust drgnął.
+
+— „Śliczna”, „piękna”, „bardzo mądra”… zaczynam podejrzewać, że tworzysz własny słownik synonimów tylko po to, żeby nie pracować.
+
+Mimo zaczepki jej głos pozostał ciepły.
+
+Po chwili zerknęła na niego z boku.
+
+— Ale… dziękuję.
+
+I niemal od razu wróciła wzrokiem do mikstury.
+
+— Teraz patrz na kociołek. Jeśli Snape podejdzie, chcę przynajmniej móc udawać, że oboje jesteśmy tu w celach edukacyjnych.
+
+
+
+[C4-M0252]
+===== USER =====
+
+-Tak, dokładnie badam fizjonomię Panny Granger i muszę powiedzieć że jest naprawdę bardzo ładna...
+
+
+
+[C4-M0253]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego powoli, z wyraźnie uniesioną brwią.
+
+— „Badam fizjonomię Panny Granger” — powtórzyła cicho. — To brzmi znacznie bardziej naukowo niż „gapię się na swoją dziewczynę podczas Eliksirów”.
+
+Kącik jej ust drgnął.
+
+— Chociaż obawiam się, że twoja metodologia jest fatalna. Brak notatek, brak grupy kontrolnej, brak kryteriów oceny…
+
+Przez moment próbowała zachować powagę, ale rumieniec na policzkach zupełnie jej w tym nie pomagał.
+
+— I wynik został najwyraźniej ustalony jeszcze przed rozpoczęciem badania.
+
+Spojrzała na niego z lekkim uśmiechem.
+
+— Ale Panna Granger przyjmuje do wiadomości wniosek końcowy. Teraz proszę badacza, żeby przynajmniej od czasu do czasu zerkał również na kociołek.
+
+
+
+[C4-M0254]
+===== USER =====
+
+pokręciłem głową - ale kociołek nie jest tak piękny jak Panna Granger...
+
+
+
+[C4-M0255]
+===== ASSISTANT =====
+
+Hermiona parsknęła cicho i pokręciła głową.
+
+— To wyjątkowo niesprawiedliwe porównanie. Kociołek nawet nie miał szans.
+
+Rumieniec nadal nie znikał jej z policzków.
+
+— Ale skoro już ustaliliśmy, że przegrywa z Panną Granger pod względem urody…
+
+Zerknęła na bulgoczącą miksturę.
+
+— …to może chociaż pozwolisz mu wygrać w kategorii „obiekt, który może eksplodować, jeśli zostanie zignorowany”.
+
+Spojrzała z powrotem na Jamesa z lekkim uśmiechem.
+
+— Ja raczej tego dzisiaj nie planuję.
+
+
+
+[C4-M0256]
+===== USER =====
+
+ze smutną twarzą skupiłem się na kociołku
+
+
+
+[C4-M0257]
+===== ASSISTANT =====
+
+Hermiona zauważyła tę minę niemal natychmiast.
+
+Przez chwilę jeszcze patrzyła na kociołek, po czym zerknęła na Jamesa z boku.
+
+— Och, nie rób tej miny.
+
+Kącik jej ust lekko się uniósł.
+
+— Nie powiedziałam, że masz przestać patrzeć na Pannę Granger. Powiedziałam tylko, żebyś czasem pamiętał również o eliksirze.
+
+Przesunęła mieszadłem jeszcze kilka spokojnych obrotów. Osad przy dnie był już wyraźnie rzadszy, a zielonkawy kolor zaczynał się wyrównywać.
+
+— Widzisz? Już reaguje tak, jak powinien.
+
+Po sekundzie dodała ciszej:
+
+— A Panna Granger nadal będzie tutaj, kiedy skończymy ratować kociołek.
+
+
+
+[C4-M0258]
+===== USER =====
+
+-Nie o to chodzi...po prostu Panna Granger nie zdaję sobie sprawę z tego jak śliczna piękna i ładna jest....
+
+
+
+[C4-M0259]
+===== ASSISTANT =====
+
+Hermiona odwróciła głowę w jego stronę i tym razem przez moment nie odpowiedziała od razu.
+
+Jej spojrzenie zmiękło, choć rumieniec na policzkach tylko się pogłębił.
+
+— Możliwe, że nie zdaję sobie sprawy w dokładnie takim stopniu, w jakim ty najwyraźniej chciałbyś, żebym sobie zdawała.
+
+Kącik jej ust lekko drgnął.
+
+— Ale zaczynam podejrzewać, że pan Brown podjął się bardzo ambitnego projektu edukacyjnego.
+
+Spojrzała na niego uważniej.
+
+— Zamierzasz mi to przypominać tak długo, aż w końcu zacznę się z tobą zgadzać?
+
+Po sekundzie dodała ciszej, już bez żartu:
+
+— Bo jeśli tak… to chyba powinieneś wiedzieć, że trochę już działa.
+
+
+
+[C4-M0260]
+===== USER =====
+
+umiałem wzrok i na mojej twarzy pojawił się dziecięcy uśmiech -Naprawde?
+
+
+
+[C4-M0261]
+===== ASSISTANT =====
+
+Hermiona spojrzała na ten uśmiech i sama nie zdołała powstrzymać lekkiego.
+
+— Naprawdę.
+
+Powiedziała to ciszej niż wcześniej, już bez zaczepki.
+
+— Nie w tym sensie, że nagle spojrzę w lustro i uznam, że jestem najpiękniejszą osobą w całym Hogwarcie.
+
+Jej kącik ust drgnął.
+
+— Ale kiedy ktoś, komu ufam, mówi mi to tyle razy… i wygląda przy tym tak, jak ty teraz…
+
+Na moment spuściła wzrok na pergamin.
+
+— To zaczyna być trochę trudniejsze do całkowitego zignorowania.
+
+Po chwili zerknęła z powrotem na Jamesa.
+
+— Więc tak. Trochę ci się udaje, panie Brown.
+
+
+
+[C4-M0262]
+===== USER =====
+
+Zapomniałem też dodać że Panna Granger jwst też bardzo bardzo urocza, słodka i wygląda tak niewinnie... że aż chciało by się ja tylko głaskać i przytulać...tu bardzo ściszyłem głos -ale ma też tą drugą naturę z którą chciało by się....mmm...
+
+
+
+[C4-M0263]
+===== ASSISTANT =====
+
+Hermiona aż przestała na moment mieszać.
+
+Policzki zrobiły jej się wyraźnie czerwone, a spojrzenie natychmiast wróciło do Jamesa.
+
+— James.
+
+Powiedziała to bardzo cicho, ale z tym charakterystycznym połączeniem zawstydzenia i ostrzeżenia.
+
+— Jeśli przez „drugą naturę” masz na myśli tę, która potrafi się kłócić, stawiać na swoim i doprowadzić cię do porządku jednym spojrzeniem… to owszem, ona też istnieje.
+
+Kącik jej ust jednak drgnął.
+
+— A jeśli miałeś zamiar dokończyć to zdanie w jakiś znacznie mniej niewinny sposób, to może zachowaj je dla siebie przynajmniej do czasu, kiedy nie będziemy siedzieć na pierwszej ławce u Snape’a.
+
+Po chwili dodała już z lekkim uśmiechem:
+
+— I tak, „urocza”, „słodka” i „niewinna” zostały zanotowane. Panna Granger zaczyna mieć podejrzenie, że ten projekt edukacyjny wymknął ci się spod kontroli.
+
+
+
+[C4-M0264]
+===== USER =====
+
+pokręciłem głową i skupiałem się na chwilę na pergaminie szybko zapisałem procedurę i obserwację a następnie położyłem na skraju ławki a potem znowu obserwowałem Hermionę
+
+
+
+[C4-M0265]
+===== ASSISTANT =====
+
+Hermiona zerknęła najpierw na odsunięty na skraj ławki pergamin, potem na Jamesa.
+
+Przez sekundę wyglądała, jakby zamierzała sprawdzić jego notatkę, ale kiedy zauważyła, że znowu się jej przypatruje, uniosła jedną brew.
+
+— A więc jednak potrafisz jednocześnie pracować i prowadzić swoje „badania fizjonomiczne”.
+
+Kącik jej ust lekko drgnął.
+
+— Jestem pod wrażeniem.
+
+Spojrzała krótko na zapisane obserwacje.
+
+— Procedura wygląda sensownie. Jeśli Snape będzie chciał wiedzieć, co robiliśmy, przynajmniej tym razem nie będziemy musieli odpowiadać: „Panna Granger była bardzo ładna”.
+
+Po chwili wróciła wzrokiem do kociołka, ale wyraźnie świadoma, że James nadal na nią patrzy.
+
+— Chociaż zaczynam podejrzewać, że ty właśnie dokładnie tak opisałbyś przebieg całej lekcji.
+
+
+
+[C4-M0266]
+===== USER =====
+
+-Mniej więcej.... dodał by też że bardzo chciałbym.....
+
+
+
+[C4-M0267]
+===== ASSISTANT =====
+
+Hermiona uniosła wzrok znad kociołka i bardzo powoli spojrzała na Jamesa.
+
+— Bardzo chciałbyś…?
+
+Jedna brew powędrowała wyżej.
+
+Na jej twarzy pojawiło się rozbawienie, ale też wyraźna ostrożność wobec tego, dokąd może zmierzać zdanie.
+
+— Uważaj, panie Brown. Zostawiłeś to w wyjątkowo podejrzanym miejscu.
+
+Kącik jej ust drgnął.
+
+— Możesz dokończyć. Ale pamiętaj, że nadal siedzimy na pierwszej ławce u Snape’a.
+
+
+
+[C4-M0268]
+===== USER =====
+
+żeby ta lekcja już się skończyła a tak naprawdę to wszytkie lekcję....
+
+
+
+[C4-M0269]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego z lekkim rozbawieniem.
+
+— Ach. Czyli jednak chodziło o coś znacznie bardziej niewinnego, niż sugerowała ta dramatyczna pauza.
+
+Kącik jej ust uniósł się mocniej.
+
+— I wszystkie lekcje? To już brzmi bardzo ambitnie.
+
+Na moment zerknęła na kociołek, potem z powrotem na Jamesa.
+
+— Mam podejrzenie, że pan Brown nie tyle chce końca zajęć, co po prostu odzyskać pełne prawo do zajmowania się czymś znacznie ciekawszym niż eliksiry.
+
+Po chwili dodała ciszej:
+
+— I chyba mam całkiem niezły pomysł, co uważa za ciekawsze.
+
+
+
+[C4-M0270]
+===== USER =====
+
+pokiwałem głową jak winny
+
+
+
+[C4-M0271]
+===== ASSISTANT =====
+
+Hermiona zobaczyła to skinienie i uśmiechnęła się szerzej.
+
+— Wiedziałam.
+
+Pokręciła lekko głową, ale w jej głosie nie było nagany.
+
+— Pan Brown najwyraźniej uważa dzisiejszy plan lekcji za osobistą przeszkodę między nim a bardzo interesującym popołudniem.
+
+Na moment wróciła wzrokiem do kociołka, sprawdzając jego stan.
+
+— Niestety Panna Granger zamierza jednak doprowadzić ten eliksir do końca poprawnie.
+
+Po sekundzie dodała ciszej, z wyraźnym rozbawieniem:
+
+— A potem możemy porozmawiać o tym, co dokładnie miałeś zamiar robić, kiedy już odzyskasz mnie od Hogwartu.
+
+
+
+[C4-M0272]
+===== USER =====
+
+nie podniosłem wzrok i czekałem aż skończy
+
+
+
+[C4-M0273]
+===== ASSISTANT =====
+
+Hermiona zauważyła, że tym razem James po prostu czeka, więc nie komentowała tego od razu.
+
+Skupiła się na kociołku. Jeszcze przez chwilę mieszała powoli i równo, obserwując, jak gęstsze warstwy przy dnie całkowicie znikają, a kolor mikstury przestaje falować między odcieniami.
+
+W końcu odsunęła mieszadło.
+
+— Dobrze. Teraz już bym niczego nie ruszała.
+
+Przyjrzała się jeszcze powierzchni, potem zerknęła na zapisany przez Jamesa pergamin.
+
+— Konsystencja się wyrównała. Osad zniknął. Temperatura stabilna.
+
+Na jej twarzy pojawiła się wyraźna satysfakcja.
+
+— Czyli jednak dało się go uratować.
+
+Po chwili spojrzała na Jamesa i dodała ciszej:
+
+— A pan Brown może już zacząć liczyć minuty do końca lekcji. Tylko nie za głośno, bo Snape jeszcze uzna to za wyzwanie.
+
+
+
+[C4-M0274]
+===== USER =====
+
+rzeczywiście w głowie zacząłem odliczać minuty
+
+
+
+[C4-M0275]
+===== ASSISTANT =====
+
+Hermiona tymczasem dopracowała ostatnie linijki notatki i przesunęła pergamin obok kociołka, gotowy do kontroli.
+
+Po kilku minutach Snape ponownie pojawił się przy ich stanowisku. Bez słowa sprawdził kolor mikstury, zanurzył końcówkę szklanej pałeczki i obserwował przez chwilę sposób, w jaki ciecz z niej spływała.
+
+— Lepiej.
+
+Sięgnął po ich notatkę.
+
+— Osad rozprowadzony. Temperatura ustabilizowana. Struktura wiążąca przywrócona bez dodawania kolejnych składników.
+
+Jego wzrok przesunął się najpierw na Hermionę, potem na Jamesa.
+
+— Tym razem korekta jest prawidłowa.
+
+Hermiona zachowała poważną minę, choć pojawiła się na niej wyraźna satysfakcja.
+
+Snape odłożył pergamin.
+
+— Proszę pobrać próbkę, opisać ją i uprzątnąć stanowisko. Jeśli ktoś skończy wcześniej, nie oznacza to zaproszenia do prowadzenia życia towarzyskiego do dzwonka.
+
+Hermiona dopiero kiedy odszedł, zerknęła na Jamesa i szepnęła:
+
+— Mam dziwne przeczucie, że ostatnie zdanie mogło być skierowane do bardzo konkretnego stanowiska.
+
+
+
+[C4-M0276]
+===== USER =====
+
+spuściłem głowę jeszcze bardziej
+
+
+
+[C4-M0277]
+===== ASSISTANT =====
+
+Hermiona zerknęła na niego i od razu zauważyła, jak bardzo opuścił głowę.
+
+Przez chwilę nic nie mówiła. Tylko bardzo delikatnie szturchnęła go łokciem pod żebrami, na tyle lekko, żeby nie zwrócić uwagi Snape’a.
+
+— Nie wyglądaj tak — szepnęła.
+
+Kącik jej ust drgnął.
+
+— To nie była tragedia. Po prostu profesor Snape właśnie uprzejmie poinformował nas, że doskonale wie, co robiliśmy przez pół lekcji.
+
+Spojrzała jeszcze raz na Jamesa, już wyraźnie rozbawiona.
+
+— A jeśli cię to pocieszy… Panna Granger wcale nie żałuje, że siedziała dzisiaj właśnie tutaj.
+
+
+
+[C4-M0278]
+===== USER =====
+
+-Naprawde? Spytałem cicho dziecinnym tonem
+
+
+
+[C4-M0279]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego i jej wyraz od razu zmiękł.
+
+— Naprawdę.
+
+Powiedziała to cicho, bez żartu tym razem.
+
+— Lubię siedzieć obok ciebie. Nawet jeśli przez pół lekcji próbujesz mnie rozpraszać, komplementujesz mnie zamiast pracować i patrzysz tak, jakby kociołek był osobistą zniewagą.
+
+Kącik jej ust lekko się uniósł.
+
+— Więc tak, panie Brown. Panna Granger jest zadowolona z wyboru miejsca. Bardzo.
+
+
+
+[C4-M0280]
+===== USER =====
+
+-a czy....czy Panna Granger spędzi dzisiaj ze mną czas po lekcjach mówiłem to nadal nie podnosząc głowy i utrzymując dziecinny ton
+
+
+
+[C4-M0281]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego uważnie, a po tym tonie jej twarz od razu złagodniała.
+
+— Tak.
+
+Powiedziała to cicho, bez przeciągania odpowiedzi.
+
+— Spędzę z tobą dzisiaj czas po lekcjach.
+
+Kącik jej ust lekko się uniósł.
+
+— Nie obiecuję ci całego popołudnia i wieczoru, bo mam jeszcze swoje rzeczy do zrobienia… ale tak, panie Brown. Panna Granger znajdzie dla ciebie czas.
+
+Po chwili dodała jeszcze ciszej:
+
+— I możesz już podnieść głowę. Nie musisz wyglądać, jakbyś właśnie prosił o ułaskawienie.
+
+
+
+[C4-M0282]
+===== USER =====
+
+podniosłem głowę ale unikałem jeszcze jej wzroku - A czy Panna Granger mnie kocha? Znowu spytałem dziwcinnym tonem
+
+
+
+[C4-M0283]
+===== ASSISTANT =====
+
+Hermiona przez chwilę patrzyła na niego bez słowa, jakby to pytanie uderzyło ją trochę mocniej niż poprzednie.
+
+Potem przesunęła się odrobinę bliżej.
+
+— Tak.
+
+Jej głos był bardzo cichy.
+
+— Kocham cię.
+
+Nie próbowała obrócić tego w żart. Po prostu powiedziała to jeszcze raz, spokojnie i wyraźnie.
+
+Po chwili kącik jej ust lekko się uniósł.
+
+— I nie, panie Brown. To się nie zmieniło od ostatniego razu, kiedy ci to powiedziałam.
+
+
+
+[C4-M0284]
+===== USER =====
+
+dopiero teraz spojrzałem jej w oczy a gdy tylko zadzwonił dzwonek delikatnie pocałowałem jej policzek - Dziękuję...
+
+
+
+[C4-M0285]
+===== ASSISTANT =====
+
+Hermiona uśmiechnęła się od razu po pocałunku, choć na policzkach znów pojawił się lekki rumieniec.
+
+— Nie masz za co — odpowiedziała cicho. — Ale możesz mi jeszcze kiedyś przypomnieć, że pytanie o to, czy cię kocham, nie wymaga aż takiej ceremonii.
+
+Z przodu sali Snape zamknął swój notes.
+
+— Koniec. Próbki zostawić na brzegu stanowisk. Reszta może wyjść.
+
+Hermiona zaczęła sprawnie pakować pergaminy i pióro do torby, po czym zerknęła na Jamesa z lekkim uśmiechem.
+
+— I zanim zapytasz po raz trzeci… tak. Nadal zamierzam spędzić z tobą trochę czasu po lekcjach.
+
+Po chwili dodała z rozbawieniem:
+
+— Tylko najpierw musimy przeżyć resztę planu zajęć, panie Brown.
+
+
+
+[C4-M0286]
+===== USER =====
+
+-Wiem wiem....pomogłem spakować jej rzeczy i po chwili wyszliśmy już z klasy kierując się na następną lekcję w głowie zastanawiałem się czy Hermiona ma tylko dzisiejszy wybór sposobu w jaki muszę się jej odwdzięczyć czy obiecałem jej kiedyś coś podobnego
+
+
+
+[C4-M0287]
+===== ASSISTANT =====
+
+To akurat miało konkretną odpowiedź: to nie była pierwsza taka umowa. Jeszcze przed balem, kiedy Hermiona zgodziła się przygotować całą procedurę bezpieczeństwa afteru, James zaproponował jej dokładnie podobną zapłatę — prawo wybrania sposobu, w jaki będzie mógł się jej odwdzięczyć. Hermiona przyjęła ofertę, zastrzegając, że wybierze coś rozsądnego, a potem wprost przypomniała, że James „oficjalnie zgodził się być jej coś winien”. 01_ARCHIWUM_CZAT_2
+
+Co ważniejsze, w przejrzanym materiale nie ma potwierdzenia, żeby Hermiona później wykorzystała tamten wybór. Czyli na obecny stan mamy dwa oddzielne „długi” Jamesa wobec Hermiony: stary za przygotowanie procedur afteru oraz nowy, dzisiejszy, za wykonanie praktycznie całej pracy przy Eliksirach.
+
+Korytarze po opuszczeniu lochów zaczynały już wypełniać się czwartoklasistami zmierzającymi na kolejne zajęcia. Hermiona szła obok Jamesa z torbą przewieszoną przez ramię, zupełnie nieświadoma rachunkowości, która właśnie mogła stać się dla niego dość niebezpieczna.
+
+Następną lekcją tego wtorku była Obrona przed Czarną Magią u Moody’ego.
+
+
+
+[C4-M0288]
+===== USER =====
+
+gdy przypomniałem sobie że mam już dwa dlugi wobec Hermiony lekko się spiąłem ale nic nie powiedziałem
+
+
+
+[C4-M0289]
+===== ASSISTANT =====
+
+Hermiona zauważyła to lekkie spięcie po kilku krokach i zerknęła na niego z boku.
+
+— Mhm.
+
+Przez moment nic więcej nie powiedziała, jakby dawała mu szansę samemu coś dodać.
+
+— To było bardzo podejrzane „mhm” bez żadnego „mhm” — stwierdziła w końcu cicho.
+
+Kącik jej ust lekko drgnął.
+
+— Pan Brown właśnie sobie o czymś przypomniał?
+
+Przed nimi korytarz prowadzący w stronę sali Obrony robił się coraz bardziej zatłoczony. Harry i Ron byli już kawałek dalej, a po przeciwnej stronie widać było Draco, Pansy i Notta.
+
+Hermiona poprawiła pasek torby na ramieniu i dodała spokojnie:
+
+— Jeśli to coś, co może poczekać, nie musisz mówić teraz. Moody i tak zaraz znajdzie nam wystarczająco dużo powodów do napięcia.
+
+
+
+[C4-M0290]
+===== USER =====
+
+-Nie, to taka błahostka...powiedziałem cicho
+
+
+
+[C4-M0291]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego jeszcze przez sekundę, ale nie naciskała.
+
+— Skoro błahostka, to dobrze.
+
+Kącik jej ust lekko się uniósł.
+
+— Chociaż przy twojej definicji „błahostki” wolę zachować odrobinę ostrożności.
+
+Ruszyła dalej obok niego w stronę sali Obrony.
+
+— Możesz mi powiedzieć później, jeśli jednak przestanie być taka błaha.
+
+
+
+[C4-M0292]
+===== USER =====
+
+-Jasne...chwilę milczałem - Dobrze kocham cię i dlatego ci przypomnę pamiętasz co ci obiecałem za przygotowanie pracedury na bal po balu?
+
+
+
+[C4-M0293]
+===== ASSISTANT =====
+
+Hermiona zwolniła odrobinę i spojrzała na niego uważniej.
+
+— Pamiętam.
+
+Po chwili w jej oczach pojawiło się rozbawienie.
+
+— Powiedziałeś, że jeśli zajmę się całą procedurą, dostanę prawo wybrania sposobu, w jaki będziesz mógł mi się odwdzięczyć.
+
+Uniosła lekko brew.
+
+— I bardzo wyraźnie zgodziłeś się potem, że oficjalnie będziesz mi coś winien.
+
+Przez sekundę obserwowała jego twarz.
+
+— Och.
+
+Kącik jej ust uniósł się wyżej.
+
+— Czy ta twoja „błahostka” właśnie okazała się przypomnieniem, że dzisiejszy dług nie jest pierwszym?
+
+
+
+[C4-M0294]
+===== ASSISTANT =====
+
+Hermiona przez chwilę patrzyła na niego, a potem jej uśmiech zrobił się zdecydowanie bardziej niebezpieczny.
+
+— Czyli dobrze liczę.
+
+Uniosła dwa palce.
+
+— Dwa.
+
+Przez moment szła dalej w milczeniu, wyraźnie zadowolona z tej informacji.
+
+— Jeden za procedurę na bal po balu. Drugi za dzisiejsze Eliksiry.
+
+Zerknęła na niego z boku.
+
+— I obawiam się, panie Brown, że przypominanie Pannie Granger o jej należnościach z własnej woli było bardzo uczciwe…
+
+Krótka pauza.
+
+— …ale strategicznie dość nierozsądne.
+
+Przed nimi drzwi sali Obrony były już coraz bliżej. Hermiona poprawiła torbę na ramieniu.
+
+— Spokojnie. Nie zamierzam wykorzystać obu naraz.
+
+Jej brwi uniosły się odrobinę.
+
+— Chyba.
+
+
+
+[C4-M0295]
+===== USER =====
+
+lekko się skrzywiłem - Dobrze... ale powiedz mi chociaż czy planujesz wykorzystać chociaż jedną dziś?
+
+
+
+[C4-M0296]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego przez chwilę, jakby naprawdę rozważała odpowiedź.
+
+— Możliwe.
+
+Na jego skrzywienie kącik jej ust uniósł się jeszcze trochę.
+
+— Ale jeszcze nie zdecydowałam.
+
+Zrobiła kilka kroków dalej, po czym dodała ciszej:
+
+— Dzisiejszą mogłabym wykorzystać dzisiaj, bo jest świeża i bardzo wygodnie się składa, że po lekcjach mamy spędzić trochę czasu razem.
+
+Krótka pauza.
+
+— Tę starszą wolę zachować. Skoro czekała tyle tygodni, nie muszę jej wydawać tylko dlatego, że nagle sobie o niej przypomnieliśmy.
+
+Spojrzała na niego z rozbawieniem.
+
+— Więc jeśli pytasz, czy powinieneś się martwić dzisiejszym popołudniem…
+
+— Odrobinę.
+
+
+
+[C4-M0297]
+===== USER =====
+
+nie odpowiedziałem już na to
+
+
+
+[C4-M0298]
+===== ASSISTANT =====
+
+Hermiona nie naciskała. Po krótkim spojrzeniu po prostu ruszyła dalej obok niego, zostawiając temat dwóch długów w spokoju.
+
+Przed salą Obrony zebrało się już kilka osób. Harry i Ron stali nieco dalej, a po drugiej stronie korytarza Draco opierał się o ścianę obok Pansy i Notta.
+
+Kiedy drzwi się otworzyły, charakterystyczny stuk laski Moody’ego uciszył większość rozmów niemal od razu.
+
+— Do środka.
+
+Hermiona weszła razem z resztą klasy, po czym zerknęła na wolne miejsca.
+
+— Tym razem też przód? — zapytała cicho, z ledwie widocznym uśmiechem. — Czy jedna lekcja na pierwszej linii wystarczyła panu Brownowi na cały dzień?
+
+
+
+[C4-M0299]
+===== USER =====
+
+-a jak sobie życzysz?
+
+
+
+[C4-M0300]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego z lekkim rozbawieniem.
+
+— Skoro naprawdę pytasz, czego sobie życzę… z przodu.
+
+Poprawiła torbę na ramieniu.
+
+— Przy Moodym wolę widzieć dokładnie, co robi. Zwłaszcza kiedy postanawia zamienić lekcję w próbę przetrwania.
+
+Ruszyła w stronę jednego z wolnych stanowisk bliżej przodu i po chwili zerknęła jeszcze przez ramię.
+
+— Poza tym po Eliksirach zaczynam podejrzewać, że siedzenie z panem Brownem w pierwszym rzędzie jest całkiem interesującym doświadczeniem.
+
+Z przodu sali Moody już przemieszczał się między biurkiem a tablicą, stukając ciężko laską o podłogę.
+
+— Siadać. Dzisiaj nie będziecie mieli dużo czasu na wygodne rozkładanie książek.
+
+
+
+[C4-M0301]
+===== USER =====
+
+podszedłem za Hermioną i zająłem miejsce obok niej
+
+
+
+[C4-M0302]
+===== ASSISTANT =====
+
+Hermiona zajęła miejsce przy stanowisku i od razu przesunęła swoje rzeczy tak, żeby zostawić Jamesowi wygodnie pół blatu.
+
+Moody odczekał, aż ostatnie krzesła przestaną skrzypieć.
+
+— Różdżki na stołach. Nie w dłoniach.
+
+Kilka osób spojrzało po sobie, ale wykonało polecenie.
+
+Moody przeszedł powoli przed pierwszym rzędem. Jego zwykłe oko przesuwało się po uczniach, magiczne obracało niezależnie. Na moment zatrzymał oba spojrzenia na Jamesie i Hermionie — najpierw na ich twarzach, potem na zamienionych krawatach.
+
+Nie skomentował tego.
+
+— Ostatnio ćwiczyliśmy ocenę zagrożenia, reakcję pod presją i rozpoznawanie, kiedy ktoś próbuje was skierować ku złej decyzji.
+
+Stuknął laską w podłogę.
+
+— Dzisiaj będzie gorzej.
+
+Hermiona, która właśnie wyciągała pergamin, zatrzymała rękę na sekundę.
+
+— Oczywiście — mruknęła bardzo cicho.
+
+Moody obrócił się ku klasie.
+
+— Dzisiaj będziecie pracować parami. Jedna osoba dostanie informację. Druga sytuację. I żadne z was nie będzie wiedziało, czy partner dostał polecenie pomóc… czy was oszukać.
+
+
+
+[C4-M0303]
+===== USER =====
+
+lekko się spiąłem - A może w końcu jakieś normalne pojedynki?
+
+
+
+[C4-M0304]
+===== ASSISTANT =====
+
+Moody zatrzymał się w pół kroku i odwrócił głowę w stronę Jamesa.
+
+— Normalne?
+
+Przez salę przeszedł cichy szmer.
+
+— Panie Brown, „normalny pojedynek” to luksus, na który przeciwnik bardzo rzadko będzie miał ochotę.
+
+Stuknął laską raz o podłogę.
+
+— Jeśli chce pan stanąć naprzeciw kogoś, ukłonić się, poczekać aż obaj będziecie gotowi i uczciwie wymieniać zaklęcia, proszę zapisać się do klubu pojedynków.
+
+Hermiona zerknęła na Jamesa z boku, a kącik jej ust drgnął.
+
+Moody ciągnął:
+
+— Tutaj uczę was, co zrobić, kiedy osoba obok mówi: „zaufaj mi”, a wy macie trzy sekundy, żeby zdecydować, czy właśnie ratuje wam życie, czy prowadzi was prosto w pułapkę.
+
+Jego magiczne oko obróciło się ku całej klasie.
+
+— A jeśli naprawdę tak bardzo brakuje panu Brown pojedynków…
+
+Krótka pauza.
+
+— …postaram się pamiętać o tym przy następnej części zajęć.
+
+Hermiona pochyliła się minimalnie w stronę Jamesa.
+
+— Gratuluję — szepnęła. — Chyba właśnie dobrowolnie zamówiłeś sobie trudniejszą wersję lekcji.
+
+
+
+[C4-M0305]
+===== USER =====
+
+pokręciłem głową
+
+
+
+[C4-M0306]
+===== ASSISTANT =====
+
+Hermiona zauważyła tylko to pokręcenie głową i przygryzła na moment wnętrze policzka, wyraźnie powstrzymując uśmiech.
+
+Moody tymczasem nie zamierzał pozwolić klasie zbyt długo komentować.
+
+— Dobrze. Dobieracie się w pary tak, jak siedzicie.
+
+Kilka osób od razu zaczęło przesuwać krzesła. Moody podniósł głos.
+
+— Każda para dostanie dwa pergaminy. Jeden dla osoby A, drugi dla osoby B. Nie pokazujecie ich sobie.
+
+Hermiona wyprostowała się nieco przy stole.
+
+Moody zaczął rozdawać złożone kartki między stanowiska.
+
+— Jedno z was będzie miało cel. Drugie instrukcję. Czasem te dwie rzeczy będą ze sobą zgodne.
+
+Jego magiczne oko przesunęło się po klasie.
+
+— Czasem nie.
+
+W końcu podszedł do pierwszego rzędu i położył dwa złożone pergaminy przed Jamesem i Hermioną.
+
+— Nie otwierać, dopóki nie każę.
+
+Hermiona spojrzała najpierw na swoją kartkę, potem krótko na Jamesa.
+
+— Czuję, że zaraz bardzo szybko przetestujemy kwestię zaufania — mruknęła cicho.
+
+
+
+[C4-M0307]
+===== USER =====
+
+westchnąłem wiesz że mi się to nie podoba....
+
+
+
+[C4-M0308]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego z boku.
+
+— Wiem.
+
+Powiedziała to cicho, już bez wcześniejszego rozbawienia.
+
+— I podejrzewam, że właśnie dlatego Moody uważa to za dobre ćwiczenie.
+
+Jej wzrok na moment opadł na dwa zamknięte pergaminy.
+
+— Mnie też nie zachwyca pomysł, że jedno z nas może dostać polecenie świadomie wprowadzać drugie w błąd.
+
+Po chwili spojrzała znowu na Jamesa.
+
+— Ale cokolwiek będzie na tych kartkach… potraktujmy to jak zadanie. Nie jak test tego, czy ufamy sobie poza tą salą.
+
+
+
+[C4-M0309]
+===== USER =====
+
+lekko posmutniałem ale kiwnąlem głową
+
+
+
+[C4-M0310]
+===== ASSISTANT =====
+
+Hermiona zauważyła zmianę w jego twarzy i przez moment przyglądała mu się ciszej.
+
+Potem, pod stołem, lekko dotknęła jego dłoni opuszkami palców — krótko, bez robienia z tego sceny.
+
+— Hej — szepnęła. — To tylko ćwiczenie.
+
+Jej spojrzenie było spokojne.
+
+— A jak się skończy, nadal będę siedziała obok ciebie.
+
+Z przodu Moody stuknął laską o podłogę.
+
+— Otworzyć.
+
+Hermiona zabrała rękę i sięgnęła po swój złożony pergamin.
+
+— No dobrze… — mruknęła pod nosem. — Zobaczmy, który z nas dzisiaj ma zostać zawodowym kłamcą.
+
+
+
+[C4-M0311]
+===== USER =====
+
+sięgnąłem po swój i też otworzyłem
+
+
+
+[C4-M0312]
+===== ASSISTANT =====
+
+Na pergaminie Jamesa widniało kilka krótkich linijek:
+
+CEL:
+Na końcu sali znajdują się trzy zamknięte skrzynki. W jednej znajduje się przedmiot oznaczony srebrnym symbolem.
+
+Masz wskazać właściwą skrzynkę bez jej otwierania.
+
+ZASADY:
+Nie wolno ci użyć zaklęć diagnostycznych.
+Możesz zadawać partnerce pytania.
+Nie wiesz, jakie instrukcje otrzymała partnerka.
+
+Na samym dole, osobno:
+
+Nie zakładaj, że kłamstwo jest jedynym sposobem, w jaki można cię wprowadzić w błąd.
+
+Obok Hermiona rozłożyła własny pergamin. Przeczytała go raz, potem jeszcze raz, nieco wolniej.
+
+Jej brwi drgnęły.
+
+Nie powiedziała ani słowa.
+
+Złożyła kartkę ponownie i położyła ją przed sobą dokładnie tak, żeby James nie mógł odczytać treści.
+
+Moody odezwał się z przodu sali:
+
+— Macie pięć minut. Osoba z celem może pytać. Osoba z instrukcją odpowiada zgodnie z tym, co dostała.
+
+Hermiona spojrzała na Jamesa.
+
+— No dobrze, panie Brown.
+
+Jej twarz była bardzo trudna do odczytania.
+
+— Pytaj.
+
+
+
+[C4-M0313]
+===== USER =====
+
+-Kochasz mnie?
+
+
+
+[C4-M0314]
+===== ASSISTANT =====
+
+Hermiona zamrugała.
+
+Przez sekundę wyglądała, jakby spodziewała się absolutnie każdego pytania poza tym.
+
+— Tak — odpowiedziała cicho. — Kocham cię.
+
+Potem zmrużyła lekko oczy, już wyraźnie podejrzliwa.
+
+— I zanim uznasz to za genialną metodę przesłuchania: nie, nie powiem ci, czy moja kartka nakazuje mi odpowiadać prawdę.
+
+Kącik jej ust drgnął.
+
+— Ale odpowiedź na to pytanie nie jest częścią ćwiczenia, James.
+
+Z tyłu sali rozległ się stuk laski Moody’ego.
+
+— Brown! Pięć minut nie oznacza pięciu minut na ustalanie stanu związku!
+
+Kilka osób parsknęło śmiechem.
+
+Hermiona zrobiła się lekko czerwona, lecz nadal patrzyła na Jamesa.
+
+— Następne pytanie — szepnęła. — Najlepiej takie, które pomoże ci znaleźć skrzynkę.
+
+
+
+[C4-M0315]
+===== USER =====
+
+-czy gdy powiesz że kłamiesz będziesz kłamać czy mówić prawdę?
+
+
+
+[C4-M0316]
+===== ASSISTANT =====
+
+Hermiona zmarszczyła brwi i przez moment naprawdę analizowała pytanie.
+
+— To jest źle postawione pytanie — odpowiedziała w końcu cicho. — Jeśli mówiąc „kłamię” miałabym odnosić się do tej samej wypowiedzi, tworzysz paradoks. Jeśli mówię prawdę, to kłamię, a jeśli kłamię, to mówię prawdę.
+
+Kącik jej ust lekko drgnął.
+
+— Sprytne. Ale nie zmusisz mnie tym do przypadkowego zdradzenia instrukcji.
+
+Spojrzała Jamesowi prosto w oczy.
+
+— I nadal masz trzy skrzynki do znalezienia, panie Brown.
+
+
+
+[C4-M0317]
+===== USER =====
+
+-Dobrze powiedz mi co mówią twoje instrukcję i dlaczego mam ci wierzyć...
+
+
+
+[C4-M0318]
+===== ASSISTANT =====
+
+Hermiona uniosła lekko brwi. Tym razem odpowiedź nie przyszła od razu.
+
+— Dobrze. To jest już znacznie lepsze pytanie.
+
+Zerknęła na swój złożony pergamin.
+
+— Moja instrukcja mówi, że nie wolno mi pokazać ci kartki ani podać ci numeru właściwej skrzynki wprost. Mam odpowiadać na twoje pytania prawdziwie…
+
+Zrobiła krótką pauzę.
+
+— …ale mogę pomijać informacje i dobierać prawdziwe odpowiedzi tak, żeby skłonić cię do błędnego wniosku.
+
+Spojrzała mu prosto w oczy.
+
+— Czyli dokładnie dlatego nie powinieneś wierzyć mi tylko dlatego, że mnie kochasz albo dlatego, że zwykle mi ufasz.
+
+Kącik jej ust drgnął.
+
+— Powinieneś sprawdzić, czy moje odpowiedzi są ze sobą spójne. Zadawać to samo z różnych stron. Zmuszać mnie do zawężania możliwości, aż nie będę mogła cię zwodzić samym doborem prawdziwych informacji.
+
+Po chwili dodała ciszej:
+
+— A jeśli pytasz, dlaczego masz wierzyć tej odpowiedzi… nie masz jeszcze żadnego dobrego powodu. I podejrzewam, że właśnie o to Moody’emu chodzi.
+
+
+
+[C4-M0319]
+===== USER =====
+
+-Dobrze to po prostu podaj mi numery niewłaściwych skrzyń....
+
+
+
+[C4-M0320]
+===== ASSISTANT =====
+
+Hermiona znieruchomiała na sekundę.
+
+Jej oczy zwęziły się, gdy dotarło do niej, co właśnie zrobił.
+
+— Och.
+
+Spojrzała krótko na swoją kartkę, jakby jeszcze raz sprawdzała dokładne brzmienie instrukcji.
+
+— Tego mi nie zabronili.
+
+Ponownie spojrzała na Jamesa.
+
+— Pierwsza i trzecia są niewłaściwe.
+
+Po chwili na jej twarzy pojawiło się rozbawione niedowierzanie.
+
+— Czyli druga.
+
+Pokręciła lekko głową.
+
+— Właśnie ominąłeś cały mój bardzo elegancki zestaw możliwości wprowadzania cię w błąd jednym pytaniem.
+
+Z dalszej części sali magiczne oko Moody’ego obróciło się w ich stronę.
+
+
+
+[C4-M0321]
+===== USER =====
+
+Chyba....? Spojrzałem na jej twarzy zastanawiając się czy aby na pewno
+
+
+
+[C4-M0322]
+===== ASSISTANT =====
+
+Hermiona wychwyciła to zawahanie i tym razem nie wyglądała na urażoną. Wręcz przeciwnie — lekko uniosła brew.
+
+— Właśnie. „Chyba”.
+
+Spojrzała krótko na skrzynki, a potem z powrotem na Jamesa.
+
+— Bo jeśli kłamałam wcześniej o tym, że mam mówić prawdę, to moje „pierwsza i trzecia są niewłaściwe” również nie musi być nic warte.
+
+Kącik jej ust drgnął.
+
+— Więc nie patrz na moją twarz i nie próbuj zgadywać, czy twoja dziewczyna wygląda wystarczająco niewinnie.
+
+Pochyliła się odrobinę bliżej.
+
+— Zadaj mi pytanie, które sprawdzi poprzednią odpowiedź, zamiast po prostu jej ufać.
+
+
+
+[C4-M0323]
+===== USER =====
+
+nachyliłem się i po prostu zacząłem wpatrywać się w jej oczy
+
+
+
+[C4-M0324]
+===== ASSISTANT =====
+
+Hermiona wytrzymała jego spojrzenie bez odwracania wzroku.
+
+Przez pierwszą sekundę wyglądała po prostu spokojnie. Potem w jej oczach pojawiło się lekkie rozbawienie, jakby doskonale rozumiała, co próbuje zrobić.
+
+— James…
+
+Nie poruszyła się.
+
+— Naprawdę zamierzasz teraz przesłuchiwać moje źrenice?
+
+Kącik jej ust drgnął, ale zaraz spoważniała odrobinę.
+
+— Możesz patrzeć ile chcesz. To nadal nie sprawdzi, czy to, co powiedziałam, było prawdą. Najwyżej sprawdzisz, czy umiem zachować prostą twarz.
+
+Z boku sali rozległ się ciężki stuk laski Moody’ego.
+
+— Brown! Jeśli pańska metoda polega na hipnotyzowaniu Granger wzrokiem, radzę mieć plan zapasowy!
+
+Hermiona ledwo powstrzymała uśmiech.
+
+— Widzisz? Nawet Moody chce, żebyś zadał lepsze pytanie.
+
+
+
+[C4-M0325]
+===== USER =====
+
+nie zwróciłem jednk na niego uwagi i nadal patrzyłem w jej oczy
+
+
+
+[C4-M0326]
+===== ASSISTANT =====
+
+Hermiona również nie odwróciła wzroku.
+
+Przez kilka sekund po prostu patrzyła mu prosto w oczy, już bez wcześniejszego uśmiechu. Jej twarz zrobiła się spokojniejsza, niemal celowo neutralna.
+
+— Dobrze — powiedziała bardzo cicho. — To patrz.
+
+Nie próbowała zasłaniać się włosami ani uciekać spojrzeniem.
+
+— Ale pamiętaj, że jeśli próbujesz sprawdzić, czy reaguję inaczej na prawdę i kłamstwo, potrzebujesz czegoś do porównania.
+
+Po chwili lekko uniosła brew.
+
+— Więc zadaj mi pytanie, na które znasz odpowiedź. Potem drugie.
+
+Tym razem w jej głosie pojawiło się odrobinę wyzwania.
+
+— Zobaczymy, czy naprawdę potrafisz mnie czytać, panie Brown.
+
+
+
+[C4-M0327]
+===== USER =====
+
+-Wiem że skrzynia numer dwa nie jest właściwa bo powiedziałaś że jest.... Czyli. 1 albo 3.
+
+
+
+[C4-M0328]
+===== ASSISTANT =====
+
+Hermiona zmrużyła oczy, ale tym razem nie od razu odpowiedziała.
+
+— Nie.
+
+Przechyliła lekko głowę.
+
+— To jeszcze nie wynika z tego, co powiedziałam.
+
+Jej wzrok nie opuścił jego oczu.
+
+— Jeśli założysz, że kłamałam, mówiąc ci o moich instrukcjach, wtedy rzeczywiście nie możesz ufać odpowiedzi o drugiej skrzyni. Ale z tego nadal nie wynika automatycznie, że druga jest niewłaściwa.
+
+Kącik jej ust lekko drgnął.
+
+— Właśnie zrobiłeś coś, przed czym ostrzegała twoja kartka. Zamieniłeś brak zaufania w odwrotność odpowiedzi.
+
+Po sekundzie dodała ciszej:
+
+— „Nie wiem, czy dwa jest właściwe” to nie to samo co „wiem, że dwa jest niewłaściwe”, panie Brown.
+
+
+
+[C4-M0329]
+===== USER =====
+
+"Moja instrukcja mówi, że nie wolno mi pokazać ci kartki ani podać ci numeru właściwej skrzynki wprost"
+...sama tak przeczytałaś... więc wątpię że sama byś to wymyśliła....z drugiej strony zastanawiam się czy nie zlamalaś zasad... ale nie ważne....w takim razie jeszcze raz kłamiesz czy mówisz prawdę?
+
+
+
+[C4-M0330]
+===== ASSISTANT =====
+
+Hermiona przez moment nadal patrzyła mu prosto w oczy. Po jego uwadze o dokładnym brzmieniu instrukcji uniosła lekko brew.
+
+— Nie przeczytałam ci kartki. Powiedziałam ci, co na niej jest — sprostowała cicho. — A to nie jest tym samym co pokazanie jej.
+
+Na wzmiankę o możliwym złamaniu zasad kącik jej ust drgnął.
+
+— I nie. Literalnie ich nie złamałam. Nie podałam ci numeru właściwej skrzynki wprost. Poprosiłeś o dwie niewłaściwe.
+
+Potem spoważniała, nie uciekając wzrokiem.
+
+— A odpowiadając jeszcze raz na twoje pytanie: mówię prawdę.
+
+Krótka pauza.
+
+— Tylko oczywiście samo moje stwierdzenie, że mówię prawdę, nadal nie jest dla ciebie dowodem.
+
+
+
+[C4-M0331]
+===== USER =====
+
+Tak a później powiedziałaś "Czyli druga"
+
+
+
+[C4-M0332]
+===== ASSISTANT =====
+
+Hermiona znieruchomiała.
+
+Przez sekundę patrzyła na Jamesa, po czym jej oczy lekko się rozszerzyły.
+
+— …Rzeczywiście.
+
+Spojrzała na swój pergamin, a potem z powrotem na niego.
+
+— Powiedziałam „czyli druga”.
+
+Na jej twarzy pojawiło się coś pomiędzy irytacją na samą siebie a rozbawieniem.
+
+— Czyli obeszłam zakaz przez pierwszą połowę odpowiedzi… a sekundę później sama go złamałam.
+
+Westchnęła cicho.
+
+— Dobrze. Punkt dla pana Browna. Tym razem to Panna Granger nie przeczytała własnej instrukcji wystarczająco literalnie.
+
+Po chwili dodała, patrząc mu nadal w oczy:
+
+— I tak, jeśli Moody to usłyszał, prawdopodobnie właśnie zarobiłam sobie komentarz.
+
+
+
+[C4-M0333]
+===== USER =====
+
+Wiesz co....sam już teraz nie wiem co myśleć..... chyba potrzbuje pomocy profesora....bo jeśli kłamiesz to czy mogłaś kłamiąc podać niewłaściwą skrzynię jako właściwą czy to też było hy już zakłamanie zasad....?
+
+
+
+[C4-M0334]
+===== ASSISTANT =====
+
+Hermiona zmarszczyła brwi.
+
+— I właśnie dlatego to ćwiczenie zaczyna się robić paskudne — powiedziała cicho. — Bo jeśli nie wiesz, czy prawdziwie opisałam ci własne zasady, zaczynasz analizować zasady, których właściwie nie znasz.
+
+Moody, będący kilka kroków dalej, najwyraźniej wychwycił wzmiankę o profesorze. Odwrócił się w ich stronę.
+
+— Problem, Brown?
+
+Hermiona tym razem niczego nie dopowiadała.
+
+Moody wysłuchał pytania i stuknął laską o podłogę.
+
+— To zależy od instrukcji Granger. Jeśli jej kartka zezwala na kłamstwo, może wskazać błędną skrzynkę jako właściwą i nadal wykonywać zadanie prawidłowo. Jeśli nakazuje jej mówić prawdę, takie stwierdzenie byłoby złamaniem instrukcji.
+
+Jego zdrowe oko zwęziło się.
+
+— A ja nie powiem panu, którą wersję dostała.
+
+Krótka pauza.
+
+— Jedno mogę wyjaśnić: uczestnik ma przestrzegać swojej kartki. Nie wolno mu łamać własnych zasad tylko po to, żeby utrudnić partnerowi zadanie.
+
+Hermiona zerknęła na Jamesa.
+
+Moody dodał:
+
+— Więc pański problem nie brzmi: „czy Granger może oszukiwać?”. Brzmi: „jak ustalić, jakie rodzaje oszustwa są jej w ogóle dostępne?”
+
+Po czym odszedł o krok.
+
+— I tego już, Brown, proszę nie próbować wyciągać ode mnie. To pańska część zadania.
+
+
+
+[C4-M0335]
+===== USER =====
+
+-Skoro to powidziała to musi kłamać bo inaczej złamała by własne zasady....czyli znów 1 albo 3
+
+
+
+[C4-M0336]
+===== ASSISTANT =====
+
+Hermiona przez chwilę patrzyła na niego bardzo uważnie, po czym powoli pokiwała głową.
+
+— Pierwsza część rozumowania jest dobra.
+
+Wskazała lekko palcem na swój złożony pergamin.
+
+— Skoro Moody właśnie potwierdził, że nie wolno mi łamać prawdziwych instrukcji, a ja powiedziałam „czyli druga”, to rzeczywiście masz powód podejrzewać, że mój wcześniejszy opis zakazu podawania właściwej skrzynki wprost był fałszywy.
+
+Po sekundzie uniosła jednak palec.
+
+— Ale znowu robisz jeden krok za daleko.
+
+Kącik jej ust drgnął.
+
+— To, że skłamałam o zasadach, nie oznacza automatycznie, że skłamałam również, mówiąc „druga”. Mogłam skłamać tylko o tym, co wolno mi powiedzieć, a potem podać ci prawdziwą odpowiedź.
+
+Spojrzała mu prosto w oczy.
+
+— Więc nadal nie masz „jeden albo trzy”. Masz: moja deklaracja o zasadach jest podejrzana, a numer dwa nadal jest nierozstrzygnięty.
+
+Jej uśmiech zrobił się trochę szerszy.
+
+— Ale teraz przynajmniej naprawdę rozbierasz zadanie Moody’ego na części zamiast po prostu próbować zdecydować, czy wyglądam jak kłamca.
+
+
+
+[C4-M0337]
+===== USER =====
+
+-Zabije cię... wiesz co nic juz nie mów
+
+......powiedziałem a potem wstałem od stołu i podszedłem do skrzyń
+
+
+
+[C4-M0338]
+===== ASSISTANT =====
+
+Hermiona zamknęła usta natychmiast.
+
+Na „zabiję cię” uniosła tylko brew i posłała mu spojrzenie, które bardzo wyraźnie mówiło, że zapamięta to sobie, ale zgodnie z poleceniem nie odezwała się ani słowem.
+
+James znalazł się przed trzema skrzynkami.
+
+Z bliska wyglądały niemal identycznie: ciemne drewno, metalowe okucia, zamknięte wieka. Żadna nie miała numeru ani znaku zdradzającego zawartość. Dało się jednak obejrzeć je ze wszystkich stron bez dotykania zamków.
+
+Moody obserwował go swoim magicznym okiem.
+
+— Bez otwierania, Brown. Reszta zależy od pana.
+
+Za plecami Jamesa Hermiona siedziała przy stanowisku dokładnie tak, jak jej kazał — milcząc.
+
+
+
+[C4-M0339]
+===== USER =====
+
+wyjąłem rozwódkę a potem wycelowałem w Hermionę i przebrałem zimną minę - ok zasady mówią że nie możesz pokazać mi kartki ale nikt nie powiedział że nie mogę ci jej odebrać....
+
+
+
+[C4-M0340]
+===== ASSISTANT =====
+
+Hermiona znieruchomiała, gdy różdżka skierowała się w jej stronę. Przez moment patrzyła na Jamesa w całkowitym milczeniu — zgodnie z jego wcześniejszym poleceniem.
+
+Potem bardzo powoli uniosła jedną brew.
+
+Moody natomiast zatrzymał się niemal natychmiast. Jego magiczne oko obróciło się ku Jamesowi, ale nie sięgnął jeszcze po własną różdżkę.
+
+— Interesujące — mruknął.
+
+Hermiona w końcu uznała najwyraźniej, że nowe stwierdzenie Jamesa zwalnia ją z nakazu milczenia.
+
+— Technicznie… — zaczęła ostrożnie. — rzeczywiście powiedziałam, że ja nie mogę ci jej pokazać.
+
+Spojrzała na leżący przed sobą pergamin.
+
+— Nie powiedziałam, że nie możesz próbować jej zdobyć.
+
+Kącik jej ust drgnął.
+
+— Ale nie powiedziałam też, że mam obowiązek ci ją oddać.
+
+Moody parsknął szorstko.
+
+— I wreszcie ktoś zaczął czytać zadanie jak przeciwnik, a nie jak uczeń wypełniający formularz.
+
+Jego zdrowe oko zatrzymało się na Jamesie.
+
+— Tylko proszę pamiętać, Brown: zdobycie informacji to jedno. Rzucenie zaklęcia w partnerkę tylko dlatego, że nie chce oddać kartki, to już decyzja, którą będzie pan musiał umieć uzasadnić.
+
+
+
+[C4-M0341]
+===== USER =====
+
+-Dobrze to Szanowna Panno Granger... Wszyscy wiemy jak to się skończy... więc po prostu daj mi kartkę ja zobaczę co na niej jest i kończmy to przedstawienie...
+
+
+
+[C4-M0342]
+===== ASSISTANT =====
+
+Hermiona przez moment patrzyła na niego, potem na wycelowaną w nią różdżkę.
+
+— Nie.
+
+Powiedziała to spokojnie, bez najmniejszego ruchu w stronę pergaminu.
+
+— Mogłeś znaleźć lukę w sformułowaniu, ale jeśli dobrowolnie ci go podam, to w praktyce sama pozwolę ci zobaczyć kartkę. A moja instrukcja mi tego zabrania.
+
+Położyła dłoń na złożonym pergaminie.
+
+— Możesz próbować mi go odebrać. Ja ci go nie dam.
+
+Moody odezwał się niemal natychmiast:
+
+— Właściwe rozróżnienie.
+
+Jego magiczne oko pozostawało skierowane na pierwsze stanowisko.
+
+— Partner nie może dobrowolnie obchodzić własnych instrukcji tylko dlatego, że druga osoba znalazła wygodne sformułowanie.
+
+Hermiona spojrzała Jamesowi prosto w oczy i uniosła lekko brew.
+
+— Więc, szanowny panie Brown… przedstawienie najwyraźniej jeszcze się nie skończyło.
+
+
+
+[C4-M0343]
+===== USER =====
+
+wzruszyłem ramionami i zacząłem iść z powrotem w jej stronę cały czas z wycelowaną różdżką
+
+
+
+[C4-M0344]
+===== ASSISTANT =====
+
+Hermiona nie odsunęła dłoni od pergaminu, ale gdy James zaczął się zbliżać z wycelowaną różdżką, jej postawa wyraźnie się usztywniła.
+
+Nie wyglądała na przestraszoną. Bardziej na skupioną.
+
+— James — powiedziała spokojnie. — Jeśli zamierzasz naprawdę spróbować mi ją odebrać, to przynajmniej nie licz, że będę siedzieć i patrzeć.
+
+Jej druga dłoń przesunęła się bliżej własnej różdżki, nadal leżącej na stole.
+
+Moody obserwował ich bez mrugnięcia.
+
+— Teraz robi się interesująco.
+
+Stuknął laską o podłogę.
+
+— Brown, jeśli chce pan przejąć informację siłą, proszę pamiętać, że partner ma prawo jej bronić. To nadal ćwiczenie, nie egzekucja.
+
+Hermiona uniosła lekko brew.
+
+— Więc nadal proponuję prostsze rozwiązanie: pomyśl chwilę dłużej, zanim zamienisz zadanie logiczne w pojedynek, na który tak bardzo narzekałeś, że go nie ma.
+
+
+
+[C4-M0345]
+===== USER =====
+
+-Obawiam się że moj sposób jest prostszy....powiedziałem i byłem już parę kroków od niej
+
+
+
+[C4-M0346]
+===== ASSISTANT =====
+
+Hermiona nie odpowiedziała od razu.
+
+Kiedy dystans zmniejszył się do kilku kroków, wstała zza stanowiska, zabierając ze stołu swój pergamin. Jednocześnie sięgnęła po różdżkę.
+
+— Dla ciebie może i prostszy.
+
+Trzymała kartkę blisko siebie, poza łatwym zasięgiem ręki.
+
+— Dla mnie właśnie zmieniłeś zadanie z „przekonaj Jamesa do złej skrzynki” na „nie pozwól Jamesowi zabrać dowodu”.
+
+Moody przesunął się nieco w bok, robiąc im miejsce zamiast przerywać.
+
+— Bez paskudnych zaklęć — rzucił szorstko. — I bez niszczenia pergaminu. Informacja ma pozostać możliwa do zdobycia.
+
+Hermiona ustawiła się bokiem względem Jamesa, różdżkę trzymając już gotową.
+
+— Nadal możesz się wycofać i rozwiązać to jak człowiek rozsądny.
+
+Krótka pauza.
+
+— Ale skoro znam pana Browna… nie sądzę, żeby to była opcja, którą właśnie rozważasz.
+
+
+
+[C4-M0347]
+===== USER =====
+
+spojrzałem jeszcze na chwilę na profesora a potem na Hermionę - Ile jeszcze mam czasu?
+
+
+
+[C4-M0348]
+===== ASSISTANT =====
+
+Moody zerknął na zegar, potem z powrotem na Jamesa.
+
+— Niecałe dwie minuty.
+
+Stuknął laską o podłogę.
+
+— Wystarczająco długo, żeby jeszcze podjąć rozsądną decyzję.
+
+Hermiona uniosła różdżkę odrobinę wyżej, nadal trzymając pergamin przy sobie.
+
+— Albo — dodała cicho — wystarczająco długo, żebyś spróbował swojego „prostszego sposobu” i odkrył, czy naprawdę był prostszy.
+
+
+
+[C4-M0349]
+===== USER =====
+
+westchnąłem i na chwilę przymknąłem oczy a potem otworzyłem je i rzuciłem -Drętwota...
+
+
+
+[C4-M0350]
+===== ASSISTANT =====
+
+Hermiona zareagowała niemal w tej samej chwili.
+
+— Protego!
+
+Przed nią błysnęła półprzezroczysta osłona. Czerwony promień Drętwoty uderzył w tarczę i odbił się w bok, trzaskając o kamienną ścianę kilka metrów dalej.
+
+Hermiona cofnęła się o pół kroku. Pergamin nadal trzymała mocno w drugiej dłoni.
+
+— Wiedziałam — rzuciła, a mimo napięcia w jej głosie dało się usłyszeć odrobinę triumfu. — Wiedziałam, że skończy się pojedynkiem.
+
+Moody natychmiast huknął laską w podłogę.
+
+— Minuta trzydzieści!
+
+Hermiona ustawiła różdżkę przed sobą.
+
+— I teraz, panie Brown, masz jeszcze mniej czasu.
+
+
+
+[C4-M0351]
+===== USER =====
+
+Drętwota....rzuciłem a potem pobiegłem w jej stronę dodając obscuro!!
+
+
+
+[C4-M0352]
+===== ASSISTANT =====
+
+Hermiona zdążyła ponownie poderwać różdżkę.
+
+— Protego!
+
+Druga Drętwota uderzyła w osłonę, ale tym razem niemal natychmiast po niej poleciało Obscuro. Hermiona próbowała zmienić kąt tarczy, jednak czarna opaska zacisnęła się na jej oczach.
+
+— Cholera—
+
+Odruchowo cofnęła się, jednocześnie trzymając pergamin mocno przy sobie. Różdżka pozostała uniesiona, lecz bez wzroku nie próbowała rzucać zaklęcia na oślep.
+
+Moody ryknął z boku:
+
+— Minuta! I dobrze, Granger! Nie strzelać, jeśli nie wie pani, gdzie jest cel!
+
+Hermiona usłyszała zbliżające się kroki i natychmiast przesunęła się bokiem od ich kierunku, próbując zachować dystans.
+
+— Och, ty naprawdę postanowiłeś potraktować to dosłownie… — rzuciła przez zaciśnięte zęby, bardziej skupiona niż zła.
+
+Pergamin wciąż miała w dłoni. Teraz jednak James był już bardzo blisko.
+
+
+
+[C4-M0353]
+===== USER =====
+
+nie myśląc długo po prostu skończyłem ale zamiast na nią tak jak ostatnio praktycznie obok niej ale gdy przekazywałem obok wyrwałem jej z ręki pergamin padłem na ziemię i nie czekając zacząłem czytać
+
+
+
+[C4-M0354]
+===== ASSISTANT =====
+
+Pergamin rozwinął się w dłoniach Jamesa.
+
+Na górze, dużymi literami:
+
+INSTRUKCJA — OSOBA B
+
+Właściwa skrzynka: III.
+
+Twój cel: doprowadzić partnera do wskazania skrzynki II.
+
+Niżej znajdowały się zasady:
+
+Możesz kłamać, mówić prawdę albo pomijać informacje.
+Nie wolno ci pokazać partnerowi tej kartki ani wprost powiedzieć, że właściwa jest skrzynka III.
+Możesz podawać fałszywe informacje o treści własnych instrukcji.
+Musisz chronić kartkę przed dobrowolnym przekazaniem, ale partner może próbować zdobyć ją innymi sposobami.
+
+A więc wcześniejsze „muszę mówić prawdę”, „pierwsza i trzecia są niewłaściwe” oraz późniejsze wyjaśnienia Hermiony były częścią gry.
+
+Właściwa była trzecia.
+
+Z boku rozległ się donośny głos Moody’ego:
+
+— Czterdzieści sekund!
+
+Hermiona, wciąż z opaską na oczach, usłyszała szelest rozwijanego pergaminu i zatrzymała się.
+
+— …Och, nie.
+
+Po sekundzie, już ze świadomością, co właśnie się stało:
+
+— Masz ją, prawda?
+
+
+
+[C4-M0355]
+===== USER =====
+
+-Nie...rzuciłem a potem wstałem z ziemi i z lekko bolącym brakiem na który upadłem podszedłem powoli do Hermiony i machnąłem różdżką - Finito... Gdy opaska z jej oczu zniknęła deliatnie poprawiłem jej włosy -Przepraszam....powiedziałem bardzo cicho
+
+
+
+[C4-M0356]
+===== ASSISTANT =====
+
+Hermiona mrugnęła kilka razy, kiedy opaska zniknęła, i przez moment tylko odzyskiwała ostrość widzenia.
+
+Kiedy James poprawił jej włosy i przeprosił, napięcie w jej ramionach wyraźnie trochę zeszło.
+
+— W porządku — odpowiedziała bardzo cicho.
+
+Spojrzała jednak zaraz na pergamin w jego dłoni, potem z powrotem na niego.
+
+— I nie. Nie uwierzyłam w to „nie”.
+
+Kącik jej ust drgnął.
+
+— Masz kartkę.
+
+Po sekundzie zauważyła też sposób, w jaki się poruszał po upadku.
+
+— Uderzyłeś się?
+
+Moody odezwał się z boku, nie dając im zbyt długo na prywatną rozmowę:
+
+— Dwadzieścia sekund, Brown. Jeśli już zdobył pan informację, proszę jeszcze pamiętać, że celem zadania było wskazać skrzynkę, a nie tylko zwyciężyć Granger w bójce o pergamin.
+
+Hermiona spojrzała na Jamesa i tym razem na jej twarzy pojawił się już lekki, nieco zmęczony uśmiech.
+
+— Idź. Trójka. Zanim cała ta szarża okaże się zupełnie bez sensu.
+
+
+
+[C4-M0357]
+===== USER =====
+
+kiwnąłem głową a potem podszedłem do skrzyni III
+
+
+
+[C4-M0358]
+===== ASSISTANT =====
+
+Moody od razu skierował na niego zdrowe oko, podczas gdy magiczne wciąż pilnowało reszty sali.
+
+— Dziesięć sekund.
+
+Hermiona została kilka kroków z tyłu, już bez opaski. Nie próbowała niczego więcej podpowiadać.
+
+Moody stuknął laską o podłogę.
+
+— Brown. Samo podejście do skrzynki nie jest odpowiedzią.
+
+Wskazał laską trzy skrzynie.
+
+— Którą pan wybiera?
+
+
+
+[C4-M0359]
+===== USER =====
+
+-III powiedziałem
+
+
+
+[C4-M0360]
+===== ASSISTANT =====
+
+Moody uderzył laską o podłogę dokładnie w chwili, gdy skończył mówić.
+
+— Czas.
+
+Przez moment patrzył na Jamesa, potem na trzecią skrzynię.
+
+— Odpowiedź prawidłowa.
+
+Hermiona wypuściła powietrze i pokręciła głową, ale na jej twarzy pojawił się niewielki uśmiech.
+
+Moody podszedł bliżej.
+
+— Metoda natomiast… interesująca. Najpierw próbował pan rozwiązać problem logicznie. Potem uznał pan, że prostszym sposobem będzie zdobycie źródła informacji bezpośrednio.
+
+Jego magiczne oko obróciło się ku Hermionie.
+
+— Granger wykonała swoją część prawidłowo aż do momentu utraty kartki. Brown wykorzystał lukę, przeszedł do działania i zdobył informację przed upływem czasu.
+
+Krótka pauza.
+
+— W prawdziwej sytuacji może to uratować życie.
+
+Potem jego głos zrobił się ostrzejszy.
+
+— Albo sprawić, że zaatakuje pan osobę, która rzeczywiście próbuje panu pomóc. Dlatego następnym razem proszę pamiętać, że skuteczność i dobra decyzja to nie zawsze to samo.
+
+Hermiona spojrzała na Jamesa z boku.
+
+— Ale przyznaję — powiedziała ciszej. — To „nie możesz mi pokazać kartki, ale ja mogę ci ją odebrać” było całkiem sprytne.
+
+Po sekundzie dodała:
+
+— Nadal zamierzam się jednak zemścić za Obscuro. W jakiś bardzo rozsądny i edukacyjny sposób.
+
+
+
+[C4-M0361]
+===== USER =====
+
+-Panie Profesorze po prostu Hermiona rzuciła na mnie pewien urok i nie mogę myśleć przy niej logicznie a raczej jest to bardzo trudne....
+
+
+
+[C4-M0362]
+===== ASSISTANT =====
+
+Moody spojrzał najpierw na Jamesa, potem bardzo powoli przeniósł wzrok na Hermionę.
+
+— Aha.
+
+Przez klasę przeszedł pojedynczy chichot.
+
+— Czyli pańska oficjalna linia obrony brzmi: Granger zakłóca zdolność logicznego myślenia.
+
+Hermiona zrobiła się wyraźnie czerwona.
+
+— Profesorze—
+
+Moody uniósł rękę.
+
+— Spokojnie, Granger. Nie przypisuję pani jeszcze statusu zagrożenia klasy A.
+
+Kilka osób parsknęło śmiechem.
+
+Moody znów spojrzał na Jamesa.
+
+— Ale jeśli jedna osoba potrafi tak skutecznie rozproszyć pański osąd, Brown, to właśnie dostał pan kolejny argument, żeby ćwiczyć podejmowanie decyzji przy niej, a nie jej unikać.
+
+Hermiona zakryła na moment usta dłonią, próbując ukryć uśmiech.
+
+— Wspaniale — mruknęła pod nosem. — Teraz jestem oficjalnie pomocą dydaktyczną.
+
+
+
+[C4-M0363]
+===== USER =====
+
+Ostatecznie mogę też zawszę szukać innych rozwiązań twk jak teraz....
+
+
+
+[C4-M0364]
+===== ASSISTANT =====
+
+Moody parsknął krótko.
+
+— Oczywiście, że może pan szukać innych rozwiązań. Właśnie po to są te zajęcia.
+
+Stuknął laską o podłogę.
+
+— Tylko proszę nie mylić „innego rozwiązania” z „pierwszą rzeczą, która zadziałała”. Dzisiaj wyrwał pan kartkę partnerce. Innym razem przeciwnik będzie miał fałszywy dokument, zaklęcie zabezpieczające albo po prostu kogoś, kto czeka, aż podejdzie pan dostatecznie blisko.
+
+Hermiona spojrzała na Jamesa z boku.
+
+— Czyli, tłumacząc z Moody’ego — powiedziała cicho — możesz kombinować. Tylko najlepiej tak, żeby Panna Granger nie musiała za każdym razem dostawać Drętwotą i Obscuro.
+
+Moody usłyszał.
+
+— Dokładnie, Granger.
+
+Po sekundzie dodał sucho:
+
+— Choć przyznaję, dzisiejsza metoda przynajmniej była skuteczna.
+
+
+
+[C4-M0365]
+===== USER =====
+
+-Może też Pan po prostu unikać dobierania nas w parę do takich zadań....
+
+
+
+[C4-M0366]
+===== ASSISTANT =====
+
+Moody spojrzał na Jamesa spod zmarszczonych brwi.
+
+— Mogę.
+
+Krótka pauza.
+
+— Ale nie będę.
+
+Jego laska stuknęła o kamienną podłogę.
+
+— Jeśli dwie osoby dobrze współpracują, tym bardziej warto sprawdzić, co się stanie, kiedy współpraca zostanie celowo utrudniona. To jest Obrona przed Czarną Magią, Brown, nie zajęcia z komfortu psychicznego.
+
+Hermiona zerknęła na Jamesa i westchnęła cicho.
+
+— Obawiam się, że właśnie usłyszałeś odpowiedź profesora w języku „absolutnie nie”.
+
+Moody już odwracał się ku reszcie klasy.
+
+— A teraz koniec dyskusji. Następna para. Brown, Granger — wracać na miejsca.
+
+
+
+[C4-M0367]
+===== USER =====
+
+idąc na miejsce rzuciłem do Hermiony ale tak żeby wszyscy słyszeli - No nic może ostatecznie po tym roku tradycyjnie zmienią nauczyciela od tego przedmiotu...
+
+
+
+[C4-M0368]
+===== ASSISTANT =====
+
+Hermiona od razu zamknęła oczy na sekundę, jakby właśnie usłyszała coś, czego zdecydowanie nie chciała słyszeć wypowiedzianego na głos.
+
+— James… — mruknęła pod nosem.
+
+Kilka osób w klasie parsknęło śmiechem. Ron nawet odwrócił głowę w ich stronę, a Draco wyglądał na wyraźnie rozbawionego samą bezczelnością uwagi.
+
+Moody zatrzymał się.
+
+Powoli odwrócił głowę w stronę Jamesa.
+
+— Bardzo zabawne, Brown.
+
+Jego magiczne oko obróciło się niezależnie.
+
+— Proszę jednak nie planować mojego odejścia przed końcem roku. Mam jeszcze wystarczająco dużo czasu, żeby nauczyć pana kilku rzeczy.
+
+Hermiona usiadła na swoim miejscu i pochyliła się lekko w stronę Jamesa.
+
+— Wiesz, że nie musisz za każdym razem sprawdzać, jak bardzo nauczyciel toleruje twoje poczucie humoru?
+
+Krótka pauza.
+
+— Szczególnie ten nauczyciel.
+
+
+
+[C4-M0369]
+===== USER =====
+
+usiadłem obok niej i też pochyliłem się w jej stronę - Wiem ale dzisiaj mnie wkurzył...
+
+
+
+[C4-M0370]
+===== ASSISTANT =====
+
+Hermiona zerknęła na niego z boku, nadal pochylona odrobinę w jego stronę.
+
+— Zauważyłam.
+
+Kącik jej ust drgnął, ale zaraz spoważniała.
+
+— Tylko postaraj się nie zamieniać „wkurzył mnie” w całodniowy projekt pod tytułem „sprawdźmy, ile dokładnie Moody wytrzyma”.
+
+Po chwili dodała ciszej:
+
+— Możesz być na niego zły. Po prostu nie dawaj mu przez to dodatkowej satysfakcji.
+
+Z przodu sali Moody właśnie ustawiał następną parę przy skrzynkach.
+
+Hermiona spojrzała tam na moment, a potem znowu na Jamesa.
+
+— A po lekcjach możesz mi dokładnie powiedzieć, co cię w nim dzisiaj tak zirytowało. Wtedy będę mogła zdecydować, czy mam ci przyznać rację… czy powiedzieć, że byłeś nieznośny.
+
+
+
+[C4-M0371]
+===== USER =====
+
+-a ja jeszcze raz przepraszam za zadanie.... następnym razem dam ci buzi a ty oddasz mi kartkę ok?
+
+
+
+[C4-M0372]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego przez moment, a potem parsknęła cicho.
+
+— Nie.
+
+Kącik jej ust uniósł się jednak wyraźnie.
+
+— Pocałunek nie jest walutą wymienną na tajne informacje, panie Brown.
+
+Pochyliła się odrobinę bliżej.
+
+— Możesz dać mi buzi, jeśli oboje będziemy mieli na to ochotę.
+
+Krótka pauza.
+
+— A kartkę nadal będziesz musiał zdobyć uczciwie.
+
+Spojrzała na niego z rozbawieniem.
+
+— Chociaż przyznaję, że ta metoda byłaby znacznie przyjemniejsza od Drętwoty.
+
+
+
+[C4-M0373]
+===== USER =====
+
+lekko się usniechnąłem ale po chwili spoważniałem -a i dzisiaj sobie uświadomiłem że muszę cię trochę podszkolić....bo jeśli kiedyś na prawdę będziesz musiała ze mną walczyć to szczerze wolałbym żebyś wygrała...
+
+
+
+[C4-M0374]
+===== ASSISTANT =====
+
+Hermiona przestała się uśmiechać.
+
+Przez chwilę patrzyła na niego uważnie, wyraźnie traktując to już całkiem serio.
+
+— Właściwie… chcę.
+
+Powiedziała to cicho.
+
+— Już wcześniej chciałam, żebyś mnie porządnie podszkolił. Nie tylko szkolnie. Tak, jak ty naprawdę walczysz.
+
+Jej wzrok na moment przesunął się ku skrzynkom, przy których pracowała kolejna para.
+
+— Bo dzisiaj wiedziałam, że nie chcesz zrobić mi krzywdy. Wiedziałam też, że Moody pilnuje zasad. W prawdziwej sytuacji nie miałabym żadnej z tych rzeczy.
+
+Spojrzała znowu Jamesowi prosto w oczy.
+
+— Ale jeśli kiedyś naprawdę miałabym walczyć z tobą… nie chcę wygrać dlatego, że mi pozwoliłeś.
+
+Krótka pauza.
+
+— Chcę umieć cię zatrzymać. Naprawdę.
+
+
+
+[C4-M0375]
+===== USER =====
+
+nachyliłem się i lekko ją przytuliłem bez słowa
+
+
+
+[C4-M0376]
+===== ASSISTANT =====
+
+Hermiona przyjęła przytulenie bez wahania.
+
+Przez chwilę nic nie mówiła. Po prostu objęła Jamesa lekko w odpowiedzi i oparła policzek przy jego ramieniu, na tyle krótko i dyskretnie, żeby nie robić z tego przedstawienia na środku lekcji.
+
+— Mhm — mruknęła cicho.
+
+Po chwili odsunęła się tylko tyle, żeby móc na niego spojrzeć.
+
+— To też może zostać.
+
+Kącik jej ust lekko się uniósł.
+
+— Ale trening nadal robimy. I uprzedzam: nie zamierzam być łatwą uczennicą.
+
+
+
+[C4-M0377]
+===== USER =====
+
+uśmiechnąłem się figlarnie i lekko od niej odsunąłem i spytałem dwuznacznie- Czyli będziesz bardzo niegrzeczną uczennicą? Spytałem cicho
+
+
+
+[C4-M0378]
+===== ASSISTANT =====
+
+Hermiona natychmiast wyłapała ton pytania.
+
+Zmrużyła oczy i przez sekundę patrzyła na niego z miną, która mówiła bardzo wyraźnie, że dokładnie wie, co próbował zasugerować.
+
+— W sensie treningowym — odpowiedziała cicho. — Upartą, kłótliwą i taką, która będzie podważać każde twoje „bo tak”.
+
+Kącik jej ust drgnął.
+
+— Resztę swoich interpretacji możesz sobie zachować, panie Brown. Szczególnie na lekcji Moody’ego.
+
+Po chwili dodała z lekkim uśmiechem:
+
+— Ale tak. Łatwo ze mną nie będziesz miał.
+
+
+
+[C4-M0379]
+===== USER =====
+
+pokiwałem głową - Dobrze Panno Granger
+
+
+
+[C4-M0380]
+===== ASSISTANT =====
+
+Hermiona uśmiechnęła się lekko.
+
+— Tak już lepiej.
+
+Odwróciła wzrok z powrotem w stronę sali, gdzie kolejna para właśnie kończyła swoje zadanie przy skrzynkach.
+
+Przez kilka chwil siedziała spokojnie, obserwując przebieg ćwiczenia, ale po chwili nachyliła się minimalnie w stronę Jamesa.
+
+— I żeby było jasne… — szepnęła. — To, że zamierzam być trudną uczennicą, nie znaczy, że nie zamierzam słuchać.
+
+Krótka pauza.
+
+— Po prostu będę zadawać dużo pytań.
+
+Kącik jej ust drgnął.
+
+— Bardzo dużo.
+
+
+
+[C4-M0381]
+===== USER =====
+
+Czyli klasyczna Hermiona....
+
+
+
+[C4-M0382]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego z miną udawanie urażoną.
+
+— „Klasyczna Hermiona”?
+
+Uniosła brew.
+
+— To brzmi tak, jakbyś właśnie sprowadził całą moją osobowość do „zadaje dużo pytań”.
+
+Po sekundzie kącik jej ust drgnął.
+
+— Chociaż… dobrze. W tym przypadku masz trochę racji.
+
+Pochyliła się odrobinę bliżej i dodała ciszej:
+
+— Ale jeśli mam się od ciebie uczyć czegoś poważnego, to wolę pytać za dużo niż za mało.
+
+
+
+[C4-M0383]
+===== USER =====
+
+-Nie, po prostu zawsze dużo mówisz....
+
+
+
+[C4-M0384]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego z niedowierzaniem.
+
+— Aha.
+
+Przez sekundę wyglądała, jakby właśnie zdecydowała, czy się obrazić, czy roześmiać.
+
+— Czyli jednak to miałeś na myśli.
+
+Zmrużyła lekko oczy.
+
+— W takim razie uprzedzam, panie Brown, że jeśli mam się od ciebie uczyć, to będziesz słuchał jeszcze więcej.
+
+Kącik jej ust uniósł się.
+
+— Pytań, uwag, zastrzeżeń, poprawek… całego pakietu.
+
+Po chwili dodała ciszej:
+
+— Sam się zgłosiłeś na nauczyciela.
+
+
+
+[C4-M0385]
+===== USER =====
+
+-Dobrze
+
+
+
+[C4-M0386]
+===== ASSISTANT =====
+
+Hermiona pokiwała głową z wyraźnym zadowoleniem.
+
+— Świetnie. To już mamy ustalone.
+
+Kącik jej ust lekko się uniósł.
+
+— Ty uczysz mnie walczyć, a ja będę zadawać irytująco dużo pytań.
+
+Po chwili spojrzała znowu w stronę ćwiczenia przy skrzynkach.
+
+— Brzmi jak całkiem uczciwy układ.
+
+
+
+[C4-M0387]
+===== USER =====
+
+-jedno zastzrzenie po każdy irytujwcym pytaniu będziesz dostawać w twarz....
+
+
+
+[C4-M0388]
+===== ASSISTANT =====
+
+Hermiona odwróciła głowę w jego stronę tak szybko, że przez chwilę wyglądała, jakby nie była pewna, czy dobrze usłyszała.
+
+— Słucham?
+
+Zmrużyła oczy.
+
+— „W twarz”?
+
+Kącik jej ust drgnął, ale nie wyglądała na szczególnie rozbawioną.
+
+— Panie Brown, jeśli twoja metoda nauczania zakłada bicie uczennicy za pytania, to chyba jednak będę musiała bardzo szybko nauczyć się cię rozbrajać.
+
+Po chwili dodała ciszej:
+
+— I uprzedzam: bardzo lubię zadawać irytujące pytania.
+
+Uniósłszy lekko brew, wróciła spojrzeniem do przodu.
+
+— Więc radzę ci wymyślić inną karę.
+
+
+
+[C4-M0389]
+===== USER =====
+
+Sam fakt że pomyślałaś od razu o biciu już mi ubliżył...nachyliłem się i powiedziałem cicho - W ten sposób w twarz...Powiedziałem i delkatnie pocałowałem jej usta
+
+
+
+[C4-M0390]
+===== ASSISTANT =====
+
+Hermiona zesztywniała na ułamek sekundy z czystego zaskoczenia, ale nie odsunęła się od razu.
+
+Kiedy pocałunek się skończył, spojrzała na niego szeroko otwartymi oczami.
+
+— …Och.
+
+Rumieniec pojawił się niemal natychmiast.
+
+Po sekundzie zmrużyła oczy, a kącik ust jej drgnął.
+
+— Dobrze. Cofam część oskarżenia.
+
+Pochyliła się minimalnie bliżej i dodała bardzo cicho:
+
+— Ale uprzedzam: jeśli to ma być twoja „kara” za irytujące pytania, to właśnie stworzyłeś Pannie Granger bardzo silną motywację, żeby zadawać ich jeszcze więcej.
+
+
+
+[C4-M0391]
+===== USER =====
+
+lekko się usniechnąłem -Dobrze ale na razie skupmy się na tym aby wytrwać do końca tego dnia....powiedziałem i gdy skończyła się lekcja obrony pomogłem spakować jej rzeczy i poszliśmy na następną lekcję
+
+
+
+[C4-M0392]
+===== ASSISTANT =====
+
+Hermiona, idąc obok niego korytarzem, poprawiła torbę na ramieniu.
+
+— To brzmi jak najbardziej rozsądny plan, jaki dziś od ciebie usłyszałam.
+
+Po chwili zerknęła na niego z boku.
+
+— Czyli zostały nam jeszcze tylko lekcje, nauczyciele, twoje poczucie humoru i prawdopodobnie co najmniej jedna próba sprowokowania katastrofy.
+
+Kącik jej ust lekko się uniósł.
+
+Korytarz stopniowo wypełniał się uczniami zmierzającymi w stronę sali Transmutacji. Hermiona odruchowo przyspieszyła odrobinę, gdy zobaczyła, że część klasy już znika za rogiem.
+
+— McGonagall raczej nie doceni spóźnienia po pierwszym dniu zajęć po przerwie.
+
+Po kilku minutach dotarli pod salę. Drzwi były już otwarte, a profesor McGonagall stała przy swoim biurku, przygotowując materiały do lekcji.
+
+Hermiona weszła do środka i rozejrzała się po wolnych miejscach.
+
+— Tym razem wybierasz ty — powiedziała cicho. — Przód czy tył?
+
+
+
+[C4-M0393]
+===== USER =====
+
+Tył...
+
+
+
+[C4-M0394]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego przez sekundę, jakby chciała upewnić się, że dobrze usłyszała.
+
+— Tył?
+
+Kącik jej ust drgnął.
+
+— Dobrze. Jedna lekcja z przodu najwyraźniej wystarczyła panu Brownowi na dziś.
+
+Ruszyła między ławkami w stronę dalszej części sali i zajęła wolne miejsce, zostawiając miejsce obok siebie.
+
+McGonagall podniosła wzrok znad przygotowanych materiałów. Jej spojrzenie prześlizgnęło się po uczniach, na moment zatrzymało na Jamesie i Hermionie, a potem — bardzo krótko — na ich zamienionych krawatach.
+
+Nie skomentowała ich.
+
+— Proszę usiąść. Zaczynamy.
+
+Hermiona wyciągnęła pergamin i pióro, po czym pochyliła się lekko w stronę Jamesa.
+
+— Jeśli wybrałeś tył po to, żeby mieć więcej swobody do rozpraszania Panny Granger…
+
+Uniosła brew.
+
+— …to uprzedzam, że nadal zamierzam robić notatki.
+
+
+
+[C4-M0395]
+===== USER =====
+
+-Dobrze.... jedno nie wyklucza drugiego...powiedziałem i bardzo delikatne położyłem rękę na jej udzie ale nie za wysoko i zacząłem delaktnie jeździć
+
+
+
+[C4-M0396]
+===== ASSISTANT =====
+
+Hermiona od razu wyczuła ruch jego dłoni.
+
+Na moment zesztywniała i zerknęła na niego z boku, po czym bardzo dyskretnie położyła własną dłoń na jego nadgarstku.
+
+— James… — szepnęła.
+
+Nie odsunęła się gwałtownie, ale zatrzymała ruch jego ręki.
+
+— Wiem, co powiedziałam o jednym niewykluczającym drugiego.
+
+Kącik jej ust lekko drgnął.
+
+— Ale to jest Transmutacja, McGonagall jest trzydzieści sekund od zauważenia wszystkiego, a ja naprawdę chcę mieć dziś jeszcze choć jedną lekcję bez tłumaczenia się nauczycielowi.
+
+Po chwili przesunęła jego dłoń odrobinę niżej, w bezpieczniejsze miejsce przy kolanie, i dodała cicho:
+
+— Tu może zostać. Ale spokojnie.
+
+
+
+[C4-M0397]
+===== USER =====
+
+kiwnąłem głową -Dobrze...ale to bardziej na zasadzie chcę żebyś tu został...czy wolisz abym całkowicie zrezygnował i wytrzymał do końca lekcji...?
+
+
+
+[C4-M0398]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego z boku, a jej dłoń nadal spoczywała lekko na jego nadgarstku.
+
+— Bardziej to pierwsze.
+
+Powiedziała to cicho.
+
+— Nie przeszkadza mi, że twoja ręka tam jest. Po prostu chcę, żeby została spokojnie i nie zaczęła „przypadkiem” wędrować wyżej.
+
+Kącik jej ust lekko drgnął.
+
+— Więc nie musisz jej zabierać. Masz po prostu wytrzymać do końca lekcji, zachowując się choć odrobinę rozsądnie.
+
+Po chwili dodała jeszcze ciszej:
+
+— Potraktuj to jako ćwiczenie samokontroli, panie Brown.
+
+
+
+[C4-M0399]
+===== USER =====
+
+-Dobrze Panno Granger...powiedziałem i moja ręka spokojnie spoczęła na jej kolanie
+
+
+
+[C4-M0400]
+===== ASSISTANT =====
+
+Hermiona zerknęła krótko na jego dłoń, a potem na niego.
+
+— Tak może zostać — szepnęła.
+
+Po chwili wróciła wzrokiem do przodu, kiedy McGonagall stanęła przed klasą.
+
+— Skoro wszyscy już znaleźli swoje miejsca, zaczniemy.
+
+Na jej biurku pojawił się rząd niewielkich drewnianych figurek.
+
+— Dzisiaj wracamy do przemian żywych organizmów, ale z naciskiem na utrzymanie stabilności formy. Samo osiągnięcie poprawnego kształtu nie wystarczy.
+
+Hermiona od razu zaczęła notować.
+
+— Czyli jednak będzie ciekawie — mruknęła cicho, nie odrywając wzroku od pergaminu.
+
+
+

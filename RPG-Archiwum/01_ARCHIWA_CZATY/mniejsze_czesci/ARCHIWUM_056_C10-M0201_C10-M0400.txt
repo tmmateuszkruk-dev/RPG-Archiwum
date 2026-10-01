@@ -1,0 +1,2567 @@
+[C10-M0201]
+===== USER =====
+
+-Tak w zasadzie to skrzaty zajmują się prawie wszyatkim a na odległość przyjmują jakieś dokładniejsze dyspozycję   od takiego goblina....
+
+
+[C10-M0202]
+===== ASSISTANT =====
+
+Hermiona od razu podchwyciła:
+
+— Lodgok — przypomniała. — Ten zarządca, o którym opowiadałeś nam w Hogwarcie. Ma tę starą umowę z twoją rodziną.
+
+Jej ojciec spojrzał na nią, potem na Jamesa.
+
+— Zaraz. Goblin zarządza waszym majątkiem?
+
+— W dużej mierze tak to rozumiem — odpowiedziała Hermiona. — James jest właścicielem, ale kiedy jest w szkole albo gdzie indziej, Lodgok zajmuje się sprawami majątku, a skrzaty wykonują większość codziennych rzeczy.
+
+Matka Hermiony uniosła brwi.
+
+— Czyli majątek jest na tyle duży, że masz… zarządcę, który zdalnie wydaje polecenia obsłudze różnych domów?
+
+Hermiona zerknęła na Jamesa z lekkim uśmiechem.
+
+— Ostrzegałam was, że „kilka rodzinnych posiadłości” w jego wykonaniu może oznaczać coś trochę innego niż u większości ludzi.
+
+
+[C10-M0203]
+===== USER =====
+
+pokiwałem głową - tak jest tego sporo...
+
+
+[C10-M0204]
+===== ASSISTANT =====
+
+Ojciec Hermiony pokiwał powoli głową.
+
+— Zaczynam rozumieć, że za każdym razem, kiedy mówisz „sporo”, powinienem zakładać, że celowo unikasz konkretnej liczby.
+
+Hermiona parsknęła cicho.
+
+— To akurat bardzo możliwe. Kiedy pierwszy raz mi o tym opowiadał, też zaczęło się niewinnie od „kilku posiadłości”.
+
+Jej matka spojrzała na Jamesa z zaciekawieniem.
+
+— A ty w ogóle znasz je wszystkie? Mam na myśli nie tylko to, że wiesz, że istnieją, ale naprawdę pamiętasz, gdzie są i jak wyglądają?
+
+Hermiona zerknęła na Jamesa.
+
+— Mówiłeś kiedyś, że jako dziecko byłeś po kilka razy w tych miejscach i sporo cię o nich uczono — przypomniała. — Więc podejrzewam, że odpowiedź brzmi „tak”.
+
+
+[C10-M0205]
+===== USER =====
+
+Wiem gdzie jest większość, coś niecoś też pamiętam... ale najważniejsze rzeczy mam zapisane....
+
+
+[C10-M0206]
+===== ASSISTANT =====
+
+Ojciec Hermiony skinął powoli głową.
+
+— To akurat brzmi rozsądnie. Przy większej liczbie nieruchomości trudno byłoby polegać wyłącznie na pamięci.
+
+Hermiona zerknęła na Jamesa z lekkim uśmiechem.
+
+— Zwłaszcza że, jak sam mówiłeś, część z nich ostatni raz widziałeś jeszcze jako dziecko.
+
+Jej matka spojrzała na niego z zaciekawieniem.
+
+— A te zapiski to coś w rodzaju rodzinnej dokumentacji? Opisy posiadłości, sprawy własności, takie rzeczy?
+
+Ojciec dodał po chwili:
+
+— Bo zaczynam odnosić wrażenie, że Lodgok nie tyle „pilnuje domu”, co właściwie prowadzi za ciebie całkiem pokaźny rodzinny majątek.
+
+
+[C10-M0207]
+===== USER =====
+
+Też, ale mam też własne zapiski...a Lodgok tak można tak powiedzieć
+
+
+[C10-M0208]
+===== ASSISTANT =====
+
+Ojciec Hermiony pokiwał głową.
+
+— Czyli masz własne notatki, ale bieżącym zarządzaniem zajmuje się Lodgok. To już brzmi bardziej jak administracja majątkiem niż pilnowanie kilku domów.
+
+Hermiona uśmiechnęła się lekko.
+
+— Mniej więcej tak to wyglądało, kiedy mi o nim opowiadałeś. Chociaż wtedy rozmowa bardzo szybko zeszła na ten słynny list, który mu wysłałeś.
+
+Jej matka spojrzała na córkę.
+
+— Jaki list?
+
+Hermiona od razu zerknęła na Jamesa, a w jej oczach pojawiło się rozbawienie.
+
+— O, nie. Tego nie będę opowiadać za niego.
+
+Ojciec Hermiony spojrzał na Jamesa z nowym zainteresowaniem.
+
+— Mam wrażenie, że właśnie pojawił się znacznie ciekawszy temat niż zarządzanie nieruchomościami.
+
+
+[C10-M0209]
+===== USER =====
+
+pokręciłem głową powiedzmy że Lodgok to taki przyjaciel.....i kiedyś wysłałem mu list w którym pisałem że poznałem młodą bardzo inteligentną i piękną damę która zwróciła moją uwagę....
+
+
+[C10-M0210]
+===== ASSISTANT =====
+
+Hermiona spojrzała na Jamesa, a na jej twarzy pojawił się ten bardzo konkretny uśmiech, który sugerował, że doskonale wie, jak wiele właśnie pominął.
+
+— To jest… niezwykle skrócona wersja tej historii.
+
+Jej matka zerknęła na córkę.
+
+— Skrócona?
+
+Hermiona przygryzła na moment wargę, najwyraźniej próbując się nie roześmiać.
+
+— List miał około trzydziestu stron.
+
+Ojciec Hermiony powoli odwrócił głowę w stronę Jamesa.
+
+— Trzydziestu?
+
+— Mhm — potwierdziła Hermiona z coraz większym rozbawieniem. — A kilka stron poświęcił bardzo szczegółowym obserwacjom na mój temat.
+
+Jej matka spojrzała najpierw na córkę, potem na Jamesa.
+
+— Rozumiem. Czyli „zwróciła moją uwagę” było naprawdę… oszczędnym podsumowaniem.
+
+
+[C10-M0211]
+===== USER =====
+
+znowu pokręciłem głową - To było dawno....
+
+
+[C10-M0212]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego z rozbawieniem.
+
+— „Dawno” — powtórzyła. — James, to było kilka miesięcy temu, nie w poprzednim stuleciu.
+
+Jej ojciec uniósł brew.
+
+— Trzydziestostronicowy list o dziewczynie, którą dopiero co poznałeś, rzeczywiście brzmi jak coś, co chciałoby się szybko zakwalifikować jako zamierzchłą przeszłość.
+
+— Tato… — Hermiona parsknęła śmiechem.
+
+Jej matka spojrzała na córkę.
+
+— A ty wiedziałaś o tym liście?
+
+— Niestety tak — odpowiedziała Hermiona, po czym zerknęła na Jamesa. — I znam nawet kilka szczegółów, których zdecydowanie nie zamierzam teraz zdradzać.
+
+Ojciec Hermiony uśmiechnął się.
+
+— To zdanie tylko pogorszyło sytuację.
+
+Hermiona dotknęła palcami diamentu na szyi.
+
+— Wiem. Dlatego właśnie na tym kończę.
+
+
+[C10-M0213]
+===== USER =====
+
+-Dawno....powtórzyłem po raz kolejny
+
+
+[C10-M0214]
+===== ASSISTANT =====
+
+Hermiona popatrzyła na Jamesa przez chwilę, po czym powoli pokiwała głową z przesadną powagą.
+
+— Oczywiście. Dawno — zgodziła się wreszcie. — Zamierzam uszanować twoją wersję chronologii.
+
+Kącik jej ust zdradziecko drgnął.
+
+— Ten trzydziestostronicowy list należy już do zamierzchłej historii i nie wolno go wykorzystywać przeciwko panu Brownowi.
+
+Jej ojciec parsknął śmiechem.
+
+— Dobrze. W takim razie oficjalnie uznajemy sprawę za przedawnioną.
+
+Hermiona przysunęła się odrobinę bliżej Jamesa.
+
+— Widzisz? Uratowany. Na razie.
+
+
+[C10-M0215]
+===== USER =====
+
+posłałem jej groźne spjrzenie ale nie mogłem powstrzymać uśmiechu
+
+
+[C10-M0216]
+===== ASSISTANT =====
+
+Hermiona wytrzymała to „groźne” spojrzenie może dwie sekundy, zanim uśmiechnęła się jeszcze szerzej.
+
+— Och, straszne — mruknęła. — Naprawdę się boję.
+
+Jej ojciec zerknął na Jamesa i parsknął cicho.
+
+— Nie jestem pewien, czy groźne spojrzenie działa, kiedy człowiek jednocześnie się uśmiecha.
+
+Hermiona od razu przytaknęła.
+
+— Właśnie. Kompletnie psuje efekt.
+
+Po chwili szturchnęła Jamesa lekko ramieniem.
+
+— I nie martw się. Nie zamierzam wyciągać przy rodzicach całej trzydziestostronicowej dokumentacji.
+
+Krótka pauza.
+
+— Chyba że będziesz mnie prowokował.
+
+
+[C10-M0217]
+===== USER =====
+
+-Znowu mi grozisz....
+
+
+[C10-M0218]
+===== ASSISTANT =====
+
+Hermiona uniosła brwi z miną niewiniątka.
+
+— Grożę? Ja tylko bardzo uprzejmie informuję cię o możliwych konsekwencjach twoich decyzji.
+
+Jej ojciec parsknął śmiechem.
+
+— Brzmi dokładnie jak groźba sformułowana przez kogoś, kto przeczytał za dużo książek.
+
+— Tato!
+
+Matka Hermiony uśmiechnęła się pod nosem.
+
+Hermiona szturchnęła Jamesa ramieniem i ściszyła głos:
+
+— Poza tym sam przed chwilą ustaliliśmy, że podobno jestem do tego zdolna. Więc może powinieneś uważać.
+
+
+[C10-M0219]
+===== USER =====
+
+przewróciłem oczami jednak po chwili zacząłem - Dobrze...
+
+
+[C10-M0220]
+===== ASSISTANT =====
+
+Hermiona od razu spojrzała na Jamesa uważniej.
+
+— „Dobrze”…? — powtórzyła, wyraźnie podejrzliwa. — To zabrzmiało zdecydowanie zbyt łatwo.
+
+Jej ojciec oparł się wygodniej.
+
+— Też to usłyszałem.
+
+Matka Hermiony uśmiechnęła się lekko, ale nic nie dodała.
+
+Hermiona zmrużyła oczy, nadal patrząc na Jamesa.
+
+— No dobrze. Co teraz kombinujesz?
+
+
+[C10-M0221]
+===== USER =====
+
+dodałem cicho - Po prostu bardzo cię kocham i czasami daje ci fory...
+
+
+[C10-M0222]
+===== ASSISTANT =====
+
+Hermiona usłyszała. Jej rozbawiony uśmiech od razu złagodniał, choć w oczach nadal miała ten sam figlarny błysk.
+
+— Czasami? — odpowiedziała równie cicho, unosząc lekko brew. — Jak niezwykle wielkodusznie z twojej strony.
+
+Po chwili jednak przestała się droczyć.
+
+— Też cię kocham — dodała ciszej.
+
+Jej rodzice najwyraźniej nie wychwycili słów; matka jedynie zauważyła zmianę wyrazu twarzy córki i uśmiechnęła się pod nosem, nie komentując. Hermiona natomiast jeszcze przez moment patrzyła na Jamesa, po czym mruknęła:
+
+— Ale z tymi „forami” jeszcze kiedyś porozmawiamy.
+
+
+[C10-M0223]
+===== USER =====
+
+-Dobrze....
+
+
+[C10-M0224]
+===== ASSISTANT =====
+
+Hermiona uśmiechnęła się pod nosem.
+
+— Dobrze — powtórzyła za nim, tym razem już bez dalszego droczenia.
+
+Jej matka zerknęła na nich oboje i pokręciła lekko głową z rozbawieniem.
+
+— Wy chyba naprawdę potraficie prowadzić całą rozmowę jednym słowem.
+
+Ojciec Hermiony parsknął cicho.
+
+— To i tak postęp. Jeszcze chwilę temu było trzydzieści stron.
+
+Hermiona od razu rzuciła mu spojrzenie.
+
+— Tato.
+
+— Co? Przecież sprawa jest przedawniona.
+
+Hermiona westchnęła teatralnie, po czym spojrzała znowu na Jamesa.
+
+— Widzisz? Teraz już nie tylko ja cię męczę.
+
+
+[C10-M0225]
+===== USER =====
+
+-Ale tu to zaczęłaś więc to twoja wina...
+
+
+[C10-M0226]
+===== ASSISTANT =====
+
+Hermiona uniosła brwi.
+
+— Ja zaczęłam? — powtórzyła z niedowierzaniem, ale kąciki ust już jej drgały. — To ty próbowałeś przed chwilą pochować trzydzieści stron pod słowem „dawno”.
+
+Jej ojciec odchrząknął, ukrywając uśmiech.
+
+— Muszę przyznać, że w tym sporze argument córki brzmi całkiem mocno.
+
+Hermiona natychmiast spojrzała na niego z satysfakcją.
+
+— Dziękuję.
+
+Jej matka pokręciła głową.
+
+— Nie zachęcaj jej.
+
+Hermiona znów zwróciła się do Jamesa.
+
+— Więc nie. To nie moja wina. Co najwyżej… wykorzystałam okazję.
+
+
+[C10-M0227]
+===== USER =====
+
+Ale to ty nie ja zacząłem o liście
+
+
+[C10-M0228]
+===== ASSISTANT =====
+
+Hermiona otworzyła usta, po czym zatrzymała się na sekundę.
+
+— …Dobrze. Technicznie tak — przyznała w końcu. — Ja pierwsza wspomniałam o liście.
+
+Jej ojciec od razu wskazał ją palcem.
+
+— Aha.
+
+— Nie pomagaj — rzuciła do niego Hermiona, po czym znów spojrzała na Jamesa.
+
+Kącik jej ust uniósł się lekko.
+
+— Ale ty podałeś mi idealną okazję, więc uznajmy, że odpowiedzialność jest… częściowo wspólna.
+
+Matka Hermiony parsknęła cicho.
+
+— Bardzo elegancki sposób na powiedzenie: „tak, zaczęłam”.
+
+Hermiona westchnęła.
+
+— Dobrze, dobrze. Zaczęłam. Zadowolony?
+
+
+[C10-M0229]
+===== USER =====
+
+w odpowiedzi tylko bardzo delikatnie pocałowałem jej usta
+
+
+[C10-M0230]
+===== ASSISTANT =====
+
+Hermiona na moment ucichła, zaskoczona bardziej tym, że zrobił to właśnie przy jej rodzicach, niż samym pocałunkiem. Po chwili na jej twarzy pojawił się ciepły, trochę zawstydzony uśmiech.
+
+— Uznaję to za próbę zakończenia dyskusji — mruknęła cicho.
+
+Jej matka uśmiechnęła się pod nosem, natomiast ojciec spojrzał na nich przez chwilę ponad oparciem fotela.
+
+— Widzę, że argumenty słowne się skończyły.
+
+— Tato… — Hermiona jęknęła, natychmiast robiąc się bardziej czerwona.
+
+— Nic nie mówię — odparł niewinnie.
+
+Hermiona przewróciła oczami i spojrzała z powrotem na Jamesa.
+
+— I żeby było jasne… nadal to ja miałam rację.
+
+
+[C10-M0231]
+===== USER =====
+
+Odnośnie czego?
+
+
+[C10-M0232]
+===== ASSISTANT =====
+
+Hermiona zamrugała, po czym na moment otworzyła usta bez słowa.
+
+— …Właściwie to nieważne — przyznała w końcu, marszcząc lekko nos. — Sama się zaplątałam.
+
+Zerknęła na Jamesa spod brwi.
+
+— O liście rzeczywiście zaczęłam ja. To już ci przyznałam. Więc tym razem miałeś rację, dobrze?
+
+Jej ojciec parsknął cicho.
+
+— Proszę zapamiętać tę chwilę. Podejrzewam, że może być rzadka.
+
+— Tato! — Hermiona natychmiast odwróciła się w jego stronę.
+
+
+[C10-M0233]
+===== USER =====
+
+ja skorzystałem z okazji i spojrzałem na zegar sprawdzając godzinę
+
+
+[C10-M0234]
+===== ASSISTANT =====
+
+Wskazówki zegara były już znacznie dalej, niż mogłoby się wydawać po samej rozmowie. Dochodziła trzynasta.
+
+Hermiona, zauważając gdzie spojrzał James, sama zerknęła na zegar i wyraźnie się zdziwiła.
+
+— Ojej… naprawdę już tak późno?
+
+Jej matka również spojrzała w tamtą stronę.
+
+— Nic dziwnego. Najpierw siedzieliśmy tutaj, potem zniknęliście na górze na całkiem długo, a odkąd wróciliście, też już trochę rozmawiamy.
+
+Ojciec Hermiony uśmiechnął się lekko.
+
+— Czyli jednak trzydziestostronicowe listy mają wpływ nie tylko na objętość, ale również na czas.
+
+— Tato… — Hermiona rzuciła mu ostrzegawcze spojrzenie, ale sama zaczęła się uśmiechać.
+
+
+[C10-M0235]
+===== USER =====
+
+ja tylko przewróciłem oczami
+
+
+[C10-M0236]
+===== ASSISTANT =====
+
+Hermiona oczywiście to zauważyła.
+
+— Nie przewracaj oczami — mruknęła, choć sama ledwo powstrzymywała uśmiech.
+
+Jej ojciec spojrzał na zegar jeszcze raz.
+
+— Skoro już ustaliliśmy, że jest prawie trzynasta, może warto pomyśleć o czymś do jedzenia, zanim ta rozmowa przerodzi się w kolejną rodzinną debatę.
+
+— To nie była debata — zaprotestowała Hermiona.
+
+Jej matka wstała z lekkim uśmiechem.
+
+— Oczywiście, kochanie. To była tylko bardzo długa wymiana zdań, w której każde z was koniecznie chciało mieć ostatnie słowo.
+
+Hermiona spojrzała na Jamesa.
+
+— Tym razem nic nie mówię.
+
+
+[C10-M0237]
+===== USER =====
+
+-Trzydziescie storn to wcale nie tak dużo po prostu rzadko piszę i dlatego się zbiera.
+
+
+[C10-M0238]
+===== ASSISTANT =====
+
+Hermiona popatrzyła na niego z miną, która mówiła, że właśnie usłyszała wyjątkowo wygodne usprawiedliwienie.
+
+— Aha. Czyli to nie był trzydziestostronicowy list o mnie. To był po prostu… nagromadzony brak korespondencji.
+
+Jej ojciec odchrząknął, kryjąc uśmiech.
+
+— Bardzo sprytna linia obrony.
+
+— Wcale nie mówię, że kłamie — odpowiedziała Hermiona. — Tylko że jakoś wyjątkowo dużo mu się „nazbierało” akurat wtedy, kiedy temat zszedł na pewną bardzo inteligentną i piękną damę.
+
+Matka Hermiony zaśmiała się cicho.
+
+— Podejrzewam, że gdybyś pisał częściej, Lodgok dostawałby po prostu krótsze listy… częściej.
+
+Hermiona zerknęła znów na Jamesa.
+
+— I to chyba wcale nie działa na twoją korzyść.
+
+
+[C10-M0239]
+===== USER =====
+
+-W ogóle to czemu mówimy o tym a nie o tym że Hermiona o mnie też pisała
+
+
+[C10-M0240]
+===== ASSISTANT =====
+
+Hermiona natychmiast zrobiła się odrobinę bardziej czerwona.
+
+— To zupełnie co innego — zaprotestowała. — Ja pisałam do własnych rodziców.
+
+Jej matka spojrzała na nią z rozbawieniem.
+
+— Owszem. I James pojawiał się w więcej niż jednym liście.
+
+Hermiona odwróciła do niej głowę.
+
+— Mamo…
+
+Ojciec Hermiony uśmiechnął się szerzej.
+
+— Właściwie chłopak ma rację. Od początku rozmawiamy o jego trzydziestu stronach, a ty zdążyłaś nam jeszcze przed balem napisać, jak ma na imię, że jest Ślizgonem, że spędzacie razem dużo czasu i że właśnie z nim idziesz na bal.
+
+Hermiona skrzyżowała ręce.
+
+— Ale moje listy nie miały trzydziestu stron o nim.
+
+Jej matka uniosła brew.
+
+— Nie. Po prostu pisałaś o nim kilka razy.
+
+Hermiona zerknęła na Jamesa i westchnęła.
+
+— Wiedziałam, że nie powinnam była zaczynać tego tematu.
+
+
+[C10-M0241]
+===== USER =====
+
+A pozatym to do kogo miałem pisać do ciebie?
+
+
+[C10-M0242]
+===== ASSISTANT =====
+
+Hermiona otworzyła usta, ale przez chwilę najwyraźniej nie znalazła dobrej odpowiedzi.
+
+— No dobrze… do mnie wtedy rzeczywiście nie miałoby większego sensu pisać — przyznała. — Widywaliśmy się praktycznie codziennie.
+
+Jej matka uśmiechnęła się.
+
+— To akurat uczciwy argument.
+
+Hermiona zerknęła na Jamesa z lekkim zmrużeniem oczu.
+
+— Ale nadal podtrzymuję, że trzydzieści stron do Lodgoka było… imponujące.
+
+Ojciec Hermiony parsknął.
+
+— Czyli ustaliliśmy: pisać musiał do kogoś. Po prostu wybrał goblina i rozpisał się o naszej córce.
+
+
+[C10-M0243]
+===== USER =====
+
+-Dobrze zmieniając temat.....szturchnąłem Hermionę Łokciem przypominając o tym o czym rozmawialiśmy na górze.
+
+
+[C10-M0244]
+===== ASSISTANT =====
+
+Hermiona poczuła szturchnięcie i od razu zerknęła na Jamesa. Przez sekundę wyglądała, jakby zastanawiała się, czy naprawdę chce poruszać ten temat właśnie teraz, po czym westchnęła cicho.
+
+— Dobrze… właściwie jest jeszcze jedna rzecz.
+
+Jej rodzice spojrzeli na nią.
+
+— James zaprosił mnie, żebym któregoś dnia odwiedziła go na Belgrave Square — powiedziała, tym razem bez żartów. — Rozmawialiśmy o tym na górze. I powiedziałam mu, że jeżeli pojadę, to nie zamierzam wymyślać żadnej wymówki ani ukrywać przed wami, gdzie jestem.
+
+Ojciec Hermiony uniósł lekko brwi.
+
+— Czyli ten dom, o którym właśnie rozmawialiśmy. Ten, w którym mieszkasz teraz ty i… skrzaty.
+
+Hermiona skinęła głową.
+
+— Tak. Na początek po prostu wizyta w ciągu dnia.
+
+Matka spojrzała najpierw na córkę, potem na Jamesa.
+
+— A macie już jakiś konkretny dzień na myśli?
+
+
+[C10-M0245]
+===== USER =====
+
+-Dla mnie może wpadać codziennie...
+
+
+[C10-M0246]
+===== ASSISTANT =====
+
+Hermiona od razu zerknęła na Jamesa.
+
+— Codziennie to sobie możesz zapraszać — odparła z lekkim uśmiechem. — Nie znaczy, że codziennie będę przychodzić.
+
+Jej matka parsknęła cicho.
+
+— Dobrze, czyli gospodarz jest wyjątkowo gościnny. To już wiemy.
+
+Ojciec Hermiony spojrzał na córkę.
+
+— Sama wizyta w dzień nie brzmi dla mnie jak coś niezwykłego, zwłaszcza skoro wiemy, gdzie będziesz. Chciałbym tylko wiedzieć wcześniej, kiedy się wybierasz i mniej więcej o której wrócisz.
+
+Hermiona skinęła głową.
+
+— Właśnie dlatego chciałam powiedzieć wam od razu. Bez żadnych wymówek.
+
+Po czym spojrzała z powrotem na Jamesa.
+
+— Ale nie wykorzystuj tego „może wpadać codziennie” jako oficjalnej rezerwacji całych moich wakacji.
+
+
+[C10-M0247]
+===== USER =====
+
+-oczywiście mam nadzieję tylko na większą połowę
+
+
+[C10-M0248]
+===== ASSISTANT =====
+
+Hermiona od razu uniosła brew.
+
+— Większą połowę? — powtórzyła. — Matematycznie fascynująca koncepcja.
+
+Jej ojciec parsknął śmiechem, a matka pokręciła głową.
+
+— Rozumiem, że negocjacje już się zaczęły — powiedziała.
+
+Hermiona spojrzała z powrotem na Jamesa.
+
+— Możesz mieć nadzieję na ile chcesz. Ja nadal mam rodziców, przyjaciół, książki i własne plany na wakacje.
+
+Po chwili kącik jej ust drgnął.
+
+— Ale… nie powiedziałam, że będę wpadać rzadko.
+
+
+[C10-M0249]
+===== USER =====
+
+lekko się usmiechnąłem -Dobrze....
+
+
+[C10-M0250]
+===== ASSISTANT =====
+
+Hermiona spojrzała na ten lekki uśmiech i sama odpowiedziała podobnym.
+
+— Nie wyglądaj na aż tak zadowolonego. Nadal nie oddałam ci „większej połowy” wakacji.
+
+Jej matka tylko pokręciła głową z rozbawieniem i ruszyła w stronę kuchni.
+
+Hermiona zerknęła za nią, a potem znowu na Jamesa.
+
+— Ale skoro już wszystko powiedzieliśmy… to faktycznie chciałabym zobaczyć tę twoją posiadłość. Zwłaszcza po tym, ile o tych wszystkich domach nasłuchałam się przez ostatnie miesiące.
+
+
+[C10-M0251]
+===== USER =====
+
+-wspominLem o nich tylko raz
+
+
+[C10-M0252]
+===== ASSISTANT =====
+
+Hermiona zatrzymała się na moment, po czym skrzywiła lekko z rozbawieniem.
+
+— Dobrze. Raz — poprawiła się. — Wspomniałeś o tych posiadłościach raz. Po prostu za jednym razem zdążyłam usłyszeć o zamku, kilku innych miejscach, skrzatach i goblinie zarządzającym majątkiem, więc najwyraźniej w pamięci zrobiło mi się z tego więcej rozmów.
+
+Jej ojciec parsknął cicho.
+
+— Przyznaję, jedna rozmowa potrafi być bardzo wydajna.
+
+Hermiona zerknęła na Jamesa.
+
+— Ale nadal chcę zobaczyć tę na Belgrave Square. Tego nie wycofuję.
+
+
+[C10-M0253]
+===== USER =====
+
+-Jeśli będziesz miała trochę więcej czasu i pozwolnia to możemy też udać się do zamku...
+
+
+[C10-M0254]
+===== ASSISTANT =====
+
+Hermiona uniosła brwi, tym razem wyraźnie zainteresowana.
+
+— Do zamku? — powtórzyła, a w jej głosie od razu pojawiła się ciekawość. — To już brzmi trochę bardziej ambitnie niż popołudnie na Belgrave Square.
+
+Jej ojciec spojrzał na Jamesa.
+
+— „Udać się do zamku” to zdanie, przy którym jednak chciałbym poznać kilka szczegółów, zanim cokolwiek pozwolimy.
+
+— Wiedziałam — mruknęła Hermiona, choć bez protestu.
+
+Matka usiadła z powrotem bliżej nich.
+
+— Gdzie on właściwie jest? Jak mielibyście się tam dostać i czy mówimy o wyjeździe na kilka godzin, czy o czymś dłuższym?
+
+Hermiona zerknęła na Jamesa, po czym dodała szybko:
+
+— Ja jestem za tym, żeby go zobaczyć. Ale tym razem naprawdę najpierw odpowiadasz na pytania rodziców.
+
+
+[C10-M0255]
+===== USER =====
+
+To zależy wszystko jest dogadnia zamek jest w szkocji ale jest podłączony do sieci fiu z innymi posiadłościami w Wielkiej Brytanii.... więc teoretycznie można tam być i na parę godzin....
+
+
+[C10-M0256]
+===== ASSISTANT =====
+
+Ojciec Hermiony przez chwilę układał to sobie w głowie.
+
+— Czyli dobrze rozumiem: wchodzicie do kominka tutaj w Anglii i wychodzicie z kominka w zamku w Szkocji?
+
+Hermiona skinęła głową.
+
+— Sieć Fiu. To normalny sposób podróżowania w świecie czarodziejów. Trochę… brudny, ale szybki.
+
+Jej matka spojrzała na Jamesa.
+
+— A z tego domu na Belgrave Square też można dostać się bezpośrednio do zamku?
+
+Hermiona wyraźnie zainteresowała się tym pytaniem.
+
+— Właściwie to też chciałabym wiedzieć. Bo jeżeli tak, to rzeczywiście można by pojechać rano, spędzić tam kilka godzin i wrócić jeszcze tego samego dnia.
+
+Ojciec nie wyglądał już tak sceptycznie jak wcześniej, ale nadal nie dawał zgody w ciemno.
+
+— To brzmi rozsądniej niż „jedziemy do zamku w Szkocji” bez dalszych wyjaśnień. Chciałbym tylko wcześniej wiedzieć dokładnie, gdzie jedziecie, jak wracacie i mniej więcej o której.
+
+
+[C10-M0257]
+===== USER =====
+
+Dokładnie tak...
+
+
+[C10-M0258]
+===== ASSISTANT =====
+
+Ojciec Hermiony skinął głową, wyraźnie bardziej przekonany niż kilka minut wcześniej.
+
+— W takim razie, jeśli rzeczywiście wygląda to tak prosto i możemy wiedzieć wcześniej, kiedy jedziecie i kiedy planujecie wrócić… nie widzę powodu, żeby z góry mówić „nie”.
+
+Hermiona odwróciła się do niego dość gwałtownie.
+
+— Naprawdę?
+
+— Powiedziałem, że nie mówię „nie”. To nie to samo co podpisanie zgody na każdą możliwą wyprawę do Szkocji.
+
+Jej matka uśmiechnęła się lekko.
+
+— Najpierw może odwiedź Jamesa tutaj, w Londynie. A jeśli wszystko będzie w porządku, możecie ustalić dzień na zamek.
+
+Hermiona spojrzała wtedy na Jamesa, wyraźnie zadowolona.
+
+— Brzmi mi to całkiem dobrze. I tak chcę najpierw zobaczyć Belgrave Square. Potem możemy pomyśleć o Szkocji.
+
+
+[C10-M0259]
+===== USER =====
+
+Kiwnąłem głową no a posiadłości za granicą kiedy indziej...
+
+
+[C10-M0260]
+===== ASSISTANT =====
+
+Hermiona parsknęła cicho.
+
+— Za granicą? — powtórzyła. — Dobrze, zdecydowanie jedno miejsce naraz.
+
+Jej ojciec uniósł dłoń.
+
+— Tak. Belgrave Square. Potem ewentualnie Szkocja. Nie przeskakujmy od razu do międzynarodowej trasy po rodzinnych nieruchomościach.
+
+Matka Hermiony pokręciła głową z rozbawieniem.
+
+— Jeszcze godzinę temu myślałam, że poznajemy chłopaka naszej córki. Teraz ustalamy kolejność zwiedzania jego posiadłości.
+
+Hermiona zerknęła na Jamesa.
+
+— I nawet nie pytam jeszcze, w jakich krajach je macie. Bo znając ciebie, odpowiedź tylko otworzy następne dziesięć tematów.
+
+
+[C10-M0261]
+===== USER =====
+
+Oczywiście Państwo też może czuć się zaproszone...
+
+
+[C10-M0262]
+===== ASSISTANT =====
+
+Matka Hermiony wyglądała na szczerze zaskoczoną.
+
+— My również?
+
+Ojciec spojrzał na Jamesa uważniej, ale bez wcześniejszej ostrożności.
+
+— To bardzo uprzejme zaproszenie.
+
+Hermiona zerknęła na rodziców, a potem na Jamesa.
+
+— Właściwie… to mogłoby nawet ułatwić sprawę. Przynajmniej przy pierwszej wizycie zobaczylibyście sami, gdzie jestem i jak to wszystko wygląda.
+
+Jej matka uśmiechnęła się lekko.
+
+— Belgrave Square brzmi zdecydowanie łatwiej na początek niż szkocki zamek.
+
+Ojciec przytaknął.
+
+— Z tym mogę się zgodzić. Najpierw Londyn. A jeśli potem rzeczywiście będziemy mieli zostać zaproszeni do zamku… cóż, nie codziennie człowiek dostaje taką propozycję.
+
+
+[C10-M0263]
+===== USER =====
+
+-Dokładnie...
+
+
+[C10-M0264]
+===== ASSISTANT =====
+
+Ojciec Hermiony skinął głową.
+
+— Dobrze. W takim razie zaczniemy od Londynu, a resztę będziemy ustalać po kolei.
+
+Matka Hermiony spojrzała na córkę z lekkim uśmiechem.
+
+— I mam wrażenie, że Hermiona już zdążyła sobie w głowie ułożyć co najmniej połowę takiej wycieczki.
+
+— Wcale nie — zaprotestowała odruchowo Hermiona, po czym po sekundzie dodała: — Jeszcze nie.
+
+Ojciec parsknął cicho.
+
+Hermiona zerknęła na Jamesa.
+
+— Najpierw Belgrave Square. A potem zobaczymy, czy naprawdę warto było tyle opowiadać o tym zamku.
+
+
+[C10-M0265]
+===== USER =====
+
+lekko się usmiechnąłem ale potem nachyliłem się i zacząłem szeptać - ile jeszcze zostać żeby nie robić kłopotów?
+
+
+[C10-M0266]
+===== ASSISTANT =====
+
+Hermiona zerknęła na rodziców, upewniając się, że są zajęci sobą, i odpowiedziała równie cicho:
+
+— Nie robisz żadnych kłopotów. Naprawdę.
+
+Nachyliła się odrobinę bliżej.
+
+— Zostań przynajmniej na obiad. Mama i tak już zaczęła o nim myśleć, a gdyby chcieli, żebyś się zbierał, uwierz mi, tata potrafiłby to powiedzieć.
+
+Kącik jej ust lekko drgnął.
+
+— A później zobaczymy. Nie musisz uciekać tylko dlatego, że minęło parę godzin.
+
+
+[C10-M0267]
+===== USER =====
+
+Na twoją odpowiedzialność....i jeśli tak to chciałbym jeszcze trochę czasu tylko z Panną Granger....
+
+
+[C10-M0268]
+===== ASSISTANT =====
+
+Hermiona zerknęła na niego z ukosa, a na „Pannę Granger” kącik jej ust od razu drgnął.
+
+— Na moją odpowiedzialność? Świetnie. Czyli jak coś pójdzie źle, cała wina moja — szepnęła.
+
+Po chwili jednak jej ton złagodniał.
+
+— I tak… też chciałabym jeszcze trochę czasu tylko z tobą.
+
+Zerknęła dyskretnie w stronę rodziców.
+
+— Zostań na obiad, a później coś wymyślimy. Możemy wyjść gdzieś sami albo jeszcze na chwilę zniknąć na górze. Tylko tym razem bez robienia z tego wielkiej tajnej operacji.
+
+Spojrzała z powrotem na Jamesa.
+
+— Pasuje, panie Brown?
+
+
+[C10-M0269]
+===== USER =====
+
+pokiwałem głową
+
+
+[C10-M0270]
+===== ASSISTANT =====
+
+Hermiona odpowiedziała lekkim uśmiechem i już nie ciągnęła tematu.
+
+Jej ojciec spojrzał na zegar.
+
+— Skoro wszystko mamy mniej więcej ustalone, to chyba możemy na chwilę przestać planować wycieczki po Wielkiej Brytanii.
+
+Matka Hermiony podniosła się z miejsca.
+
+— Zwłaszcza że jest już pora obiadowa.
+
+Hermiona zerknęła na Jamesa.
+
+— Widzisz? Mówiłam, żebyś został.
+
+Po czym dodała ciszej, tylko do niego:
+
+— A później odbiorę sobie ten obiecany czas sam na sam.
+
+
+[C10-M0271]
+===== USER =====
+
+odpowiedziałem jedynie skinieniem głowy i usmiechem
+
+
+[C10-M0272]
+===== ASSISTANT =====
+
+Hermiona odpowiedziała mu krótkim uśmiechem, po czym odwróciła uwagę w stronę matki, która już wyraźnie szykowała się do obiadu.
+
+— Chodźmy, zanim tata znowu wróci do trzydziestu stron — rzuciła.
+
+— Ja? — odezwał się od razu jej ojciec. — Przecież sprawa została oficjalnie przedawniona.
+
+— I właśnie dlatego o niej wspomniałeś.
+
+Matka Hermiony pokręciła głową z rozbawieniem.
+
+— Oboje do jadalni. I James również, skoro zostaje.
+
+Hermiona ruszyła razem z rodzicami, a mijając Jamesa, powiedziała cicho:
+
+— A po obiedzie znikamy na trochę, zanim znowu znajdą jakiś temat do przesłuchania cię przez następną godzinę.
+
+
+[C10-M0273]
+===== USER =====
+
+ruszyłem za nią -Dobrze
+
+
+[C10-M0274]
+===== ASSISTANT =====
+
+Hermiona rzuciła mu przez ramię krótki uśmiech i weszła do jadalni.
+
+— W takim razie ustalone — powiedziała. — Obiad, a potem znikamy na trochę.
+
+— „Znikamy” brzmi bardzo uspokajająco — zauważył jej ojciec, zajmując miejsce przy stole.
+
+Hermiona przewróciła oczami.
+
+— Tato, jesteśmy w tym samym domu.
+
+Matka Hermiony zaczęła stawiać na stole przygotowane naczynia.
+
+— Daj im spokój. Przez ostatnie dwie godziny praktycznie cały czas siedzieli z nami.
+
+Hermiona usiadła, a potem spojrzała na Jamesa z lekkim rozbawieniem.
+
+— Widzisz? Mam nawet oficjalne poparcie.
+
+
+[C10-M0275]
+===== USER =====
+
+zająłem miejsce obok niej (i słuchaj pewien problem w co jestem ubrany w historii?
+
+
+[C10-M0276]
+===== ASSISTANT =====
+
+Tak — sprawdziłem to dokładnie w archiwum i jest tu jeden drobny bałagan w opisie, ale sam strój da się ustalić dość pewnie.
+
+8 lipca, przed wizytą u Grangerów, James założył dokładnie ten sam zestaw co przy wyjeździe z Hogwartu 1 lipca: białą koszulę, czarne eleganckie/dopasowane spodnie, czarne buty/pantofle z dobranymi skarpetkami, kamizelkę, czarny płaszcz oraz gryfoński czerwono-złoty krawat należący wcześniej do Hermiony. Przed wyjściem był też świeżo po prysznicu, ogolony, uczesany i użył ostrych męskich perfum. 
+01_ARCHIWUM_CZAT_1-9_SCALONE
+
+W CURRENT również zapisano ten zestaw jako: „biała koszula, czarne dopasowane spodnie, pantofle i skarpetki, kamizelka, czarny płaszcz, gryfoński krawat”. 
+11_LOREBOOK_HOGWARTS_C1-C9
+
+Jest tylko jedna rzecz, której nie mamy rozegranej: nie znalazłem momentu, w którym James po wejściu do domu Grangerów zdjął płaszcz albo buty. Czyli technicznie zapis pozostawił go w płaszczu nawet podczas siedzenia w salonie i później w pokoju Hermiony, co po paru godzinach w domu jest trochę absurdalne. To raczej przeoczenie ciągłości niż zamierzony element sceny.
+
+Dodatkowo diament był pierwotnie schowany właśnie w wewnętrznej kieszeni płaszcza, ale w obecnym C10 został już wyjęty, wręczony Hermionie, a ona ma naszyjnik na szyi. Pudełko zostało w jej pokoju.
+
+Czyli w tej chwili przy stole najbezpieczniejszy stan to: biała koszula + kamizelka + gryfoński krawat + czarne spodnie + czarne buty. Płaszcz jest problematyczny, bo archiwum nigdy nie pokazało jego zdjęcia. Możemy albo literalnie utrzymać, że nadal go masz, albo potraktować zdjęcie płaszcza po wejściu jako pominiętą oczywistość bez zmieniania reszty historii.
+
+
+[C10-M0277]
+===== USER =====
+
+(zdecydowanie to drugie a odnośnie butów nie wiem jak to jest w Wielkiej Brytanii tam się zdejmuje czy nie?)
+
+
+[C10-M0278]
+===== ASSISTANT =====
+
+Tak, ustalmy więc, że płaszcz James zdjął po wejściu do domu Grangerów i został on w przedpokoju. To traktujemy jako pominiętą, oczywistą czynność, a nie nowe wydarzenie zmieniające scenę.
+
+Co do butów: w Wielkiej Brytanii nie ma tak mocnej, jednolitej zasady jak w Polsce, że po wejściu do czyjegoś domu automatycznie zdejmuje się obuwie. Brytyjskie źródła wręcz opisują tę normę jako niejednoznaczną — część domów jest „shoes off”, część pozwala gościom chodzić w butach, a najbezpieczniej jest zapytać gospodarza. 
+BBC Downloads
++1
+ Starszy materiał BBC również przedstawiał pozostawienie butów podczas wizyty jako całkowicie normalne w Wielkiej Brytanii. 
+BBC Downloads
+
+Dlatego dla naszej sceny najbardziej naturalne będzie, że James nie zdejmował butów. Nikt z Grangerów nie poprosił go o to, nie ustaliliśmy wcześniej zasady zdejmowania obuwia, a James przyszedł w czystych, eleganckich czarnych butach. Nie ma potrzeby teraz retroaktywnie robić z niego kogoś siedzącego przy stole w skarpetkach.
+
+Czyli aktualny strój Jamesa przy obiedzie to:
+
+biała koszula + kamizelka + czerwono-złoty krawat Gryffindoru Hermiony + czarne eleganckie spodnie + dobrane skarpetki + czarne eleganckie buty.
+
+Czarny płaszcz: zdjęty przy wejściu i pozostawiony w przedpokoju.
+
+I jeszcze doprecyzowanie: wcześniejsze słowo „pantofle” potraktowałbym tutaj jako eleganckie półbuty/buty wizytowe, a nie polskie domowe kapcie — późniejszy zapis C9 sam opisuje ten sam zestaw po prostu jako „czarne eleganckie buty”. 
+01_ARCHIWUM_CZAT_1-9_SCALONE
+
+Możemy od tego stanu normalnie kontynuować obiad.
+
+
+[C10-M0279]
+===== USER =====
+
+Dokładnie znikamy ale po mugolsku nie czarodziejsku..
+
+
+[C10-M0280]
+===== ASSISTANT =====
+
+Hermiona zerknęła na Jamesa i uśmiechnęła się.
+
+— Tak, dokładnie. Bez Fiu, świstoklików, teleportowania się ani innych skrótów.
+
+Jej ojciec, który najwyraźniej usłyszał końcówkę, uniósł brew.
+
+— Czyli po prostu wychodzicie drzwiami?
+
+— Tak, tato — odpowiedziała Hermiona. — Po mugolsku. Na nogach.
+
+Jej matka roześmiała się cicho.
+
+— To brzmi znacznie mniej niepokojąco niż wasze wcześniejsze plany przemieszczania się między Londynem a szkockim zamkiem.
+
+Hermiona spojrzała z powrotem na Jamesa.
+
+— Po obiedzie możemy się po prostu przejść. Bez żadnej magii. I tym razem naprawdę będzie można powiedzieć, że „zniknęliśmy”, nie mając na myśli dosłownego zniknięcia.
+
+
+[C10-M0281]
+===== USER =====
+
+Dobrze. Ale skoro jest jeszcze obiad możesz opowiedzieć historię jak byłaś zkaochana w czarodzieju oszuście
+
+
+[C10-M0282]
+===== ASSISTANT =====
+
+Hermiona znieruchomiała z widelcem w dłoni i powoli odwróciła głowę w stronę Jamesa.
+
+— Nie byłam zakochana. — zaakcentowała każde słowo. — Byłam dwunastoletnią dziewczyną i miałam… głupie zauroczenie.
+
+Jej ojciec natychmiast zainteresował się bardziej.
+
+— O, tego chyba nie znam.
+
+— I bardzo dobrze — mruknęła Hermiona, po czym westchnęła. — Nazywał się Gilderoy Lockhart. Uczył nas obrony przed czarną magią na drugim roku. Był sławnym autorem, wszędzie opisywał swoje niezwykłe przygody i… wtedy uważałam, że jest naprawdę wspaniały.
+
+Matka Hermiony uśmiechnęła się.
+
+— Jak bardzo „wspaniały”?
+
+Hermiona zrobiła się czerwona.
+
+— Ron kiedyś zauważył, że zaznaczałam jego lekcje serduszkami w planie zajęć.
+
+Zapadła sekunda ciszy.
+
+Ojciec Hermiony parsknął śmiechem.
+
+— O nie.
+
+— Miałam dwanaście lat!
+
+Hermiona westchnęła ciężko.
+
+— A potem wyszło na jaw, że większości tych wszystkich bohaterskich rzeczy wcale nie zrobił. Odnajdywał ludzi, którzy naprawdę dokonali czegoś niezwykłego, wyciągał od nich historie, a potem usuwał im pamięć i przypisywał wszystko sobie. Zaklęcia pamięci były właściwie jedyną dziedziną, w której naprawdę był bardzo dobry. 
+Harry Potter
++1
+
+Spojrzała na Jamesa, mrużąc oczy.
+
+— Więc tak. Gratulacje. Właśnie opowiedziałeś moim rodzicom o najbardziej żenującym zauroczeniu mojego dzieciństwa.
+
+Jej ojciec nadal się uśmiechał.
+
+— Trzydzieści stron właśnie przestało być najciekawszą historią przy tym stole.
+
+
+[C10-M0283]
+===== USER =====
+
+nachyliłem się i znowu pocałowałem Hermionę w policzek - Fakt że dwunastoletnia Hermiona była trochę głupsza dodoaje jej uroku....
+
+
+[C10-M0284]
+===== ASSISTANT =====
+
+Hermiona przyjęła pocałunek, ale natychmiast odwróciła głowę i spojrzała na Jamesa z oburzoną miną.
+
+— Głupsza? — powtórzyła. — Naiwniejsza, może. Miałam dwanaście lat. To nie znaczy, że byłam głupia.
+
+Jej ojciec uśmiechnął się nad talerzem.
+
+— James, mała rada: nazywanie dziewczyny „trochę głupszą” zaraz po pocałowaniu jej w policzek to dość ryzykowna strategia.
+
+Hermiona zerknęła na ojca, potem znowu na Jamesa.
+
+— Właśnie. I wcale nie dodaje mi uroku. — Zawahała się sekundę. — To znaczy… może trochę. Ale nadal cofam „głupsza”.
+
+
+[C10-M0285]
+===== USER =====
+
+Nie powiedziałem że byłaś głupia tylki głupsza niż teraz. Ale też bardziej urocza. Bo jak jakiś gość napisał trochę książek to od dwunastoletniej Hermiony stał się obiektem do zauroczenia ale jak ja napisałem małe opowiadanie na 30 stron to dla piętnastoletniej Hermiony jestm obiektem drwin....
+
+
+[C10-M0286]
+===== ASSISTANT =====
+
+Hermiona przez chwilę patrzyła na Jamesa, po czym parsknęła cichym śmiechem.
+
+— Po pierwsze, on napisał całą półkę książek, a ja miałam dwanaście lat i wierzyłam, że naprawdę przeżył te wszystkie przygody. To jednak trochę inna sytuacja. 
+Harry Potter
++1
+
+Uniosła palec, zanim ktokolwiek zdążył jej przerwać.
+
+— Po drugie, twoje „małe opowiadanie” miało trzydzieści stron i było o mnie. I wysłałeś je goblinowi, zanim ja w ogóle wiedziałam, że powstaje. Mam pełne prawo się z tego nabijać.
+
+Jej ojciec spojrzał między nimi.
+
+— Przyznaję, argument z trzydziestoma stronami nadal jest dość mocny.
+
+Hermiona zerknęła na niego ostrzegawczo, a potem znów na Jamesa.
+
+— I po trzecie… — kącik jej ust uniósł się nieco wyżej. — Lockhart był moim głupim zauroczeniem, kiedy miałam dwanaście lat. Ty jesteś moim chłopakiem. Więc wydaje mi się, że mimo tych straszliwych drwin wyszedłeś na tym trochę lepiej.
+
+
+[C10-M0287]
+===== USER =====
+
+Tylko trochę...ale musisz mi przyznać że to zauroczenie dwunastoletniej Hermiony też jest pewnym wyróżnieniem
+
+
+[C10-M0288]
+===== ASSISTANT =====
+
+Hermiona zmrużyła oczy, ale po chwili kącik jej ust drgnął.
+
+— Pewnym wyróżnieniem? — powtórzyła. — Dobrze. Przyznam ci to. Dwunastoletnia Hermiona nie rozdawała zauroczeń każdemu, kto umiał się szeroko uśmiechać.
+
+Jej ojciec uniósł brew.
+
+— To bardzo wysoko zawieszona poprzeczka.
+
+— Tato…
+
+Matka Hermiony uśmiechnęła się pod nosem, a Hermiona ponownie spojrzała na Jamesa.
+
+— Ale nie próbuj teraz wyciągać z tego wniosku, że powinieneś zacząć pisać książki, farbować włosy na blond i rozdawać autografy. Jednego Lockharta zdecydowanie wystarczyło mi na całe życie.
+
+Po chwili dodała z wyraźnie zaczepnym uśmiechem:
+
+— Poza tym piętnastoletnia Hermiona ma trochę wyższe wymagania. I jakimś cudem nadal cię wybrała.
+
+
+[C10-M0289]
+===== USER =====
+
+Wiem, ale sam fakt że mlodsza Hermiona wybrała jakiegoś dziada i tak mnie drażni....
+
+
+[C10-M0290]
+===== ASSISTANT =====
+
+Hermiona przewróciła oczami, ale tym razem bardziej rozbawiona niż oburzona.
+
+— James, ja go nie wybrałam. Miałam dwanaście lat, był sławnym nauczycielem, miał mnóstwo książek, wszyscy o nim mówili i wydawało mi się, że naprawdę zrobił wszystko, o czym pisał. To było zwykłe szkolne zauroczenie. 
+Harry Potter
++1
+
+Spojrzała na niego uważniej.
+
+— I naprawdę zamierzasz być zazdrosny o coś, co przydarzyło mi się trzy lata temu, zanim w ogóle cię znałam?
+
+Jej ojciec uniósł wzrok znad talerza.
+
+— Zaczynam podejrzewać, że ten Lockhart ma dziś wyjątkowo udany powrót do życia towarzyskiego.
+
+Hermiona parsknęła.
+
+— Nie pomaga pan.
+
+Potem znów zwróciła się do Jamesa.
+
+— Poza tym, jeśli cię to pocieszy, dzisiejsza Hermiona uważa, że tamta Hermiona miała pod tym względem okropny gust. I zdecydowanie nie zamierza go powtarzać.
+
+
+[C10-M0291]
+===== USER =====
+
+oparłem głowę o jej ramię i zacząłem szeptem - Wiem że to glupie ale już kiedyś ci mówiłem że jest we mnje siedmioletni James i to on jest o to zazdrosny...
+
+
+[C10-M0292]
+===== ASSISTANT =====
+
+Hermiona od razu zrozumiała, o czym mówi. Nie wyglądała na zaskoczoną — ten sposób mówienia znała już bardzo dobrze.
+
+Nachyliła głowę odrobinę w jego stronę i odpowiedziała równie cicho:
+
+— Pamiętam siedmioletniego Jamesa. Tego, który bardzo nie lubi, kiedy coś było „przed nim”.
+
+Kącik jej ust lekko drgnął.
+
+— Możesz mu powiedzieć, że nie musi lubić Lockharta. Ja też go już nie lubię.
+
+Po chwili dodała:
+
+— Ale niech przestanie się martwić o dwunastoletnią Hermionę. Ona nawet nie wiedziała, że kiedyś pozna takiego irytującego Ślizgona.
+
+Jej głos zrobił się jeszcze cichszy.
+
+— A piętnastoletnia Hermiona siedzi właśnie tutaj z nim, więc chyba wygrał wystarczająco wyraźnie.
+
+
+[C10-M0293]
+===== USER =====
+
+kontynuowałem szeptem ja to wiem...ale ela niego... chyba uwaga dwunastoletniej Hermiony jest ważniejsza....bo Wiesz dla niego piętnastoletnia jest już stara....
+
+
+[C10-M0294]
+===== ASSISTANT =====
+
+Hermiona musiała zacisnąć usta, żeby nie roześmiać się głośniej przy rodzicach. Nachyliła głowę bliżej Jamesa i odpowiedziała szeptem:
+
+— Aha. Czyli dla siedmioletniego Jamesa jestem już właściwie staruszką.
+
+Jej ramiona lekko drgnęły od tłumionego śmiechu.
+
+— To trochę utrudnia sprawę, bo nie mogę przyprowadzić tutaj dwunastoletniej Hermiony i powiedzieć jej: „Przepraszam, proszę natychmiast przestać patrzeć na Lockharta, bo za trzy lata pewien siedmiolatek będzie o to obrażony”.
+
+Po chwili dodała ciszej, już z ciepłym rozbawieniem:
+
+— Ale możesz mu przekazać, że piętnastoletnia Hermiona pamięta tamtą dwunastoletnią. I uważa, że miała fatalny gust. A to chyba najlepsze, co mogę dla niego zrobić bez wehikułu czasu.
+
+
+[C10-M0295]
+===== USER =====
+
+kiwnąłem głową - a czy Lockharta ci się podobał?
+
+
+[C10-M0296]
+===== ASSISTANT =====
+
+Hermiona zawahała się na moment, a potem odpowiedziała szeptem, z lekkim rumieńcem:
+
+— Tak… podobał mi się.
+
+Przewróciła oczami, jakby sama nie była zachwycona tym wyznaniem.
+
+— Wtedy uważałam, że jest przystojny. Te blond włosy, uśmiech, cała ta jego pewność siebie… naprawdę na mnie działały. — Ściszyła głos jeszcze bardziej. — Niestety. 
+Harry Potter
++1
+
+Spojrzała na Jamesa z ukosa.
+
+— I zanim siedmioletni James zacznie protestować: tak, wiem, że to tylko pogarsza sytuację.
+
+
+[C10-M0297]
+===== USER =====
+
+-ale ja też mam blond włosy, usmiecham się i czasami jestem pewny siebie....
+
+
+[C10-M0298]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego z ukosa i przez sekundę wyglądała, jakby próbowała zdecydować, czy się roześmiać.
+
+— Tak. Masz blond włosy. Uśmiechasz się. I zdecydowanie zdarza ci się być pewnym siebie — wyszeptała.
+
+Nachyliła się odrobinę bliżej.
+
+— Ale jest jedna dość istotna różnica.
+
+Kącik jej ust uniósł się.
+
+— Ty nie potrzebujesz pięciu nagród za najbardziej czarujący uśmiech, żeby mnie przekonać, że jesteś interesujący.
+
+Po chwili dodała jeszcze ciszej:
+
+— I, co chyba ważniejsze, większości rzeczy, które o sobie opowiadasz, naprawdę nie ukradłeś komuś innemu. Więc siedmioletni James może trochę odpuścić.
+
+
+[C10-M0299]
+===== USER =====
+
+*znowu pokiwałem głową i bez słowa się do niej przytuliłrm na tyle na ile mogłem
+
+
+[C10-M0300]
+===== ASSISTANT =====
+
+Hermiona od razu rozluźniła się przy nim i przesunęła odrobinę bliżej, żeby przy stole było im wygodniej.
+
+Przez chwilę nic nie mówiła. Dopiero po paru sekundach szepnęła:
+
+— Dobrze. To może siedmioletni James dostał już wystarczająco dużo odpowiedzi na jeden obiad.
+
+Kącik jej ust drgnął.
+
+— Bo jeśli zacznie wypytywać jeszcze o wszystkich chłopców, którzy kiedykolwiek mi się podobali, to piętnastoletnia Hermiona zacznie pobierać opłatę za każde pytanie.
+
+Jej ojciec zerknął na nich znad talerza, ale tym razem tylko uśmiechnął się pod nosem i wrócił do jedzenia, nie wtrącając się.
+
+
+[C10-M0301]
+===== USER =====
+
+-To byli jeszcze inn?!
+
+
+[C10-M0302]
+===== ASSISTANT =====
+
+Hermiona aż zamrugała, a potem szybko pokręciła głową.
+
+— Nie! — syknęła półgłosem, natychmiast rozumiejąc, jak zabrzmiało jej poprzednie zdanie. — James, to była figura retoryczna!
+
+Spojrzała na niego z mieszaniną rozbawienia i niedowierzania.
+
+— Nie mam gdzieś ukrytej listy dwudziestu chłopców, o których zamierzałam ci opowiadać. Lockhart był tym żenującym dziecięcym zauroczeniem. A Krum… sam już wiesz, jak wyglądała tamta sytuacja. Zaprosił mnie, ale na bal poszłam z tobą.
+
+Jej usta drgnęły.
+
+— Naprawdę wystarczy jedno nieprecyzyjne zdanie i siedmioletni James natychmiast wszczyna śledztwo?
+
+
+[C10-M0303]
+===== USER =====
+
+Nie, powiedziałem cicho i po chwili zapytałem - Gdzie idziemy po obiedzie?
+
+
+[C10-M0304]
+===== ASSISTANT =====
+
+Hermiona zastanowiła się przez chwilę, nadal siedząc blisko niego.
+
+— Myślałam po prostu o spacerze. Bez żadnego konkretnego planu.
+
+Spojrzała na niego z lekkim uśmiechem.
+
+— Możemy pójść w stronę Hampstead Heath. Jest blisko, dużo zieleni, można znaleźć spokojniejsze miejsce i po prostu pobyć trochę sami.
+
+Po chwili dodała ciszej:
+
+— Albo możemy iść gdziekolwiek indziej, jeśli masz lepszy pomysł. Tylko naprawdę chciałabym, żeby tym razem to było zwyczajne wyjście. Bez zamków, kominków i teleportacji.
+
+
+[C10-M0305]
+===== USER =====
+
+-to w takimi razie zrealizujemy twój plan
+
+
+[C10-M0306]
+===== ASSISTANT =====
+
+Hermiona uśmiechnęła się z wyraźnym zadowoleniem.
+
+— Dobrze. W takim razie po obiedzie Hampstead Heath.
+
+Spojrzała na niego z ukosa.
+
+— I naprawdę na piechotę. Uprzedzam, żebyś za dziesięć minut nie zaproponował, że „tylko kawałeczek” skrócimy sobie Fiu.
+
+Jej ojciec, który usłyszał ostatnie zdanie, parsknął cicho.
+
+— To akurat brzmi jak rozsądna zasada.
+
+Hermiona wróciła do obiadu, nadal siedząc blisko Jamesa.
+
+— Najpierw jednak musimy przeżyć to — mruknęła. — Potem cię stąd wyprowadzę.
+
+
+[C10-M0307]
+===== USER =====
+
+-Dobrze...dodałem ciszej - I siedmioletni James ma taki pomysł że przez ten spacer będzie się w stu procentach słuchać Panny Granger....
+
+
+[C10-M0308]
+===== ASSISTANT =====
+
+Hermiona uniosła brwi i spojrzała na Jamesa z wyraźnym rozbawieniem.
+
+— W stu procentach?
+
+Przechyliła lekko głowę.
+
+— To brzmi podejrzanie. Siedmioletni James zwykle ma aż tyle rozsądku?
+
+Kącik jej ust drgnął, po czym ściszyła głos.
+
+— Dobrze. W takim razie Panna Granger wybiera trasę, tempo i moment, w którym siadamy gdzieś na trawie.
+
+Po chwili dodała:
+
+— Ale uprzedzam: jeśli każę skręcić w lewo, nie chcę usłyszeć „a może w prawo będzie ciekawiej”.
+
+Na Hampstead Heath faktycznie jest sporo ścieżek i spokojniejszych tras spacerowych, więc Hermiona miałaby z czego wybierać. 
+cityoflondon.gov.uk
+
+
+[C10-M0309]
+===== USER =====
+
+-Dobrze...
+
+
+[C10-M0310]
+===== ASSISTANT =====
+
+Hermiona uśmiechnęła się z satysfakcją.
+
+— Dobrze. Zapamiętam, że sam to zaproponowałeś.
+
+Po chwili wróciła do jedzenia, ale spod stołu lekko trąciła Jamesa kolanem.
+
+— I nie martw się. Nie zamierzam wykorzystywać tej niezwykłej władzy do niczego strasznego.
+
+Zerknęła na niego z ukosa.
+
+— Najwyżej każę ci iść dokładnie tam, gdzie chcę, usiąść wtedy, kiedy ja wybiorę… i przez cały spacer nie marudzić ani razu.
+
+Jej ojciec spojrzał na nich podejrzliwie.
+
+— Mam wrażenie, że właśnie zawieracie jakieś porozumienie.
+
+Hermiona natychmiast przybrała niewinną minę.
+
+— Nic poważnego. James po prostu popełnił błąd i obiecał, że będzie mnie słuchał.
+
+
+[C10-M0311]
+===== USER =====
+
+pokręciłem głową i sam zacząłem jeść i po dłuższej chwili skończyłem
+
+
+[C10-M0312]
+===== ASSISTANT =====
+
+Hermiona jeszcze przez chwilę jadła, potem również odłożyła sztućce i zerknęła na Jamesa.
+
+— No dobrze — powiedziała cicho. — Skoro oboje skończyliśmy, to chyba pora na mój wielki plan.
+
+Jej ojciec spojrzał na nich znad stołu.
+
+— Spacer, prawda?
+
+— Spacer — potwierdziła Hermiona. — Hampstead Heath. I wrócimy normalnie, na piechotę.
+
+Matka Hermiony zaczęła zbierać część naczyń.
+
+— W porządku. Tylko nie znikajcie na pół dnia bez słowa.
+
+Hermiona kiwnęła głową, po czym spojrzała na Jamesa z lekkim, zaczepnym uśmiechem.
+
+— Chodź. Zanim siedmioletni James zmieni zdanie w sprawie tego stuprocentowego posłuszeństwa.
+
+
+[C10-M0313]
+===== USER =====
+
+wstałem z miejsca i ruszyłem za Hermioną
+
+
+[C10-M0314]
+===== ASSISTANT =====
+
+Hermiona również wstała od stołu.
+
+— Wrócimy później — rzuciła do rodziców, kierując się do przedpokoju.
+
+— Tylko bez „później” oznaczającego wieczór — odpowiedział jej ojciec.
+
+— Tato.
+
+— Przecież nic nie powiedziałem.
+
+Hermiona pokręciła głową i ruszyła dalej. W przedpokoju minęła odwieszony wcześniej czarny płaszcz Jamesa, po czym zatrzymała się przy drzwiach i obejrzała przez ramię.
+
+— Płaszcza chyba nie potrzebujesz. Jest lipiec, a zamierzam cię trochę przegonić.
+
+Otworzyła drzwi.
+
+— No dobrze, panie Brown. Od tej chwili realizujemy mój plan. I przypominam, że sam zgodziłeś się mnie słuchać.
+
+
+[C10-M0315]
+===== USER =====
+
+kiwnąłem głową
+
+
+[C10-M0316]
+===== ASSISTANT =====
+
+Hermiona odwzajemniła skinienie i wyszła na zewnątrz.
+
+Przez moment jeszcze stała przy furtce, czekając, aż będą mogli ruszyć razem, a potem skierowała się spokojnie w stronę Hampstead Heath.
+
+— No dobrze — powiedziała z lekkim uśmiechem. — Skoro mam dziś stuprocentowe posłuszeństwo, zaczynam łagodnie.
+
+Spojrzała na niego z ukosa.
+
+— Idziemy spokojnie, bez pośpiechu. A jak już dojdziemy, znajdę jakieś miejsce, gdzie nie będzie tłumu.
+
+Po chwili dodała:
+
+— I nie próbuj zgadywać, dokąd dokładnie. Obiecałeś się słuchać.
+
+
+[C10-M0317]
+===== USER =====
+
+znowu pokiwałem poważnie głową - a mogę mówić komplementy?
+
+
+[C10-M0318]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego z miną, jakby to pytanie było zdecydowanie łatwiejsze od poprzednich.
+
+— Tak. Komplementy są dozwolone.
+
+Po chwili uniosła palec.
+
+— Ale bez przesady. Jeśli przez cały spacer będziesz mówił mi co trzy kroki, że jestem piękna, to przestanie to być spacer, a zacznie być bardzo długa przemowa.
+
+Kącik jej ust drgnął.
+
+— Kilka szczerych komplementów przeżyję. Nawet chętnie.
+
+
+[C10-M0319]
+===== USER =====
+
+znów pokiwałem głową - na wstępie chciałbym powiedzieć że Panna Granger jest bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo mądra i inteligentna
+
+
+[C10-M0320]
+===== ASSISTANT =====
+
+Hermiona najpierw próbowała zachować powagę, ale przy mniej więcej dziesiątym „bardzo” zaczęła się uśmiechać coraz szerzej.
+
+— James…
+
+Gdy w końcu dotarł do „mądra i inteligentna”, pokręciła głową.
+
+— Dobrze, przyjmuję komplement. Nawet bardzo chętnie.
+
+Ruszyła dalej obok niego.
+
+— Ale jeśli twoja strategia polega na tym, żeby powtarzać „bardzo” tak długo, aż zapomnę, gdzie mieliśmy iść, to uprzedzam: nie zadziała.
+
+Po chwili zerknęła na niego z ukosa.
+
+— Chociaż… „mądra i inteligentna” to całkiem niezły początek. Możesz kontynuować.
+
+
+[C10-M0321]
+===== USER =====
+
+pokręciłem głową - nie co trzy kroki....
+
+
+[C10-M0322]
+===== ASSISTANT =====
+
+Hermiona parsknęła cicho.
+
+— Dobrze, rozumiem. Nie co trzy kroki.
+
+Spojrzała na niego z ukosa, wyraźnie rozbawiona.
+
+— Czyli co pięć?
+
+Nie czekała długo z odpowiedzią, tylko lekko potrząsnęła głową.
+
+— Dobra, dobra. Możesz mówić, kiedy naprawdę będziesz miał ochotę. Nie będę liczyć kroków.
+
+Ruszyła dalej spokojnym tempem, prowadząc ich w stronę zieleni.
+
+— Ale skoro już ustaliliśmy, że dziś mam dowodzić, to teraz po prostu idziemy.
+
+
+[C10-M0323]
+===== USER =====
+
+znowu pokiwałem głową i dałem się prowadzić
+
+
+[C10-M0324]
+===== ASSISTANT =====
+
+Hermiona poprowadziła ich dalej bez pośpiechu, wyraźnie zadowolona, że James rzeczywiście nie próbuje przejmować prowadzenia.
+
+Przez kilka minut szli po prostu obok siebie. Im bliżej byli zieleni, tym bardziej ulice ustępowały spokojniejszym odcinkom i drzewom.
+
+Hermiona co jakiś czas zerkała na niego kątem oka, aż w końcu odezwała się z lekkim uśmiechem:
+
+— Naprawdę się słuchasz.
+
+Po chwili dodała, już bardziej zaczepnie:
+
+— Zaczynam się zastanawiać, jak długo to potrwa.
+
+Kiedy dotarli do jednej z szerokich ścieżek Hampstead Heath, skręciła bez pytania w mniej zatłoczoną stronę.
+
+— Tędy. Chcę znaleźć jakieś spokojniejsze miejsce, zanim siedmioletni James uzna, że „stuprocentowe posłuszeństwo” jednak miało drobny druk.
+
+
+[C10-M0325]
+===== USER =====
+
+pokręciłem głową bardzo poważnie
+
+
+[C10-M0326]
+===== ASSISTANT =====
+
+Hermiona spojrzała na tę przesadnie poważną minę i tym razem już nie wytrzymała — parsknęła śmiechem.
+
+— Dobrze, dobrze. Widzę, że traktujesz to śmiertelnie poważnie.
+
+Po chwili zwolniła trochę krok i skierowała ich w stronę spokojniejszej, mniej uczęszczanej ścieżki między drzewami.
+
+— To w takim razie kolejna instrukcja Panny Granger: przez najbliższe kilka minut niczego nie kombinujesz. Po prostu idziesz ze mną i patrzysz, dokąd cię prowadzę.
+
+Zerknęła na Jamesa z ukosa.
+
+— A jeśli nadal będziesz tak poważnie kiwał głową przy każdej rzeczy, którą mówię, to zacznę specjalnie wymyślać coraz bardziej absurdalne polecenia.
+
+
+[C10-M0327]
+===== USER =====
+
+tym razem jednak nie pokiwałem głową
+
+
+[C10-M0328]
+===== ASSISTANT =====
+
+Hermiona zauważyła, że tym razem James nie odpowiedział swoim zwyczajowym skinieniem, i zerknęła na niego z ukosa.
+
+— O. Jednak potrafisz się powstrzymać.
+
+Kącik jej ust drgnął.
+
+Przez następnych kilka minut prowadziła ich dalej wzdłuż ścieżki, aż zabudowania zaczęły zostawać coraz bardziej z tyłu, a wokół było więcej drzew, trawy i rozchodzących się dróżek. Hampstead Heath rzeczywiście dawało sporo możliwości odbicia w spokojniejsze części parku. 
+City of London
+
+W końcu Hermiona zwolniła, rozejrzała się i wskazała boczną ścieżkę.
+
+— Tędy.
+
+Po kilkudziesięciu krokach znalazła miejsce trochę odsunięte od głównej trasy, pod drzewami, gdzie nie przechodził akurat nikt blisko.
+
+Odwróciła się do Jamesa.
+
+— Dobrze. Kolejne polecenie Panny Granger: siadamy tutaj na chwilę.
+
+
+[C10-M0329]
+===== USER =====
+
+usiadłem
+
+
+[C10-M0330]
+===== ASSISTANT =====
+
+Hermiona usiadła obok niego na trawie, poprawiając spódnicę, po czym oparła dłonie za sobą i przez chwilę patrzyła przed siebie.
+
+— No proszę. Pierwsze polecenie wykonane bez dyskusji.
+
+Zerknęła na Jamesa z rozbawieniem.
+
+— Zaczynam podejrzewać, że naprawdę zamierzasz dotrzymać tej obietnicy.
+
+Przez chwilę siedziała w ciszy, korzystając ze spokoju miejsca, które wybrała.
+
+— Dobrze… — odezwała się w końcu. — To teraz masz po prostu siedzieć tutaj ze mną. Bez żadnego zadania. To chyba dasz radę?
+
+
+[C10-M0331]
+===== USER =====
+
+chwilę się zastanawiałem - Czyli mogę robić co chce?
+
+
+[C10-M0332]
+===== ASSISTANT =====
+
+Hermiona odwróciła głowę w jego stronę i uniosła brew.
+
+— Niezupełnie.
+
+Kącik jej ust drgnął.
+
+— Powiedziałam, że nie masz żadnego zadania. Nie że nagle dostałeś pozwolenie na absolutnie wszystko.
+
+Przesunęła się odrobinę wygodniej na trawie.
+
+— Możesz rozmawiać, przytulić się, powiedzieć kolejny z tych swoich przesadnie rozbudowanych komplementów… cokolwiek normalnego.
+
+Spojrzała na niego podejrzliwie.
+
+— Ale po tym pytaniu zaczynam się zastanawiać, co właściwie przyszło ci do głowy.
+
+
+[C10-M0333]
+===== USER =====
+
+znów pokiwałem głową i przytuliłem ją od boku i zacząłem szeptać - Panna Granger ma bardzo ładne oczy które często mi się snią i utrudniają rozsądne myślenie....
+
+
+[C10-M0334]
+===== ASSISTANT =====
+
+Hermiona odruchowo uśmiechnęła się i przysunęła trochę bliżej w tym bocznym uścisku.
+
+— To było zdecydowanie więcej niż jedno „bardzo” — wyszeptała.
+
+Na wzmiankę o oczach lekko się zarumieniła.
+
+— Ale ten przyjmuję bez protestu.
+
+Spojrzała na niego z bliska, z wyraźnym rozbawieniem.
+
+— Chociaż jeśli moje oczy naprawdę utrudniają ci rozsądne myślenie, to chyba Panna Granger powinna uważać, gdzie patrzy. Zwłaszcza dzisiaj, kiedy obiecałeś się jej słuchać.
+
+Po chwili dodała ciszej:
+
+— I… miło wiedzieć, że ci się śnią.
+
+
+[C10-M0335]
+===== USER =====
+
+przytuliłem ją nieco mocniej - Bardzo lubię głos Panny Granger jezt takj lekkim melodyjny.... nie mogę się doczekać aż pierwszy raz usłyszeć twoje....
+
+
+[C10-M0336]
+===== ASSISTANT =====
+
+Hermiona od razu wychwyciła urwane zdanie. Przez moment patrzyła na Jamesa z uniesioną brwią.
+
+— Moje… co? — zapytała cicho.
+
+Kącik jej ust drgnął, ale nie próbowała kończyć zdania za niego.
+
+— Nie możesz zrobić takiej pauzy i oczekiwać, że po prostu ją zignoruję, panie Brown.
+
+Pozostała przytulona do niego z boku, wyraźnie czekając, aż sam dokończy.
+
+
+[C10-M0337]
+===== USER =====
+
+bardzo się zarumieniłem - nie, przepraszam to glupie....
+
+
+[C10-M0338]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego uważniej, ale nie naciskała.
+
+— Dobrze — odpowiedziała cicho. — Nie musisz kończyć.
+
+Po chwili kącik jej ust lekko drgnął.
+
+— Ale nie przepraszaj za to, że coś przyszło ci do głowy. To jeszcze nie znaczy, że musisz to powiedzieć.
+
+Została blisko niego i dodała już z odrobiną zaczepnego tonu:
+
+— Chociaż teraz oczywiście będę ciekawa. To już twoja wina.
+
+
+[C10-M0339]
+===== USER =====
+
+zarumieniłem się jeszcze bardziej -Nie, to bardzo glupie.....
+
+
+[C10-M0340]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego jeszcze chwilę, a widząc coraz mocniejszy rumieniec, jej zaczepny uśmiech trochę złagodniał.
+
+— Dobrze. Skoro aż tak głupie, to zachowaj to sobie na razie.
+
+Oparła lekko głowę o jego ramię.
+
+— Ale uprzedzam, że teraz będę próbowała zgadnąć. Nie na głos — dodała od razu. — Przynajmniej przez jakiś czas.
+
+Po chwili mruknęła z rozbawieniem:
+
+— I bardzo mi się podoba, że człowiek, który potrafi bez mrugnięcia okiem rzucać się w pojedynki, może się tak potwornie speszyć jednym niedokończonym zdaniem.
+
+
+[C10-M0341]
+===== USER =====
+
+przytuliłem ją nieco mocniej
+
+
+[C10-M0342]
+===== ASSISTANT =====
+
+Hermiona rozluźniła się w jego ramionach i została przy nim bez słowa.
+
+Po chwili oparła policzek lekko o jego ramię, patrząc gdzieś przed siebie między drzewa.
+
+— Wiesz… — odezwała się cicho. — To też jest całkiem dobry komplement.
+
+Kącik jej ust drgnął.
+
+— Taki bez słów.
+
+Przez moment po prostu siedziała blisko, nie próbując przerywać ciszy.
+
+— Ten możesz powtarzać częściej.
+
+
+[C10-M0343]
+===== USER =====
+
+pokiwałem głową i wsunąłem rękę w jej włosy i zacząłem masować ją po głowie
+
+
+[C10-M0344]
+===== ASSISTANT =====
+
+Hermiona przymknęła oczy niemal od razu, kiedy jego palce zaczęły przesuwać się po jej włosach.
+
+— Mhm… — mruknęła cicho. — To też jest dozwolone.
+
+Po chwili przechyliła głowę odrobinę tak, żeby było mu wygodniej.
+
+— Właściwie to bardzo dozwolone.
+
+Kącik jej ust uniósł się lekko.
+
+— Panna Granger oficjalnie zatwierdza tę część planu.
+
+
+[C10-M0345]
+===== USER =====
+
+drugą rękę bardzo delikatnie położyłem na twojej talii i bardzo powoli zacząłem z tobą opadać do pozycji leżącej tak że twoja głowa żeby była na mojej klatce
+
+
+[C10-M0346]
+===== ASSISTANT =====
+
+Hermiona pozwoliła się powoli ułożyć, ostrożnie przesuwając tak, żeby było jej wygodnie, aż w końcu oparła głowę na jego klatce piersiowej.
+
+Przez moment poprawiła tylko włosy, które rozsypały się po jego koszuli, i została tak bez protestu.
+
+— Mhm… — mruknęła cicho. — To też może zostać w planie Panny Granger.
+
+Po chwili uśmiechnęła się pod nosem.
+
+— Nawet bardzo długo.
+
+
+[C10-M0347]
+===== USER =====
+
+cały czas masowałem jej głowę jednocześnie zacząłem szeptem - Wiesz że bardzo lubię cię głaskać?
+
+
+[C10-M0348]
+===== ASSISTANT =====
+
+Hermiona uśmiechnęła się lekko, nadal leżąc z głową na jego klatce.
+
+— Zauważyłam — wyszeptała.
+
+Przez chwilę nic więcej nie mówiła, tylko przymknęła oczy pod jego dłonią.
+
+— I chyba już wiesz, że ja bardzo lubię, kiedy to robisz.
+
+Kącik jej ust drgnął.
+
+— Zwłaszcza po włosach. To jest zdecydowanie jeden z tych twoich nawyków, których nie zamierzam ci oduczać.
+
+
+[C10-M0349]
+===== USER =====
+
+A Wiesz że jesteś taka słodka że chciałbym cię zjeść ale nie robię tego tylko dlatego bo nie chce żeby cię nie było...powiedziałem nadal masując jej głowę
+
+
+[C10-M0350]
+===== ASSISTANT =====
+
+Hermiona parsknęła śmiechem, nie otwierając oczu.
+
+— To chyba najbardziej niepokojący komplement, jaki dziś usłyszałam.
+
+Przez chwilę pozwalała mu dalej masować głowę, po czym mruknęła:
+
+— Ale dobrze. Doceniam, że jednak zdecydowałeś się mnie nie zjadać.
+
+Kącik jej ust uniósł się lekko.
+
+— Bardzo rozsądne. Panna Granger zdecydowanie woli istnieć dalej.
+
+
+[C10-M0351]
+===== USER =====
+
+kiwnąłem głową i skupiłem się na masażu jednocześnie drugą ręką opuszkami palców zacząłem bardzo delikatnie jeździć wzdłuż po jej żebrach tak jak ostatnio
+
+
+[C10-M0352]
+===== ASSISTANT =====
+
+Hermiona drgnęła lekko przy pierwszym przesunięciu opuszków po żebrach, a po chwili z jej ust wyrwało się ciche, stłumione parsknięcie.
+
+— James… — mruknęła z rozbawieniem, nadal z głową na jego klatce. — Wiesz przecież, że tam mnie łaskocze.
+
+Nie odsunęła się jednak. Przeciwnie, ułożyła się wygodniej i przymknęła oczy, kiedy jedna dłoń nadal spokojnie masowała jej głowę.
+
+— Tylko bardzo delikatnie — dodała cicho. — Bo jak naprawdę zaczniesz łaskotać, to całe twoje „stuprocentowe posłuszeństwo Pannie Granger” bardzo szybko zostanie wystawione na próbę.
+
+
+[C10-M0353]
+===== USER =====
+
+jeszcze bardziej zmniejszyłem siłe masaż na żebrach jednocześnie nadl masowałem jej głowę po chwili znowu zacząłem szeptać - Czy....Panna Granger pamięta jak mówiliśmy o tym dziwnym napięciu?
+
+
+[C10-M0354]
+===== ASSISTANT =====
+
+Hermiona przez chwilę nie odpowiadała. Pod jego dłonią pozostawała rozluźniona, choć na pytanie lekko otworzyła oczy.
+
+— Pamiętam — wyszeptała.
+
+Po chwili dodała, trochę ciszej:
+
+— Jeśli masz na myśli to… dziwne uczucie, które czasami pojawia się, kiedy jesteśmy bardzo blisko. Takie napięcie, kiedy niby nic konkretnego się nie dzieje, ale oboje je zauważamy.
+
+Lekko poruszyła głową na jego klatce.
+
+— Czemu pytasz?
+
+
+[C10-M0355]
+===== USER =====
+
+lekko się zarumieniłem - Bo w takich sytuacjach jak teraz też się u mnie często pojawia i wtedy Panna Granger wydaje się być taka delikatna ale też bardzo responsywan i..... bardzo wtedy wygląda pięknie
+
+
+[C10-M0356]
+===== ASSISTANT =====
+
+Hermiona wyraźnie się zarumieniła, choć nadal leżała spokojnie z głową na jego klatce.
+
+— „Responsywna”? — powtórzyła szeptem, z lekkim rozbawieniem. — To brzmi strasznie naukowo jak na komplement.
+
+Po chwili jednak jej uśmiech złagodniał.
+
+— Ale… rozumiem, co masz na myśli. Że wtedy bardziej reaguję na ciebie. Na głos, dotyk, to jak blisko jesteśmy.
+
+Przymknęła oczy, gdy jego dłoń nadal masowała jej głowę.
+
+— I chyba właśnie dlatego to napięcie jest takie dziwne. Bo nic wielkiego nie musi się dziać, a i tak oboje je czujemy.
+
+Po sekundzie dodała ciszej:
+
+— A „bardzo piękna” możesz mówić dalej. Tego akurat Panna Granger nie zamierza poprawiać.
+
+
+[C10-M0357]
+===== USER =====
+
+lekko się usmiechnąłem - ale to napięcie jest, nawet przyjemne?
+
+
+[C10-M0358]
+===== ASSISTANT =====
+
+Hermiona przez chwilę milczała, jakby dobierała słowa.
+
+— Tak — odpowiedziała w końcu cicho. — Przyjemne.
+
+Lekko poruszyła głową na jego klatce, nadal nie odsuwając się.
+
+— Trochę jak… motyle w brzuchu, tylko spokojniejsze. Takie poczucie, że bardzo dobrze jest być blisko, ale jednocześnie człowiek robi się bardziej świadomy każdego drobiazgu.
+
+Kącik jej ust drgnął.
+
+— Więc tak. Dziwne, czasem trochę rozpraszające… ale zdecydowanie przyjemne.
+
+
+[C10-M0359]
+===== USER =====
+
+lekko się usmiechałem i kontynuowałem masaż - Niech Tylko Panna Granger pamieta że dowodzi....w tej chwili
+
+
+[C10-M0360]
+===== ASSISTANT =====
+
+Hermiona uniosła lekko głowę z jego klatki i spojrzała na niego z bliska.
+
+— Pamiętam — szepnęła, a w jej oczach pojawił się znajomy, zaczepny błysk. — I skoro mi przypominasz, to zamierzam z tego skorzystać.
+
+Po chwili znów wygodnie ułożyła głowę.
+
+— Pierwsze polecenie: niczego teraz nie zmieniaj. Dalej masujesz mi głowę, dalej jesteś delikatny… i zostajesz dokładnie tutaj.
+
+Kącik jej ust lekko się uniósł.
+
+— Panna Granger jest całkiem zadowolona z obecnej sytuacji.
+
+
+[C10-M0361]
+===== USER =====
+
+pokiwałem głową i kontynuowałem masaż po głowie i żebrach
+
+
+[C10-M0362]
+===== ASSISTANT =====
+
+Hermiona rozluźniła się jeszcze bardziej, kiedy dotyk stał się lżejszy.
+
+Przez chwilę nic nie mówiła, tylko leżała spokojnie z głową na jego klatce, pozwalając mu kontynuować oba delikatne ruchy.
+
+Po paru sekundach mruknęła cicho:
+
+— Właśnie tak.
+
+Kącik jej ust lekko się uniósł.
+
+— I przypominam, że to nadal ja dowodzę… więc masz nie przyspieszać tylko dlatego, że powiedziałam, że jest przyjemnie.
+
+
+[C10-M0363]
+===== USER =====
+
+pokiwałem głową i trzymałem się jej instrukcji
+
+
+[C10-M0364]
+===== ASSISTANT =====
+
+Hermiona nie odzywała się przez dłuższą chwilę. Leżała spokojnie z głową na jego klatce, wyraźnie korzystając z tego, że tym razem James rzeczywiście nie próbował niczego zmieniać.
+
+Dopiero po paru minutach odezwała się cicho:
+
+— Dobrze… chyba naprawdę umiesz się słuchać, kiedy chcesz.
+
+Kącik jej ust lekko drgnął.
+
+— To w takim razie Panna Granger na razie nie wydaje żadnych nowych poleceń.
+
+Przymknęła oczy.
+
+— To jest wystarczająco dobre.
+
+
+[C10-M0365]
+===== USER =====
+
+znowu poważnie pokiwałem głową i skupiałem się ma masażu
+(Czat pamiętasz jak ostatnio ustalismy że trzymasz sie jak najbardziej książkowego kanonu?)
+
+
+[C10-M0366]
+===== ASSISTANT =====
+
+Tak — dokładnie o zakończenie czwartego roku chodziło. Ustaliliśmy wtedy, że okres po trzecim zadaniu prowadzimy możliwie blisko książkowego kanonu, tylko wplatając Jamesa tam, gdzie da się to zrobić bez rozwalania wydarzeń już ustalonych w naszej kampanii. 
+01_ARCHIWUM_CZAT_1-9_SCALONE
+
+Czyli obowiązuje nam ten układ: 24 czerwca — trzecie zadanie, śmierć Cedrika, powrót Voldemorta i wydarzenia z Crouchem; potem kilka dni konsekwencji zgodnych możliwie z książką; 30 czerwca wieczorem uczta pożegnalna; 1 lipca 1995 wyjazd z Hogwartu. Wcześniejsze wersje, w których 25 czerwca był już końcem roku albo uczta wypadała 1 lipca, zostały przez nas poprawione. 
+01_ARCHIWUM_CZAT_1-9_SCALONE
+
+I ważniejsze od samych dat: wtedy chciałeś, żebym nie wymyślał całkiem nowej końcówki roku tylko dlatego, że James istnieje w historii. Kanoniczne wydarzenia i zachowania postaci mają się odbywać tam, gdzie nasza wcześniejsza fabuła ich nie zmieniła, a James zostaje w nie naturalnie wpleciony. Dokładnie tak będę rozumiał również podobne sytuacje dalej: książkowy przebieg jako tor bazowy, kampania Jamesa jako zmiany tam, gdzie rzeczywiście coś zmieniliśmy. 
+01_ARCHIWUM_CZAT_1-9_SCALONE
+
+
+[C10-M0367]
+===== USER =====
+
+(Ok to od teraz trzymamy sie  możliwie blisko książkowego kanonu cały czas, tylko wplatając)
+
+
+[C10-M0368]
+===== ASSISTANT =====
+
+Tak. Od teraz przyjmuję to jako stałą zasadę prowadzenia kampanii:
+
+cały czas trzymamy się możliwie blisko książkowego kanonu, a James jest w niego naturalnie wplatany.
+
+Czyli książki wyznaczają bazowy przebieg wydarzeń, charaktery, relacje, wiedzę postaci, szkolną codzienność i konsekwencje wydarzeń. Nie będę bez potrzeby zastępował książkowych scen własnymi wersjami ani przyspieszał postaci do ich późniejszych charakterów.
+
+Jednocześnie nasza rozegrana historia ma pierwszeństwo tam, gdzie już coś zmieniliśmy. Przykładowo Hermiona poszła na Bal z Jamesem, więc nie będę później próbował „naprawić” tego do wersji z Krumem. Tak samo wszystkie nasze ustalone relacje, rozmowy, sekrety i skutki działań Jamesa pozostają kanonem kampanii.
+
+Najprościej:
+
+książkowy kanon → domyślny tor historii
+nasza rozegrana kampania → lokalne zmiany tego toru
+filmy → głównie wygląd, stroje i scenografia, jeśli wcześniej tak ustaliliśmy
+
+I nadal bez wiedzy z przyszłych tomów dla postaci, dopóki nie mają prawa jej znać.
+
+To właśnie będzie od teraz mój podstawowy sposób prowadzenia RPG.
+
+
+[C10-M0369]
+===== USER =====
+
+(ok to kontynuuj)
+
+
+[C10-M0370]
+===== ASSISTANT =====
+
+Hermiona przez dłuższą chwilę nic nie mówiła. Leżała spokojnie z głową na jego klatce, a po paru minutach zaczęła niemal bezwiednie bawić się skrawkiem jego kamizelki przy boku.
+
+W końcu odezwała się cicho:
+
+— Wiesz… to jest trochę dziwne.
+
+Uniósłszy lekko głowę, spojrzała na niego.
+
+— Jeszcze tydzień temu byliśmy w Hogwarcie, wszędzie Turniej, nauczyciele, uczniowie, ciągle coś się działo… a teraz leżymy sobie na trawie w Londynie i największym problemem jest to, czy za mocno mnie łaskoczesz.
+
+Na jej twarzy pojawił się mały uśmiech.
+
+— Chyba mogłabym się do takich problemów przyzwyczaić.
+
+
+[C10-M0371]
+===== USER =====
+
+Ja chyba też....powiedziałem cicho przypominając sobie wszystko co się stało działo od ostatniego zadania teunieju -Mowilas rodzicom co się stało podczas ostatniego zadania?
+
+
+[C10-M0372]
+===== ASSISTANT =====
+
+Hermiona otworzyła oczy i przez chwilę milczała, nadal leżąc z głową na jego klatce.
+
+— Nie wszystko — odpowiedziała cicho. — Powiedziałam im, że Cedrik zginął podczas ostatniego zadania i że koniec roku… nie wyglądał tak, jak powinien.
+
+Lekko przesunęła palcami po jego kamizelce.
+
+— Wiedzą też, że Dumbledore powiedział nam, że Voldemort wrócił. Nie chciałam tego przed nimi ukrywać, zwłaszcza jeśli mam wrócić do Hogwartu we wrześniu.
+
+Zmarszczyła lekko brwi.
+
+— Ale nie opowiadałam im całej historii Harry’ego z cmentarza. To przede wszystkim jego historia, a poza tym sama nie byłam tam i znam ją tylko z tego, co później powiedział. O Moodym i Crouchu też nie wdawałam się we wszystkie szczegóły.
+
+Po chwili spojrzała na Jamesa.
+
+— A ty? Pytasz, bo uważasz, że powinnam powiedzieć im więcej?
+
+
+[C10-M0373]
+===== USER =====
+
+chwilę się zastanowiłem nie przerywając masażu - Myślę że jeśli wiedzą kim jest Voldemort to to wystarczy...
+
+
+[C10-M0374]
+===== ASSISTANT =====
+
+Hermiona zastanowiła się chwilę, nadal leżąc spokojnie z głową na jego klatce.
+
+— Wiedzą wystarczająco dużo — odpowiedziała cicho. — Wyjaśniłam im, dlaczego jego powrót jest czymś naprawdę poważnym. Nie zasypywałam ich całą historią świata czarodziejów.
+
+Przez moment milczała, po czym lekko poruszyła głową pod jego dłonią.
+
+— I chyba masz rację. Szczegóły tego, co wydarzyło się Harry’emu na cmentarzu, nie sprawią, że będą lepiej przygotowani. Raczej tylko bardziej będą się martwić.
+
+Kącik jej ust drgnął.
+
+— Chociaż podejrzewam, że i tak zamierzają zadawać mi znacznie więcej pytań o Hogwart niż przed tym rokiem.
+
+
+[C10-M0375]
+===== USER =====
+
+-Jakby się martwili to zawsze możesz im powiedzieć że cię pilnuje...
+
+
+[C10-M0376]
+===== ASSISTANT =====
+
+Hermiona parsknęła cicho, ale nie podniosła głowy z jego klatki.
+
+— Och, tak. To na pewno ich uspokoi — mruknęła. — „Nie martwcie się, James mnie pilnuje”.
+
+Po chwili kącik jej ust uniósł się mocniej.
+
+— Tata prawdopodobnie spojrzałby wtedy na mnie i zapytał: „A kto pilnuje Jamesa?”
+
+Przez kilka sekund pozwalała mu dalej spokojnie masować włosy i boki, po czym dodała ciszej:
+
+— Ale… mogłabym im powiedzieć, że nie jestem w Hogwarcie sama. Że mam Harry’ego, Rona… i ciebie.
+
+Lekko wtuliła policzek w jego koszulę.
+
+— To akurat byłaby prawda.
+
+
+[C10-M0377]
+===== USER =====
+
+lekko się usmiechałem i znowu skupiłem się na masażu
+
+
+[C10-M0378]
+===== ASSISTANT =====
+
+Hermiona przez chwilę już nic nie mówiła.
+
+Pod jego dłońmi stopniowo rozluźniała się coraz bardziej; od czasu do czasu tylko lekko poruszała głową, kiedy trafiał dokładnie w miejsce, które wyraźnie jej odpowiadało. Przy delikatnym ruchu palców przy żebrach raz drgnęła i stłumiła krótkie parsknięcie śmiechu, ale nie odsunęła się.
+
+Po paru minutach odezwała się bardzo cicho:
+
+— To też jest trochę niesprawiedliwe.
+
+Kącik jej ust uniósł się.
+
+— Człowiek próbuje myśleć o poważnych rzeczach… Voldemorcie, Hogwarcie, tym co będzie we wrześniu…
+
+Przymknęła oczy.
+
+— …a potem ktoś zaczyna mu masować głowę i nagle myślenie przestaje być takie pilne.
+
+
+[C10-M0379]
+===== USER =====
+
+-Pamietaj że ty dowodzisz.... jeśli chcesz to możemy się teraz trochę pomartwic....
+
+
+[C10-M0380]
+===== ASSISTANT =====
+
+Hermiona przez moment milczała, jakby rzeczywiście rozważała propozycję.
+
+— Nie — zdecydowała w końcu cicho. — Jeszcze zdążymy się martwić.
+
+Nie podniosła głowy z jego klatki.
+
+— O Voldemorcie, o Ministerstwie, o wrześniu… o Harrym. Tego wszystkiego nie zabraknie tylko dlatego, że przez godzinę o tym nie myślimy.
+
+Po chwili lekko poruszyła się pod jego dłonią, układając wygodniej.
+
+— Więc skoro to ja dowodzę… rozkaz Panny Granger brzmi: na razie zostajemy tutaj.
+
+Kącik jej ust drgnął.
+
+— I kontynuujesz masaż.
+
+
+[C10-M0381]
+===== USER =====
+
+posłusznie nie kontynuowałem tematu i nadala ją masowałem
+
+
+[C10-M0382]
+===== ASSISTANT =====
+
+Hermiona już niczego nie dodawała. Przez kilka minut leżała spokojnie, pozwalając, żeby rozmowę zastąpił rytm dłoni Jamesa i cichy szum liści nad nimi.
+
+Przy szczególnie lekkim przesunięciu palców po boku jej usta drgnęły, ale tym razem powstrzymała śmiech. Zamiast tego tylko wygodniej ułożyła głowę na jego klatce.
+
+— Mhm… — mruknęła cicho.
+
+Po chwili otworzyła jedno oko.
+
+— Panna Granger zatwierdza wykonanie polecenia.
+
+Zamknęła je z powrotem.
+
+— I na razie nie planuje żadnych zmian.
+
+
+[C10-M0383]
+===== USER =====
+
+usmiechnąłem się i kontynuowałem
+
+
+[C10-M0384]
+===== ASSISTANT =====
+
+Hermiona przez kilka minut nie mówiła już nic.
+
+Leżała spokojnie z głową na jego klatce, a rytmiczny masaż najwyraźniej coraz bardziej ją rozluźniał. Jej oddech stopniowo się wyrównał; kiedy palce przesuwały się bardzo lekko przy żebrach, tylko raz drgnęła i uśmiechnęła się pod nosem.
+
+Po dłuższej chwili odezwała się sennie:
+
+— James…
+
+Przymknęła oczy mocniej.
+
+— Jeśli będziesz tak dalej robił, to chyba naprawdę zasnę.
+
+Nie brzmiało to jednak jak skarga. Po sekundzie dodała cicho:
+
+— I nie, to nie jest polecenie, żeby przestać.
+
+
+[C10-M0385]
+===== USER =====
+
+-Nie krępuj się powiedziałem szeptem i nie przestałem
+
+
+[C10-M0386]
+===== ASSISTANT =====
+
+Hermiona wydała z siebie ciche, zadowolone mruknięcie.
+
+— Dobrze… — odpowiedziała już niemal sennie.
+
+Przez kolejne minuty jej oddech stawał się coraz spokojniejszy i bardziej równy. Dłoń, którą wcześniej bawiła się skrawkiem jego kamizelki, w końcu znieruchomiała.
+
+Jeszcze raz drgnęła lekko, gdy jego palce przesunęły się przy żebrach, ale tym razem nawet nie otworzyła oczu.
+
+— Tylko… nie przestawaj z włosami… — wymamrotała bardzo cicho.
+
+Po chwili jej twarz całkowicie się rozluźniła.
+
+Wyglądało na to, że Panna Granger rzeczywiście była już bardzo blisko zaśnięcia.
+
+
+[C10-M0387]
+===== USER =====
+
+kontynuując masaż szepnąłem - Bardzo cię kocham Hermiono...
+
+
+[C10-M0388]
+===== ASSISTANT =====
+
+Hermiona poruszyła się ledwie zauważalnie, jakby jego szept dotarł do niej już na granicy snu.
+
+Przez chwilę nic nie odpowiedziała, a potem wtuliła policzek odrobinę mocniej w jego klatkę.
+
+— Ja ciebie też kocham, James… — wymamrotała sennie.
+
+Po paru sekundach dodała jeszcze ciszej:
+
+— Bardzo.
+
+I znów ucichła, pozostając nieruchomo pod jego dłonią.
+
+
+[C10-M0389]
+===== USER =====
+
+kontynuowałem masaż i już milczałem
+
+
+[C10-M0390]
+===== ASSISTANT =====
+
+Hermiona stopniowo uspokoiła się zupełnie.
+
+Jej oddech wyrównał się, palce przestały poruszać się przy jego kamizelce, a ciężar głowy spoczywającej na jego klatce stał się nieco większy. Przez dłuższą chwilę nie było już żadnej odpowiedzi ani zaczepnej uwagi.
+
+Tylko przy jednym delikatnym przesunięciu palców przy żebrach lekko drgnęła przez sen, po czym znów się rozluźniła.
+
+Wyglądało na to, że Hermiona rzeczywiście zasnęła, nadal wtulona w niego pośród trawy i cienia drzew na Hampstead Heath.
+
+
+[C10-M0391]
+===== USER =====
+
+znów szepnąłem - mam nadzieję że Zdajesz sobie sprawę że jesteś w tej sytuacji bardzo urocza...
+
+
+[C10-M0392]
+===== ASSISTANT =====
+
+Hermiona nie otworzyła oczu.
+
+Przez moment wyglądało, jakby w ogóle tego nie usłyszała, ale po chwili kącik jej ust drgnął ledwie zauważalnie.
+
+— Mhm… — wymamrotała sennie.
+
+Po kilku sekundach dodała jeszcze, prawie niewyraźnie:
+
+— Wiem…
+
+I znów całkowicie się rozluźniła, pozostając z głową na jego klatce, wyraźnie już pogrążona we śnie.
+
+
+[C10-M0393]
+===== USER =====
+
+usmiechnąłem się i kontynuowałem masaż
+
+
+[C10-M0394]
+===== ASSISTANT =====
+
+Hermiona spała już spokojnie.
+
+Jej oddech pozostawał równy, a przy kolejnych ruchach dłoni po włosach nie reagowała już świadomie — tylko od czasu do czasu minimalnie poruszała głową, jakby przez sen układała się wygodniej.
+
+Przy bardzo delikatnym masażu boków jej ciało pozostawało rozluźnione. Nie pojawił się już nawet wcześniejszy stłumiony śmiech.
+
+Wokół nich trwało zwyczajne letnie popołudnie: szelest liści nad głowami, odległe głosy ludzi gdzieś dalej i pojedyncze kroki na ścieżce, wystarczająco daleko, by nie zakłócać ciszy.
+
+Hermiona nadal leżała z głową na jego klatce, pogrążona we śnie.
+
+
+[C10-M0395]
+===== USER =====
+
+ja zabrałem rękę z jej żeber i skupiłem się na masażu jej głowy
+
+
+[C10-M0396]
+===== ASSISTANT =====
+
+Hermiona nie obudziła się, kiedy jego druga dłoń opuściła jej bok.
+
+Po chwili jej oddech nawet odrobinę się pogłębił. Masaż włosów pozostał jedynym regularnym bodźcem i najwyraźniej wystarczał, żeby utrzymać ją w spokojnym śnie.
+
+Kilka luźnych pasm przesunęło się przy każdym ruchu jego palców, a diament na jej szyi od czasu do czasu łapał światło przebijające przez liście.
+
+Minuty płynęły bez pośpiechu. Hermiona nadal spała z głową na jego klatce, zupełnie nieświadoma odległych głosów i kroków dobiegających ze ścieżek Hampstead Heath.
+
+
+[C10-M0397]
+===== USER =====
+
+ja postanowiłem jej nie obudzić nadal masowałem jej głowę co jakiś czas zerkając gdzie jest słońce w ten sposób określając mniej więcej godzinę
+
+
+[C10-M0398]
+===== ASSISTANT =====
+
+Słońce zdążyło już wyraźnie przejść za najwyższy punkt. Biorąc pod uwagę porę obiadu, drogę na wrzosowisko i czas spędzony na trawie, można było ocenić, że było mniej więcej wpół do trzeciej.
+
+Hermiona tymczasem spała nadal. Masaż włosów najwyraźniej jej nie przeszkadzał; przeciwnie, kiedy dłoń Jamesa na moment przesunęła się nieco wyżej, jej głowa odruchowo podążyła za dotykiem.
+
+Gdzieś dalej przeszła niewielka grupa ludzi, ale ich rozmowa szybko ucichła między drzewami. W tej części Hampstead Heath wciąż było spokojnie.
+
+Po kilkunastu kolejnych minutach Hermiona poruszyła się trochę mocniej. Zmarszczyła nos, zaczerpnęła głębszy oddech i powoli uchyliła oczy.
+
+Przez pierwszą sekundę wyglądała na zupełnie nieprzytomną.
+
+— …która godzina? — wymamrotała sennie, nadal nie podnosząc głowy z jego klatki.
+
+
+[C10-M0399]
+===== USER =====
+
+Shhhhhdelaktnie ucieszyłem ją kładąc jej palec ns ustach i delikatnie po nich przejeżdżając jednocześnie nadal masowałem jej głowę dodałem szeptem - jakiś wpół do trzeciej... Ale dokładnie nie wiem...
+
+
+[C10-M0400]
+===== ASSISTANT =====
+
+Hermiona zamrugała sennie, gdy poczuła palec na ustach. Przez moment wyglądała, jakby próbowała zdecydować, czy warto w ogóle wracać do pełnej świadomości.
+
+— Wpół do trzeciej… — powtórzyła ledwie słyszalnie.
+
+Jej oczy znów zaczęły się zamykać, szczególnie gdy masaż głowy nie ustał.
+
+— Czyli jeszcze nie musimy wracać… — wymamrotała.
+
+Po chwili kącik jej ust lekko drgnął pod jego palcem.
+
+— Ale jeśli mnie uciszasz… to nie zadawaj mi potem pytań wymagających odpowiedzi, panie Brown…
+
+I ponownie rozluźniła głowę na jego klatce, najwyraźniej gotowa odpłynąć z powrotem w sen.
+
+

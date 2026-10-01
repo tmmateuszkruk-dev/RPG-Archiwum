@@ -1,0 +1,1860 @@
+[C8-M0601]
+===== USER =====
+
+-Ta...a jak sytuacja z Daphne po balu?
+
+
+[C8-M0602]
+===== ASSISTANT =====
+
+Theodore spojrzał na Jamesa znad łóżka i przez moment milczał.
+
+— „Sytuacja z Daphne” — powtórzył sucho. — Brzmisz, jakbyś oczekiwał raportu kwartalnego.
+
+Oparł się dłonią o materac.
+
+— Była moją partnerką na balu. Dobrze się bawiliśmy. A jeśli pytasz, czy po balu wydarzyło się coś, co zamierzam teraz szczegółowo omawiać z tobą… nie.
+
+Kącik jego ust lekko drgnął.
+
+— Nie wszyscy prowadzimy życie uczuciowe przy stole śniadaniowym, Brown.
+
+
+[C8-M0603]
+===== USER =====
+
+O ty dziadu to ja pytam kolegę czy ma dziewczynę a ten odpiwida ze to nie moja sprawa...
+
+
+[C8-M0604]
+===== ASSISTANT =====
+
+Theodore spojrzał na Jamesa, po czym parsknął cicho.
+
+— Dobra, dobra. Jak tak to stawiasz, brzmię jak kompletny dupek.
+
+Podrapał się krótko po karku.
+
+— Nie. Nie mam dziewczyny. Daphne była ze mną na balu, było naprawdę dobrze, ale… nie wyszło z tego żadne oficjalne „jesteśmy razem”.
+
+Po chwili zmrużył oczy.
+
+— Mogłeś też od razu zapytać: „Nott, masz dziewczynę?”, zamiast mówić „jak sytuacja z Daphne”, jakbyś był moim ojcem i sprawdzał postępy w negocjacjach małżeńskich.
+
+
+[C8-M0605]
+===== USER =====
+
+lekko się zaśmiałem - w sumie racja, nie mam ambicji zostać twoim ojcem. Powiedziałem i wróciłem do pakowania.
+-po wkacjach zamierzam dostać się do Drużyny.
+
+
+[C8-M0606]
+===== ASSISTANT =====
+
+Theodore podniósł wzrok.
+
+— Do drużyny Slytherinu? — zapytał. — Tego się po tobie akurat nie spodziewałem.
+
+Po chwili dodał:
+
+— Chociaż po wszystkich twoich teoriach o Quidditchu może to nawet dobrze. Wreszcie będziesz miał okazję sprawdzić je na boisku, a nie tylko przy śniadaniu.
+
+Kącik jego ust drgnął.
+
+— Masz już pozycję na oku?
+
+
+[C8-M0607]
+===== USER =====
+
+Nie, a powinienem? To nie jak kasting... że przychodzę wy patrzcie w czym jestm dobry i tyle?
+
+
+[C8-M0608]
+===== ASSISTANT =====
+
+Theodore spojrzał na niego, jakby pytanie było całkiem rozsądne.
+
+— Trochę jedno i drugie. Na testach pokażesz, jak latasz i co potrafisz, ale raczej dobrze mieć pojęcie, na jaką pozycję chcesz próbować. Kapitan nie będzie patrzył na trzydziestu ludzi i zgadywał: „ten wygląda mi na obrońcę”.
+
+Wzruszył ramionami.
+
+— Jak nie wiesz, możesz pewnie spróbować kilku rzeczy. Ścigający, pałkarz, obrońca… szukający, jeśli akurat będzie miejsce. Po prostu nie przychodź i nie mów: „jestem świetny, znajdźcie mi zastosowanie”.
+
+Kącik ust mu drgnął.
+
+— Chociaż właściwie dokładnie tak wyobrażam sobie twój pierwszy trening.
+
+
+[C8-M0609]
+===== USER =====
+
+-jestem świetny.... myślę że poradził bym sobie sam na boisku ale wiadomo było by nudno...
+
+
+[C8-M0610]
+===== ASSISTANT =====
+
+Theodore prychnął.
+
+— Oczywiście, że tak myślisz.
+
+Spojrzał na niego z cieniem rozbawienia.
+
+— I właśnie dlatego drużyna jest ci potrzebna. Żeby ktoś czasem przypomniał ci, że Quidditch jednak ma siedmiu graczy z jakiegoś powodu.
+
+Po chwili dodał sucho:
+
+— Sam na boisku pewnie rzeczywiście nie miałbyś się z kim nudzić. Byłbyś zbyt zajęty przegrywaniem siedem do jednego.
+
+
+[C8-M0611]
+===== USER =====
+
+wzruszyłem ramionami i zamknąłem walizę -no ale zostawmy to na razie
+... najpierw wakacje
+
+
+[C8-M0612]
+===== ASSISTANT =====
+
+Theodore skinął głową.
+
+— Tak. Najpierw wakacje.
+
+Spojrzał na zamkniętą walizkę, potem na pustoszejącą część pokoju.
+
+— I przez kilka tygodni żadnych lekcji, żadnego Snape’a, żadnego Turnieju i żadnych ludzi próbujących nas zabić na ćwiczeniach Moody’ego.
+
+Kącik jego ust drgnął.
+
+— Brzmi podejrzanie spokojnie. Nie wiem, czy wytrzymasz.
+
+
+[C8-M0613]
+===== USER =====
+
+-Meh.... coś ciekawego zawsze do roboty się znajdzie
+
+
+[C8-M0614]
+===== ASSISTANT =====
+
+Theodore wzruszył ramionami.
+
+— To akurat brzmi bardziej jak ty.
+
+Przesunął jedną z książek na bok i spojrzał na zamkniętą walizkę.
+
+— Tylko postaraj się, żeby „coś ciekawego” nie oznaczało po tygodniu listu z Ministerstwa albo kolejnej historii, której nie da się normalnie opowiedzieć przy stole.
+
+Po chwili dodał z lekkim uśmiechem:
+
+— Chociaż pewnie proszę o za dużo.
+
+
+[C8-M0615]
+===== USER =====
+
+Kto wie...obróciłem się i spojrzałem na zegar bo trochę straciłem poczucie czasu
+
+
+[C8-M0616]
+===== ASSISTANT =====
+
+Zegar wskazywał już grubo po południu — rozmowa i pakowanie zajęły znacznie więcej czasu, niż mogło się wydawać. Do wieczornego zadania nadal było kilka godzin, ale poranek zdecydowanie dawno minął.
+
+Theodore również zerknął na tarczę.
+
+— No proszę… — mruknął. — A miałem wrażenie, że dopiero co wróciliśmy ze śniadania.
+
+Podniósł się z łóżka.
+
+— Za chwilę pewnie zaczną schodzić się na obiad.
+
+
+[C8-M0617]
+===== USER =====
+
+Racja... też już tam pójdę...
+
+
+[C8-M0618]
+===== ASSISTANT =====
+
+Theodore skinął głową.
+
+— Ja jeszcze chwilę posiedzę. I tak prędzej czy później wszyscy wylądują w Wielkiej Sali przed zadaniem.
+
+Kiedy James wyszedł z dormitorium, w pokoju wspólnym było już znacznie więcej ludzi niż wcześniej. Część Ślizgonów rozmawiała właśnie o wieczornym finale Turnieju, inni kończyli własne pakowanie albo zwyczajnie zabijali czas.
+
+Na korytarzach panował już typowy popołudniowy ruch. Im bliżej Wielkiej Sali, tym więcej uczniów zmierzało w tę samą stronę, a rozmowy niemal wszędzie krążyły wokół jednego tematu — dzisiejszego trzeciego zadania.
+
+
+[C8-M0619]
+===== USER =====
+
+wszedłem do wielkiej sali i najpierw rozejrzałem się kto już jest
+
+
+[C8-M0620]
+===== ASSISTANT =====
+
+Wielka Sala była już mniej więcej w połowie zapełniona. Przy stole Gryffindoru siedzieli Harry, Ron, Ginny i Hermiona; Harry jadł raczej bez większego pośpiechu, a rozmowa przy ich fragmencie stołu wyglądała spokojniej niż rano.
+
+Hermiona zauważyła Jamesa niemal od razu. Na moment przerwała rozmowę z Ginny i spojrzała w jego stronę, ale zgodnie z ich wcześniejszym ustaleniem nie wołała go od razu ani nie ruszała się z miejsca.
+
+Przy stole Slytherinu byli już Draco i Pansy, kilka miejsc dalej siedziało paru innych uczniów z domu. Theodore’a jeszcze nie było — najwyraźniej rzeczywiście został w dormitorium tak, jak zapowiedział.
+
+W dalszej części sali dało się też wypatrzyć część gości z Beauxbatons i Durmstrangu. Atmosfera była wyraźnie bardziej nerwowa niż przy zwykłym obiedzie; temat wieczornego zadania przewijał się właściwie przy każdym stole.
+
+
+[C8-M0621]
+===== USER =====
+
+westchnąłem a potem skiwrowalem się do stołu Raivenclow'u i zająłem miejsce obok Luny -Luna!!!!
+
+
+[C8-M0622]
+===== ASSISTANT =====
+
+Luna odwróciła głowę tak spokojnie, jakby ktoś właśnie wypowiedział jej imię zwykłym tonem, a nie wydarł się obok niej przez pół stołu.
+
+— James — odpowiedziała pogodnie.
+
+Przez chwilę przyglądała mu się z lekkim zaciekawieniem, po czym przesunęła swój talerz odrobinę, robiąc mu więcej miejsca.
+
+— Dawno nie siadałeś przy Ravenclawie.
+
+Krótka pauza.
+
+— Stało się coś ciekawego, czy po prostu sobie o mnie przypomniałeś?
+
+
+[C8-M0623]
+===== USER =====
+
+.... Bardzo wiele ciekawych rzeczy..ale często o tobie pamiętam....
+
+
+[C8-M0624]
+===== ASSISTANT =====
+
+Luna uśmiechnęła się lekko.
+
+— To dobrze — powiedziała, jakby była całkowicie usatysfakcjonowana tą odpowiedzią.
+
+Przez moment popatrzyła na niego uważniej.
+
+— „Bardzo wiele ciekawych rzeczy” brzmi trochę jak początek bardzo długiej opowieści.
+
+Przechyliła głowę.
+
+— Masz zamiar opowiedzieć mi wszystkie, czy tylko te najlepsze?
+
+
+[C8-M0625]
+===== USER =====
+
+Hmmm prawie pobiłem Malfoya...ron mnie wkurza....Hermiona jest idealna.....
+
+
+[C8-M0626]
+===== ASSISTANT =====
+
+Luna zamrugała powoli.
+
+— To rzeczywiście całkiem dużo jak na jedno zdanie.
+
+Najpierw odniosła się do pierwszej części:
+
+— Dobrze, że go jednak nie pobiłeś. Malfoy potrafi być bardzo nieprzyjemny, ale po bójce zwykle wszyscy pamiętają bardziej bójkę niż to, od czego się zaczęła.
+
+Przy „Ron mnie wkurza” tylko lekko przechyliła głowę.
+
+— Ron często wygląda, jakby coś go gryzło, zanim jeszcze sam zdecyduje co.
+
+A na końcu uśmiechnęła się trochę szerzej.
+
+— A Hermiona jest idealna już od dawna, prawda? To akurat nie brzmi jak nowa ciekawa rzecz.
+
+
+[C8-M0627]
+===== USER =====
+
+...tak co do zasady masz ogólnie racje, lepiej opowiedz co u ciebie
+
+
+[C8-M0628]
+===== ASSISTANT =====
+
+Luna zastanowiła się chwilę, jakby naprawdę robiła w głowie listę.
+
+— U mnie jest znacznie spokojniej. Niedługo wracam do domu, dzisiaj wszyscy mówią tylko o trzecim zadaniu… i nadal mam twoją szatę.
+
+Powiedziała to całkowicie niewinnym tonem.
+
+— Miałam ci ją oddać „później”. Najwyraźniej nasze definicje słowa „później” są bardzo elastyczne.
+
+Po chwili dodała pogodnie:
+
+— Poza tym czytam, rozmawiam z ludźmi i próbuję nie dać sobie wmówić, że wszystkie ciekawe rzeczy muszą dziać się akurat tam, gdzie jest najwięcej hałasu.
+
+
+[C8-M0629]
+===== USER =====
+
+-O rzeczywiście....nie odebrałem jej później....heh możesz ją zachować jka umre będziesz mieć pamiątkę...a co u Naszej francuskiej przyjaciółki El....?
+
+
+[C8-M0630]
+===== ASSISTANT =====
+
+Luna popatrzyła na niego przez chwilę.
+
+— Wolałabym, żebyś nie umierał tylko po to, żebym dostała pamiątkę — powiedziała zupełnie spokojnie. — Ale szatę mogę zatrzymać. To prostsze.
+
+Przy urwanym imieniu przechyliła głowę.
+
+— Élodie? Élodie Moreau?
+
+Zastanowiła się moment.
+
+— Nie rozmawiałam z nią ostatnio, więc nie wiem, czy wydarzyło się u niej coś szczególnego. W sumie ty znałeś ją lepiej ode mnie. — Zerknęła na Jamesa. — Dawno z nią nie rozmawiałeś?
+
+
+[C8-M0631]
+===== USER =====
+
+Zgadza się... chyba na mnie leci...*powiedziałem z lekkim uśmiechem$
+
+
+[C8-M0632]
+===== ASSISTANT =====
+
+Luna uniosła lekko brwi.
+
+— „Chyba na mnie leci” to bardzo konkretne „chyba”.
+
+Przyjrzała mu się z zaciekawieniem, ale bez większego przejęcia.
+
+— Co zrobiła? Bo jeśli tylko była dla ciebie miła, to jeszcze nie musi nic znaczyć.
+
+Po chwili dodała z lekkim uśmiechem:
+
+— Chociaż jeśli naprawdę tak jest, to trochę pechowo wybrała moment. Ty jesteś już bardzo, bardzo zajęty Hermioną.
+
+
+[C8-M0633]
+===== USER =====
+
+Co zrobiła... przyszła sama na bal...to na pewno moja wina...
+
+
+[C8-M0634]
+===== ASSISTANT =====
+
+Luna spojrzała na niego z tym swoim spokojnym, trochę nieobecnym wyrazem twarzy.
+
+— To dość odważny wniosek.
+
+Przechyliła głowę.
+
+— Mogła przyjść sama dlatego, że chciała przyjść sama. Dziewczyny czasem robią rzeczy, które nie są związane z tobą, James.
+
+Po sekundzie dodała łagodnie:
+
+— Chociaż rozumiem, że ta teoria jest znacznie ciekawsza. „Élodie odrzuciła wszystkich, bo potajemnie czekała na Browna” brzmi prawie jak artykuł do „Żonglera”.
+
+
+[C8-M0635]
+===== USER =====
+
+Coooo? Dziewczyny czasem robią rzeczy, które nie są związane ze mną??? Coś ci nie wierzę powiedziałem z lekkim uśmiechem
+
+
+[C8-M0636]
+===== ASSISTANT =====
+
+Luna przyglądała mu się przez chwilę z idealnie poważną miną.
+
+— Wiem. To brzmi bardzo mało prawdopodobnie.
+
+Po chwili zerknęła gdzieś ponad jego ramieniem, jakby naprawdę rozważała teorię.
+
+— Ale podobno istnieją nawet takie dni, kiedy kilka dziewczyn przez całe godziny nie myśli o Jamesie Brownie.
+
+Wróciła wzrokiem do niego.
+
+— Nie wiem, czy to potwierdzone. Trzeba by przeprowadzić badania.
+
+
+[C8-M0637]
+===== USER =====
+
+-Luna ....mam wrażenie że ze mnie kpisz....
+
+
+[C8-M0638]
+===== ASSISTANT =====
+
+Luna zamrugała powoli.
+
+— Tylko odrobinę.
+
+Kącik jej ust lekko się uniósł.
+
+— Ale sam się trochę podłożyłeś.
+
+Przechyliła głowę.
+
+— I nie martw się. Nadal uważam, że jesteś interesujący. Po prostu nie jestem jeszcze gotowa uznać, że wszystkie decyzje dziewczyn w Hogwarcie wynikają z twojego istnienia.
+
+
+[C8-M0639]
+===== USER =====
+
+Czy ja wiem ostatecznie nie ma dowodów że nie
+
+
+[C8-M0640]
+===== ASSISTANT =====
+
+Luna przez moment patrzyła na niego bardzo poważnie.
+
+— To prawda.
+
+Skinęła lekko głową.
+
+— Nie ma też dowodów, że wszystkie schody w Hogwarcie nie przesuwają się specjalnie po to, żeby utrudniać życie wyłącznie tobie.
+
+Krótka pauza.
+
+— Ale brak dowodów przeciwko czemuś nie jest jeszcze dowodem, że to prawda, James.
+
+Kącik jej ust znowu drgnął.
+
+— Chociaż przyznam, że twoja wersja jest zabawniejsza.
+
+
+[C8-M0641]
+===== USER =====
+
+-nie zabawniejsza tylko Bardziej prawdopodobna...powiedziałem z uśmiechem jednak po chwili spoważniałem - Pamiętasz o czym rozmawialiśmy nad jeziorem...?
+
+
+[C8-M0642]
+===== ASSISTANT =====
+
+Luna od razu spoważniała.
+
+— Pamiętam.
+
+Odłożyła widelec i spojrzała na niego uważniej.
+
+— O Ronie. O tym, że boisz się nie jednego chłopaka, tylko tych wszystkich małych „fal” przez lata. Że ktoś będzie czekał na gorszy moment między tobą a Hermioną. I że najbardziej przeraża cię nie sama zazdrość, tylko możliwość, że kiedyś coś między wami pęknie.
+
+Przez chwilę milczała.
+
+— I pamiętam też, że nie chciałeś mówić Hermionie, co ma zrobić z Ronem, bo wiedziałeś, jak mogłoby to zabrzmieć.
+
+Przechyliła lekko głowę.
+
+— Coś się zmieniło?
+
+
+[C8-M0643]
+===== USER =====
+
+Powiedziałem Hermionie wprost że jestem zazdrosny....i nic się nie stało....
+
+
+[C8-M0644]
+===== ASSISTANT =====
+
+Luna przez chwilę tylko na niego patrzyła.
+
+— No widzisz.
+
+Wzruszyła lekko ramionami.
+
+— Powiedziałeś prawdę i świat się nie skończył. Hermiona też nie uciekła, Ron nie wybuchł, zamek stoi.
+
+Po chwili kącik jej ust drgnął.
+
+— Może następnym razem zamiast budować w głowie mur, morze i pięćset przyszłych katastrof, po prostu powiesz: „jestem zazdrosny”.
+
+Przechyliła głowę.
+
+— Chociaż pewnie wtedy byłbyś dużo mniej dramatyczny, więc nie wiem, czy ci to pasuje.
+
+
+[C8-M0645]
+===== USER =====
+
+pokręciłem głową - tak....nie dramat mi nie pasuje....westchnąłem -ale i tak cały czas się boje
+
+
+[C8-M0646]
+===== ASSISTANT =====
+
+Luna nie zażartowała tym razem.
+
+— Wiem.
+
+Przez chwilę bawiła się końcem widelca, patrząc gdzieś w bok.
+
+— Chyba to, że powiedziałeś jej o zazdrości i nic się nie stało, nie znaczy od razu, że przestaniesz się bać. Tylko że teraz przynajmniej wiesz, że możesz jej powiedzieć takie rzeczy i nie wszystko od razu się rozpada.
+
+Spojrzała na niego znowu.
+
+— Hermiona nadal jest z tobą. To jest fakt. Reszta to na razie rzeczy, których się boisz.
+
+
+[C8-M0647]
+===== USER =====
+
+Westchnąłem -Jutro koniec...roku.... jakby ci się nudziło w wakacje to możesz napisać....
+
+
+[C8-M0648]
+===== ASSISTANT =====
+
+Luna kiwnęła lekko głową.
+
+— Mogę napisać.
+
+Po chwili dodała:
+
+— Tylko nie oczekuj listu codziennie. Czasem zaczynam pisać i potem przypominam sobie o czymś innym.
+
+Uśmiechnęła się odrobinę.
+
+— Ale tak. Jak będzie mi się nudziło… albo jak po prostu będę chciała pogadać, to napiszę.
+
+Zerknęła na niego spokojnie.
+
+— Ty też możesz. Nie musisz czekać, aż najpierw znudzi się mnie.
+
+
+[C8-M0649]
+===== USER =====
+
+Dzięki....powiedziałem i spojrzałem na nią oficjalne pożegnanie jutro... więc....teraz Pozowlisz że się oddale?
+
+
+[C8-M0650]
+===== ASSISTANT =====
+
+Luna spojrzała na niego przez chwilę, po czym skinęła głową.
+
+— Pozwolę.
+
+Kącik jej ust uniósł się lekko.
+
+— Skoro oficjalne pożegnanie jest dopiero jutro, to dzisiaj możesz odejść bez przemowy, ukłonu i obietnicy, że będziesz pisał co trzy dni.
+
+Po sekundzie dodała spokojniej:
+
+— Do zobaczenia później, James. I… postaraj się przez te kilka godzin nie prawie-pobić nikogo nowego.
+
+
+[C8-M0651]
+===== USER =====
+
+-Nie obiecuję, ale dozobaczenia...powiedziałem z uśmiechem a potem ruszyłem do stołu Gryffindoru i bez słowa zająłem miejsce obok Hermiony
+
+
+[C8-M0652]
+===== ASSISTANT =====
+
+Hermiona od razu zauważyła, że usiadł obok, ale przez sekundę nic nie powiedziała. Dokończyła kęs, odłożyła widelec i dopiero wtedy zerknęła na niego z boku.
+
+— Szybko wróciłeś — mruknęła, choć bez pretensji.
+
+Ginny spojrzała znad swojego talerza.
+
+— A jednak Ravenclaw go nie zatrzymał.
+
+Ron rzucił krótkie spojrzenie w stronę Jamesa, ale tym razem ograniczył się do lekkiego skrzywienia ust i wrócił do jedzenia.
+
+Hermiona zaś przesunęła swoją szklankę trochę na bok, robiąc mu więcej miejsca przy stole.
+
+— Wszystko w porządku? — zapytała ciszej, już tylko do niego.
+
+
+[C8-M0653]
+===== USER =====
+
+w odpowiedzi tylko oparłem czoło o jej ramię i zapytałem cicho - Tak szczerze uważasz że gdyby brał udział w Turnieju to bym wygrał?
+
+
+[C8-M0654]
+===== ASSISTANT =====
+
+Hermiona na moment zamilkła, jakby naprawdę próbowała odpowiedzieć uczciwie, a nie tylko go pocieszyć.
+
+— Tak — powiedziała w końcu cicho. — Myślę, że miałbyś bardzo dużą szansę.
+
+Spojrzała na niego z boku.
+
+— Jesteś świetny pod presją, szybko zauważasz rzeczy, których inni nie widzą, i… niestety bardzo lubisz ryzykować w sposób, który czasem działa.
+
+Kącik jej ust drgnął.
+
+— Ale nie powiedziałabym „na pewno”. Turniej jest zbyt dziwny. Jedno zadanie może pasować idealnie do ciebie, a drugie być kompletnie nieprzewidywalne.
+
+Po chwili dodała ciszej:
+
+— Ale gdybyś brał udział, na pewno nie zakładałabym, że przegrasz. Wręcz przeciwnie.
+
+
+[C8-M0655]
+===== USER =====
+
+-Dziekuje....powiedziałem cicho ...jak ci minął czas po śniadaniu?
+
+
+[C8-M0656]
+===== ASSISTANT =====
+
+Hermiona zerknęła na niego i oparła lekko policzek o jego włosy.
+
+— Całkiem dobrze. Posiedzieliśmy trochę razem, potem przejrzeliśmy z Harrym kilka zaklęć przed zadaniem. Ron oczywiście miał własne „bardzo pomocne” komentarze, a Ginny głównie pilnowała, żeby Harry nie zaczął zachowywać się, jakby już szedł na egzekucję.
+
+Na chwilę spojrzała w stronę Harry’ego, a potem z powrotem na Jamesa.
+
+— I trochę po prostu gadaliśmy. Bez żadnych katastrof. — Zawahała się sekundę. — Widziałam też, jak wszedłeś do sali. Ale obiecałam, że dam ci trochę własnego czasu, więc nie poleciałam od razu za tobą.
+
+Kącik jej ust lekko się uniósł.
+
+— Chociaż… zaczynałam już się zastanawiać, kiedy sam się pojawisz.
+
+
+[C8-M0657]
+===== USER =====
+
+-A wiesz że cię kocham?...spytałem bardzo cicho
+
+
+[C8-M0658]
+===== ASSISTANT =====
+
+Hermiona na moment zamilkła, po czym odwróciła lekko głowę w jego stronę.
+
+— Wiem — odpowiedziała równie cicho.
+
+Przez sekundę wyglądała, jakby chciała coś jeszcze dodać, ale tylko uśmiechnęła się trochę bardziej.
+
+— I ja ciebie też, James. Bardzo.
+
+
+[C8-M0659]
+===== USER =====
+
+-Nie lubię Rona....powiedziałem po chwili
+
+
+[C8-M0660]
+===== ASSISTANT =====
+
+Hermiona wypuściła cicho powietrze nosem.
+
+— Wiem.
+
+Zerknęła w stronę Rona, który siedział kawałek dalej, po czym znów na Jamesa.
+
+— I chyba on też już się tego domyślił.
+
+Po chwili dodała ciszej:
+
+— Nie musisz go lubić. Tylko… spróbuj go dzisiaj nie zamordować, dobrze? Jutro kończy się rok i naprawdę nie mam ochoty tłumaczyć McGonagall, dlaczego jeden z moich najlepszych przyjaciół został zamieniony w mebel.
+
+
+[C8-M0661]
+===== USER =====
+
+Lubię Ginny... nadawała by się na Ślizgona
+
+
+[C8-M0662]
+===== ASSISTANT =====
+
+Hermiona uniosła brwi i spojrzała na Ginny, a potem z powrotem na Jamesa.
+
+— Wiesz co… trochę rozumiem, co masz na myśli.
+
+Kącik jej ust drgnął.
+
+— Jest uparta, odważna, potrafi kombinować i zdecydowanie nie daje sobą pomiatać.
+
+Ginny, najwyraźniej słysząc przynajmniej końcówkę, odwróciła głowę.
+
+— Ej. Czy ja właśnie dostałam komplement od Ślizgona?
+
+Hermiona parsknęła cicho.
+
+— Chyba tak.
+
+Ginny zmrużyła oczy na Jamesa z udawaną podejrzliwością.
+
+— Dziwne. Zapiszę datę.
+
+
+[C8-M0663]
+===== USER =====
+
+ja jednak nadal nie podniosłem czoła z jej ramienia - Harry sobie poradzi ale nie wiem czy wygra....
+
+
+[C8-M0664]
+===== ASSISTANT =====
+
+Hermiona przez chwilę patrzyła w stronę Harry’ego, już bez uśmiechu.
+
+— Też tak myślę — powiedziała cicho. — Poradzi sobie. Tylko… „wygra” to już co innego.
+
+Przesunęła lekko ramieniem, żeby wygodniej było mu się opierać.
+
+— On jest naprawdę dobry, zwłaszcza kiedy coś dzieje się nagle. Ale Krum i Cedrik też nie są przypadkowymi ludźmi. A w tym turnieju wystarczy jedna rzecz, której się nie przewidzi.
+
+Po chwili dodała jeszcze ciszej:
+
+— Chcę tylko, żeby wrócił cały. Reszta jest mniej ważna.
+
+
+[C8-M0665]
+===== USER =====
+
+w końcu podniosłem czoło z jej ramienia i spojrzałem w jej oczy - Będzie dobrze...glupi zawsze mają szczęście puściłem oczko
+
+
+[C8-M0666]
+===== ASSISTANT =====
+
+Hermiona zmrużyła oczy, ale uśmiech od razu ją zdradził.
+
+— Och, bardzo pocieszające — mruknęła. — Koniecznie powiedz mu to przed samym zadaniem.
+
+Harry, siedzący niedaleko, uniósł głowę.
+
+— Powiedz mi co?
+
+Ginny odpowiedziała szybciej niż Hermiona.
+
+— Brown właśnie stwierdził, że sobie poradzisz, bo głupi mają szczęście.
+
+Harry popatrzył na Jamesa przez chwilę, po czym prychnął.
+
+— Świetnie. To chyba jestem faworytem.
+
+Ron parsknął śmiechem, a Hermiona pokręciła głową.
+
+— I proszę. Jeszcze go zachęciłeś.
+
+
+[C8-M0667]
+===== USER =====
+
+No widzisz nawet się nie przejął...za to lubię człowieka z blizną...
+
+
+[C8-M0668]
+===== ASSISTANT =====
+
+Harry uniósł brew.
+
+— „Człowieka z blizną”? Brzmię teraz jak bohater jakiejś kiepskiej gazety.
+
+Ginny parsknęła śmiechem.
+
+— Lepsze to niż „Wybraniec od wszystkiego”.
+
+Hermiona pokręciła głową, ale tym razem wyraźnie rozbawiona.
+
+— Dajcie mu spokój, zanim zaczniecie mu wymyślać tytuły na cały przyszły rok.
+
+Ron zerknął na Harry’ego.
+
+— Ja bym został przy „głupi ma szczęście”. Krótkie i zapamiętywalne.
+
+Harry spojrzał na niego sucho.
+
+— Dziękuję, Ron. Wsparcie jak zawsze bezcenne.
+
+
+[C8-M0669]
+===== USER =====
+
+-To powoedzenie tyczy się też ciebie Ron... więc w sumie dobry pomysł
+
+
+[C8-M0670]
+===== ASSISTANT =====
+
+Ron spojrzał na Jamesa z miną pod tytułem „bardzo zabawne”.
+
+— Tak, tak. Śmiej się. Jak kiedyś uratuję ci życie przez przypadek, to przypomnę ci to powiedzenie.
+
+Ginny prychnęła.
+
+— To byłoby strasznie w twoim stylu.
+
+— Dzięki, Ginny — burknął Ron.
+
+Harry uśmiechnął się pod nosem, a Hermiona pokręciła głową.
+
+— Świetnie. Czyli mamy dziś dwóch ludzi, których przeżycie zależy od szczęścia. Bardzo uspokajające.
+
+
+[C8-M0671]
+===== USER =====
+
+*zmarszczyłem brwi* -nie jestem w stanie sobie wyobrazić sytuacji w której musiał byś uratować mi życie....
+
+
+[C8-M0672]
+===== ASSISTANT =====
+
+Ron prychnął i oparł się wygodniej o stół.
+
+— No tak, bo oczywiście James Brown nigdy nie wpakuje się w sytuację, z której sam nie wyjdzie.
+
+Ginny uniosła brew.
+
+— To akurat brzmi jak coś, co pewnego dnia bardzo źle się zestarzeje.
+
+Harry zerknął między nimi.
+
+— Szczerze? Przy tym, jak wy dwaj potraficie się wzajemnie wkurzać, bardziej widzę sytuację, w której najpierw próbujecie się pozabijać, a pięć minut później jeden wyciąga drugiego z jakiejś dziury.
+
+Hermiona spojrzała na Jamesa z lekkim rozbawieniem.
+
+— I właśnie dlatego nie powinieneś mówić takich rzeczy na głos. Hogwart ma paskudne poczucie humoru.
+
+
+[C8-M0673]
+===== USER =====
+
+Nie powiedziałem że nigdy nie będę potrzebować pomocy innych. Tylko że nie widzę sytuacji w której będę potrzebować twojej pomocy
+
+
+[C8-M0674]
+===== ASSISTANT =====
+
+Ron zmrużył oczy.
+
+— Aha. Czyli nie chodzi o to, że nie potrzebujesz pomocy. Po prostu konkretnie moja byłaby poniżej twojej godności?
+
+Ginny parsknęła pod nosem.
+
+— Ron, błagam, nie pomagaj mu samemu się obrażać.
+
+Harry pokręcił głową, wyraźnie rozbawiony.
+
+— Teraz już naprawdę chcę zobaczyć sytuację, w której akurat Ron będzie jedyną osobą mogącą ci pomóc.
+
+Hermiona rzuciła Jamesowi krótkie spojrzenie.
+
+— I nie prowokuj losu bardziej, niż już to zrobiłeś. Hogwart słucha.
+
+
+[C8-M0675]
+===== USER =====
+
+-Po prostu nie znam żadnej z twoich umiejętności która mogła by mnie kiedykolwiek uratować..
+
+
+[C8-M0676]
+===== ASSISTANT =====
+
+Ron otworzył usta, zamknął je na moment, po czym prychnął.
+
+— Dzięki. To bardzo budujące.
+
+Ginny spojrzała na niego z boku.
+
+— Ron, spokojnie. On po prostu mówi, że jeszcze nie odkrył twojego legendarnego talentu ratunkowego.
+
+Harry parsknął.
+
+— Może szachy?
+
+Ron od razu spojrzał na niego.
+
+— O, bardzo śmieszne.
+
+Hermiona westchnęła, ale nie wyglądała na naprawdę zirytowaną.
+
+— James, chyba właśnie dajesz mu nowy powód, żeby koniecznie kiedyś uratować ci życie tylko po to, żeby móc ci to wypominać do końca szkoły.
+
+Ron wskazał na nią palcem.
+
+— Dokładnie. Teraz już chcę.
+
+
+[C8-M0677]
+===== USER =====
+
+*pokiwałem głową* - ok mi to pasi... może dzięki temu znikną jego problemy
+
+
+[C8-M0678]
+===== ASSISTANT =====
+
+Ron zmarszczył brwi.
+
+— Jakie znowu „moje problemy”?
+
+Ginny od razu zerknęła na Jamesa, potem na Rona, jakby już przeczuwała, dokąd to idzie.
+
+Hermiona westchnęła cicho.
+
+— James…
+
+Ron jednak nie odpuścił.
+
+— Nie, serio. Skoro już o mnie rozmawiacie, to chętnie się dowiem, jakie mam problemy.
+
+
+[C8-M0679]
+===== USER =====
+
+-Znowu wracamy do sytuacji sprzed kilku miesięcy nie powiedziałeś nam z czym masz problem ale masz....
+
+
+[C8-M0680]
+===== ASSISTANT =====
+
+Ron przewrócił oczami.
+
+— Bo mnie wkurzałeś. I nadal mnie wkurzasz. — Wskazał na Jamesa widelcem. — Zawsze wszystko wiesz, wszystko potrafisz, wszystkich prowokujesz i jeszcze chodzisz z tą miną, jakbyś właśnie wygrał coś, o czym reszta nawet nie wiedziała.
+
+Harry zerknął na niego, ale się nie odezwał.
+
+Ron wzruszył ramionami, już wyraźnie poirytowany.
+
+— Nie wiem, czego ode mnie oczekujesz. Że nagle odkryję jakiś wielki, tajemniczy powód? Nie lubię cię. Ty nie lubisz mnie. To chyba naprawdę może być aż tak proste.
+
+Hermiona patrzyła na Rona uważnie, ale tym razem nie weszła mu od razu w słowo.
+
+
+[C8-M0681]
+===== USER =====
+
+Wiem wszystko i wiem że wciskasz mi kit
+
+
+[C8-M0682]
+===== ASSISTANT =====
+
+Ron’s face tightened.
+
+— Jasne. Bo ty oczywiście wiesz lepiej ode mnie, co ja mam w głowie.
+
+Ginny zerknęła na niego uważniej, a Harry przestał się uśmiechać.
+
+Ron odłożył widelec trochę mocniej, niż było trzeba.
+
+— Powiedziałem ci już: nie podoba mi się, że jesteś z nią. Wkurza mnie to. Wkurzasz mnie ty. I nie zamierzam ci robić jakiegoś… przesłuchania z własnej głowy tylko dlatego, że uznałeś, że „wciskam kit”.
+
+Hermiona od razu spojrzała na obu.
+
+— Dobra. Tylko bez robienia z tego kolejnej awantury przy stole.
+
+
+[C8-M0683]
+===== USER =====
+
+Nawet jeśli przyjmiemy że mówisz prawdę to okazuje się że jesteś CHAMEM bo nie masz w tej kwestii nic do gadania...a mimo to cały czas gadasz
+
+
+[C8-M0684]
+===== ASSISTANT =====
+
+Ron poczerwieniał lekko na twarzy.
+
+— No wiem! — odburknął. — Myślisz, że nie wiem, że to jej sprawa?
+
+Hermiona od razu weszła mu w słowo:
+
+— To dobrze, bo akurat tutaj James ma rację. Możesz go nie lubić. Możesz uważać, że popełniam błąd. Ale to nadal mój związek.
+
+Ron zacisnął szczękę.
+
+— Przecież jej nie każę z nim zerwać!
+
+Ginny spojrzała na niego krzywo.
+
+— Nie, tylko co jakiś czas przypominasz wszystkim, że bardzo by ci pasowało, gdyby jednak nie byli razem.
+
+— Ginny, zamknij się.
+
+— Sam chciałeś rozmawiać — odbiła natychmiast.
+
+Harry westchnął i spojrzał w blat.
+
+— To znowu idzie dokładnie tam, gdzie zwykle.
+
+
+[C8-M0685]
+===== USER =====
+
+nie krzycz i uspokój się....powiedziałem zimnym tomem
+
+
+[C8-M0686]
+===== ASSISTANT =====
+
+Ron zamilkł na sekundę i spojrzał na Jamesa spode łba.
+
+— Dobra. Nie krzyczę — rzucił już ciszej, choć nadal wyraźnie nabuzowany. — Ale nie mów do mnie, jakbym był jakimś pięciolatkiem.
+
+Hermiona zerknęła najpierw na Rona, potem na Jamesa.
+
+— To może wszyscy po prostu przestaniemy podnosić temperaturę tej rozmowy.
+
+Ginny oparła łokcie o stół.
+
+— Genialny plan. Szczególnie że za kilka godzin Harry wchodzi do śmiertelnie niebezpiecznego labiryntu, a wy dwaj uznaliście, że idealny moment na kolejną odsłonę „dlaczego się nie cierpimy”.
+
+
+[C8-M0687]
+===== USER =====
+
+Przestanę do ciebie tak mówić jak przestaniesz menaltnie nim być powiedziałem do niego ignorując resztę
+
+
+[C8-M0688]
+===== ASSISTANT =====
+
+Ron wbił w Jamesa wzrok.
+
+— O, świetnie. To teraz już po prostu będziesz mnie obrażał i udawał, że to jakaś wielka diagnoza?
+
+Harry od razu uniósł głowę.
+
+— Ron...
+
+— Nie. — Ron machnął ręką, nadal patrząc na Jamesa. — Skoro on może mówić, że jestem mentalnie pięciolatkiem, to ja mogę powiedzieć, że zachowuje się jak nadęty dupek.
+
+Hermiona odsunęła trochę talerz.
+
+— Dobra. Koniec.
+
+Ginny skrzywiła się lekko.
+
+— Wreszcie ktoś to powiedział na głos.
+
+
+[C8-M0689]
+===== USER =====
+
+Jesteś kopią Malfoya z tą różnicą że jego czasami szanuję....i on ma trochę więcej pieniędzy....
+
+
+[C8-M0690]
+===== ASSISTANT =====
+
+Ron prychnął krótko, ale tym razem bardziej z niedowierzaniem niż ze złością.
+
+— Świetnie. Teraz jestem jeszcze biedniejszą wersją Malfoya. Naprawdę poprawiłeś mi dzień.
+
+Ginny parsknęła śmiechem, zanim zdążyła się powstrzymać.
+
+— To akurat było trochę dobre.
+
+Ron odwrócił głowę w jej stronę.
+
+— Dzięki, Ginny. Bardzo wspierająco.
+
+Hermiona spojrzała na Jamesa ostrzej.
+
+— Możesz się z nim kłócić bez robienia z niego Draco dwa. — Potem zerknęła na Rona. — A ty też nie pomagaj.
+
+Harry westchnął.
+
+— Czy możemy chociaż spróbować dotrwać do zadania bez wojny domowej przy stole?
+
+
+[C8-M0691]
+===== USER =====
+
+-Nie moja wina że obaj są momentami tak samo durni
+
+
+[C8-M0692]
+===== ASSISTANT =====
+
+Ron zacisnął usta.
+
+— A ty momentami jesteś tak nieznośny, że aż trudno uwierzyć, że robisz to specjalnie.
+
+Ginny spojrzała między nimi z lekkim skrzywieniem.
+
+— Dobra, teraz już naprawdę brzmicie jak para idiotów.
+
+Harry rzucił jej krótkie spojrzenie.
+
+— I to mówi dużo.
+
+Hermiona tym razem nie próbowała łagodzić tonu. Spojrzała po prostu na Jamesa i Rona z wyraźnym zmęczeniem.
+
+— Możecie się nie znosić. Naprawdę. Tylko nie róbcie z każdego wspólnego posiłku konkursu na to, kto lepiej obrazi drugiego.
+
+
+[C8-M0693]
+===== USER =====
+
+-ja go nie obrażam stwierdzam fakty
+
+
+[C8-M0694]
+===== ASSISTANT =====
+
+Hermiona uniosła brew.
+
+— Nie. „Durny” to nie jest fakt, tylko twoja opinia.
+
+Ron od razu prychnął.
+
+— Dzięki.
+
+Hermiona nawet na niego nie spojrzała.
+
+— To nie była obrona ciebie, Ron.
+
+Ginny zakryła usta dłonią, tłumiąc śmiech, a Harry pokręcił głową.
+
+— Okej. To było nawet sprawiedliwe.
+
+
+[C8-M0695]
+===== USER =====
+
+spojrzałem na nią -Momentami durny na codzień jest po prostu niezbyt inteligentny
+
+
+[C8-M0696]
+===== ASSISTANT =====
+
+Hermiona popatrzyła na niego przez sekundę, jakby naprawdę zastanawiała się, czy właśnie to powiedział.
+
+— O, to już dużo lepiej — rzuciła sucho. — Teraz na pewno nie jest obrażaniem.
+
+Ron prychnął.
+
+— Dzięki, Granger.
+
+— Tobie też nic nie powiedziałam — odbiła natychmiast.
+
+Ginny zaczęła się śmiać pod nosem, a Harry zasłonił usta dłonią.
+
+Ron spojrzał z powrotem na Jamesa.
+
+— A ty jesteś „na co dzień” po prostu strasznie zadufany w sobie.
+
+Hermiona westchnęła.
+
+— I cudownie. Wróciliśmy do punktu wyjścia.
+
+
+[C8-M0697]
+===== USER =====
+
+też westchnąłem a potem nachyliłem się do ucha Hermiony i zacząłem szeptać -Przepraszam Hermiono ale kiedyś go conajmniej uderzę....
+
+
+[C8-M0698]
+===== ASSISTANT =====
+
+Hermiona zesztywniała odrobinę, ale nie odsunęła się. Ron, Harry i Ginny byli zajęci własną rozmową i przy tym ściszonym tonie nie mieli powodu usłyszeć słów Jamesa.
+
+Hermiona odwróciła głowę tylko tyle, żeby odpowiedzieć mu równie cicho.
+
+— Nie podoba mi się to „kiedyś”.
+
+Zmarszczyła brwi.
+
+— Jak cię pierwszy zaatakuje, to się broń. Ale jeśli któregoś dnia po prostu uznasz, że już wystarczająco cię wkurzył i go uderzysz… będę naprawdę wściekła.
+
+Po sekundzie dodała jeszcze ciszej:
+
+— I tak, wiem, że potrafi być nieznośny. To nadal nie jest pozwolenie na bicie go.
+
+
+[C8-M0699]
+===== USER =====
+
+westchnąłem i lekko ją przytuliłem -kiedyś to zrobię i dlatego przepraszam....
+
+
+[C8-M0700]
+===== ASSISTANT =====
+
+Hermiona odwzajemniła przytulenie, ale po chwili odsunęła głowę na tyle, żeby móc spojrzeć mu w twarz.
+
+— Nie, James. Tak to nie działa.
+
+Mówiła cicho, żeby reszta nie słyszała.
+
+— Nie możesz przeprosić mnie teraz za coś, co dopiero planujesz zrobić, i uznać, że sprawa załatwiona.
+
+Westchnęła i pokręciła lekko głową.
+
+— Jeśli kiedyś naprawdę go uderzysz, to wtedy będziemy się o to kłócić. I prawdopodobnie będę bardzo zła.
+
+Po sekundzie dodała z odrobiną irytacji:
+
+— Więc może jednak spróbuj zrobić mi tę ogromną przysługę i nie planować z wyprzedzeniem pobicia mojego przyjaciela.
+
+
+[C8-M0701]
+===== USER =====
+
+westchnąłem -Dobrze to zacznę cię przepraszać jak już go uderzę...
+
+
+[C8-M0702]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego z niedowierzaniem, a potem pokręciła głową.
+
+— To nie była poprawna odpowiedź.
+
+Szturchnęła go lekko łokciem.
+
+— Chodziło mi raczej o „postaram się go nie uderzyć”, a nie „przeproszę cię po fakcie”.
+
+Po chwili westchnęła.
+
+— Naprawdę jesteś niemożliwy, Brown. — Zerknęła na Rona. — I on też. Tylko na zupełnie inny sposób.
+
+
+[C8-M0703]
+===== USER =====
+
+-Naprawde staram się go nie uderzyć i przez....te sześć miesięcy mi się udawało ale z każdym dniem jest coraz trudniej...
+
+
+[C8-M0704]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego uważniej, tym razem bez żartu.
+
+— Wiem, że się starasz. Gdybyś się nie starał, Ron pewnie już dawno dostałby po nosie.
+
+Na moment zerknęła w stronę niego, potem wróciła wzrokiem do Jamesa.
+
+— Ale skoro naprawdę robi się coraz trudniej, to może po prostu… przestawaj z nim gadać, kiedy czujesz, że zaraz cię poniesie. Nie musisz wygrać każdej kłótni.
+
+Kącik jej ust drgnął.
+
+— Wiem. Straszna propozycja dla ciebie.
+
+
+[C8-M0705]
+===== USER =====
+
+-Nie o to chodzi....przytuliłem ją nieco mocniej -to ten jego problem...on nie zniknie....i ten problem mnie wkurza...
+
+
+[C8-M0706]
+===== ASSISTANT =====
+
+Hermiona odwzajemniła mocniejsze przytulenie i przez chwilę nic nie mówiła.
+
+— Wiem, o czym mówisz — mruknęła w końcu. — O tym, że on nadal ma jakiś problem z nami. Ze mną będącą z tobą.
+
+Zerknęła krótko w stronę Rona.
+
+— I tak, też widzę, że to nie zniknęło. Tylko nadal nie wiem dokładnie, co mu siedzi w głowie, skoro sam nie chce tego powiedzieć wprost.
+
+Po chwili spojrzała znowu na Jamesa.
+
+— Ale nawet jeśli to będzie trwało jeszcze długo… proszę, nie próbuj tego problemu wybić z niego pięścią.
+
+
+[C8-M0707]
+===== USER =====
+
+-W tym problem że ja wiem co mu siedzi w głowie.....powiedziałem i od razu mój gniew wzrósł
+
+
+[C8-M0708]
+===== ASSISTANT =====
+
+Hermiona od razu wyłapała zmianę w jego tonie. Przez chwilę patrzyła na niego bez słowa.
+
+— Podejrzewasz — poprawiła cicho. — Mocno. I może nawet masz rację. Ale dopóki Ron sam tego nie powie, to nadal nie wiesz na pewno.
+
+Przesunęła spojrzenie na Rona, a potem znowu na Jamesa.
+
+— I właśnie dlatego nie chcę, żebyś robił coś głupiego przez coś, czego on nawet nie potrafi powiedzieć na głos. Jeśli naprawdę chodzi o to, o czym myślisz… to tym bardziej jest jego problem. Nie twój. Nie mój.
+
+Po chwili dodała ciszej:
+
+— A ja nadal siedzę tutaj z tobą. Nie z nim.
+
+
+[C8-M0709]
+===== USER =====
+
+*przytuliłem ją mocniej i chwilę milczałem* - przypomnij mi jaki mamy plan na początek wakacji
+
+
+[C8-M0710]
+===== ASSISTANT =====
+
+Hermiona od razu zrozumiała, o który plan chodzi.
+
+— Jutro kończymy rok. Ja wracam do domu i najpierw spędzam trochę czasu z rodzicami. Jeszcze przed wyjazdem z Hogwartu mam dać ci mój adres i ustalimy konkretny dzień, kiedy przyjedziesz.
+
+Przytuliła go trochę mocniej.
+
+— Nie następnego ranka — przypomniała z lekkim uśmiechem. — Mam dostać przynajmniej jeden dzień na powrót, rozpakowanie się i uprzedzenie rodziców, że zamierza ich odwiedzić James Brown.
+
+Po chwili dodała:
+
+— Najpierw ich poznasz. A dopiero później będziemy negocjować twoje ukochane „mogę wpadać bez zapowiedzi”.
+
+
+[C8-M0711]
+===== USER =====
+
+*pokiwałem głową* -Dobrze...a twoi rodzice są otwarci na magiczne prezenty czy raczej stronią od tego świata?
+
+
+[C8-M0712]
+===== ASSISTANT =====
+
+Hermiona zastanowiła się chwilę.
+
+— Nie stronią od magii. To przecież ogromna część mojego życia i od kilku lat muszą się z nią jakoś oswajać. Ale nadal są mugolami, więc nie wszystko magiczne będzie dla nich od razu… normalne.
+
+Spojrzała na niego podejrzliwie.
+
+— Jeśli myślisz o prezencie, to raczej coś niewielkiego. Coś, co jest interesujące albo przydatne, ale nie zacznie latać po salonie, gryźć gości ani eksplodować.
+
+Kącik jej ust drgnął.
+
+— I zdecydowanie żadnych „rodzinnych artefaktów Slytherinów o nieznanym działaniu” na pierwsze spotkanie.
+
+
+[C8-M0713]
+===== USER =====
+
+Ok czyli po prostu odpalić tryb normalnego człowieka nie czarodzieja...nie ma problemu...
+
+
+[C8-M0714]
+===== ASSISTANT =====
+
+Hermiona parsknęła cicho.
+
+— Tak. Mniej więcej właśnie to.
+
+Spojrzała na niego z rozbawieniem.
+
+— Bez rodowych ceremonii, bez sprawdzania im różdżką uzębienia i bez pytania ojca, jakie ma poglądy na czystość krwi przy deserze.
+
+Po chwili dodała:
+
+— Po prostu bądź sobą… tylko tą wersją siebie, która potrafi przez godzinę nie przestraszyć mugoli.
+
+
+[C8-M0715]
+===== USER =====
+
+-Dobrze...w sumie to adres chyba możesz mi już podać...i druga sprawa jak oficjalne ma to być... władać smoking czy garnitur wystarczy?
+
+
+[C8-M0716]
+===== ASSISTANT =====
+
+Hermiona aż zamrugała.
+
+— Smoking?! James, ty idziesz poznać moich rodziców, a nie odbierać Order Merlina.
+
+Zaśmiała się cicho i pokręciła głową.
+
+— Garnitur też jest trochę przesadą. Ubierz się po prostu schludnie. Koszula, normalne spodnie… cokolwiek, w czym nie wyglądasz, jakbyś właśnie przyjechał negocjować małżeństwo dwóch rodów.
+
+Po chwili spoważniała odrobinę.
+
+— A adres mogę ci podać już teraz. Tylko zapisz go sobie gdzieś, bo nie zamierzam jutro słuchać: „Panno Granger, zgubiłem pergamin i przez przypadek odwiedziłem trzy inne rodziny”.
+
+
+[C8-M0717]
+===== USER =====
+
+-Hermiona proszę cię wszytko co związane z tobą pamiętam i będę pamiętać nawet jak dostanę demencji
+
+
+[C8-M0718]
+===== ASSISTANT =====
+
+Hermiona przewróciła oczami, ale uśmiechnęła się.
+
+— Dobrze, panie „wszystko pamiętam”. 8 Heathgate, Hampstead Garden Suburb, Londyn. 
+Harry Potter Wiki
++1
+
+Nachyliła się odrobinę bliżej i dodała ciszej:
+
+— I jeśli naprawdę dostaniesz demencji w wieku piętnastu lat, to chyba będziemy mieli większy problem niż to, że zapomniałeś mojego adresu.
+
+
+[C8-M0719]
+===== USER =====
+
+szybko pocałowałem jej usta - Dobrze....nie martwmy się tym na razie. Lepiej mi powiedz czy są jakieś tematy o których mam nie mówić przy twoich rodzicach...
+
+
+[C8-M0720]
+===== ASSISTANT =====
+
+Hermiona odwzajemniła krótki pocałunek, a na pytanie zrobiła minę, jakby właśnie zaczęła układać w głowie listę rzeczy, przed którymi należało zabezpieczyć jej rodziców.
+
+— Tak. Kilka. — Ściszyła głos. — Na pierwszym spotkaniu może nie zaczynaj od tego, ilu ludzi prawie pobiłeś, jak łatwo byłoby ci zrobić komuś krzywdę ani od historii o Malfoyu i Ronie.
+
+Policzki lekko jej poczerwieniały.
+
+— I absolutnie nie opowiadaj im przy obiedzie, że spędziliśmy razem noc w Pokoju Życzeń. Nawet jeśli nic takiego się nie wydarzyło, oni usłyszą tylko „moja piętnastoletnia córka spędziła noc sama ze swoim chłopakiem” i dalsza część zdania przestanie istnieć.
+
+Spojrzała na niego bardzo znacząco.
+
+— I jeszcze jedno: żadnych rozmów o ślubie, małżeństwie, wspólnej przyszłości na pierwsze pięć minut. Proszę. Daj mojemu ojcu przynajmniej skończyć herbatę, zanim dowie się, że jego córka spotyka się z człowiekiem, który planuje życie kilka lat naprzód.
+
+
+[C8-M0721]
+===== USER =====
+
+Ok w sumie logiczne żeby nie mówić im że tylko przy tobie umiem zasnąć...ale to drugie. Chyba jak im powiem to uznają że myślę o Tobie poważnie?
+
+
+[C8-M0722]
+===== ASSISTANT =====
+
+Hermiona zrobiła minę, jakby częściowo przyznawała mu rację.
+
+— No… tak. To pokazałoby, że traktujesz mnie poważnie. Tylko istnieje pewna różnica między „bardzo mi zależy na państwa córce” a „dzień dobry, rozważam poślubienie jej za kilka lat”.
+
+Lekko trąciła go ramieniem.
+
+— Pierwsze mogłoby im się nawet spodobać. Drugie, wypowiedziane przy pierwszym spotkaniu, mogłoby sprawić, że tata zacznie się zastanawiać, czy przypadkiem nie zwariowałam.
+
+Po chwili dodała ciszej:
+
+— Zresztą ja chcę, żeby wiedzieli, że to nie jest dla nas jakiś dwutygodniowy szkolny romans. Tylko nie musisz im od razu przedstawiać całego planu naszego życia. Możesz powiedzieć prawdę: że mnie kochasz, że jestem dla ciebie ważna i że traktujesz nas poważnie.
+
+Zmrużyła lekko oczy.
+
+— A temat ślubu… zostawmy może przynajmniej do drugiej herbaty.
+
+
+[C8-M0723]
+===== USER =====
+
+Dobrze....rozejrzałem się wokół i dopiero teraz nałożyłem sobie trochę jedzenia - ty już jadłaś?
+
+
+[C8-M0724]
+===== ASSISTANT =====
+
+Hermiona skinęła głową.
+
+— Mhm. Zaczęłam jeść jeszcze zanim przyszedłeś. — Zerknęła na swój talerz. — Właściwie jestem już prawie najedzona.
+
+Spojrzała na jego dopiero co nałożoną porcję i uniosła brew.
+
+— Ty za to przez pół posiłku byłeś zbyt zajęty Luną, mną i kłóceniem się z Ronem, żeby w ogóle przypomnieć sobie o jedzeniu.
+
+Kącik jej ust drgnął.
+
+— Więc teraz jedz, Brown. Ja jeszcze chwilę z tobą posiedzę.
+
+
+[C8-M0725]
+===== USER =====
+
+-Nie musisz....powiedziałem z lekkim uśmiechem i skupiłem się na jedzeniu
+
+
+[C8-M0726]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego z boku.
+
+— Wiem, że nie muszę — odpowiedziała po prostu. — Chcę.
+
+Została więc na miejscu, sięgając już tylko po napój, podczas gdy Harry i Ginny wrócili do rozmowy o wieczornym zadaniu. Ron również zajął się swoim talerzem i przynajmniej na razie przy stole zrobiło się spokojniej.
+
+Po chwili Hermiona rzuciła jeszcze cicho:
+
+— Poza tym dopiero co do mnie wróciłeś. Nie będę uciekać tylko dlatego, że skończyłam jeść.
+
+
+[C8-M0727]
+===== USER =====
+
+-czy to znaczy że już zatęskniłaś i po jedzeniu mogę cię porwać?
+
+
+[C8-M0728]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego z ukosa, a uśmiech pojawił się prawie od razu.
+
+— Może trochę — przyznała. — I zanim zaczniesz wyglądać zbyt zadowolony: trochę.
+
+Zerknęła na Harry’ego, Ginny i Rona, a potem znowu na Jamesa.
+
+— Spędziłam z nimi już sporą część dnia, więc po jedzeniu możesz mnie porwać na jakiś czas. Tylko nie na zasadzie „znikamy i widzimy resztę dopiero jutro”.
+
+Po chwili dodała ciszej:
+
+— Wieczorem i tak mieliśmy być razem na zadaniu. Ale przedtem… możemy gdzieś pójść tylko we dwoje.
+
+
+[C8-M0729]
+===== USER =====
+
+szybko dokończyłem jedzenie - Dawno nie byliśmy nad jeziorem....albo możemy iść klasycznie do pokoju życzeń....
+
+
+[C8-M0730]
+===== ASSISTANT =====
+
+Hermiona spojrzała w stronę wysokich okien Wielkiej Sali, potem z powrotem na Jamesa.
+
+— Nad jezioro — zdecydowała po chwili. — Pokój Życzeń mamy trochę za często. A nad jeziorem rzeczywiście dawno nie byliśmy razem tak po prostu.
+
+Uśmiechnęła się lekko i zaczęła zbierać swoje rzeczy ze stołu.
+
+— Tylko bez nurkowania, podwodnych kopuł i nagłego wymyślania treningu. Chcę usiąść na trawie i przez chwilę zachowywać się jak normalna piętnastolatka.
+
+Ginny, która usłyszała końcówkę, prychnęła.
+
+— Z Brownem? Powodzenia.
+
+Hermiona rzuciła jej krótkie spojrzenie.
+
+— Powiedziałam „próbować”.
+
+
+[C8-M0731]
+===== USER =====
+
+ja pokręciłem głową po słowach Ginny i szybko wstałem od stołu a gdy Hermiona też wstała Chwyciłem ją za rękę
+
+
+[C8-M0732]
+===== ASSISTANT =====
+
+Hermiona bez wahania splotła z nim palce.
+
+— No dobrze. Chodźmy, zanim zmienisz zdanie i jednak wybierzesz Pokój Życzeń.
+
+Ginny zerknęła na nich znad stołu.
+
+— Miłej próby bycia normalnymi ludźmi.
+
+Harry uniósł tylko rękę w krótkim geście pożegnania, a Ron ograniczył się do spojrzenia i mruknięcia czegoś pod nosem, najwyraźniej uznając, że dalsza dyskusja nie jest mu potrzebna.
+
+Hermiona rzuciła Ginny krótkie:
+
+— Bardzo śmieszne.
+
+Po chwili już prowadziła razem z Jamesem w stronę wyjścia z Wielkiej Sali. Gdy znaleźli się na korytarzu, spojrzała na niego z lekkim uśmiechem.
+
+— To co, znajdziemy jakieś spokojne miejsce przy wodzie? Tylko naprawdę spokojne. Bez wchodzenia do jeziora tym razem.
+
+
+[C8-M0733]
+===== USER =====
+
+-Jak sobie życzysz...ukochana
+
+
+[C8-M0734]
+===== ASSISTANT =====
+
+Hermiona uśmiechnęła się pod nosem.
+
+— Brzmi podejrzanie posłusznie jak na ciebie.
+
+Ścisnęła lekko jego dłoń i ruszyła z nim przez korytarze w stronę wyjścia z zamku. Po drodze mijało ich coraz mniej uczniów; większość nadal siedziała w Wielkiej Sali albo kręciła się po zamku przed wieczornym zadaniem.
+
+Kiedy wyszli na błonia, Hermiona odetchnęła głębiej i rozejrzała się w stronę jeziora.
+
+— Chodźmy trochę dalej od głównej ścieżki. Nie chcę za pięć minut mieć obok siebie połowy czwartego roku zastanawiającej się, co robimy.
+
+Spojrzała na Jamesa z lekkim uśmiechem.
+
+— I tak, nadal obowiązuje „bez nurkowania”. Znam cię.
+
+
+[C8-M0735]
+===== USER =====
+
+pokiwałem głową i posłusznie dałem się poprowadzić
+
+
+[C8-M0736]
+===== ASSISTANT =====
+
+Hermiona poprowadziła go kawałek dalej od głównej ścieżki, aż znalazła spokojny fragment trawy niedaleko brzegu, częściowo osłonięty od reszty błoni przez niewielkie wzniesienie.
+
+— Tutaj — zdecydowała.
+
+Usiadła na trawie i poprawiła spódnicę, po czym spojrzała w stronę jeziora.
+
+— O wiele lepiej. Bez Rona, bez Malfoya, bez Turnieju przez pięć minut.
+
+Po chwili zerknęła na Jamesa z lekkim uśmiechem.
+
+— I bez wymyślania, jak pokonać jezioro. Przynajmniej przez pierwsze dziesięć minut.
+
+
+[C8-M0737]
+===== USER =====
+
+usiadłem obok niej a raczej położyłem się tak że moja głowa wylądowała na jej kolanach
+
+
+[C8-M0738]
+===== ASSISTANT =====
+
+Hermiona spojrzała w dół na Jamesa i pokręciła głową z lekkim uśmiechem.
+
+— Oczywiście. Wiedziałam, że „usiądziemy spokojnie nad jeziorem” prędzej czy później zamieni się w to.
+
+Nie protestowała. Przeciwnie, poprawiła się trochę wygodniej na trawie i wsunęła palce w jego włosy, zaczynając powoli przeczesywać je opuszkami.
+
+— Ale to akurat może zostać — mruknęła. — Jest spokojnie.
+
+Na chwilę spojrzała ponad nim na taflę jeziora, gdzie od czasu do czasu poruszała się woda przy brzegu. 
+Harry Potter
++1
+
+— I chyba rzeczywiście tego potrzebowałam. Chociaż paru minut bez całego Hogwartu.
+
+
+[C8-M0739]
+===== USER =====
+
+ja czując jej dotyk momentalnie się rozluźniłem i zacząłem mruczeć
+
+
+[C8-M0740]
+===== ASSISTANT =====
+
+Hermiona spojrzała w dół i od razu się uśmiechnęła.
+
+— O, wróciło mruczenie.
+
+Nie przestała. Przeciwnie, przesunęła palce trochę głębiej we włosy Jamesa i zaczęła powoli masować skórę głowy opuszkami.
+
+— Czyli najwyraźniej znalazłam właściwy przycisk.
+
+Po chwili oparła się wygodniej na jednej dłoni, nadal bawiąc się jego włosami drugą.
+
+— Wiesz, że kiedy tak robisz, strasznie trudno traktować cię jak tego groźnego Ślizgona, którym próbujesz być przy śniadaniu?
+
+
+[C8-M0741]
+===== USER =====
+
+mruknąłem nieco groźniej
+
+
+[C8-M0742]
+===== ASSISTANT =====
+
+Hermiona spojrzała w dół na Jamesa i przez sekundę próbowała zachować powagę.
+
+— Och. Straszne.
+
+Palce nadal spokojnie przesuwały się przez jego włosy.
+
+— Bardzo groźny Ślizgon. Leży mi na kolanach i warczy, bo powiedziałam, że mruczy.
+
+Kącik jej ust uniósł się wyżej.
+
+— Jestem przerażona. Naprawdę.
+
+
+[C8-M0743]
+===== USER =====
+
+w odpowiedzi poruszyłem głową i uciekałem jej ręce i przebrałem obrażoną minę
+
+
+[C8-M0744]
+===== ASSISTANT =====
+
+Hermiona natychmiast zatrzymała dłoń w powietrzu.
+
+Przez sekundę patrzyła na obrażoną minę Jamesa, a potem zacisnęła usta, bardzo wyraźnie walcząc ze śmiechem.
+
+— Och, przepraszam. Najwyraźniej uraziłam dumę groźnego dziedzica Slytherina.
+
+Cofnęła rękę na własne kolano i przybrała przesadnie poważną minę.
+
+— W takim razie nie będę już dotykać jego włosów.
+
+Wytrzymała może dwie sekundy.
+
+— Nawet jeśli jeszcze chwilę temu mruczał jak kot.
+
+
+[C8-M0745]
+===== USER =====
+
+po jej groźbie jednak spokorniałem i zacząłem ocierać głową o jej rękę na kolanie
+
+
+[C8-M0746]
+===== ASSISTANT =====
+
+Hermiona wytrzymała może sekundę, zanim parsknęła śmiechem.
+
+— O nie. To jest szantaż.
+
+Spojrzała na jego głowę ocierającą się o jej dłoń i specjalnie przez moment jej nie poruszała.
+
+— Najpierw uciekasz przed ręką, robisz obrażoną minę, a kiedy grożę, że przestanę… nagle ręka znowu jest potrzebna?
+
+W końcu ustąpiła. Palce ponownie wsunęły się w jego włosy i wróciły do powolnego masażu.
+
+— Strasznie konsekwentny z ciebie groźny Ślizgon.
+
+
+[C8-M0747]
+===== USER =====
+
+ja znowu zacząłem mruczeć i łasić się do jej kolan
+
+
+[C8-M0748]
+===== ASSISTANT =====
+
+Hermiona spojrzała w dół, a na jej twarzy pojawiło się rozbawienie.
+
+— No dobrze, już dobrze… — mruknęła.
+
+Palce ponownie zaczęły powoli przeczesywać jego włosy, tym razem bez dalszego drażnienia.
+
+— Chyba naprawdę bardzo to lubisz.
+
+Po chwili dodała z cichym uśmiechem:
+
+— I nie, nie powiem nikomu, że groźnego Jamesa Browna można całkowicie rozbroić drapaniem po głowie. To byłaby zbyt cenna informacja.
+
+
+[C8-M0749]
+===== USER =====
+
+teraz?
+
+
+[C8-M0750]
+===== USER =====
+
+też lekko się uśmiechnąłem a po dłużej chwili takiego masaż spytałem sennym głosem -jest bardzo miło ale to jednnostronne....nie czujesz się z tym źle?
+
+
+[C8-M0751]
+===== ASSISTANT =====
+
+Hermiona spojrzała w dół, wyraźnie rozbawiona tym sennym tonem.
+
+— Nie. Wcale.
+
+Palce nadal przesuwały się spokojnie przez jego włosy.
+
+— Lubię to robić. I chyba trochę podoba mi się, że potrafię cię tak szybko uspokoić.
+
+Po chwili dodała ciszej:
+
+— A poza tym nie wszystko musi być od razu idealnie po równo. Innym razem ty będziesz męczył moje włosy albo robił mi masaż i wtedy się wyrówna.
+
+Kącik jej ust drgnął.
+
+— Więc przestań liczyć punkty i po prostu leż.
+
+
+[C8-M0752]
+===== USER =====
+
+pokiwałem głową i po kolejnej chwili mój oddech bardzo spowolnił a całe ciało jeszcze bardziej się rozluźniło zasnąłem
+
+
+[C8-M0753]
+===== ASSISTANT =====
+
+Hermiona zorientowała się po chwili. Jej palce zwolniły, kiedy oddech Jamesa stał się równy i głęboki.
+
+Spojrzała na niego z wyraźnym zaskoczeniem.
+
+— James…? — szepnęła bardzo cicho.
+
+Brak odpowiedzi wystarczył. Przez kilka sekund tylko patrzyła, a potem na jej twarzy pojawił się niewielki, szczery uśmiech.
+
+— Naprawdę zasnąłeś… — wymamrotała bardziej do siebie.
+
+Nie próbowała go budzić. Poprawiła jedynie pozycję tak ostrożnie, jak mogła, żeby jego głowa nadal wygodnie spoczywała na jej kolanach, po czym wróciła do bardzo delikatnego przeczesywania jego włosów.
+
+Po chwili zerknęła w stronę zamku, jakby upewniała się, że nigdzie nie muszą jeszcze pędzić.
+
+— No dobrze, Brown — szepnęła. — Śpij. Tym razem ja popilnuję czasu.
+
+
+[C8-M0754]
+===== USER =====
+
+nadal spokojnie spałem
+
+
+[C8-M0755]
+===== ASSISTANT =====
+
+Czas płynął, a Hermiona przez dłuższą chwilę pozwalała mu spać, od czasu do czasu tylko przeczesując palcami jego włosy. Dopiero gdy słońce przesunęło się wyraźnie niżej, a do wieczornego zadania zostało już znacznie mniej czasu, spojrzała na zegarek.
+
+— James… — odezwała się cicho.
+
+Najpierw pogładziła go po włosach, ale kiedy to nie wystarczyło, pochyliła się trochę i delikatnie potrząsnęła jego ramieniem.
+
+— James. Pobudka.
+
+Odczekała moment, po czym dodała z lekkim uśmiechem:
+
+— Spałeś naprawdę długo. Nie chciałam cię budzić, ale jeśli zostawię cię jeszcze trochę, obudzisz się dopiero wtedy, kiedy Harry będzie już w połowie labiryntu.
+
+
+[C8-M0756]
+===== USER =====
+
+leniwie otworzyłem oczy i od razu skierowałem wzrok na jej twarz lekko się usmiechnąłem - Cóż za śliczna dziewczyna...
+
+
+[C8-M0757]
+===== ASSISTANT =====
+
+Hermiona spojrzała w dół i uśmiechnęła się od razu.
+
+— Dzień dobry również tobie — mruknęła. — Miło wiedzieć, że po przebudzeniu wzrok nadal działa ci bez zarzutu.
+
+Przesunęła palcami po jego włosach jeszcze raz, tym razem już bardziej jak przy powitaniu niż usypianiu.
+
+— Spałeś długo. Naprawdę długo. Już zaczynałam się zastanawiać, czy będę musiała cię zanieść na trybuny.
+
+Kącik jej ust drgnął.
+
+— I zanim zapytasz: tak, pozwoliłam ci spać tak długo specjalnie. Wyglądałeś, jakbyś tego potrzebował.
+
+
+===== ARCHIWUM CZATU 9 — pełna treść z identyfikatorami C9 =====
+
