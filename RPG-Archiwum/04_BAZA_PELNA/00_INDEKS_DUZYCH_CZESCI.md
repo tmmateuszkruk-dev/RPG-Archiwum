@@ -1,0 +1,17 @@
+# Indeks dużych części — C1–C11
+
+Każdy plik to jeden Part, w dotychczasowym formacie ID. Konkretne sceny: 01_ARCHIWUM_SCEN_INDEKS.md. Połączenie poniższych plików w tej kolejności odtwarza archiwum scalone bajt w bajt.
+
+| Part | Plik | Początek | Koniec | Wiadomości |
+|---|---|---|---|---|
+| 1 | [01_ARCHIWUM_CZAT_1.txt](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_1.txt) | C1-M0001 | C1-M2389 | 2389 |
+| 2 | [01_ARCHIWUM_CZAT_2.txt](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_2.txt) | C2-M0001 | C2-M1800 | 1800 |
+| 3 | [01_ARCHIWUM_CZAT_3.txt](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_3.txt) | C3-M0001 | C3-M1412 | 1412 |
+| 4 | [01_ARCHIWUM_CZAT_4.txt](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_4.txt) | C4-M0001 | C4-M1333 | 1333 |
+| 5 | [01_ARCHIWUM_CZAT_5.txt](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_5.txt) | C5-M0001 | C5-M0766 | 766 |
+| 6 | [01_ARCHIWUM_CZAT_6.txt](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_6.txt) | C6-M0001 | C6-M0436 | 436 |
+| 7 | [01_ARCHIWUM_CZAT_7.txt](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_7.txt) | C7-M0001 | C7-M0710 | 710 |
+| 8 | [01_ARCHIWUM_CZAT_8.txt](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_8.txt) | C8-M0001 | C8-M0757 | 757 |
+| 9 | [01_ARCHIWUM_CZAT_9.txt](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_9.txt) | C9-M0001 | C9-M0418 | 418 |
+| 10 | [01_ARCHIWUM_CZAT_10.txt](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_10.txt) | C10-M0001 | C10-M0506 | 506 |
+| 11 | [01_ARCHIWUM_CZAT_11.txt](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_11.txt) | C11-M0001 | C11-M0409 | 409 |
