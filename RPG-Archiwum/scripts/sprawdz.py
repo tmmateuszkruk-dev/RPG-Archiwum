@@ -18,12 +18,12 @@ for typ in ['small','large']:
  assert b''.join(buffers)==merged,typ
 ids=[x.decode() for x in re.findall(rb'^\[(C\d+-M\d{4})\]\r?$',merged,re.M)]
 assert len(ids)==len(set(ids))==m['messages']
-for part in range(1,12):
+for part in range(1,13):
  sub=[x for x in ids if x.startswith(f'C{part}-')]
  assert sub==[f'C{part}-M{i:04d}' for i in range(1,len(sub)+1)]
 assert ids[-1]==m['current_id']
 for p in R.rglob('*.md'):
- if '06_HISTORIA_BAZY' in p.parts:continue
+ if '05_HISTORIA_BAZY' in p.parts:continue
  for target in re.findall(r'\[[^\]]*\]\(([^)]+)\)',p.read_text()):
   if '://' in target or target.startswith('#'):continue
   assert (p.parent/target.split('#')[0]).exists(),f'{p}: {target}'

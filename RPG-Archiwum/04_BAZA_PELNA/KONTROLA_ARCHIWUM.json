@@ -1,9 +1,10 @@
 {
-  "version": "C1-C11",
-  "current_id": "C11-M0409",
-  "current_date": "1995-07-09",
-  "current_time": "po obiedzie i deserze; dokładna godzina nieustalona",
-  "next_turn": "ASSISTANT — NPC Hermiona",
+  "version": "C1-C12",
+  "current_id": "C12-M1109",
+  "current_date": null,
+  "current_date_description": "początek września 1995; D+2 od pierwszych rozegranych lekcji, dokładna data nieustalona",
+  "current_time": "po lekcjach",
+  "next_turn": "USER — James",
   "message_counts": {
     "C1": 2389,
     "C2": 1800,
@@ -15,18 +16,19 @@
     "C8": 757,
     "C9": 418,
     "C10": 506,
-    "C11": 409
+    "C11": 409,
+    "C12": 1109
   },
-  "total_messages": 10936,
-  "source_c11_turns": 205,
-  "source_c11_messages": 409,
-  "smaller_parts": 60,
-  "large_parts": 11,
-  "lorebook_entries": 265,
+  "total_messages": 12045,
+  "source_c12_turns": 555,
+  "source_c12_messages": 1109,
+  "smaller_parts": 66,
+  "large_parts": 12,
+  "lorebook_entries": 276,
   "world_entries": 92,
-  "merged_sha256": "7166fbec3adcf02b422668a97d3aa555ab4240410b634fbf4daf0182559ac7ab",
-  "previous_merged_sha256": "5efe835b605a0e21546a148c17afdeded7cbf8604150e3dd771be1909dc07922",
-  "source_c11_sha256": "df9abb751b884a4c7a4738c97445466bd1d757352590f2edcdfc2d1314352a57",
+  "merged_sha256": "6325fa562dea5802dd2ea2cbfaf3d045d18b041d927db33ed34658d6f292fa79",
+  "previous_merged_sha256": "7166fbec3adcf02b422668a97d3aa555ab4240410b634fbf4daf0182559ac7ab",
+  "source_c12_sha256": "58cf4f956baa3caf7429e8e81dde87ae5981fd487540bf7b328b8ee4b1e206e8",
   "chunks": [
     {
       "file": "mniejsze_czesci/ARCHIWUM_001_C1-M0001_C1-M0200.txt",
@@ -507,6 +509,54 @@
       "messages": 9,
       "bytes": 4389,
       "sha256": "7a7f1f66fc9215c3885da63d0760c9d44ea2973f12daec8b924d88bc7883763c"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_061_C12-M0001_C12-M0200.txt",
+      "first": "C12-M0001",
+      "last": "C12-M0200",
+      "messages": 200,
+      "bytes": 73126,
+      "sha256": "a79d8c41438e25682fdbfd2141a797fd0a93db0d8beb3acb66b273f6dcbae4dd"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_062_C12-M0201_C12-M0400.txt",
+      "first": "C12-M0201",
+      "last": "C12-M0400",
+      "messages": 200,
+      "bytes": 105274,
+      "sha256": "2c7b77592c4e58ece61ba8ba425024dd691edec8316e6a7804ffa8b794e4398b"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_063_C12-M0401_C12-M0600.txt",
+      "first": "C12-M0401",
+      "last": "C12-M0600",
+      "messages": 200,
+      "bytes": 87415,
+      "sha256": "bf241ecd5bf87e7cb241786d1dc03c8aac81a2e3fabb04db0bf51d38a0dddac0"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_064_C12-M0601_C12-M0800.txt",
+      "first": "C12-M0601",
+      "last": "C12-M0800",
+      "messages": 200,
+      "bytes": 104087,
+      "sha256": "da2a921f59aa466b97518dd22d76bc4570b8acd4c46fd8fff7fd9368e8f92b79"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_065_C12-M0801_C12-M1000.txt",
+      "first": "C12-M0801",
+      "last": "C12-M1000",
+      "messages": 200,
+      "bytes": 118626,
+      "sha256": "002d873fdace690f59450044c9cec3210377879d8a141281805ea66f7e085804"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_066_C12-M1001_C12-M1109.txt",
+      "first": "C12-M1001",
+      "last": "C12-M1109",
+      "messages": 109,
+      "bytes": 58245,
+      "sha256": "19c2e1c12decb400a74fc7bceb1b54265e6ec81842ef8e4559b79b4bb0144342"
     }
   ],
   "large_files": [
@@ -608,19 +658,23 @@
       "messages": 409,
       "bytes": 188925,
       "sha256": "a7e840a40aea1c7e201827d1a3a087f3ef6e56ef925f1d8ffb0f189c589eac17"
+    },
+    {
+      "file": "duze_czesci/01_ARCHIWUM_CZAT_12.txt",
+      "first": "C12-M0001",
+      "last": "C12-M1109",
+      "messages": 1109,
+      "bytes": 546773,
+      "sha256": "f152458c19890509ffc0d65a8951a56b9b0d4598be5d3c6618cc53e4fadb01b0",
+      "part": 12
     }
   ],
   "checks": {
-    "c1_c10_byte_prefix": true,
-    "previous_57_chunks_unchanged": true,
-    "small_and_large_concatenations_exact": true,
+    "previous_60_chunks_unchanged": true,
+    "previous_11_large_files_unchanged": true,
+    "concatenations_exact": true,
     "unique_contiguous_ids": true,
-    "c11_scene_coverage_complete": true,
-    "raw_c11_unchanged": true,
-    "normalized_messages_equal_parsed_source": true,
-    "lorebook_markdown_json_equal": true,
-    "github_local_links_valid": true,
-    "all_320_scene_rows_have_large_and_small_links": true
+    "raw_c12_unchanged": true
   },
-  "scope": "Pełna analiza C11 i porównanie z bazą C10; kontrola bajtowa C1–C10. Nie pełny ponowny odczyt całej wcześniejszej kampanii."
+  "scope": "Aktualizacja po C12; poprzednie archiwa zachowane i sprawdzone bajtowo. Nie pełna ponowna interpretacja C1–C11."
 }

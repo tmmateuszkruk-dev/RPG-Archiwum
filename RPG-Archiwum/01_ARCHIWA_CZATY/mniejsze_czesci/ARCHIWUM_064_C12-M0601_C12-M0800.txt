@@ -1,0 +1,2911 @@
+[C12-M0601]
+===== USER =====
+
+-tak, ale nie dopasowuj się do mnie.... czytaj swoim tempem
+
+
+[C12-M0602]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego z lekkim uśmiechem.
+
+— Dobrze.
+
+Przewróciła stronę i wróciła do czytania już bez czekania przy każdym końcu akapitu. Jej kciuk nadal spoczywał pod jego dłonią, ale całą uwagę znów skupiła na książce.
+
+Po paru minutach przewróciła kolejną stronę w swoim zwykłym, szybkim tempie.
+
+— Skoro nadążasz, tym lepiej — szepnęła tylko, nie odrywając wzroku od tekstu.
+
+
+[C12-M0603]
+===== USER =====
+
+lekko się usmiechnąłem i znowu skupiłem się na czytaniu
+
+
+[C12-M0604]
+===== ASSISTANT =====
+
+Hermiona odwzajemniła uśmiech tylko kątem ust i również wróciła do tekstu.
+
+Przez dłuższą chwilę siedzieli tak w ciszy. Kartki przesuwały się w równym rytmie, a biblioteka stopniowo przestawała być pusta — gdzieś dalej ktoś odsunął krzesło, przy wejściu pojawiło się kilku starszych uczniów, a pani Pince rozpoczęła swój poranny obchód między regałami.
+
+Hermiona, zgodnie z obietnicą, już nie zwalniała specjalnie. Czytała szybko, czasem zatrzymując wzrok na jednym akapicie odrobinę dłużej, po czym przewracała stronę.
+
+W pewnym momencie spojrzała na zegar wiszący dalej na ścianie.
+
+— Niedługo trzeba będzie iść na śniadanie — szepnęła. — Chyba że zamierzasz pierwszy dzień zacząć od głodówki w bibliotece.
+
+
+[C12-M0605]
+===== USER =====
+
+pokiwałem głową - nie, masz rację zaraz trzba iść
+
+
+[C12-M0606]
+===== ASSISTANT =====
+
+Hermiona skinęła głową i wsunęła zakładkę między strony.
+
+— To jeszcze chwila i idziemy.
+
+Zamknęła książkę, ale nie cofnęła od razu dłoni.
+
+— I zgodnie z umową… Gryffindor.
+
+Spojrzała na Jamesa z lekkim uśmiechem.
+
+— Spróbuj tylko nie zacząć wojny przy śniadaniu w pierwszych pięciu minutach.
+
+
+[C12-M0607]
+===== USER =====
+
+-Dobrze ja nie zacznę...ale jak on znacznie to nie będę mu pobłażać
+
+
+[C12-M0608]
+===== ASSISTANT =====
+
+Hermiona westchnęła cicho, ale bez złości.
+
+— Wiem.
+
+Ścisnęła lekko jego dłoń.
+
+— Nie proszę cię, żebyś mu pobłażał. Tylko… nie pozwól mu decydować za ciebie, kiedy masz stracić cierpliwość.
+
+Spojrzała na niego z boku.
+
+— Jeśli zacznie, odpowiedz mu. Tylko najlepiej tak, żebyśmy jednak zjedli śniadanie przy stole, a nie u pani Pomfrey.
+
+Kącik jej ust drgnął.
+
+— To naprawdę nie jest wygórowana prośba na pierwszy poranek.
+
+
+[C12-M0609]
+===== USER =====
+
+kiwnąłem głową i ruszyliśmy
+
+
+[C12-M0610]
+===== ASSISTANT =====
+
+Hermiona ruszyła obok niego w stronę Wielkiej Sali, nadal trzymając go za rękę.
+
+Korytarze były już wyraźnie bardziej zatłoczone niż wcześniej. Z dormitoriów schodzili kolejni uczniowie, część jeszcze zaspana, część już głośno komentująca wczorajszą ucztę i nową nauczycielkę obrony.
+
+Kiedy weszli do Wielkiej Sali, Hermiona bez większego wahania skierowała się ku stołowi Gryffindoru.
+
+Harry siedział już przy śniadaniu obok Rona, a Ginny naprzeciwko nich. Harry pierwszy zauważył Jamesa i Hermionę idących razem; jego wzrok na moment przesunął się po ich splecionych dłoniach, a potem po bordowo-złotym krawacie Jamesa.
+
+Ginny również ich dostrzegła i przesunęła się trochę, robiąc miejsce.
+
+Ron podniósł wzrok znad talerza.
+
+Na sekundę jego mina zrobiła się wyraźnie bardziej ostrożna.
+
+Hermiona jednak po prostu podeszła do stołu.
+
+— Dzień dobry.
+
+Usiadła na wolnym miejscu, zostawiając obok siebie miejsce dla Jamesa.
+
+Harry odpowiedział:
+
+— Cześć.
+
+Ginny uśmiechnęła się lekko.
+
+— Widzę, że dzisiaj wracamy do wspólnych stołów.
+
+Ron nic jeszcze nie powiedział.
+
+
+[C12-M0611]
+===== USER =====
+
+kiwnąłem głową -Mam tylko nadzieję że prefekt Malfoy nie zacznie mnie upominać bo tego nie zdzierże
+
+
+[C12-M0612]
+===== ASSISTANT =====
+
+Hermiona rzuciła Jamesowi szybkie spojrzenie.
+
+— To może po prostu nie dawaj mu satysfakcji, jeśli spróbuje.
+
+Ginny parsknęła cicho i sięgnęła po dzbanek z sokiem.
+
+— Jeśli Malfoy naprawdę zacznie rano obchód Wielkiej Sali i kontrolę miejsc przy stołach, to chyba odznaka uderzyła mu do głowy szybciej, niż myślałam.
+
+Harry uniósł lekko kącik ust.
+
+— Poza tym siedzisz tu już nie pierwszy raz.
+
+Ron w końcu odezwał się znad talerza:
+
+— Jak zacznie, to pewnie dlatego, że wie, że cię tym wkurzy.
+
+Hermiona spojrzała na Rona, potem z powrotem na Jamesa.
+
+— I dlatego właśnie najlepiej byłoby mu nie pokazać, że działa.
+
+Po chwili zaczęła nakładać sobie śniadanie, zostawiając temat bez dalszego ciągnięcia.
+
+
+[C12-M0613]
+===== USER =====
+
+Siedzę tu pierwszy raz od momentu gdy Draco zyskał nademną jakaś władze
+
+
+[C12-M0614]
+===== ASSISTANT =====
+
+Hermiona od razu uniosła brew.
+
+— Jakąś władzę szkolną, James. Nie „nad tobą” w takim sensie, jak to właśnie zabrzmiało.
+
+Ginny parsknęła.
+
+— Tak, bo powiedziałeś to tak, jakby Malfoy dostał wczoraj akt własności Browna.
+
+Harry uśmiechnął się krótko znad kubka.
+
+Ron natomiast przełknął kawałek tosta.
+
+— I technicznie może cię upominać, jeśli coś odwalasz. — Wzruszył ramionami. — Co pewnie doprowadzi was obu do szału.
+
+Hermiona westchnęła.
+
+— I właśnie dlatego proponuję niezwykle śmiały eksperyment: zjedzmy jedno śniadanie bez sprawdzania granic kompetencji Draco.
+
+Spojrzała na Jamesa znacząco.
+
+— Przynajmniej do deseru.
+
+
+[C12-M0615]
+===== USER =====
+
+A czy Dobrze kojarzę że regulamin zabrania siadania nie przy swoim stole? 
+*Spytałem*
+
+
+[C12-M0616]
+===== ASSISTANT =====
+
+Hermiona na moment przestała smarować tost i zmarszczyła brwi, jakby rzeczywiście przeglądała w pamięci regulamin.
+
+— Nie. Właściwie nie kojarzysz dobrze — powiedziała. — Przy uroczystych ucztach siadamy przy stołach swoich domów, ale podczas zwykłego śniadania nie ma przepisu zabraniającego usiąść przy innym stole.
+
+Ron, jako drugi prefekt przy stole, pokiwał głową.
+
+— Czyli Malfoy może się krzywić, ale za samo siedzenie tutaj nic ci nie zrobi.
+
+Hermiona zerknęła na Jamesa.
+
+— Więc akurat w tej sprawie możesz spokojnie zjeść śniadanie i nawet nie dawać mu powodu do dyskusji.
+
+Rzeczywiście, książkowy kanon pokazuje uczniów przysiadających się do innych domów podczas zwykłych sytuacji — m.in. Percy’ego do Penelope oraz Lunę do stołu Gryffindoru — więc nie ma podstaw, by traktować to jako ogólny zakaz. 
+Reddit
++1
+ W naszej kampanii dodatkowo wspólne siadanie Jamesa i Hermiony przy stołach innych domów jest już wcześniej ustaloną praktyką. 
+10_ZASADY_I_CIAGLOSC
+
+
+[C12-M0617]
+===== USER =====
+
+-chociaż tyle....
+
+
+[C12-M0618]
+===== ASSISTANT =====
+
+Hermiona uśmiechnęła się pod nosem.
+
+— Widzisz? Jednak nie wszystko jest przeciwko tobie.
+
+Ginny prychnęła cicho.
+
+— Daj mu chwilę. Jeszcze znajdzie przepis, który go obraża osobiście.
+
+Harry zaśmiał się krótko, a nawet Ron uniósł kącik ust.
+
+Hermiona sięgnęła po kubek.
+
+— Na razie po prostu jedz. To naprawdę przyjemne uczucie mieć problem, którego Malfoy nie może rozwiązać odznaką.
+
+
+[C12-M0619]
+===== USER =====
+
+ja spojrzałem na Hermione i delikatnie pocałowałem jej policzek
+
+
+[C12-M0620]
+===== ASSISTANT =====
+
+Hermiona odruchowo uśmiechnęła się po pocałunku i zerknęła na Jamesa z boku.
+
+— To akurat możesz robić bez konsultacji z prefektami — mruknęła cicho.
+
+Ginny, siedząca naprzeciwko, zauważyła gest i tylko uniosła lekko brwi z rozbawieniem, ale tym razem nic nie skomentowała.
+
+Hermiona natomiast wróciła do śniadania, choć uśmiech jeszcze przez chwilę nie schodził jej z twarzy.
+
+
+[C12-M0621]
+===== USER =====
+
+znowu pocałowałem ją w policzek i potem znowu i znowu
+
+
+[C12-M0622]
+===== ASSISTANT =====
+
+Hermiona wytrzymała pierwszy, drugi i trzeci pocałunek, ale przy kolejnym parsknęła cichym śmiechem i odsunęła głowę kawałek.
+
+— James… — rzuciła półszeptem, nadal się uśmiechając. — Próbuję tu jeszcze zjeść śniadanie.
+
+Uniosła dłoń i lekko zasłoniła sobie policzek przed następnym ewentualnym atakiem.
+
+— Jeden był miły. Cztery z rzędu to już oblężenie.
+
+Ginny zauważyła scenę i zachichotała pod nosem, natomiast Hermiona tylko pokręciła głową, wyraźnie rozbawiona, po czym wróciła do talerza. 
+harrypotter.com
++1
+
+
+[C12-M0623]
+===== USER =====
+
+uśmnechnąłem się i też nałożyłem sobie jedzenie i zacząłem jeść
+
+
+[C12-M0624]
+===== ASSISTANT =====
+
+Hermiona opuściła dłoń, którą wcześniej zasłaniała policzek, i również wróciła do jedzenia.
+
+Przez chwilę przy ich części stołu panował względny spokój. Ginny rozmawiała półgłosem z Harrym, Ron był znacznie bardziej zainteresowany swoim śniadaniem niż Jamesem, a Hermiona co jakiś czas zerkała w stronę wejścia do Wielkiej Sali.
+
+Po paru minutach powiedziała cicho do Jamesa:
+
+— Ciekawe, jaki dostaniemy dzisiaj plan. Piąty rok raczej nie będzie już tak łagodny.
+
+Na słowie „łagodny” zrobiła minę sugerującą, że sama niezbyt wierzy, by którekolwiek z poprzednich czterech lat można było tak nazwać.
+
+
+[C12-M0625]
+===== USER =====
+
+wzruszyłem ramionami - Mi jest to obojętne
+
+
+[C12-M0626]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego z wyraźnym niedowierzaniem.
+
+— Tobie może być obojętne. Mnie nie.
+
+Ron jęknął cicho.
+
+— Zaczyna się.
+
+Hermiona posłała mu krótkie spojrzenie, po czym wróciła do Jamesa.
+
+— Piąty rok to SUM-y. Nie zamierzam udawać, że plan zajęć mnie nie interesuje tylko dlatego, że jeszcze nie zdążyliśmy dostać go do ręki. 
+Harry Potter
++1
+
+Ginny uśmiechnęła się nad kubkiem.
+
+— Czyli mamy jakieś… trzy minuty, zanim Hermiona zacznie planować naukę do czerwca?
+
+— Wcale nie trzy — odparła Hermiona natychmiast. — Najpierw muszę zobaczyć plan.
+
+
+[C12-M0627]
+===== USER =====
+
+-Prosze cię... Jak nic u ciebie W.... Bardziej bym się martwił o inną osobę....
+
+
+[C12-M0628]
+===== ASSISTANT =====
+
+Hermiona od razu zmrużyła oczy, wyłapując ostatnią część zdania.
+
+— James…
+
+Ron przerwał jedzenie i spojrzał na niego podejrzliwie.
+
+— Chwila. „Inną osobę” znaczy kogo?
+
+Ginny zerknęła najpierw na Jamesa, potem na Rona i natychmiast zaczęła się uśmiechać.
+
+— O nie…
+
+Harry schował uśmiech za kubkiem.
+
+Hermiona wskazała Jamesowi widelcem.
+
+— I zanim odpowiesz, przypominam, że siedzimy przy jednym stole.
+
+
+[C12-M0629]
+===== USER =====
+
+-.... Neville....
+
+
+[C12-M0630]
+===== ASSISTANT =====
+
+Ron zamrugał.
+
+— Neville?
+
+Ginny od razu przestała się uśmiechać tak szeroko.
+
+— Ej, Neville nie jest aż taki tragiczny.
+
+Hermiona spojrzała na Jamesa trochę bardziej stanowczo.
+
+— Właśnie. Ma problemy z częścią przedmiotów, szczególnie kiedy się stresuje, ale z zielarstwa jest naprawdę dobry. Profesor Sprout już nieraz go chwaliła. 
+Harry Potter
++1
+
+Harry skinął głową.
+
+— Z zielarstwa pewnie poradzi sobie lepiej niż połowa z nas.
+
+Hermiona uniosła lekko brwi.
+
+— Więc jeśli miałeś na myśli jego SUM-y ogólnie… to może faktycznie będzie musiał się przyłożyć. Ale nie skreślałabym go.
+
+
+[C12-M0631]
+===== USER =====
+
+Dokładnie o to mi chodziło a skupmy się na twoim W
+
+
+[C12-M0632]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego i od razu lekko się zarumieniła, choć próbowała zachować poważną minę.
+
+— Moim W? — powtórzyła. — James, ja jeszcze żadnego W za SUM-y nie dostałam.
+
+Ginny uśmiechnęła się szeroko.
+
+— Ale już najwyraźniej zostało ci przyznane z góry.
+
+— Nic nie zostało przyznane z góry — odpowiedziała Hermiona natychmiast, choć kącik ust jej drgnął. — I właśnie dlatego zamierzam się uczyć.
+
+Ron westchnął teatralnie.
+
+— Czyli dokładnie tak, jakby od tego zależało życie całej szkoły.
+
+Hermiona zignorowała go i spojrzała z powrotem na Jamesa.
+
+— Ale… doceniam wiarę we mnie. Tylko nie mów tego tak, jakby wynik był już przesądzony. Bo wtedy będę miała jeszcze większą ochotę go zdobyć.
+
+
+[C12-M0633]
+===== USER =====
+
+-Dobrze...ale jak ostatecznie dostaniesz W to wtedy Musisz za mnie wyjść....
+
+
+[C12-M0634]
+===== ASSISTANT =====
+
+Hermiona znieruchomiała z widelcem w połowie drogi do ust.
+
+— Co?!
+
+Ginny natychmiast zachichotała, Harry zakrztusił się sokiem, a Ron spojrzał na Jamesa tak, jakby nie był pewien, czy dobrze usłyszał.
+
+Hermiona zrobiła się wyraźnie czerwona.
+
+— Nie, nie, nie. Tak to nie działa — powiedziała szybko, choć walczyła z uśmiechem. — Ocena z SUM-ów nie jest kontraktem małżeńskim.
+
+Po chwili zerknęła na Jamesa i dodała ciszej:
+
+— Jeśli kiedyś dostanę W… możesz mnie kiedyś poprosić. A ja wtedy zdecyduję, co ci odpowiem.
+
+Ginny oparła brodę na dłoni.
+
+— Och, to zabrzmiało podejrzanie mało jak odmowa.
+
+— Ginny! — syknęła Hermiona, robiąc się jeszcze bardziej czerwona.
+
+
+[C12-M0635]
+===== USER =====
+
+przytuliłem Hermionę od boku i szepnąłem przy jej policzku - już się tak nie rumień....oboje mamy taką samą nadzieję....
+
+
+[C12-M0636]
+===== ASSISTANT =====
+
+Hermiona jeszcze bardziej poczerwieniała i na moment schowała twarz bliżej jego ramienia, najwyraźniej próbując nie dać Ginny satysfakcji.
+
+— Wiem… — odpowiedziała równie cicho, tylko dla Jamesa. — Właśnie dlatego to wcale nie pomaga.
+
+Po chwili odsunęła się na tyle, żeby móc na niego spojrzeć, i dodała z małym, zawstydzonym uśmiechem:
+
+— Ale tak. Mamy.
+
+Przy stole pozostali widzieli przytulenie, lecz przy takim szeptaniu nie mieli szans usłyszeć, co dokładnie między sobą powiedzieli.
+
+
+[C12-M0637]
+===== USER =====
+
+usmichnalem się i kontowałem szeptem - I na pewno będzie W....w końcu Jesteś Hermiona....
+
+
+[C12-M0638]
+===== ASSISTANT =====
+
+Hermiona odwróciła lekko głowę w jego stronę i uśmiechnęła się, wciąż trochę zawstydzona.
+
+— Właśnie dlatego nie możesz tak mówić — szepnęła. — Bo potem naprawdę będę miała wrażenie, że muszę dostać W.
+
+Przez chwilę patrzyła na niego z boku.
+
+— Ale… miło, że aż tak we mnie wierzysz.
+
+Jej uśmiech zrobił się odrobinę szerszy.
+
+— I nie myśl sobie, że to zwalnia mnie z nauki. To, że jestem Hermioną, jest między innymi skutkiem tego, że się uczę.
+
+Potem wróciła do śniadania, nadal siedząc blisko Jamesa. 
+harrypotter.com
++1
+
+
+[C12-M0639]
+===== USER =====
+
+odsunąłem się a potem powiedziałem do reszty - Hermiona sie zgodziła.....jak dostanie W to zostanie moją żoną...
+
+
+[C12-M0640]
+===== ASSISTANT =====
+
+Hermiona natychmiast odwróciła się do Jamesa, czerwona aż po uszy.
+
+— James! Nie powiedziałam tego!
+
+Ginny wybuchnęła śmiechem, a Harry opuścił kubek, wyraźnie rozbawiony.
+
+— Przed chwilą było „możesz mnie kiedyś poprosić” — przypomniała Hermiona, wskazując na Jamesa widelcem. — A nie „dostanę W i automatycznie zostaję panią Brown”.
+
+Ron aż przestał jeść.
+
+— Czekaj… wy właśnie przy śniadaniu ustalacie małżeństwo na podstawie SUM-ów?
+
+— Nie! — odpowiedziała Hermiona zdecydowanie, po czym ciszej dodała do Jamesa: — A to, co powiedziałam ci przed chwilą szeptem, było dla ciebie.
+
+Ginny spojrzała na nią z zainteresowaniem.
+
+— Och?
+
+Hermiona natychmiast odwróciła się do niej.
+
+— Nie. Nawet nie pytaj.
+
+
+[C12-M0641]
+===== USER =====
+
+znów przytuliłem Hermionę i szepnąłem jej na ucho - Przepraszam po prostu lubię cię zawstydzać...
+
+
+[C12-M0642]
+===== ASSISTANT =====
+
+Hermiona wypuściła cicho powietrze, ale tym razem jej uśmiech szybko wrócił.
+
+— Wiem, że lubisz — szepnęła, nadal trochę czerwona. — Zauważyłam.
+
+Przechyliła lekko głowę w jego stronę.
+
+— Tylko czasem przesadzasz.
+
+Po chwili dodała ciszej, już bez pretensji:
+
+— Ale przeprosiny przyjmuję.
+
+Potem spojrzała krótko w stronę Ginny, Harry’ego i Rona, jakby sprawdzała, czy któreś z nich próbuje podsłuchiwać, po czym wróciła do śniadania, zostając blisko Jamesa.
+
+
+[C12-M0643]
+===== USER =====
+
+znowu zwróciłem się do wszystkich - Umowa odwołana.... kiedyś będę musiał poprosić i zdać się na wyrok najpiękniejszej na świecie Panny Granger...
+
+
+[C12-M0644]
+===== ASSISTANT =====
+
+Hermiona zakryła na moment twarz dłonią, ale tym razem bardziej ze śmiechu niż z zażenowania.
+
+— Och, Merlinie…
+
+Ginny natychmiast się rozpromieniła.
+
+— „Wyrok najpiękniejszej na świecie panny Granger”? Dobrze, to było nawet niezłe.
+
+Harry uśmiechnął się szeroko, a Ron pokręcił głową.
+
+— Wy dwoje jesteście niemożliwi.
+
+Hermiona opuściła dłoń i spojrzała na Jamesa, nadal wyraźnie zarumieniona.
+
+— Tak. Kiedyś możesz poprosić. — Podkreśliła słowo z naciskiem. — I wtedy zobaczymy, czy twoja sprawa będzie wystarczająco dobrze przygotowana.
+
+Ginny parsknęła śmiechem.
+
+— O nie. Ona już zamieniła własne oświadczyny w egzamin.
+
+Hermiona rzuciła jej spojrzenie.
+
+— Przynajmniej będzie musiał się przygotować.
+
+Po czym, mimo całego zawstydzenia, nie potrafiła powstrzymać małego uśmiechu.
+
+
+[C12-M0645]
+===== USER =====
+
+wróciłem do jedzenia cały czas z lekkimi uśmiechem
+
+
+[C12-M0646]
+===== ASSISTANT =====
+
+Hermiona zauważyła ten lekki uśmiech i sama odpowiedziała podobnym, po czym wróciła do śniadania.
+
+Chwilę później wzdłuż stołu Gryffindoru zaczęła przesuwać się profesor McGonagall, rozdając uczniom plany zajęć. Kiedy dotarła do ich grupy, położyła pergaminy przed Harrym, Ronem, Ginny i Hermioną. 
+eBookscape
++1
+
+Hermiona niemal natychmiast odsunęła talerz kawałek na bok i rozwinęła swój.
+
+— No. Teraz możemy się przekonać, jak bardzo miałeś rację z tym moim „pewnym W”.
+
+McGonagall zerknęła jeszcze na Jamesa ponad okularami.
+
+— Pański plan, panie Brown, otrzyma pan od profesora Snape’a.
+
+Ron spojrzał na swoją rozpiskę i jego mina momentalnie zrzedła.
+
+— O nie…
+
+
+[C12-M0647]
+===== USER =====
+
+od razu się rozejrzałem czy Snape nie rozdaje planów.
+
+
+[C12-M0648]
+===== ASSISTANT =====
+
+Przy stole Slytherinu rzeczywiście stał Snape. Przesuwał się wzdłuż ławy i rozdawał kolejnym uczniom zwinięte pergaminy z planami; jako opiekun Slytherinu to właśnie on zajmował się swoimi uczniami. 
+Harry Potter
+
+Draco miał już swój plan przed sobą, Pansy właśnie odbierała następny, a Nott siedział kawałek dalej.
+
+Hermiona zauważyła, gdzie James patrzy.
+
+— Jest tam — powiedziała cicho. — Więc chyba będziesz musiał na chwilę odwiedzić własny stół.
+
+
+[C12-M0649]
+===== USER =====
+
+kiwnąłem głową i wstałem szybko od stołu i podszedłem do krańca stołu Slytherin'u
+
+
+[C12-M0650]
+===== ASSISTANT =====
+
+Snape właśnie kończył rozdawać pergaminy kilku piątorocznym. Gdy James zatrzymał się przy krańcu stołu, profesor uniósł wzrok i bez zbędnego komentarza wyciągnął jeden z pozostałych planów.
+
+— Brown.
+
+Podał mu pergamin, po czym jego spojrzenie przesunęło się na moment w stronę stołu Gryffindoru.
+
+— Widzę, że od samego rana wykazuje pan niezwykłe zainteresowanie integracją międzydomową.
+
+Ton Snape’a był całkowicie suchy. Jako opiekun Slytherinu to on rozdawał plany swoim uczniom. 
+Harry Potter
+
+Kilka miejsc dalej Draco podniósł wzrok znad własnego planu.
+
+— O, jednak przypomniałeś sobie, do którego domu należysz? — rzucił z lekkim uśmieszkiem.
+
+Nott tylko zerknął znad pergaminu, czekając na rozwój sytuacji.
+
+
+[C12-M0651]
+===== USER =====
+
+wziąłem plan i lekko kiwnąłem głową - Dziękuję na jego twierdzenie odparłem - tak....a następnie ponownie lekko kiwnąlem głową i skierowałem się z powrotem do stołu Gryffindoru i zająłem miejsce obok Hermiony i od razu rozwinąłem swój plan porównując go z planem Hermiony
+
+
+[C12-M0652]
+===== ASSISTANT =====
+
+James rozwinął pergamin obok planu Hermiony. Na pierwszy rzut oka większość przedmiotów układała się bardzo podobnie, ale nie wszystko. Hermiona od razu przysunęła oba arkusze do siebie i zaczęła porównywać kolejne dni.
+
+Plan Jamesa Browna — V rok, Slytherin
+Dzień	Zajęcia
+Poniedziałek	Historia Magii → podwójne Eliksiry → obiad → Starożytne Runy → podwójna Obrona przed Czarną Magią
+Wtorek	podwójne Zaklęcia → podwójna Transmutacja → obiad → Opieka nad Magicznymi Stworzeniami → Zielarstwo
+Środa	Okno / nauka własna → Transmutacja → obiad → podwójne Zielarstwo → Opieka nad Magicznymi Stworzeniami → Astronomia wieczorem
+Czwartek	Eliksiry → Zaklęcia → obiad → Obrona przed Czarną Magią → okres nauki własnej
+Piątek	podwójne Starożytne Runy → Historia Magii → obiad → okres nauki własnej → wolne
+Plan Hermiony Granger — V rok, Gryffindor
+Dzień	Zajęcia
+Poniedziałek	Historia Magii → podwójne Eliksiry → obiad → Starożytne Runy → podwójna Obrona przed Czarną Magią
+Wtorek	podwójne Zaklęcia → podwójna Transmutacja → obiad → Opieka nad Magicznymi Stworzeniami → Zielarstwo
+Środa	Numerologia → Transmutacja → obiad → podwójne Zielarstwo → Opieka nad Magicznymi Stworzeniami → Astronomia wieczorem
+Czwartek	Eliksiry → Zaklęcia → obiad → Obrona przed Czarną Magią → Numerologia
+Piątek	podwójne Starożytne Runy → Historia Magii → obiad → podwójna Numerologia
+
+Hermiona przesuwała palcem po obu pergaminach, aż w końcu zatrzymała go na środzie.
+
+— Och.
+
+Spojrzała na Jamesa, potem jeszcze raz na plany.
+
+— Mamy razem prawie wszystko. — Jej palec stuknął w pierwszą pozycję środy. — Tutaj ja mam numerologię, a ty okno. I w czwartek oraz piątek mam jej więcej, kiedy ty masz wolne.
+
+Ron wychylił się trochę, próbując zobaczyć oba arkusze.
+
+— Chwila. Brown ma okna?
+
+Hermiona zignorowała go i zaczęła jeszcze raz liczyć wspólne zajęcia.
+
+— Eliksiry, obrona, transmutacja, zaklęcia, zielarstwo, opieka, historia, runy, astronomia… — Uniosła brwi. — James, praktycznie przez cały tydzień będziemy się na siebie natykać.
+
+Znane z Zakonu Feniksa elementy rozkładu obejmują m.in. poniedziałkową Historię Magii, podwójne Eliksiry i podwójną Obronę, wtorkowe Zaklęcia i Transmutację, środową Numerologię Hermiony oraz środową Astronomię; pełnego tygodniowego planu Rowling jednak nie podała, więc pozostałe luki ustalam tutaj jako stały plan naszej kampanii. 
+Harry Potter Lexicon
++1
+
+
+[C12-M0653]
+===== USER =====
+
+(a czemu tylko Hermiona ma numerologię?)
+
+
+[C12-M0654]
+===== ASSISTANT =====
+
+Masz rację — nie ma dobrego powodu, żeby tylko Hermiona miała numerologię, jeśli James również ją wybrał. To był mój błąd przy układaniu planu.
+
+Sprawdziłem archiwum i nie ma tam wcześniejszego, jawnego ustalenia pełnego zestawu przedmiotów fakultatywnych Jamesa. Co więcej, poprzednio bez podstaw wpisałem mu Starożytne Runy, a Numerologię pominąłem. Tego nie powinienem był ustalać za Jamesa.
+
+W kanonie Numerologia jest przedmiotem fakultatywnym wybieranym od III roku; Hermiona ją uczęszcza, podczas gdy Harry i Ron nie. 
+Harry Potter Lexicon
++1
+
+Jeżeli przyjmujemy, że James również ma Numerologię, to jego plan powinien mieć ją razem z Hermioną — m.in. w środę rano, a nie „okno”. I wtedy poprawię cały plan tak, żeby nie było podobnych przypadkowych założeń. Poprzedniej wersji planu nie traktujmy jako kanonu.
+
+
+[C12-M0655]
+===== USER =====
+
+(ok to ustalmy to jakie mogłem wybrać przedmioty fakultatywne?)
+
+
+[C12-M0656]
+===== ASSISTANT =====
+
+Tak — na końcu II roku James mógł wybrać spośród pięciu przedmiotów fakultatywnych, które zaczynały się od III roku. Uczeń musiał wybrać co najmniej dwa, ale mógł wziąć więcej. 
+Harry Potter
++1
+
+Numerologia (Arithmancy) — magia liczb, wzorów i przewidywania za pomocą liczb; uczy profesor Septima Vector. Hermiona ją brała i była to jej ulubiona dziedzina. 
+Harry Potter
++1
+Starożytne Runy (Study of Ancient Runes) — odczytywanie i tłumaczenie run; prowadzi profesor Bathsheda Babbling. Hermiona również ją wybrała. 
+Harry Potter
++1
+Opieka nad Magicznymi Stworzeniami — nauka o stworzeniach, ich zachowaniu i opiece nad nimi; od III roku prowadzi ją Hagrid. 
+Harry Potter Lexicon
+Wróżbiarstwo — Trelawney; fusy, chiromancja, kryształowe kule itd. Harry i Ron wybrali właśnie ten przedmiot razem z Opieką. 
+Harry Potter
++1
+Mugoloznawstwo — nauka o świecie mugoli. Hermiona również je początkowo wybrała. 
+Harry Potter
++1
+
+Czyli dla Jamesa możemy teraz kanonicznie ustalić jego własny wybór. Biorąc pod uwagę dotychczasową postać Jamesa, najbardziej naturalne wydają mi się Numerologia + Starożytne Runy + Opieka nad Magicznymi Stworzeniami. Mugoloznawstwo i Wróżbiarstwo możemy dodać albo odrzucić — ale tego nie chcę wybierać za Ciebie.
+
+I ważne: jeśli James wybierze Numerologię i Runy, będzie miał z Hermioną jeszcze więcej wspólnych zajęć. Hermione w V roku nadal ma oba te przedmioty; Wróżbiarstwo porzuciła już w III roku, a Mugoloznawstwo również później odrzuciła. 
+Harry Potter Lexicon
+
+
+[C12-M0657]
+===== USER =====
+
+(właśnie a jak to wyglądało kanonicznie u Hermiony z tymi fakultetami?)
+
+
+[C12-M0658]
+===== ASSISTANT =====
+
+Kanonicznie Hermiona poszła na całość. Na końcu II roku wybrała wszystkie pięć dostępnych fakultetów: Numerologię, Starożytne Runy, Mugoloznawstwo, Wróżbiarstwo i Opiekę nad Magicznymi Stworzeniami. Dlatego w III roku miała absurdalnie przeładowany plan i korzystała ze Zmieniacza Czasu, żeby być na kilku lekcjach naraz. 
+Harry Potter
++2
+
+Potem zaczęła z tego schodzić. Wróżbiarstwo porzuciła w III roku, po konflikcie z Trelawney; z kolei po zakończeniu III roku zrezygnowała z Mugoloznawstwa, mimo że zdała ten przedmiot z absurdalnie wysokim wynikiem. Na IV i V roku zostały jej więc trzy fakultety: Numerologia, Starożytne Runy i Opieka nad Magicznymi Stworzeniami. 
+Harry Potter Lexicon
++2
+
+Czyli w naszej obecnej scenie na V roku Hermiona powinna mieć:
+
+Numerologię
+Starożytne Runy
+Opiekę nad Magicznymi Stworzeniami
+
+Nie ma już Wróżbiarstwa ani Mugoloznawstwa. Jej kanoniczny plan z Zakonu Feniksa potwierdza m.in. Runy w poniedziałek i Numerologię w środę rano. 
+Harry Potter Lexicon
++1
+
+I to nam bardzo ułatwia ustalenie Jamesa: możemy teraz wybrać mu fakultety z tej samej piątki i dopiero potem ułożyć poprawny plan obojga.
+
+
+[C12-M0659]
+===== USER =====
+
+(Starożytne Runy i Opieka nad Magicznymi Stworzeniami to dajmy że James chodzi na te dwa a Numerologię i mugolaznastwo zdawał egazmin jak się przenosił do Hogwartu czy to jest możliwe kanonicznie?)
+
+
+[C12-M0660]
+===== ASSISTANT =====
+
+Tak — da się to sensownie ustawić, ale jako element zgodny z kanonem, nie coś wprost opisane w książkach.
+
+Kanon potwierdza dwie ważne rzeczy: uczniowie mogą trafiać do Hogwartu jako transferowi z innych szkół, ale nie opisuje dokładnej procedury wyrównywania programu ani egzaminów kwalifikacyjnych dla takich uczniów. Jednocześnie normalne SUM-y są zdawane dopiero na V roku i dotyczą przedmiotów, których uczeń się uczył. 
+Harry Potter Wiki
++2
+
+W przypadku Jamesa takie rozwiązanie pasuje szczególnie dobrze, bo już wcześniej ustaliliśmy, że przed Hogwartem był uczony poza szkołą przez rodziców, a po przeniesieniu nauczyciele sprawdzali jego rzeczywisty poziom — Snape na przykład po ocenie umiejętności dawał mu trudniejsze, indywidualne zadania, zamiast traktować go jak zwykłego nowego czwartoklasistę. 
+01_ARCHIWUM_CZAT_1-11_SCALONE
+
+Dlatego proponowałbym ustalić to tak:
+
+James przy przeniesieniu na IV rok zdał wewnętrzne egzaminy kwalifikacyjne z Numerologii i Mugoloznawstwa, wykazując znajomość materiału do końca III roku. To nie były SUM-y.
+Szkoła uznała mu ten wcześniejszy zakres i nie musiał chodzić na te dwa przedmioty w IV roku.
+Jako swoje faktycznie kontynuowane fakultety w Hogwarcie wybrał Starożytne Runy i Opiekę nad Magicznymi Stworzeniami.
+Na V roku nadal normalnie chodzi więc na Runy i Opiekę.
+Jeżeli James chciałby mieć oficjalny SUM z Numerologii albo Mugoloznawstwa, to najczyściej kanonicznie byłoby, żeby mimo wcześniejszego zaliczenia programu przystąpił do odpowiedniego SUM-u na końcu V roku. Kanon nie daje nam podstaw, żeby szkolny egzamin kwalifikacyjny automatycznie zastępował państwowy SUM. 
+Harry Potter
++1
+
+To rozwiązanie jest moim zdaniem najlepsze dla ciągłości: James zna Numerologię i Mugoloznawstwo, ale nie zajmują mu miejsc w obecnym planie. Hermiona ma Numerologię, Runy i Opiekę, więc wspólne fakultety pary to Runy + Opieka nad Magicznymi Stworzeniami.
+
+
+[C12-M0661]
+===== USER =====
+
+(ok to popraw ostatnią wiadomość w historii i lecimy dalej)
+
+
+[C12-M0662]
+===== ASSISTANT =====
+
+James wrócił do stołu Gryffindoru, usiadł obok Hermiony i rozwinął pergamin tuż przy jej planie. Hermiona od razu przysunęła swój bliżej i zaczęła porównywać kolejne rubryki.
+
+Na planie Jamesa widniało:
+
+Dzień	Plan Jamesa
+Poniedziałek	Historia Magii → przerwa → podwójne Eliksiry → obiad → Starożytne Runy → podwójna Obrona przed Czarną Magią
+Wtorek	podwójne Zaklęcia → przerwa → podwójna Transmutacja → obiad → Opieka nad Magicznymi Stworzeniami → Zielarstwo
+Środa	okno / nauka własna → Transmutacja → obiad → podwójne Zielarstwo → Opieka nad Magicznymi Stworzeniami → wieczorem Astronomia
+Czwartek	Eliksiry → Zaklęcia → przerwa → Historia Magii → obiad → Obrona przed Czarną Magią → nauka własna
+Piątek	podwójne Starożytne Runy → Transmutacja → obiad → Zaklęcia → wolny blok
+
+James nie miał w planie ani Numerologii, ani Mugoloznawstwa. Oba przedmioty zaliczył wcześniej w ramach sprawdzenia poziomu przy przeniesieniu do Hogwartu; jego faktycznie kontynuowanymi fakultetami były Starożytne Runy oraz Opieka nad Magicznymi Stworzeniami. Normalne SUM-y nadal czekały go dopiero pod koniec piątego roku. W Hogwarcie uczniowie wybierali minimum dwa fakultety spośród Numerologii, Mugoloznawstwa, Wróżbiarstwa, Run i Opieki. 
+Harry Potter
++1
+
+Hermiona przesuwała palcem po obu pergaminach.
+
+— Poniedziałek… razem. Runy też razem. Obrona razem… — mruczała.
+
+Przeszła do wtorku.
+
+— Zaklęcia, transmutacja, opieka, zielarstwo…
+
+Potem dotarła do środy i zatrzymała palec na pierwszej rubryce.
+
+— O. Tutaj się rozdzielamy. Ja mam Numerologię, a ty masz wolne.
+
+Spojrzała na Jamesa z lekkim uśmiechem.
+
+— Czyli jednak znalazłeś w tym tygodniu jedną godzinę, podczas której nie będziesz siedział obok mnie.
+
+Ron wychylił się nad stołem.
+
+— Jedną?
+
+Hermiona zignorowała go i dalej porównywała plany.
+
+— Poza Numerologią właściwie większość tygodnia mamy wspólną. Nawet oba fakultety, na które chodzisz.
+
+Ginny spojrzała na dwa pergaminy.
+
+— To chyba najgorsza możliwa wiadomość dla każdego nauczyciela, który liczył, że będziecie siedzieć osobno.
+
+Hermiona rzuciła jej krótkie spojrzenie, ale kącik ust wyraźnie jej drgnął.
+
+Kanoniczny rozkład V roku jest tylko częściowo podany w Zakonie Feniksa; potwierdzone są m.in. poniedziałkowe Historia Magii, podwójne Eliksiry i podwójna Obrona, wtorkowe podwójne Zaklęcia i Transmutacja, środowa Numerologia Hermiony oraz środowa Astronomia. Reszta powyższego rozkładu jest od tej chwili stałym planem naszej kampanii. 
+hp-lexicon.org
++1
+
+
+[C12-M0663]
+===== USER =====
+
+uśmnechnąłem się figlarnie - Numerologia... znam się na rzeczy.... może kiedyś jakiś numerek?
+
+
+[C12-M0664]
+===== ASSISTANT =====
+
+Hermiona na sekundę zamarła, po czym bardzo powoli odwróciła głowę w stronę Jamesa.
+
+— James Brown…
+
+Policzki od razu zrobiły jej się czerwone, a Ginny, która najwyraźniej doskonale wychwyciła ton jego głosu, parsknęła śmiechem.
+
+Hermiona szturchnęła Jamesa lekko łokciem.
+
+— Jeśli przez „numerek” masz na myśli numer zadania z Numerologii, to może kiedyś pozwolę ci pomóc.
+
+Harry zaczął się śmiać, a Ron spojrzał między nimi.
+
+— Czekaj, czego ja nie zrozumiałem?
+
+— I bardzo dobrze — odpowiedziała Hermiona natychmiast, po czym zerknęła na Jamesa z mieszaniną zawstydzenia i rozbawienia. — A ty przestań się tak niewinnie uśmiechać. Wiem dokładnie, co zrobiłeś.
+
+
+[C12-M0665]
+===== USER =====
+
+-Nie wiem o co ci chodzi.... chyba po prostu masz jakieś niedopowiedzenie myśli.....
+
+
+[C12-M0666]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego z miną pełną niedowierzania.
+
+— Och, oczywiście. To ja mam niedopowiedziane myśli.
+
+Przechyliła lekko głowę.
+
+— A ty zupełnym przypadkiem powiedziałeś „jakiś numerek” dokładnie takim tonem.
+
+Ginny zachichotała.
+
+— James, nawet ja ci w to nie wierzę.
+
+Hermiona uniosła brew i wróciła do swojego planu.
+
+— Możesz próbować się wykręcać, Brown. Ale tym razem cię złapałam.
+
+Ron nadal wyglądał na lekko zagubionego.
+
+— Nadal nie wiem, o czym wy gadacie.
+
+— I niech tak zostanie — odpowiedziała Hermiona natychmiast.
+
+
+[C12-M0667]
+===== USER =====
+
+w odpowiedzi Tylko się usmiechnąłem i pocałowałem ją w policzek i powiedziałem szeptem..
+Moja kochana i bardzo niewinna Hermiona...
+
+
+[C12-M0668]
+===== ASSISTANT =====
+
+Hermiona od razu przymknęła oczy, jakby właśnie potwierdziły się wszystkie jej podejrzenia co do jego wcześniejszego „numerku”.
+
+— Och, przestań… — szepnęła, choć uśmiech zdradzał, że wcale nie jest zła.
+
+Policzki znowu lekko jej poczerwieniały.
+
+— I nie próbuj teraz robić ze mnie tej „niewinnej”, skoro to ty przed chwilą specjalnie dobierałeś słowa tak, żeby mnie zawstydzić.
+
+Odwróciła głowę odrobinę w jego stronę.
+
+— Bardzo dobrze wiesz, co robisz, panie Brown.
+
+Potem wróciła do planu zajęć, ale kącik ust nadal jej drgał. Hermiona kanonicznie jest logiczna, bezpośrednia i dość odporna na głupie zaczepki, więc bardziej pasuje tu zawstydzone odbicie piłeczki niż całkowite speszenie. 
+harrypotter.com
++1
+
+
+[C12-M0669]
+===== USER =====
+
+usmichnalem się i nachyliłem się nad plan - podsumowując dużo czasu razem....i pamiętaj że z numerkami zawszę ci pomogę...
+
+
+[C12-M0670]
+===== ASSISTANT =====
+
+Hermiona powoli uniosła wzrok znad pergaminu i spojrzała na niego z miną mówiącą, że ani przez sekundę nie kupuje tej niewinnej wersji.
+
+— Oczywiście — odparła słodko. — Gdy tylko utknę przy jakimś równaniu z Numerologii, pierwsze co zrobię, to przybiegnę do ciebie po pomoc.
+
+Ginny parsknęła śmiechem.
+
+Hermiona stuknęła palcem w plan Jamesa.
+
+— A podsumowując: tak. Bardzo dużo czasu razem. Runy, opieka, większość obowiązkowych… — kącik jej ust uniósł się lekko. — Więc chyba nie będziesz miał okazji za mną zatęsknić.
+
+Po chwili dodała ciszej, tylko do niego:
+
+— Chociaż znając ciebie, i tak jakoś ją znajdziesz.
+
+
+[C12-M0671]
+===== USER =====
+
+pokiwałem głową i znowu delaktnie pocałowałem jej policzek
+
+
+[C12-M0672]
+===== ASSISTANT =====
+
+Hermiona odwróciła lekko głowę w jego stronę i uśmiechnęła się ciepło.
+
+— Ten akurat był całkiem niewinny — mruknęła cicho.
+
+Na moment musnęła jego dłoń swoją, po czym spojrzała jeszcze raz na oba plany.
+
+— I tak… chyba naprawdę spędzimy razem większość tygodnia.
+
+Ginny zerknęła na nich znad swojego pergaminu.
+
+— Jakbyście do tej pory mieli z tym jakiś problem.
+
+Hermiona rzuciła jej krótkie spojrzenie.
+
+— Nie pomagaj mu.
+
+Po czym wróciła do śniadania, nadal z lekkim uśmiechem.
+
+
+[C12-M0673]
+===== USER =====
+
+(Wrzuć mi jeszcze plan lekcji Hermiony)
+
+
+[C12-M0674]
+===== ASSISTANT =====
+
+Jasne. Po naszej korekcie plan Hermiony na V roku wygląda tak:
+
+Dzień	Plan Hermiony
+Poniedziałek	Historia Magii → podwójne Eliksiry → obiad → Starożytne Runy → podwójna Obrona przed Czarną Magią
+Wtorek	podwójne Zaklęcia → podwójna Transmutacja → obiad → Opieka nad Magicznymi Stworzeniami → Zielarstwo
+Środa	Numerologia → Transmutacja → obiad → podwójne Zielarstwo → Opieka nad Magicznymi Stworzeniami → wieczorem Astronomia
+Czwartek	Eliksiry → Zaklęcia → obiad → Obrona przed Czarną Magią → Numerologia
+Piątek	podwójne Starożytne Runy → Historia Magii → obiad → podwójna Numerologia
+
+Czyli jej fakultety to Numerologia, Starożytne Runy i Opieka nad Magicznymi Stworzeniami. James chodzi z nią na Runy i Opiekę, natomiast kiedy Hermiona ma Numerologię, on ma wolny blok/naukę własną.
+
+Kanonicznie pewnymi punktami V roku są m.in. Runy Hermiony w poniedziałek i Numerologia jako pierwsza lekcja w środę; kompletny tygodniowy rozkład nie został w książkach podany, więc pozostałe miejsca są naszym stałym planem kampanii. 
+hp-lexicon.org
++1
+
+
+[C12-M0675]
+===== USER =====
+
+ja też wrocilem do jedzenia a gdy zjadłem poczekałem aż Hermiona też skończyła i skierowaliśmy się na pierwszą lekcję
+
+
+[C12-M0676]
+===== ASSISTANT =====
+
+Po śniadaniu Wielka Sala zaczęła powoli pustoszeć, gdy kolejne grupy uczniów ruszały na pierwsze zajęcia.
+
+Hermiona zarzuciła torbę na ramię, jeszcze raz zerknęła na swój plan i ruszyła razem z Jamesem w stronę sali Historii Magii.
+
+— Przynajmniej zaczynamy spokojnie — stwierdziła po drodze. — Chociaż przy profesorze Binnsie „spokojnie” może oznaczać również „walczymy o zachowanie przytomności”.
+
+Kiedy dotarli pod salę, część piątego roku była już na miejscu. Harry i Ron zajęli ławkę nieco dalej, Ron z miną człowieka, który jeszcze przed rozpoczęciem lekcji pogodził się ze swoim losem.
+
+Hermiona wybrała miejsce i zaczęła wyjmować pergamin, kałamarz oraz podręcznik.
+
+Chwilę później przez tablicę przeniknęła półprzezroczysta sylwetka profesora Binnsa.
+
+Duch nawet nie rozejrzał się szczególnie po klasie. Otworzył swoje notatki i niemal natychmiast rozpoczął jednostajnym głosem:
+
+— W tym roku, w związku ze zbliżającymi się Standardowymi Umiejętnościami Magicznymi, będziemy wymagać od państwa znacznie dokładniejszej znajomości przyczyn, przebiegu oraz następstw najważniejszych konfliktów w historii społeczności czarodziejów…
+
+Hermiona już po pierwszym zdaniu zaczęła skrupulatnie notować.
+
+Ron, dwie ławki dalej, oparł brodę na dłoni.
+
+Profesor Binns kontynuował, jakby dokładnie tak samo mówił od kilkuset lat.
+
+— Zaczniemy od wojen olbrzymów, ze szczególnym uwzględnieniem prób ich podporządkowania przez czarodziejską administrację…
+
+Pióro Hermiony poruszało się szybko po pergaminie, a pierwsza lekcja piątego roku rozpoczęła się na dobre.
+
+
+[C12-M0677]
+===== USER =====
+
+gdy zaczął mówić trochę się odsunąłem i zacząłem wiązać włosy Hermiony w warkocz
+
+
+[C12-M0678]
+===== ASSISTANT =====
+
+Hermiona zesztywniała na moment, gdy poczuła, że James zaczyna zbierać jej włosy z tyłu głowy. Zerknęła na niego kątem oka, ale nie przerwała notowania.
+
+Po kilku sekundach zorientowała się, co robi.
+
+— Serio? Teraz? — szepnęła, ledwie poruszając ustami.
+
+Mimo tego nie odsunęła się ani nie próbowała mu przeszkodzić. Jedną ręką dalej prowadziła pióro po pergaminie, a drugą na chwilę przytrzymała włosy z boku, żeby nie wpadały jej pod łokieć.
+
+Binns tymczasem monotonnie ciągnął wykład, całkowicie nieświadomy drobnego zamieszania w jednej z ławek.
+
+Hermiona po chwili dodała jeszcze ciszej:
+
+— Tylko nie zrób mi na głowie czegoś, czego będę żałować do obiadu.
+
+
+[C12-M0679]
+===== USER =====
+
+ja po chwili skończyłem jednak nie byłem zadowolony więc rozwiązałem go
+
+
+[C12-M0680]
+===== ASSISTANT =====
+
+Hermiona poczuła, jak włosy znowu rozsypują jej się po plecach i ramionach. Tym razem naprawdę zerknęła na Jamesa z boku, nadal nie przerywając pisania.
+
+— Nie przeszedł kontroli jakości? — szepnęła z rozbawieniem.
+
+Poprawiła kosmyk, który opadł jej na pergamin, i wróciła wzrokiem do notatek.
+
+— Możesz próbować jeszcze raz. Tylko uprzedzam, że Binns raczej nie powtórzy połowy wojny olbrzymów dlatego, że mój fryzjer jest perfekcjonistą.
+
+Z przodu sali profesor nawet nie zwolnił, jednostajnie przechodząc do kolejnych dat i nazwisk.
+
+
+[C12-M0681]
+===== USER =====
+
+ja jednak oparłem głowę o jej ramię i po chwili naprawdę zasnąłem
+
+
+[C12-M0682]
+===== ASSISTANT =====
+
+Hermiona zorientowała się dopiero po chwili, że tym razem James nie tylko odpoczywa z zamkniętymi oczami. Jego oddech wyrównał się, a ciężar głowy na jej ramieniu stał się zupełnie bezwładny.
+
+Na moment przestała pisać.
+
+Spojrzała na niego z boku, wyraźnie zaskoczona, po czym bardzo ostrożnie przesunęła ramię tak, żeby było mu wygodniej. Nie próbowała go budzić. Zamiast tego przysunęła pergamin trochę bardziej na drugą stronę i wróciła do notowania, wolniej niż wcześniej, żeby nie poruszać ramieniem.
+
+Ron zauważył to po jakimś czasie.
+
+Jego wzrok zatrzymał się na Jamesie opartym o Hermionę, a potem na niej. Przez sekundę wyglądał, jakby chciał coś powiedzieć, ale ostatecznie tylko zacisnął usta i odwrócił się z powrotem w stronę Binnsa.
+
+Napięcie między nim a Jamesem nadal było zbyt świeże, żeby taki widok przeszedł dla niego zupełnie obojętnie.
+
+Hermiona wychwyciła jego spojrzenie, ale nic nie skomentowała. Jedynie poprawiła pergamin i dalej notowała, pozwalając Jamesowi spać na swoim ramieniu, podczas gdy monotonny głos Binnsa wypełniał salę.
+
+
+[C12-M0683]
+===== USER =====
+
+ja spałem dalej do końca lekcji
+
+
+[C12-M0684]
+===== ASSISTANT =====
+
+Przez resztę lekcji James ani razu się nie poruszył. Hermiona, choć co jakiś czas zerkała na niego kątem oka, pozwoliła mu spać i dalej prowadziła notatki, coraz ostrożniej przewracając kartki.
+
+Binns mówił bez przerwy aż do końca zajęć. Dopiero gdy rozległ się dzwonek, zamknął swoje notatki i niemal bez pożegnania przeniknął przez tablicę.
+
+W sali natychmiast zrobiło się głośniej. Ławki zaszurały, uczniowie zaczęli pakować pergaminy i książki.
+
+Harry spojrzał w stronę Jamesa i Hermiony, ale nic nie powiedział. Ron również zerknął; tym razem jego mina była wyraźnie chłodniejsza. Nie skomentował jednak tego widoku, tylko zaczął dość energicznie wrzucać rzeczy do torby.
+
+Hermiona skończyła ostatnie zdanie, odłożyła pióro i dopiero wtedy bardzo delikatnie dotknęła Jamesa w ramię.
+
+— James… — powiedziała cicho. — Lekcja się skończyła.
+
+Nie szarpnęła nim ani nie podniosła głosu. Po prostu czekała, podczas gdy reszta klasy stopniowo wychodziła na korytarz.
+
+
+[C12-M0685]
+===== USER =====
+
+otworzyłem jedno oko i od razu powiedziałem - cudownie pachniesz....
+
+
+[C12-M0686]
+===== ASSISTANT =====
+
+Hermiona przez sekundę tylko na niego patrzyła, jakby zupełnie nie tego spodziewała się po pierwszych słowach po przebudzeniu.
+
+Potem jej policzki lekko się zaróżowiły.
+
+— Naprawdę? — szepnęła, starając się brzmieć rzeczowo, ale uśmiech szybko ją zdradził. — Przespałeś całą Historię Magii, a twoja pierwsza obserwacja po przebudzeniu dotyczy mojego zapachu?
+
+Przesunęła torbę wyżej na ramię.
+
+— To bardzo… typowe dla ciebie.
+
+Ron, stojący już kilka kroków dalej przy wyjściu, rzucił w ich stronę krótkie spojrzenie, lecz nic nie powiedział. Jego mina nadal była chłodna, a napięcie między nim a Jamesem wyraźnie nie zniknęło.
+
+Hermiona natomiast pochyliła się odrobinę bliżej i dodała ciszej:
+
+— I zanim zapytasz: tak, pozwoliłam ci spać. Wyglądałeś, jakby naprawdę tego potrzebował.
+
+
+[C12-M0687]
+===== USER =====
+
+-Jesteś kochana...powiedziałem a potem zacząłem pakować jej rzeczy a gdy skończyłem zrzuciłem jej torbę na ramię i bez słowa wziąłem ją na ręce i zacząłem nieść w stronę lochów
+
+
+[C12-M0688]
+===== ASSISTANT =====
+
+Hermiona zdążyła tylko złapać mocniej pasek torby, kiedy James nagle podniósł ją z ziemi.
+
+— James! — syknęła zaskoczona, odruchowo obejmując go jedną ręką za szyję, żeby nie stracić równowagi.
+
+Przez chwilę patrzyła na niego z mieszaniną niedowierzania i rozbawienia.
+
+— Naprawdę nie potrafisz po prostu iść obok mnie, prawda?
+
+Nie próbowała jednak zejść. Poprawiła tylko torbę, żeby nie obijała się o bok, gdy ruszyli korytarzem w stronę lochów na podwójne Eliksiry.
+
+Za nimi Harry parsknął cicho pod nosem.
+
+Ron natomiast zatrzymał wzrok na Jamesie trochę dłużej. Jego twarz od razu stężała.
+
+— On musi robić z wszystkiego przedstawienie? — mruknął, wystarczająco głośno, żeby Harry i Hermiona mogli go usłyszeć.
+
+Hermiona natychmiast obejrzała się przez ramię.
+
+— Ron.
+
+Jedno słowo wystarczyło. Nie było w nim krzyku, ale ostrzeżenie było bardzo wyraźne.
+
+Ron przewrócił oczami.
+
+— No co? Tylko mówię.
+
+— Właśnie dlatego mówię: Ron.
+
+Hermiona odwróciła się z powrotem, wyraźnie nie mając zamiaru pozwolić, żeby droga na Eliksiry zamieniła się w kolejną kłótnię.
+
+Im niżej schodzili, tym chłodniejsze stawało się powietrze. Kamienne ściany lochów były już wilgotne i ponure, a przed salą Snape’a zbierała się grupa piątoklasistów Gryffindoru i Slytherinu.
+
+Kilka osób obejrzało się na widok Hermiony niesionej przez Jamesa.
+
+Pansy uniosła brwi.
+
+Draco spojrzał raz, krótko, z cieniem rozbawienia na twarzy.
+
+— Brown — rzucił. — Rozumiem, że plecak byłby zbyt zwyczajny.
+
+Hermiona westchnęła.
+
+— Świetnie. Jeszcze jego brakowało.
+
+
+[C12-M0689]
+===== USER =====
+
+Zignorowałem go jednak i po chwili odstawiłem Hermionę na ziemie daeliaktnie całując ją w czoło i poprawiając włosy
+
+
+[C12-M0690]
+===== ASSISTANT =====
+
+Hermiona, gdy tylko jej stopy dotknęły kamiennej posadzki, poprawiła torbę na ramieniu i spojrzała na Jamesa z tym charakterystycznym półuśmiechem, który pojawiał się u niej wtedy, gdy jednocześnie chciała go zganić i nie potrafiła przestać się uśmiechać.
+
+Pocałunek w czoło przyjęła bez komentarza. Dopiero kiedy poprawił jej włosy, uniosła brew.
+
+— Wiesz, że jeszcze chwilę temu sam je rozplątałeś, prawda?
+
+Pansy prychnęła cicho gdzieś z boku, ale zajęła się rozmową z inną Ślizgonką. Draco, zignorowany, nie ponowił zaczepki; tylko rzucił Jamesowi krótkie spojrzenie i oparł się o ścianę.
+
+Ron stał kawałek dalej obok Harry’ego. Na moment spojrzał na Hermionę i Jamesa, po czym odwrócił wzrok, wyraźnie nie mając ochoty dokładać kolejnego komentarza.
+
+Hermiona poprawiła jeszcze jeden kosmyk za uchem.
+
+— Chodźmy, zanim Snape uzna, że samo stanie przed jego salą już jest przewinieniem.
+
+Jakby na potwierdzenie tych słów drzwi do pracowni otworzyły się gwałtownie.
+
+Severus Snape stanął w progu i przesunął chłodnym spojrzeniem po zebranych uczniach.
+
+— Do środka.
+
+Nie musiał mówić nic więcej. Rozmowy natychmiast ucichły, a piąty rok zaczął wchodzić do sali na pierwsze podwójne Eliksiry tego roku.
+
+
+[C12-M0691]
+===== USER =====
+
+puściłem Hermionę pierwszą i ruszyłem za nią i po chwili zająłem miejsce obok niej
+
+
+[C12-M0692]
+===== ASSISTANT =====
+
+Hermiona zajęła miejsce obok Jamesa i od razu zaczęła układać na stole podręcznik, wagę, nóż oraz pozostałe przybory. Kiedy skończyła, zerknęła na niego z boku.
+
+— Tym razem spróbuj nie przespać lekcji — szepnęła. — Snape raczej nie użyczy ci ramienia.
+
+Chwilę później drzwi zatrzasnęły się za ostatnim uczniem.
+
+Snape przeszedł między ławkami do swojego biurka. W lochu zapadła cisza niemal natychmiast.
+
+— Zanim zaczniemy — odezwał się chłodno — przypominam, że w czerwcu czekają państwa Standardowe Umiejętności Magiczne.
+
+Jego wzrok przesuwał się po klasie. Na Jamesie zatrzymał się odrobinę dłużej niż na większości uczniów, bez komentarza. Znał już jego możliwości z poprzedniego roku i nie miał powodu ponownie urządzać mu demonstracyjnego sprawdzianu.
+
+— Po tym roku część z państwa na szczęście przestanie uczęszczać na moje zajęcia. Na poziomie OWUTEM-ów przyjmuję wyłącznie uczniów osiągających najwyższe wyniki.
+
+Harry kilka ławek dalej przyjął to w milczeniu.
+
+Snape obrócił się ku tablicy i jednym ruchem różdżki pokrył ją instrukcjami.
+
+— Dzisiaj przygotują państwo Wywar Spokoju. Jest to eliksir pojawiający się na SUM-ach i wymagający znacznie większej precyzji niż większość mikstur, które warzyliście dotychczas. Nadmiar składników może wywołać głęboki, a nawet trudny do odwrócenia sen. 
+Harry Potter
++1
+
+Hermiona natychmiast wyprostowała się i zaczęła studiować zapis na tablicy.
+
+Snape wskazał otwartą już szafkę ze składnikami.
+
+— Macie półtorej godziny. Zaczynajcie.
+
+W sali niemal jednocześnie rozległo się odsuwanie stołków, brzęk wag i metalicznych narzędzi. Hermiona jeszcze raz przeczytała całą instrukcję od góry do dołu, zanim w ogóle sięgnęła po pierwszy składnik.
+
+Potem zerknęła na Jamesa.
+
+— Kamień księżycowy, syrop z ciemiernika… — mruknęła, bardziej do siebie niż do niego. — I zdecydowanie nie zamierzam dzisiaj nikogo przypadkiem uśpić.
+
+
+[C12-M0693]
+===== USER =====
+
+ja zacząłem przygotowanie bez zaglądania do instrukcji
+
+
+[C12-M0694]
+===== ASSISTANT =====
+
+Hermiona po kilku sekundach zauważyła, że James ani razu nie zerknął na tablicę.
+
+Jej pióro zatrzymało się nad pergaminem.
+
+— Ty nawet nie sprawdzasz instrukcji… — szepnęła, zerkając najpierw na niego, potem na kociołek.
+
+Nie brzmiała jakby chciała mu przeszkadzać; raczej obserwowała go z mieszaniną ciekawości i lekkiego napięcia. Zeszłoroczny poziom Jamesa na Eliksirach nie był jej obcy, ale Wywar Spokoju nie należał do mikstur, przy których drobny błąd można było po prostu zignorować.
+
+Kilka minut później Snape ruszył między ławkami.
+
+Przy Harrym zatrzymał się na chwilę dłużej, rzucił krótką, nieprzyjemną uwagę dotyczącą tempa pracy, po czym przeszedł dalej. Gdy znalazł się przy stole Jamesa i Hermiony, jego wzrok najpierw spoczął na kociołku Hermiony, potem przesunął się na stanowisko Jamesa.
+
+Dopiero wtedy zauważył brak otwartego podręcznika i pergaminu z przepisem.
+
+— Panie Brown.
+
+Hermiona automatycznie podniosła wzrok.
+
+Snape patrzył wyłącznie na Jamesa.
+
+— Zakładam, że istnieje jakiś powód, dla którego uznał pan instrukcję za zbędną.
+
+Nie było w tym jeszcze nagany. Bardziej chłodne wyzwanie — dokładnie w stylu człowieka, który pamiętał, że James w zeszłym roku rzeczywiście potrafił pracować ponad poziomem klasy, ale nie zamierzał pozwolić mu opierać się wyłącznie na reputacji.
+
+Kilka osób przy najbliższych stołach zerknęło w ich stronę.
+
+Hermiona nic nie powiedziała. Tylko obserwowała Jamesa, zostawiając odpowiedź jemu.
+
+
+[C12-M0695]
+===== USER =====
+
+kilka razy pukałem palcem wskazującym w głowę
+
+
+[C12-M0696]
+===== ASSISTANT =====
+
+Snape przez chwilę patrzył na palec stukający w skroń Jamesa, a potem jego oczy zwęziły się minimalnie.
+
+— Rozumiem.
+
+Przeniósł wzrok na kociołek.
+
+— Zatem pańska pamięć właśnie bierze pełną odpowiedzialność za zawartość tego naczynia, panie Brown.
+
+Nie kazał mu otwierać podręcznika. Zamiast tego pochylił się nieco nad stanowiskiem, jakby zapamiętywał dokładnie etap, na którym James obecnie się znajdował.
+
+— Zobaczymy, czy jest równie niezawodna, jak pan sugeruje.
+
+I ruszył dalej między ławkami.
+
+Hermiona odczekała, aż oddali się o kilka stanowisk, po czym spojrzała na Jamesa z boku. Kącik jej ust drgnął.
+
+— Ty naprawdę lubisz go prowokować do sprawdzania cię dwa razy dokładniej — szepnęła, po czym wróciła do własnego kociołka.
+
+
+[C12-M0697]
+===== USER =====
+
+szybko obróciłem się do Hermiony pocałowałem jej usta a potem równie szybko wróciłem do kociołka
+
+
+[C12-M0698]
+===== ASSISTANT =====
+
+Hermiona aż na moment przestała mieszać.
+
+Odwróciła głowę w jego stronę dopiero wtedy, gdy James już z powrotem patrzył w kociołek. Przez sekundę miała zupełnie bezradnie zaskoczoną minę, po czym policzki wyraźnie jej poczerwieniały.
+
+— James… — szepnęła ostrzegawczo, ale bez prawdziwej złości.
+
+Rozejrzała się szybko po sali, sprawdzając przede wszystkim, czy Snape tego nie zauważył. Profesor był już kilka stanowisk dalej i właśnie pochylał się nad kociołkiem jednego ze Ślizgonów.
+
+Hermiona nachyliła się minimalnie nad własną pracą.
+
+— Na Eliksirach? Przy Snape’ie? — wymamrotała. — Naprawdę wybierasz sobie miejsca…
+
+Kącik jej ust jednak zdradziecko drgnął.
+
+Po chwili wróciła do odmierzania składników, już trochę bardziej skupiona niż wcześniej.
+
+— Pilnuj kociołka, Romeo — dodała bardzo cicho.
+
+
+[C12-M0699]
+===== USER =====
+
+nie mogąc się powstrzymać lekko się zaśmiałem
+
+
+[C12-M0700]
+===== ASSISTANT =====
+
+Hermiona rzuciła mu szybkie spojrzenie znad kociołka.
+
+— Śmiej się, śmiej — szepnęła, ale sama ledwo powstrzymywała uśmiech. — Jak Snape nas przyłapie, to ty będziesz tłumaczył, dlaczego rozpraszasz mnie na jego lekcji.
+
+Niemal dokładnie w tej samej chwili po sali przeszedł chłodny głos profesora:
+
+— Czy coś pana szczególnie bawi, panie Brown?
+
+Snape stał kilka stanowisk dalej, ale jego spojrzenie już spoczywało na Jamesie.
+
+Hermiona natychmiast pochyliła się nad własnym kociołkiem, zacisnęła usta i bardzo intensywnie zaczęła udawać, że interesuje ją wyłącznie kolejność mieszania.
+
+Snape uniósł lekko brew.
+
+— Jeśli pański Wywar Spokoju okaże się równie udany jak pański humor, być może czeka nas dziś interesujący eksperyment.
+
+
+[C12-M0701]
+===== USER =====
+
+nadal z lekkim uśmiechem spytałem - a na czym będzie polegać ten eksperyment?
+
+
+[C12-M0702]
+===== ASSISTANT =====
+
+Snape zatrzymał się i spojrzał na Jamesa z tym swoim chłodnym, niemal nieruchomym wyrazem twarzy.
+
+— Na sprawdzeniu, czy uczeń zdolny do prowadzenia rozmów w trakcie warzenia równie sprawnie potrafi przewidzieć konsekwencje własnej pewności siebie.
+
+Jego wzrok przesunął się na kociołek Jamesa.
+
+— Jeśli pański wywar wyjdzie poprawnie, eksperyment zakończy się rozczarowująco.
+
+Krótka pauza.
+
+— Jeśli nie, będziemy mieli bardzo praktyczną demonstrację tego, dlaczego instrukcje istnieją.
+
+Hermiona spuściła wzrok na własny kociołek, ale po jej minie było widać, że z trudem powstrzymuje uśmiech.
+
+Snape ruszył dalej między ławkami, rzucając jeszcze przez ramię:
+
+— Proszę mnie nie zmuszać do stawiania hipotezy po raz drugi, Brown.
+
+
+[C12-M0703]
+===== USER =====
+
+-oczywiście...powiedziałem i wróciłem do ważenia a po dłuższej chwili powiedziałem do Hermiony - muszę przyznać że przez wakacje wyostrzył ci się żart....
+
+
+[C12-M0704]
+===== ASSISTANT =====
+
+Hermiona zerknęła na niego znad kociołka, mieszając dokładnie tyle razy, ile wymagał przepis.
+
+— Wyostrzył? — powtórzyła cicho. — Czyli wcześniej był tępy?
+
+Uniósł jej się kącik ust.
+
+— Uważaj, Brown. Jeszcze chwila i uznam, że to ty przez wakacje straciłeś refleks.
+
+Przez moment wyglądała, jakby zamierzała wrócić do pracy, ale dorzuciła jeszcze półgłosem:
+
+— Poza tym ktoś musiał się dostosować. Spędzam z tobą zdecydowanie za dużo czasu.
+
+Jej spojrzenie przesunęło się na jego kociołek.
+
+— I zanim zaczniesz być z siebie zbyt zadowolony: nadal pamiętam, że warzysz bez instrukcji. Jeśli zaraz coś ci wykipi, będę się śmiała pierwsza.
+
+
+[C12-M0705]
+===== USER =====
+
+-Nie był tępy tylko mniej ostry.....powiedziałem i wróciłem do ważenia a gdy skończyłem wszystkie standardowe ruchy dodałem jeszcze jeden płatek lilij wodnej
+
+
+[C12-M0706]
+===== ASSISTANT =====
+
+Hermiona uniosła brew na jego odpowiedź.
+
+— Ach, oczywiście. Mniej ostry. Ogromna różnica — szepnęła, ale uśmiech zdradzał, że ją to bawi.
+
+Chwilę później zauważyła płatek lilii wodnej opadający na powierzchnię gotowego wywaru. Jej wzrok zatrzymał się na nim na moment, lecz niczego nie skomentowała.
+
+Snape natomiast zauważył go niemal od razu.
+
+Zatrzymał się przy ich stanowisku i przez kilka sekund patrzył wyłącznie na kociołek Jamesa. Nie było w jego twarzy zdziwienia — ten zwyczaj znał już z poprzedniego roku.
+
+— Lilia wodna — powiedział cicho.
+
+Pochylił się nieco nad wywarem, uważnie obserwując jego powierzchnię.
+
+— Tym razem jeden płatek.
+
+Dopiero wtedy przeniósł spojrzenie na Jamesa.
+
+— Zakładam, Brown, że nie wybrał pan tej ilości dla estetyki.
+
+Nie brzmiało to jak pytanie człowieka, który pierwszy raz widzi nietypowy składnik. Snape doskonale pamiętał, że James dobierał liczbę płatków do konkretnej mikstury i że sam gest miał dla niego osobiste znaczenie — choć pełnego powodu nadal nie znał.
+
+Jego oczy znów zeszły na kociołek.
+
+— Więc proszę mi powiedzieć: dlaczego jeden?
+
+
+[C12-M0707]
+===== USER =====
+
+Panie profesorze w tym wypadku zmieni on zapach kolor i nawet trochę smak większa ilość mogła by wydłużyć działanie nasenne ale przecież nie o to chodzi
+
+
+[C12-M0708]
+===== ASSISTANT =====
+
+Snape przez moment patrzył na powierzchnię wywaru, potem przesunął wzrok na Jamesa.
+
+— Czyli świadomie zmienia pan właściwości drugorzędne mikstury, nie jej podstawowe działanie.
+
+Pochylił się odrobinę bliżej kociołka.
+
+— Kolor, zapach, smak… bez istotnego naruszenia właściwej dawki uspokajającej.
+
+Krótka pauza.
+
+— I słusznie zauważa pan granicę.
+
+Jego ton pozostał chłodny, ale nie było w nim kpiny.
+
+— Przy tej recepturze większa ilość mogłaby rzeczywiście przesunąć działanie w stronę nadmiernej senności. A to oznaczałoby, że zamiast zmodyfikować wywar, zmieniłby pan jego funkcję.
+
+Snape wyprostował się.
+
+— Tym razem oceniam to jako kontrolowaną modyfikację, Brown. Nie jako błąd.
+
+Hermiona zerknęła na Jamesa z boku, a w jej spojrzeniu pojawiło się wyraźne zainteresowanie.
+
+Snape odwrócił się już do następnego stanowiska, ale rzucił jeszcze przez ramię:
+
+— Proszę tylko pamiętać, że na SUM-ach egzaminatorzy będą bardziej zainteresowani recepturą niż pańskimi osobistymi podpisami.
+
+
+[C12-M0709]
+===== USER =====
+
+kiwnąłem głową a gdy był już dalej spojrzałem na Hermione - Wiesz co muszę ci kiedyś pokazać śmieszne połączenie z płatkami lili...
+
+
+[C12-M0710]
+===== ASSISTANT =====
+
+Hermiona od razu spojrzała na niego z zainteresowaniem.
+
+— „Śmieszne połączenie” w twoim wykonaniu brzmi podejrzanie — szepnęła, zerkając jeszcze raz na jego kociołek.
+
+Kącik jej ust uniósł się lekko.
+
+— Ale dobrze. Pokażesz mi.
+
+Przez moment zawahała się, po czym dodała ciszej:
+
+— Tylko najlepiej nie na czymś, co może nas oboje uśpić albo wysadzić pół lochu.
+
+Jej spojrzenie przesunęło się na pojedynczy płatek lilii w wywarze.
+
+— Zresztą… od dawna mnie ciekawi, jak dobierasz ich ilość do różnych eliksirów. Nigdy nie robisz tego przypadkowo.
+
+
+[C12-M0711]
+===== USER =====
+
+-oczywiście że nie....wyjąłem kartkę i zacząłem pisać na niej długi wzór z kilkoma niewiadomymi
+
+
+[C12-M0712]
+===== ASSISTANT =====
+
+Hermiona najpierw zerknęła na kartkę tylko przelotnie. Po kilku sekundach jednak przestała zajmować się własnym stanowiskiem i naprawdę skupiła wzrok na tym, co James zapisuje.
+
+Linia za linią pojawiały się kolejne symbole, zależności i niewiadome.
+
+— Chwila… — szepnęła.
+
+Przysunęła się odrobinę bliżej, starając się jednocześnie nie zasłaniać mu kartki.
+
+— Ty naprawdę to wyliczasz?
+
+Jej wzrok przesuwał się po wzorze coraz szybciej. Z wcześniejszego rozbawienia zostało już niewiele; teraz wyraźnie włączyła jej się czysta ciekawość.
+
+— Myślałam, że po prostu znasz właściwości lilii i na podstawie doświadczenia oceniasz, ile możesz dodać.
+
+Spojrzała na kilka niewiadomych.
+
+— A ty traktujesz recepturę jak… układ zależności.
+
+Kącik jej ust uniósł się lekko.
+
+— Wiesz, że właśnie zaczynasz przekonywać mnie, że jednak powinieneś chodzić ze mną na Numerologię?
+
+
+[C12-M0713]
+===== USER =====
+
+zignorowałem jej słowa i zacząłem tłumaczyć wszykie niewiadome pokolei
+Ok to jest liczba składników w eliksirze to ilość wody to jest ocena w skali 1-10 jak piękna jest Hermiona to jest procent szans na to że Hermiona będzie moją żoną to jest ilość uśmiechów Hermiony dzisiaj to kest ilość pocałunków które dostałem od Hermiony to jest wartość stała jaką jest wskaźnik idealności Hermiony a to jest po prostu kolejna wartość stała jak bardzo kocham Hermionę...
+
+
+[C12-M0714]
+===== ASSISTANT =====
+
+Hermiona przez pierwsze dwie niewiadome patrzyła na kartkę całkiem poważnie.
+
+Przy trzeciej powoli uniosła wzrok.
+
+Przy czwartej jej brwi poszły jeszcze wyżej.
+
+A kiedy James doszedł do „wskaźnika idealności Hermiony”, zacisnęła usta tak mocno, że przez chwilę wyglądało, jakby naprawdę walczyła ze śmiechem.
+
+— Ty jesteś niemożliwy… — wyszeptała.
+
+Spojrzała ponownie na zapisany wzór, już z wyraźnie zaróżowionymi policzkami.
+
+— Czyli stworzyłeś cały skomplikowany wzór tylko po to, żeby przemycić do niego informację, że mnie kochasz?
+
+Palcem wskazała jedną z niewiadomych.
+
+— I mam kilka zastrzeżeń metodologicznych, panie Brown. Po pierwsze: „jak piękna jest Hermiona” w skali od jednego do dziesięciu jest zmienną wysoce subiektywną.
+
+Przesunęła palec dalej.
+
+— Po drugie, prawdopodobieństwo zostania twoją żoną nie powinno znajdować się w równaniu bez danych wejściowych ode mnie.
+
+Spojrzała mu prosto w oczy, ale uśmiech już całkowicie ją zdradzał.
+
+— A po trzecie…
+
+Stuknęła paznokciem w „stałą idealności Hermiony”.
+
+— Ta wartość jest naukowo podejrzana.
+
+Przez sekundę zachowała bardzo poważną minę.
+
+— Natomiast stałej dotyczącej tego, jak bardzo mnie kochasz… chwilowo nie kwestionuję.
+
+
+[C12-M0715]
+===== USER =====
+
+niewtrzymałem i znowu zacząłem się śmiać
+
+
+[C12-M0716]
+===== ASSISTANT =====
+
+Hermiona natychmiast zasłoniła usta dłonią, bo jego śmiech bardzo szybko okazał się zaraźliwy.
+
+— Cicho… — wyszeptała, choć sama ledwo utrzymywała poważną minę. — Bo jeszcze Snape każe ci wyprowadzić dowód na tablicy.
+
+Spojrzała znowu na kartkę i pokręciła głową.
+
+— „Wskaźnik idealności Hermiony”… naprawdę.
+
+Kąciki jej ust znowu uciekły do góry.
+
+— I nawet nie próbuj mi wmówić, że to jest prawdziwa matematyka.
+
+Z przodu sali Snape podniósł wzrok znad jednego z kociołków.
+
+— Brown.
+
+Jedno słowo, wypowiedziane chłodno.
+
+Hermiona od razu spuściła wzrok na własne stanowisko, ale ramiona jeszcze przez moment lekko jej drżały od tłumionego śmiechu.
+
+
+[C12-M0717]
+===== USER =====
+
+Słucham Panie Profesorze...?
+
+
+[C12-M0718]
+===== ASSISTANT =====
+
+Snape patrzył na Jamesa przez chwilę w milczeniu.
+
+— Skoro najwyraźniej znalazł pan coś na tyle zabawnego, by przerywać własną pracę…
+
+Jego wzrok przesunął się na kartkę leżącą przy stanowisku, ale nie sięgnął po nią.
+
+— …to zastanawiam się, czy cała klasa również skorzystałaby z pańskiego odkrycia.
+
+Hermiona natychmiast spuściła wzrok na swój kociołek. Po jej zaciśniętych ustach było jednak widać, że doskonale wie, co znajduje się na kartce.
+
+Snape uniósł lekko brew.
+
+— Czy też może tym razem uda się panu zachować źródło rozbawienia dla siebie i dokończyć lekcję bez kolejnego występu?
+
+
+[C12-M0719]
+===== USER =====
+
+-Szanowny Panie Profesorze jeśli pan pozwoli to wybiorę tą drugą opcję
+
+
+[C12-M0720]
+===== ASSISTANT =====
+
+Snape zmierzył Jamesa długim, chłodnym spojrzeniem.
+
+— Rozsądnie.
+
+Przesunął wzrok na jego kociołek, potem na kartkę.
+
+— Proszę więc udowodnić, że potrafi pan również wybrać właściwy moment na milczenie.
+
+Hermiona natychmiast pochyliła się nad swoim stanowiskiem, ale kącik ust znowu jej drgnął.
+
+Snape ruszył dalej między ławkami.
+
+Dopiero kiedy odszedł na bezpieczną odległość, Hermiona szepnęła:
+
+— „Szanowny Panie Profesorze”… naprawdę balansujesz na bardzo cienkiej granicy.
+
+
+[C12-M0721]
+===== USER =====
+
+-Szanowna Panno Granger....jest Pani najinteligentniejszą kobietą....w tej części sali...powiedziałem z uśmiechem
+
+
+[C12-M0722]
+===== ASSISTANT =====
+
+Hermiona powoli odwróciła głowę w jego stronę.
+
+Przez sekundę wyglądała, jakby zamierzała przyjąć komplement z pełną godnością.
+
+Potem dotarła do niej końcówka.
+
+— …w tej części sali?
+
+Zmrużyła oczy.
+
+— Panie Brown, właśnie w bardzo elegancki sposób powiedział mi pan coś, co może oznaczać absolutnie wszystko albo absolutnie nic.
+
+Przesunęła spojrzeniem po najbliższych ławkach, a potem znowu spojrzała na Jamesa.
+
+— Mam nadzieję, że pańska definicja „tej części sali” obejmuje przynajmniej więcej niż jedno krzesło.
+
+Kącik jej ust drgnął.
+
+— Bo inaczej ten komplement będzie musiał zostać poddany ponownej ocenie.
+
+
+[C12-M0723]
+===== USER =====
+
+znowu lekko się usmiechnąłem i pokręciłem głową - zdecydowanie wszystko
+
+
+[C12-M0724]
+===== ASSISTANT =====
+
+Hermiona patrzyła na niego jeszcze przez moment z udawaną surowością.
+
+— Zdecydowanie wszystko… — powtórzyła cicho.
+
+Potem zerknęła na swoją kartkę, na kociołek, i znowu na Jamesa.
+
+— W takim razie przyjmę ten komplement.
+
+Jej policzki nadal były lekko zaróżowione.
+
+— Chociaż nadal uważam, że najpierw próbowałeś się z tego wykręcić.
+
+Po chwili dodała ciszej:
+
+— Ale możesz mówić dalej. Tym razem ci nie przeszkodzę.
+
+
+[C12-M0725]
+===== USER =====
+
+znowu się usmiechnąłem i w tej chwili zadzwonił dzwonek
+
+
+[C12-M0726]
+===== ASSISTANT =====
+
+Dzwonek przeciął chłodną ciszę lochu.
+
+Kilka osób od razu sięgnęło po torby, ale Snape nawet nie drgnął.
+
+— Nikt nie wychodzi.
+
+Ruch w sali zamarł.
+
+Snape przeszedł przed pierwszym rzędem.
+
+— Jedna podpisana próbka na moim biurku. Kociołki opróżnić, stanowiska pozostawić w stanie, który nie obraża elementarnych zasad higieny. Dopiero potem mogą państwo udać się na obiad.
+
+Hermiona westchnęła cicho i zaczęła porządkować swoje miejsce.
+
+— Wiedziałam, że dzwonek go nie pokona — mruknęła.
+
+Kilka ławek dalej Ron odkorkował fiolkę trochę energiczniej, niż było to konieczne. Odkąd weszli do lochów, właściwie się do Jamesa nie odzywał; chłód między nimi nadal wisiał w powietrzu.
+
+Hermiona opisała swoją próbkę starannym pismem, po czym zerknęła na kartkę Jamesa z absurdalnym równaniem, wciąż leżącą obok jego stanowiska.
+
+Jej usta ponownie drgnęły.
+
+— Schowaj to — szepnęła. — Zanim Snape odkryje nową gałąź Numerologii poświęconą mojej „idealności”.
+
+Snape tymczasem stał przy biurku i przyjmował kolejne fiolki, każdą oglądając pod światło. Gdy pierwsza fala uczniów zaczęła wychodzić, Draco minął ich stanowisko bez zaczepki, rzucając jedynie krótkie spojrzenie na kociołek Jamesa.
+
+Hermiona zarzuciła torbę na ramię i zaczekała przy ławce, gotowa ruszyć na obiad, gdy tylko James skończy ze swoim stanowiskiem.
+
+
+[C12-M0727]
+===== USER =====
+
+ja też zostawiłem fiolkę na jego biurku a potem wróciłem do Hermiony i po chwili ruszyliśmy do wyjścia - Więc czy moja Kochana i urocza Hermiona jezt bardzo głodna czy tylko trochę?
+
+
+[C12-M0728]
+===== ASSISTANT =====
+
+Hermiona poprawiła pasek torby na ramieniu i spojrzała na niego z boku.
+
+— Po podwójnych Eliksirach? — mruknęła. — Bardzo.
+
+Uśmiechnęła się lekko.
+
+— I zanim coś wymyślisz: tak, zamierzam normalnie dojść do Wielkiej Sali o własnych siłach.
+
+Na korytarzu przed lochami część uczniów już rozchodziła się w stronę schodów. Harry i Ron byli kawałek przed nimi; Ron obejrzał się krótko przez ramię, ale kiedy zobaczył Jamesa obok Hermiony, od razu odwrócił wzrok i ruszył dalej.
+
+Hermiona zauważyła to, lecz niczego nie komentowała.
+
+— A ty? — zapytała. — Głodny czy nadal żywisz się wyłącznie kawą, bezczelnością i komplementami?
+
+
+[C12-M0729]
+===== USER =====
+
+-nie, chciałem cię na chwilę porwać ale skoro jesteś bardzo głodna to odpada
+
+
+[C12-M0730]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego z boku, wyraźnie zaciekawiona.
+
+— „Porwać”? — powtórzyła, unosząc brew. — To brzmi jak informacja, którą należało podać zanim powiedziałam, że jestem bardzo głodna.
+
+Po chwili uśmiechnęła się lekko.
+
+— Ale dobrze. Najpierw jedzenie.
+
+Przeszli kilka kolejnych stopni, a Hermiona dodała:
+
+— Zresztą po obiedzie mamy Runy, więc jeśli planowałeś jakąś wielką tajną wyprawę, to masz dość kiepskie wyczucie czasu.
+
+Spojrzała na niego jeszcze raz, tym razem już wyraźnie rozbawiona.
+
+— Chociaż teraz oczywiście będę się zastanawiać, gdzie chciałeś mnie porwać.
+
+
+[C12-M0731]
+===== USER =====
+
+w pewnym momencie chwyciłem ją mocniej za rękę i poprowadziłem do bocznego korytarza i delikatnie przycisnąłem ją do ściany - na przykład tu...powiedziałem i bardzo delikatnie pocałowałem jej usta
+
+
+[C12-M0732]
+===== ASSISTANT =====
+
+Hermiona wydała z siebie krótkie, zaskoczone westchnienie, kiedy znalazła się plecami przy chłodnej kamiennej ścianie.
+
+Przez sekundę patrzyła na Jamesa szeroko otwartymi oczami, ale gdy pocałunek pozostał delikatny, napięcie szybko z niej zeszło. Odpowiedziała krótko i równie lekko, po czym odsunęła twarz ledwie o kilka centymetrów.
+
+— A więc to miałeś na myśli przez „porwać” — szepnęła, już z wyraźnym uśmiechem.
+
+Policzki miała lekko zaróżowione.
+
+— Bardzo sprytne.
+
+Po chwili stuknęła go palcem w pierś.
+
+— Ale nadal jestem bardzo głodna.
+
+Kącik jej ust uniósł się jeszcze bardziej.
+
+— Masz szczęście, że ten argument był całkiem przekonujący.
+
+
+[C12-M0733]
+===== USER =====
+
+-10 minut?
+
+
+[C12-M0734]
+===== ASSISTANT =====
+
+Hermiona spojrzała mu prosto w oczy i przez chwilę udawała, że naprawdę to rozważa.
+
+— Dziesięć minut… — powtórzyła cicho.
+
+Potem zerknęła w stronę korytarza prowadzącego do Wielkiej Sali.
+
+— Dobrze. Dziesięć.
+
+Uniósł jej się kącik ust.
+
+— Ale potem idziemy jeść. Bez negocjacji, bez „jeszcze minutki” i bez żadnych twoich matematycznych sztuczek z czasem.
+
+Po chwili dodała ciszej:
+
+— I najlepiej wykorzystaj je sensownie, skoro już tak walczyłeś o ten przedział czasowy.
+
+
+[C12-M0735]
+===== USER =====
+
+kiwnąłem głową i zbliżyłem usta do jej szyjki ale jeszcze jej nimi niedtknakem zakiatt tego zacząłem jeździć po jej szyji nosem przy tym mocno sue zaciągając jej zapachem i oddychając na jej szyję
+
+
+[C12-M0736]
+===== ASSISTANT =====
+
+Hermiona drgnęła lekko, kiedy poczuła jego oddech na szyi.
+
+— James… — szepnęła, bardziej zaskoczona niż protestująca.
+
+Przez moment stała nieruchomo przy ścianie, po czym uniosła ramię odrobinę, jakby odruchowo reagując na łaskotanie.
+
+— To strasznie łaskocze… — dodała cicho, z lekkim uśmiechem w głosie.
+
+Nie odsunęła się jednak. Po chwili tylko zerknęła w bok, w stronę korytarza, upewniając się, że nikt właśnie nie nadchodzi.
+
+— I przypominam… — mruknęła jeszcze ciszej. — Dziesięć minut. Potem naprawdę idziemy jeść.
+
+
+[C12-M0737]
+===== USER =====
+
+-Pozwolisz? *Spytałem nadal jeżdżąc
+
+
+[C12-M0738]
+===== ASSISTANT =====
+
+Hermiona zerknęła na niego z boku, nadal lekko zaróżowiona.
+
+— Jeden — szepnęła cicho. — Delikatny.
+
+Po chwili dodała z odrobiną rozbawienia:
+
+— I nie próbuj potem negocjować, że „jeden” oznaczał coś innego.
+
+
+[C12-M0739]
+===== USER =====
+
+zrobiłem smutną minę i odsunąłem się trochę aby spojrzeć jej w oczy - czy to jakaś kara to już kolejny raz jak zgadasz się tylko na jeden?
+
+
+[C12-M0740]
+===== ASSISTANT =====
+
+Hermiona od razu złagodniała, widząc jego minę.
+
+— Nie, głuptasie. To nie jest żadna kara.
+
+Przechyliła lekko głowę, patrząc mu prosto w oczy.
+
+— Po prostu jeden znaczy jeden. Jesteśmy na szkolnym korytarzu, za chwilę mamy iść na obiad, a ja nie zamierzam potem przez pół dnia zastanawiać się, czy ktoś nas widział.
+
+Po chwili kącik jej ust uniósł się lekko.
+
+— I poza tym… to, że czasem pozwalam ci tylko na jeden, nie oznacza, że mi się nie podoba.
+
+Stuknęła go delikatnie palcem w pierś.
+
+— Oznacza tylko, że twoja dziewczyna potrafi powiedzieć „jeden” i naprawdę mieć na myśli jeden, panie Brown.
+
+Zawiesiła głos na moment.
+
+— Więc przestań robić tę tragiczną minę. Nadal masz zgodę na tego jednego.
+
+
+[C12-M0741]
+===== USER =====
+
+Ale ja bym chciał dużo więcej...
+
+
+[C12-M0742]
+===== ASSISTANT =====
+
+Hermiona przez moment patrzyła mu w oczy, a potem jej mina złagodniała.
+
+— Wiem — odpowiedziała cicho. — I nawet trochę mnie bawi, jak bardzo próbujesz negocjować.
+
+Kącik jej ust uniósł się.
+
+— Ale ja chcę jednego. Więc dostaniesz jednego.
+
+Po chwili dodała, już z cieplejszym uśmiechem:
+
+— Za to jeśli po tych dziesięciu minutach nadal będziesz potrzebował „dużo więcej”, możesz dostać dużo więcej przytulania, pocałunków w policzek i trzymania mnie za rękę. Tego nie reglamentuję aż tak surowo.
+
+Przechyliła lekko głowę.
+
+— Uczciwa oferta?
+
+
+[C12-M0743]
+===== USER =====
+
+nie odpowiedziałem tylko zamiast tego przysunąłem usta do jej szyjki i po chwili delaktnie ale długo ją pocałowałem
+
+
+[C12-M0744]
+===== ASSISTANT =====
+
+Hermiona na moment przymknęła oczy i pozwoliła mu dokończyć ten jeden pocałunek, na który wcześniej się zgodziła.
+
+Kiedy się skończył, spojrzała na niego z lekko zaróżowionymi policzkami i uśmiechnęła się.
+
+— I właśnie dlatego powiedziałam jeden — mruknęła cicho. — Bo wiedziałam, że postarasz się zrobić z niego najdłuższy „jeden” w historii Hogwartu.
+
+Delikatnie poprawiła kołnierzyk szaty.
+
+— Ale umowa dotrzymana. Jeden.
+
+Po chwili dodała z rozbawieniem:
+
+— A teraz zostało ci jeszcze jakieś dziewięć minut, panie negocjatorze.
+
+
+[C12-M0745]
+===== USER =====
+
+odsunąłem się trochę spojrzałem jej w oczy a potem bardzo delaktnie złapałem za szyję i zacząłem delaktnie po niej jeździć kciukami
+
+
+[C12-M0746]
+===== ASSISTANT =====
+
+Hermiona odruchowo uniosła brodę odrobinę, czując jego dłonie przy szyi, ale kiedy dotyk pozostał lekki i bez nacisku, rozluźniła się.
+
+Przez chwilę patrzyła mu prosto w oczy.
+
+— Tylko delikatnie — szepnęła.
+
+Po chwili kącik jej ust uniósł się nieznacznie.
+
+— I wiesz… jeśli po prostu chciałeś mnie zatrzymać blisko, mogłeś równie dobrze złapać mnie za rękę.
+
+Mimo słów nie odsunęła się. Jedynie położyła własną dłoń na jego nadgarstku, bardziej uspokajająco niż ostrzegawczo.
+
+— Nadal masz te swoje dziesięć minut, Brown. Nie musisz próbować wykorzystać wszystkich naraz.
+
+
+[C12-M0747]
+===== USER =====
+
+kiwnąłem głową a potem połączyłem nasze usta w najpierw długim delaktnym muskanym pocałunku
+
+
+[C12-M0748]
+===== ASSISTANT =====
+
+Hermiona odpowiedziała na pocałunek równie delikatnie, bez pośpiechu. Jedną dłoń położyła lekko na jego ramieniu, drugą nadal trzymając przy sobie.
+
+Kiedy po dłuższej chwili ich usta się rozdzieliły, została blisko i spojrzała mu w oczy.
+
+— Ten sposób wykorzystania dziesięciu minut podoba mi się zdecydowanie bardziej niż twoje negocjacje — szepnęła z lekkim uśmiechem.
+
+Po chwili zerknęła w stronę wejścia do bocznego korytarza, upewniając się, że nadal są sami.
+
+— Ale uprzedzam, Brown… czas naprawdę płynie. A ja nadal pamiętam o obiedzie.
+
+Mimo to nie ruszyła się jeszcze od ściany.
+
+
+[C12-M0749]
+===== USER =====
+
+znowu połączyłem nasze usta w długim delaktnym pocałunku jednocześnie nadal jeździłem po jej szyji
+
+
+[C12-M0750]
+===== ASSISTANT =====
+
+Hermiona odpowiedziała na pocałunek krótko i delikatnie, ale po chwili odsunęła twarz odrobinę, nadal pozostając blisko.
+
+Jej dłoń przesunęła się na nadgarstek Jamesa i lekko odciągnęła jego rękę od szyi.
+
+— Całowanie: tak — szepnęła z lekkim uśmiechem. — Ale z szyją już wystarczy na dziś, dobrze?
+
+Przez sekundę patrzyła mu w oczy, po czym musnęła jego policzek opuszkami palców.
+
+— Poza tym miałeś mnie „porwać” na dziesięć minut, a nie sprawić, żebym całkiem zapomniała o obiedzie.
+
+Z dalszej części korytarza dobiegły kroki kilku uczniów, coraz wyraźniejsze.
+
+Hermiona zerknęła w tamtą stronę.
+
+— I chyba właśnie kończy nam się prywatność.
+
+
+[C12-M0751]
+===== USER =====
+
+spojrzałem na nią lekko smutny - Na pewno wszystko ok?
+
+
+[C12-M0752]
+===== ASSISTANT =====
+
+Hermiona od razu pokręciła głową.
+
+— Tak. Naprawdę wszystko w porządku.
+
+Jej dłoń nadal spoczywała lekko na jego nadgarstku, ale nie trzymała go mocno.
+
+— Po prostu z szyją mam już dość na teraz. To nie znaczy, że zrobiłeś coś złego ani że nie chcę być blisko ciebie.
+
+Spojrzała mu prosto w oczy, trochę poważniej.
+
+— Powiedziałam ci, czego chcę. Ty się zatrzymałeś. Więc wszystko jest tak, jak powinno być.
+
+Po chwili jej mina zmiękła i wrócił lekki uśmiech.
+
+— Nadal możesz mnie całować. I nadal masz mnie jeszcze przez… — zerknęła szybko w stronę korytarza — chyba zdecydowanie mniej niż dziesięć minut.
+
+Musnęła palcami jego policzek.
+
+— Nie rób tylko takiej smutnej miny za każdym razem, kiedy czegoś nie chcę, bo jeszcze zacznę podejrzewać, że próbujesz mnie nią przekupić.
+
+
+[C12-M0753]
+===== USER =====
+
+znów połączyłem nasze usta w długim delaktnym pocałunku jednocześnie szepcząc w jej usta - po prostu przed wakacjami to lubiłaś...
+
+
+[C12-M0754]
+===== ASSISTANT =====
+
+Hermiona została blisko jeszcze przez chwilę po pocałunku. Na jego szept jej spojrzenie od razu zmiękło.
+
+— Lubiłam — odpowiedziała równie cicho. — I nadal lubię.
+
+Przesunęła palcami lekko po jego policzku.
+
+— Po prostu dzisiaj nie mam ochoty na więcej z szyją. To wszystko.
+
+Kącik jej ust uniósł się trochę.
+
+— Nie szukaj od razu drugiego dna, James.
+
+Po chwili sama musnęła delikatnie jego usta.
+
+— Całować mnie nadal możesz. Przecież nigdzie nie uciekam.
+
+
+[C12-M0755]
+===== USER =====
+
+pokiwałem głową i delikatnie chwyciłem ją w talii i tym razem tylko połączyłem nasze czoła
+
+
+[C12-M0756]
+===== ASSISTANT =====
+
+Hermiona od razu rozluźniła ramiona, kiedy ich czoła się zetknęły.
+
+Przez chwilę po prostu została tak blisko niego, już bez żartów i negocjowania czegokolwiek. Jej dłonie spoczęły lekko na jego przedramionach.
+
+— Tak jest dobrze — szepnęła.
+
+Po chwili uśmiechnęła się odrobinę.
+
+— Wiesz… czasem naprawdę nie musisz niczego więcej wymyślać.
+
+Z głównego korytarza znów dobiegły głosy i kroki uczniów zmierzających na obiad. Hermiona zerknęła tylko kątem oka w tamtą stronę, ale jeszcze przez moment nie odsunęła czoła.
+
+— A teraz chyba naprawdę powinniśmy iść — dodała cicho. — Zanim moje „bardzo głodna” zamieni się w „nieznośna”.
+
+
+[C12-M0757]
+===== USER =====
+
+kiwnąłem głową chwyciłem za rękę i popraw działem do Wielkiej Sali na obiad
+
+
+[C12-M0758]
+===== ASSISTANT =====
+
+Hermiona szła obok niego, trzymając go za rękę. Kiedy weszli do Wielkiej Sali, od razu spojrzała w stronę stołów, a potem na Jamesa.
+
+— Dobrze — powiedziała z udawaną stanowczością. — Teraz realizujemy najważniejszy punkt naszego planu: jedzenie.
+
+Przy stole Gryffindoru Harry i Ginny byli już na swoich miejscach. Ron również tam siedział; gdy zauważył Jamesa i Hermionę wchodzących razem za rękę, jego spojrzenie zatrzymało się na nich przez moment, po czym wrócił do talerza. Nie odezwał się.
+
+Hermiona zauważyła go, ale nie puściła dłoni Jamesa.
+
+Zatrzymała się na chwilę pomiędzy kierunkiem prowadzącym do stołu Gryffindoru a Slytherinu i spojrzała na niego pytająco.
+
+— No dobrze, panie Brown. Tym razem u mnie czy u ciebie?
+
+Kącik jej ust lekko się uniósł.
+
+— I przypominam: wybór stołu nie zmienia faktu, że zamierzam naprawdę zjeść obiad.
+
+
+[C12-M0759]
+===== USER =====
+
+U ciebie
+
+
+[C12-M0760]
+===== ASSISTANT =====
+
+Hermiona uśmiechnęła się i bez wahania ruszyła z Jamesem w stronę stołu Gryffindoru.
+
+— Wiedziałam — mruknęła z lekkim rozbawieniem.
+
+Zajęła swoje zwykłe miejsce niedaleko Harry’ego i Ginny. Ron siedział po drugiej stronie; kiedy James usiadł obok Hermiony, spojrzał na niego krótko, ale nie powiedział ani słowa.
+
+Hermiona od razu nałożyła sobie porcję obiadu.
+
+— I teraz — powiedziała, chwytając za widelec — przez najbliższe kilka minut naprawdę zamierzam jeść.
+
+Ginny spojrzała na nią, potem na Jamesa.
+
+— Brzmi, jakbyś musiała to specjalnie zaznaczyć.
+
+Hermiona rzuciła jej krótkie spojrzenie.
+
+— Muszę.
+
+Harry tylko uśmiechnął się lekko pod nosem i wrócił do swojego talerza.
+
+Ron natomiast jadł w milczeniu. Napięcie między nim a Jamesem nadal było wyczuwalne, ale tym razem nie szukał zaczepki.
+
+
+[C12-M0761]
+===== USER =====
+
+zająłem miejsce obok niej i też nałożyłem sobie jedzenie i zacząłem jeść
+
+
+[C12-M0762]
+===== ASSISTANT =====
+
+Hermiona od razu zabrała się za jedzenie z wyraźnie większym zaangażowaniem niż wcześniej. Przez pierwszą chwilę rzeczywiście nic nie mówiła, jakby zamierzała udowodnić, że jej wcześniejsze ostrzeżenie o głodzie nie było przesadą.
+
+Dopiero po kilku kęsach zerknęła na Jamesa z boku.
+
+— Widzisz? — powiedziała cicho. — Da się spędzić ze mną kilka minut i nie odciągać mnie od jedzenia.
+
+Ginny, siedząca kawałek dalej, parsknęła.
+
+— Daj mu czas.
+
+Hermiona przewróciła oczami, ale uśmiechnęła się i wróciła do obiadu.
+
+Ron nadal siedział po drugiej stronie stołu. Nie włączał się do rozmowy; kilka razy jego wzrok przesunął się w stronę Jamesa, ale za każdym razem szybko wracał do talerza albo Harry’ego.
+
+Po paru minutach Hermiona zerknęła na swój plan leżący obok talerza.
+
+— Potem Runy — przypomniała. — Czyli pierwszy fakultet razem w tym roku.
+
+Kącik jej ust lekko się uniósł.
+
+— Jestem ciekawa, czy tam też zamierzasz robić wszystko z pamięci i drażnić nauczyciela.
+
+
+[C12-M0763]
+===== USER =====
+
+kiwnąłem głową -tak
+
+
+[C12-M0764]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego przez sekundę, po czym parsknęła cicho.
+
+— Przynajmniej jesteś konsekwentny.
+
+Pokręciła głową i wróciła do jedzenia.
+
+— Tylko błagam, nie zaczynaj pierwszych Run od udowadniania profesor Babbling, że podręcznik jest dla słabszych uczniów.
+
+Po chwili zerknęła na niego z ukosa.
+
+— Chociaż… znając ciebie, jeśli znów coś zrobisz z pamięci, to pewnie jeszcze będziesz wyglądał na zdziwionego, że nauczyciel chce sprawdzić, czy naprawdę wiesz, co robisz.
+
+Kącik jej ust lekko się uniósł.
+
+— Ja zamierzam na tych zajęciach normalnie się uczyć. Spróbuj chociaż przez pierwsze dziesięć minut nie robić niczego, przez co profesor zapamięta nasze nazwiska razem.
+
+Profesor Bathsheda Babbling jest kanonicznie nauczycielką Starożytnych Run w okresie szkolnym Hermiony. 
+harrypotter.com
++1
+
+
+[C12-M0765]
+===== USER =====
+
+Dobrze postaram się żeby zapamiętała tylko moje
+
+
+[C12-M0766]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego znad talerza i przez chwilę utrzymywała bardzo poważną minę.
+
+— Och, tego akurat się obawiałam.
+
+Po chwili uśmiechnęła się.
+
+— Dobrze. Jeśli profesor Babbling ma zapamiętać tylko jedno nazwisko, to postaraj się przynajmniej, żeby nie było ono zapisane obok słów „szlaban do odwołania”.
+
+Ginny parsknęła śmiechem, ale Hermiona już wróciła do jedzenia.
+
+— I nie licz na to, że będę cię ratować, jeśli sam zaczniesz. Mogę być twoją dziewczyną i jednocześnie uznać, że zasłużyłeś.
+
+
+[C12-M0767]
+===== USER =====
+
+kiwnąłem głową i skupiłem się na jedzeniu
+
+
+[C12-M0768]
+===== ASSISTANT =====
+
+Przez kilka następnych minut przy stole zrobiło się spokojniej. Hermiona również skupiła się na obiedzie, od czasu do czasu tylko zerkając na plan leżący obok talerza.
+
+Harry rozmawiał cicho z Ginny. Ron siedział po drugiej stronie i trzymał się głównie rozmowy z Harrym; ani razu nie zwrócił się bezpośrednio do Jamesa.
+
+Hermiona skończyła chwilę później, odstawiła kielich i zaczęła zbierać swoje rzeczy.
+
+— Dobrze… — mruknęła, sprawdzając godzinę. — Jeżeli nie chcemy zaczynać pierwszych Run od spóźnienia, powinniśmy zaraz ruszać.
+
+Wsadziła plan do torby i spojrzała na Jamesa.
+
+— Gotowy na realizację swojego ambitnego planu, żeby profesor Babbling zapamiętała wyłącznie twoje nazwisko? — zapytała z lekkim uśmiechem.
+
+
+[C12-M0769]
+===== USER =====
+
+-jasne...powiedziałem i tym razem to ja poprowadziłem ją
+
+
+[C12-M0770]
+===== ASSISTANT =====
+
+Hermiona ruszyła razem z nim, poprawiając torbę na ramieniu.
+
+— No dobrze — mruknęła z lekkim uśmiechem. — Prowadź, skoro dzisiaj postanowiłeś przejąć nawigację.
+
+Po drodze korytarze były jeszcze pełne uczniów wracających z obiadu. Im bliżej byli sali Starożytnych Run, tym więcej pojawiało się piątoklasistów z opasłymi słownikami runicznymi pod pachą.
+
+Hermiona szła obok Jamesa i po chwili zerknęła na niego podejrzliwie.
+
+— I pamiętam twoją obietnicę. Profesor ma zapamiętać twoje nazwisko, nie nasze.
+
+Kiedy weszli do sali, większość miejsc była jeszcze wolna. Na tablicy znajdował się już zestaw kilku run wraz z krótkim fragmentem tekstu przeznaczonym najwyraźniej do tłumaczenia.
+
+Hermiona od razu wybrała miejsce i zaczęła wyjmować książki.
+
+— O, dobrze… — powiedziała ciszej, patrząc na tablicę. — Zaczynamy od tłumaczenia.
+
+Profesor Babbling stała przy swoim biurku, czekając aż ostatni uczniowie zajmą miejsca.
+
+Hermiona spojrzała na Jamesa.
+
+— Masz jeszcze około trzydziestu sekund, żeby zachowywać się wzorowo. Potem zaczynam liczyć.
+
+
+[C12-M0771]
+===== USER =====
+
+zająłem miejsce obok Hermiony
+
+
+[C12-M0772]
+===== ASSISTANT =====
+
+Hermiona usiadła obok niego i niemal od razu otworzyła podręcznik oraz wyjęła pergamin.
+
+— Dobrze — szepnęła, zerkając na Jamesa. — Zegar ruszył. Pierwsze dziesięć minut bez katastrofy.
+
+Profesor Babbling zaczekała, aż ostatnie szepty ucichną, po czym stanęła przed tablicą.
+
+— Piąty rok oznacza koniec prostego rozpoznawania znaków — zaczęła spokojnym głosem. — Na SUM-ach nikt nie będzie zainteresowany tym, czy potraficie powiedzieć, jak nazywa się runa. Macie rozumieć, co oznacza w kontekście.
+
+Wskazała zapisany na tablicy fragment.
+
+— Jedna runa może zmienić znaczenie całego zdania. Dlatego dzisiaj zaczniemy od tłumaczenia krótkiego tekstu, w którym celowo umieszczono kilka znaków o bardzo podobnych formach.
+
+Hermiona od razu pochyliła się nad pergaminem.
+
+Babbling machnęła różdżką i pod tekstem pojawiło się polecenie:
+
+Przetłumacz fragment i zaznacz miejsca, w których alternatywne odczytanie runy zmieniłoby znaczenie zdania.
+
+— Pracujecie samodzielnie — dodała profesor. — Dwadzieścia minut. Potem porównamy tłumaczenia.
+
+Starożytne Runy faktycznie opierały się przede wszystkim na odczytywaniu i tłumaczeniu dawnych zapisów; właśnie tego rodzaju umiejętność pojawiała się później na SUM-ie Hermiony. 
+Harry Potter Lexicon
++1
+
+Hermiona przeczytała pierwszą linię, a potem zerknęła na Jamesa.
+
+— I pamiętaj — szepnęła. — Miałam nie zostać współsprawczynią twojego debiutu.
+
+
+[C12-M0773]
+===== USER =====
+
+ja zacząłem czytać od razu tłumaczyć i zaznaczać
+
+
+[C12-M0774]
+===== ASSISTANT =====
+
+James od razu przeszedł do pracy. Kolejne linijki tłumaczenia pojawiały się na pergaminie, a przy znakach mogących zmieniać sens zdania zaczęły pojawiać się oznaczenia.
+
+Hermiona przez pierwsze minuty pilnowała własnego tekstu, ale w końcu zerknęła kątem oka na jego pergamin. Jej spojrzenie przesunęło się po kilku liniach i zatrzymało na jednym z zaznaczonych miejsc.
+
+— Hm… — mruknęła cicho.
+
+Spojrzała ponownie na tablicę, jakby sama sprawdzała tę samą runę, po czym wróciła do swojej pracy. Tym razem z wyraźnie większą uwagą na to, co robi James.
+
+Po kilku minutach profesor Babbling ruszyła między ławkami. Nie zatrzymywała się długo — zerkała na postępy, czasem wskazywała komuś błędnie rozpoznany znak, ale przeważnie pozwalała uczniom samodzielnie dojść do rozwiązania.
+
+Gdy znalazła się przy ich ławce, najpierw spojrzała na pergamin Hermiony, a następnie na pracę Jamesa.
+
+Zatrzymała się.
+
+— Brown?
+
+Przesunęła palcem nad jedną z zaznaczonych przez niego run, nie dotykając pergaminu.
+
+— Dlaczego zaznaczył pan właśnie tę jako miejsce niejednoznaczne?
+
+Hermiona podniosła wzrok znad własnego tłumaczenia, ale nic nie powiedziała. Profesor patrzyła już wyłącznie na Jamesa, czekając na jego uzasadnienie.
+
+
+[C12-M0775]
+===== USER =====
+
+Bo to runa kluczowa zmienia sens dwóch poprzednich
+
+
+[C12-M0776]
+===== ASSISTANT =====
+
+Profesor Babbling spojrzała jeszcze raz na wskazane miejsce, potem na dwa poprzedzające znaki.
+
+— Właśnie.
+
+Lekko stuknęła palcem nad pergaminem.
+
+— Sama runa nie jest szczególnie trudna. Problem polega na tym, że tutaj określa sposób, w jaki należy odczytać dwie poprzednie. Jeśli przyjmie pan drugie możliwe znaczenie, nie zmienia pan jednego słowa. Zmienia pan sens całego fragmentu.
+
+Wyprostowała się i przez moment przyglądała się Jamesowi.
+
+— Dobrze zauważone, Brown.
+
+Po czym ruszyła do następnej ławki.
+
+Hermiona poczekała, aż profesor odejdzie kilka kroków, i zerknęła na zaznaczenie Jamesa, potem na własny pergamin.
+
+— Dobra… — szepnęła. — To akurat zauważyłeś szybciej ode mnie.
+
+Zmrużyła lekko oczy, sprawdzając jeszcze raz oba warianty tłumaczenia.
+
+— I nie, nie przyzwyczajaj się do tego zdania.
+
+Kącik jej ust jednak lekko się uniósł, po czym wróciła do pracy.
+
+
+[C12-M0777]
+===== USER =====
+
+-hmm... obawia się hermiono że ty jesteś mądrzejsza i bardziej inteligentna ale ja mam większą wiedzę...
+
+
+[C12-M0778]
+===== ASSISTANT =====
+
+Hermiona zatrzymała pióro i spojrzała na niego z wyraźnym zainteresowaniem.
+
+— Och? — szepnęła. — Większą wiedzę?
+
+Uniosła brew, a w jej oczach pojawiło się natychmiast to charakterystyczne, rywalizacyjne błyszczenie.
+
+— To bardzo odważne twierdzenie, panie Brown.
+
+Zerknęła na jego pergamin, potem na swój.
+
+— Mogę się zgodzić, że w pewnych dziedzinach wiesz więcej ode mnie. Zwłaszcza w tych wszystkich rzeczach, których nauczyli cię rodzice i których nie ma w szkolnych podręcznikach.
+
+Przechyliła lekko głowę.
+
+— Ale jeśli właśnie próbujesz powiedzieć, że masz ogólnie większą wiedzę niż ja…
+
+Kącik jej ust uniósł się zaczepnie.
+
+— …to chyba właśnie znalazłeś sposób, żebym przez najbliższy rok potraktowała to jako osobiste wyzwanie.
+
+Po czym wróciła do tłumaczenia.
+
+— Ostrzegałam. Nie należy prowokować dziewczyny, która dla przyjemności czyta podręczniki do przodu.
+
+
+[C12-M0779]
+===== USER =====
+
+-Może zrobimy mały zakład....
+
+
+[C12-M0780]
+===== ASSISTANT =====
+
+Hermiona od razu uniosła wzrok znad pergaminu.
+
+— Zakład? — powtórzyła cicho.
+
+Po jej minie było widać, że właśnie trafił w coś, czego raczej nie odpuści. 
+Harry Potter
++1
+
+— Dobrze. Słucham.
+
+Przysunęła lekko swój pergamin, opierając łokieć o stół.
+
+— Tylko żadnych zasad wymyślanych po fakcie, kiedy zaczniesz przegrywać.
+
+Kącik jej ust drgnął.
+
+— O co się zakładamy?
+
+
+[C12-M0781]
+===== USER =====
+
+No właśnie..... może ty coś wymyśl
+
+
+[C12-M0782]
+===== ASSISTANT =====
+
+Hermiona przestała pisać na chwilę i naprawdę się zastanowiła.
+
+— Dobrze… skoro ty twierdzisz, że masz większą wiedzę, a ja podobno jestem „mądrzejsza”, to zróbmy to uczciwie.
+
+Nachyliła się odrobinę bliżej i ściszyła głos.
+
+— Przez najbliższy miesiąc, raz w tygodniu, każde z nas przygotowuje dla drugiego po pięć pytań. Z dowolnej dziedziny magii, ale takich, na które samo zna odpowiedź. Bez pytań z jakichś rodzinnych sekretów, których nie mam prawa znać.
+
+Kącik jej ust uniósł się zaczepnie.
+
+— Po czterech rundach liczymy punkty.
+
+Zawahała się na sekundę.
+
+— A przegrany… przez cały tydzień nosi książki zwycięzcy między lekcjami.
+
+Spojrzała na Jamesa z wyraźnym błyskiem rywalizacji w oczach.
+
+— I zanim zapytasz: nie. Nie zamierzam specjalnie brać mniej książek, jeśli przegram.
+
+Po chwili dodała ciszej:
+
+— Chociaż oczywiście zakładam, że to ty będziesz nosił moje. Hermiona bardzo serio traktowała naukę i wyniki, więc taki mały akademicki pojedynek dobrze pasuje do jej charakteru. 
+Harry Potter
++1
+
+
+[C12-M0783]
+===== USER =====
+
+-jeden, dwa problemy... Po pierwsze kocham ci pomagać a po drugie nie będziemy mieli tych samych pytań... proponuję coś innego ten kto będzie miał lepsze wyniki z sum-y ten wygrywa i jeśli ty przegrasz to.....hmm....musisz.....
+
+
+[C12-M0784]
+===== ASSISTANT =====
+
+Hermiona od razu uniosła palec.
+
+— Chwila. Najpierw ustalamy zasady, zanim dojdziesz do tego „musisz”.
+
+Spojrzała na niego podejrzliwie, ale wyraźnie ją to bawiło.
+
+— Ja zdaję jeden przedmiot więcej od ciebie, więc nie możemy po prostu policzyć wszystkich ocen albo liczby Wybitnych. To byłoby bez sensu.
+
+Przez moment zastanawiała się nad pergaminem.
+
+— Porównujemy wyniki tylko z przedmiotów, które oboje zdajemy. Albo liczymy średnią ze wszystkich naszych SUM-ów. Wybierz jedno.
+
+Potem zmrużyła oczy.
+
+— A teraz możesz dokończyć tę część, która zaczynała się od: „jeśli ty przegrasz, to musisz…”
+
+Kącik jej ust uniósł się zaczepnie.
+
+— Jestem bardzo ciekawa, co właśnie próbowałeś wymyślić.
+
+
+[C12-M0785]
+===== USER =====
+
+Porównujemy wyniki tylko z przedmiotów, które oboje zdajemy
+
+
+[C12-M0786]
+===== ASSISTANT =====
+
+Hermiona skinęła głową niemal natychmiast.
+
+— Dobrze. Tylko wspólne przedmioty.
+
+Przesunęła palcem po swoim pergaminie, jakby już układała listę w głowie.
+
+— Czyli Zaklęcia, Transmutacja, Eliksiry, Obrona, Zielarstwo, Historia Magii, Astronomia, Starożytne Runy i Opieka nad Magicznymi Stworzeniami.
+
+Spojrzała na Jamesa z coraz wyraźniejszym, rywalizacyjnym uśmiechem.
+
+— Porównujemy ocenę z każdego z nich. Wybitny jest wyżej niż Powyżej Oczekiwań i tak dalej. Kto ma więcej lepszych wyników bezpośrednio między nami, wygrywa. Jeśli wyjdzie remis… wymyślimy dogrywkę.
+
+Oparła brodę na dłoni.
+
+— Teraz wróćmy do tej znacznie bardziej podejrzanej części.
+
+Zmrużyła lekko oczy.
+
+— Jeśli ja przegram, to muszę… co, James?
+
+
+[C12-M0787]
+===== USER =====
+
+Hmmm........musisz wtedy kupić sobie jakąś bardzo ładną sukienkę i zaprosić mnie na randkę i udawać że masz na moim punkcie bardzo bardzo bardzo bardzo dużą obsesję...
+
+
+[C12-M0788]
+===== ASSISTANT =====
+
+Hermiona przez kilka sekund tylko na niego patrzyła.
+
+— Mam sobie kupić bardzo ładną sukienkę… — powtórzyła powoli. — Zaprosić cię na randkę…
+
+Przy kolejnych słowach policzki zaczęły jej wyraźnie różowieć.
+
+— …i przez całą randkę udawać, że mam na twoim punkcie bardzo, bardzo, bardzo, bardzo dużą obsesję?
+
+Próbowała zachować poważną minę, ale w końcu parsknęła cicho śmiechem i natychmiast zasłoniła usta dłonią, pamiętając, że nadal siedzą na lekcji.
+
+— To jest najbardziej absurdalna stawka zakładu o wyniki SUM-ów, jaką mogłeś wymyślić.
+
+Przechyliła lekko głowę.
+
+— Ale dobrze. Zgadzam się.
+
+Po chwili uniosła palec.
+
+— Z jednym zastrzeżeniem: sukienkę wybieram sama. Nie dostajesz żadnego prawa weta.
+
+W jej oczach pojawił się zaczepny błysk.
+
+— I skoro ja mam zrobić to wszystko, jeśli przegram… to teraz chcę usłyszeć, co ty zrobisz, kiedy przegrasz, panie „mam większą wiedzę”.
+
+
+[C12-M0789]
+===== USER =====
+
+Ty coś mi wymyśl
+
+
+[C12-M0790]
+===== ASSISTANT =====
+
+Hermiona odłożyła pióro i przez kilka sekund przyglądała mu się z coraz bardziej podejrzanym uśmiechem.
+
+— Skoro ja mam kupić sukienkę, zaprosić cię na randkę i przez cały wieczór zachowywać się, jakbym miała na twoim punkcie kompletną obsesję… to ty nie wywiniesz się czymś łatwym.
+
+Nachyliła się trochę bliżej.
+
+— Jeśli ty przegrasz, ubierzesz się najlepiej, jak potrafisz, i sam zaprosisz mnie na bardzo porządną randkę. Ale zanim pójdziemy…
+
+Uśmiechnęła się szerzej.
+
+— Przy śniadaniu, przy stole Gryffindoru, powiesz mi na głos: „Hermiono Granger, oficjalnie przyznaję, że pokonałaś mnie wiedzą i byłem bezczelnie pewny siebie.”
+
+Zrobiła krótką pauzę, najwyraźniej jeszcze nie skończyła.
+
+— Potem podejdziesz do mnie, ukłonisz się, pocałujesz mnie w dłoń i zapytasz, czy tak wybitnie inteligentna panna zechciałaby zaszczycić cię randką.
+
+W oczach Hermiony pojawił się już zupełnie bezwstydny błysk satysfakcji.
+
+— A przez całą randkę masz zachowywać się tak, jakbyś próbował odzyskać utraconą godność: otwierasz mi drzwi, odsuwasz krzesło, nosisz mi rzeczy i zwracasz się do mnie „Panno Granger”, dopóki sama nie pozwolę ci przestać.
+
+Przygryzła lekko wargę, żeby nie wybuchnąć śmiechem.
+
+— I przynajmniej raz masz powiedzieć: „miałaś rację”, bez dodawania żadnego „ale”.
+
+Hermiona wyciągnęła w jego stronę dłoń.
+
+— To będzie cena za rzucenie mi wyzwania na polu nauki, panie Brown. Nadal chcesz się zakładać?
+
+
+[C12-M0791]
+===== USER =====
+
+-tak, bo na szczęście nie będę musiał tego robić bo to ja wygram powiedziałem i wystawiłem rękę w jej stronę
+
+
+[C12-M0792]
+===== ASSISTANT =====
+
+Hermiona bez wahania ujęła jego dłoń i ścisnęła ją mocno, jakby właśnie przypieczętowywali najpoważniejszą umowę w Hogwarcie.
+
+— Umowa stoi.
+
+W jej oczach pojawił się natychmiast ten uparty, rywalizacyjny błysk.
+
+— I chcę, żebyś dokładnie zapamiętał to zdanie o tym, że „na szczęście nie będziesz musiał tego robić”.
+
+Potrząsnęła jego dłonią raz, stanowczo.
+
+— Bo kiedy będziesz stał przy stole Gryffindoru i mówił wszystkim, że byłam od ciebie lepsza…
+
+Kącik jej ust uniósł się szeroko.
+
+— …zamierzam ci je przypomnieć. Słowo w słowo.
+
+Dopiero wtedy puściła jego rękę i wróciła do pergaminu.
+
+— A teraz proponuję jednak zacząć pracować. Właśnie założyłeś się z Hermioną Granger o wyniki z SUM-ów. To chyba nie jest najlepszy moment, żeby się rozpraszać.
+
+
+[C12-M0793]
+===== USER =====
+
+usmichnalem się i pocałowałem delakatnie jej policzek - ale nadal się kcohamy tak?
+
+
+[C12-M0794]
+===== ASSISTANT =====
+
+Hermiona od razu spojrzała na niego, jakby samo pytanie ją zaskoczyło.
+
+— James…
+
+Po pocałunku w policzek jej mina natychmiast zmiękła. Delikatnie ścisnęła jego dłoń pod ławką.
+
+— Oczywiście, że się kochamy.
+
+Kącik jej ust uniósł się lekko.
+
+— To, że zamierzam cię bezlitośnie pokonać na SUM-ach, nie oznacza, że przestałam być twoją dziewczyną.
+
+Nachyliła się odrobinę bliżej.
+
+— Możemy się droczyć, rywalizować, kłócić o odpowiedzi i próbować udowodnić sobie nawzajem, kto ma rację… i nadal się kochać.
+
+Po chwili sama delikatnie pocałowała go w policzek.
+
+— Więc nie. Zakład niczego między nami nie zmienia. Poza tym, że za kilka miesięcy będę miała bardzo zabawne wspomnienie z tobą kłaniającym mi się przy stole Gryffindoru.
+
+
+[C12-M0795]
+===== USER =====
+
+usmichnalem się -albo to ja będę mieć bardzo miłe wspomnienia z bardzo obsesyjną Hermioną w bardzo ładnej sukni...
+
+
+[C12-M0796]
+===== ASSISTANT =====
+
+Hermiona uniosła brwi i spróbowała zachować poważną minę, ale po chwili parsknęła cicho.
+
+— „Bardzo obsesyjna Hermiona” brzmi okropnie, kiedy tak to mówisz.
+
+Przechyliła lekko głowę.
+
+— Chociaż przyznam, że jeśli naprawdę przegram, zamierzam odegrać swoją rolę bardzo przekonująco. Skoro już mam się ośmieszać, to przynajmniej porządnie.
+
+Kącik jej ust uniósł się zaczepnie.
+
+— Więc naciesz się tą wizją, Brown. Bo kiedy przyjdą wyniki SUM-ów, istnieje bardzo duża szansa, że jedyną osobą przebraną odświętnie i publicznie przyznającą się do porażki będziesz ty.
+
+Po chwili znów pochyliła się nad tłumaczeniem.
+
+— A teraz pracuj. Właśnie próbujesz wygrać randkę z obsesyjną Hermioną, pamiętasz?
+
+
+[C12-M0797]
+===== USER =====
+
+Teoretycznie nie powiedziałem terminu tej randki więc może zostawię ją na przyszłość....po naszym ślubie.....wtedy obsesyjna Hermiona będzie mieć więcej możliwości by to wyrażać....
+
+
+[C12-M0798]
+===== ASSISTANT =====
+
+Hermiona zamarła na sekundę, a potem bardzo powoli odwróciła głowę w jego stronę.
+
+— Po naszym… ślubie? — powtórzyła cicho.
+
+Policzki zaczęły jej wyraźnie różowieć, ale zamiast się speszyć, zmrużyła oczy z rozbawieniem.
+
+— James, ty naprawdę potrafisz z każdego zakładu zrobić plan na następne dziesięć lat.
+
+Po chwili kącik jej ust uniósł się lekko.
+
+— I nie. Nie dostajesz prawa do odkładania stawki w nieskończoność tylko dlatego, że znalazłeś lukę w zasadach.
+
+Stuknęła palcem w jego pergamin.
+
+— Jeśli przegram, randka odbywa się po ogłoszeniu wyników. Koniec dyskusji.
+
+Potem nachyliła się trochę bliżej i dodała ciszej:
+
+— A jeśli kiedyś naprawdę będziemy małżeństwem… to wtedy nie będziesz potrzebował zakładu, żeby zobaczyć, jak bardzo potrafię być tobą zajęta.
+
+Natychmiast cofnęła się do swojego tłumaczenia, już mocno zaróżowiona.
+
+— I ani słowa. Sam zacząłeś.
+
+
+[C12-M0799]
+===== USER =====
+
+sam też bardzo mocno się zaruminiłem i jednocześnie straciłem mowe
+
+
+[C12-M0800]
+===== ASSISTANT =====
+
+Hermiona przez sekundę tylko patrzyła na jego kompletnie zarumienioną twarz.
+
+Potem jej własne policzki zrobiły się jeszcze bardziej czerwone.
+
+— O nie… — szepnęła z narastającym uśmiechem. — Naprawdę odebrałam ci mowę.
+
+Wyglądała na zdecydowanie zbyt zadowoloną z tego odkrycia.
+
+Nachyliła się odrobinę bliżej, ściszając głos tak, żeby nie zwracać uwagi reszty klasy.
+
+— Muszę to zapamiętać. Wystarczy wspomnieć o przyszłym małżeństwie i nagle pan Brown nie ma żadnej odpowiedzi.
+
+Kącik jej ust podniósł się jeszcze bardziej, ale po chwili złagodniała i delikatnie ścisnęła jego dłoń pod ławką.
+
+— Spokojnie — dodała ciszej. — Mnie też trochę zawstydziło to, co powiedziałam.
+
+Potem zerknęła na tablicę i szybko wróciła do swojego tłumaczenia.
+
+— A teraz chyba naprawdę powinniśmy pracować, zanim profesor Babbling zacznie się zastanawiać, dlaczego oboje wyglądamy jak pomidory.
+
+

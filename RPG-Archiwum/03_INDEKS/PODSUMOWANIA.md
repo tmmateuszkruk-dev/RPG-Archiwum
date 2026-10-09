@@ -45,3 +45,8 @@ Finał Turnieju, koniec roku, pociąg, zakupy i dom; początek wizyty u Granger�
 ## C11
 
 8–9 VII: czesanie, pożegnanie, czuwanie i pierwsza wizyta Hermiony; dom, obiad, zwierzenia.
+
+
+## C12
+
+9 VII: sen, biblioteka i powrót Hermiony o 19:55. Wakacyjna rozłąka, listy, powrót na V rok, spór o prefekturę, nowe fakultety i zakład o SUM-y. Umbridge i pióro: odmowa Jamesa, świadectwo Harry’ego i zgłoszenie nauczycielom. Cofnięta gałąź Draco wyłączona z kanonu. Koniec w Pokoju Życzeń po lekcjach, C12-M1109; następna tura użytkownika. Dokładna wrześniowa data nieustalona.

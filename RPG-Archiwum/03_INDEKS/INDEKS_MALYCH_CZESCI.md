@@ -1,8 +1,8 @@
-# Indeks 60 małych fragmentów
+# Indeks małych części — C1–C12
 
-Do 200 pełnych wiadomości. Stare 57 plików bez zmian; nowe fragmenty 58–60. Zakres ID rozstrzyga wybór pliku.
+12045 wiadomości; 12 dużych i 66 małych części. Małe części mają do 200 pełnych wiadomości. Starsze pliki i ID zachowano bez zmian.
 
-| Plik | Od | Do | Wiadomości |
+| Plik | Od | Do | Liczba |
 |---|---|---|---|
 | [ARCHIWUM_001_C1-M0001_C1-M0200.txt](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_001_C1-M0001_C1-M0200.txt) | C1-M0001 | C1-M0200 | 200 |
 | [ARCHIWUM_002_C1-M0201_C1-M0400.txt](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_002_C1-M0201_C1-M0400.txt) | C1-M0201 | C1-M0400 | 200 |
@@ -64,3 +64,9 @@ Do 200 pełnych wiadomości. Stare 57 plików bez zmian; nowe fragmenty 58–60.
 | [ARCHIWUM_058_C11-M0001_C11-M0200.txt](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_058_C11-M0001_C11-M0200.txt) | C11-M0001 | C11-M0200 | 200 |
 | [ARCHIWUM_059_C11-M0201_C11-M0400.txt](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_059_C11-M0201_C11-M0400.txt) | C11-M0201 | C11-M0400 | 200 |
 | [ARCHIWUM_060_C11-M0401_C11-M0409.txt](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_060_C11-M0401_C11-M0409.txt) | C11-M0401 | C11-M0409 | 9 |
+| [ARCHIWUM_061_C12-M0001_C12-M0200.txt](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_061_C12-M0001_C12-M0200.txt) | C12-M0001 | C12-M0200 | 200 |
+| [ARCHIWUM_062_C12-M0201_C12-M0400.txt](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_062_C12-M0201_C12-M0400.txt) | C12-M0201 | C12-M0400 | 200 |
+| [ARCHIWUM_063_C12-M0401_C12-M0600.txt](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_063_C12-M0401_C12-M0600.txt) | C12-M0401 | C12-M0600 | 200 |
+| [ARCHIWUM_064_C12-M0601_C12-M0800.txt](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_064_C12-M0601_C12-M0800.txt) | C12-M0601 | C12-M0800 | 200 |
+| [ARCHIWUM_065_C12-M0801_C12-M1000.txt](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_065_C12-M0801_C12-M1000.txt) | C12-M0801 | C12-M1000 | 200 |
+| [ARCHIWUM_066_C12-M1001_C12-M1109.txt](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_066_C12-M1001_C12-M1109.txt) | C12-M1001 | C12-M1109 | 109 |

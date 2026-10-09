@@ -1,38 +1,33 @@
-# Rejestr korekt — aktualizacja C11
+# Rejestr korekt — aktualizacja C12
 
-Stan: C11-M0409 — niedziela 9 lipca 1995, po obiedzie i deserze, dokładna godzina nieustalona; główna sypialnia londyńskiego domu Jamesa. Następna odpowiedź należy do NPC (Hermiony).
-
-| Temat | Rozstrzygnięcie | Źródło |
+| Zakres | Obowiązujące rozstrzygnięcie | Źródło |
 |---|---|---|
-| Początek | M0001–M0004 to wznowienie i cytat końca C10, nie drugie podanie szczotki. Pierwsza nowa akcja w M0005 | C11-M0001–C11-M0005 |
-| Czesanie | Wykonane: wysoki luźny kok. Dawne „czesanie nie zaczęte” jest już historyczne | C11-M0019–C11-M0024 |
-| Noc | Czuwanie ze świadomością, nie sen i nie udowodnione wyleczenie | C11-M0101 |
-| Data i godziny | Następny dzień po 8 VII to 9 VII; 4:00 i gotowość o 9:00 jawne. Przyjście później bez minuty, koniec po obiedzie/deserze bez dokładnej godziny | C11-M0101–C11-M0104, C11-M0301–C11-M0409 |
-| Pobyt | Jednodniowa wizyta z powrotem najpóźniej o 20:00; „zostaniesz na tydzień” to żart, nie nowa zgoda | C11-M0075–C11-M0078, C11-M0107–C11-M0108 |
-| Zastąpiona odpowiedź | M0154 zakwestionowana w M0155, narrator przyznaje nieciągłość M0156, użytkownik prosi o poprawę M0157, obowiązująca odpowiedź M0158. Nie liczyć obu wersji jako kolejnych zdarzeń | C11-M0153–C11-M0158 |
-| Granice | Korekta konkretnej odpowiedzi nie odbiera Hermionie prawa do późniejszej odmowy lub przerwy. Przy nowym geście prosi o uprzedzenie; James przeprasza | C11-M0163–C11-M0170 |
-| „Szalona Hermiona” | Ta sama osoba, chwilowo swobodniejsza; nie inna osobowość ani bezwarunkowa zgoda | C11-M0257–C11-M0258 |
-| Pięć lat | Wzmianka w rozmowie o odległej przyszłości; nie wyliczaj daty ślubu ani automatycznego przyzwolenia po upływie czasu | C11-M0243–C11-M0250 |
-| Godność / umowa | Żart o sprzedaży godności sprostowany; rozmowa dobrowolna, Hermiona wybiera treść. Ostatecznie dziesięć minut, wykonane do końca | C11-M0287–C11-M0308, C11-M0407–C11-M0408 |
-| Zazdrość i Ron | Podobanie się lekkiej zazdrości nie oznacza poparcia gróźb, przemocy, kontroli przyjaciół | C11-M0332, C11-M0352–C11-M0356 |
-| Pocałunek policzka / nos | M0342 reaguje na gest z M0339 zamiast nowego pocałunku policzka M0341. Zachować ostatnią akcję użytkownika; nie dopisywać ponownego ruchu nosa | C11-M0339–C11-M0342 |
-| „Pierwszy raz” komplement | Przypuszczenie Jamesa w dialogu; nowe wyraźne wyznanie w M0362 nie kasuje dawnych komplementów | C11-M0361–C11-M0364 |
-| Nazwisko / żona / dom | Wyraźnie wyobrażenia odległej dorosłości i nadzieje; nie zaręczyny, ślub, nowy dom ani zmiana nazwiska | C11-M0380–C11-M0408 |
-| Adresy | C11 pokazuje Belgrave Square i znajome wnętrza, ale nie zawiera jawnej korekty Eaton Square lub sceny przeprowadzki | C11-M0093–C11-M0136 |
-| Ciągłość w ciemności | Narratorski opis rumieńca nie daje postaci wzroku przez zasunięty baldachim | C11-M0313–C11-M0409 |
-| Ostatni blok | USER M0409 bez odpowiedzi. Nie kończyć CURRENT na M0408 ani dopisywać reakcji Hermiony | C11-M0407–C11-M0409 |
+| Styl | Czysta narracja i dialog w scenie; konieczne wyjaśnienie dopiero w osobnej krótkiej notce na końcu | C12-M0101–C12-M0104 |
+| Wiek | Poprawiona reakcja Ginny M0254 zastępuje M0252; postacie mają zachowywać się odpowiednio do wieku | C12-M0253–C12-M0254 |
+| Listy a Ron | Wspólnego pobytu z Ronem nie ujawniono w korespondencji. List o jego odznace nie jest takim ujawnieniem | C12-M0206, C12-M0255–C12-M0256 |
+| Pamięć postaci | M0306 zastępuje zbyt stenograficzne M0302; wspomnienie oddaje sens, nie zawsze dokładny cytat | C12-M0303–C12-M0306 |
+| Wiedza Draco | M0394 zastępuje M0390. Draco nie zna planu pójścia do Dumbledore’a tylko dlatego, że wiedział o nim Nott | C12-M0391–C12-M0394 |
+| Pince i Hermiona | Hermiona nie odkrywa od nowa, że James ją obserwował w bibliotece; wiedziała wcześniej, nowością jest komentarz Pince | C12-M0593–C12-M0594 |
+| Plan i fakultety | Pierwotny plan M0652 odwołany; wybór użytkownika M0659 i akceptacja M0661 ustanawiają Runy + Opiekę oraz wewnętrzne zaliczenia Numerologii/Mugoloznawstwa. Wersje planu M0662 i M0674 różnią się czwartkiem/piątkiem: nie dopisywać identyczności całego tygodnia | C12-M0653–C12-M0674 |
+| Veritaserum | Wypowiedź Jamesa M0833 nie zmienia jego przeszłości. Po przypomnieniu M0838 w M0839 wycofuje osobistą obecność przy Veritaserum, pozostaje świadkiem wcześniejszego podsłuchu i demaskacji | C12-M0833–C12-M0840 |
+| Pióro | Nie przejmuje magicznie kontroli nad ręką; odmowa możliwa, z konsekwencjami szkolnymi. Nie stosować późniejszej władzy Inkwizytora przed jej nadaniem | C12-M0863–C12-M0866 |
+| Duże cofnięcie Draco | **M0922–M0949 w całości anulowane**, łącznie z ujawnieniem snu przy Hermionie, przeprosinami, nocą i porankiem. Zachowany punkt M0921; nowa odpowiedź M0953 i dalszy ciąg od M0954 | C12-M0950–C12-M0953 |
+| Wszystkie NPC | Zachowywać osobowości, samodzielność i ograniczoną wiedzę. Nie robić z Draco serdecznego kumpla, z Rona tylko rywala, ze Snape’a łagodnego opiekuna | C12-M0956–C12-M0957 |
+| Główna fabuła | James zmienia szczegóły i własne wątki, nie wykoleja przypadkowo kanonicznego biegu V roku. Zgłoszenie pióra nie powoduje automatycznego zwolnienia Umbridge | C12-M1014–C12-M1021 |
+| Spontaniczna Hermiona | Figlarna i bardziej inicjatywna, nadal ta sama osoba, z własnymi granicami | C12-M1082–C12-M1083, C12-M1091 |
+| Łaskotki | James jawnie koryguje dawną deklarację ich braku i ujawnia wyjątek. Wcześniejsze nieskuteczne próby nie znikają; Hermiona poznaje nowy sekret | C12-M1097–C12-M1103 |
 
-## Eksport
+## Nieciągłości i ograniczenia, bez dopisywania historii
 
-205 bloków TURN, 204 pary i końcowa pojedyncza wiadomość użytkownika. Zachowano tekst, kolejność i oryginalny plik. Usunięto tylko opakowanie TURN/KEY, etykiety autorów interfejsu, początkowy dzień/godzinę i końcowe linie „Przetwarzano przez…”. Pozostałości „Pokaż więcej”, wielokropki i nazwy cytowanych źródeł pozostały dosłownie; nie wiadomo, czy wielokropek był częścią treści lub interfejsu. Nie dorabiać ukrytych słów. Mapowanie w 00_MAPOWANIE_C11.md.
-
-## Nadrzędne kotwice starszych korekt
-
-James wyłącznie użytkownika. Późniejsza jawna korekta zastępuje starszą tylko w swoim zakresie, nie każdy późniejszy błąd narratora. Sceny odrzucone pozostają w archiwum, lecz nie są dodatkowymi zdarzeniami. Wersja C5 ma 766 wiadomości; stare C5v1 rozwiązuj przez mapowanie. Początkowa plotka o pochodzeniu nie unieważnia późniejszej korekty potwierdzającej genealogię. Tragedia: James 5 lat, siostra 4. Wzrost Jamesa 180 cm i Hermiony około 163 cm to późniejsze ustalenia, a nie wiecznie otwarte dane. Źródła i całość korekt w 05_BAZA_PELNA/09_REJESTR_KOREKT.md.
-
-Draco nie staje się potulny; korekty C8 przeciwdziałają Hermionie-terapeutce i chórowi drwin z Rona. Pochwała pojedynczego gestu nie jest globalną zgodą. Zdarzały się rzeczywiste sny, lecz nie udowodniono trwałego wyleczenia. Nieznana forma bogina i pierwotne źródło rdzenia różdżki pozostają niepotwierdzone.
-
-C9-M0109–C9-M0113 korygują daty: uczta 30 VI, wyjazd 1 VII. C9-M0413 jest wtrąceniem, nie resetem. C10-M0367 rozszerza książkowy domyślny przebieg na dalszą kampanię z zachowaniem rozegranego AU. Płaszcz został zdjęty przy wejściu u Grangerów według C10-M0275–C10-M0278; pudełko diamentu rzeczywiście wręczono mimo pominiętego przełożenia między kieszeniami.
+- TURN 471 = M0941, tylko USER; TURN 472 = M0942–M0943 zawiera zmienioną wersję urwanej kwestii. Obie zachowane i obie znajdują się w później anulowanej gałęzi.
+- Eksport zawiera daty interfejsu, podpisy źródeł, „Przetwarzano przez”, OOC i końcowe sugestie „Jeśli chcesz, mogę…”. To nie wydarzenia ani dialog NPC. Oryginał zachowano; mapowanie pokazuje wszystkie TURN i KEY.
+- M0196 zatrzymuje skok 6 VIII, a M0198 ponownie doprowadza do 6 VIII. To nakładające się opisy jednego okresu, nie drugi sierpień.
+- M0201 zaprasza Lunę i Élodie; odpowiedź Kruma M0202 zakłada otrzymanie zaproszenia bez odpowiadającej deklaracji użytkownika. Zachować jako niespójność, nie jako dopisany list Jamesa.
+- M0346 nazywa Hagrida osobą zwołującą pierwszorocznych mimo wcześniejszego kanonicznego tła; nie wyprowadzać z tego nieodwołanego rozstrzygnięcia jego misji. W archiwum pozostaje literalnie.
+- Następstwo uczty 1 IX, poranka i poniedziałkowego planu nie wyznacza bezspornego dnia końca. Nie naprawiać dat retrospektywnie bez korekty użytkownika.
+- M1051 ustanawia sofę, M1058 mówi „łóżko”, bez opisu zmiany. To rozbieżność porannej aranżacji; po lekcjach M1085 jednoznacznie wprowadza łóżko.
+- Ciemność w M1094 obowiązuje do końca: NPC nie widzą rumieńców ani wyrazu twarzy bez światła. Kwestie o domyślnych reakcjach Jamesa nie uprawniają narratora do przejmowania go.
+- „Granger-Brown”, ślub za ocenę i obrazy w pokoju nie ustanawiają małżeństwa, nowego nazwiska ani pewnej przyszłości.
 
 
-Pełny dział z wcześniejszymi źródłami: [wersja pełna](../05_BAZA_PELNA/09_REJESTR_KOREKT.md).
+Pełna wcześniejsza historia i źródła: [pełny dział](../04_BAZA_PELNA/09_REJESTR_KOREKT.md).

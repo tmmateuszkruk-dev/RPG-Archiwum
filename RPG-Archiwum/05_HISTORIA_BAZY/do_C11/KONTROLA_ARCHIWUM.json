@@ -1,0 +1,626 @@
+{
+  "version": "C1-C11",
+  "current_id": "C11-M0409",
+  "current_date": "1995-07-09",
+  "current_time": "po obiedzie i deserze; dokładna godzina nieustalona",
+  "next_turn": "ASSISTANT — NPC Hermiona",
+  "message_counts": {
+    "C1": 2389,
+    "C2": 1800,
+    "C3": 1412,
+    "C4": 1333,
+    "C5": 766,
+    "C6": 436,
+    "C7": 710,
+    "C8": 757,
+    "C9": 418,
+    "C10": 506,
+    "C11": 409
+  },
+  "total_messages": 10936,
+  "source_c11_turns": 205,
+  "source_c11_messages": 409,
+  "smaller_parts": 60,
+  "large_parts": 11,
+  "lorebook_entries": 265,
+  "world_entries": 92,
+  "merged_sha256": "7166fbec3adcf02b422668a97d3aa555ab4240410b634fbf4daf0182559ac7ab",
+  "previous_merged_sha256": "5efe835b605a0e21546a148c17afdeded7cbf8604150e3dd771be1909dc07922",
+  "source_c11_sha256": "df9abb751b884a4c7a4738c97445466bd1d757352590f2edcdfc2d1314352a57",
+  "chunks": [
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_001_C1-M0001_C1-M0200.txt",
+      "first": "C1-M0001",
+      "last": "C1-M0200",
+      "messages": 200,
+      "bytes": 216122,
+      "sha256": "e18abdb4a1f672552f6aa7bf5097bac51e1a82ea3de314402f6a176ec6cc675f"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_002_C1-M0201_C1-M0400.txt",
+      "first": "C1-M0201",
+      "last": "C1-M0400",
+      "messages": 200,
+      "bytes": 196119,
+      "sha256": "18f14c6da580fbbbcb753f2910c5507067787f84d9825e83b38cd89df9ab49d2"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_003_C1-M0401_C1-M0600.txt",
+      "first": "C1-M0401",
+      "last": "C1-M0600",
+      "messages": 200,
+      "bytes": 172239,
+      "sha256": "754237f14a7b02f63427e89193537271ea7fb8809edd1d374823a9cedd36893a"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_004_C1-M0601_C1-M0800.txt",
+      "first": "C1-M0601",
+      "last": "C1-M0800",
+      "messages": 200,
+      "bytes": 154806,
+      "sha256": "d8f280e0c82235245191cd8dadd0a870deaf70b8aa80150a8ba6785eca9836c0"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_005_C1-M0801_C1-M1000.txt",
+      "first": "C1-M0801",
+      "last": "C1-M1000",
+      "messages": 200,
+      "bytes": 156253,
+      "sha256": "f66952287f31c8f8913795ca1c3b74a60d3cf569dc03b0021d7d9cc3773b6112"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_006_C1-M1001_C1-M1200.txt",
+      "first": "C1-M1001",
+      "last": "C1-M1200",
+      "messages": 200,
+      "bytes": 175282,
+      "sha256": "44e9081e93546b756870c63ab6337a91b1d9dd75f47586e222ba211dff7f9e01"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_007_C1-M1201_C1-M1400.txt",
+      "first": "C1-M1201",
+      "last": "C1-M1400",
+      "messages": 200,
+      "bytes": 163273,
+      "sha256": "37f3b2b7e561c60efd7a3a0a47b773058d7414dbb00e818da21d12c2bc25d11b"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_008_C1-M1401_C1-M1600.txt",
+      "first": "C1-M1401",
+      "last": "C1-M1600",
+      "messages": 200,
+      "bytes": 161816,
+      "sha256": "c0bfdce34eaa906da594bad9e4577780d5e7ffc0a99af1fa1610e4267b02162c"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_009_C1-M1601_C1-M1800.txt",
+      "first": "C1-M1601",
+      "last": "C1-M1800",
+      "messages": 200,
+      "bytes": 178389,
+      "sha256": "5baf19f82b6f59948005cbfb5b47a04b25d7ceee69b95806614e34a5c111f14a"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_010_C1-M1801_C1-M2000.txt",
+      "first": "C1-M1801",
+      "last": "C1-M2000",
+      "messages": 200,
+      "bytes": 147673,
+      "sha256": "65f87907ee6ac03579a1a2c6376b06af90605b93cff43879ef77ddf3d6365743"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_011_C1-M2001_C1-M2200.txt",
+      "first": "C1-M2001",
+      "last": "C1-M2200",
+      "messages": 200,
+      "bytes": 126981,
+      "sha256": "c2853be346c31ac9554aea355c5a1e8d260e8a3b34fa6ce8d6461dd32bf17566"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_012_C1-M2201_C1-M2389.txt",
+      "first": "C1-M2201",
+      "last": "C1-M2389",
+      "messages": 189,
+      "bytes": 107179,
+      "sha256": "a83583d501bbce04bfeb97982426232b5b6816afb21079699e1f59ea30bdbdcf"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_013_C2-M0001_C2-M0200.txt",
+      "first": "C2-M0001",
+      "last": "C2-M0200",
+      "messages": 200,
+      "bytes": 117500,
+      "sha256": "c7243a9c7a7a5de28d0a64ff061a2569af651a271688234c5c96159112bd8918"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_014_C2-M0201_C2-M0400.txt",
+      "first": "C2-M0201",
+      "last": "C2-M0400",
+      "messages": 200,
+      "bytes": 115315,
+      "sha256": "3420d9f42e6a75b2d4e5383049c6b57dc467fe96d31b37642d7b4b3c39f70c80"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_015_C2-M0401_C2-M0600.txt",
+      "first": "C2-M0401",
+      "last": "C2-M0600",
+      "messages": 200,
+      "bytes": 87422,
+      "sha256": "d1ecca2b1d74a42798431daf14eb05258dbd7a7b30ff0eea7bb8bd7d0c2fe632"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_016_C2-M0601_C2-M0800.txt",
+      "first": "C2-M0601",
+      "last": "C2-M0800",
+      "messages": 200,
+      "bytes": 124967,
+      "sha256": "a785a06bf6a9b7086de83dc5f75859523f684254320dfe43aae05a5592520067"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_017_C2-M0801_C2-M1000.txt",
+      "first": "C2-M0801",
+      "last": "C2-M1000",
+      "messages": 200,
+      "bytes": 107327,
+      "sha256": "a4a83efae484a0ccf27a0cbb01fda27161e1d5ad22b3931b11063840012da9e5"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_018_C2-M1001_C2-M1200.txt",
+      "first": "C2-M1001",
+      "last": "C2-M1200",
+      "messages": 200,
+      "bytes": 88827,
+      "sha256": "1720deb431ba71c626b744e58b6345294f2f1b5a593c3a800ae27b9e4f950929"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_019_C2-M1201_C2-M1400.txt",
+      "first": "C2-M1201",
+      "last": "C2-M1400",
+      "messages": 200,
+      "bytes": 114412,
+      "sha256": "9a705e9080e0283d00de5030f5399710a6b893d7da265df23d76e31e0c1629f4"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_020_C2-M1401_C2-M1600.txt",
+      "first": "C2-M1401",
+      "last": "C2-M1600",
+      "messages": 200,
+      "bytes": 109804,
+      "sha256": "020dfc5738c520a481d82438e75897ba5db82084dddaa0e8f259e7f507b0f6f2"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_021_C2-M1601_C2-M1800.txt",
+      "first": "C2-M1601",
+      "last": "C2-M1800",
+      "messages": 200,
+      "bytes": 84086,
+      "sha256": "f352cea4e9fb00233d062b575807ce02f7898cea8a2de47747d64c02af1ebd29"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_022_C3-M0001_C3-M0200.txt",
+      "first": "C3-M0001",
+      "last": "C3-M0200",
+      "messages": 200,
+      "bytes": 134432,
+      "sha256": "9dcd8e576c05cff50ce7862a43b8f72be21750d7c2b27285400c67853b7c9096"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_023_C3-M0201_C3-M0400.txt",
+      "first": "C3-M0201",
+      "last": "C3-M0400",
+      "messages": 200,
+      "bytes": 81565,
+      "sha256": "c0f104c0c6ed7d7af889bea1f1389c1fa578344b684b7fd34950efacdb5f6185"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_024_C3-M0401_C3-M0600.txt",
+      "first": "C3-M0401",
+      "last": "C3-M0600",
+      "messages": 200,
+      "bytes": 91977,
+      "sha256": "99163dbffafd2f8df05fa8b8b1f57cb19b0ab8f35ea4b7f8018e31be88108e96"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_025_C3-M0601_C3-M0800.txt",
+      "first": "C3-M0601",
+      "last": "C3-M0800",
+      "messages": 200,
+      "bytes": 79524,
+      "sha256": "95080d56f889f9231b4bdcaf45fca06437601bbeebae04aa703a96c83d591129"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_026_C3-M0801_C3-M1000.txt",
+      "first": "C3-M0801",
+      "last": "C3-M1000",
+      "messages": 200,
+      "bytes": 112464,
+      "sha256": "378eb193eb428579004146680215896dae9678d977a0bad418ff470d071e55fe"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_027_C3-M1001_C3-M1200.txt",
+      "first": "C3-M1001",
+      "last": "C3-M1200",
+      "messages": 200,
+      "bytes": 113775,
+      "sha256": "3dcce8785950aec5c5d06829f96cbb2074e4c3fbd9075c34b423d830735e2617"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_028_C3-M1201_C3-M1400.txt",
+      "first": "C3-M1201",
+      "last": "C3-M1400",
+      "messages": 200,
+      "bytes": 114348,
+      "sha256": "cbe09e14a5693342709772147e81a2e48efdaf1292b88f21ade118079dc8bd44"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_029_C3-M1401_C3-M1412.txt",
+      "first": "C3-M1401",
+      "last": "C3-M1412",
+      "messages": 12,
+      "bytes": 4940,
+      "sha256": "ea165b35bab63f205f62ab58cc9857cf925804d993a99c65a7bcb4c232cbdb46"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_030_C4-M0001_C4-M0200.txt",
+      "first": "C4-M0001",
+      "last": "C4-M0200",
+      "messages": 200,
+      "bytes": 93801,
+      "sha256": "49bceed78d84b07885322614f5fafc2af4e40b74ce39ec7cc3b16c1d784421fd"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_031_C4-M0201_C4-M0400.txt",
+      "first": "C4-M0201",
+      "last": "C4-M0400",
+      "messages": 200,
+      "bytes": 91322,
+      "sha256": "de237b50a123532078ef26fab1a6571148553518c9c14e5e1b1531504b527903"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_032_C4-M0401_C4-M0600.txt",
+      "first": "C4-M0401",
+      "last": "C4-M0600",
+      "messages": 200,
+      "bytes": 84150,
+      "sha256": "2927a981c63b752d0e8faf9ba47ead7ecac0b42ed6966c91dc044243204096a4"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_033_C4-M0601_C4-M0800.txt",
+      "first": "C4-M0601",
+      "last": "C4-M0800",
+      "messages": 200,
+      "bytes": 71349,
+      "sha256": "2b9203948dc89613e4c270ba02c2dbfdf1bd0bb2002496b6c205f21bca81c75a"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_034_C4-M0801_C4-M1000.txt",
+      "first": "C4-M0801",
+      "last": "C4-M1000",
+      "messages": 200,
+      "bytes": 65901,
+      "sha256": "a7b8ae891fe1588d59b16668ae1226b2dbdd07c07b1d663b0a9702377060cb20"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_035_C4-M1001_C4-M1200.txt",
+      "first": "C4-M1001",
+      "last": "C4-M1200",
+      "messages": 200,
+      "bytes": 93139,
+      "sha256": "11539b5e4aa9a55fe0675beb9f58286deeca8ded7ceb57bf0e827318bce8f96f"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_036_C4-M1201_C4-M1333.txt",
+      "first": "C4-M1201",
+      "last": "C4-M1333",
+      "messages": 133,
+      "bytes": 61869,
+      "sha256": "aed31647ba72e6cddfd08b89d15e93314dd50701f99f223cd67c44a89271558b"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_037_C5-M0001_C5-M0200.txt",
+      "first": "C5-M0001",
+      "last": "C5-M0200",
+      "messages": 200,
+      "bytes": 84246,
+      "sha256": "8dd2ebf76c7673618d8e184c8f6e6b56819b187d9d0dd7e8fe8160988a201fbd"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_038_C5-M0201_C5-M0400.txt",
+      "first": "C5-M0201",
+      "last": "C5-M0400",
+      "messages": 200,
+      "bytes": 98755,
+      "sha256": "5f0c546c913c3e1c205dacfccee897ac9c293defd2f78e9226d46866d5741a12"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_039_C5-M0401_C5-M0600.txt",
+      "first": "C5-M0401",
+      "last": "C5-M0600",
+      "messages": 200,
+      "bytes": 160941,
+      "sha256": "f6e739d1c092b61080f799bc98213d49856ddedd826276957d8be3d63c1ee775"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_040_C5-M0601_C5-M0766.txt",
+      "first": "C5-M0601",
+      "last": "C5-M0766",
+      "messages": 166,
+      "bytes": 82059,
+      "sha256": "c3eacbb87e424f895fcba8b6c94d54c904f8a0275113b8100e42260f4d07472b"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_041_C6-M0001_C6-M0200.txt",
+      "first": "C6-M0001",
+      "last": "C6-M0200",
+      "messages": 200,
+      "bytes": 125970,
+      "sha256": "c95bbc98b0f8a657659f23f7577ce8579536ba54e8b1319aad31a2bce7eb3385"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_042_C6-M0201_C6-M0400.txt",
+      "first": "C6-M0201",
+      "last": "C6-M0400",
+      "messages": 200,
+      "bytes": 139254,
+      "sha256": "eaa74b21046c435d3a04788c3c119723d24b48454b2103dc96020739210ac8c9"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_043_C6-M0401_C6-M0436.txt",
+      "first": "C6-M0401",
+      "last": "C6-M0436",
+      "messages": 36,
+      "bytes": 20102,
+      "sha256": "90343e6b4ef27cac9eef2f46fb401392b6b6aad504deb7e2bb089f04da8021f8"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_044_C7-M0001_C7-M0200.txt",
+      "first": "C7-M0001",
+      "last": "C7-M0200",
+      "messages": 200,
+      "bytes": 89313,
+      "sha256": "8c9e64f5a080728828465d2691cbba541e202d2a8fc0644586af6dd4a1af0a4e"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_045_C7-M0201_C7-M0400.txt",
+      "first": "C7-M0201",
+      "last": "C7-M0400",
+      "messages": 200,
+      "bytes": 115957,
+      "sha256": "36596abc9b5a907ca75907f47d041894f34fece31bebb09bfa31c6e91086670e"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_046_C7-M0401_C7-M0600.txt",
+      "first": "C7-M0401",
+      "last": "C7-M0600",
+      "messages": 200,
+      "bytes": 95042,
+      "sha256": "3a454b359ec1463b4df1e60b090cf6a7b2abded12702c8a0b05b694481bca143"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_047_C7-M0601_C7-M0710.txt",
+      "first": "C7-M0601",
+      "last": "C7-M0710",
+      "messages": 110,
+      "bytes": 53193,
+      "sha256": "272c9f628dec9bcf5cfb81cfdb95bcbd88c03f78a9114c20b63e00679272dc11"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_048_C8-M0001_C8-M0200.txt",
+      "first": "C8-M0001",
+      "last": "C8-M0200",
+      "messages": 200,
+      "bytes": 108087,
+      "sha256": "bf0c351f6b43400010e58a961f14568fcbde64f37c12da07ee2e6419a8fee342"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_049_C8-M0201_C8-M0400.txt",
+      "first": "C8-M0201",
+      "last": "C8-M0400",
+      "messages": 200,
+      "bytes": 81335,
+      "sha256": "79aed79161bb0acfaea03c990b6cdf190824bada816394cf56a7a0d92158537e"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_050_C8-M0401_C8-M0600.txt",
+      "first": "C8-M0401",
+      "last": "C8-M0600",
+      "messages": 200,
+      "bytes": 83673,
+      "sha256": "6bd278cbb7ba2ad2aeea3770b4b4d3967e0356149178997e53add7a8dfaf2a26"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_051_C8-M0601_C8-M0757.txt",
+      "first": "C8-M0601",
+      "last": "C8-M0757",
+      "messages": 157,
+      "bytes": 54881,
+      "sha256": "66a6b8a3620c8c0b0774b0d1c5a5e3f407cef267c2fe171ef0c572d705b5e54b"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_052_C9-M0001_C9-M0200.txt",
+      "first": "C9-M0001",
+      "last": "C9-M0200",
+      "messages": 200,
+      "bytes": 172367,
+      "sha256": "25820112f92d5978a9da580462e22621b4764cff7cf59636d1c163f5e4c68c49"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_053_C9-M0201_C9-M0400.txt",
+      "first": "C9-M0201",
+      "last": "C9-M0400",
+      "messages": 200,
+      "bytes": 112378,
+      "sha256": "feb39efa17ef5093a3a807fc8dbcb29a048134e48738efddfa44829fc4839096"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_054_C9-M0401_C9-M0418.txt",
+      "first": "C9-M0401",
+      "last": "C9-M0418",
+      "messages": 18,
+      "bytes": 14901,
+      "sha256": "36ec2156d12d73dcfe4ec0febc4127893a057f04aff6c9cbce41a19d922e0ad0"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_055_C10-M0001_C10-M0200.txt",
+      "first": "C10-M0001",
+      "last": "C10-M0200",
+      "messages": 200,
+      "bytes": 83903,
+      "sha256": "ebd0ba29199c4c3f85cc6a184609420cd2767fc1499c94307cbe71f7d1b24e12"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_056_C10-M0201_C10-M0400.txt",
+      "first": "C10-M0201",
+      "last": "C10-M0400",
+      "messages": 200,
+      "bytes": 82069,
+      "sha256": "78c2842e2d16ffc62619fc0b0df591531d0a6324fd8e3f775efcc670285e2622"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_057_C10-M0401_C10-M0506.txt",
+      "first": "C10-M0401",
+      "last": "C10-M0506",
+      "messages": 106,
+      "bytes": 46696,
+      "sha256": "7cc2f38e498b8a9c63d362195471793c9f36471c5d9a65d2c76f334dfb2b6191"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_058_C11-M0001_C11-M0200.txt",
+      "first": "C11-M0001",
+      "last": "C11-M0200",
+      "messages": 200,
+      "bytes": 95666,
+      "sha256": "63abecf006770d69be75ed48d0d6206bd9d0f0c304c06065f1d166efba1e2a5b"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_059_C11-M0201_C11-M0400.txt",
+      "first": "C11-M0201",
+      "last": "C11-M0400",
+      "messages": 200,
+      "bytes": 88872,
+      "sha256": "dc606330cb23750a225b851ac2b231a1901454aa198226b8f0feb34ea2e30859"
+    },
+    {
+      "file": "mniejsze_czesci/ARCHIWUM_060_C11-M0401_C11-M0409.txt",
+      "first": "C11-M0401",
+      "last": "C11-M0409",
+      "messages": 9,
+      "bytes": 4389,
+      "sha256": "7a7f1f66fc9215c3885da63d0760c9d44ea2973f12daec8b924d88bc7883763c"
+    }
+  ],
+  "large_files": [
+    {
+      "file": "duze_czesci/01_ARCHIWUM_CZAT_1.txt",
+      "part": 1,
+      "first": "C1-M0001",
+      "last": "C1-M2389",
+      "messages": 2389,
+      "bytes": 1955888,
+      "sha256": "f113f794d306d2f84ead12a893e075c92a4a25c3d9b5b68456119f17448e7c0b"
+    },
+    {
+      "file": "duze_czesci/01_ARCHIWUM_CZAT_2.txt",
+      "part": 2,
+      "first": "C2-M0001",
+      "last": "C2-M1800",
+      "messages": 1800,
+      "bytes": 949660,
+      "sha256": "0e68578ff67f07e00f2fbca9eef3613b99718b890f95c1845092931d374c0bff"
+    },
+    {
+      "file": "duze_czesci/01_ARCHIWUM_CZAT_3.txt",
+      "part": 3,
+      "first": "C3-M0001",
+      "last": "C3-M1412",
+      "messages": 1412,
+      "bytes": 733025,
+      "sha256": "5b6f3632e2a731c0f7e4574f531a35ad25c02c04510fe916ed9307789bb115ee"
+    },
+    {
+      "file": "duze_czesci/01_ARCHIWUM_CZAT_4.txt",
+      "part": 4,
+      "first": "C4-M0001",
+      "last": "C4-M1333",
+      "messages": 1333,
+      "bytes": 561371,
+      "sha256": "ecc430ad8f1c3ec0f12c8c8712576840e4e88833f3601085b2af5a4936f750c3"
+    },
+    {
+      "file": "duze_czesci/01_ARCHIWUM_CZAT_5.txt",
+      "part": 5,
+      "first": "C5-M0001",
+      "last": "C5-M0766",
+      "messages": 766,
+      "bytes": 426245,
+      "sha256": "41d6f50de27e5501173e679abc78916da4345936c5ae6aac0e60017784bd0eab"
+    },
+    {
+      "file": "duze_czesci/01_ARCHIWUM_CZAT_6.txt",
+      "part": 6,
+      "first": "C6-M0001",
+      "last": "C6-M0436",
+      "messages": 436,
+      "bytes": 285236,
+      "sha256": "a97ef4812b126f9ec0a49be8d0ede866a5acc90088291e918453d314cea49f6e"
+    },
+    {
+      "file": "duze_czesci/01_ARCHIWUM_CZAT_7.txt",
+      "part": 7,
+      "first": "C7-M0001",
+      "last": "C7-M0710",
+      "messages": 710,
+      "bytes": 353517,
+      "sha256": "3312312d3eb3b4eaa0185318c33e7de4f86899255daedb936738eeda9d7af7e0"
+    },
+    {
+      "file": "duze_czesci/01_ARCHIWUM_CZAT_8.txt",
+      "part": 8,
+      "first": "C8-M0001",
+      "last": "C8-M0757",
+      "messages": 757,
+      "bytes": 328143,
+      "sha256": "17b226615b70db98a4cc77b8548ba11307eb42df2c4d02b5fb8798a46aefd18a"
+    },
+    {
+      "file": "duze_czesci/01_ARCHIWUM_CZAT_9.txt",
+      "part": 9,
+      "first": "C9-M0001",
+      "last": "C9-M0418",
+      "messages": 418,
+      "bytes": 299382,
+      "sha256": "27f79ac83a5b3cfbbbb9be5d9dd8b83e74482eaf77409a30584c28f131f9d9ac"
+    },
+    {
+      "file": "duze_czesci/01_ARCHIWUM_CZAT_10.txt",
+      "part": 10,
+      "first": "C10-M0001",
+      "last": "C10-M0506",
+      "messages": 506,
+      "bytes": 213005,
+      "sha256": "e3982715ef2e6856b05a3cf9e1a3c594d77f2fa48ade8dc89b7aef44935f7e0e"
+    },
+    {
+      "file": "duze_czesci/01_ARCHIWUM_CZAT_11.txt",
+      "part": 11,
+      "first": "C11-M0001",
+      "last": "C11-M0409",
+      "messages": 409,
+      "bytes": 188925,
+      "sha256": "a7e840a40aea1c7e201827d1a3a087f3ef6e56ef925f1d8ffb0f189c589eac17"
+    }
+  ],
+  "checks": {
+    "c1_c10_byte_prefix": true,
+    "previous_57_chunks_unchanged": true,
+    "small_and_large_concatenations_exact": true,
+    "unique_contiguous_ids": true,
+    "c11_scene_coverage_complete": true,
+    "raw_c11_unchanged": true,
+    "normalized_messages_equal_parsed_source": true,
+    "lorebook_markdown_json_equal": true,
+    "github_local_links_valid": true,
+    "all_320_scene_rows_have_large_and_small_links": true
+  },
+  "scope": "Pełna analiza C11 i porównanie z bazą C10; kontrola bajtowa C1–C10. Nie pełny ponowny odczyt całej wcześniejszej kampanii."
+}

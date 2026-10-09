@@ -1,38 +1,38 @@
-# Timeline — aktualizacja C11
+# Timeline — aktualizacja C12
 
-Stan: C11-M0409 — niedziela 9 lipca 1995, po obiedzie i deserze, dokładna godzina nieustalona; główna sypialnia londyńskiego domu Jamesa. Następna odpowiedź należy do NPC (Hermiony).
-
-## 8 lipca 1995 — dokończenie wizyty u Grangerów
-
-| Etap | Zdarzenie | Źródło |
+| Czas | Zdarzenie i status | Źródło |
 |---|---|---|
-| Pokój, po końcu C10 | James rozczesuje włosy Hermiony i układa wysoki luźny kok z pasmami wokół twarzy. Szczotkę odkłada; Hermiona ogląda efekt w lustrze | C11-M0005–C11-M0024 |
-| Pokój | Wspólna czułość, komplementy i chwilowa zabawa w milczenie, potem decyzja o zejściu | C11-M0025–C11-M0062 |
-| Parter | James niesie Hermionę na dół. Rodzice widzą fryzurę i słyszą, że nauczył się czesać dzięki młodszej siostrze | C11-M0063–C11-M0070 |
-| Przedpokój | Uzgodniona samotna wizyta Hermiony następnego dnia; powrót najpóźniej o 20:00. Godzina przyjścia pozostaje niespodzianką; rodzice chcą znać wyjście i cel oraz zmiany planów | C11-M0071–C11-M0082 |
-| Wyjście | James zakłada płaszcz, prywatnie prosi o sukienkę na jutro, żegna się i wychodzi | C11-M0083–C11-M0092 |
-| Londyn | Taksówka do Belgrave Square, zapłacony niepodany liczbowo rachunek; wejście do domu i sypialni, zdjęcie płaszcza, kamizelki i butów | C11-M0093–C11-M0100 |
+| 9 VII, po C11 | Hermiona odpowiada na końcowe wyznanie; wspólny odpoczynek, rzeczywisty sen Jamesa i Hermiony, pobudka przy biciu zegara o 16:00 | C12-M0004–C12-M0042 |
+| 9 VII | James opowiada Hermionie o śnie o dorosłym życiu i ślubie z Luną; to sen, nie rzeczywiste małżeństwo. Rozmowa o ślubie z Hermioną po szkole pozostaje warunkowa | C12-M0043–C12-M0066 |
+| Po 16:00 | Biblioteka domu Jamesa, lektura run i kolejny rzeczywisty sen na kolanach Hermiony | C12-M0067–C12-M0088 |
+| 18:45 | Tobik przypomina o powrocie; James budzi się, podnosi głos, po czym łagodnie dziękuje. Hermiona broni właściwego traktowania skrzata | C12-M0089–C12-M0108 |
+| Wieczór | Zakończenie lektury; wyjazd razem taksówką na 8 Heathgate. Hermiona zasypia w drodze. Przyjazd o 19:55, wniesienie do pokoju za zgodą rodziców, pożegnanie | C12-M0109–C12-M0174 |
+| 9/10 VII | Powrót do Belgravii; należność £18,60, wręczone £100 bez zapisu reszty. James odmawia pomocy Tobika, myje się i czuwa | C12-M0175–C12-M0194 |
+| Lipiec–sierpień | Autoryzowany skok czasu: Hermiona trafia do tajnej kwatery; miejsce nieznane Jamesowi. Tło: atak dementorów 2 VIII, przybycie Harry’ego 6 VIII i rozprawa 12 VIII. Nie są to zdarzenia obserwowane przez Jamesa | C12-M0195–C12-M0206 |
+| Wakacje | Niemal codzienne listy Jamesa do Hermiony; korespondencja z Luną, Élodie i Krumem. Czarna koperta spalona bez otwierania. Nie rozegrano kolejnych wizyt ani podróży do zamku | C12-M0197–C12-M0206 |
+| 31 VIII | Hermiona pisze o odznakach swojej i Rona, nie o wspólnym miejscu zamieszkania | C12-M0206 |
+| 1 IX | James od 7:00 na peronie; grupa przybywa później. Wita Hermionę i prawdziwego Moody’ego, rozpoznaje Syriusza w postaci psa | C12-M0207–C12-M0218 |
+| Pociąg | Kłótnia o wakacyjną rozłąkę i Rona. James uderza głową w szybę, następnie ją naprawia; Harry widzi skutek. Nott informuje o prefekturze Draco i Pansy. Rozmowa z Luną, Ginny, Neville’em | C12-M0219–C12-M0260 |
+| Podróż | Hermiona ujawnia obecność Weasleyów i późniejsze przybycie Harry’ego, bez adresu. Częściowe uspokojenie; obchody prefektów, słodycze, sen Jamesa przy niej i czuwanie podczas jej nieobecności | C12-M0261–C12-M0342 |
+| Hogsmeade | Wspólny powóz z Harrym, Ronem i Ginny. James potwierdza, że widzi czarne skrzydlate stworzenia; przyczyna nie zostaje im wyjaśniona | C12-M0343–C12-M0378 |
+| Uczta 1 IX | Osobne stoły, spór z Draco, przedstawienie Umbridge; James idzie do dyrektora | C12-M0379–C12-M0444 |
+| Po uczcie | Rozmowa z Dumbledore’em o prefekturze. James nie dostaje odznaki; dyrektor odróżnia dyscyplinę od osobistej zemsty. McGonagall odchodzi przed rozmową | C12-M0445–C12-M0478 |
+| Noc i poranek | Nott, potem Draco i Pansy w pokoju wspólnym; groźby i spór, bez nowej bójki. James deklaruje noc bez snu i bez czuwania, ćwiczy od 4:00 | C12-M0479–C12-M0542 |
+| Pierwszy rozegrany dzień lekcji (D) | Spotkanie i pojednanie z Hermioną pod biblioteką, Pince otwiera o 6:00; śniadanie przy Gryffindorze, odwołany żart o ślubie za W, plany lekcji i ustalenie fakultetów | C12-M0543–C12-M0674 |
+| D | Sen na Historii Magii; Wywar Spokoju z jednym płatkiem lilii, zaakceptowany przez Snape’a jako kontrolowana modyfikacja; próbka oddana. Przerwa i obiad | C12-M0675–C12-M0768 |
+| D, Runy | Przekład tekstu i zakład o wyniki z dziewięciu wspólnych SUM-ów; stawki uzgodnione, wynik jeszcze nieznany | C12-M0769–C12-M0812 |
+| D, Obrona | Umbridge odrzuca powrót Voldemorta. Harry dostaje szlaban na ten wieczór; James, po publicznym sporze i skorygowaniu zakresu swego świadectwa, na następny dzień o 17:00 | C12-M0813–C12-M0850 |
+| D+1, 17:00 | James pisze jedną literę krwawym piórem i odmawia dalszej kary. Umbridge zapowiada zgłoszenie Snape’owi i dyrektorowi; puszcza go | C12-M0851–C12-M0868 |
+| D+1 | Hermiona widzi nacięcie i podejrzewa Umbridge, ale nie dostaje wyjaśnienia. Prywatna rozmowa Jamesa z Harrym o piórze i zgodzie na zgłoszenie. Pożegnanie z Hermioną | C12-M0869–C12-M0921 |
+| Odrzucony wariant | M0922–M0949 anulowane w M0952–M0953, łącznie z nocą, porankiem i ujawnieniami Draco. Nie są drugim przebiegiem tych dni | C12-M0950–C12-M0953 |
+| D+1 / D+2 | Poprawiona rozmowa z Draco o piórze, noc czuwania, ćwiczenia od 4:00 i kawa; tym razem rano Nott, nie Draco | C12-M0953–C12-M0976 |
+| D+2, około 5:00 | Zgłoszenie Snape’owi, sprowadzenie Harry’ego, oględziny obu dłoni, przybycie Dumbledore’a, polecenie dokumentacji i dyskrecji. Brak zwolnienia Umbridge | C12-M0977–C12-M1023 |
+| D+2, przed śniadaniem | Oczekiwanie na Hermionę; odmowa wejścia do pokoi wspólnych, przejście do Pokoju Życzeń, wspólny odpoczynek. Wyjście na śniadanie | C12-M1024–C12-M1084 |
+| D+2, po lekcjach | Ponowny Pokój Życzeń według pomysłu Hermiony; wyobrażenia wspólnego domu, nie przepowiednia. Rozmowa i odpoczynek; James ujawnia jej prywatny sekret łaskotek. Koniec po odpowiedzi Hermiony | C12-M1085–C12-M1109 |
 
-## Noc 8/9 lipca i niedziela 9 lipca
+## Rozbieżność dat
 
-| Etap | Zdarzenie | Źródło |
-|---|---|---|
-| Noc / 4:00 / rano | James czuwa bez utraty świadomości, o 4:00 wstaje, ćwiczy, biega, myje się i przebiera. Uprzedza skrzaty o Hermionie; je śniadanie. Gotowy o 9:00 | C11-M0101 |
-| Później, brak godziny | Skrzat zgłasza przybycie Hermiony; James otwiera. Błękitna sukienka, diament i niewielka torba; pierwsza wizyta rzeczywiście się zaczyna | C11-M0102–C11-M0110 |
-| Zwiedzanie | Hol, salon powitalny, oranżeria, jadalnia, galeria, biblioteka, aportatorium, sypialnia. Hermiona otrzymuje zgodę na książki; ogląda tom run i odkłada go. Poznaje zasadę wyjątku od blokady aportacji | C11-M0111–C11-M0136 |
-| Przed obiadem | Zakończenie zwiedzania na razie; wspólny odpoczynek i prywatna rozmowa o bliskości, przerwie oraz odległej przyszłości. Nie nowy sen ani zaręczyny | C11-M0137–C11-M0250 |
-| Przygotowanie obiadu | James przekazuje skrzatom zamówienie w ukrytej kuchni i wraca. Hermiona zakłada buty; para schodzi do jadalni i siada obok siebie | C11-M0251–C11-M0284 |
-| Obiad | Kurczak, ziemniaki i sałatka. Negocjacja dobrowolnej zabawy: początkowo pięć, po obejrzeniu deseru dziesięć minut zwierzeń wybieranych przez Hermionę | C11-M0285–C11-M0304 |
-| Deser | Hermiona dostaje tartę cytrynową; James pudding czekoladowy z sosem i malinami, który oddaje jej w całości. Ona zjada pudding; brak opisu losu tarty | C11-M0301–C11-M0310 |
-| Sypialnia | James niesie Hermionę na górę, zdejmuje jej buty i różdżką zasuwa baldachim, robiąc zupełną ciemność. Rozpoczynają zwierzenia | C11-M0311–C11-M0314 |
-| Rozmowa | Hermiona mówi o potrzebie uwagi, przywiązaniu, codziennych zwyczajach, nadziejach na wspólną dorosłość i wyobrażanym nazwisku. Zachowuje przyjaciół; wyklucza przemoc i groźby pod pretekstem zazdrości | C11-M0314–C11-M0406 |
-| Zakończenie | James ogłasza upływ czasu; Hermiona kończy nadzieją, że pozostaną razem. James zmienia pozycję, całuje ją i mówi „Kocham cię”. Brak odpowiedzi NPC | C11-M0407–C11-M0409 |
-
-Data 9 VII wynika z ciągłości „jutro” po 8 VII i jawnego przejścia przez noc w M0101; nie z dnia interfejsu eksportu. Nie przeliczaj długości wiadomości na minuty. C11-M0004 cytuje koniec C10, nie rozgrywa go drugi raz.
-
-## Wcześniejsza oś kampanii — skrót
-
-Początek 1 IX 1994, transfer Jamesa do Slytherinu; rozwój znajomości z Hermioną, bal 25 XII i after w Pokoju Życzeń. Pod koniec lutego związek, treningi, częściowa poprawa snu; przeskok w C7 do 23 VI. 24 VI w C8 odpoczynek nad jeziorem, a finał dopiero w C9. Cedric ginie, fałszywy Moody zostaje ujawniony, Voldemort wraca. Uczta 30 VI, wyjazd 1 VII; późniejsza jawna korekta dat ma pierwszeństwo. 5 VII list ustala wizytę 8 VII. James poznaje Grangerów, wręcza kwiaty i zwierciadło, w C10 daje Hermionie diament, jedzą obiad, idą do Hampstead Heath i wracają. Szczegóły i źródła: pełny TIMELINE oraz indeks scen C1–C10.
+Po uczcie 1 IX następny poranek prowadzi bez jawnego przeskoku do lekcji w kolejności poniedziałkowej (M0662, M0674–M0850). Nie dopisujemy brakującego weekendu ani nie uznajemy arbitralnie końca za 4 lub 6 IX. Pewne jest następstwo D → szlaban D+1 → zgłoszenie i końcowa scena D+2. M0851 pomija zwykłą resztę D i część D+1; M1084 pomija lekcje D+2. Cofnięcie sceny Draco nie dodaje dnia.
 
 
-Pełny dział z wcześniejszymi źródłami: [wersja pełna](../05_BAZA_PELNA/02_TIMELINE.md).
+Pełna wcześniejsza historia i źródła: [pełny dział](../04_BAZA_PELNA/02_TIMELINE.md).

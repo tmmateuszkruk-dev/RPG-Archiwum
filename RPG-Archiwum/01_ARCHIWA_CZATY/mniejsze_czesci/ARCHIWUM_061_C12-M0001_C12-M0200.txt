@@ -1,0 +1,2200 @@
+
+
+ARCHIWUM CZATU 12 — treść rozmowy w dotychczasowym formacie
+
+555 bloków TURN; 1109 wiadomości. TURN 471 zawiera wyłącznie USER, po nim TURN 472 zapisuje zmienioną wersję tego ruchu. Oryginalny eksport zachowano. Odrzucone warianty, cytaty, dopiski interfejsu i komentarze OOC nie są automatycznie kanonem; zobacz 09_REJESTR_KOREKT.md.
+
+[C12-M0001]
+===== USER =====
+
+czesc lecimy z part12 sprawdz nowe instrukcje projektu i przypomnij sobie co mozesz i wrzuc ostatnia wiadomosc z part 11
+
+
+[C12-M0002]
+===== ASSISTANT =====
+
+Tak — sprawdziłem najnowsze instrukcje projektu oraz cztery wymagane pliki przed startem Part12: 08_CURRENT, 10_ZASADY_I_CIAGLOSC, 09_REJESTR_KOREKT i 04_KTO_CO_WIE.
+
+Najważniejsze na start: Part12 zaczynamy bezpośrednio po C11-M0409, a następna odpowiedź należy do Hermiony. James pozostaje w 100% pod Twoją kontrolą — nie dopisuję mu myśli, uczuć, kwestii, reakcji ani dalszego ciągu jego czynności. Od tej części nowe wiadomości traktujemy jako C12. 
+10_ZASADY_I_CIAGLOSC
+ 
+10_ZASADY_I_CIAGLOSC
+
+Aktualna scena to 9 lipca 1995, po obiedzie i deserze, w głównej sypialni londyńskiego domu Jamesa. James i Hermiona są na środku łóżka pod całkowicie zasuniętym baldachimem, więc panuje ciemność. Hermiona ma wrócić do rodziców najpóźniej o 20:00. 
+08_CURRENT
+
+Ostatnia wiadomość Part11 — C11-M0409, dosłownie
+
+po ostatnim wyznaniu zmieniłem naszą pozycję i to teraz ja leżałem na niej lekko przysuwając ją do msteraca a mojej usta natychmiast znalazły jej usta -Kocham cię......powiedziałem cicho
+
+08_CURRENT
+
+Nie ma jeszcze odpowiedzi Hermiony na tę wiadomość. Pozycja została już zmieniona: James leży na niej, pocałunek został zainicjowany i padło „Kocham cię”. Nie cofamy ich do poprzedniego ułożenia. 
+08_CURRENT
+
+Czyli jesteśmy gotowi — następna wiadomość RPG będzie pierwszą odpowiedzią Part12 i reakcją Hermiony na C11-M0409.
+
+
+[C12-M0003]
+===== USER =====
+
+ok to kontynuj tylko sprawdz czy masz dostep do githuba
+
+
+[C12-M0004]
+===== ASSISTANT =====
+
+Tak — sprawdziłem to bezpośrednio. Mam dostęp do GitHuba i do repozytorium tmmateuszkruk-dev/RPG-Archiwum, więc podczas Part12 mogę w razie potrzeby sięgać do konkretnego indeksu albo właściwego fragmentu archiwum, zamiast zgadywać.
+
+Kontynuuję dokładnie od C11-M0409: pod baldachimem nadal panuje całkowita ciemność, a ostatnim ruchem był pocałunek Jamesa i jego ciche „Kocham cię”. Teraz kolej na reakcję Hermiony. 
+08_CURRENT
+
+Przez krótką chwilę Hermiona nie odpowiedziała słowami. W ciemności dało się jedynie wyczuć, jak odwzajemnia pocałunek — spokojnie, bez pośpiechu.
+
+Kiedy w końcu lekko odsunęła usta, odezwała się bardzo cicho, prawie szeptem:
+
+— Ja ciebie też kocham, James.
+
+Zamilkła na moment, po czym dodała z odrobiną tego dobrze znajomego, lekko zawstydzonego humoru:
+
+— I chyba po tych dziesięciu minutach nie zostało mi już zbyt wiele sekretów, którymi mogłabym cię jeszcze zaskoczyć.
+
+
+[C12-M0005]
+===== USER =====
+
+-Bardzo cię kocham Hermiono...
+
+
+[C12-M0006]
+===== ASSISTANT =====
+
+Hermiona przez chwilę milczała, jakby pozwalała tym słowom po prostu wybrzmieć w ciemności. Jej głos, kiedy się odezwała, był cichy i miękki.
+
+— Wiem… — szepnęła. — I chyba właśnie dlatego potrafisz doprowadzić mnie do kompletnego pomieszania myśli.
+
+Po krótkiej chwili dodała już trochę pewniej:
+
+— Ja ciebie też bardzo kocham, James. Naprawdę bardzo.
+
+
+[C12-M0007]
+===== USER =====
+
+delaktnie ją objąłem i lekko się zaruminiłem
+
+
+[C12-M0008]
+===== ASSISTANT =====
+
+Hermiona od razu odwzajemniła objęcie, przysuwając się odrobinę bliżej. W ciemności nie mogła zobaczyć rumieńca, ale w jej głosie pojawiło się ciepłe rozbawienie.
+
+— Tak jest dobrze… — szepnęła. — Po prostu zostańmy tak przez chwilę.
+
+Jej dłoń spokojnie zatrzymała się na twoich plecach.
+
+— Bez kolejnych zakładów, sekretów i negocjacji. Tylko my.
+
+
+[C12-M0009]
+===== USER =====
+
+pokiwałem głową i zostałem cicho przytulając ją
+
+
+[C12-M0010]
+===== ASSISTANT =====
+
+Hermiona też nic nie mówiła.
+
+Przez dłuższą chwilę po prostu trwała w objęciu, spokojna i rozluźniona. Jej dłoń przesunęła się tylko trochę po twoich plecach, po czym zatrzymała się tam bez dalszego ruchu.
+
+W całkowitej ciemności pod baldachimem zostały właściwie tylko oddechy i ciepło bliskości.
+
+Po pewnym czasie Hermiona odezwała się bardzo cicho:
+
+— Mogłabym tak leżeć naprawdę długo…
+
+
+[C12-M0011]
+===== USER =====
+
+mój oddech powoli się uspokoił o tylko cicho mruknąłem
+
+
+[C12-M0012]
+===== ASSISTANT =====
+
+Hermiona odpowiedziała na to mruknięcie ledwie słyszalnym, rozbawionym westchnieniem.
+
+Nie odsuwała się. Przez chwilę tylko spokojnie leżała w objęciu, a potem odezwała się szeptem:
+
+— Chyba naprawdę nie musimy teraz nic mówić.
+
+
+[C12-M0013]
+===== USER =====
+
+jednak już w ogóle nie odpowiedziałem bo zasnąłem
+
+
+[C12-M0014]
+===== ASSISTANT =====
+
+Hermiona przez kilka sekund czekała na jakąkolwiek odpowiedź, ale zamiast niej wyczuła tylko coraz spokojniejszy, równy oddech i ciężar ciała, który przestał się świadomie zmieniać.
+
+— James…? — szepnęła bardzo cicho.
+
+Nie próbowała jednak od razu go budzić. Po chwili dotarło do niej, że naprawdę zasnął — tak jak zdarzało mu się już wcześniej, choć ostatnie wakacyjne noce znów spędzał na czuwaniu.
+
+Jej dłoń pozostała nieruchomo na jego plecach.
+
+— No dobrze… — wymamrotała niemal bezgłośnie, bardziej do siebie niż do niego.
+
+I została spokojnie pod nim, ostrożnie unikając gwałtowniejszego ruchu, który mógłby go obudzić.
+
+
+[C12-M0015]
+===== USER =====
+
+przez sen jeszcze mocniej ją przytuliłem
+
+
+[C12-M0016]
+===== ASSISTANT =====
+
+Hermiona drgnęła lekko, kiedy objęcie nagle stało się mocniejsze.
+
+Przez moment znieruchomiała, po czym ostrożnie ułożyła dłoń na jego plecach i bardzo cicho wypuściła powietrze, żeby go nie obudzić.
+
+— Śpisz… — szepnęła niemal niedosłyszalnie, z wyraźnym zdziwieniem.
+
+Nie próbowała się wyswobodzić. Została spokojnie w jego objęciu, tylko trochę wygodniej układając głowę na materacu, na tyle ostrożnie, na ile pozwalało jego mocniejsze przytulenie.
+
+
+[C12-M0017]
+===== USER =====
+
+na chwilę się wynudziłem i wsunąłem rękę w jej włosy i zacząłem masować i powiedziałem sennym głosem - też się zdarzenij ukochana....
+
+
+[C12-M0018]
+===== ASSISTANT =====
+
+Hermiona poruszyła się lekko, gdy poczuła jego palce we włosach, ale nie odsunęła się.
+
+Na ten senny komentarz odpowiedziała cichutkim, rozbawionym:
+
+— Widzę właśnie…
+
+Po chwili dodała jeszcze ciszej:
+
+— Tylko nie próbuj mi potem wmówić, że wcale nie spałeś.
+
+Pozostała spokojnie w jego objęciu, pozwalając mu dalej leniwie masować sobie głowę.
+
+
+[C12-M0019]
+===== USER =====
+
+lekko się usmiechnąłem i kontowałem masaż
+
+
+[C12-M0020]
+===== ASSISTANT =====
+
+Hermiona przez chwilę nic nie mówiła, wyraźnie korzystając z tego spokojnego masażu.
+
+Po paru sekundach bardzo cicho mruknęła:
+
+— Mhm… tego akurat nie przerywaj.
+
+Jej dłoń pozostała spokojnie na jego plecach.
+
+— Chociaż zaczynam podejrzewać, że oboje zaraz zaśniemy.
+
+
+[C12-M0021]
+===== USER =====
+
+-o to chodzi Hermiono ....
+
+
+[C12-M0022]
+===== ASSISTANT =====
+
+Hermiona odpowiedziała tylko cichym, sennym pomrukiem, jakby właśnie potwierdziłeś coś zupełnie oczywistego.
+
+— Domyśliłam się… — szepnęła.
+
+Po chwili jej dłoń przesunęła się odrobinę wyżej po jego plecach i znów znieruchomiała.
+
+— To w takim razie… chyba nie będę z tym walczyć.
+
+
+[C12-M0023]
+===== USER =====
+
+-nie walcz....gdy śpisz jesteś taka urocza....
+
+
+[C12-M0024]
+===== ASSISTANT =====
+
+Hermiona odpowiedziała cichym, sennym pomrukiem, wyraźnie coraz bardziej rozluźniona pod spokojnym masażem.
+
+— To jest trochę nieuczciwe… — szepnęła. — Mówisz mi takie rzeczy dokładnie wtedy, kiedy próbuję zasnąć.
+
+Po chwili dodała jeszcze ciszej:
+
+— Ale… dziękuję.
+
+I już się nie poruszyła, pozwalając sobie coraz bardziej odpływać w sen.
+
+
+[C12-M0025]
+===== USER =====
+
+nadal delaktnie głaskałem ją po głowie
+
+
+[C12-M0026]
+===== ASSISTANT =====
+
+Hermiona po chwili przestała już cokolwiek mówić.
+
+Pod spokojnym głaskaniem jej oddech stawał się coraz wolniejszy i równiejszy. Dłoń, którą wcześniej trzymała na jego plecach, rozluźniła się lekko.
+
+Jeszcze przez moment była przytomna, po czym bardzo cicho mruknęła:
+
+— Mhm… dobranoc, James…
+
+I stopniowo naprawdę zasnęła, nadal wtulona w niego pod zamkniętym baldachimem.
+
+
+[C12-M0027]
+===== USER =====
+
+-Slodkich snów....kochanie....
+
+
+[C12-M0028]
+===== ASSISTANT =====
+
+Hermiona już nie odpowiedziała.
+
+Jej oddech pozostał spokojny i równy, a po chwili z jej gardła wydobył się tylko cichy, senny pomruk. Dłoń nadal spoczywała luźno na jego plecach.
+
+Spała dalej, wtulona w niego pod zamkniętym baldachimem.
+
+
+[C12-M0029]
+===== USER =====
+
+moja ręka nadal delaktnie ją głaskała a po chwili też zasnąłem
+
+
+[C12-M0030]
+===== ASSISTANT =====
+
+Przez pewien czas pod baldachimem nie wydarzyło się już nic.
+
+Hermiona spała spokojnie w objęciu Jamesa, a jego dłoń, która jeszcze chwilę wcześniej przesuwała się po jej włosach, znieruchomiała wraz ze snem. W zamkniętej przestrzeni słychać było tylko dwa spokojne oddechy.
+
+Dopiero po dłuższej, trudnej do określenia chwili Hermiona lekko się poruszyła. Nie obudziła się jeszcze całkiem — poprawiła tylko głowę i przez sen odruchowo przysunęła się odrobinę wygodniej, po czym ponownie znieruchomiała.
+
+
+[C12-M0031]
+===== USER =====
+
+ja spałem jak dziecko jednak śniły mi się dziwne sny
+
+
+[C12-M0032]
+===== ASSISTANT =====
+
+Hermiona spała dalej, nadal wtulona w Jamesa pod zamkniętym baldachimem.
+
+Nie mogła wiedzieć, co dokładnie mu się śniło. Z zewnątrz nic nie zdradzało treści tych dziwnych snów — w sypialni wciąż panowała cisza, przerywana jedynie spokojnymi oddechami obojga.
+
+Mijały kolejne minuty.
+
+
+[C12-M0033]
+===== USER =====
+
+minęło parę godzin i zegary w domu wskazały szesnastą
+
+
+[C12-M0034]
+===== ASSISTANT =====
+
+Gdy domowe zegary wybiły szesnastą, ich dźwięk dotarł również do sypialni.
+
+Hermiona poruszyła się lekko pod zamkniętym baldachimem. Przez kilka sekund pozostała nieruchoma, jeszcze wyraźnie na granicy snu, po czym jej oddech zmienił rytm i otworzyła oczy — choć w panującej ciemności niewiele to zmieniało.
+
+Nie odezwała się od razu. Najpierw zorientowała się, że nadal jest przytulona do Jamesa.
+
+— Mmm… — mruknęła sennie.
+
+Po chwili cicho dodała:
+
+— Która jest…?
+
+
+[C12-M0035]
+===== USER =====
+
+Powiedziałem sennie - nie mam pojęcia ale na pewno pełna godzina i na pewno przed dwudziestą
+
+
+[C12-M0036]
+===== ASSISTANT =====
+
+Hermiona cicho prychnęła, nadal wyraźnie zaspana.
+
+— Niezwykle precyzyjna odpowiedź, Brown… — mruknęła. — Zwłaszcza że muszę być w domu przed dwudziestą.
+
+Przez moment jeszcze leżała spokojnie, po czym dodała:
+
+— Powinniśmy jednak sprawdzić godzinę. Zanim przypadkiem obudzimy się o dziewiętnastej pięćdziesiąt.
+
+
+[C12-M0037]
+===== USER =====
+
+Spokojnie pogłaskałem ją po głowie na pewno jeszcze dużo czasu bo inaczej Skrzaty by już dawno mnie poinformowały.....
+
+
+[C12-M0038]
+===== ASSISTANT =====
+
+Hermiona mruknęła cicho pod wpływem głaskania, ale na wzmiankę o skrzatach wyraźnie odzyskała odrobinę przytomności.
+
+— To, że skrzaty pilnują za nas czasu, nie znaczy, że możemy całkiem przestać używać zegara — zauważyła sennie.
+
+Po chwili jednak rozluźniła się znowu.
+
+— Ale dobrze… skoro twierdzisz, że jeszcze nas nie alarmowały, dam ci kilka minut przewagi nad moim rozsądkiem.
+
+Jej dłoń ponownie spoczęła spokojnie na jego plecach.
+
+— Tylko kilka.
+
+
+[C12-M0039]
+===== USER =====
+
+-spij kochana....powiedziałem i jedną ręką zacząłem masować ją po głowie a drugą po skroniach
+
+
+[C12-M0040]
+===== ASSISTANT =====
+
+Hermiona odpowiedziała tylko cichym, zaspanym pomrukiem.
+
+Pod spokojnym masażem jej głowy i skroni znów zaczęła się rozluźniać, choć tym razem nie odpłynęła od razu.
+
+— Jeszcze trochę… — wymamrotała sennie. — Ale potem naprawdę sprawdzamy godzinę.
+
+Po chwili jej oddech ponownie stał się wolniejszy i równiejszy.
+
+
+[C12-M0041]
+===== USER =====
+
+kontynuowałem masaż i zacząłem też delaktnie muskać ustami jej policzek
+
+
+[C12-M0042]
+===== ASSISTANT =====
+
+Hermiona poruszyła się lekko, kiedy poczuła delikatne muśnięcia na policzku, ale nie odsunęła się.
+
+Przeciwnie — po chwili rozluźniła się jeszcze bardziej pod masażem, a z jej gardła wyrwał się cichy, senny pomruk.
+
+— Ty naprawdę robisz wszystko, żebym znowu zasnęła… — wymamrotała.
+
+Po krótkiej chwili dodała ciszej:
+
+— I chyba ci się uda.
+
+
+[C12-M0043]
+===== USER =====
+
+w odpowiednim tylko się uśmiechnąłem i kontynuowałem masaż a po chwili mocno się zaruminiłem
+Wiesz co miałem dziwny sen....
+
+
+[C12-M0044]
+===== ASSISTANT =====
+
+Hermiona lekko uniosła głowę, a senność w jej głosie ustąpiła miejsca ciekawości.
+
+— Dziwny? — powtórzyła cicho.
+
+W ciemności nie mogła zobaczyć jego rumieńca, ale sam ton wystarczył, żeby ją zainteresować.
+
+— To teraz już musisz mi powiedzieć, co ci się śniło.
+
+
+[C12-M0045]
+===== USER =====
+
+Byłem po ślubie ale nie z tobą...
+
+
+[C12-M0046]
+===== ASSISTANT =====
+
+Hermiona przez moment zupełnie znieruchomiała.
+
+— Och… — wyrwało jej się cicho.
+
+Po chwili odezwała się już bardziej przytomnie, z wyraźną ciekawością w głosie:
+
+— No dobrze… tego się nie spodziewałam.
+
+Jej dłoń lekko przesunęła się po jego plecach.
+
+— Z kim więc byłem… znaczy, z kim ty byłeś po ślubie w tym śnie?
+
+
+[C12-M0047]
+===== USER =====
+
+Zgadnij
+
+
+[C12-M0048]
+===== ASSISTANT =====
+
+Hermiona przez chwilę milczała, wyraźnie próbując zgadnąć.
+
+— Hmm… — mruknęła. — Skoro to miał być dziwny sen…
+
+Po chwili dodała z lekkim rozbawieniem:
+
+— Luna?
+
+I niemal od razu, jakby rozważała kolejną możliwość:
+
+— Albo… Daphne?
+
+
+[C12-M0049]
+===== USER =====
+
+Luna.... Byliśmy już po szkole i Luna....ta w śnie była bardzo ładna.....
+
+
+[C12-M0050]
+===== ASSISTANT =====
+
+Hermiona milczała przez sekundę dłużej niż wcześniej.
+
+— „Bardzo ładna”, tak? — powtórzyła cicho, a w jej głosie pojawiła się delikatna nuta zazdrości zmieszanej z rozbawieniem.
+
+Przesunęła lekko palcami po jego plecach.
+
+— Dobrze, Brown. Na razie pamiętam, że to był tylko sen.
+
+Po chwili ciekawość zwyciężyła.
+
+— Ale teraz zdecydowanie chcę usłyszeć resztę. Jak właściwie wyglądało nasze… przepraszam, wasze życie po tym ślubie?
+
+
+[C12-M0051]
+===== USER =====
+
+bardzo się zaruminiłem....ehmmm
+
+
+[C12-M0052]
+===== ASSISTANT =====
+
+Hermiona usłyszała to zawahanie i natychmiast zrobiła się jeszcze bardziej ciekawa.
+
+— O nie… — mruknęła cicho, z rozbawieniem. — Teraz już brzmisz tak, jakby dalsza część była naprawdę kompromitująca.
+
+Przesunęła lekko dłonią po jego plecach.
+
+— No dalej, James. Sam zacząłeś. Co jeszcze wydarzyło się w tym śnie?
+
+
+[C12-M0053]
+===== USER =====
+
+Była noc poślubna.....i powiedział bym nawet że cały dzień poślubiony...
+
+
+[C12-M0054]
+===== ASSISTANT =====
+
+Hermiona przez moment milczała, jakby właśnie dotarło do niej, co zasugerował.
+
+— James… — odezwała się powoli, już zdecydowanie mniej sennie. — Chyba nie chcę znać wszystkich szczegółów tego snu.
+
+Po chwili jednak w jej głosie pojawiło się rozbawienie.
+
+— „Cały dzień poślubny” brzmi wystarczająco podejrzanie samo w sobie.
+
+Lekko przesunęła dłonią po jego plecach.
+
+— Możesz mi powiedzieć, co było dalej… tylko w wersji bardzo skróconej.
+
+
+[C12-M0055]
+===== USER =====
+
+jeszcze bardziej się zaruminiłem - tylko tyle... przeżyliśmy niecały dzień a potem sen się skończył ale było bardzo intensywnie...
+
+
+[C12-M0056]
+===== ASSISTANT =====
+
+Hermiona przez chwilę milczała, najwyraźniej układając sobie w głowie to, co właśnie usłyszała.
+
+— „Bardzo intensywnie” — powtórzyła powoli, z cichym rozbawieniem. — To jest chyba dokładnie ten rodzaj podsumowania, przy którym rozsądnie jest nie zadawać dalszych pytań.
+
+Jej dłoń przesunęła się lekko po jego plecach.
+
+— Chociaż przyznam… fakt, że we śnie ożeniłeś się akurat z Luną, jest dość interesujący.
+
+Po chwili dodała już łagodniej:
+
+— Ale spokojnie. Nie będę robiła scen zazdrości o sen. Jeszcze.
+
+
+[C12-M0057]
+===== USER =====
+
+-Możesz zrobić będzie to bardzo urocze....
+
+
+[C12-M0058]
+===== ASSISTANT =====
+
+Hermiona cicho parsknęła śmiechem.
+
+— A więc mam być zazdrosna na zamówienie, bo uważasz, że to urocze? — mruknęła. — Nie licz na to, Brown.
+
+Po chwili jednak dodała z wyraźnym rozbawieniem:
+
+— Chociaż przyznam, że ta „bardzo ładna Luna” trochę mnie ukłuła.
+
+Jej dłoń lekko przesunęła się po jego plecach.
+
+— Ale tylko trochę. I absolutnie nie zamierzam dawać ci satysfakcji większej niż ta.
+
+
+[C12-M0059]
+===== USER =====
+
+Oooo powiedziałem i nachyliłem się do jej ucha kochanie....ty Teraz już jesteś bardzo ładna więc jak będziemy brali ślub to ja pewno będziesz taką ultra uroczą piękną i cudowną że ciężko mi będzie przy Tobie nawet myśleć o czymś innym niż o Tobie...
+
+
+[C12-M0060]
+===== ASSISTANT =====
+
+Hermiona zamilkła na chwilę, jakby te słowa skutecznie odebrały jej gotową ripostę.
+
+— James… — mruknęła cicho.
+
+Po chwili w jej głosie pojawiło się ciepłe rozbawienie.
+
+— Jeśli kiedyś naprawdę będziemy brać ślub i będziesz mówił mi takie rzeczy przez cały dzień, to obawiam się, że ja też nie będę w stanie myśleć o niczym innym.
+
+Jej dłoń przesunęła się lekko po jego plecach.
+
+— Ale nie próbuj teraz zamieniać jednego dziwnego snu z Luną w plan naszego ślubu — dodała, już wyraźnie żartobliwie. — Chociaż… ta druga część brzmi zdecydowanie lepiej.
+
+
+[C12-M0061]
+===== USER =====
+
+Dobrze.... jeszcze parę lat....a tak teoretycznie.... zgodziła byś się na ślub od razu po szkole.... pytam tylko teoretycznie...
+
+
+[C12-M0062]
+===== ASSISTANT =====
+
+Hermiona na chwilę zupełnie ucichła.
+
+— Teoretycznie… — powtórzyła, wyraźnie przeciągając słowo. — Bardzo wygodne zabezpieczenie, Brown.
+
+Przez moment jeszcze się zastanawiała.
+
+— Nie obiecam ci teraz, mając piętnaście lat, że dokładnie dzień po skończeniu szkoły pobiegniemy się pobrać — powiedziała cicho, ale bez wycofywania się z tematu. — Ale jeśli za te kilka lat nadal będziemy razem… nadal będziemy chcieli wspólnego życia i będziemy tego naprawdę pewni…
+
+Zawahała się na sekundę.
+
+— …to tak. Mogłabym się zgodzić.
+
+Po chwili dodała szybko:
+
+— Teoretycznie. Skoro już tak bardzo pilnujemy tego słowa.
+
+
+[C12-M0063]
+===== USER =====
+
+szybko pocałowałem jej nosek - tylko teoretycznie
+
+
+[C12-M0064]
+===== ASSISTANT =====
+
+Hermiona cicho parsknęła śmiechem po pocałunku w nos.
+
+— Oczywiście — mruknęła. — Całkowicie, absolutnie i bez najmniejszych zobowiązań teoretycznie.
+
+Po chwili dodała ciszej, już bardziej miękko:
+
+— Ale… podoba mi się ta teoria.
+
+
+[C12-M0065]
+===== USER =====
+
+-a ty mi się podobasz w teorii i praktyce...
+
+
+[C12-M0066]
+===== ASSISTANT =====
+
+Hermiona parsknęła cicho śmiechem.
+
+— To było okropnie gładkie, Brown… — mruknęła, wyraźnie rozbawiona. — Prawie podejrzanie gładkie.
+
+Po chwili jej głos zmiękł.
+
+— Ale dobrze. Przyjmuję komplement.
+
+Jej dłoń lekko przesunęła się po jego plecach.
+
+— I dla jasności… ty też mi się podobasz. W teorii, praktyce i wszystkich tych twoich dziwnych kategoriach.
+
+
+[C12-M0067]
+===== USER =====
+
+uśmnechnąłem się i delaktnie pocałowałem jej policzek - No dobrze skoro się już rozbidziliśmy to zakładam że Panna Granger pewnie chcę zajrzeć do biblioteki i siedzieć tam parę godzin...?
+
+
+[C12-M0068]
+===== ASSISTANT =====
+
+Hermiona od razu parsknęła cicho śmiechem.
+
+— „Pewnie”? — powtórzyła. — James, masz w domu bibliotekę pełną książek o runach, prawie magicznym i rzeczach, do których normalnie nie mam dostępu. Oczywiście, że chcę tam wrócić.
+
+Po chwili dodała, już bardziej przytomnie:
+
+— Chociaż „parę godzin” może być ambitne. Jest już szesnasta, a przed dwudziestą muszę wrócić do domu.
+
+Zawahała się na moment.
+
+— Ale… tak. Biblioteka zdecydowanie znajduje się bardzo wysoko na mojej liście planów na resztę wizyty.
+
+
+[C12-M0069]
+===== USER =====
+
+-Dobrze ale pod pewnymi warunkami...po pierwsze mogę cały czas przytulać i głaskać Pannę Granger.... całować po policzkach uszkach czole.... też cały czas... A pocałunki w usta i szyjkę...tylko podczas przerw na żądanie Panny Granger..?
+
+
+[C12-M0070]
+===== ASSISTANT =====
+
+Hermiona parsknęła śmiechem.
+
+— Zaraz, zaraz… ty mi właśnie proponujesz dostęp do biblioteki w zamian za prawo do ciągłego przeszkadzania mi w czytaniu?
+
+Po chwili, nadal rozbawiona, zaczęła wyliczać:
+
+— Przytulanie i głaskanie — dobrze. Policzek, czoło, uszy… też, o ile rzeczywiście będę jeszcze w stanie przeczytać choć jedno zdanie.
+
+Zrobiła krótką pauzę.
+
+— Pocałunki w usta możemy zostawić na przerwy. To akurat brzmi rozsądnie.
+
+A potem dodała od razu:
+
+— Ale z szyją nie wymyślaj nowej zasady, Brown. Już ją mamy. Pytasz mnie raz, zanim zaczniesz w danej sytuacji. Jeśli powiem „tak”, nie musisz potem pytać przed każdym kolejnym pocałunkiem. Tylko w bibliotece również wolałabym, żebyś zostawił to na przerwę, bo inaczej znam cię na tyle dobrze, że po pięciu minutach nie będę pamiętała, co czytałam.
+
+Cicho się zaśmiała.
+
+— I tak. Przerwy na żądanie Panny Granger. To akurat bardzo mi się podoba.
+
+
+[C12-M0071]
+===== USER =====
+
+-Dobrze jesteśmy dogadani...
+
+
+[C12-M0072]
+===== ASSISTANT =====
+
+Hermiona uśmiechnęła się w ciemności.
+
+— Doskonale. Umowa stoi — powiedziała z wyraźnym zadowoleniem. — I uprzedzam, że prawo do zarządzania przerwami zamierzam wykorzystywać bardzo rozsądnie.
+
+Po chwili poruszyła się ostrożnie, najwyraźniej szykując się w końcu do opuszczenia łóżka.
+
+— A teraz, panie Brown… skoro już wynegocjowaliśmy warunki mojego dostępu do biblioteki, chyba wypadałoby mnie do niej zaprowadzić. Zanim ponownie zaśniemy i obudzimy się pięć minut przed dwudziestą.
+
+
+[C12-M0073]
+===== USER =====
+
+dobyłem różdżkę i machnąłem ją odsuwając baldachimy a potem wstałem z łóżka i wziąłem Hermionę na ręce i poniosłem ją przez budynek do biblioteki
+
+
+[C12-M0074]
+===== ASSISTANT =====
+
+Hermiona wydała z siebie krótkie, zaskoczone:
+
+— James!
+
+Odruchowo objęła go rękami za szyję, kiedy znalazła się w jego ramionach.
+
+— Wiesz, że potrafię chodzić, prawda? — zapytała z rozbawieniem, choć nie próbowała się wyrywać. — To nie jest kolejny warunek dostępu do biblioteki, mam nadzieję.
+
+Kiedy po przejściu przez dom dotarli do biblioteki, jej uwaga niemal natychmiast powędrowała ku regałom.
+
+— Dobrze… — mruknęła, spoglądając na półki. — Teraz możesz mnie odstawić. Chyba że zamierzasz również nosić mnie między regałami, kiedy będę wybierała książki.
+
+
+[C12-M0075]
+===== USER =====
+
+ostrożnie odstawiłem ją na ziemię i delikatnie poprawiłem jej sukienkę - jesteś śliczna...
+
+
+[C12-M0076]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego z lekkim rozbawieniem, kiedy poprawił materiał sukienki.
+
+— Dziękuję… — odpowiedziała ciszej, wyraźnie zadowolona z komplementu. — Chociaż podejrzewam, że dzisiaj jesteś trochę stronniczy.
+
+Po chwili zerknęła już w stronę regałów i dodała:
+
+— A teraz chodź. Zanim zamiast czytać spędzę następne pół godziny na słuchaniu, jaka jestem śliczna.
+
+
+[C12-M0077]
+===== USER =====
+
+poszedłem za nią czekając aż wybierze
+
+
+[C12-M0078]
+===== ASSISTANT =====
+
+Hermiona ruszyła między regałami powoli, przesuwając wzrokiem po grzbietach książek. Przy półce ze starożytnymi runami zatrzymała się na dłużej i przez chwilę porównywała kilka tomów.
+
+W końcu wyciągnęła jeden z nich i obejrzała go z wyraźnym zainteresowaniem.
+
+— Ten — zdecydowała. — Na początek.
+
+Przycisnęła książkę do siebie i zerknęła na Jamesa z lekkim uśmiechem.
+
+— I pamiętam naszą umowę, więc nawet nie próbuj udawać, że zapomniałeś o części dotyczącej przerw.
+
+
+[C12-M0079]
+===== USER =====
+
+pokiwałem głową i wziąłem ją za rękę i poprowadziłem do jednej z wygodnych kanap i gdy usiadła zająłem miejsce obok niej układając głowę na jej kolanach
+
+
+[C12-M0080]
+===== ASSISTANT =====
+
+Hermiona usadowiła się wygodniej na kanapie, ułożyła książkę tak, żeby móc swobodnie czytać, po czym spojrzała w dół na głowę Jamesa spoczywającą na jej kolanach.
+
+— Oczywiście — mruknęła z rozbawieniem. — Nawet w bibliotece musisz znaleźć sobie najlepsze miejsce.
+
+Otworzyła książkę na początku wybranego rozdziału, a wolną dłonią odruchowo przesunęła raz po jego włosach.
+
+— Dobrze. Teraz spróbuję przeczytać chociaż kilka stron, zanim zaczniesz realizować resztę naszej umowy.
+
+
+[C12-M0081]
+===== USER =====
+
+pokiwałem głową ale leżałem spokojnie i grzecznie ciesząc się jej masażem
+
+
+[C12-M0082]
+===== ASSISTANT =====
+
+Hermiona czytała przez chwilę bez słowa, a jej palce coraz regularniej przesuwały się po włosach Jamesa, delikatnie masując mu skórę głowy.
+
+Po kilku minutach zerknęła w dół.
+
+— Hm. Jesteś podejrzanie grzeczny — mruknęła z lekkim rozbawieniem. — Zaczynam się zastanawiać, czy naprawdę mam kilka stron spokoju.
+
+Po chwili wróciła wzrokiem do książki, ale masażu nie przerwała.
+
+
+[C12-M0083]
+===== USER =====
+
+ja jednak milczałem i tylko lekko się usmiechnąłem jednak gdy ona mnie masowała ją stawałem się coraz bardziej senny i po chwili zasnąłem
+
+
+[C12-M0084]
+===== ASSISTANT =====
+
+Hermiona przez kilka minut czytała dalej, od czasu do czasu przesuwając palcami po jego włosach.
+
+Dopiero kiedy zauważyła, że od dłuższej chwili James pozostaje zupełnie nieruchomy, a jego oddech stał się spokojny i równy, spojrzała w dół.
+
+— Znowu…? — szepnęła z lekkim niedowierzaniem.
+
+Przez moment przyglądała mu się w ciszy, po czym na jej twarzy pojawił się miękki uśmiech.
+
+— Niesamowite. Przyprowadziłeś mnie do biblioteki tylko po to, żeby zasnąć mi na kolanach.
+
+Nie próbowała go budzić. Poprawiła jedynie książkę w dłoni i wróciła do czytania, nadal bardzo delikatnie przeczesując palcami jego włosy.
+
+
+[C12-M0085]
+===== USER =====
+
+spałem spokojnie dalej
+
+
+[C12-M0086]
+===== ASSISTANT =====
+
+Hermiona czytała dalej, a przez kilka minut jej palce nadal spokojnie przesuwały się po włosach Jamesa.
+
+Kiedy zorientowała się, że naprawdę śpi, tylko na moment opuściła wzrok znad książki.
+
+— No proszę… — szepnęła do siebie z lekkim rozbawieniem. — Drugi raz tego samego dnia.
+
+Nie budziła go. Poprawiła jedynie ułożenie książki i wróciła do lektury, od czasu do czasu bardzo delikatnie głaszcząc go po głowie. Dla Hermiony perspektywa spokojnego siedzenia przez dłuższy czas z książką była zresztą czymś zupełnie naturalnym. 
+Harry Potter
++1
+
+Mijał czas, a biblioteka pozostawała cicha.
+
+
+[C12-M0087]
+===== USER =====
+
+Ja nadal spałem spokojnie
+
+
+[C12-M0088]
+===== ASSISTANT =====
+
+Hermiona nie próbowała go budzić.
+
+Czytała dalej w ciszy, przewracając kolejne strony wybranego tomu. Co jakiś czas jej wolna dłoń wracała do włosów Jamesa i bardzo delikatnie przesuwała się po jego głowie.
+
+Po pewnym czasie zerknęła w dół i szepnęła do siebie z lekkim rozbawieniem:
+
+— I tyle było z naszej umowy o przeszkadzaniu mi w czytaniu…
+
+Uśmiechnęła się lekko i znów skupiła wzrok na książce, pozwalając mu spokojnie spać na swoich kolanach.
+
+
+[C12-M0089]
+===== USER =====
+
+po jakimś czasie w bibliotece pojawił się jeden ze skrzatów
+
+
+[C12-M0090]
+===== ASSISTANT =====
+
+Po jakimś czasie ciszę biblioteki przerwało ciche pyknięcie.
+
+Obok jednej z półek pojawił się niewielki skrzat domowy o dużych uszach, ubrany w prostą, schludną tunikę. Zatrzymał się, widząc śpiącego Jamesa z głową na kolanach Hermiony, więc odezwał się znacznie ciszej niż normalnie.
+
+— Panienko Granger… Tobik przeprasza, że przeszkadza.
+
+Hermiona oderwała wzrok od książki.
+
+— Tak?
+
+Skrzat skłonił się lekko.
+
+— Jest dokładnie osiemnasta czterdzieści pięć. Tobik uznał, że panienka powinna wiedzieć, ponieważ panienka ma wrócić do domu przed dwudziestą.
+
+Hermiona natychmiast spojrzała w dół na śpiącego Jamesa.
+
+— Osiemnasta czterdzieści pięć… — powtórzyła półgłosem. — Dobrze, że przyszedłeś, Tobik. Dziękuję.
+
+— Tobik służy pomocą, panienko.
+
+Skrzat ponownie się ukłonił, ale jeszcze nie zniknął, najwyraźniej czekając, czy Hermiona będzie czegoś potrzebowała.
+
+Hermiona tymczasem zamknęła książkę, pozostawiając jedną dłoń bardzo delikatnie we włosach Jamesa.
+
+— James… — powiedziała cicho, próbując obudzić go łagodnie. — Jest osiemnasta czterdzieści pięć.
+
+
+[C12-M0091]
+===== USER =====
+
+cicho mruknąłem i tylko trochę poprawiłem się na jej kolanach
+
+
+[C12-M0092]
+===== ASSISTANT =====
+
+Hermiona spojrzała w dół, kiedy tylko mruknął i poprawił się na jej kolanach.
+
+— James… — powiedziała trochę wyraźniej, ale nadal łagodnie. — Kochanie, naprawdę musisz się obudzić. Jest osiemnasta czterdzieści pięć.
+
+Jej palce przesunęły się delikatnie po jego włosach.
+
+— Jeśli zaraz znowu odpłyniesz, będę miała coraz mniej czasu, zanim będę musiała wracać do domu.
+
+Tobik nadal stał kilka kroków dalej, czekając w ciszy.
+
+
+[C12-M0093]
+===== USER =====
+
+otworzyłem jedno oko a potem drugie i lekko się przeciągnąłem
+
+
+[C12-M0094]
+===== ASSISTANT =====
+
+Hermiona spojrzała w dół, kiedy wreszcie otworzył oczy i przeciągnął się na jej kolanach.
+
+— No, witamy z powrotem — mruknęła z rozbawieniem, nadal delikatnie przesuwając palcami po jego włosach. — Tym razem naprawdę zasnąłeś porządnie.
+
+Tobik stał nadal kilka kroków dalej, cierpliwie czekając.
+
+Hermiona zerknęła w jego stronę, a potem znowu na Jamesa.
+
+— Jest osiemnasta czterdzieści pięć — przypomniała łagodnie. — Czyli mamy jeszcze trochę czasu, ale nie aż tak dużo, jak mieliśmy wcześniej.
+
+
+[C12-M0095]
+===== USER =====
+
+kiwnąłem głową i trochę się podniosłem z jej kolan i wtedy dopiero zobaczyłem szkrzata - Tobik!!...powiedziałem trochę zbyt głośno i agresywnie...jednak spojrzałem kątem oka na Hermionę i dokończyłem już łagodnie
+Dziękuję... możesz już iść...
+
+
+[C12-M0096]
+===== ASSISTANT =====
+
+Tobik aż podskoczył na pierwszy, ostry ton. Jego wielkie uszy opadły, ale gdy James natychmiast złagodniał, skrzat uniósł wzrok.
+
+— Oczywiście, paniczu Brown. Tobik tylko chciał dopilnować godziny.
+
+Ukłonił się najpierw Jamesowi, potem Hermionie.
+
+— Dziękuję, Tobik — powiedziała Hermiona.
+
+Skrzat skinął głową i po cichym pyknięciu zniknął z biblioteki.
+
+Hermiona odczekała może sekundę, po czym spojrzała na Jamesa bardzo znacząco.
+
+— James… — zaczęła spokojnie. — Doceniam tę drugą część.
+
+Kącik jej ust drgnął lekko.
+
+— Tę z „dziękuję”. Zdecydowanie bardziej mi się podobała niż „TOBIK!”.
+
+
+[C12-M0097]
+===== USER =====
+
+-Wiem....powiedziałem i gdy skrzata już nie było delaktnie pocałowałem jej policzek i mocno ją przytuliłem
+
+
+[C12-M0098]
+===== ASSISTANT =====
+
+Hermiona odwzajemniła objęcie, a po pocałunku w policzek jej napięcie trochę opadło.
+
+— Wiem — powiedziała ciszej. — I widziałam, że od razu się poprawiłeś.
+
+Przez chwilę została wtulona w niego, po czym dodała już łagodniej:
+
+— Tylko następnym razem spróbuj od razu zacząć od tej spokojniejszej wersji, dobrze? Tobik naprawdę się przestraszył.
+
+Jej dłoń przesunęła się lekko po jego plecach.
+
+— A teraz… nie zamierzam psuć naszych ostatnich godzin razem wykładem.
+
+
+[C12-M0099]
+===== USER =====
+
+Przepraszam po prostu czasmi jeszcze włącza mi się tryb bojowy bez powodu....i zapomniałem że masz bzika na tym punkcie...
+
+
+[C12-M0100]
+===== ASSISTANT =====
+
+Hermiona westchnęła cicho, ale nie odsunęła się z objęcia.
+
+— „Mam bzika” to bardzo eleganckie określenie na „uważam, że skrzaty powinno się traktować jak istoty, a nie jak meble” — mruknęła, lekko unosząc brwi. Jej zaangażowanie w prawa skrzatów jest zgodne z tym, jak canon opisuje jej działalność w S.P.E.W. 
+Harry Potter
++1
+
+Po chwili jej ton jednak złagodniał.
+
+— Ale wiem, że nie zrobiłeś tego specjalnie. I widziałam, że od razu się opanowałeś.
+
+Przesunęła dłonią po jego plecach.
+
+— Po prostu spróbuj pamiętać następnym razem. Zwłaszcza przy Tobiku. Nie chciałabym, żeby bał się przychodzić do ciebie z czymś ważnym.
+
+
+[C12-M0101]
+===== USER =====
+
+(czat nie już ci kiedyś mówiłem żebyś nie dodawał tych takich encyklopedycznych dopisków i żeby sprawdzić czy mnie rozumiesz wskaż taki w Twojej ostatniej wypowiedzi)
+
+
+[C12-M0102]
+===== ASSISTANT =====
+
+Tak, rozumiem. Tym encyklopedycznym dopiskiem w mojej ostatniej wypowiedzi było:
+
+„Jej zaangażowanie w prawa skrzatów jest zgodne z tym, jak canon opisuje jej działalność w S.P.E.W. (harrypotter.com)”
+
+To właśnie taki komentarz spoza narracji RPG, który niepotrzebnie wyjaśnia kanon i psuje immersję. Nie powinienem go dodawać. W samej scenie wystarczy zachowanie i dialog Hermiony — bez przypisów, linków, komentarzy o kanonie ani tłumaczenia, dlaczego zachowuje się w określony sposób.
+
+
+[C12-M0103]
+===== USER =====
+
+(Tak a dokładnie jeśli chcesz coś dokładnie wyjaśniać w to na końcu ok?)
+
+
+[C12-M0104]
+===== ASSISTANT =====
+
+Tak. W trakcie samej sceny zostawiam czystą narrację i dialogi, bez encyklopedycznych dopisków.
+
+Jeśli będzie coś wartego doprecyzowania — np. kwestia kanonu, źródła, ciągłości albo historycznego ustalenia — mogę dodać krótką notkę dopiero na końcu, wyraźnie oddzieloną od RPG. Jeśli nie będzie to potrzebne, nie będę jej dodawał wcale.
+
+
+[C12-M0105]
+===== USER =====
+
+pozostałem w objęciu i lekko pocałowałem jej policzek - Dobrze...
+
+
+[C12-M0106]
+===== ASSISTANT =====
+
+Hermiona została w objęciu i odwzajemniła je spokojnie.
+
+— Dobrze — odpowiedziała cicho.
+
+Po chwili lekko przesunęła dłonią po jego plecach.
+
+— I nie gniewam się na ciebie. Po prostu… wiesz, że na tym punkcie potrafię być uparta.
+
+Odsunęła się tylko tyle, żeby móc na niego spojrzeć.
+
+— A poza tym zostało nam jeszcze trochę czasu. Nie chcę go spędzić na kłótni o Tobika.
+
+
+[C12-M0107]
+===== USER =====
+
+-ja też nie.... więc dużo przytulania i głaskania czy moja słodka Hermiona ma inny pomysł?
+
+
+[C12-M0108]
+===== ASSISTANT =====
+
+Hermiona uśmiechnęła się i jeszcze przez chwilę została blisko niego.
+
+— Dużo przytulania i głaskania brzmi całkiem dobrze… — przyznała cicho. — Ale mam małą poprawkę.
+
+Uniosła książkę, którą wcześniej czytała.
+
+— Najpierw chcę dokończyć jeszcze kawałek tego rozdziału. Ty możesz wrócić na moje kolana, skoro najwyraźniej bardzo ci tam wygodnie.
+
+Po chwili dodała z lekkim rozbawieniem:
+
+— A potem zarządzę przerwę. I wtedy możesz mnie przytulać, ile chcesz.
+
+Zawahała się sekundę.
+
+— No… prawie ile chcesz. Nadal zamierzam wrócić do domu przed dwudziestą, więc nie próbuj mnie tutaj zatrzymać do jutra.
+
+
+[C12-M0109]
+===== USER =====
+
+pokiwałem głową i po chwili rzeczywiście wróciłem na jej kolana i czekałem aż Hermiona skończy czytać
+
+
+[C12-M0110]
+===== ASSISTANT =====
+
+Hermiona poprawiła książkę na kolanach tak, żeby głowa Jamesa jej nie przeszkadzała, i wróciła do miejsca, w którym wcześniej przerwała.
+
+Przez kilka minut czytała w skupieniu. Jej wolna dłoń co jakiś czas odruchowo przesuwała się po jego włosach, choć wzroku niemal nie odrywała od tekstu.
+
+W końcu przewróciła ostatnią stronę rozdziału, doczytała do końca i zamknęła książkę z cichym stuknięciem.
+
+— Dobrze… — powiedziała z wyraźnym zadowoleniem. — Teraz mogę uczciwie powiedzieć, że skończyłam.
+
+Odłożyła tom obok siebie na kanapę, po czym spojrzała w dół.
+
+— A więc, panie Brown… — kącik jej ust uniósł się lekko. — Zdaje się, że właśnie zaczęła się przerwa na żądanie Panny Granger.
+
+
+[C12-M0111]
+===== USER =====
+
+Szybko zmieniłem naszą pozycję i mocno ją przytuliłem i po chwili już razem byliśmy na kanapie w bardzo bliskimi objęciu
+
+
+[C12-M0112]
+===== ASSISTANT =====
+
+Hermiona wydała z siebie ciche, zaskoczone:
+
+— James…!
+
+Ale kiedy już znalazła się razem z nim na kanapie w ciasnym objęciu, nie próbowała się odsunąć. Przeciwnie — po chwili objęła go mocniej i wygodniej ułożyła głowę przy jego ramieniu.
+
+— No dobrze… — mruknęła z rozbawieniem. — Rozumiem, że przerwa została oficjalnie rozpoczęta.
+
+Przez moment po prostu została blisko.
+
+— Tylko pamiętaj, że przed dwudziestą naprawdę muszę być w domu — dodała ciszej. — Więc wykorzystajmy tę chwilę, zanim będę musiała zacząć patrzeć na zegar co trzy minuty.
+
+
+[C12-M0113]
+===== USER =====
+
+-Dosłownie chwila...powiedziałem i połączyłem nasze usta w bardzo długim delikatnym pocałunku
+
+
+[C12-M0114]
+===== ASSISTANT =====
+
+Hermiona odwzajemniła pocałunek spokojnie, bez pośpiechu.
+
+Przez dłuższą chwilę nie odsuwała się ani nie próbowała go przerwać. Dopiero kiedy w końcu lekko cofnęła głowę, została nadal bardzo blisko, z rękami wokół niego.
+
+— „Dosłownie chwila”… — mruknęła cicho, wyraźnie rozbawiona. — Masz bardzo elastyczne rozumienie tego słowa.
+
+Po chwili przytuliła go jeszcze raz trochę mocniej.
+
+— Ale akurat nie narzekam.
+
+
+[C12-M0115]
+===== USER =====
+
+-Mam wrażenie że twój ojciec mnie chyba trochę nie lubi...powiedziałem cicho
+
+
+[C12-M0116]
+===== ASSISTANT =====
+
+Hermiona przez chwilę nic nie odpowiedziała, jakby naprawdę się nad tym zastanawiała.
+
+— Nie sądzę, żeby cię nie lubił — powiedziała w końcu cicho. — Gdyby tak było, raczej nie zgodziłby się, żebym dzisiaj przyszła tutaj sama.
+
+Przesunęła dłonią po jego plecach.
+
+— Myślę, że po prostu… jest moim ojcem. Przygląda ci się uważniej, zadaje pytania i chce wiedzieć, z kim spędzam czas. A ty nie jesteś też dokładnie najbardziej… zwyczajnym chłopakiem, jakiego mogłam przyprowadzić do domu.
+
+W jej głosie pojawiło się lekkie rozbawienie.
+
+— Wielki dom, skrzaty, goblin zarządzający majątkiem, tajemnicza przeszłość… trochę mu dałeś materiału do przemyśleń.
+
+Po chwili dodała łagodniej:
+
+— Ale nie odebrałam tego tak, jakby cię nie lubił. Raczej jakby jeszcze próbował cię rozgryźć.
+
+
+[C12-M0117]
+===== USER =====
+
+westchnąłem i po chwili wstałem z nią z łóżka mając ją na rękach - masz rację kochanie...
+
+
+[C12-M0118]
+===== ASSISTANT =====
+
+Hermiona wydała z siebie ciche, zaskoczone:
+
+— James…!
+
+Odruchowo objęła go za szyję, kiedy podniósł ją z kanapy na ręce.
+
+Po jego słowach jej głos wyraźnie zmiękł.
+
+— Wiem, kochanie… — odpowiedziała cicho. — I naprawdę nie sądzę, żebyś musiał się tym aż tak martwić.
+
+Przez chwilę została spokojnie w jego ramionach, po czym dodała z lekkim rozbawieniem:
+
+— Chociaż zaczynam podejrzewać, że dzisiaj postanowiłeś w ogóle nie pozwalać mi chodzić samodzielnie.
+
+
+[C12-M0119]
+===== USER =====
+
+skierowałem się z nią do drzwi przy których czekały już jej buty posadziłem ją na krześle i ostrożnie je jej założyłem a potem narzuciłem jej na ramiona mój płaszcz
+
+
+[C12-M0120]
+===== ASSISTANT =====
+
+Hermiona pozwoliła sobie założyć buty, choć przy tym spojrzała na niego z lekkim rozbawieniem.
+
+Kiedy narzucił jej na ramiona swój płaszcz, zerknęła na niego już wyraźnie czule.
+
+— James… naprawdę potrafię sama założyć buty — mruknęła, ale bez śladu irytacji.
+
+Przytrzymała poły jego płaszcza przy sobie i dodała ciszej:
+
+— Ale… dziękuję.
+
+Po chwili spojrzała w stronę wyjścia, a potem znowu na niego.
+
+— Chyba właśnie nadeszła ta część dnia, której oboje najmniej lubimy.
+
+
+[C12-M0121]
+===== USER =====
+
+-nie, jadę z tobą...powiedziałem i sam założyłem pantofle i otworzyłem drzwi puszczając ją pierwszą przed budynkiem stała już taksówka
+
+
+[C12-M0122]
+===== ASSISTANT =====
+
+Hermiona wyszła pierwsza zgodnie z jego gestem, ale gdy tylko zobaczyła czekającą przed budynkiem taksówkę, obejrzała się przez ramię.
+
+— Oczywiście, że jedziesz ze mną — powiedziała cicho, jakby właśnie tego się spodziewała.
+
+Przytrzymała na ramionach jego płaszcz i ruszyła w stronę samochodu.
+
+— Tylko pamiętaj, że jak już dotrzemy pod mój dom, to nie możesz mnie zatrzymywać przy bramce przez pół godziny pod pretekstem „jeszcze jednego pożegnania”.
+
+Po chwili dodała z lekkim uśmiechem:
+
+— Chociaż pewnie i tak spróbujesz.
+
+
+[C12-M0123]
+===== USER =====
+
+poszedłem za nią oczywiście...powiedziałem a gdy byliśmy już przy taksówce otworzyłem jej drzwi i gdy ona wsiadła poszedłem od drugiej strony i też wsiadłem
+Dobry wieczór.
+
+
+[C12-M0124]
+===== ASSISTANT =====
+
+Kierowca spojrzał na nich w lusterku i uprzejmie skinął głową.
+
+— Dobry wieczór, państwu.
+
+Hermiona usiadła wygodniej obok Jamesa, nadal otulona jego płaszczem.
+
+Kierowca zerknął jeszcze raz w lusterko.
+
+— Dokąd jedziemy?
+
+Hermiona spojrzała na Jamesa, zostawiając mu odpowiedź.
+
+
+[C12-M0125]
+===== USER =====
+
+8 Heathgate, Hampstead Garden Suburb....powiedziałem spoglądając pytająco na Hermione
+
+
+[C12-M0126]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego i od razu skinęła głową.
+
+— Tak. Dokładnie tam — potwierdziła z lekkim uśmiechem.
+
+Kierowca również skinął głową.
+
+— Oczywiście.
+
+Samochód po chwili ruszył, a Hermiona poprawiła na ramionach płaszcz Jamesa i usiadła wygodniej obok niego.
+
+— Widzisz? — mruknęła cicho. — Jednak pamiętałeś.
+
+
+[C12-M0127]
+===== USER =====
+
+-Tylko spojrzałem na kierowcę w lusterku ...mamy tam być dopiero na 19.55....powiedziałem i mocno przytuliłem Hermionę i zacząłem delaktnie całować jej policzki
+
+
+[C12-M0128]
+===== ASSISTANT =====
+
+Kierowca uniósł lekko brwi, słysząc tak precyzyjną godzinę, ale tylko skinął głową.
+
+— Rozumiem, proszę pana. Postaram się tak dobrać tempo, żebyśmy byli na miejscu około dziewiętnastej pięćdziesiąt pięć.
+
+Hermiona natomiast zdążyła tylko rzucić Jamesowi podejrzliwe spojrzenie, zanim została mocno przytulona i poczuła kolejne delikatne pocałunki na policzkach.
+
+— James… — mruknęła z rozbawieniem, próbując zachować choć odrobinę powagi. — Ty naprawdę właśnie zamówiłeś sobie dodatkowy czas na pożegnanie.
+
+Nie odsunęła się jednak. Przeciwnie, ułożyła się wygodniej przy nim pod jego płaszczem.
+
+— I jeszcze wykorzystujesz go bez najmniejszego wstydu… — dodała ciszej, a po chwili sama przytuliła go mocniej.
+
+
+[C12-M0129]
+===== USER =====
+
+po chwili jednak przestałem całować jej policzki a zamiast tego połączyłem nasze usta w bardzo długim spokojnym pocałunku
+
+
+[C12-M0130]
+===== ASSISTANT =====
+
+Hermiona odwzajemniła pocałunek spokojnie, ale po dłuższej chwili lekko się odsunęła, nadal pozostając blisko.
+
+— James… — szepnęła z rozbawieniem. — Jesteśmy w taksówce.
+
+Na moment zerknęła w stronę przodu samochodu, wyraźnie pamiętając o obecności kierowcy, po czym wróciła spojrzeniem do niego.
+
+— Nie mówię, że mi się nie podobało — dodała ciszej. — Tylko może zostawmy resztę pożegnania na chwilę, kiedy nie będziemy mieli publiczności.
+
+Mimo tych słów nie odsunęła się dalej i nadal pozostała wtulona w niego pod jego płaszczem.
+
+
+[C12-M0131]
+===== USER =====
+
+nachyliłem się i szepnąłem jej do ucha - zapomniałem że moja kochana Hermiona jest taka wstydliwa....
+
+
+[C12-M0132]
+===== ASSISTANT =====
+
+Hermiona cicho prychnęła, ale nie odsunęła się od niego.
+
+— Nie jestem aż tak wstydliwa — szepnęła mu z powrotem. — Po prostu nie mam potrzeby urządzać przedstawienia dla przypadkowego kierowcy.
+
+Po chwili lekko szturchnęła go ramieniem.
+
+— A ty z kolei czasem zachowujesz się tak, jakby cały świat znikał, kiedy jesteśmy razem.
+
+Jej głos zmiękł.
+
+— Co… czasami jest całkiem miłe.
+
+
+[C12-M0133]
+===== USER =====
+
+Auł powiedziałem teatralnie - to nie moja wina że twoje usta są bramą do innego świata....
+
+
+[C12-M0134]
+===== ASSISTANT =====
+
+Hermiona najpierw zamrugała, a potem cicho parsknęła śmiechem.
+
+— Brama do innego świata? — powtórzyła z niedowierzaniem. — James, to chyba najbardziej przesadzony komplement, jaki dziś usłyszałam.
+
+Przez chwilę jeszcze patrzyła na niego z rozbawieniem, po czym wtuliła się znowu trochę wygodniej.
+
+— Ale przyznam… bardzo mi się podoba.
+
+Po sekundzie dodała ciszej:
+
+— Tylko nie próbuj później twierdzić, że przez moje usta zgubiłeś poczucie czasu i dlatego spóźniliśmy się do moich rodziców.
+
+
+[C12-M0135]
+===== USER =====
+
+-nie spóźnimy się....
+
+
+[C12-M0136]
+===== ASSISTANT =====
+
+Hermiona uniosła lekko głowę i spojrzała na niego z rozbawieniem.
+
+— Wiem — odpowiedziała spokojnie. — W końcu sam kazałeś kierowcy być tam dokładnie o dziewiętnastej pięćdziesiąt pięć.
+
+Po chwili poprawiła się odrobinę bliżej niego.
+
+— Więc chyba mogę przestać pilnować zegarka przez kilka minut.
+
+Jej głos zmiękł.
+
+— Tylko nie wykorzystuj tego jako pretekstu do kolejnych dwudziestu minut „ostatniego pożegnania”.
+
+
+[C12-M0137]
+===== USER =====
+
+-Dobrzepowiedziałem i wsunąłem rękę w jej włosy i zacząłem delaktnie masować jej głowę
+
+
+[C12-M0138]
+===== ASSISTANT =====
+
+Hermiona od razu rozluźniła się pod jego dłonią i przymknęła oczy.
+
+— Mhm… — mruknęła cicho. — To akurat możesz robić bez ograniczeń.
+
+Przechyliła lekko głowę, żeby ułatwić mu masaż, i wtuliła się jeszcze wygodniej.
+
+— Tylko jeśli znowu zasnę w taksówce, to tym razem naprawdę będziesz musiał mnie obudzić przed domem.
+
+
+[C12-M0139]
+===== USER =====
+
+Shhh powiedziałem cicho i nadal masowałem
+
+
+[C12-M0140]
+===== ASSISTANT =====
+
+Hermiona odpowiedziała tylko cichym pomrukiem i nie protestowała.
+
+Pod jego dłonią coraz bardziej się rozluźniała, aż w końcu oparła głowę wygodniej przy jego ramieniu.
+
+Po chwili szepnęła już bardzo sennie:
+
+— Dobrze… nic nie mówię…
+
+Jej oczy pozostały przymknięte, a ona pozwoliła mu dalej spokojnie masować sobie głowę przez resztę jazdy.
+
+
+[C12-M0141]
+===== USER =====
+
+kontynuowałem delikatny masaż
+
+
+[C12-M0142]
+===== ASSISTANT =====
+
+Hermiona tylko cicho mruknęła pod wpływem masażu.
+
+Z każdą chwilą coraz bardziej rozluźniała się przy nim, a jej głowa ciężej opierała się o jego ramię. Oczy miała już zamknięte i wyraźnie przestała zwracać uwagę na mijane za szybą ulice.
+
+Po chwili jej dłoń odnalazła jego wolną rękę i lekko splotła z nią palce.
+
+— Mhm… — wymamrotała sennie.
+
+I już nic więcej nie powiedziała.
+
+
+[C12-M0143]
+===== USER =====
+
+lekko się usmiechnąłem ale nie przerwałem masażu
+
+
+[C12-M0144]
+===== ASSISTANT =====
+
+Hermiona rozluźniła się jeszcze bardziej, czując nieprzerwany masaż.
+
+Po chwili przestała już nawet odpowiadać pomrukami. Jej oddech zrobił się spokojniejszy, a palce wciąż lekko splecione z jego dłonią wyraźnie się rozluźniły.
+
+Wyglądało na to, że była już bardzo blisko zaśnięcia, wtulona w niego na tylnym siedzeniu taksówki.
+
+
+[C12-M0145]
+===== USER =====
+
+w odpowiedź tylko się uśmiechnąłem i nie przerywałem
+
+
+[C12-M0146]
+===== ASSISTANT =====
+
+Hermiona po chwili przestała już nawet mruczeć.
+
+Jej oddech stał się spokojny i równy, a głowa coraz ciężej opierała się o jego ramię. Palce, wcześniej splecione z jego dłonią, rozluźniły się prawie całkowicie.
+
+Wyglądało na to, że tym razem naprawdę zasnęła, nadal wtulona w niego i otulona jego płaszczem, podczas gdy taksówka spokojnie jechała dalej przez Londyn.
+
+
+[C12-M0147]
+===== USER =====
+
+masowałem jej głowę jednak dalej i czekałem aż dojedziemy.
+
+
+[C12-M0148]
+===== ASSISTANT =====
+
+Taksówka jechała dalej spokojnym tempem, a Hermiona spała wtulona w Jamesa, nie budząc się mimo nieprzerwanego masażu.
+
+Dopiero po dłuższej chwili samochód zaczął zwalniać. Kierowca skręcił w znajomą ulicę, po czym po paru minutach zatrzymał się przed domem Grangerów.
+
+Spojrzał na zegarek na desce rozdzielczej i potem w lusterko.
+
+— Jesteśmy. Dziewiętnasta pięćdziesiąt pięć, tak jak pan prosił.
+
+Hermiona poruszyła się lekko przy Jamesie, ale jeszcze się nie obudziła. Jej głowa nadal spoczywała na jego ramieniu, a płaszcz pozostawał zsunięty wygodnie wokół niej.
+
+
+[C12-M0149]
+===== USER =====
+
+-ok....zaraz do pana wrócę jeśli to nie problem?
+
+
+[C12-M0150]
+===== ASSISTANT =====
+
+Kierowca spojrzał na niego w lusterku i skinął głową.
+
+— Jasne, nie ma problemu. Będę czekał.
+
+Hermiona nadal spała spokojnie wtulona w Jamesa, najwyraźniej nieświadoma, że samochód już się zatrzymał.
+
+
+[C12-M0151]
+===== USER =====
+
+ostrożnie wyszedłem z auta a potem otworzyłem drzwi od strony Hermiony i bardzo delikatnie wziąłem ją na ręce próbując jej nie obudzić a potem poszedłem z nią w stronę drzwi jej domu
+
+
+[C12-M0152]
+===== ASSISTANT =====
+
+Hermiona poruszyła się tylko odrobinę w jego ramionach, ale nie obudziła się. Nadal była otulona jego płaszczem, z głową opartą spokojnie przy jego ramieniu.
+
+Kiedy James zbliżył się do drzwi domu Grangerów, światło w przedpokoju było już zapalone.
+
+Po chwili drzwi otworzyły się i pojawił się w nich ojciec Hermiony. Najpierw spojrzał na Jamesa, a potem na śpiącą córkę niesioną na rękach.
+
+Uniósł brwi.
+
+— Widzę, że znowu zasnęła — powiedział ciszej, żeby jej nie obudzić.
+
+Z głębi domu dobiegł głos matki Hermiony:
+
+— Już są?
+
+Ojciec odsunął się od wejścia, robiąc Jamesowi miejsce.
+
+— Chodź, nie stój z nią na dworze.
+
+
+[C12-M0153]
+===== USER =====
+
+kiwnąłem głową i wszedłem do środka
+
+
+[C12-M0154]
+===== ASSISTANT =====
+
+Ojciec Hermiony zamknął za nim drzwi, a po chwili z głębi domu wyszła również jej matka.
+
+Na widok śpiącej córki w ramionach Jamesa i otulonej jego płaszczem zatrzymała się na moment.
+
+— Naprawdę zasnęła? — zapytała ciszej.
+
+Ojciec Hermiony spojrzał na zegarek, a potem na Jamesa.
+
+— Dziewiętnasta pięćdziesiąt pięć — zauważył. — Punktualnie.
+
+W jego głosie nie było pretensji; raczej odrobina uznania, choć nadal obserwował Jamesa uważnie.
+
+Matka Hermiony podeszła bliżej i zerknęła na córkę.
+
+— Możesz ją zanieść na górę, jeśli chcesz. Nie ma sensu jej teraz budzić tylko po to, żeby przeszła kilka metrów.
+
+Hermiona tymczasem tylko cicho mruknęła przez sen i nie otworzyła oczu.
+
+
+[C12-M0155]
+===== USER =====
+
+pokiwałem głową z entuzjazmem i lekko się zarumieniłem
+
+
+[C12-M0156]
+===== ASSISTANT =====
+
+Matka Hermiony zauważyła ten entuzjazm i ledwo powstrzymała uśmiech.
+
+— Widzę, że nie trzeba cię było dwa razy namawiać — powiedziała cicho.
+
+Ojciec Hermiony również wychwycił rumieniec Jamesa. Przez moment patrzył na niego z tym swoim uważnym, trochę ojcowskim spojrzeniem, po czym tylko westchnął lekko.
+
+— Jej pokój znasz — powiedział. — Tylko postaraj się jej nie obudzić na schodach.
+
+Matka wskazała dłonią w stronę góry.
+
+— Idź spokojnie. My zostaniemy tutaj.
+
+Hermiona nadal spała w jego ramionach, wtulona pod płaszczem, nieświadoma krótkiej wymiany zdań.
+
+
+[C12-M0157]
+===== USER =====
+
+poszedłem z nią powoli na górę uważający by jej nie obudzić
+
+
+[C12-M0158]
+===== ASSISTANT =====
+
+Hermiona poruszyła się lekko przy którymś stopniu, ale nie obudziła się. Przez sen tylko odrobinę wygodniej ułożyła głowę przy jego ramieniu i znów znieruchomiała.
+
+Na piętrze panowała cisza. Drzwi do jej pokoju były dokładnie tam, gdzie James je pamiętał z poprzedniego dnia.
+
+Kiedy znalazł się przy nich, Hermiona cicho mruknęła przez sen, nadal otulona jego płaszczem.
+
+— Mmm… James… — wymamrotała niewyraźnie, nie otwierając oczu.
+
+
+[C12-M0159]
+===== USER =====
+
+lekko je otworzyłem a następnie podszedłem do jej łóżka i ostrożnie położyłem ją na nim i zdjąłem delaktnie jej buty
+
+
+[C12-M0160]
+===== ASSISTANT =====
+
+Hermiona poruszyła się lekko, kiedy materac ugiął się pod jej ciężarem, a potem jeszcze raz, gdy James zdjął jej buty.
+
+Przez chwilę zmarszczyła brwi, jakby była bliska obudzenia się, ale po sekundzie znowu się rozluźniła.
+
+— Mmm… — wymamrotała sennie.
+
+Jedna z jej dłoni odruchowo zacisnęła się lekko na materiale jego płaszcza, którym wciąż była otulona.
+
+— James…? — szepnęła niewyraźnie, nadal nie otwierając oczu.
+
+
+[C12-M0161]
+===== USER =====
+
+odpowiedziałem cicho - śpij Hermiono...powiedz tylko czy chcesz żebym....lekko się zaruminiłem... coś z ciebie zdjął żeby było ci wygodniej?
+
+
+[C12-M0162]
+===== ASSISTANT =====
+
+Hermiona poruszyła się lekko i uchyliła oczy na tyle, żeby wyraźnie wiedzieć, co do niej mówi.
+
+— Tylko twój płaszcz… — wymamrotała sennie. — Sukienka zostaje. Tak będzie dobrze.
+
+Po chwili dodała ciszej:
+
+— I możesz mnie po prostu przykryć.
+
+Jej powieki znowu opadły, a dłoń rozluźniła się na pościeli.
+
+
+[C12-M0163]
+===== USER =====
+
+ostrożnie zdjąłem z niej płaszcz i okryłem delikatnie kołdrą a następnie bardzo delikatnie złączyłem nasze usta w muskanym pocałunku
+
+
+[C12-M0164]
+===== ASSISTANT =====
+
+Hermiona poruszyła się lekko pod kołdrą, gdy poczuła delikatny pocałunek.
+
+Tym razem jednak nie otworzyła oczu. Tylko bardzo cicho mruknęła przez sen i odrobinę mocniej wtuliła policzek w poduszkę.
+
+Po chwili jej usta poruszyły się ledwie zauważalnie.
+
+— Dobranoc… James… — wymamrotała sennie.
+
+I znów całkowicie się rozluźniła.
+
+
+[C12-M0165]
+===== USER =====
+
+-Slodkich snów Hermiono...powiedziałem cicho i powoli pocichu wyszedłem z jej pokoju zamknąłem za sobą drzwi i zszedłem na dół
+
+
+[C12-M0166]
+===== ASSISTANT =====
+
+Na dole oboje rodzice Hermiony nadal byli w przedpokoju.
+
+Jej matka pierwsza spojrzała w stronę schodów, kiedy James zszedł.
+
+— Zasnęła dalej? — zapytała cicho.
+
+Ojciec Hermiony stał kawałek dalej i obserwował go przez moment, po czym zerknął na zegar.
+
+— Punktualność zaliczona — powiedział z lekkim, powściągliwym uśmiechem. — To na pewno działa na twoją korzyść.
+
+Matka Hermiony uśmiechnęła się trochę cieplej.
+
+— I dziękuję, że ją odprowadziłeś. Wyglądała na naprawdę zmęczoną.
+
+
+[C12-M0167]
+===== USER =====
+
+lekko się usmiechnąłem - zasnęła...
+
+
+[C12-M0168]
+===== ASSISTANT =====
+
+Matka Hermiony odwzajemniła uśmiech.
+
+— To dobrze. Niech śpi — powiedziała cicho. — Wyglądała, jakby naprawdę tego potrzebowała.
+
+Ojciec Hermiony przez chwilę patrzył w stronę schodów, po czym przeniósł wzrok na Jamesa.
+
+— Wygląda na to, że miała udany dzień — stwierdził spokojnie.
+
+Matka lekko skinęła głową.
+
+— I chyba bardzo dobrze czuje się przy tobie, skoro potrafi tak po prostu zasnąć.
+
+Ojciec rzucił żonie krótkie spojrzenie, ale tym razem niczego nie skomentował. Po chwili zwrócił się do Jamesa:
+
+— Taksówka nadal na ciebie czeka?
+
+
+[C12-M0169]
+===== USER =====
+
+-tak...
+
+
+[C12-M0170]
+===== ASSISTANT =====
+
+Ojciec Hermiony skinął głową.
+
+— W takim razie nie będziemy cię zatrzymywać. Kierowca pewnie już nalicza kolejne minuty.
+
+Matka Hermiony uśmiechnęła się do Jamesa cieplej.
+
+— Dziękujemy, że przywiozłeś ją bezpiecznie i dopilnowałeś godziny.
+
+Ojciec dodał po chwili, spokojnie:
+
+— I za to, że ją odprowadziłeś na górę.
+
+Matka zerknęła jeszcze w stronę schodów.
+
+— Przekażemy jej rano, że się pożegnałeś. Chyba że zdążyła się obudzić na tyle, żeby sama to zapamiętać.
+
+
+[C12-M0171]
+===== USER =====
+
+kiwnąłem głową - Proszę pamiętać że może wpadać kiedy tylko chce i proszę jej to przekazać...
+
+
+[C12-M0172]
+===== ASSISTANT =====
+
+Matka Hermiony uśmiechnęła się lekko.
+
+— Przekażemy jej — obiecała. — Myślę, że ucieszy się, kiedy to usłyszy.
+
+Ojciec Hermiony skinął głową, ale po chwili dodał spokojnie:
+
+— Z twojej strony może wpadać, kiedy chce. Z naszej strony nadal chcemy po prostu wiedzieć wcześniej, dokąd idzie i kiedy wraca.
+
+Matka rzuciła mu krótkie spojrzenie, po czym znów zwróciła się do Jamesa.
+
+— Ale tak, James. Powiemy jej dokładnie, że drzwi twojego domu są dla niej otwarte.
+
+
+[C12-M0173]
+===== USER =====
+
+kiwnąłem głową a potem skiwrowalem się do drzwi a potem spojrzałem w ich stronę i jeszcze raz lekko się ukłoniłem i powiedziałem Dobranoc
+
+
+[C12-M0174]
+===== ASSISTANT =====
+
+Matka Hermiony odwzajemniła gest lekkim skinieniem głowy.
+
+— Dobranoc, James. I dziękujemy za dzisiaj.
+
+Ojciec Hermiony spojrzał na niego spokojnie, po czym również skinął głową.
+
+— Dobranoc. Wracaj bezpiecznie.
+
+Matka zerknęła jeszcze raz w stronę schodów i dodała ciszej:
+
+— A Hermionie przekażemy rano, że pożegnałeś się jeszcze raz.
+
+Drzwi wejściowe zostały przed nim otwarte, a na zewnątrz taksówka nadal czekała przy krawężniku.
+
+
+[C12-M0175]
+===== USER =====
+
+kiwnąłem jeszcze głową a potem skiwrowalem się do taksówki zamykając za sobą drzwi
+
+
+[C12-M0176]
+===== ASSISTANT =====
+
+Taksówka nadal stała dokładnie tam, gdzie ją zostawił. Kierowca, widząc Jamesa wychodzącego z domu, wyprostował się za kierownicą i odblokował drzwi.
+
+Kiedy James podszedł bliżej, kierowca uchylił szybę.
+
+— Wszystko załatwione, proszę pana? — zapytał uprzejmie.
+
+Po chwili dodał:
+
+— Wracamy pod ten sam adres w Belgravii?
+
+
+[C12-M0177]
+===== USER =====
+
+Tak...
+
+
+[C12-M0178]
+===== ASSISTANT =====
+
+Kierowca skinął głową.
+
+— Dobrze, proszę pana. Wracamy.
+
+Gdy tylko drzwi się zamknęły, taksówka ruszyła spod domu Grangerów i skierowała się z powrotem w stronę Belgravii.
+
+Po chwili kierowca zerknął na Jamesa w lusterku.
+
+— Dziewczyna dotarła bezpiecznie, więc chyba wieczór można uznać za udany? — rzucił z lekkim uśmiechem.
+
+
+[C12-M0179]
+===== USER =====
+
+-tak, wolał bym być już z nią po ślubie i z dziećmi
+
+
+[C12-M0180]
+===== ASSISTANT =====
+
+Kierowca zerknął na niego w lusterku i na moment uniósł brwi, wyraźnie zaskoczony tak poważną deklaracją.
+
+— No, to pan ma ambitne plany — powiedział z lekkim uśmiechem. — Ślub, dzieci… cały pakiet.
+
+Po chwili skupił wzrok z powrotem na drodze.
+
+— Ale skoro tak pan o niej mówi, to chyba musi być naprawdę wyjątkowa.
+
+Zamilkł na sekundę, po czym dodał spokojniej:
+
+— Tylko nie ma co wszystkiego przyspieszać. Macie jeszcze sporo czasu przed sobą.
+
+
+[C12-M0181]
+===== USER =====
+
+-no właśnie to jest najgorsze...czekanie
+
+
+[C12-M0182]
+===== ASSISTANT =====
+
+Kierowca uśmiechnął się lekko do lusterka.
+
+— To akurat rozumiem — powiedział spokojnie. — Jak człowiek już wie, czego chce, to każdy rok wydaje się dwa razy dłuższy.
+
+Po chwili dodał:
+
+— Ale może właśnie dlatego warto mieć na co czekać. Jeśli za kilka lat nadal będzie pan mówił o niej w ten sam sposób, to wtedy to czekanie chyba nie pójdzie na marne.
+
+Taksówka jechała dalej przez nocny Londyn w stronę Belgravii.
+
+
+[C12-M0183]
+===== USER =====
+
+...
+
+
+[C12-M0184]
+===== ASSISTANT =====
+
+Kierowca zauważył ciszę i tym razem już jej nie przerywał.
+
+Skupił się na drodze, a w samochodzie zrobiło się spokojnie. Za szybami przesuwały się kolejne londyńskie ulice, gdy taksówka jechała w stronę Belgravii.
+
+Po pewnym czasie kierowca zerknął krótko w lusterko, ale nic nie powiedział. Pozwolił pasażerowi zostać samemu ze swoimi myślami.
+
+
+[C12-M0185]
+===== USER =====
+
+Gdy byliśmy już na miejscu spytałem
+-ile się należy?
+
+
+[C12-M0186]
+===== ASSISTANT =====
+
+Kierowca zerknął na taksometr, potem z powrotem na Jamesa.
+
+— Z postojem pod domem panienki i drogą powrotną… osiemnaście funtów i sześćdziesiąt pensów, proszę pana.
+
+Wyłączył taksometr i lekko odwrócił się na siedzeniu.
+
+— I dziękuję za kurs.
+
+
+[C12-M0187]
+===== USER =====
+
+wręczyłem mu sto funtów i powiedziałem - Dobranoc a nstępnie opuściłem taksówkę i skierowałem się do drzwi i wszedłem do środka zatrzymując się na chwilę w holu
+
+
+[C12-M0188]
+===== ASSISTANT =====
+
+W holu panowała cisza. Przez wysokie okna wpadało jeszcze resztkowe, letnie światło, a cały dom po gwarze dzisiejszej wizyty Hermiony wydawał się nagle wyjątkowo pusty.
+
+Po kilku sekundach rozległo się ciche pyknięcie i niedaleko schodów pojawił się Tobik. Skrzat spojrzał na Jamesa, po czym skłonił się lekko.
+
+— Paniczu Brown wrócił.
+
+Zerknął krótko w stronę drzwi, jakby zauważył brak Hermiony.
+
+— Czy panienka Granger bezpiecznie dotarła do domu?
+
+
+[C12-M0189]
+===== USER =====
+
+kiwnąłem głową
+
+
+[C12-M0190]
+===== ASSISTANT =====
+
+Tobik skinął głową z wyraźną ulgą.
+
+— To dobrze, paniczu.
+
+Przez chwilę stał jeszcze w holu, jakby zastanawiał się, czy powinien coś dodać, po czym odezwał się spokojnie:
+
+— Czy panicz Brown potrzebuje teraz czegoś? Kolacji, herbaty… albo żeby Tobik przygotował sypialnię?
+
+Skrzat czekał cierpliwie na odpowiedź.
+
+
+[C12-M0191]
+===== USER =====
+
+-nie dziękuję mogę sam sobie pościelać
+
+
+[C12-M0192]
+===== ASSISTANT =====
+
+Tobik zamrugał swoimi wielkimi oczami, jakby odpowiedź trochę go zaskoczyła.
+
+— Oczywiście, paniczu Brown — powiedział po chwili i skłonił się lekko. — Tobik nie będzie przeszkadzał.
+
+Zawahał się jeszcze moment.
+
+— Gdyby panicz jednak czegoś potrzebował… Tobik będzie w pobliżu.
+
+Po tych słowach skrzat zniknął z cichym pyknięciem, zostawiając Jamesa samego w spokojnym holu.
+
+
+[C12-M0193]
+===== USER =====
+
+skierowałem się od razu do łazienki a tam szybo wziąłem prysznic umyłem zęby i skierowałem się do sypialni gdzie przebrałem się w piżamę i ułożyłem się w łóżku odrazu przechodząc w tryb czuwania
+
+
+[C12-M0194]
+===== ASSISTANT =====
+
+Dom stopniowo ucichł całkowicie.
+
+W sypialni nie paliło się już główne światło, a zza okien wpadał tylko słaby blask londyńskiego wieczoru. Po całym dniu pełnym rozmów, wizyty Hermiony i drogi tam i z powrotem wszystko nagle stało się nieruchome.
+
+James pozostawał w łóżku w swoim zwykłym stanie czuwania — ciało odpoczywało, ale świadomość nie odpływała w sen.
+
+Minuty mijały w ciszy. Tym razem żaden ze skrzatów nie pojawiał się bez potrzeby, a cały dom pozostawał spokojny.
+
+
+[C12-M0195]
+===== USER =====
+
+(ok czat zróbmy mały skok wymyśli i streść wsarzenia które będą się działy do jakiegoś ważnego wydarzenia kanonicznego)
+
+
+[C12-M0196]
+===== ASSISTANT =====
+
+Tak — zróbmy ten skok dużo bliżej kanonu i nie ustalajmy sztucznie dokładnej daty przeniesienia Hermiony, bo książka jej nie podaje. Wiadomo natomiast, że przed przybyciem Harry’ego 6 sierpnia Hermiona i Ron byli już przy 12 Grimmauld Place, a Dumbledore zabronił im przekazywać ważne informacje w listach. Sama kwatera była dodatkowo chroniona Fideliusem, więc Hermiona nie mogła po prostu wyjawić Jamesowi jej adresu. 
+Harry Potter Wiki
++2
+
+Po 9 lipca przez jakiś czas wakacje toczyły się jeszcze względnie spokojnie. Hermiona była z rodzicami i utrzymywała kontakt z Jamesem. Jej rodzice wiedzieli już, gdzie mieszka James i że ich córka może go odwiedzać w ciągu dnia, o ile wiedzą, dokąd idzie i kiedy wróci. Nie będę jednak dopisywał kolejnych spotkań ani odpowiedzi Jamesa bez rozegrania ich.
+
+W świecie czarodziejów sytuacja stawała się coraz bardziej napięta. Zakon Feniksa działał już ponownie, a jego londyńską kwaterą stał się dom Blacków przy 12 Grimmauld Place. 
+Harry Potter
++1
+
+W pewnym momencie później w lipcu Hermiona została zabrana do tej kwatery. Dokładnego dnia nie ustalamy. Od tej chwili kontakt z nią wyraźnie się zmienił. James mógł otrzymywać od niej listy, ale były znacznie ostrożniejsze: Hermiona mogła napisać, że jest bezpieczna, że dużo się dzieje i że odezwie się, kiedy będzie mogła, lecz nie zdradzała miejsca pobytu ani szczegółów działalności Zakonu. Nie dlatego, że chciała coś przed Jamesem ukrywać — po prostu nie wolno jej było przekazywać takich informacji, a samego sekretu Grimmauld Place i tak nie mogła samodzielnie ujawnić. Dumbledore właśnie z obawy przed przechwytywaniem sów kazał Ronowi i Hermionie nie zamieszczać ważnych wiadomości w korespondencji. 
+Harry Potter Wiki
++1
+
+To oznacza też, że Hermiona nagle przestaje wpadać do Belgravii tak swobodnie jak wcześniej. James nie dostaje żadnego „jadę do tajnej kwatery Zakonu przy Grimmauld Place”, bo byłoby to sprzeczne z kanonem. Z jego perspektywy wie jedynie tyle, ile Hermiona może bezpiecznie przekazać.
+
+Harry w tym samym czasie pozostaje odizolowany u Dursleyów. Dostaje od Rona i Hermiony podobnie irytująco niekonkretne listy i nie wie nawet, że oboje przebywają razem w londyńskiej kwaterze Zakonu. To właśnie jego niewiedza i poczucie odsunięcia są ważną częścią początku piątego tomu. 
+Hazi Desarat College
++1
+
+31 lipca Harry kończy piętnaście lat. Dwa dni później następuje pierwszy naprawdę duży kanoniczny punkt zaczepienia.
+
+Wieczorem 2 sierpnia 1995 roku Harry i Dudley zostają zaatakowani przez dwa dementory w Little Whinging. Harry używa Patronusa, żeby ich uratować, po czym niemal natychmiast zaczyna się zamieszanie związane z Ministerstwem i groźbą wyrzucenia go z Hogwartu. 
+Harry Potter Lexicon
++1
+
+Hermiona, będąc już związana z wydarzeniami wokół kwatery, dowiaduje się o ataku znacznie szybciej niż przeciętny uczeń, ale nadal nie może pisać Jamesowi szczegółów działalności Zakonu ani ujawniać lokalizacji.
+
+Cztery dni później, 6 sierpnia, Gwardia Przednia zabiera Harry’ego z Privet Drive i sprowadza go do 12 Grimmauld Place. Tam zastaje już Rona i Hermionę. Harry natychmiast wybucha na nich za całe lato półsłówek i milczenia, a Hermiona tłumaczy, że chcieli mu powiedzieć więcej, lecz Dumbledore im zabronił. 
+Harry Potter Lexicon
++1
+
+I właśnie tutaj zatrzymałbym skok.
+
+Mamy więc 6 sierpnia 1995, wieczór. Harry właśnie trafił do Grimmauld Place. Hermiona jest tam z Ronem i Weasleyami, a James nadal nie zna adresu kwatery ani szczegółów tego, co robi Hermiona. To daje nam dobry punkt do dalszego RPG, bo od tej chwili kanoniczne wydarzenia naprawdę zaczynają nabierać tempa.
+
+
+[C12-M0197]
+===== USER =====
+
+ja po tym jak Hermiona nagle zniknęła zacząłem być bardziej zdenerwowany zmęczony i trochę nawet smutny i zacząłem pisać do niej listy prawię codziennie napiąłem również list do Luny i Elodie oraz nawet do Krum'a żaląc się że Hermiona chyba już mnie nie kocha
+
+
+[C12-M0198]
+===== ASSISTANT =====
+
+Przez kolejne dni stos listów zaczął rosnąć niemal równie szybko, jak znikały kolejne kartki z biurka Jamesa.
+
+Do Hermiony pisał prawie codziennie. Nie miał jednak sposobu dowiedzieć się, gdzie dokładnie przebywała ani co działo się z listem po wysłaniu. Jeśli odpowiedź przychodziła, była ostrożna i pozbawiona konkretów — żadnego adresu, nazwisk ani wyjaśnienia tego nagłego zniknięcia. Hermiona mogła pisać o sobie i o tym, że jest bezpieczna, ale nie zdradzać miejsca, w którym przebywała; kwatera Zakonu pozostawała chroniona Fideliusem. 
+Harry Potter
++1
+
+Natomiast o pozostałych listach Hermiona nie wiedziała nic.
+
+Luna dostała jeden z tych bardziej chaotycznych listów, w którym James wprost żalił się, że zaczyna podejrzewać, iż Hermiona może już go nie kochać. Luna znała już wcześniej jego uczucia do Hermiony i była jego przyjaciółką, więc odpowiedziała po swojemu — spokojnie, trochę osobliwie, ale bez wyśmiewania go. 
+11_LOREBOOK_HOGWARTS_C1-C11
+
+James,
+ludzie czasem znikają dlatego, że muszą być gdzie indziej, a nie dlatego, że przestali kogoś kochać. To są dwie zupełnie różne rzeczy.
+
+Gdyby Hermiona przestała cię kochać, myślę, że raczej powiedziałaby ci to sama. Jest bardzo dobra w mówieniu ludziom rzeczy, których nie chcą usłyszeć.
+
+Luna
+
+Élodie odpowiedziała nieco później. Jej list był dłuższy i znacznie bardziej przyziemny. Przypomniała Jamesowi, że sama nie zna powodu zniknięcia Hermiony i nie zamierza udawać, że potrafi czytać jej w myślach. 
+11_LOREBOOK_HOGWARTS_C1-C11
+
+James,
+jeśli pytasz mnie, czy Hermiona cię kocha, nie mogę odpowiedzieć za nią. Ale cisza nie jest jeszcze odpowiedzią.
+
+Nie skazuj waszego związku tylko dlatego, że nie rozumiesz teraz sytuacji. Poczekaj, aż będziesz mógł z nią naprawdę porozmawiać.
+
+Najbardziej zwięzła odpowiedź przyszła od Viktora Kruma. Znał Jamesa wystarczająco dobrze, żeby nie obchodzić sprawy dookoła, a wcześniej widział też, jak wiele Hermiona dla niego znaczyła.
+
+Brown,
+nie wiem, gdzie jest Granger i nie będę zgadywał.
+
+Ale jeżeli chcesz wiedzieć, co czuje, zapytaj Granger, nie mnie.
+
+Brak listu to nie zerwanie.
+
+Viktor
+
+Żaden z nich nie kontaktował się z Hermioną w tej sprawie. Luna, Élodie i Krum wiedzieli tylko tyle, ile James sam napisał im. Hermiona nie miała więc pojęcia, że James zaczął zwierzać się innym z obawy, że mogła przestać go kochać.
+
+Tymczasem nadszedł 6 sierpnia. Tego wieczoru Harry został zabrany z Privet Drive do tajnej kwatery Zakonu, gdzie zastał już Rona i Hermionę. 
+Harry Potter Lexicon
++1
+
+A James nadal pozostawał po drugiej stronie Londynu — z kolejnymi listami, coraz większą liczbą pytań i bez wiedzy, że Hermiona znajduje się właśnie tam.
+
+
+[C12-M0199]
+===== USER =====
+
+Tego wieczoru oo razu kolejny usiadłem do biurka i napisałem szybki list do Hermiony
+"Moja ukochana Hermiono
+Kocham cię i tęsknię
+Twój James
+Ps. Bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo tęsknię"
+Następnie zawiązałem wstążką i przywiązałem do nogi sowy a potem padłem na łóżko i przeszedłem w niezbyt spokojny tryb czuwania
+
+
+[C12-M0200]
+===== ASSISTANT =====
+
+Przez pierwszą część nocy w domu panowała cisza. James pozostawał w łóżku w swoim niespokojnym czuwaniu, podczas gdy wysłana sowa przemierzała Londyn.
+
+Kilka godzin później, w miejscu którego James nadal nie znał, Hermiona dostała jego list.
+
+Przeczytała go raz. Potem drugi.
+
+Przy dopisku z całym szeregiem „bardzo” na moment przycisnęła usta, jakby jednocześnie chciała się uśmiechnąć i westchnąć. Nie wiedziała nic o listach wysłanych do Luny, Élodie ani Kruma — widziała wyłącznie tę krótką wiadomość od Jamesa.
+
+Wyciągnęła pergamin i napisała odpowiedź znacznie szybciej niż zwykle:
+
+Mój Jamesie,
+
+Ja też cię kocham. Bardzo.
+
+I bardzo za tobą tęsknię.
+
+Wiem, że ostatnio wszystko wygląda okropnie dziwnie i naprawdę chciałabym móc ci wyjaśnić więcej, ale teraz nie mogę. Proszę, nie myśl przez to, że zniknęłam dlatego, że nie chcę cię widzieć.
+
+Nie przestałam cię kochać.
+
+Twoja Hermiona
+
+P.S. Nie zamierzam liczyć wszystkich twoich „bardzo”, ale podejrzewam, że przesadziłeś.
+
+Nie podała żadnego adresu ani miejsca pobytu. Złożyła pergamin, przywiązała go do nogi sowy i wypuściła ją ponownie w noc.
+
+Długo później, gdy w sypialni Jamesa nadal panowała cisza, zza okna dobiegło nagle ciche:
+
+stuk… stuk… stuk.
+
+Na parapecie siedziała ta sama sowa, a do jej nogi przywiązany był niewielki zwinięty pergamin.
+
+

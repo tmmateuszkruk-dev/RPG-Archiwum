@@ -1,6 +1,7 @@
 {
-  "repository_url": null,
+  "repository_url": "https://github.com/tmmateuszkruk-dev/RPG-Archiwum",
   "default_branch": "main",
-  "state": "C11-M0409",
-  "note": "Wstaw rzeczywisty adres repozytorium po jego utworzeniu; adres nie był podany. Same pliki nie zapewniają połączenia z czatem."
+  "base_path": "RPG-Archiwum",
+  "raw_base": "https://raw.githubusercontent.com/tmmateuszkruk-dev/RPG-Archiwum/refs/heads/main/RPG-Archiwum/",
+  "state": "C12-M1109"
 }

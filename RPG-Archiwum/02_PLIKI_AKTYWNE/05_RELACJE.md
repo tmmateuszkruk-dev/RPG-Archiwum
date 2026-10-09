@@ -1,34 +1,20 @@
-# Relacje — aktualizacja C11
+# Relacje — aktualizacja C12
 
-Stan: C11-M0409 — niedziela 9 lipca 1995, po obiedzie i deserze, dokładna godzina nieustalona; główna sypialnia londyńskiego domu Jamesa. Następna odpowiedź należy do NPC (Hermiony).
+**James–Hermiona:** związek trwa. Wakacyjna rozłąka prowadzi do kłótni 1 IX, zazdrości o Rona i częściowego uspokojenia w pociągu. Poranek pod biblioteką przynosi ponowne zapewnienie o przyjaźni z Ronem i bliskość; nie należy utrzymywać nieprzerwanej ostrej kłótni jako CURRENT (M0219–M0290, M0543–M0584). Zamek i wspólne podróże nie odbyły się tylko dlatego, że wcześniej je planowano.
 
-## James i Hermiona
+Ślub po szkole pozostaje warunkową teorią (M0061–M0064). Żart „W oznacza ślub” zostaje odrzucony przez Hermionę i odwołany publicznie przez Jamesa (M0633–M0644). Zwrot „Granger-Brown” w M1102 również nie zmienia nazwiska i nie ustanawia zaręczyn (M1103).
 
-Związek trwa; 8 VII wizyta u rodziców zakończona, 9 VII pierwsza dzienna wizyta Hermiony u Jamesa odbywa się za ich zgodą. Powrót do 20:00 pozostaje zobowiązaniem; brak noclegu (C11-M0075–C11-M0078, C11-M0104–C11-M0108).
+Granice Hermiony zależą od sytuacji; zgoda w jednej scenie nie jest blankietową zgodą na wszystkie przyszłe. Zachowuje naukę, przyjaciół, prawo odmowy i samodzielne decyzje. „Szalona Hermiona” to jej bardziej spontaniczna, inicjatywna i figlarna strona, nie inna osoba (M0956–M0957, M1081–M1083, M1091).
 
-Czesanie i gotowy kok zacieśniają zwykłą bliskość; Hermiona później mówi, że ceniła cierpliwość i chętnie da się uczesać ponownie (C11-M0019–C11-M0024, C11-M0400). Inicjatywa bywa wzajemna. „Szalona Hermiona” to żartobliwa nazwa spontanicznego zachowania, nie obowiązek ani druga osobowość (C11-M0176–C11-M0194, C11-M0258).
+**Zakład o SUM-y:** dziewięć wspólnych przedmiotów, porównanie ocen parami, wygrywa więcej lepszych wyników, przy remisie dogrywka jeszcze do ustalenia. Jeśli Hermiona przegra, sama wybiera sukienkę, zaprasza na randkę i odgrywa umówioną przesadną fascynację; jeśli James przegra, publicznie przy śniadaniu przyznaje jej przewagę, elegancko zaprasza na randkę i spełnia uzgodnione gesty grzecznościowe. Randka po wynikach, nie dowolnie po ślubie. To dobrowolna gra, bez rzeczywistej utraty autonomii (M0783–M0798). Pierwszy pomysł cotygodniowych pytań i noszenia książek zastąpiono zakładem o SUM-y.
 
-Odrzucona odpowiedź C11-M0154 została zastąpiona C11-M0158 po korekcie użytkownika. Zachować wcześniejsze uzgodnienia zwykłej czułości, a jednocześnie możliwość sytuacyjnej odmowy, przerwy i prośby o uprzedzenie przed nowym gestem. C11-M0164–C11-M0168 doprecyzowują właśnie uprzedzenie; później para zwalnia i rozmawia, bez przekroczenia ustalonej granicy (C11-M0213–C11-M0250). Treści prowadzić odpowiednio do wieku, bez erotycznego rozwijania.
+**James–Harry:** po szorstkim epizodzie w pociągu podejmują współpracę w sprawie pióra; Harry przyjmuje przeprosiny i pokazuje nauczycielom rękę. Nie czyni to ich automatycznie najbliższymi przyjaciółmi (M0226–M0228, M0884–M0890, M0999–M1023).
 
-## Dziesięć minut zwierzeń — wykonane, nie dług do odebrania
+**James–Ron/Ginny/Luna:** brak nowego pojednania z Ronem i brak dowodu romansu Rona z Hermioną. Ginny odrzuca zbiorowe obwinianie Weasleyów; późniejsza pomoc przy wysiadaniu i wspólne śniadanie nie są osobnym formalnym rozejmem. Luna pozostaje przyjaciółką i korespondentką; sen nie zmienia relacji. Élodie jest korespondentką, bez rozegranej wakacyjnej wizyty (M0197–M0206, M0239–M0260, M0375–M0376).
 
-Początkowo pięć minut; po obejrzeniu puddingu Hermiona dobrowolnie wybiera dziesięć i sama wybiera treść. James oddaje jej cały deser. Porównanie do „sprzedaży godności” zostaje sprostowane, nie ustanawia przymusu (C11-M0287–C11-M0308). Rozmowa zaczyna się po powrocie do sypialni i kończy w C11-M0407–C11-M0408.
+**James–Draco:** rywalizacja i respekt, groźby podczas sporów nie są wykonaną bójką. James nie uzyskuje władzy nad Draco ani odznaki. Rozmowa o piórze nie oznacza serdecznej przyjaźni lub zmiany poglądów Malfoya (M0381–M0534, M0950–M0969).
 
-Hermiona ujawnia, że lubi uwagę Jamesa, czułe zwroty, noszenie, przedłużanie spotkań, poczucie bycia wybraną oraz dzielenie się codziennością. Ceni uwzględnianie jej zdania. Naszyjnik założyła także po to, by dostrzegł, że nosi coś od niego. Są to deklaracje Hermiony przekazane Jamesowi, nie wiedza wszystkich NPC (C11-M0314–C11-M0378).
-
-Lekka zazdrość może jej się podobać, lecz wyklucza awantury, groźby, przemoc i robienie z Rona wroga za samą przyjaźń. Harry, Ron, Ginny, książki i czas dla siebie nadal należą do jej życia (C11-M0332, C11-M0352–C11-M0356). Nie dopisywać nowego romansu z Ronem.
-
-Wyobrażenia wspólnego dorosłego domu, zwyczajów i nazwiska „Brown” lub „Granger-Brown” nie są zaręczynami, zmianą nazwiska ani gwarancją małżeństwa. Hermiona wyraża nadzieję na wspólną przyszłość; dzisiejsze imię pozostaje Hermiona Granger (C11-M0338–C11-M0346, C11-M0380–C11-M0408). Własna półka/sweter w domu Jamesa pozostają pragnieniem, nie wykonanym przeniesieniem (C11-M0402).
-
-## Grangerowie i pozostali
-
-Pożegnanie jest przyjazne; rodzice zapraszają Jamesa ponownie, dopuszczają jutrzejszą wizytę córki na uzgodnionych zasadach. Nie znają prywatnych rozmów pary (C11-M0071–C11-M0092). Luna pozostaje przyjaciółką zgodnie z C9; C11 nie zmienia tego ani relacji Jamesa z Draco, Nottem, Pansy, Harrym i Élodie.
-
-## Wcześniejsze kotwice
-
-Partnerem Hermiony na balu był James, nie Krum; rozmowy o alternatywnych parach nie zmieniają kampanii. Związek nie jest nowym szkolnym odkryciem. Nie używać „Hermionka” po odwołaniu zgody (C2-M1591–C2-M1594; C3-M1130). Ślizgońsko-gryfońskie krawaty pozostają wakacyjną wymianą, nie zaręczynami (C9-M0115–C9-M0116).
-
-Luna: jawna przyjaźń, bez potwierdzonego zakochania (C9-M0231–C9-M0254). Élodie: korespondencja i możliwość spotkań, bez potwierdzonego romansu. Draco: nie ma nowego rozejmu; Ron: brak pełnego pojednania i brak potwierdzonego wyznania uczuć do Hermiony. Nott według własnej relacji nie jest oficjalną parą z Daphne (C8-M0601–C8-M0604). Szczegóły pozostałych relacji w pełnej bazie.
+**Grangerowie:** odnotowują punktualny i bezpieczny powrót córki 9 VII, zgadzają się na wniesienie jej do pokoju; nadal wymagają informacji, gdzie idzie i kiedy wróci (M0152–M0172). Nie ma zgody na nocowanie u Jamesa.
 
 
-Pełny dział z wcześniejszymi źródłami: [wersja pełna](../05_BAZA_PELNA/05_RELACJE.md).
+Pełna wcześniejsza historia i źródła: [pełny dział](../04_BAZA_PELNA/05_RELACJE.md).

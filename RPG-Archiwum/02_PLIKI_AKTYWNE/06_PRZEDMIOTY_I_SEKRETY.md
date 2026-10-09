@@ -1,40 +1,21 @@
-# Przedmioty, miejsca i sekrety — aktualizacja C11
+# Przedmioty, miejsca i sekrety — aktualizacja C12
 
-Stan: C11-M0409 — niedziela 9 lipca 1995, po obiedzie i deserze, dokładna godzina nieustalona; główna sypialnia londyńskiego domu Jamesa. Następna odpowiedź należy do NPC (Hermiony).
-
-| Przedmiot / miejsce | Najnowszy stan | Źródło |
+| Element | Stan | Źródło |
 |---|---|---|
-| Szczotka i fryzura | Szczotka użyta i odłożona w pokoju Hermiony. Wysoki luźny kok zrobiony 8 VII; 9 VII włosy luźniejsze, nie ten sam zachowany kok | C11-M0019–C11-M0020, C11-M0104 |
-| Płaszcz i kamizelka Jamesa | Płaszcz założony przy wyjściu od Grangerów, potem oba elementy odwieszone w sypialni Jamesa | C11-M0083, C11-M0099–C11-M0100 |
-| Strój Jamesa 9 VII | Czarna koszulka, czarne spodnie, pasek i skarpetki; brak opisanych butów i krawata po przebraniu | C11-M0101 |
-| Strój Hermiony 9 VII | Błękitna letnia sukienka do kolan z krótkim rękawem, diament, mała torba; kolor butów i skarpetki nieustalone | C11-M0104 |
-| Buty Hermiony | Zdjęte w sypialni, założone przed obiadem, ponownie zdjęte po powrocie; pozostają w sypialni. Nie opisano skarpetek ani gołych stóp | C11-M0141, C11-M0260, C11-M0313 |
-| Torba | Przyniesiona do domu Jamesa; brak dokładnego miejsca odłożenia i wglądu w zawartość | C11-M0104 |
-| Diamentowy naszyjnik | Na szyi Hermiony; brak zdejmowania. Pudełko nadal ostatnio w jej pokoju; nie wręczono drugiego naszyjnika | C10-M0169–C10-M0190; C11-M0104, C11-M0334–C11-M0336 |
-| Książka o runach | Hermiona bierze tom za zgodą Jamesa, ogląda i odkłada na miejsce; brak wypożyczenia | C11-M0123–C11-M0126 |
-| Aportatorium | James potwierdza jedyny punkt bezpiecznej aportacji do/z chronionego obiektu | C11-M0129–C11-M0134 |
-| Baldachim | Zasunięty machnięciem różdżki przez Jamesa; kompletna ciemność. Nie odsunięto do końca zapisu | C11-M0313–C11-M0409 |
-| Różdżka | Użyta do zasunięcia baldachimu; brak wskazanego schowania lub odłożenia. Nie zakładać stale zajętej dłoni | C11-M0313 |
-| Desery | Tarta cytrynowa dla Hermiony; pudding czekoladowy z sosem i malinami oddany jej w całości i zjedzony. Los tarty nieopisany | C11-M0301–C11-M0310 |
-| Własna półka Hermiony | Jedynie marzenie wypowiedziane przez nią, nie urządzona półka/pokój ani pozostawione rzeczy | C11-M0402 |
+| Czarna koperta | Spalona nieotwarta; nadawca, treść i cel nieznane. Nie przypisywać jej Voldemortowi, Ministerstwu ani rodzinie | C12-M0203–C12-M0204 |
+| Książka run z domu | Hermiona kończy rozdział i odkłada na kanapę; brak wywiezienia lub zwrotu na półkę w zapisie | C12-M0078–C12-M0110 |
+| Płaszcz Jamesa | 9 VII zdjęty z Hermiony w jej pokoju, dalsze zabranie nieopisane; 1 IX użytkownik znów jawnie zakłada płaszcz, na stacji daje Hermionie, ona oddaje przed ucztą. To później potwierdzony stan, bez dopisywania odzyskania | C12-M0163, C12-M0207, C12-M0345–C12-M0380 |
+| Gotówka | Taksówkarz żąda £18,60 za kurs z postojem i powrotem; James wręcza £100. Nie pokazano wydania reszty. Kolejny kurs na dworzec opłacony bez kwoty; nie wyliczać nowego dokładnego salda | C12-M0186–C12-M0187, C12-M0207 |
+| Sakiewka / słodycze | Hermiona kupuje słodycze, oddaje sakiewkę; kwota niepodana | C12-M0319–C12-M0320 |
+| Mundurek i krawat | James: czarna szata z zieloną podszewką i herbem Slytherinu, szara kamizelka, biała koszula, czarne spodnie, bordowo-złoty krawat. Kolejne poranki powtarzają ten zestaw. Nie zmieniać koloru krawata na ślizgoński | C12-M0207, C12-M0535, C12-M0970 |
+| Pióro Umbridge | Pozostaje u niej; użycie zostawia Jamesowi ślad po pierwszej literze, Harry’emu rozleglejsze ślady. Nie jest zabrane jako dowód. Ślady i relacje oglądają nauczyciele; brak opisanego leczenia | C12-M0852–C12-M0866, C12-M0983–C12-M1021 |
+| Dokumentacja | Snape pisze wiadomość i otrzymuje polecenie dokładnej notatki o czasie, śladach i relacjach; Dumbledore poleca ją zachować i później ponowić oględziny | C12-M1009–C12-M1021 |
+| Wywar Spokoju | Jeden płatek lilii wodnej dodany przez Jamesa, Snape akceptuje modyfikację właściwości drugorzędnych; próbka oddana. To ustalenie fikcyjnej kampanii, nie ogólna receptura książkowa | C12-M0692–C12-M0727 |
+| Pokój Życzeń rano | Salon z kominkiem, regałami, wspólnym biurkiem, sofą, stolikiem i fotelami. Późniejsze słowo „łóżko” w M1058 nie ma opisanego przeobrażenia sofy | C12-M1051–C12-M1059 |
+| Pokój Życzeń po lekcjach | Duży salon, sofa, książki, rośliny, świece, poczęstunek, łóżko z baldachimem, ogród zimowy z dwiema huśtawkami; tablica ruchomych obrazów wyobrażonej przyszłości. Nie wyrocznia ani autentyczne przyszłe zdjęcia | C12-M1085 |
+| Koniec sceny | Buty obojga zdjęte przy łóżku; baldachim zamknięty różdżką przez Jamesa, pełna ciemność. Torba Hermiony ostatnio odłożona pod ścianą przed przywołaniem pokoju; brak opisu przeniesienia jej do środka. Różdżka po użyciu nie ma wskazanego miejsca | C12-M1085–C12-M1094 |
 
-## Dom i adres — częściowe doprecyzowanie, nierozstrzygnięta rozbieżność
-
-C11 pokazuje powrót w okolice Belgrave Square i zwiedzanie wnętrz zgodnych z dawnym opisem The Obsidian Hearth: marmurowy hol z nimfą, salon z kominkiem, Conservatory of Whispers, ametystowa jadalnia, galeria w jasnym dębie, biblioteka, aportatorium i główna sypialnia. Nie ma pokazanej przeprowadzki. Można prowadzić opis oglądanego domu, ale nie twierdzić, że sprzeczność Eaton Square / 14B Belgrave Square została jawnie wyjaśniona lub formalnie skorygowana. Nie dopisywać mechanizmu ujawnienia Fideliusa. C11-M0093–C11-M0136; C9-M0327; C10-M0163–C10-M0168.
-
-Hermiona zna obejrzane wnętrza i wyjaśnienie aportatorium. Nie oprowadzono jej jawnie po wszystkich pokojach, łazience, pracowni i ukrytej kuchni. James sam przekazuje tam zamówienie (C11-M0259). Pełna mapa poniżej lub w MAPA.md nie jest automatycznie jej wiedzą.
-
-## Finanse
-
-C11-M0095: James opłaca taksówkę według licznika, ale kwota nie pada. Dawne £18 365 nie jest już potwierdzonym aktualnym stanem tej partii gotówki: należy odjąć nieustaloną cenę tego kursu, bez wymyślania stawki. Nie zmienia się od tego automatycznie saldo Gringotta i nie znamy podziału gotówki między kieszeń a dom. Nowych zakupów prezentów nie opisano.
-
-## Kotwice sprzed C11
-
-Diament (£875) wręczony Hermionie 8 VII; drugi naszyjnik, szmaragd/rubin (£650), niewręczony, ostatnio w czerwonym pudełku w walizeczce u Jamesa. Nowe zwierciadło ze wspomnieniem wejścia na bal podarowane Grangerom i na komodzie; dawne małe zwierciadło nadal Jamesa, niepokazane Hermionie. Zwierciadła odtwarzają zapis, nie są komunikatorem ani podglądem na żywo. Zdjęcie rodziny to osobny przedmiot (C9-M0312–C9-M0374, C9-M0401–C9-M0410; C10-M0169–C10-M0190).
-
-Kufer z pociągu wniesiono nieotwarty do sypialni; walizeczka z gotówką i podział jej zawartości pozostają jak w pełnej bazie, bez domyślnego przejrzenia przez gościa. Szata została podarowana Lunie. Wypuszczenie Rity zapowiedziano, ale nie pokazano (C8-M0628–C8-M0630; C9-M0143–C9-M0148, C9-M0328–C9-M0336).
-
-Saldo po wymianie: 487 312 240 galeonów w zinwentaryzowanych pieniądzach, nie wycena całego majątku. £18 365 było bilansem znanych wydatków do C10, teraz pomniejszonym o niepodaną cenę taksówki C11. Fundusz Toma ma nieustaloną kwotę i nie jest rozliczony (C9-M0287–C9-M0311).
+Naszyjniki, zwierciadła, majątek, rodzinne sekrety i rozbieżność londyńskich adresów zachowują wcześniejsze ustalenia, jeśli C12 jawnie ich nie zmienia. Nie zakładać, że wszystkie stare rekwizyty są w aktualnym pokoju.
 
 
-Pełny dział z wcześniejszymi źródłami: [wersja pełna](../05_BAZA_PELNA/06_PRZEDMIOTY_I_SEKRETY.md).
+Pełna wcześniejsza historia i źródła: [pełny dział](../04_BAZA_PELNA/06_PRZEDMIOTY_I_SEKRETY.md).

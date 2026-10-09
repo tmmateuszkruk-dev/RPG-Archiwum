@@ -458,3 +458,51 @@ Archiwum: `01_ARCHIWUM_CZAT_1-10_SCALONE.txt`; oryginał: `oryginaly/chatgpt_cal
 | C8-M0723–C8-M0736 | Dokończenie obiadu; wspólne wyjście i wybór miejsca nad jeziorem |
 | C8-M0737–C8-M0751 | Odpoczynek na kolanach Hermiony i masaż; techniczne „teraz?” |
 | C8-M0752–C8-M0757 | Popołudniowy sen, budzenie i ostatnia odpowiedź Hermiony |
+
+
+# C12 — indeks scen (także wersje odrzucone)
+
+| Zakres | Scena | Duża część | Małe fragmenty |
+|---|---|---|---|
+| C12-M0001–C12-M0004 | Start C12 i odpowiedź na koniec C11 | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [061](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_061_C12-M0001_C12-M0200.txt) |
+| C12-M0005–C12-M0042 | Sen obojga; zegar 16:00 | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [061](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_061_C12-M0001_C12-M0200.txt) |
+| C12-M0043–C12-M0066 | Relacja ze snu; warunkowa rozmowa o ślubie | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [061](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_061_C12-M0001_C12-M0200.txt) |
+| C12-M0067–C12-M0088 | Biblioteka domu i drugi sen | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [061](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_061_C12-M0001_C12-M0200.txt) |
+| C12-M0089–C12-M0104 | Tobik o 18:45; korekta stylu | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [061](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_061_C12-M0001_C12-M0200.txt) |
+| C12-M0105–C12-M0118 | Koniec czytania; rozmowa o ojcu Hermiony | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [061](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_061_C12-M0001_C12-M0200.txt) |
+| C12-M0119–C12-M0148 | Taksówka do Grangerów, przyjazd 19:55 | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [061](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_061_C12-M0001_C12-M0200.txt) |
+| C12-M0149–C12-M0174 | Powrót do rodziców i pożegnanie | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [061](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_061_C12-M0001_C12-M0200.txt) |
+| C12-M0175–C12-M0194 | Powrót Jamesa, opłata i czuwanie | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [061](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_061_C12-M0001_C12-M0200.txt) |
+| C12-M0195–C12-M0206 | Skok wakacyjny, listy, koperta, prefektury | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [061](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_061_C12-M0001_C12-M0200.txt), [062](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_062_C12-M0201_C12-M0400.txt) |
+| C12-M0207–C12-M0218 | Peron 1 IX; prawdziwy Moody i powitanie | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [062](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_062_C12-M0201_C12-M0400.txt) |
+| C12-M0219–C12-M0230 | Kłótnia, szyba, Harry | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [062](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_062_C12-M0201_C12-M0400.txt) |
+| C12-M0231–C12-M0260 | Nott i prefektura; Luna, Ginny, Neville | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [062](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_062_C12-M0201_C12-M0400.txt) |
+| C12-M0261–C12-M0306 | Wyjaśnienia Hermiony; korekta pamięci | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [062](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_062_C12-M0201_C12-M0400.txt) |
+| C12-M0307–C12-M0342 | Obchody, słodycze i sen w pociągu | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [062](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_062_C12-M0201_C12-M0400.txt) |
+| C12-M0343–C12-M0378 | Hogsmeade, powóz i widziane stworzenia | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [062](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_062_C12-M0201_C12-M0400.txt) |
+| C12-M0379–C12-M0394 | Uczta i korekta wiedzy Draco | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [062](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_062_C12-M0201_C12-M0400.txt) |
+| C12-M0395–C12-M0440 | Spór z Draco, ceremonia i Umbridge | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [062](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_062_C12-M0201_C12-M0400.txt), [063](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_063_C12-M0401_C12-M0600.txt) |
+| C12-M0441–C12-M0478 | Rozmowa o odznace z Dumbledore’em | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [063](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_063_C12-M0401_C12-M0600.txt) |
+| C12-M0479–C12-M0534 | Pokój Slytherinu; Nott, Draco i Pansy | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [063](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_063_C12-M0401_C12-M0600.txt) |
+| C12-M0535–C12-M0584 | Poranek, biblioteka i pojednanie | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [063](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_063_C12-M0401_C12-M0600.txt) |
+| C12-M0585–C12-M0610 | Pince, wspólna lektura | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [063](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_063_C12-M0401_C12-M0600.txt), [064](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_064_C12-M0601_C12-M0800.txt) |
+| C12-M0611–C12-M0644 | Śniadanie i odwołany żart o ślubie | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [064](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_064_C12-M0601_C12-M0800.txt) |
+| C12-M0645–C12-M0674 | Fakultety, egzaminy i plany lekcji | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [064](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_064_C12-M0601_C12-M0800.txt) |
+| C12-M0675–C12-M0690 | Historia Magii, sen i przejście do lochów | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [064](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_064_C12-M0601_C12-M0800.txt) |
+| C12-M0691–C12-M0728 | Eliksiry, lilia i oddana próbka | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [064](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_064_C12-M0601_C12-M0800.txt) |
+| C12-M0729–C12-M0768 | Przerwa, granice i obiad | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [064](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_064_C12-M0601_C12-M0800.txt) |
+| C12-M0769–C12-M0812 | Runy i zakład o SUM-y | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [064](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_064_C12-M0601_C12-M0800.txt), [065](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_065_C12-M0801_C12-M1000.txt) |
+| C12-M0813–C12-M0840 | Obrona, Harry i korekta Veritaserum | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [065](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_065_C12-M0801_C12-M1000.txt) |
+| C12-M0841–C12-M0850 | Spór o Ministerstwo; szlaban Jamesa | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [065](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_065_C12-M0801_C12-M1000.txt) |
+| C12-M0851–C12-M0866 | Krwawe pióro i odmowa | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [065](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_065_C12-M0801_C12-M1000.txt) |
+| C12-M0867–C12-M0892 | Ślad widziany przez Hermionę; rozmowa z Harrym | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [065](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_065_C12-M0801_C12-M1000.txt) |
+| C12-M0893–C12-M0921 | Pożegnanie i powrót do Slytherinu | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [065](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_065_C12-M0801_C12-M1000.txt) |
+| C12-M0922–C12-M0949 | ANULOWANA gałąź Draco, noc i poranek | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [065](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_065_C12-M0801_C12-M1000.txt) |
+| C12-M0950–C12-M0957 | Jawne cofnięcie i zasady charakterów | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [065](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_065_C12-M0801_C12-M1000.txt) |
+| C12-M0958–C12-M0976 | Poprawiona rozmowa, noc i Nott rano | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [065](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_065_C12-M0801_C12-M1000.txt) |
+| C12-M0977–C12-M0994 | Zgłoszenie pióra Snape’owi | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [065](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_065_C12-M0801_C12-M1000.txt) |
+| C12-M0995–C12-M1023 | Harry, oględziny, Dumbledore i dokumentacja | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [065](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_065_C12-M0801_C12-M1000.txt), [066](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_066_C12-M1001_C12-M1109.txt) |
+| C12-M1024–C12-M1050 | Oczekiwanie na Hermionę; odmowa wejścia do wieży | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [066](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_066_C12-M1001_C12-M1109.txt) |
+| C12-M1051–C12-M1084 | Poranny Pokój Życzeń; uzgodnienie powrotu | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [066](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_066_C12-M1001_C12-M1109.txt) |
+| C12-M1085–C12-M1097 | Pokój po lekcjach, wyobrażony dom i baldachim | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [066](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_066_C12-M1001_C12-M1109.txt) |
+| C12-M1098–C12-M1109 | Prywatny sekret i końcowy odpoczynek | [C12](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | [066](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_066_C12-M1001_C12-M1109.txt) |

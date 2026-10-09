@@ -1,13 +1,9 @@
-# Baza kampanii C1–C11
+# Baza kampanii C1–C12
 
-Stan: C11-M0409 — niedziela 9 lipca 1995, po obiedzie i deserze, dokładna godzina nieustalona; główna sypialnia londyńskiego domu Jamesa. Następna odpowiedź należy do NPC (Hermiony).
+Stan C12-M1109: początek września 1995, po lekcjach w dniu porannego zgłoszenia krwawego pióra; Pokój Życzeń, VII piętro Hogwartu. Dokładna data i godzina nieustalone. Następny ruch należy do użytkownika (Jamesa).
 
-11 dużych części, 60 mniejszych fragmentów, 10 936 wiadomości. Nowe C11: 409 wiadomości z 205 TURN; ostatnia wiadomość to USER bez odpowiedzi. C1–C10 zachowane bajt w bajt. Oryginały C10 i C11 w `oryginaly/`, poprzednia baza w `historia_wersji/do_C10/`.
+12045 wiadomości, 12 dużych części, 66 małych (do 200 wiadomości). C1–C11 i ich 60 fragmentów zachowane bajt w bajt; C12 ma 555 TURN i 1109 wiadomości.
 
-Najpierw 08_CURRENT, 10_ZASADY_I_CIAGLOSC, 09_REJESTR_KOREKT i 04_KTO_CO_WIE. Potem właściwy dział i wskazany fragment archiwum. Indeks scen obejmuje tematy, indeksy dużych i małych części kierują do plików po ID. Nie trzeba czytać wszystkich archiwów dla pojedynczej odpowiedzi.
+Czytaj CURRENT, zasady, korekty i wiedzę NPC, potem indeks i konkretną scenę. Odrzucone wersje zachowano w archiwum, lecz wyłączono z kanonu. Dawne pliki w historii nie są równorzędnymi punktami startu.
 
-Zachowano dotychczasowe pełne pliki tematyczne z oznaczoną historią; nowe sekcje C11 zmieniają tylko swój zakres. Osobny pakiet RPG-Archiwum_GitHub_C1-C11 ma krótsze pliki aktywne i komplet do repozytorium. Archiwa są przechowywane bez naprawiania dialogów, a odrzucone wersje oznaczone w korektach.
-
-Sprawdzono pełne C11 i jego powiązania z bazą C10, kompletność i zgodność dawnych plików. Nie wykonywano ponownej interpretacji wszystkich 10 527 dawnych wiadomości ani nie twierdzi się, że wszystkie dawne streszczenia są bezbłędne.
-
-Zapis paczki nie podmienia załączników projektu ani nie publikuje repozytorium. Przy podmianie źródeł korzystaj z jednego zestawu bieżących plików, bez równoległych starych CURRENT.
+Bieżące dane i indeksy zaktualizowano po C12. Starsze archiwa kontrolowano bajtowo; nie wykonano ponownej interpretacji całej kampanii. Zapis repozytorium nie podmienia automatycznie załączników projektu.
