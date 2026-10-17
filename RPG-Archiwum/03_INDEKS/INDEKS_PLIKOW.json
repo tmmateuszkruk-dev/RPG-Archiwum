@@ -1,9 +1,9 @@
 {
-  "version": "C1-C12",
-  "current_id": "C12-M1109",
-  "messages": 12045,
-  "merged_file": "01_ARCHIWA_CZATY/scalone/01_ARCHIWUM_CZAT_1-12_SCALONE.txt",
-  "merged_sha256": "6325fa562dea5802dd2ea2cbfaf3d045d18b041d927db33ed34658d6f292fa79",
+  "version": "C1-C13",
+  "current_id": "C13-M1029",
+  "messages": 13074,
+  "merged_file": "01_ARCHIWA_CZATY/scalone/01_ARCHIWUM_CZAT_1-13_SCALONE.txt",
+  "merged_sha256": "1ae465fd458ea7cbb680af4fd89fdd9c9ba7b368f9ceaa1437a09d7971d48a28",
   "small": [
     {
       "file": "01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_001_C1-M0001_C1-M0200.txt",
@@ -532,6 +532,54 @@
       "messages": 109,
       "bytes": 58245,
       "sha256": "19c2e1c12decb400a74fc7bceb1b54265e6ec81842ef8e4559b79b4bb0144342"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_067_C13-M0001_C13-M0200.txt",
+      "first": "C13-M0001",
+      "last": "C13-M0200",
+      "messages": 200,
+      "bytes": 149643,
+      "sha256": "c5ebfd3dd1658fc5a8f4abc6fdf9483c1b37921820d9f1756073c4092ac6c002"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_068_C13-M0201_C13-M0400.txt",
+      "first": "C13-M0201",
+      "last": "C13-M0400",
+      "messages": 200,
+      "bytes": 189723,
+      "sha256": "e19c6b22f18b316834889390281f4ed77d999dcd1230bd5704dd6fcc4e66b331"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_069_C13-M0401_C13-M0600.txt",
+      "first": "C13-M0401",
+      "last": "C13-M0600",
+      "messages": 200,
+      "bytes": 259327,
+      "sha256": "a453f05c32bb6657d10ac4f371b6d6fc94239e920832ed56e1b0200a69170a30"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_070_C13-M0601_C13-M0800.txt",
+      "first": "C13-M0601",
+      "last": "C13-M0800",
+      "messages": 200,
+      "bytes": 256947,
+      "sha256": "223f0edd617cb98a71e26a5ae036959994386a135fc780544c501c556d78212f"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_071_C13-M0801_C13-M1000.txt",
+      "first": "C13-M0801",
+      "last": "C13-M1000",
+      "messages": 200,
+      "bytes": 272780,
+      "sha256": "c5ce151a55ea3b0385f928f58b4ad53bc9eaadce81271e800eab50d36245da51"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_072_C13-M1001_C13-M1029.txt",
+      "first": "C13-M1001",
+      "last": "C13-M1029",
+      "messages": 29,
+      "bytes": 29945,
+      "sha256": "5ef8a54af9c3d6bb90982f17fabfea909bef6ce703aeb2e34429ed63de1e40d4"
     }
   ],
   "large": [
@@ -642,6 +690,15 @@
       "bytes": 546773,
       "sha256": "f152458c19890509ffc0d65a8951a56b9b0d4598be5d3c6618cc53e4fadb01b0",
       "part": 12
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt",
+      "first": "C13-M0001",
+      "last": "C13-M1029",
+      "messages": 1029,
+      "bytes": 1158365,
+      "sha256": "81c5bd2f8a14bfa3439424affabe7b91010998bedb309892e2d4c998159f4b90",
+      "part": 13
     }
   ]
 }

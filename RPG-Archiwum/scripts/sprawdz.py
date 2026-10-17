@@ -18,7 +18,7 @@ for typ in ['small','large']:
  assert b''.join(buffers)==merged,typ
 ids=[x.decode() for x in re.findall(rb'^\[(C\d+-M\d{4})\]\r?$',merged,re.M)]
 assert len(ids)==len(set(ids))==m['messages']
-for part in range(1,13):
+for part in range(1,len(m['large'])+1):
  sub=[x for x in ids if x.startswith(f'C{part}-')]
  assert sub==[f'C{part}-M{i:04d}' for i in range(1,len(sub)+1)]
 assert ids[-1]==m['current_id']

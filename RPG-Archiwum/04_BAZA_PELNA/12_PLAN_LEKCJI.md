@@ -1,3 +1,7 @@
+# Potwierdzenie C13
+
+Plan skorygowany w C13-M0168–0170 jest już uwzględniony w tej wersji z GitHuba. Nie dodawaj odrzuconej przerwy ani dodatkowych przedmiotów.
+
 # Plany V roku — ustalenia kampanii C12
 
 | Dzień | James — C12-M0662 | Hermiona — C12-M0674 |

@@ -1,3 +1,11 @@
+# Profile — aktualizacja C13
+
+Hermiona ukończyła 16 lat 19 IX 1995 (M0465–0478). Starszy zapis „15 lat” opisuje wcześniejszy czas. James jest uczniem piątej klasy i pozostaje niepełnoletni; nie dopisuj daty urodzin. Harry prowadzi GD; James przyjmuje rolę pomocnika, nie dowódcy.
+
+---
+
+## Stan wcześniejszy
+
 # Profile postaci — aktualizacja C12
 
 James i Hermiona rozpoczęli V rok; w zapisie nadal mają po 15 lat. Nie dodano daty urodzin Jamesa ani nowego pomiaru wzrostu Hermiony (jej „możliwe” w M0564 nie jest pomiarem).

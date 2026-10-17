@@ -1,33 +1,11 @@
-# CURRENT — jedyny punkt kontynuacji
+# CURRENT — C13-M1029
 
-Stan C12-M1109: początek września 1995, po lekcjach w dniu porannego zgłoszenia krwawego pióra; Pokój Życzeń, VII piętro Hogwartu. Dokładna data i godzina nieustalone. Następny ruch należy do użytkownika (Jamesa).
+Środa w październiku 1995, po pierwszym treningu Gwardii Dumbledore’a rozpoczętym o 20:00. Dokładny dzień miesiąca i obecna godzina nie są ustalone. Nie wracaj do wrześniowego CURRENT z C12.
 
-## Miejsce i chwila
+Pokój Życzeń, prywatny salon po wyjściu grupy. Hermiona przywołała przytulne wnętrze i zamknęła drzwi Colloportus (C13-M0982); nie oznacza to niezniszczalnej blokady ani stałej rezerwacji sali. Torba na kanapie. Hermiona zdjęła buty. Ostatnia wyraźna pozycja: Hermiona na Jamesie na kanapie; oboje przytomni (C13-M1013–M1028). Ogień i świece; to nie ciemny baldachim z początku części. Późniejsze „przy ogniu” nie dowodzi przesiadki.
 
-James i Hermiona są sami w Pokoju Życzeń na VII piętrze Hogwartu, po lekcjach. Tego ranka James z Harrym zgłosili pióro Snape’owi i Dumbledore’owi. To nie jest 9 lipca ani dom Jamesa. Użytkownik przeszedł przez śniadanie i szkolny dzień w C12-M1084; ich powrót do pokoju już nastąpił.
+Ostatnia wiadomość C13-M1029 należy do USER. Następna odpowiedź to reakcja NPC/narratora na tę akcję; nie dopisuj kolejnej akcji Jamesa. Odczytaj końcowy fragment archiwum zamiast wymyślać cytat.
 
-Data: początek września, dzień D+2 względem pierwszej rozegranej lekcji Umbridge; dokładny dzień miesiąca pozostaje nierozstrzygnięty z powodu przejścia od 1 IX do poniedziałkowego planu. Okna z gwiazdami są aranżacją pokoju, nie zegarem.
+Hermiona ma 16 lat od 19 IX. James pozostaje niepełnoletni; brak źródłowego potwierdzenia kolejnych urodzin. Harry prowadzi GD, James pomaga. Pierwszy trening Expelliarmus zakończony; kolejny zapowiedziany na środę. Hermiona rozbroiła Jamesa przed jego fizycznym skokiem; Harry zakazał nieuzgodnionych fizycznych ataków. Jej różdżka zwrócona (M0971), odzyskanie różdżki Jamesa nie zostało jednoznacznie opisane.
 
-## Pozycje i ostatnie działanie
-
-Oboje pozostają na dużym łóżku. Ostatnie jawne ułożenie Jamesa to leżenie nad Hermioną z podparciem na łokciach (M1090); później nie opisano pełnej zmiany pozycji. Baldachim zasunięty różdżką w M1094: kompletna ciemność. Buty obojga zdjęte. Nie wprowadzono rozbierania z mundurków, nowego snu ani zamknięcia drzwi na klucz.
-
-W M1098–M1103 James ujawnił Hermionie prywatny sekret łaskotek i poprosił o dyskrecję. W M1107 Hermiona przestała łaskotać; w końcowej odpowiedzi M1109 pozostaje przy spokojnym masażu karku i głaskaniu włosów. Oboje przytomni. Ostatnia kwestia NPC dotyczy zaufania. Końcowa lista propozycji dalszych działań jest dopiskiem interfejsowym/OOC, nie dialogiem Hermiony.
-
-**Następna tura należy do Jamesa. Nie dopisano jego reakcji.**
-
-## Wystrój i przedmioty
-
-Druga, popołudniowa aranżacja Hermiony (M1085): ciepły duży salon, kominek, wielka sofa, regały i rośliny, unoszące się świece, stolik ze słodyczami i napojami; łóżko z baldachimem, ogród zimowy z dwiema huśtawkami, tablica ruchomych wyobrażeń wspólnego życia. Obrazy nie pokazują pewnej przyszłości.
-
-James nosił rano mundurek Slytherinu z bordowo-złotym krawatem (M0970); brak późniejszego przebrania. Hermiona w szkolnym stroju; nie przywracaj lipcowej błękitnej sukienki. Torba Hermiony ostatnio pod ścianą przy wejściu (M1085), bez potwierdzonego wniesienia. Miejsce odłożenia różdżki po M1094 niepodane. Nie sprowadzaj pozostałych rekwizytów z Londynu bez podstaw.
-
-## Wiedza i sprawy w tle
-
-- Hermiona widziała świeży ślad na dłoni Jamesa po szlabanie i podejrzewa Umbridge. Nie poznała jawnie pełnego mechanizmu pióra, rozmowy z Harrym ani porannego zgłoszenia.
-- Snape i Dumbledore obejrzeli obie dłonie. Dokumentacja, dyskrecja i dalsze działania są polecone; nie opisano zwolnienia Umbridge ani zakończenia sprawy. Brak opisanego leczenia śladu Jamesa.
-- Draco zna tylko poprawioną rozmowę o piórze. M0922–M0949 anulowane: nie zna z tej gałęzi sekretu snu przy Hermionie.
-- Związek trwa, wcześniejsza kłótnia o rozłąkę złagodniała. Hermiona ma własne obowiązki i przyjaciół. Brak ślubu/zaręczyn; nazwisko Granger pozostaje.
-- Zakład o dziewięć wspólnych SUM-ów otwarty. James nie jest prefektem. Nie ogłaszać wyleczenia bezsenności.
-
-Przed ważnym faktem: 04_KTO_CO_WIE, 09_REJESTR_KOREKT, odpowiedni dział i indeks C12. Nie rozwijać fabuły podczas odczytu tego pliku.
+Randka organizowana przez Hermionę i lot z Harrym pozostają planami. Brak zaręczyn, rozstania i nowego związku Harry–Ginny. Zgłoszenie krwawego pióra nie ma potwierdzonego finału.

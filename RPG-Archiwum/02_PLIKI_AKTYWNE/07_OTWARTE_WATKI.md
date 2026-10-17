@@ -1,3 +1,11 @@
+# Otwarte wątki po C13
+
+Randka organizowana przez Hermionę pozostaje do rozegrania (M0917–0922). Plan lotu z Harrym i ewentualnego niskiego lotu Hermiony nie jest wykonany (M0923–0936). Kolejny trening GD planowany na środę; Harry prowadzi, James pomaga. Bezpieczeństwo grupy po dekrecie 24, poufność listy i inspekcje Umbridge pozostają aktywne. Zgłoszenie krwawego pióra z C12 nie ma potwierdzonego rozstrzygnięcia. Nie dopisuj zdrady, nowego meczu, zaręczyn ani rozstania.
+
+---
+
+## Zachowane ustalenia wcześniejsze — datowane historycznie
+
 # Otwarte wątki — po C12
 
 | Wątek | Bieżący stan | Źródło |

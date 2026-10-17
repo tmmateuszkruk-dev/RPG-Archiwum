@@ -1,0 +1,19 @@
+{
+  "campaign": "Hogwarts — James Brown / Hermiona, C1–C12; nie świat ślubu z Luną",
+  "cutoff": "C13-M1029",
+  "source_repository": "tmmateuszkruk-dev/RPG-Archiwum",
+  "source_commit": "Pakiet C13; commit publikacji wskazany w historii Git.",
+  "source_sha256": "1ae465fd458ea7cbb680af4fd89fdd9c9ba7b368f9ceaa1437a09d7971d48a28",
+  "messages_indexed": 12045,
+  "cards": 118,
+  "source_bytes": 6841170,
+  "coverage": "Zachowano fakty C1–C12; dodano syntezę kluczowych scen C13. Indeks mechaniczny wszystkich części nie oznacza pełnej pamięci semantycznej ani wiedzy NPC.",
+  "limitations": [
+    "Katalog obejmuje rozpoznane nazwane postacie, zwierzęta, osoby anonimowe i wzmianki; anonimowy tłum nie ma wymyślonych indywidualnych kart.",
+    "Trafienie imienia nie ustanawia obecności, wiedzy ani wspomnienia.",
+    "Późniejsza rozmowa po C12 nie została dostarczona.",
+    "Rejestr wykluczeń w indeksie jest pomocniczy, nie zastępuje pełnego rejestru korekt."
+  ],
+  "messages": 13074,
+  "bytes": 7999535
+}

@@ -1,3 +1,13 @@
+# Relacje — przyrost C13
+
+James i Hermiona pozostają parą. Hermiona publicznie potwierdza miłość, odmawia pozorowania rozstania i zastraszania Rona (M0214–0240). Rozmowy o ślubie i rodzinie to warunkowa przyszłość, nie zaręczyny ani zgoda na osiem dzieci (M0563–0576).
+
+James–Ron: napięcie i aluzje szachowe, bez nowej bójki i bez potwierdzonego związku Ron–Hermiona. James–Harry: porozumienie co do pomocy przy GD i plan wspólnego latania. Harry–Ginny: życzliwe gesty na przyjęciu, bez potwierdzenia związku. James–Parvati: wspólny taniec, bez automatycznych uczuć. Draco przeprosił w określonej scenie, zachowuje dumę i nie staje się podporządkowanym Jamesowi.
+
+---
+
+## Stan wcześniejszy
+
 # Relacje — aktualizacja C12
 
 **James–Hermiona:** związek trwa. Wakacyjna rozłąka prowadzi do kłótni 1 IX, zazdrości o Rona i częściowego uspokojenia w pociągu. Poranek pod biblioteką przynosi ponowne zapewnienie o przyjaźni z Ronem i bliskość; nie należy utrzymywać nieprzerwanej ostrej kłótni jako CURRENT (M0219–M0290, M0543–M0584). Zamek i wspólne podróże nie odbyły się tylko dlatego, że wcześniej je planowano.

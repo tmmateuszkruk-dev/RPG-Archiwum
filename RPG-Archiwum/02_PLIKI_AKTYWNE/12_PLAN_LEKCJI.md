@@ -1,3 +1,7 @@
+# Potwierdzenie C13
+
+Plan skorygowany w C13-M0168–0170 jest już uwzględniony w tej wersji z GitHuba. Nie dodawaj odrzuconej przerwy ani dodatkowych przedmiotów.
+
 # Plan lekcji V roku — skorygowany czwartek i piątek
 
 Podstawa: kampania C12-M0662 (James), C12-M0674 (Hermiona), pierwotny `12_PLAN_LEKCJI.md`. Korekta wykonana po ustaleniu, że James nie powinien mieć dodatkowych bloków zwykłych Zaklęć i Transmutacji w porównaniu z Hermioną oraz że żaden podstawowy przedmiot nie odbywa się równolegle z jej Numerologią. Poniedziałek, wtorek i środa bez zmian.

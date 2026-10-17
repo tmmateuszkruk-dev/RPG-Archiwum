@@ -1,3 +1,17 @@
+# Wiedza i granice — przyrost C13
+
+Hermiona i James znają prywatne rozmowy, list po śnie, walc, prezent, marzenia i bieżący salon. Świadkowie publicznych uroczystości nie poznają automatycznie ich rozmów w Pokoju Życzeń. Wypowiedź o dziesięciu latach bez snu jest deklaracją Jamesa, a nie wykasowaniem rozegranych snów.
+
+Harry wie, że James zgodził się pomagać w GD; pozostaje prowadzącym. Grupa widzi demonstrację i pojedynek, nie późniejszy salon. Uczestnicy podpisują zobowiązanie, lecz nie uzyskują automatycznie wiedzy o sposobie zabezpieczenia pergaminu. Brak ustalonej zdrady.
+
+Nott słyszał o konfrontacji, nie jest automatycznie jej naocznym świadkiem; nie przeczytał prywatnego listu. Draco, Pansy, Crabbe i Goyle znają publiczną konfrontację. Nott stosuje imię Hermiony zgodnie z korektą. Ron zachowuje wcześniejszą wiedzę o pokoju; nie zna całej intymnej historii pary.
+
+Ginny zna przyjęcie, gesty wobec Harry’ego i rozmowę z Jamesem. Pocałunek w policzek, uścisk i taniec nie ustanawiają związku. Parvati zatańczyła z Jamesem za wiedzą Hermiony; nie powstaje nowy romans. Rozważania OOC nie trafiają do kart jako wiedza postaci.
+
+---
+
+## Zachowane ustalenia wcześniejsze — datowane historycznie
+
 # Kto co wie — aktualizacja C12
 
 | Fakt | Kto i skąd wie | Czego nie wolno dopowiadać | Źródło |

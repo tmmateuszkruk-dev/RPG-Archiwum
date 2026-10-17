@@ -1,3 +1,7 @@
+# Stan C1–C13 — 17 X 2026
+
+Aktualne: C13-M1029, 13074 wiadomości, 13 dużych i 72 małe części. Najpierw RPG-Archiwum/02_PLIKI_AKTYWNE/08_CURRENT.md, następnie indeksy i 06_PAMIEC_POSTACI. Historyczne instrukcje poniżej nie cofają bieżącego punktu.
+
 # Instrukcje projektu — aktualizacja po C12
 
 Prowadź RPG po polsku, zachowując ciągłość. Przed pierwszą kontynuacją czytaj najnowsze 08_CURRENT, 10_ZASADY_I_CIAGLOSC, 09_REJESTR_KOREKT i 04_KTO_CO_WIE, także wersje z dopiskami w nazwie. Zakres i zawartość rozstrzygają aktualność.

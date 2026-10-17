@@ -1,3 +1,7 @@
+# Aktualizacja C13
+
+Aktualny punkt C13-M1029. Indeksy dużych, małych części i scen: 03_INDEKS. Indywidualna pamięć postaci: 06_PAMIEC_POSTACI. Starsze opisy poniżej są historyczne.
+
 # Miejsca — po C12
 
 Aktualnie: Pokój Życzeń, VII piętro Hogwartu, po lekcjach; aranżacja M1085. Gabinet Snape’a w lochach był miejscem porannego zgłoszenia. Gruba Dama pilnuje wejścia do wieży Gryffindoru, James nie został wpuszczony. Pokój wspólny Slytherinu pozostaje jego domowym zapleczem w szkole.

@@ -1,3 +1,23 @@
+# Korekty C13 — pierwszeństwo przed historycznymi wersjami
+
+- M0001–0002: wznowienie, nie dodatkowa scena. M0015–0016: po lekcjach, nie śniadanie.
+- M0116: Hermiona wie, że zostawiła śpiącego Jamesa; nie wie automatycznie, że się obudził. Ron zna Pokój Życzeń z wcześniejszego przyjęcia, nie prywatne wydarzenia pary.
+- M0164 odrzucone; obowiązuje końcowy plan M0168–0170. Wspólne przedmioty o wspólnej godzinie, wolne Jamesa podczas Numerologii Hermiony. Nie dodawaj drugiej czwartkowej przerwy.
+- Draco: wariant bez prowokacji M0250 odrzucony; M0257–0258 przywraca prowokację. Przeprosiny M0266/M0268 zastąpione M0274: bez nazwiska „Granger”. James nie uderzył Draco.
+- M0401–0402: jeden patrol do 20:30, nie kolejny tej samej nocy. Wzmianka portretu o 20:45 w M0406 nie zmienia korekty patrolu.
+- Nott: M0456 zastąpione M0458, mówi „Hermiona”. Nie kasuje to starszej historii relacji.
+- M0477: klęknięcie przy prezencie nie jest oświadczynami. Nowy złoty naszyjnik ze szmaragdem i rubinem nie zastępuje dawnego diamentu w historii.
+- M0536: jednorazowy wstęp do pokoju wspólnego pod opieką Hermiony, bez stałego hasła i dostępu do dormitorium.
+- M0713: rok, nie kilka lat. M0821–0822: wariant Ron–Hermiona jest rozważaniem OOC, nie wydarzeniem ani przesądzoną przyszłością.
+- M0938 zastąpione M0948 po OOC M0939–0947. Wynik 76,9 przy progu 7,5%: Draco NIE używa „Granger”. Nie losuj ponownie ani nie rozciągaj reguły na wszystkich bohaterów.
+- Zdziwienie Rona pokojem w M0948 jest sprzeczne z wcześniejszą znajomością potwierdzoną M0116. Nie zeruj mu pamięci; odnotuj rozbieżność narracji.
+- M0964: tarcza Hermiony wytrzymuje. M0965–0966: James zostaje rozbrojony, potem próbuje fizycznego przejęcia różdżki. To nie jego bezwarunkowa wygrana.
+- M1029 nie ma jeszcze odpowiedzi asystenta. OOC i odrzucone teksty pozostają w archiwum, lecz nie są wiedzą NPC.
+
+---
+
+## Zachowane ustalenia wcześniejsze — datowane historycznie
+
 # Rejestr korekt — aktualizacja C12
 
 | Zakres | Obowiązujące rozstrzygnięcie | Źródło |

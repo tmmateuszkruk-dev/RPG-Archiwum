@@ -1,3 +1,16 @@
+# Przedmioty i sekrety — przyrost C13
+
+- List Hermiony przy poduszce po odejściu na obowiązki; Nott go nie czyta (M0096–0098, M0124).
+- Ręcznie zapisane nuty walca nr 2 Szostakowicza przekazane portretom (M0405–0406). Maurycy, skrzypek, organizuje wykonanie. „Adelajda” to użyte imię Grubej Damy, nie osobna postać.
+- Prezent 19 IX: cienki złoty łańcuszek, szmaragd i mniejszy czerwony rubin. Wybrany w wakacje i zachowany przez rozłąkę; nie ustalono ceny ani nowego zamówienia. Osobny od wcześniejszego diamentu (M0477–0506).
+- Album „Nasze lata w Hogwarcie” od Harry’ego, Rona i Ginny; Colin pomógł zebrać fotografie (M0684). Neville: cztery zakładki z suszonymi roślinami, pomoc babci. Parvati i Lavender: granatowa ozdoba do włosów i dwie wsuwki (M0686). Ginny: ciemnozielony notes i pióro (M0720).
+- Lista podpisów grupy pozostaje u Hermiony; James podpisał M0915. Sposób zabezpieczenia nie jest publiczną wiedzą.
+- M0982: Colloportus na drzwiach salonu; torba Hermiony na kanapie. M0971 zwrot jej różdżki; miejsce różdżki Jamesa po rozbrojeniu niepotwierdzone.
+
+---
+
+## Stan wcześniejszy
+
 # Przedmioty, miejsca i sekrety — aktualizacja C12
 
 | Element | Stan | Źródło |

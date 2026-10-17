@@ -1,0 +1,4083 @@
+
+
+[C13-M0001]
+===== USER =====
+
+ok czat zaczynamy Part13 przypomnij sobie wszytko przanlizuj uruchom skill i wrzuc ostatnia widomisc z naaszej historii
+
+
+[C13-M0002]
+===== ASSISTANT =====
+
+Tak — Part13 zaczynamy dokładnie od C12-M1109. Przeczytałem wymagane 08_CURRENT, 10_ZASADY_I_CIAGLOSC, 09_REJESTR_KOREKT i 04_KTO_CO_WIE. Punkt startowy to Pokój Życzeń po lekcjach, kompletna ciemność pod zasuniętym baldachimem; Hermiona pozostaje przy masażu karku i głaskaniu włosów, a następna akcja należy wyłącznie do Jamesa. 
+08_CURRENT
+
+Mam też załadowane najnowsze ustalenia naszego skilla „prowadz-rpg”: pilnowanie kanonicznych wydarzeń również wtedy, gdy dzieją się poza Jamesem; oddzielenie momentu wydarzenia od chwili, gdy James się o nim dowie; zachowanie zmian AU bez cofania ich do książek; indywidualna wiedza, pamięć i charakter NPC; własne życie postaci; realne konsekwencje, czas i odległość; brak gwarantowanego sukcesu; powracające wątki; możliwość sprzeciwu NPC oraz naturalne sceny, w których postacie nie muszą cały czas mówić. James pozostaje całkowicie pod Twoją kontrolą. 
+10_ZASADY_I_CIAGLOSC
+ 
+09_REJESTR_KOREKT
+
+Technicznie skill nie pojawia mi się w tej rozmowie jako osobna zainstalowana pozycja do wywołania, ale odzyskałem jego najnowsze reguły z naszej poprzedniej rozmowy i od Part13 stosuję je jako obowiązujący tryb prowadzenia kampanii.
+
+Ostatnia kanoniczna wiadomość Part12 — C12-M1109
+
+Hermiona usłyszała swoje imię i wyczuła, jak James coraz wyraźniej szuka jej dłoni.
+
+Jej zaczepność natychmiast trochę złagodniała.
+
+Nie wróciła już do łaskotania. Zamiast tego wsunęła palce pewniej na jego kark i zaczęła spokojnie przesuwać nimi po znanym, wrażliwym miejscu, drugą dłonią delikatnie przeczesując mu włosy.
+
+— Jestem tutaj… — szepnęła.
+
+Kiedy ponownie usłyszała swoje imię, przysunęła się do niego trochę bliżej.
+
+— Nie musisz mnie prosić o każdy ruch, skoro już powiedziałeś mi, czego chcesz. Jeśli będziesz chciał, żebym przestała albo zmieniła miejsce, po prostu mi powiedz.
+
+Jej kciuk wykonał kolejny powolny ruch u nasady jego szyi.
+
+— A teraz już rozumiem, dlaczego tak bardzo lubisz, kiedy dotykam cię właśnie tutaj.
+
+W ciemności dało się usłyszeć jej cichy uśmiech.
+
+— I chyba zaczynam rozumieć, jak duże zaufanie mi właśnie okazałeś.
+
+To jest dokładny punkt, z którego rusza Part13. Końcowe „Jeśli chcesz, mogę…” z eksportu pomijamy, bo było elementem interfejsowym/OOC, a nie częścią sceny. 
+01_ARCHIWUM_CZAT_1-12_SCALONE
+
+Part13 rozpoczęty. Twoja tura jako James.
+
+
+[C13-M0003]
+===== USER =====
+
+kiedy kontowała masaż na moim karku na mojej twarzy pojawił się grymas którym był połączenie przyjemności i uśmiechu
+
+
+[C13-M0004]
+===== ASSISTANT =====
+
+Hermiona nie przerywała masażu. W zupełnej ciemności pod zasuniętym baldachimem jej palce powoli zataczały niewielkie kręgi u nasady karku Jamesa, od czasu do czasu przesuwając się nieco wyżej.
+
+Drugą dłonią delikatnie przeczesywała jego włosy. Nie spieszyła się, nie próbowała już łaskotać ani żartować. Po prostu cieszyła się tą spokojną chwilą.
+
+Po pewnym czasie zmieniła nieznacznie ułożenie palców, zaczynając masować kark obiema dłońmi, powoli i z wyczuciem.
+
+— Tak jest dobrze? — zapytała szeptem.
+
+Nie przestała jednak masować, pozostawiając Jamesowi możliwość odpowiedzi.
+
+
+[C13-M0005]
+===== USER =====
+
+-B....ba.... bardzo!!!....i......lekko się zaruminiłem ....t...to ...... na... "napięcie"...jest ....ba... bardzo.... bardzo... bardzo duże....powiedziałem jękliwym głosem
+
+
+[C13-M0006]
+===== ASSISTANT =====
+
+Palce Hermiony na moment zwolniły. Doskonale pamiętała, co James miał na myśli, mówiąc o tym szczególnym „napięciu”, które już nieraz pojawiało się między nimi podczas bliskich chwil.
+
+— Och… to napięcie… — szepnęła, a w jej głosie zabrzmiało lekkie speszenie pomieszane z rozbawieniem. — Pamiętam, James.
+
+W ciemności nie mogła zobaczyć jego rumieńców, ale słyszała każde urwane słowo.
+
+— Czyli chciałam cię odprężyć, a chyba osiągnęłam trochę odwrotny efekt — mruknęła z cichym śmiechem.
+
+Złagodziła masaż, pozostawiając jedną dłoń na jego karku, a drugą delikatnie we włosach.
+
+— Wiesz… — odezwała się po chwili znacznie ciszej. — Pamiętam też, jak mówiłeś, że im silniejsze jest to napięcie, tym trudniej ci się zatrzymać.
+
+Na moment zamilkła.
+
+— I nie musisz się przede mną wstydzić, panie Brown. — W jej głosie znów pojawiła się odrobina figlarności. — Ale chyba oboje wiemy, że nie wszystko trzeba doprowadzać do granic możliwości.
+
+Nie cofnęła dłoni. Pozostała blisko, pozwalając, by między nimi na chwilę zapadła spokojna cisza.
+
+
+[C13-M0007]
+===== USER =====
+
+-Ja....nie chcę żebyś przerywała...ale obawiam się że wiem jak to się skończy.... jeśli nie przerwiesz powiedziałem mocni się jąkając
+
+
+[C13-M0008]
+===== ASSISTANT =====
+
+Palce Hermiony na moment znieruchomiały na jego karku. W ciemności nie mogła zobaczyć jego twarzy, ale wyraźnie słyszała, z jakim trudem wypowiadał kolejne słowa.
+
+— James… — szepnęła łagodnie.
+
+Przez chwilę milczała, zastanawiając się nad jego wyznaniem. W końcu zamiast kontynuować masaż, przesunęła jedną dłoń na jego włosy.
+
+— Chyba rozumiem, co próbujesz mi powiedzieć.
+
+W jej głosie nie było już wcześniejszej zaczepności.
+
+— I wiem, że nie chcesz, żebym przestawała. Ale jeśli sam obawiasz się tego, dokąd nas to zaprowadzi… to może jednak powinniśmy trochę zwolnić?
+
+Delikatnie pogładziła go po włosach.
+
+— Nie musimy przecież niczego udowadniać ani nigdzie się spieszyć. — Uśmiechnęła się lekko, choć w ciemności nie mógł tego zobaczyć. — Możemy po prostu pobyć razem. To też bardzo lubię.
+
+Pozostała blisko, nie próbując zmieniać jego pozycji.
+
+— A przede wszystkim chciałabym, żebyśmy oboje czuli się z tym dobrze.
+
+
+[C13-M0009]
+===== USER =====
+
+-Bylo by mi bardzo dobrze....powiedziałem poniesiony chwilą jednak po chwili mocno się zaruminiłem
+
+
+[C13-M0010]
+===== ASSISTANT =====
+
+Hermiona usłyszała jego odpowiedź i przez chwilę milczała. Nie mogła dostrzec rumieńców Jamesa w ciemności, ale ton jego głosu wystarczył, by domyśliła się, jak bardzo był speszony.
+
+— Och, James… — szepnęła z cichym, nieco zawstydzonym śmiechem. — Ty naprawdę czasami potrafisz mnie zaskoczyć.
+
+Delikatnie pogładziła go po włosach.
+
+— Wierzę ci, że byłoby ci dobrze — odpowiedziała łagodnie. — Ale ja też muszę wiedzieć, czego chcę. A teraz najbardziej chciałabym po prostu mieć cię blisko.
+
+Na moment zamilkła, po czym dodała z odrobiną swojej zwykłej przekory:
+
+— Poza tym, panie Brown, chyba odkryłam dzisiaj wystarczająco dużo pańskich sekretów.
+
+Zaśmiała się cichutko i pozostawiła dłoń na jego karku, tym razem bez masażu.
+
+— Chociaż przyznaję… bardzo mi się podoba, że właśnie przy mnie potrafisz być taki otwarty.
+
+
+[C13-M0011]
+===== USER =====
+
+pokiwałem głową i objąłem ją w talii zmieniając naszą pozycję tak że teraz leżeliśmy obok siebie twarzmi w swoją stronę i bardzo delaktnie przytuliłem się do jej klatki piersiowej
+
+
+[C13-M0012]
+===== ASSISTANT =====
+
+Hermiona pozwoliła Jamesowi zmienić ich ułożenie. Kiedy poczuła, jak delikatnie przytula się do niej, przez moment znieruchomiała, a następnie objęła go jedną ręką w pasie, drugą układając na jego plecach.
+
+Nie odezwała się od razu. Zamiast tego zaczęła powoli głaskać go po plecach, a po chwili przesunęła dłoń wyżej, ku jego włosom.
+
+— Wiesz, James… — szepnęła w końcu. — Czasami naprawdę nie musisz niczego mówić.
+
+Przytuliła go odrobinę mocniej i delikatnie oparła policzek o jego włosy.
+
+— Lubię takie chwile z tobą. Kiedy nie musimy się o nic spierać, niczego planować ani nikomu niczego udowadniać.
+
+Uśmiechnęła się do siebie w ciemności.
+
+— Chociaż znając nas, pewnie jutro znowu będziemy się kłócić o jakąś kompletną głupotę.
+
+Zaśmiała się cichutko, nie przerywając spokojnego głaskania.
+
+
+[C13-M0013]
+===== USER =====
+
+mhm....mruknąłem tylko i zacząłem się łasić do jek klatki piersiowej
+
+
+[C13-M0014]
+===== ASSISTANT =====
+
+Hermiona urwała cichy śmiech, czując, jak James jeszcze bardziej się do niej przytula. Przez chwilę nic nie mówiła, a potem objęła go nieco mocniej.
+
+— No tak… — mruknęła z rozbawieniem. — Widzę, że dzisiaj jesteś wyjątkowo rozmowny, panie Brown.
+
+Jedną dłonią zaczęła powoli przeczesywać jego włosy, drugą pozostawiając na plecach. Po chwili delikatnie oparła policzek na czubku jego głowy.
+
+— Wiesz, trochę przypominasz mi teraz kota — szepnęła żartobliwie. — Brakuje tylko mruczenia.
+
+Zamilkła na kilka chwil. Jej palce nadal poruszały się spokojnie we włosach Jamesa.
+
+— Ale nie narzekam — dodała ciszej, już bez żartobliwego tonu. — Możesz się tak przytulać, ile tylko chcesz.
+
+Przymknęła oczy, pozwalając, by pomiędzy nimi zapanowała przyjemna cisza.
+
+
+[C13-M0015]
+===== USER =====
+
+na jej życzenie zacząłem mruczeć jednak po chwili zacząłem cicho - zaraz musimy iść na śniadanie.....bo jak nie pójdziemy to potem do obiadu będziesz chodzić głodna.... Czyli smutna....i może zacząć cię boleć brzuszek...a ja nie lubię jak cię coś boli....
+
+
+[C13-M0016]
+===== ASSISTANT =====
+
+Hermiona parsknęła cichym śmiechem, kiedy James rzeczywiście zaczął mruczeć. Już zamierzała coś powiedzieć, gdy usłyszała jego troskliwe słowa.
+
+Jej dłoń na moment zatrzymała się we włosach Jamesa.
+
+— Och, James… — szepnęła z wyraźną czułością. — Ty naprawdę martwisz się nawet o to, żeby nie rozbolał mnie brzuch?
+
+Przytuliła go trochę mocniej, po czym zachichotała.
+
+— Ale kochanie… śniadanie już dzisiaj jedliśmy. Przecież jesteśmy po lekcjach! — przypomniała mu łagodnie. — Chyba zupełnie straciłeś poczucie czasu.
+
+Ponownie zaczęła przeczesywać palcami jego włosy.
+
+— Jeśli martwisz się o kolację, to obiecuję, że jej nie przegapię. I wiesz, potrafię sama zadbać o to, żeby nie chodzić głodna.
+
+Zamilkła na chwilę, a potem dodała ciszej:
+
+— Ale to naprawdę słodkie, że tak się o mnie troszczysz.
+
+Delikatnie pocałowała go w czubek głowy.
+
+— A poza tym… — w jej głosie znów pojawiła się figlarna nuta. — Czy mój niezwykle groźny Ślizgon właśnie zaczął mruczeć jak mały kotek, tylko dlatego, że go o to poprosiłam?
+
+Nie potrafiła powstrzymać kolejnego cichego śmiechu.
+
+
+[C13-M0017]
+===== USER =====
+
+zarumieniłem się i wtuliłem się mocniej w jej klatkę z powodu jej uwagi ale również przez to że rzeczywiście straciłem poczucie czasu...
+
+
+[C13-M0018]
+===== ASSISTANT =====
+
+Hermiona poczuła, jak James wtula się w nią jeszcze mocniej. Jej rozbawienie nieco złagodniało, choć wciąż uśmiechała się pod nosem.
+
+— Ojej… chyba naprawdę cię zawstydziłam — szepnęła czule.
+
+Jedną ręką objęła go mocniej, a drugą wróciła do spokojnego przeczesywania jego włosów.
+
+— Mój biedny, groźny Ślizgon… — mruknęła z odrobiną przekory. — Najpierw martwi się, że jego dziewczyna będzie głodna, a potem chowa się przed nią, kiedy odkryje, że pomylił pory dnia.
+
+Zaśmiała się cichutko.
+
+— Ale wiesz co? To akurat bardzo miłe. Nawet kiedy zupełnie tracisz poczucie czasu, pamiętasz, żeby się o mnie zatroszczyć.
+
+Delikatnie pocałowała go we włosy, po czym oparła na nich policzek.
+
+— I nie martw się. Nie zamierzam nikomu opowiadać, że James Brown, dziedzic Slytherina, mruczy podczas przytulania.
+
+Po krótkiej pauzie dodała figlarnie:
+
+— Przynajmniej dopóki nie będę potrzebowała bardzo mocnego argumentu w naszym następnym sporze.
+
+
+[C13-M0019]
+===== USER =====
+
+jeszcze bardziej się zarumieniłem i mocniej przytuliłem głowę do jej piersi
+
+
+[C13-M0020]
+===== ASSISTANT =====
+
+Hermiona poczuła, jak James jeszcze mocniej przytula głowę do jej piersi. Przez chwilę uśmiechała się do siebie, lecz w końcu jej rozbawienie ustąpiło miejsca czułości.
+
+— Och, kochanie… — szepnęła miękko.
+
+Objęła go obiema rękami, a następnie jedną dłonią zaczęła delikatnie głaskać jego włosy.
+
+— Przecież tylko żartowałam. Nie wykorzystam twoich sekretów przeciwko tobie. Obiecuję.
+
+Pochyliła lekko głowę i złożyła delikatny pocałunek na jego włosach.
+
+— Chociaż muszę przyznać… — dodała z ledwie słyszalnym rozbawieniem. — Bardzo lubię tę twoją przytulaśną stronę.
+
+Nie próbowała już go zawstydzać. Zamiast tego wygodniej ułożyła głowę na poduszce i pozostała w jego objęciach, powoli przesuwając palcami po jego włosach.
+
+Przez dłuższą chwilę milczała. W ciemności słychać było tylko ich spokojne oddechy i cichy szelest pościeli.
+
+— Kocham cię, James — wyszeptała w końcu, zupełnie bez związku z wcześniejszymi żartami.
+
+I dalej głaskała go po włosach, nie oczekując natychmiastowej odpowiedzi.
+
+
+[C13-M0021]
+===== USER =====
+
+w ramach odpowiedzi zapałem za jej jedną dłoń przysunąłem do ust i zacząłem całować
+
+
+[C13-M0022]
+===== ASSISTANT =====
+
+Hermiona poczuła, jak James ujmuje jej dłoń i zaczyna składać na niej pocałunki. Na moment przestała poruszać palcami drugiej ręki we włosach chłopaka.
+
+Nie powiedziała nic. Zamiast tego delikatnie rozluźniła palce trzymanej dłoni, pozwalając mu swobodnie ją całować.
+
+Po chwili jej kciuk łagodnie przesunął się po jego policzku, a druga ręka wróciła do spokojnego głaskania włosów.
+
+— Mój kochany James… — wyszeptała w końcu z niezwykłą czułością.
+
+Nie próbowała zabierać dłoni. Leżała spokojnie, od czasu do czasu delikatnie odwzajemniając uścisk jego palców.
+
+Po dłuższej chwili odezwała się ponownie, tym razem z odrobiną figlarności:
+
+— Wiesz, że wcale nie musisz być taki elegancki nawet wtedy, kiedy się przytulamy?
+
+Zaśmiała się cichutko.
+
+— Chociaż… przyznaję, że bardzo to lubię.
+
+I znów zamilkła, pozwalając, by spokojna chwila trwała dalej.
+
+
+[C13-M0023]
+===== USER =====
+
+po chwili zapytałem - Czy Panna Granger zaszczyci mnie swoją obecnością dzisiejszej nocy czy z racji tego że została prefektem to nie może?
+
+
+[C13-M0024]
+===== ASSISTANT =====
+
+Hermiona na chwilę znieruchomiała. Dłoń, którą James przed momentem całował, delikatnie zacisnęła się na jego palcach.
+
+— Och… panie Brown… — szepnęła, a w jej głosie pojawiło się rozbawienie. — Czy pan właśnie próbuje namówić prefektkę Gryffindoru na spędzenie całej nocy poza własnym dormitorium?
+
+Zaśmiała się cichutko, ale po chwili spoważniała. Drugą dłonią powróciła do delikatnego głaskania jego włosów.
+
+— Sama odznaka mi tego nie zabrania, James. Ale obowiązują nas zasady, cisza nocna… a ja mam jeszcze obowiązki prefekta. Nie mogę pilnować przestrzegania regulaminu przez innych, a potem udawać, że mnie nie dotyczy.
+
+Przez chwilę milczała.
+
+— Tylko że… — zawahała się. — Wiem też, jak trudno jest ci zasnąć, kiedy jesteś sam. I naprawdę chciałabym móc przy tobie zostać.
+
+Delikatnie pogładziła go po policzku.
+
+— Nie chcę obiecywać ci całej nocy, kiedy nie wiem, czy mogę sobie na to pozwolić. Ale możemy jeszcze pobyć razem.
+
+Po chwili jej głos przybrał nieco bardziej figlarny ton.
+
+— Chociaż muszę przyznać, że to bardzo kusząca propozycja, panie Brown. Zwłaszcza że pańskie towarzystwo jest znacznie przyjemniejsze niż nocne patrolowanie korytarzy z Ronem.
+
+Uśmiechnęła się w ciemności.
+
+— A tak między nami… bardzo chciałbyś, żebym została?
+
+
+[C13-M0025]
+===== USER =====
+
+bardzo bardzo...powiedziałem cicho i mocniej przytuliłem się do jej klatki - ale rozumiem że moja mała prefektka midi być odpowiedzialna...i tak dalej....
+
+
+[C13-M0026]
+===== ASSISTANT =====
+
+Hermiona uśmiechnęła się w ciemności, słysząc określenie „moja mała prefektka”. Jej palce na chwilę zatrzymały się we włosach Jamesa.
+
+— Mała prefektka? — powtórzyła z udawanym oburzeniem. — Proszę uważać, panie Brown. Ta mała prefektka może jeszcze odjąć Slytherinowi punkty za bezczelność.
+
+Nie wytrzymała i zachichotała, po czym objęła go czulej.
+
+— Ale tak… musi być odpowiedzialna — przyznała nieco ciszej. — Chociaż czasami naprawdę chciałabym po prostu zapomnieć o tej odznace, obowiązkach i całej reszcie.
+
+Przez chwilę spokojnie głaskała go po włosach.
+
+— I wiesz co? Wcale nie ułatwiasz mi podejmowania rozsądnych decyzji, kiedy tak się do mnie przytulasz.
+
+Pochyliła głowę, składając delikatny pocałunek na jego włosach.
+
+— Nie obiecam ci całej nocy, kochanie. Ale nie muszę przecież uciekać już w tej chwili.
+
+Po krótkiej ciszy dodała z łagodną przekorą:
+
+— A poza tym nie jestem tylko prefektką. Jestem też twoją dziewczyną. I ona również ma coś do powiedzenia.
+
+Przesunęła dłonią po jego plecach.
+
+— A twoja dziewczyna właśnie zdecydowała, że chce się z tobą jeszcze trochę poprzytulać.
+
+
+[C13-M0027]
+===== USER =====
+
+-Dziekuje zatem mojej dziewczynie ale też bardzo ładnej Pani prefekt za to że zostaje i za to że nie odejmuję mi punktów....powiedziałem cicho i trochę poprawiłem się na łóżku i odsunąłem się trochę wyżej po omacku zacząłem delakatnie jeździć ręką po jej twarzy najpierw trafiając na jej czoło potem delaktnie zjeżdżając na jej usta i ostatecznie bardzo delikatnie chwytając jej policzek a potem bardzo delikatnie połączyłem nasze usta w długimn pocałunku
+
+
+[C13-M0028]
+===== ASSISTANT =====
+
+Hermiona poczuła najpierw delikatne muśnięcie palców na swoim czole, potem na ustach. Kiedy James w końcu odnalazł jej policzek, lekko przechyliła głowę w stronę jego dłoni.
+
+Gdy ich usta się spotkały, przez krótką chwilę pozostała nieruchoma, zaskoczona jego delikatnością. Zaraz jednak odwzajemniła pocałunek, spokojnie i czule.
+
+Jedną dłoń położyła na jego policzku, a drugą wsunęła we włosy. Nie spieszyła się z odsunięciem. Przez dłuższą chwilę nie padło między nimi ani jedno słowo.
+
+Dopiero kiedy pocałunek dobiegł końca, Hermiona wypuściła ciche westchnienie.
+
+— James… — wyszeptała z uśmiechem słyszalnym w głosie.
+
+Delikatnie pogładziła kciukiem jego policzek.
+
+— Muszę przyznać, panie Brown, że ma pan wyjątkowo przekonujący sposób dziękowania.
+
+Zachichotała cichutko, po czym sama odnalazła po omacku jego policzek i złożyła na nim krótki pocałunek.
+
+— I chyba właśnie dostał pan nieoficjalne pozwolenie na jeszcze jeden.
+
+Nie zrobiła jednak nic więcej. Pozostawiła dłoń na jego twarzy, nadal uśmiechając się w ciemności.
+
+
+[C13-M0029]
+===== USER =====
+
+znowu połączyłem nasze usta w bardzo długim tym razem bardziej muskanym pocałunku
+
+
+[C13-M0030]
+===== ASSISTANT =====
+
+Hermiona odwzajemniła pocałunek, delikatnie muskając ustami usta Jamesa. Dłoń, którą trzymała na jego policzku, pozostała na miejscu, a jej kciuk od czasu do czasu przesuwał się łagodnie po jego skórze.
+
+Nie próbowała przerywać tej chwili ani jej przyspieszać. W ciemności pod baldachimem nie musieli nawet na siebie patrzeć, żeby odnajdywać swoje twarze.
+
+Po dłuższej chwili Hermiona sama złożyła na jego ustach jeszcze jeden, króciutki pocałunek.
+
+— Mmm… — mruknęła cicho, wyraźnie zadowolona.
+
+Przez moment milczała, a potem zachichotała.
+
+— Wiesz, panie Brown… zaczynam podejrzewać, że to całe pańskie eleganckie dziękowanie jest tylko wymówką, żeby mnie całować.
+
+Pogładziła go delikatnie po policzku.
+
+— Chociaż… — dodała szeptem, z rozbawieniem. — Nie powiedziałam przecież, że mam coś przeciwko.
+
+Nie wypuszczając jego dłoni, przysunęła się odrobinę bliżej i spokojnie oparła czoło o jego czoło. Tym razem po prostu pozostała tak przez chwilę, bez kolejnych słów.
+
+
+[C13-M0031]
+===== USER =====
+
+po chwili odezwałem się cicho a w moim głosie było jednocześnie rozmarzenie i nieobecności - znowu czuję bardzo silnie to "napięcie".....i pewnie ty też to czujesz.... może nie powinniśmy z tym walczyć?
+
+
+[C13-M0032]
+===== ASSISTANT =====
+
+Hermiona przez chwilę milczała. Jej dłoń spoczywająca na policzku Jamesa znieruchomiała, a wcześniejszy figlarny ton zupełnie zniknął.
+
+— James… — szepnęła.
+
+Delikatnie przesunęła kciukiem po jego policzku.
+
+— Myślisz, że ja tego nie czuję? — zapytała cicho, z lekkim zawstydzeniem. — Przecież też cię kocham. I też czasami trudno mi się od ciebie oderwać.
+
+Przez moment szukała odpowiednich słów.
+
+— Ale wiesz… chyba nie musimy z tym walczyć. Nie ma nic złego w tym, że tak bardzo chcemy być blisko siebie.
+
+Odetchnęła spokojnie.
+
+— Tylko nie chciałabym, żebyśmy robili coś więcej wyłącznie dlatego, że poniosła nas chwila. Na to oboje powinniśmy się świadomie zdecydować.
+
+Przysunęła się odrobinę, żeby delikatnie pocałować go w czoło.
+
+— Teraz chciałabym po prostu zostać w twoich ramionach. I może jeszcze trochę się całować… — dodała z cichym, nieśmiałym śmiechem. — Bo to akurat bardzo lubię.
+
+Nie zabrała dłoni z jego policzka. Przez chwilę pozostała blisko, w spokojnej ciszy.
+
+
+[C13-M0033]
+===== USER =====
+
+po jej słowach trochę wróciłem na ziemie - masz rację.... przepraszam....
+
+
+[C13-M0034]
+===== ASSISTANT =====
+
+Hermiona przez chwilę milczała, a potem delikatnie pogładziła kciukiem jego policzek.
+
+— Hej… James… — szepnęła łagodnie. — Za co mnie przepraszasz?
+
+W jej głosie zabrzmiało szczere zdziwienie.
+
+— Przecież powiedziałeś mi tylko, czego pragniesz. A ja powiedziałam ci, co o tym myślę. Tak właśnie powinniśmy ze sobą rozmawiać, prawda?
+
+Przysunęła się odrobinę i delikatnie pocałowała go w policzek.
+
+— I nie chcę, żebyś teraz pomyślał, że zrobiłeś coś niewłaściwego, bo się ze mną tym podzieliłeś.
+
+Jej palce powróciły do spokojnego głaskania jego włosów.
+
+— Po prostu… — zawahała się na moment. — Kocham cię, James. I chcę, żebyśmy oboje byli pewni takich decyzji. Nawet kiedy bardzo trudno nam zachować rozsądek.
+
+Przez chwilę pozostała w milczeniu, a następnie dodała z cichym rozbawieniem:
+
+— Co, swoją drogą, wcale nie jest łatwe, kiedy mój chłopak tak pięknie mnie całuje.
+
+Zachichotała cichutko, a potem objęła go jedną ręką, pozostawiając mu swobodę ruchu.
+
+
+[C13-M0035]
+===== USER =====
+
+-cieżko jest zachować rozsądek gdy moja kochana Hermiona pachnie tak odłużajaco w dodatku jej usta są tak idealna i cała też jest idealna....a w głowie ciągle mam ciebie w białej sukni...a szczerze to już raczej bez sukni....i to bardzo...... nakręca.....i.....wiesz.... nie mam praktycznie....z kim ....o tym .... porozmawiać.....
+
+
+[C13-M0036]
+===== ASSISTANT =====
+
+Hermiona przez dłuższą chwilę milczała. W ciemności jej palce delikatnie zacisnęły się na dłoni Jamesa. Sama również poczuła się nieco zakłopotana jego szczerością, ale nie odsunęła się.
+
+— James… — odezwała się w końcu cicho. — Po pierwsze, nie jestem idealna. I chyba powinieneś już o tym wiedzieć. Potrafię być uparta, nieznośna i podobno za dużo pouczam innych.
+
+Uśmiechnęła się lekko, a po chwili spoważniała.
+
+— A po drugie… nie wiedziałam, że tak trudno ci znaleźć kogoś, z kim mógłbyś o tym porozmawiać.
+
+Przez moment zastanawiała się nad jego słowami.
+
+— Wiesz, mnie też czasami trudno rozmawiać o takich rzeczach. Mogę godzinami dyskutować o runach albo eliksirach, ale kiedy chodzi o nas… — zaśmiała się nerwowo. — Nagle okazuje się, że wcale nie jestem taka dobra w dobieraniu słów.
+
+Delikatnie pogładziła go po policzku.
+
+— Pamiętam też tę białą suknię, James. I wszystko, co sobie wyobrażaliśmy w tym pokoju. Przyznaję, że sama czasami zastanawiam się, jak mogłaby wyglądać nasza przyszłość.
+
+Na chwilę zamilkła.
+
+— Ale chciałabym, żebyś wiedział jedno. Możesz rozmawiać ze mną o tym, co czujesz. Nawet jeśli jest to coś bardzo osobistego albo trochę krępującego. Nie obiecuję, że zawsze będę wiedziała, co odpowiedzieć. I nie oznacza to, że na wszystko będę gotowa.
+
+Jej głos złagodniał.
+
+— Ale przecież jesteśmy razem, prawda? Nie chciałabym, żebyś musiał ukrywać przede mną wszystkie swoje obawy tylko dlatego, że boisz się mojej reakcji.
+
+Zawahała się, a potem zapytała bardzo cicho:
+
+— James… kiedy mówisz, że nie masz z kim o tym rozmawiać… chodzi ci o to, że nie wiesz, co zrobić z tymi wszystkimi uczuciami? Czy bardziej o to, że boisz się powiedzieć mi, czego naprawdę pragniesz?
+
+
+[C13-M0037]
+===== USER =====
+
+to drugie... chociaż to oczywiste....nachyliłem się i szepnąłem jej do ucha -.... że pragnę ciebie całej..... każdego centymetra.....
+
+
+[C13-M0038]
+===== ASSISTANT =====
+
+Hermiona na moment wstrzymała oddech, kiedy usłyszała szept tuż przy swoim uchu. Poczuła, jak robi jej się gorąco na policzkach, i przez kilka sekund nie potrafiła znaleźć odpowiednich słów.
+
+— James Brown… — wyszeptała w końcu, z mieszaniną zawstydzenia i czułego rozbawienia. — Ty naprawdę potrafisz powiedzieć coś takiego zupełnie znienacka…
+
+Zaśmiała się cichutko, lecz zaraz spoważniała. Jej dłoń delikatnie odnalazła jego policzek.
+
+— Posłuchaj… nie przestraszyłeś mnie. I nie jestem na ciebie zła.
+
+Przez chwilę zastanawiała się, jak ubrać myśli w słowa.
+
+— To, że mnie pragniesz, nie oznacza, że musisz się tego wstydzić. Ale ja nie jestem jeszcze gotowa na wszystko, o czym mówisz. I chciałabym, żebyśmy mogli rozmawiać o tym bez poczucia, że musimy od razu coś zrobić.
+
+Delikatnie pogładziła kciukiem jego policzek.
+
+— Poza tym… — dodała z nutą swojej zwykłej przekory. — Chciałabym, żebyś pamiętał, że pod tą całą twoją „idealną Hermioną” kryje się zwyczajna dziewczyna, która też czasami się denerwuje i zupełnie nie wie, co powiedzieć swojemu chłopakowi.
+
+Na chwilę zamilkła.
+
+— Ale naprawdę cieszę się, że mi to powiedziałeś.
+
+Nie odsunęła dłoni.
+
+— I chciałabym cię o coś zapytać, James… Czy wcześniej bałeś się mówić mi o takich rzeczach, bo myślałeś, że źle o tobie pomyślę?
+
+
+[C13-M0039]
+===== USER =====
+
+-nie po prostu....nie chciałem żebyś myślała że w ten sposób właśnie na ciebie naciskam...bo ja naprawdę nie chcę na ciebie naciskać...i sam też.... jakby nie często o tym mówię bo jak o tym mówię to...zarumieniłem się....to sobie to wyobrażam i potem ciężej jest tego nie chcieć w tej chwili....
+
+
+[C13-M0040]
+===== ASSISTANT =====
+
+Hermiona przez chwilę milczała. Jej dłoń nadal spoczywała na policzku Jamesa, a kciuk powoli przesuwał się po jego skórze.
+
+— Och, James… teraz chyba trochę lepiej rozumiem.
+
+Westchnęła cicho.
+
+— Wiesz, jest różnica między powiedzeniem mi, czego pragniesz, a naciskaniem na mnie, żebym coś zrobiła. I naprawdę chciałabym, żebyś o tym pamiętał.
+
+Na moment przerwała, szukając odpowiednich słów.
+
+— Gdybym powiedziała ci, że nie jestem na coś gotowa, a ty nadal próbowałbyś mnie przekonywać… wtedy byłby to problem. Ale samo mówienie mi o swoich uczuciach? Nie, James. To nie jest nacisk.
+
+Jej głos stał się odrobinę bardziej stanowczy.
+
+— I nie musisz za mnie decydować, czego mogę wysłuchać, panie Brown. Potrafię powiedzieć, kiedy coś mi nie odpowiada.
+
+Po chwili zaśmiała się cichutko.
+
+— Chociaż przyznaję, że twoje niektóre wyznania potrafią mnie okropnie zawstydzić. Dobrze, że jest ciemno, bo chyba mam teraz policzki równie czerwone jak ty podczas naszych wcześniejszych rozmów.
+
+Przysunęła się odrobinę i delikatnie pocałowała go w policzek.
+
+— Ale jeśli rozmawianie o tym sprawia, że jeszcze trudniej ci zachować spokój, nie musimy teraz wszystkiego omawiać. Możemy wrócić do tej rozmowy, kiedy oboje będziemy mieli trochę chłodniejsze głowy.
+
+Na chwilę zamilkła, po czym dodała ciszej:
+
+— Chcę tylko, żebyś wiedział, że nie musisz udawać przy mnie, że nie masz takich uczuć.
+
+Jej palce delikatnie splotły się z jego palcami.
+
+— A poza tym… — w jej głosie zabrzmiała znajoma, figlarna nuta. — Myślisz, że tylko tobie czasami trudno przestać mnie całować?
+
+Zaśmiała się cicho, nie rozwijając tej myśli. Pozostała blisko, trzymając go za rękę.
+
+
+[C13-M0041]
+===== USER =====
+
+zmarszczyłem brwi - dobrze rozumiem że czasami sama się ze sobą całujesz? powiedziałem z lekkim uśmiechem
+
+
+[C13-M0042]
+===== ASSISTANT =====
+
+Hermiona przez sekundę milczała, po czym nagle parsknęła śmiechem.
+
+— James! Nie! — zaprotestowała, śmiejąc się jeszcze bardziej. — Wiesz doskonale, co miałam na myśli!
+
+Delikatnie szturchnęła go palcem w ramię.
+
+— Chodziło mi o to, że mnie też czasami trudno przestać całować ciebie, ty nieznośny Ślizgonie!
+
+Próbowała odzyskać powagę, ale bez większego powodzenia.
+
+— Naprawdę? Nawet teraz musisz wyłapywać moje błędy językowe?
+
+Pokręciła głową z rozbawieniem, po czym odnalazła jego dłoń i splotła z nim palce.
+
+— Chociaż przyznaję, że sama się podłożyłam.
+
+Na chwilę zapadła cisza.
+
+— Ale skoro tak bardzo interesuje cię moja poprawność językowa, panie Brown… — dodała z udawaną surowością. — To może powinieneś zacząć uważać na własne wypowiedzi. Zapewniam, że miałabym naprawdę dużo materiału do poprawiania.
+
+Zachichotała i wygodniej ułożyła się na poduszce, nadal trzymając jego dłoń.
+
+Poza RPG — dawne przysługi Jamesa wobec Hermiony
+
+Sprawdziłem archiwum. Są dwie wyraźnie ustalone przysługi, których Hermiona nie wykorzystała w ostatnim potwierdzonym rozliczeniu.
+
+1. Za przygotowanie procedur bezpieczeństwa na after po Balu Bożonarodzeniowym. W C2-M0357–M0360 James zaproponował Hermionie, że w zamian za opracowanie procedur dostanie prawo wybrania sposobu, w jaki się jej odwdzięczy. Hermiona zgodziła się, zastrzegając, że jej wybór musi być rozsądny i respektować ich ustalenia. Później rzeczywiście przygotowała procedury.
+
+2. Za wykonanie pracy na Eliksirach. W C4-M0244–M0245 James zaproponował jej analogiczne prawo wyboru za przejęcie pracy przy kociołku. Hermiona przyjęła propozycję, ale zdecydowała, że dopiero później wybierze, czego zażąda.
+
+Co ważne, Hermiona pamiętała o obu przysługach. W C4-M0294 sama je policzyła, a w C4-M0496 wyraźnie zaznaczyła, że noszenie jej torby nie zalicza się do spłaty. Jeszcze w C4-M0876 potwierdziła, że James nadal jest jej winien obie.
+
+Nie znalazłem w późniejszym archiwum jednoznacznego wykorzystania ani anulowania którejkolwiek z nich. Dlatego na potrzeby Part13 zachowuję dwie niewykorzystane przysługi. Nie mylę ich z późniejszym zakładem o SUM-y, którego wynik pozostaje nieznany.
+
+I uwzględniam Twoją uwagę: James nie zwierzył się Ronowi z tej prywatnej rozmowy, więc Ron nie otrzymuje automatycznie takiej wiedzy.
+
+Wracamy do sceny — Twoja tura.
+
+
+[C13-M0043]
+===== USER =====
+
+bez słowa zbliżyłem usta do jej szyjki i zacząłem po niej jeździć nosem - czy Panna Granger pozwoli że trochę ją skosztuje?
+
+
+[C13-M0044]
+===== ASSISTANT =====
+
+Hermiona poczuła delikatne muśnięcia nosa Jamesa na swojej szyi i mimowolnie zachichotała.
+
+— Skosztuje? — powtórzyła z rozbawieniem. — James Brown, czy ty właśnie porównałeś swoją dziewczynę do deseru?
+
+W całkowitej ciemności odnalazła dłonią jego policzek.
+
+— Cóż… — zaczęła z udawaną powagą. — Panna Granger może wyrazić zgodę na kilka pocałunków w szyję.
+
+Po chwili dodała stanowczo, choć nadal żartobliwie:
+
+— Ale bez gryzienia, panie Brown. I pamiętaj, co przed chwilą ustaliliśmy.
+
+Delikatnie pogładziła go po włosach, po czym odsłoniła nieco szyję.
+
+— Proszę bardzo — szepnęła z figlarną nutą. — Tylko niech pan nie zapomina, że Panna Granger ma również prawo zmienić zdanie.
+
+Uśmiechnęła się do siebie, pozostawiając mu miejsce na kolejny gest.
+
+
+[C13-M0045]
+===== USER =====
+
+zacząłem bardzo delikatnie i powoli całować jej szyjkę w różnych miejscach - boska.....powiedziałem do siebie ale zdecydowanie za głośno - a co przed chwilą ustalismy?
+
+
+[C13-M0046]
+===== ASSISTANT =====
+
+Hermiona zachichotała cicho, po czym delikatnie położyła dłoń na policzku Jamesa.
+
+— Och, panie Brown… Czyżby te wszystkie pocałunki sprawiły, że przestał pan słuchać własnej dziewczyny?
+
+W jej głosie zabrzmiało rozbawienie.
+
+— Po pierwsze, żadnego gryzienia — przypomniała z udawaną surowością. — Po drugie, możemy się całować i przytulać, ale nie chcę, żebyśmy posuwali się dalej tylko dlatego, że poniesie nas chwila.
+
+Na moment zamilkła, po czym dodała łagodniej:
+
+— I pamiętaj, że oboje możemy w każdej chwili powiedzieć „stop”. To działa w obie strony.
+
+Delikatnie pogładziła go po policzku.
+
+— A po trzecie… — zaczęła, po czym zachichotała. — Słyszałam to twoje „boska”.
+
+W ciemności odnalazła jego dłoń i lekko ścisnęła.
+
+— I muszę przyznać, że bardzo mi pochlebiasz. Chociaż zaczynam podejrzewać, że próbujesz mnie tymi komplementami zupełnie rozbroić.
+
+Po chwili dodała zaczepnie:
+
+— No dobrze, panie Brown. A czy potrafi pan powiedzieć swojej dziewczynie coś miłego, nie wspominając przy tym o jej wyglądzie?
+
+
+[C13-M0047]
+===== USER =====
+
+kontynuowałem składanie pocałunków na jej szyjce jednocześnie zacząłem szeptać pomiędzy pocałunkami
+oczywiście..... jesteś bardzo inteligentna.... mądra.... odważna.... spostrzegawcza.... szalenie interesującą....alw też urocza.... bardzo bardzo miła.... ładnie Pachniesz i smakujesz....
+
+
+[C13-M0048]
+===== ASSISTANT =====
+
+Hermiona początkowo słuchała w milczeniu, a jej uśmiech stawał się coraz szerszy. Przy słowach o inteligencji i odwadze delikatnie ścisnęła jego dłoń.
+
+— Och, James… — szepnęła z wyraźnym wzruszeniem.
+
+Jednak gdy usłyszała ostatnie dwa komplementy, parsknęła śmiechem.
+
+— Zaraz, zaraz! Ładnie pachnę i… smakuję?!
+
+Zaśmiała się, delikatnie kładąc mu rękę na ramieniu.
+
+— Panie Brown! Prosiłam o komplementy niezwiązane z moim wyglądem, a pan właśnie przeszedł do oceniania mnie jak jakiegoś deseru!
+
+W jej głosie nie było jednak prawdziwego oburzenia.
+
+— Chociaż… — dodała ciszej. — To, co powiedziałeś wcześniej, było naprawdę piękne. Szczególnie to, że uważasz mnie za odważną.
+
+Przez chwilę milczała, po czym delikatnie pogładziła go po włosach.
+
+— Ale „bardzo, bardzo miła”? — powtórzyła z rozbawieniem. — James, przecież wiesz, że potrafię być okropnie nieznośna. Zwłaszcza kiedy ktoś nie odrobi pracy domowej albo próbuje mi wmówić, że zna odpowiedź lepiej ode mnie.
+
+Zachichotała, a następnie dodała nieco ciszej:
+
+— Wiesz, co najbardziej podoba mi się w tych wszystkich komplementach?
+
+Zrobiła krótką pauzę.
+
+— Że naprawdę zauważasz we mnie coś więcej niż tylko dziewczynę, która ciągle siedzi nad książkami.
+
+Delikatnie ujęła jego dłoń.
+
+— Dziękuję, kochanie.
+
+Przez chwilę po prostu leżała obok niego, zanim znów odezwała się zaczepnie:
+
+— Ale z tym „smakowaniem” musimy chyba jeszcze przedyskutować pańskie maniery, panie Brown.
+
+
+[C13-M0049]
+===== USER =====
+
+moje maniery...powiedziałem i delikatnie złapałem ją w talii i zbliżyłem swoję usta z powrotem do jej ust - a źle mówię? jesteś taka smakowita....tutaj i na szyji....i pewnie jeszcze w kilku miejscach....
+
+
+[C13-M0050]
+===== ASSISTANT =====
+
+Hermiona zdążyła odwzajemnić krótki pocałunek, zanim dotarła do niej druga część jego wypowiedzi.
+
+— James! — parsknęła śmiechem, delikatnie kładąc mu palec na ustach. — W kilku innych miejscach?!
+
+Pokręciła głową z niedowierzaniem, choć w całkowitej ciemności nie mógł tego zobaczyć.
+
+— Panie Brown, zaczynam podejrzewać, że powinien pan przestać traktować swoją dziewczynę jak menu w restauracji!
+
+Zachichotała, a następnie łagodnie pogładziła go po policzku.
+
+— I zanim wpadniesz na pomysł przeprowadzania kolejnych eksperymentów, przypominam, że ustaliliśmy pewne granice.
+
+Po chwili sama przysunęła się odrobinę i złożyła delikatny pocałunek na jego ustach.
+
+— Ale przyznaję… — szepnęła z figlarnym rozbawieniem. — Całowanie wychodzi ci całkiem nieźle.
+
+Odsunęła usta na niewielką odległość, pozostawiając dłoń na jego policzku.
+
+— Tylko niech pan przypadkiem nie uzna tego za zachętę do rozszerzania swojego jadłospisu, panie Brown.
+
+Nie potrafiła powstrzymać kolejnego cichego śmiechu.
+
+
+[C13-M0051]
+===== USER =====
+
+lekko się spiąłem i spytałem cicho - ale kiedyś?
+
+
+[C13-M0052]
+===== ASSISTANT =====
+
+Hermiona wyczuła napięcie w jego głosie. Jej figlarny ton zniknął, a dłoń spoczywająca na jego policzku znieruchomiała.
+
+— Kiedyś…? — powtórzyła cicho.
+
+Przez kilka sekund zastanawiała się nad odpowiedzią.
+
+— James, kocham cię. I kiedy wyobrażam sobie naszą wspólną przyszłość, nie myślę wyłącznie o trzymaniu się za ręce i wspólnym odrabianiu lekcji.
+
+Urwała, trochę zawstydzona własną szczerością.
+
+— Ale nie wiem jeszcze, kiedy będę gotowa na większą bliskość. Nie chcę obiecywać ci czegoś, czego sama nie jestem pewna.
+
+Delikatnie splotła swoje palce z jego palcami.
+
+— Więc… może kiedyś. Tak. Nie wykluczam tego. Ale chciałabym, żeby to była decyzja nas obojga, podjęta wtedy, kiedy naprawdę będziemy gotowi.
+
+Po chwili dodała z cichym, nieco nieśmiałym rozbawieniem:
+
+— Poza tym, panie Brown, mamy dopiero piętnaście lat. Chciałabym jeszcze przeżyć z tobą mnóstwo rzeczy, zanim zaczniemy podejmować wszystkie te wielkie, dorosłe decyzje.
+
+Przysunęła się odrobinę i oparła czoło o jego czoło.
+
+— A ty? — zapytała łagodnie. — Potrafisz przyjąć takie „może kiedyś”, nawet jeśli nie mogę ci powiedzieć dokładnie kiedy?
+
+
+[C13-M0053]
+===== USER =====
+
+-oczywiście... wszystko dla mojej ukochanej Hermiony i tych innych miejsc....powiedziałem cicho - na pewno są bardzo smakowite....
+
+
+[C13-M0054]
+===== ASSISTANT =====
+
+Hermiona parsknęła śmiechem, a potem lekko szturchnęła Jamesa w ramię.
+
+— James! — jęknęła z rozbawieniem. — Czy ty naprawdę nie potrafisz przez pięć minut przestać myśleć o swoim tajemniczym jadłospisie?
+
+Pokręciła głową, wciąż chichocząc.
+
+— I pomyśleć, że jeszcze niedawno rozmawialiśmy o runach, egzaminach i naszej przyszłości, a teraz mój chłopak zastanawia się, czy nadaję się do jedzenia!
+
+Po chwili jej głos nieco złagodniał.
+
+— Ale pamiętaj, kochanie. Powiedziałam „może kiedyś”, a nie „na pewno”. Nie chcę, żebyś traktował to jak obietnicę.
+
+Delikatnie pogładziła go po policzku.
+
+— Za to jedno mogę ci obiecać już teraz.
+
+Zrobiła krótką, teatralną pauzę.
+
+— Jeśli jeszcze raz nazwiesz mnie smakowitą, zacznę podejrzewać, że powinieneś natychmiast zjeść kolację!
+
+Zaśmiała się serdecznie i przytuliła go.
+
+— Chociaż muszę przyznać, panie Brown… — dodała ciszej, z figlarną nutą. — Że bardzo zabawnie się z tobą droczy.
+
+
+[C13-M0055]
+===== USER =====
+
+po chwili jednak trochę spoważniałem - jeśli to dla ciebie okej że Czasami wchodzimy na te tematy....
+
+
+[C13-M0056]
+===== ASSISTANT =====
+
+Hermiona przez chwilę milczała, a potem delikatnie ścisnęła dłoń Jamesa.
+
+— Oczywiście, że to dla mnie w porządku, James — odpowiedziała łagodnie. — Przecież jesteśmy razem. Chciałabym, żebyśmy potrafili rozmawiać również o rzeczach, które nas zawstydzają.
+
+Przesunęła kciukiem po jego dłoni.
+
+— Tylko… — zawahała się na moment. — Nie obiecuję, że zawsze będę umiała odpowiedzieć bez rumienienia się jak kompletna idiotka.
+
+Zachichotała cicho.
+
+— I czasami mogę powiedzieć, że wolę zmienić temat. Ale to nie znaczy, że nie chcę o nim rozmawiać nigdy. Po prostu może nie akurat w danej chwili.
+
+Na moment zamilkła.
+
+— Właściwie wolę, kiedy szczerze mówisz mi, co czujesz, niż kiedy oboje próbujemy zgadywać, co drugie ma na myśli. Chociaż przyznaję, że niektóre twoje komplementy są naprawdę… trudne do skomentowania.
+
+Roześmiała się pod nosem, przypominając sobie wcześniejsze porównania do deseru.
+
+— I jeszcze jedno, panie Brown.
+
+W jej głosie zabrzmiała znajoma, nieco przekorna stanowczość.
+
+— Nie musisz pytać mnie o pozwolenie na samo poruszenie tematu. Jeśli coś mi nie odpowiada, potrafię ci o tym powiedzieć. A jeśli ty poczujesz się niekomfortowo, też możesz mi to powiedzieć. Zgoda?
+
+Pozostała blisko, spokojnie trzymając jego dłoń.
+
+
+[C13-M0057]
+===== USER =====
+
+chciałem spytać czy ty też czasami myślisz i wyobrażasz sobie o tym....jak ...w przyszłości będziemy mogli..... bardzo się połączyć....?*spytałem cicho*
+
+
+[C13-M0058]
+===== ASSISTANT =====
+
+Hermiona przez chwilę milczała. Jej palce, dotąd spokojnie splecione z palcami Jamesa, zacisnęły się odrobinę mocniej.
+
+— Ja… — zaczęła, ale zaraz urwała. W ciemności nie było widać, jak bardzo się zarumieniła.
+
+Odetchnęła cicho.
+
+— Tak, James. Czasami o tym myślę — przyznała w końcu nieśmiało.
+
+Przez kilka sekund zbierała się na dalszą odpowiedź.
+
+— Nie zawsze, oczywiście. I chyba nie wyobrażam sobie tego wszystkiego tak szczegółowo jak ty… — zachichotała nerwowo. — Ale kiedy rozmawiamy o wspólnej przyszłości, o naszym domu, o tym, jak mogłoby wyglądać nasze życie po Hogwarcie… czasem zastanawiam się też nad tym, jak blisko będziemy mogli być.
+
+Delikatnie pogładziła kciukiem jego dłoń.
+
+— Tylko że wyobrażanie sobie czegoś i gotowość na to teraz to dwie różne rzeczy. A ja… cóż, wciąż próbuję zrozumieć niektóre własne uczucia.
+
+Po chwili w jej głosie pojawiła się odrobina przekory.
+
+— I uprzedzam, panie Brown, że to wyjątkowo niesprawiedliwe. Potrafię odpowiedzieć na prawie każde pytanie profesora Flitwicka, a mój własny chłopak zadaje mi jedno i nagle nie wiem, jak poskładać zdanie!
+
+Zaśmiała się cichutko, po czym dodała już poważniej:
+
+— Ale cieszę się, że możemy o tym rozmawiać. Naprawdę.
+
+Na moment zamilkła.
+
+— A mogę cię o coś zapytać? Kiedy wyobrażasz sobie naszą przyszłość… myślisz czasami również o tych zupełnie zwyczajnych rzeczach? O wspólnych porankach, gotowaniu, kłótniach o to, kto zostawił książki na stole?
+
+W jej głosie zabrzmiał ciepły uśmiech.
+
+— Bo przyznam, że właśnie takie rzeczy też bardzo lubię sobie wyobrażać.
+
+
+[C13-M0059]
+===== USER =====
+
+kiwnąłem głową - tak i z góry uprzedzam że jak będziesz w przyszłości zabierać mi kołdrę to zmienię cię w żabę....powiedziałem próbując trochę rozładować napięcie
+
+
+[C13-M0060]
+===== ASSISTANT =====
+
+Hermiona przez sekundę milczała, jakby próbowała upewnić się, że dobrze usłyszała. Nagle parsknęła głośnym śmiechem.
+
+— W ŻABĘ?! — powtórzyła z niedowierzaniem. — James Brown! Czy ty właśnie zagroziłeś swojej przyszłej współlokatorce transmutacją za zabieranie kołdry?!
+
+Roześmiała się ponownie, po czym delikatnie szturchnęła go w ramię.
+
+— Po pierwsze, przypominam ci, że ja również znam się na transmutacji. I to całkiem nieźle!
+
+W jej głosie pojawiła się udawana surowość.
+
+— Po drugie, jeśli będzie mi zimno, to będę zabierała kołdrę. Możesz się z tym pogodzić albo kupić nam większą.
+
+Zrobiła krótką pauzę.
+
+— A po trzecie… jeśli naprawdę zamienisz mnie w żabę, to zapewniam cię, że znajdę sposób, żeby się zemścić. I nie licz na to, że będę milutką żabką siedzącą grzecznie w terrarium!
+
+Zachichotała, po czym delikatnie pogładziła go po policzku.
+
+— Chociaż… — dodała znacznie ciszej. — Muszę przyznać, że podoba mi się wyobrażanie sobie takich rzeczy. Wiesz… że moglibyśmy kiedyś mieszkać razem i że naszym największym porannym problemem byłaby skradziona kołdra.
+
+Przez moment milczała, a potem w jej głosie znów zabrzmiała przekora.
+
+— Tylko jest jeszcze jedna kwestia, panie Brown.
+
+Nachyliła się odrobinę bliżej.
+
+— Skąd ta pewność, że to ja będę zabierać kołdrę? Może to właśnie ty okażesz się strasznym złodziejem pościeli?
+
+
+[C13-M0061]
+===== USER =====
+
+-Chwila.... współlokatorce?....ja myślałem bardziej o żonie....
+
+
+[C13-M0062]
+===== ASSISTANT =====
+
+Hermiona na moment zamilkła. Jej palce, dotąd spokojnie przesuwające się po włosach Jamesa, znieruchomiały.
+
+— Żonie…? — powtórzyła cichutko.
+
+Przez chwilę nie odpowiadała, a potem zachichotała, wyraźnie nieco zawstydzona.
+
+— James, ty naprawdę potrafisz sprawić, że jedno niewinne słowo nagle staje się bardzo poważną sprawą.
+
+Delikatnie odnalazła jego policzek w ciemności.
+
+— Przecież pamiętam, że rozmawialiśmy już o ślubie po skończeniu szkoły. I wcale nie powiedziałam, że nie chciałabym kiedyś zostać twoją żoną…
+
+Zawahała się na moment.
+
+— Tylko mamy jeszcze przed sobą kilka lat, James. Chciałabym, żebyśmy nie traktowali naszej przyszłości jak czegoś, co już zostało za nas postanowione.
+
+Po chwili w jej głosie znów pojawiła się znajoma, figlarna nuta.
+
+— Poza tym, panie Brown, zanim rozważę przyjęcie pańskiego nazwiska, muszę chyba dokładnie przemyśleć, czy rozsądnie jest wychodzić za człowieka, który grozi własnej żonie zamienieniem jej w żabę za kawałek kołdry!
+
+Roześmiała się, a następnie przytuliła go czulej.
+
+— Ale… — dodała znacznie ciszej. — Przyznaję, że kiedy wyobrażam sobie nasz wspólny dom, to też nie myślę o tobie wyłącznie jako o współlokatorze.
+
+Na chwilę zamilkła.
+
+— Tylko nie uznaj tego za oświadczyny, dobrze? — szepnęła ze śmiechem. — Chciałabym jednak pamiętać, kiedy ktoś naprawdę poprosi mnie o rękę.
+
+
+[C13-M0063]
+===== USER =====
+
+przytuliłem ją czule i szepnąłem jej do ucha - Dobrze kochanie.... ale wracając to chyba trochę źle o mnie świadczy że ja w kontekście naszej przyszłości myślę o..... zbliżeniach a ty o takich zwykłych i nie winnych rzeczach...
+
+
+[C13-M0064]
+===== ASSISTANT =====
+
+Hermiona przez chwilę nie odpowiadała. Potem objęła go nieco mocniej i delikatnie przesunęła dłonią po jego plecach.
+
+— James… — odezwała się cicho. — A kto powiedział, że ja myślę tylko o tych niewinnych rzeczach?
+
+Zawahała się, po czym zachichotała trochę nerwowo.
+
+— Przyznałam ci przecież, że mnie też zdarza się wyobrażać sobie naszą przyszłą bliskość. Może nie rozmyślam o niej tak często jak ty, ale… to wcale nie znaczy, że nigdy.
+
+W ciemności odnalazła jego policzek i pogładziła go kciukiem.
+
+— I nie uważam, żeby źle o tobie świadczyło, że o tym myślisz. Jesteś moim chłopakiem, kochamy się i podobamy się sobie. Nie zamierzam udawać, że tego ostatniego nie zauważyłam.
+
+W jej głosie pojawiło się rozbawienie.
+
+— Zwłaszcza po dzisiejszych, niezwykle szczegółowych recenzjach mojego rzekomego smaku.
+
+Zaśmiała się cichutko, lecz zaraz spoważniała.
+
+— Wiesz, co byłoby dla mnie niepokojące? Gdybyś interesował się wyłącznie tym i zupełnie nie obchodziło cię nic innego. Ale przecież przed chwilą rozmawialiśmy o wspólnym domu, a ty groziłeś mi zamianą w żabę za kradzież kołdry.
+
+Hermiona ułożyła wygodniej głowę na poduszce, nadal pozostając blisko.
+
+— Poza tym, James… — dodała po chwili, już nieco bardziej zaczepnie. — Nie bądź taki pewny, że zawsze jestem tą rozsądniejszą z nas dwojga.
+
+Zawiesiła głos.
+
+— Po prostu czasami lepiej mi wychodzi udawanie.
+
+
+[C13-M0065]
+===== USER =====
+
+lekko się usmiechnąłem i pocałowałem jej policzek - Dziękuję Panno Granger....za ..... wszystko i za to że jesteś Panną Granger....
+
+
+[C13-M0066]
+===== ASSISTANT =====
+
+Hermiona na chwilę zupełnie ucichła. W ciemności odnalazła dłonią jego policzek i przez kilka sekund po prostu delikatnie go głaskała.
+
+— James… — odezwała się w końcu miękko. — Wiesz, że nie musisz mi dziękować za to, że jestem sobą?
+
+Uśmiechnęła się lekko.
+
+— Chociaż przyznaję, że to chyba jeden z najpiękniejszych komplementów, jakie od ciebie usłyszałam.
+
+Przesunęła palcami po jego włosach.
+
+— Tylko pamiętaj, że bycie panną Granger oznacza również poprawianie twoich błędów, przypominanie ci o nauce i wygłaszanie zdecydowanie zbyt długich wykładów, kiedy uznam, że nie masz racji.
+
+Zachichotała cicho.
+
+— I nie zamierzam z tego rezygnować, nawet dla mojego ukochanego Ślizgona.
+
+Przytuliła go mocniej, a kiedy znów się odezwała, w jej głosie nie było już żartu.
+
+— Ale ja też chcę ci za coś podziękować. Za to, że mogę przy tobie być właśnie taką Hermioną. Upartą, przemądrzałą, czasami nieznośną… i nie muszę udawać kogoś innego, żebyś mnie kochał.
+
+Ucałowała go delikatnie w policzek.
+
+— Kocham cię, James.
+
+Przez chwilę trwała w milczeniu, po czym dodała niemal szeptem:
+
+— I nawet jeśli kiedyś naprawdę ukradnę ci całą kołdrę, mam nadzieję, że nadal będziesz tak uważał.
+
+
+[C13-M0067]
+===== USER =====
+
+-Już do końca życia będę cię kochać...powiedziałem cicho i połączyłem nasze usta w bardzo długim delikatnym pocałunku nie chcąc go nigdy przerywać
+
+
+[C13-M0068]
+===== ASSISTANT =====
+
+Hermiona odpowiedziała na pocałunek niemal natychmiast. Jej dłoń odnalazła kark Jamesa, a palce delikatnie wsunęły się w jego włosy.
+
+Nie próbowała się odsuwać. Tym razem nie było żartów o skradzionej kołdrze, żabach ani poprawiania jego słów. Po prostu odwzajemniała pocałunek, trzymając go blisko.
+
+Dopiero po dłuższej chwili odsunęła usta na tyle, by zaczerpnąć powietrza. Jej czoło pozostało oparte o jego.
+
+— James… — szepnęła.
+
+Przez moment szukała słów. To, co powiedział przed pocałunkiem, najwyraźniej nie dawało jej spokoju.
+
+— Do końca życia to bardzo długo — odezwała się wreszcie cicho. — Zwłaszcza dla kogoś, kto nie potrafi nawet obiecać, że nie zamieni mnie w żabę.
+
+Zaśmiała się cichutko, lecz zaraz spoważniała.
+
+— Ale wiesz co? Chciałabym kiedyś być taką staruszką, która nadal będzie się z tobą kłócić o kołdrę. I o książki pozostawione na stole. I pewnie o tysiąc innych rzeczy.
+
+Delikatnie przesunęła kciukiem po jego policzku.
+
+— Nie wiem, co nas czeka, James. Ale bardzo chcę się tego dowiedzieć. Razem z tobą.
+
+Złożyła na jego ustach jeszcze jeden, krótki pocałunek.
+
+— Też cię kocham — wyszeptała.
+
+Potem wtuliła się w niego, już niczego nie dodając. Za szczelnie zasłoniętym baldachimem cicho trzaskał ogień w kominku, a Hermiona przez dłuższą chwilę po prostu obejmowała Jamesa, jakby uznała, że tym razem słowa naprawdę nie są potrzebne.
+
+
+[C13-M0069]
+===== USER =====
+
+mocno ją przytuliłem przylegając do niej cały ciałem jednak natychmiast odsunąłem trochę biodra lekko się rumieniąc
+
+
+[C13-M0070]
+===== ASSISTANT =====
+
+Hermiona poczuła, jak James nagle zmienił ułożenie. Jej dłoń na moment znieruchomiała na jego plecach.
+
+W ciemności nie mogła dostrzec rumieńca na jego twarzy, ale nagłe odsunięcie się nie umknęło jej uwadze. Przez krótką chwilę milczała, jakby zastanawiała się, czy powinna coś powiedzieć.
+
+— James? — szepnęła łagodnie. — Wszystko w porządku?
+
+Delikatnie pogładziła go po ramieniu. Nie próbowała przyciągać go z powrotem, pozostawiając mu swobodę.
+
+— Wiesz… — zaczęła nieco nieśmiało. — Jeśli zrobiło ci się niezręcznie, naprawdę nie musisz się przede mną tłumaczyć.
+
+Po chwili cicho zachichotała.
+
+— Merlinie, przecież sama przed chwilą nie potrafiłam wypowiedzieć trzech zdań o naszej przyszłości bez jąkania się.
+
+Jej palce odnalazły jego dłoń.
+
+— Możemy po prostu poleżeć razem. Tak, jak nam wygodnie.
+
+Zamilkła na moment, po czym dodała z odrobiną znajomej przekory:
+
+— Chociaż uprzedzam, że jeśli teraz uznasz, że zajmuję za dużo miejsca w łóżku, będę miała poważne zastrzeżenia. To przecież ja je tutaj wyczarowałam.
+
+
+[C13-M0071]
+===== USER =====
+
+-wszystko ok....po prostu moje ciało bardzo mocno reaguję przez to "napięcie" i pomyślałem że nie chcesz tego czuć....
+
+
+[C13-M0072]
+===== ASSISTANT =====
+
+Hermiona przez chwilę milczała. Jej palce zatrzymały się na dłoni Jamesa, a potem delikatnie ją ścisnęła.
+
+— Och… — odezwała się cichutko, wyraźnie zawstydzona. — Rozumiem.
+
+Przez moment szukała odpowiednich słów.
+
+— James, dziękuję, że pomyślałeś o tym, jak ja mogłabym się poczuć. Naprawdę.
+
+Przesunęła dłonią po jego ramieniu.
+
+— Ale nie musisz się ode mnie odsuwać z obawy, że uznam samą taką reakcję za coś złego. Wiem, że nie nad wszystkim mamy pełną kontrolę.
+
+Zawahała się, po czym dodała z właściwą sobie szczerością:
+
+— Przyznaję, że trochę mnie to peszy. Tylko że… cóż, najwyraźniej oboje potrafimy się nawzajem wprawić w zakłopotanie.
+
+Zachichotała pod nosem.
+
+— Chciałabym nadal się do ciebie przytulać. Po prostu bez pośpiechu i bez przekraczania tego, na co jesteśmy gotowi. Dobrze?
+
+Odnalazła w ciemności jego policzek i złożyła na nim krótki pocałunek.
+
+— A poza tym — dodała już bardziej przekornie — bardzo proszę, żebyś nie traktował każdego niezręcznego momentu jak katastrofy. Inaczej będę musiała sporządzić nam cały regulamin przytulania.
+
+Przez chwilę milczała.
+
+— I znając mnie, miałby co najmniej trzy strony.
+
+
+[C13-M0073]
+===== USER =====
+
+kiwnąłem głową i przytuliłem się do niej normalnie jednak tak jak zapowiadałem poczuła na swoim udzie że naprawdę ta sytuacja nie jest mi obojętna ja tylko jeszcze bardziej się zaruminiłem ale nic nie powiedziałem
+
+
+[C13-M0074]
+===== ASSISTANT =====
+
+Hermiona na moment znieruchomiała, kiedy zrozumiała, co James miał wcześniej na myśli. Mimo całej ich szczerej rozmowy sama poczuła się teraz nieco zakłopotana.
+
+Nie odsunęła go jednak gwałtownie ani nie zrobiła żadnej uwagi. Po kilku sekundach delikatnie zmieniła ułożenie nóg, pozostając wtulona w jego ramiona.
+
+— Och, James… — szepnęła cicho.
+
+Przez chwilę milczała, przesuwając palcami po jego plecach.
+
+— Naprawdę nie musisz się tym tak przejmować — powiedziała łagodnie. — Ale przyznaję, że trochę mnie to peszy. Chyba sama potrzebuję chwili, żeby się przyzwyczaić do tego, że potrafimy się nawzajem tak zawstydzać.
+
+Zachichotała pod nosem.
+
+— I nawet nie próbuj teraz przepraszać. Nie zrobiłeś nic złego.
+
+Ułożyła głowę wygodniej przy jego ramieniu.
+
+— Możemy po prostu zostać tak przez chwilę? Bez kolejnych wielkich rozmów o przyszłości, bez żab i bez moich wykładów?
+
+Przez moment panowała cisza.
+
+— Chociaż… — dodała z rozbawieniem. — To ostatnie może być trudne. Nie sądzę, żebym kiedykolwiek wytrzymała zbyt długo bez wygłoszenia jakiegoś wykładu.
+
+Uśmiechnęła się do siebie i spokojnie objęła go ramieniem.
+
+
+[C13-M0075]
+===== USER =====
+
+-Dobrze...powiedziałem i ułożyłem dłoń na jej policzku i kciukiem zacząłem jeździć po jej ustach
+
+
+[C13-M0076]
+===== ASSISTANT =====
+
+Hermiona nie odpowiedziała słowami.
+
+Przez chwilę leżała spokojnie, czując delikatny dotyk jego kciuka na swoich ustach. Potem uniosła dłoń i ostrożnie objęła nią jego palce.
+
+Nie odsunęła jego ręki. Zamiast tego złożyła na jego kciuku krótki, czuły pocałunek, po czym przesunęła jego dłoń na swój policzek i przytrzymała ją tam.
+
+Drugą ręką delikatnie pogładziła go po włosach.
+
+Za szczelnie zasłoniętym baldachimem cicho trzaskał ogień w kominku. Hermiona wtuliła się wygodniej w poduszkę, nie przerywając tej spokojnej bliskości.
+
+Dopiero po dłuższej chwili odezwała się niemal niesłyszalnie:
+
+— Wiesz, James… chyba bardzo lubię te chwile, kiedy żadne z nas nie musi niczego mówić.
+
+Musnęła ustami wnętrze jego dłoni i ponownie zamilkła.
+
+
+[C13-M0077]
+===== USER =====
+
+w odpowiedzi tylko delikatnie musnąłem ustami kącik jej ust i odrobinę mocniej ją przytuliłem ponownie poczuła że bardzo na mnie działa ale sam próbowałem nie zwracać na to uwagi
+
+
+[C13-M0078]
+===== ASSISTANT =====
+
+Hermiona odpowiedziała na delikatny pocałunek cichym uśmiechem. Kiedy James przytulił ją mocniej, przez moment znieruchomiała, po czym nieznacznie poprawiła swoje ułożenie, tak żeby obojgu było wygodniej.
+
+Nie skomentowała tego, co poczuła. Rozmawiali już o tym wystarczająco długo, a ona sama przecież zaproponowała, żeby przez chwilę po prostu pobyli razem.
+
+Zamiast tego wsunęła dłoń w jego włosy i zaczęła je powoli głaskać. Drugą ręką objęła go przez plecy.
+
+Minęła długa chwila, zanim odezwała się niemal bezgłośnie:
+
+— Lubię tak z tobą leżeć, James.
+
+Musnęła ustami jego czoło.
+
+— I wiesz co? Wcale nie musimy każdej chwili wypełniać rozmową.
+
+Po tych słowach rzeczywiście zamilkła. Pozostała wtulona w niego, od czasu do czasu przesuwając palcami po jego włosach.
+
+Za zasłoniętym baldachimem kominek cicho trzaskał. Hermiona nigdzie się nie spieszyła — przynajmniej na razie.
+
+
+[C13-M0079]
+===== USER =====
+
+ja zacząłem cicho mruczeć
+
+
+[C13-M0080]
+===== ASSISTANT =====
+
+Hermiona usłyszała znajome, ciche mruczenie i mimowolnie się uśmiechnęła.
+
+Jej palce na moment zatrzymały się w jego włosach, a potem zaczęły przesuwać się po nich jeszcze delikatniej.
+
+— A więc jednak… — szepnęła z rozbawieniem. — Mój kotek wrócił.
+
+Zachichotała pod nosem.
+
+— Ciekawe, co powiedziałby Krzywołap, gdyby się dowiedział, że znalazłam sobie drugiego takiego mruczka. I to jeszcze ze Slytherinu.
+
+Delikatnie podrapała go opuszkami palców za uchem.
+
+— Chociaż ty jesteś chyba znacznie bardziej wymagający, jeśli chodzi o głaskanie…
+
+Przez chwilę kontynuowała pieszczotliwy ruch dłonią, po czym urwała, jakby właśnie coś sobie przypomniała.
+
+— A właśnie! — szepnęła z udawaną podejrzliwością. — Czy ty przypadkiem nie mruczysz specjalnie, żebym nie przestawała?
+
+Nie czekając na odpowiedź, ponownie zanurzyła palce w jego włosach. Tym razem jednak już nic nie mówiła.
+
+
+[C13-M0081]
+===== USER =====
+
+-Troche....to jeden z powodów....
+
+
+[C13-M0082]
+===== ASSISTANT =====
+
+Hermiona zachichotała cichutko, nie przestając głaskać go po włosach.
+
+— A więc przyznajesz się do manipulacji — szepnęła z udawaną surowością. — I to wyjątkowo podstępnej, bo doskonale wiesz, że trudno mi przestać, kiedy tak mruczysz.
+
+Delikatnie podrapała go za uchem, a potem przesunęła palcami po jego włosach.
+
+— Ale powiedziałeś, że to jeden z powodów…
+
+Na chwilę zamilkła. W jej głosie pojawiła się łagodna ciekawość.
+
+— A jakie są pozostałe?
+
+Nie przerywała głaskania. Wtulona w niego pod ciemnym baldachimem, cierpliwie czekała na odpowiedź.
+
+
+[C13-M0083]
+===== USER =====
+
+-Mrucze też bo jest mi bardzo miło i chce żebyś o tym wiedziała.....i przepraszam za to ale mam nadzieję że to mruczenie trochę cię pod.......podescytuje....powiedziałem cicho a moje mruczenie trochę osłabło
+
+
+[C13-M0084]
+===== ASSISTANT =====
+
+Hermiona na moment zwolniła ruch palców we włosach Jamesa. Jego wyznanie najwyraźniej trochę ją zaskoczyło, ale nie przestała go głaskać.
+
+— Och… — szepnęła. — Czyli to mruczenie ma aż tyle ukrytych zastosowań?
+
+Zachichotała cicho, po czym na chwilę zamilkła.
+
+— James, jeśli pytasz, czy mi się podoba… to tak. Bardzo. — Przyznała to z odrobiną nieśmiałości. — I powiedzmy, że nie pozostaje mi zupełnie obojętne.
+
+Jej palce znów zaczęły powoli przeczesywać jego włosy.
+
+— Ale wiesz, co lubię w nim najbardziej? To, że robisz to, kiedy jest ci dobrze. Że nie musisz przy mnie udawać poważnego, niewzruszonego Ślizgona.
+
+Po chwili w jej głosie pojawiła się znajoma przekora.
+
+— Chociaż zaczynam się zastanawiać, czy nie powinnam być ostrożniejsza. Najpierw odkrywasz, że mruczeniem możesz wyłudzić głaskanie, a teraz jeszcze próbujesz sprawdzić, jaki wpływ ma ono na moją osobę…
+
+Delikatnie podrapała go za uchem.
+
+— I proszę, nie przestawaj tylko dlatego, że się zawstydziłeś — dodała ciszej. — Naprawdę lubię cię takiego.
+
+Na chwilę przytuliła policzek do jego włosów.
+
+— A poza tym, panie Brown, mam pewną przewagę.
+
+Zachichotała.
+
+— Wiem już, że wystarczy kilka ruchów palcami, żebyś zaczął mruczeć. I wcale nie zamierzam udawać, że mnie to nie rozczula.
+
+
+[C13-M0085]
+===== USER =====
+
+wróciłem do mruczenia i jednocześnie zacząłem się łasić policzkiem do jej policzka mrucząc jej praktycznie do ucha
+
+
+[C13-M0086]
+===== ASSISTANT =====
+
+Hermiona nie wytrzymała i zachichotała, gdy ciche mruczenie rozległo się tuż przy jej uchu.
+
+— James! — szepnęła ze śmiechem, odruchowo unosząc ramię. — To łaskocze!
+
+Przekręciła nieco głowę, ale zamiast się odsunąć, przytuliła policzek do jego policzka. Jej palce nadal powoli przeczesywały jego włosy.
+
+— Jesteś niemożliwy, wiesz? — mruknęła czule. — Jeszcze trochę i naprawdę zacznę się zastanawiać, czy ktoś przypadkiem nie rzucił na ciebie jakiegoś zaklęcia.
+
+Przez moment słuchała mruczenia, a potem uśmiechnęła się do siebie.
+
+— Chociaż… jeśli to zaklęcie, chyba nie zamierzam go zdejmować.
+
+Musnęła ustami jego skroń i wygodniej ułożyła głowę na poduszce.
+
+— Tylko nie mów Krzywołapowi, że głaszczę cię częściej niż jego. Jeszcze się obrazi.
+
+Zamilkła, lecz po chwili odezwała się ponownie, już znacznie ciszej:
+
+— I wiesz co? Chyba jednak osiągnąłeś swój cel.
+
+Zachichotała leciutko.
+
+— Bo teraz naprawdę nie mam najmniejszej ochoty przestawać cię głaskać.
+
+Nie powiedziała już nic więcej. Jej dłoń powoli przesuwała się po jego włosach, a za zasłonami baldachimu nadal cicho trzaskał ogień.
+
+
+[C13-M0087]
+===== USER =====
+
+mruczałem dalej blisko jej ucha ale jednocześnie coraz ciszej a mój oddech powoli zwalniał
+
+
+[C13-M0088]
+===== ASSISTANT =====
+
+Hermiona początkowo nadal delikatnie przeczesywała palcami włosy Jamesa. Jednak po pewnym czasie zauważyła, że jego mruczenie staje się coraz cichsze, a oddech wyraźnie się uspokaja.
+
+Uśmiechnęła się do siebie.
+
+— Och, ty mój mruczku… — szepnęła ledwie słyszalnie.
+
+Nie chciała jednak przeszkadzać mu kolejnymi słowami.
+
+Zwolniła ruch dłoni, aż w końcu ograniczyła się do sporadycznego, bardzo lekkiego głaskania. Drugą ręką nadal obejmowała go przez plecy.
+
+Przypomniała sobie ich wcześniejsze rozmowy o jego problemach ze snem. Jeśli rzeczywiście zaczynał zasypiać, nie zamierzała mu tego utrudniać.
+
+Przez chwilę pomyślała o swoich obowiązkach prefektki i o tym, że nie może zostać tutaj na całą noc. Ale na razie nie musiała jeszcze wstawać.
+
+Ostrożnie ułożyła policzek na poduszce obok jego głowy.
+
+— Dobranoc, jeśli już zasypiasz, kochanie — wyszeptała tak cicho, że równie dobrze mogła mówić do siebie.
+
+Potem zamilkła zupełnie.
+
+W zamkniętym baldachimie panowała nieprzenikniona ciemność. Hermiona leżała spokojnie, wsłuchując się w coraz wolniejszy oddech Jamesa i od czasu do czasu delikatnie przesuwając palcami po jego włosach.
+
+
+[C13-M0089]
+===== USER =====
+
+w odpowiedzi tylko bardzo delikatnie złapałem wargami jej płatek ucha ale po chwili zasnąłem
+
+
+[C13-M0090]
+===== ASSISTANT =====
+
+Hermiona drgnęła lekko, kiedy poczuła ostatnie, delikatne muśnięcie przy uchu. Już miała coś powiedzieć, zapewne z udawanym oburzeniem, ale nagle zauważyła, że mruczenie całkiem ucichło.
+
+Oddech Jamesa stał się spokojny i miarowy, a jego ciało rozluźniło się w jej objęciach.
+
+Hermiona znieruchomiała na chwilę.
+
+Znała już tę zmianę. Od dawna wiedziała, że James przez około dziesięć lat nie potrafił naprawdę zasnąć, a jedynie przechodził w stan czuwania. Pamiętała też tamten pierwszy prawdziwy sen po balu świątecznym — i wszystkie późniejsze chwile, kiedy udawało mu się zasypiać przy niej, choć samotne noce nadal pozostawały problemem.
+
+Delikatnie przesunęła dłonią po jego włosach.
+
+— Ty mój niemożliwy mruczku… — wyszeptała niemal bezgłośnie.
+
+Uśmiechnęła się do siebie, po czym ostrożnie poprawiła poduszkę, nie przerywając ich uścisku.
+
+Przez moment pomyślała o obowiązkach prefektki. Wiedziała, że nie może po prostu zniknąć na całą noc, ale nie zamierzała też budzić Jamesa natychmiast po tym, jak udało mu się zasnąć.
+
+Zamiast tego ułożyła się wygodniej i pozostała przy nim. Jej palce jeszcze przez chwilę powoli przesuwały się po jego włosach, aż w końcu znieruchomiały.
+
+Pod zamkniętym baldachimem panowała całkowita ciemność. Hermiona nie próbowała już niczego mówić. Po prostu czuwała przy śpiącym Jamesie, pozwalając mu odpoczywać.
+
+Poza historią: Sprawdziłem scalone archiwum części 1–12, ze szczególnym uwzględnieniem całej historii snu. W C1-M0173 i C1-M0455 James mówi już o dziesięciu latach bez normalnego snu. Pierwszy długi, prawdziwy sen przy Hermionie następuje w C3-M0979, a w C4-M1230–M1251 James omawia ten przełom z panią Pomfrey. Hermiona zna ten problem od dawna. Nie jest to nowa przypadłość ani coś, co pojawiło się dopiero podczas ostatnich wakacji.
+
+
+[C13-M0091]
+===== USER =====
+
+ja spałem dalej spokonie
+
+
+[C13-M0092]
+===== ASSISTANT =====
+
+Minuty mijały, a Hermiona wciąż leżała obok Jamesa, wsłuchując się w jego spokojny, równy oddech.
+
+Od czasu do czasu przesuwała palcami po jego włosach, ale coraz rzadziej. Nie chciała przypadkiem go obudzić.
+
+Dobrze pamiętała, ile znaczył dla niego prawdziwy sen. Od tamtej pierwszej nocy, kiedy po latach bez normalnego odpoczynku zasnął przy niej, zdążyła już poznać zarówno radość takich chwil, jak i niepokój związany z nocami, podczas których znów nie mógł zasnąć.
+
+Po pewnym czasie Hermiona westchnęła niemal bezgłośnie.
+
+Obowiązki prefektki nie dawały o sobie zapomnieć. Miała jeszcze wrócić do Gryffindoru, a przecież nie wiedziała nawet, jak długo już tutaj leżeli.
+
+Ostrożnie wysunęła jedną rękę spod kołdry, ale zaraz się zawahała.
+
+— Och, James… — szepnęła ledwie słyszalnie.
+
+Nie dokończyła. Zamiast tego delikatnie poprawiła brzeg kołdry na jego ramieniu i ponownie się ułożyła.
+
+Postanowiła dać mu jeszcze trochę czasu.
+
+Za zasłonami baldachimu kominek trzaskał cicho, a Hermiona, nie mając ochoty przerywać tej chwili, oparła policzek na poduszce. Jej dłoń spoczywała spokojnie na plecach Jamesa.
+
+Nie spała. Przynajmniej jeszcze nie.
+
+
+[C13-M0093]
+===== USER =====
+
+przez sen trochę bardziej się do niej przytuliłem
+
+
+[C13-M0094]
+===== ASSISTANT =====
+
+Hermiona poczuła, jak James przez sen przytula się do niej mocniej. Na moment przestała poruszać dłonią, a potem ostrożnie odwzajemniła uścisk.
+
+Uśmiechnęła się do siebie.
+
+— Nawet przez sen nie chcesz mnie wypuścić, co? — wyszeptała niemal bezgłośnie.
+
+Delikatnie pocałowała go we włosy i ponownie zaczęła je głaskać.
+
+Przez dłuższą chwilę leżała zupełnie spokojnie. Wiedziała, ile znaczył dla Jamesa taki odpoczynek, i nie miała serca mu go przerywać.
+
+Jednocześnie coraz częściej myślała o upływającym czasie. Nie mogła przecież zapomnieć o obowiązkach prefektki ani zostać w Pokoju Życzeń bez końca.
+
+Westchnęła cichutko.
+
+— Jeszcze troszeczkę, kochanie… — szepnęła.
+
+Nie próbowała się wyswobodzić. Zamiast tego wygodniej ułożyła głowę na poduszce, pozostając w jego objęciach.
+
+Po pewnym czasie jej palce znieruchomiały we włosach Jamesa. Hermiona nadal nie spała, choć sama zaczynała odczuwać przyjemną senność.
+
+Za szczelnie zasłoniętym baldachimem ogień w kominku cicho trzaskał, a ona wciąż odkładała moment, w którym będzie musiała zdecydować, co zrobić z zasypiającym jej w ramionach Ślizgonem.
+
+
+[C13-M0095]
+===== USER =====
+
+ja nadal spokojnie spałem
+
+
+[C13-M0096]
+===== ASSISTANT =====
+
+Upłynęło jeszcze trochę czasu. Hermiona leżała nieruchomo, wsłuchując się w spokojny oddech Jamesa. Od czasu do czasu bardzo delikatnie przeczesywała palcami jego włosy.
+
+W końcu jednak ostrożnie wysunęła głowę spod zasłony baldachimu.
+
+W Pokoju Życzeń zrobiło się już wyraźnie ciemniej. Ogień w kominku nadal płonął, rzucając ciepłe refleksy na meble.
+
+Hermiona westchnęła.
+
+— Och, niedobrze… — mruknęła pod nosem.
+
+Nie wiedziała dokładnie, ile czasu minęło, ale nie mogła bez końca odkładać powrotu do Gryffindoru. Miała obowiązki prefektki, własne rzeczy do zrobienia i przyjaciół, którzy w końcu zaczną się zastanawiać, gdzie zniknęła.
+
+Spojrzała w stronę ciemnego wnętrza baldachimu.
+
+James nadal spał.
+
+Przez chwilę walczyła ze sobą. Doskonale pamiętała, jak długo nie potrafił naprawdę odpocząć i jak wiele znaczyły dla niego te chwile.
+
+— No i co ja mam z tobą zrobić, kochanie… — wyszeptała czule.
+
+Ostrożnie zaczęła wysuwać rękę spod jego pleców, starając się nie zakłócić snu. Każdy ruch wykonywała powoli.
+
+W końcu usiadła na brzegu łóżka, pozostawiając jedną dłoń na jego ramieniu.
+
+Jeszcze nie wstała.
+
+Zamiast tego odwróciła się w jego stronę i przez moment siedziała w milczeniu. Wolała nie budzić Jamesa, ale nie podobała jej się również myśl, że mógłby otworzyć oczy i odkryć, że po prostu zniknęła.
+
+Delikatnie pogładziła go po włosach.
+
+— Gdybyś tylko wiedział, jaki jesteś kłopotliwy, kiedy tak słodko śpisz… — szepnęła z ledwie słyszalnym rozbawieniem.
+
+
+[C13-M0097]
+===== USER =====
+
+nadal spałem
+
+
+[C13-M0098]
+===== ASSISTANT =====
+
+Minęło jeszcze kilkanaście minut.
+
+Hermiona siedziała na brzegu łóżka, z dłonią spoczywającą na ramieniu Jamesa. Od dłuższego czasu zastanawiała się, co zrobić. W końcu jednak westchnęła cicho.
+
+— Och, gdybyś tylko nie był taki uparty z tym swoim spaniem… — szepnęła z czułym rozbawieniem.
+
+Nie zamierzała go budzić. Za dobrze wiedziała, jak wiele znaczył dla niego prawdziwy odpoczynek. Ale miała też obowiązki, których nie mogła po prostu zignorować.
+
+Ostrożnie wstała z łóżka. Założyła buty, podeszła do swojej torby i wyjęła kawałek pergaminu oraz pióro. Usiadła przy stoliku, zastanowiła się chwilę i napisała kilka zdań.
+
+Potem wróciła do łóżka. Odchyliła zasłonę baldachimu i położyła złożony pergamin tuż obok poduszki Jamesa.
+
+Na kartce widniało:
+
+Kochanie,
+
+Przepraszam, że wyszłam bez pożegnania, ale tak spokojnie spałeś, że nie miałam serca cię budzić.
+
+Muszę wrócić do Gryffindoru i zająć się obowiązkami prefektki.
+
+Proszę, odpoczywaj, ile potrzebujesz. Nie musisz się spieszyć tylko dlatego, że mnie tutaj nie ma.
+
+I pamiętaj — nadal wisisz mi dwie przysługi. Nie myśl, że zapomniałam!
+
+Kocham Cię.
+
+Twoja Hermiona ♡
+
+Hermiona przez chwilę przytrzymywała palcami brzeg zasłony.
+
+— Dobranoc, mój kochany Ślizgonie — wyszeptała.
+
+Jeszcze raz delikatnie pocałowała go we włosy. Potem ostrożnie zasunęła baldachim, pozostawiając jego wnętrze w ciemności.
+
+Zabrała torbę, sprawdziła, czy niczego nie zostawiła, i skierowała się ku drzwiom.
+
+Zatrzymała się jednak na progu. Spojrzała przez ramię na wielkie łóżko, na kominek i na pokój, który jeszcze tego popołudnia wyczarowała z myślą o nich obojgu.
+
+Uśmiechnęła się lekko.
+
+Po chwili wyszła, cicho zamykając za sobą drzwi.
+
+W Pokoju Życzeń pozostał jedynie trzask ognia w kominku. Świece płonęły spokojnie, a za szczelnie zasłoniętym baldachimem James wciąż spał.
+
+
+[C13-M0099]
+===== USER =====
+
+ja obudziłem się w momencie w którym drzwi się zamknęły jednak nie wstawałem przeszedłem w tryb czuwania
+
+
+[C13-M0100]
+===== ASSISTANT =====
+
+Ciche kliknięcie zamykanych drzwi było ostatnim odgłosem dobiegającym od strony wyjścia. Chwilę później na korytarzu rozległy się oddalające się kroki Hermiony, aż i one ucichły.
+
+Pokój Życzeń pozostał dokładnie taki, jakim go zostawiła.
+
+Za szczelnie zasuniętym baldachimem panowała całkowita ciemność. Z zewnątrz dobiegał jedynie spokojny trzask drewna w kominku i sporadyczne, ledwie słyszalne szelesty płomieni.
+
+Na poduszce obok Jamesa leżał złożony pergamin, który Hermiona zostawiła przed wyjściem. W ciemności jego treść pozostawała niewidoczna.
+
+Na łóżku wciąż zachowało się trochę ciepła po jej obecności.
+
+Nic więcej nie zakłócało ciszy. Nikt nie wracał do pokoju, a zamek za drzwiami toczył swoje zwyczajne, wieczorne życie.
+
+James pozostawał sam w Pokoju Życzeń, już nie śpiąc, lecz odpoczywając w dobrze znanym sobie stanie czuwania.
+
+
+[C13-M0101]
+===== USER =====
+
+czuwałem spokojnie ale cały czas będąc gotowy żeby wstać
+
+
+[C13-M0102]
+===== ASSISTANT =====
+
+W Pokoju Życzeń panowała cisza, przerywana jedynie trzaskaniem drewna w kominku.
+
+Minęło kilkanaście minut. Płomienie powoli przygasły, rzucając coraz słabsze światło na meble, regały i ogród zimowy. Za zasuniętym baldachimem nadal było zupełnie ciemno.
+
+Złożony przez Hermionę pergamin leżał przy poduszce, dokładnie tam, gdzie go zostawiła.
+
+W pewnej chwili zza drzwi dobiegły stłumione odgłosy rozmowy. Kilkoro uczniów przechodziło korytarzem siódmego piętra.
+
+— …mówię ci, że McGonagall tego nie przyjmie! — dał się słyszeć niewyraźny, chłopięcy głos.
+
+— To sam jej powiedz! — odpowiedział ktoś drugi.
+
+Rozmowa oddaliła się wraz z krokami.
+
+Potem znów zapanował spokój.
+
+Drzwi do Pokoju Życzeń pozostawały zamknięte. Nikt nie próbował wejść, a nic wewnątrz nie zakłócało dalszego czuwania Jamesa.
+
+
+[C13-M0103]
+===== USER =====
+
+odpoczywałem spokojnie dalej
+
+
+[C13-M0104]
+===== ASSISTANT =====
+
+W Pokoju Życzeń czas płynął spokojnie. Ogień w kominku przygasł jeszcze bardziej, pozostawiając wśród żarzących się polan kilka niewielkich płomieni.
+
+Po pewnym czasie gdzieś w zamku rozległ się odległy dźwięk dzwonu. Wkrótce potem na korytarzu siódmego piętra zrobiło się nieco gwarnej. Słychać było kroki uczniów, urywki rozmów i czyjś głośny śmiech. Najwyraźniej szkolne życie toczyło się dalej.
+
+Głosy stopniowo oddaliły się w stronę schodów.
+
+Wewnątrz pokoju nic się nie zmieniło. Zasłony baldachimu nadal pozostawały szczelnie zamknięte, a na poduszce obok Jamesa leżała wiadomość od Hermiony.
+
+Po kilku minutach na korytarzu znów zapadła cisza.
+
+Pokój Życzeń pozostawał ciepły i spokojny, nie zakłócając odpoczynku swojego jedynego gościa.
+
+
+[C13-M0105]
+===== USER =====
+
+(to która jest godzina w historii?)
+
+
+[C13-M0106]
+===== ASSISTANT =====
+
+W historii jest obecnie około 19:30, wczesny wieczór, na początku września 1995 roku.
+
+Dokładnej godziny wcześniej nie ustaliliśmy, więc przyjmijmy 19:30 jako punkt odniesienia, uwzględniając:
+
+zakończone lekcje i czas spędzony z Hermioną w Pokoju Życzeń,
+
+sen Jamesa i późniejsze wyjście Hermiony,
+
+kilkadziesiąt minut, które James spędził już samotnie na czuwaniu.
+
+Aktualna sytuacja: James leży w Pokoju Życzeń, Hermiona wróciła do swoich obowiązków, a na poduszce pozostaje jej liścik.
+
+Od teraz będę pilnować upływu czasu, żeby podobne niejasności się nie powtarzały.
+
+
+[C13-M0107]
+===== USER =====
+
+(ok)
+
+
+[C13-M0108]
+===== ASSISTANT =====
+
+Jasne. Kontynuujemy od około 19:30. James nadal spokojnie czuwa w Pokoju Życzeń, a Hermiona już wyszła.
+
+Czekam na kolejny ruch Jamesa.
+
+
+[C13-M0109]
+===== USER =====
+
+ja nadal sppkojnie odpoczywałem
+
+
+[C13-M0110]
+===== ASSISTANT =====
+
+Minęło kolejne kilkanaście minut. W Pokoju Życzeń nadal panował przyjemny spokój.
+
+Ogień w kominku niemal całkowicie przygasł, ale pomieszczenie wciąż pozostawało ciepłe. Baldachim nadal szczelnie otaczał łóżko, odcinając wszelkie światło.
+
+Nagle z korytarza dobiegł przeciągły, złośliwy śmiech.
+
+— IRYTKU! WRACAJ TU NATYCHMIAST! — rozległ się rozwścieczony głos Filcha.
+
+— Złap mnie, złap, ty stary zgredzie! — odśpiewał poltergeist.
+
+Rozległ się brzęk czegoś metalowego, po czym szybkie kroki woźnego zaczęły oddalać się korytarzem.
+
+Jeszcze przez chwilę słychać było szyderczy śmiech Irytka, aż w końcu wszystko ucichło.
+
+W Pokoju Życzeń nic nie zostało zakłócone. Złożony liścik Hermiony nadal leżał przy poduszce, a drzwi pozostawały zamknięte.
+
+Było już mniej więcej 19:45.
+
+
+[C13-M0111]
+===== USER =====
+
+ja nadal sppkojnie czuwałem
+
+
+[C13-M0112]
+===== ASSISTANT =====
+
+Minęło kolejne dwadzieścia minut.
+
+W Pokoju Życzeń panował niezmącony spokój. Kominek podtrzymywał łagodny żar, a ciepło nadal wypełniało pomieszczenie. Za szczelnie zasłoniętym baldachimem nie przedostawał się nawet najmniejszy promień światła.
+
+Gdzieś na siódmym piętrze rozległy się kroki. Tym razem były powolne i miarowe, jakby ktoś bez pośpiechu przemierzał korytarz. Na chwilę ucichły niedaleko wejścia do Pokoju Życzeń.
+
+Po kilku sekundach dało się usłyszeć szelest materiału i cichy, niezrozumiały pomruk.
+
+Potem kroki ruszyły dalej.
+
+Drzwi pozostały zamknięte. Nikt nie zapukał ani nie próbował wejść.
+
+Dochodziła 20:05. Na poduszce wciąż leżał złożony liścik od Hermiony, a James pozostawał jedyną osobą w pokoju.
+
+
+[C13-M0113]
+===== USER =====
+
+ja nadal sppkojnie czuwałem
+
+
+[C13-M0114]
+===== ASSISTANT =====
+
+Minęło kolejne dwadzieścia minut. Dochodziła 20:25.
+
+W Pokoju Życzeń było już niemal zupełnie cicho. W kominku żarzyły się ostatnie polana, a za szczelnie zasuniętym baldachimem nadal panowała nieprzenikniona ciemność.
+
+Z korytarza dobiegły kroki dwóch osób. Początkowo odległe, stopniowo stawały się coraz wyraźniejsze.
+
+— Ron, naprawdę nie wystarczy przejść korytarzem i stwierdzić, że wszystko jest w porządku — rozległ się znajomy głos Hermiony.
+
+— Przecież właśnie to robimy! — odparł Ron z lekkim zniecierpliwieniem.
+
+— Nie, ty przez ostatnie pięć minut opowiadasz mi o kolacji.
+
+— Bo przegapiłem dokładkę! To całkiem istotna sprawa.
+
+Hermiona westchnęła tak głośno, że nawet przez drzwi dało się to usłyszeć.
+
+— Doprawdy, Ronaldzie…
+
+Ich kroki zwolniły gdzieś niedaleko wejścia do Pokoju Życzeń. Zabrzmiał cichy szelest pergaminu.
+
+— Dobrze, siódme piętro prawie skończone — powiedziała Hermiona rzeczowym tonem. — Musimy jeszcze sprawdzić korytarz przy schodach.
+
+— Wreszcie…
+
+Głosy na chwilę ucichły, ale kroki jeszcze się nie oddaliły.
+
+James nadal znajdował się za zasłoniętym baldachimem. Liścik pozostawiony przez Hermionę wciąż leżał tuż obok jego poduszki.
+
+
+[C13-M0115]
+===== USER =====
+
+ja słysząc że są razem od razu się wkurzylem ale czuwałem dalej
+
+
+[C13-M0116]
+===== ASSISTANT =====
+
+Niezupełnie. Sprawdziłem wcześniejsze wydarzenia i trzeba rozróżnić wiedzę Hermiony od wiedzy Rona.
+
+Hermiona doskonale wiedziała, że James został w Pokoju Życzeń. Sama zostawiła go tam śpiącego i napisała mu liścik. Nie mogła jedynie wiedzieć, czy w międzyczasie się obudził albo wyszedł.
+
+Ron wiedział o związku Jamesa i Hermiony, a także znał Pokój Życzeń z wcześniejszych wydarzeń, między innymi imprezy po Balu Bożonarodzeniowym. Natomiast nie ma potwierdzenia, że Hermiona powiedziała mu, gdzie James spędza ten konkretny wieczór.
+
+Na korytarzu siódmego piętra kroki na chwilę ucichły.
+
+Hermiona zatrzymała się nieopodal znajomego fragmentu ściany, naprzeciw gobelinu Barnabasza Bzika. Wiedziała, że właśnie za nią pozostawiła Jamesa. Nie miała jednak pojęcia, że teraz słyszy ich rozmowę.
+
+— Hermiona? — odezwał się Ron. — Idziesz?
+
+— Tak, już.
+
+Przez chwilę jeszcze patrzyła na ścianę. Miała nadzieję, że James nadal spokojnie odpoczywa. Nie chciała jednak zdradzać Ronowi szczegółów dotyczących jego snu.
+
+— Coś się stało? — zapytał Ron.
+
+— Nie. Po prostu się zamyśliłam.
+
+— No to chodź. Jeszcze trochę i będziemy patrolować do śniadania.
+
+— Ronaldzie, dopiero wpół do dziewiątej!
+
+Ron mruknął coś niezrozumiałego, a Hermiona ruszyła za nim w stronę schodów.
+
+Ich kroki stopniowo cichły.
+
+W Pokoju Życzeń nic się nie zmieniło. James pozostawał za zasłoniętym baldachimem, a Hermiona i Ron oddalali się korytarzem.
+
+
+[C13-M0117]
+===== USER =====
+
+ja resztę nocy już spkojnie odpoczywałem dopiero o trzeciej rano otworzyłem oczy zl i wstałem z łóżka założyłem buty złapałem za liścik i skiwrowalem się do pokoju wspólnego Slytherin'u
+
+
+[C13-M0118]
+===== ASSISTANT =====
+
+Była trzecia nad ranem. Hogwart pogrążony był w głębokiej ciszy.
+
+Na siódmym piętrze nie było już śladu po wieczornym gwarze. Większość pochodni przygaszono, a kamienne korytarze oświetlały jedynie pojedyncze, migoczące płomienie.
+
+Droga w dół zamku minęła bez przeszkód. Od czasu do czasu z któregoś portretu dobiegało chrapanie, a na jednym z pięter stara zbroja cicho zaskrzypiała, kiedy mijano jej wnękę.
+
+W lochach panował znajomy chłód.
+
+Kilka minut po trzeciej ukryte przejście w kamiennej ścianie odsłoniło pokój wspólny Slytherinu.
+
+O tej porze pomieszczenie było prawie zupełnie puste. Zielonkawe lampy paliły się słabo, a za wysokimi oknami rozciągała się ciemna toń jeziora.
+
+Prawie zupełnie puste.
+
+W jednym z foteli przy kominku siedział Theodore Nott. Miał rozpiętą szatę, a na kolanach spoczywała otwarta książka. Na stoliku obok stał kubek z dawno wystygłą herbatą.
+
+Na odgłos otwierającego się przejścia podniósł wzrok.
+
+— Brown?
+
+Spojrzał na zegar stojący na kominku, a potem ponownie w stronę wejścia.
+
+— Jest trzecia rano.
+
+Zamknął książkę, wsuwając palec między strony, żeby nie zgubić miejsca.
+
+— Nawet nie będę pytał, skąd wracasz.
+
+Zrobił krótką pauzę.
+
+— Chociaż przyznam, że zaczynałem podejrzewać, że w ogóle dzisiaj nie wrócisz.
+
+Nie wstał z fotela. Po prostu obserwował Jamesa z charakterystyczną dla siebie powściągliwością.
+
+Przejście do dormitoriów pozostawało wolne.
+
+
+[C13-M0119]
+===== USER =====
+
+uniosłem brew -Wow tego się nie spodziewałem, tak się o mnie martwiłeś że nie spałeś?
+
+
+[C13-M0120]
+===== ASSISTANT =====
+
+Nott powoli uniósł wzrok znad książki. Przez chwilę przyglądał się Jamesowi z zupełnie poważną miną.
+
+— Oczywiście, Brown. Od kilku godzin siedzę tutaj, zalewam się łzami i modlę, żebyś szczęśliwie wrócił do domu.
+
+Wytrzymał jeszcze sekundę, po czym parsknął cicho.
+
+— Obudziłem się jakiś czas temu i nie mogłem ponownie zasnąć. Więc czytam.
+
+Wskazał lekko uniesioną książką na zegar.
+
+— Chociaż przyznaję, że jest w tym pewna ironia. Przez ostatnie dni to ja zastawałem ciebie na nogach o absurdalnych porach. Dzisiaj wreszcie role się odwróciły.
+
+Przyjrzał mu się jeszcze przez moment.
+
+— Ale skoro już pytasz… — dodał z ledwie dostrzegalnym uśmiechem. — Czy powinienem zacząć się martwić, czy może jednak pozwolisz mi spokojnie skończyć rozdział?
+
+
+[C13-M0121]
+===== USER =====
+
+-czytaj spokojnie powiedziałem a potem poszedłem do łazienki zgłoliłem zarost umyłem zęby i wziąłem prysznic a potem założyłem mundurek czyli czarną szate z zieloną podszewką i herbem Slytherinu szarą kamizelkę, białą koszule czarne spodnie oraz krawata w bordowo-złote pasy spojrzałem w lustro i jeszcze poprawiłem krawat i później wyszeldm z łazienki i po chwili znalazłem się w pokoju wspólnym Slytherinu zrobiłem sobie kawę tym razem małą bardzo mocną czarną a potem usiadłem przy stoliku i zacząłem pić
+
+
+[C13-M0122]
+===== ASSISTANT =====
+
+Było około 3:30 nad ranem.
+
+W pokoju wspólnym Slytherinu nadal panowała cisza. Theodore Nott siedział w tym samym fotelu, choć zdążył już przewrócić kilka kolejnych stron książki.
+
+Kiedy James wrócił z łazienki, Nott zerknął na niego znad lektury. Jego wzrok na moment zatrzymał się na starannie poprawionym bordowo-złotym krawacie, a następnie powędrował ku filiżance.
+
+Uniósł brew.
+
+— Wiesz, Brown, zaczynam podejrzewać, że ten twój poranny rytuał jest bardziej skomplikowany niż warzenie eliksiru wielosokowego.
+
+Odwrócił kolejną stronę.
+
+— Chociaż przynajmniej tym razem nie musiałem wstawać, żeby zobaczyć cię przy kawie.
+
+Przez chwilę obaj pozostawali przy swoich zajęciach. Nott czytał, a cichy trzask drewna w kominku mieszał się z ledwie słyszalnym szumem wody za oknami.
+
+W końcu Theodore odłożył książkę na kolana.
+
+— Swoją drogą… — zerknął na zegar. — Skoro już się ogoliłeś, wykąpałeś i ubrałeś, to zamierzasz przesiedzieć tutaj następne trzy godziny?
+
+Wskazał brodą filiżankę.
+
+— Bo jeśli tak, radziłbym nie robić sobie drugiej. Nawet ten twój organizm musi mieć jakieś granice.
+
+Powiedział to zupełnie zwyczajnie, bez szczególnej troskliwości czy nacisku. Po chwili ponownie otworzył książkę, pozostawiając Jamesowi możliwość odpowiedzi.
+
+
+[C13-M0123]
+===== USER =====
+
+-najpieew to przeczytam....powiedziałem i dobyłem liścik od Hermiony i zacząłem czytać
+
+
+[C13-M0124]
+===== ASSISTANT =====
+
+Theodore zerknął znad książki, kiedy James wyjął złożony pergamin.
+
+— A, korespondencja o trzeciej trzydzieści nad ranem. Rozumiem.
+
+W jego głosie pobrzmiewała sucha ironia, ale nie próbował zaglądać do listu. Wrócił do lektury.
+
+Przy świetle zielonkawych lamp pokoju wspólnego James mógł wreszcie przeczytać wiadomość pozostawioną przez Hermionę. Rozpoznał jej staranne, charakterystyczne pismo.
+
+Kochanie,
+
+Przepraszam, że wyszłam bez pożegnania, ale tak spokojnie spałeś, że nie miałam serca cię budzić.
+
+Muszę wrócić do Gryffindoru i zająć się obowiązkami prefektki.
+
+Proszę, odpoczywaj, ile potrzebujesz. Nie musisz się spieszyć tylko dlatego, że mnie tutaj nie ma.
+
+I pamiętaj — nadal wisisz mi dwie przysługi. Nie myśl, że zapomniałam!
+
+Kocham Cię.
+
+Twoja Hermiona ♡
+
+Pod podpisem znajdowało się niewielkie serduszko, starannie narysowane piórem.
+
+W kominku cicho zatrzeszczało drewno.
+
+Theodore przewrócił stronę, po czym sięgnął po swój kubek. Odkrywszy, że herbata zupełnie wystygła, odstawił go z niezadowolonym westchnieniem.
+
+— Genialnie. Zimna.
+
+Nie odrywając wzroku od książki, dodał:
+
+— Mam nadzieję, że przynajmniej twoja kawa jest warta wstawania o tej porze.
+
+Na stoliku przed Jamesem stała niewielka filiżanka mocnej, czarnej kawy. Nott nie wykazywał dalszego zainteresowania treścią listu.
+
+
+[C13-M0125]
+===== USER =====
+
+-To paliwo albo efekt placebo ale bez niej jest ciężko...
+
+
+[C13-M0126]
+===== ASSISTANT =====
+
+Theodore zerknął na niewielką filiżankę Jamesa, po czym pokiwał głową.
+
+— Paliwo albo placebo… — powtórzył z namysłem. — A może jedno i drugie.
+
+Przez chwilę przyglądał się kawie.
+
+— Chociaż przy takim stężeniu podejrzewam, że nawet sama filiżanka ma problemy z zasypianiem.
+
+Uśmiechnął się ledwie zauważalnie i przewrócił stronę książki.
+
+— Ale rozumiem. Każdy ma jakieś swoje przyzwyczajenia. Ty masz kawę, ja książki, a Malfoy najwyraźniej nie potrafi rozpocząć dnia bez znalezienia kogoś, kogo mógłby obrazić.
+
+Upił łyk swojej zimnej herbaty i natychmiast się skrzywił.
+
+— Merlinie… Może jednak powinienem zrobić sobie świeżej.
+
+Odłożył kubek.
+
+— A tak swoją drogą, Brown… — dodał, nie podnosząc wzroku. — Skoro kawa to twoje paliwo, to co właściwie robisz, kiedy jej zabraknie?
+
+
+[C13-M0127]
+===== USER =====
+
+-jestem bardziej senny...i Bardziej drażliwy
+
+
+[C13-M0128]
+===== ASSISTANT =====
+
+Theodore uniósł wzrok znad książki i przez chwilę przyglądał się Jamesowi.
+
+— Bardziej drażliwy? — powtórzył z kamienną twarzą. — Brown, zaczynam się zastanawiać, czy powinienem osobiście pilnować szkolnych zapasów kawy. Dla bezpieczeństwa całego Slytherinu.
+
+Kącik jego ust drgnął nieznacznie.
+
+— Chociaż z tą sennością to już mniej zabawne.
+
+Zerknął na zegar, a potem na starannie ubrany mundurek Jamesa.
+
+— Trzecia trzydzieści, a ty już jesteś gotowy do lekcji. Ja nawet nie zdecydowałem, czy warto jeszcze wracać do łóżka.
+
+Theodore zamknął książkę, tym razem zaznaczając stronę zakładką, i wstał z fotela.
+
+— Zrobię sobie herbatę. Gorącą, dla odmiany.
+
+Ruszył w stronę stolika z napojami, pozostawiając Jamesa przy jego kawie. Po chwili rozległ się cichy brzęk filiżanek.
+
+— I nie martw się — rzucił przez ramię. — Jeśli kiedyś zabraknie kawy, nie będę próbował z tobą rozmawiać przed śniadaniem.
+
+W jego głosie pobrzmiewało wyraźne rozbawienie.
+
+
+[C13-M0129]
+===== USER =====
+
+lekko się usmiechnąłem a potem wstałem z miejsca -Do później w takim razie powiedziałem i skierowałem się do wyjścia
+
+
+[C13-M0130]
+===== ASSISTANT =====
+
+— Do później, Brown — odparł Theodore, unosząc filiżankę w geście pożegnania.
+
+Zerknął jeszcze na zegar, po czym pokręcił głową z rozbawieniem.
+
+— I postaraj się nie wpaść na Filcha. Nie mam ochoty słuchać przy śniadaniu, jak tłumaczysz, dlaczego o wpół do czwartej urządzałeś sobie spacer po zamku.
+
+Wrócił do książki, nie próbując zatrzymywać Jamesa.
+
+Kamienne przejście prowadzące z pokoju wspólnego otworzyło się, odsłaniając słabo oświetlony korytarz lochów. Za nim panowała nocna cisza. Gdzieś w oddali kapała woda, a chłód podziemi wyraźnie kontrastował z ciepłem kominka.
+
+Była około 3:35. Do świtu pozostawało jeszcze kilka godzin, a szkolne korytarze o tej porze nie należały do miejsc, w których uczniowie powinni się znajdować.
+
+Theodore przewrócił kolejną stronę. Przejście pozostawało otwarte.
+
+
+[C13-M0131]
+===== USER =====
+
+ja bez chwilie namysłu skierowałem się do wieży Gryffindoru i stanąłem niedaleko portretu grubiej damy która jeszcze spała
+
+
+[C13-M0132]
+===== ASSISTANT =====
+
+Było około 3:45 nad ranem.
+
+Korytarz przed wejściem do wieży Gryffindoru tonął w półmroku. Kilka pochodni rzucało drżące światło na kamienne ściany, a w całym zamku panowała niemal zupełna cisza.
+
+Gruba Dama spała w swoim portrecie, z głową opartą na dłoni. Od czasu do czasu wydawała z siebie ciche, przeciągłe chrapnięcie.
+
+Po paru chwilach poruszyła się niespokojnie, uchyliła jedno oko i dostrzegła znajomą sylwetkę w ślizgońskim mundurku.
+
+— Och, na Merlina… — mruknęła sennie.
+
+Przetarła oczy i przyjrzała się Jamesowi uważniej.
+
+— Brown? Znowu?
+
+Wyprostowała się odrobinę w swoim fotelu.
+
+— Czy ty naprawdę nie masz własnego pokoju wspólnego? Przecież dopiero niedawno urządzałeś sobie tutaj poranny posterunek.
+
+Westchnęła teatralnie, choć tym razem w jej głosie pobrzmiewało raczej zmęczenie niż oburzenie.
+
+— Jest środek nocy, młody człowieku. Nawet najbardziej zakochani powinni czasami pozwolić portretom się wyspać.
+
+Zmrużyła oczy.
+
+— Tylko nie mów, że znów zamierzasz czekać na pannę Granger.
+
+Portret pozostawał zamknięty. Gruba Dama obserwowała Jamesa, najwyraźniej spodziewając się odpowiedzi.
+
+
+[C13-M0133]
+===== USER =====
+
+pokiwałem głową -jeśli Pani przekszadzam to może mnie Pani wpuścić do środka.... mogę zostawić różdżkę jeśli to pomoże....
+
+
+[C13-M0134]
+===== ASSISTANT =====
+
+Gruba Dama przez chwilę patrzyła na Jamesa, jakby nie była pewna, czy dobrze usłyszała. Potem wyprostowała się w swoim fotelu, a jej senność ustąpiła miejsca wyraźnemu oburzeniu.
+
+— Wpuścić cię do środka?!
+
+Spojrzała znacząco na zieloną podszewkę jego szaty.
+
+— Młody człowieku, to jest pokój wspólny Gryffindoru, nie poczekalnia dla zakochanych Ślizgonów!
+
+Poprawiła fałdy swojej sukni.
+
+— I możesz zatrzymać różdżkę. Nie chodzi o to, czy jesteś uzbrojony. Moim obowiązkiem jest pilnowanie wejścia, a nie ocenianie, czy odwiedzający wyglądają na dostatecznie nieszkodliwych.
+
+Zmrużyła oczy.
+
+— Poza tym doskonale pamiętam, jak niedawno rozmawiałeś o dostaniu się tutaj siłą. Panna Granger musiała ci wtedy przypomnieć o dobrych manierach!
+
+Westchnęła, ale po chwili jej ton nieco złagodniał.
+
+— Posłuchaj, Brown. Nie mam nic przeciwko twojej sympatii do panny Granger. Naprawdę. Widziałam was tutaj wystarczająco często, żeby nie mieć co do niej wątpliwości.
+
+Zerknęła na pusty korytarz, a następnie na Jamesa.
+
+— Ale jest za kwadrans czwarta. Hermiona prawdopodobnie śpi, podobnie jak reszta Gryfonów. A ty, zamiast grzecznie leżeć we własnym łóżku, znowu stoisz pod moim portretem.
+
+Oparła dłonie na podłokietnikach.
+
+— Możesz tutaj poczekać, jeżeli koniecznie musisz. Tylko nie hałasuj i nie próbuj mnie przekonywać, że wpuszczenie Ślizgona do wieży to drobna przysługa.
+
+Po krótkiej pauzie dodała z przekąsem:
+
+— A skoro już się tak troszczysz o mój sen, może tym razem pozwolisz mi rzeczywiście zasnąć?
+
+
+[C13-M0135]
+===== USER =====
+
+tak, Tylko przypominam że po Balu mnie Pani wpuściła...
+
+
+[C13-M0136]
+===== ASSISTANT =====
+
+Gruba Dama spojrzała na Jamesa spod przymrużonych powiek. Przez chwilę milczała, po czym westchnęła ciężko.
+
+— Och, doskonale pamiętam, młody człowieku. Mam może swoje lata, ale pamięć wciąż mi dopisuje!
+
+Poprawiła się w fotelu i uniosła palec.
+
+— Tylko że to była wyjątkowa sytuacja, panie Brown. Wracaliście po całonocnym balu, panna Granger była wyczerpana, a ty niosłeś ją na rękach. Co więcej, była przy tobie, sama podała hasło i najwyraźniej nie miała nic przeciwko twojej obecności.
+
+Spojrzała na niego znacząco.
+
+— Uznałam wtedy, że mogę przymknąć oko na pewne zasady. Nie oznacza to jednak, że od tamtej pory każdy Ślizgon zakochany w Gryfonce otrzymuje prawo do swobodnego wchodzenia do wieży!
+
+Po chwili jej surowa mina nieco złagodniała.
+
+— I przyznaję, że zachowałeś się wtedy bardzo troskliwie wobec panny Granger. To było nawet ujmujące.
+
+Zaraz jednak ponownie zmarszczyła brwi.
+
+— Ale teraz jest niemal czwarta rano, panna Granger prawdopodobnie śpi w swoim dormitorium, a ty przychodzisz sam. Widzisz różnicę?
+
+Westchnęła, zerkając na pusty korytarz.
+
+— Możesz poczekać tutaj, Brown. Tylko nie każ mi żałować, że ostatnim razem okazałam ci odrobinę wyrozumiałości.
+
+Oparła się wygodniej i dodała nieco ciszej:
+
+— A swoją drogą… czy ta biedna dziewczyna w ogóle wie, że zamierzasz wystawać pod jej drzwiami o tak niedorzecznej porze?*
+
+
+[C13-M0137]
+===== USER =====
+
+ja oparłem się o ścianę i po prostu czekałem zastanawiając się i obserwując kot pierwszy wyjdzie -Nie wie...ale to chyba nie jestem coś złego a pozatym.....nie jest biedna....
+
+
+[C13-M0138]
+===== ASSISTANT =====
+
+Gruba Dama spojrzała na Jamesa, który oparł się o ścianę, i uniosła brwi.
+
+— Och, doprawdy, panie Brown! Nie miałam na myśli, że panna Granger jest biedna w dosłownym znaczeniu tego słowa!
+
+Poprawiła się w fotelu.
+
+— Chodziło mi o to, że ta dziewczyna ma już wystarczająco dużo obowiązków. Lekcje, prace domowe, funkcja prefektki… A jeszcze zakochany Ślizgon, który pojawia się pod jej drzwiami o czwartej nad ranem!
+
+Westchnęła teatralnie.
+
+— Chociaż przyznaję, że chyba całkiem dobrze sobie z tobą radzi.
+
+Na jej twarzy pojawił się niewielki uśmiech.
+
+— A samo czekanie? Nie, nie ma w tym nic złego. Dopóki nie będziesz zaczepiał uczniów, którzy zechcą wyjść, ani próbował dostać się do środka bez pozwolenia.
+
+Gruba Dama przeciągnęła się, zasłaniając usta dłonią.
+
+— No dobrze. Skoro już ustaliliśmy, że jesteś nieuleczalnym romantykiem, a ja mam pełnić funkcję strażniczki waszego romansu, pozwolisz, że wrócę do snu.
+
+Oparła głowę o poduszkę i zamknęła oczy.
+
+— I żadnych awantur, Brown… — mruknęła jeszcze sennie.
+
+Po kilku minutach z portretu znów dobiegło ciche chrapanie.
+
+Na korytarzu panowała cisza. Od czasu do czasu pochodnie trzaskały lekko, a gdzieś w oddali odezwał się skrzypiący stopień schodów.
+
+Minęło około dwudziestu minut. Dochodziła 4:10.
+
+Nikt jeszcze nie wyszedł z wieży Gryffindoru. Portret pozostawał zamknięty, a Gruba Dama spała spokojnie.
+
+
+[C13-M0139]
+===== USER =====
+
+kiwnąłem głową i nadal czekałem
+
+
+[C13-M0140]
+===== ASSISTANT =====
+
+Minęła kolejna godzina. Korytarz przed wejściem do wieży Gryffindoru pozostawał pusty, a Gruba Dama spała tak głęboko, że od czasu do czasu jej chrapanie odbijało się echem od kamiennych ścian.
+
+Dochodziła 5:20.
+
+Przez następne pół godziny nie wydarzyło się nic szczególnego. Dopiero około 5:50 zza portretu dobiegł przytłumiony szelest, a potem czyjeś ciche mruknięcie.
+
+— Och, tylko się nie przewróć…
+
+Portret odchylił się do przodu.
+
+— Kto tam znowu…? — wymamrotała zaspana Gruba Dama, otwierając jedno oko.
+
+Przez przejście wydostał się Neville Longbottom. Miał na sobie szkolny mundurek, nieco krzywo zawiązany krawat, a pod pachą trzymał niewielką doniczkę z dziwną, przypominającą kaktus rośliną.
+
+Dopiero gdy portret zamknął się za jego plecami, Neville dostrzegł Jamesa stojącego pod ścianą.
+
+— Och! Brown!
+
+Zatrzymał się tak gwałtownie, że roślina niebezpiecznie zakołysała się w doniczce.
+
+— Na Merlina, przestraszyłeś mnie!
+
+Poprawił uchwyt i spojrzał na Jamesa z wyraźnym zdziwieniem.
+
+— Co ty tutaj robisz o tej porze? Przecież jeszcze nawet szósta nie wybiła.
+
+Z portretu dobiegło zniecierpliwione westchnienie.
+
+— Pan Brown najwyraźniej postanowił zostać nowym elementem wyposażenia tego korytarza — mruknęła Gruba Dama, po czym ponownie zamknęła oczy.
+
+Neville zerknął na nią, a potem znów na Jamesa.
+
+— Czekasz na kogoś? — zapytał ciszej.
+
+
+[C13-M0141]
+===== USER =====
+
+-tak ja ciebie....powiedziałem z sarkazmem a po chwili dodałem  -poporwa krawat
+
+
+[C13-M0142]
+===== ASSISTANT =====
+
+Neville zamrugał, wyraźnie zaskoczony odpowiedzią.
+
+— N-na mnie? — powtórzył, po czym dostrzegł ledwie wyczuwalny sarkazm. — Ach… no tak.
+
+Spojrzał w dół, kiedy James zwrócił mu uwagę na krawat.
+
+— Co? Och, dzięki!
+
+Odstawił ostrożnie doniczkę na podłogę i obiema rękami poprawił przekrzywiony węzeł. Niestety za pierwszym razem przesunął go jeszcze bardziej w bok.
+
+— Merlinie, przecież poprawiałem go przed lustrem…
+
+Za drugim podejściem poszło mu znacznie lepiej. Podniósł doniczkę i zerknął ponownie na Jamesa.
+
+— Czekasz na Hermionę, prawda?
+
+Nie zabrzmiało to jak oskarżenie. Neville po prostu najwyraźniej połączył fakty.
+
+— Pewnie jeszcze śpi. Jest strasznie wcześnie.
+
+Z portretu dobiegło głośne prychnięcie.
+
+— Strasznie wcześnie?! — Gruba Dama otworzyła jedno oko. — Ten młodzieniec stoi tu od prawie dwóch godzin! Zapewniam cię, Longbottom, że doskonale zna porę!
+
+Neville spojrzał na nią ze zdumieniem.
+
+— Od dwóch godzin?!
+
+Znów zwrócił się do Jamesa, tym razem ciszej.
+
+— Naprawdę? Przecież mogłeś jeszcze pospać…
+
+Urwał, jakby nagle uznał, że nie powinien się wtrącać.
+
+— No, nieważne. Ja muszę zanieść tę roślinę do szklarni, zanim zacznie znowu pryskać.
+
+Poprawił doniczkę pod pachą, ale jeszcze nie ruszył, zerkając na Jamesa z mieszaniną ciekawości i zakłopotania.
+
+
+[C13-M0143]
+===== USER =====
+
+Powodzenia...
+
+
+[C13-M0144]
+===== ASSISTANT =====
+
+— Dzięki, Brown — odpowiedział Neville z lekkim uśmiechem.
+
+Poprawił doniczkę pod pachą i ruszył w stronę schodów.
+
+— I… powodzenia z Hermioną! — rzucił jeszcze przez ramię, zanim zniknął za zakrętem.
+
+Gruba Dama uchyliła jedno oko.
+
+— Przynajmniej ten młodzieniec ma jakiś rozsądny powód, żeby wstawać przed świtem — mruknęła, po czym ponownie zasnęła.
+
+Minęło kilka minut. Dochodziła szósta, a za wysokim oknem na końcu korytarza zaczynało się już rozjaśniać.
+
+Nagle z wnętrza wieży dobiegły znajome odgłosy otwieranego przejścia.
+
+Portret Grubej Damy odchylił się i na korytarz wyszła Hermiona.
+
+Miała na sobie starannie założony mundurek Gryffindoru, z odznaką prefektki przypiętą do szaty. Przez ramię przewiesiła torbę, a pod pachą trzymała dwie książki.
+
+Zrobiła kilka kroków, po czym dostrzegła Jamesa.
+
+— James!
+
+Na jej twarzy pojawił się uśmiech, choć zaraz zmarszczyła lekko brwi.
+
+— Och, oczywiście. Powinnam była się domyślić.
+
+Podeszła bliżej.
+
+— Szósta rano, a ty czekasz pod wieżą Gryffindoru. Niektóre rzeczy najwyraźniej nigdy się nie zmienią.
+
+Uśmiechnęła się szerzej, lecz po chwili przyjrzała mu się uważniej.
+
+— Ale po wczorajszym wieczorze naprawdę myślałam, że dzisiaj sobie odpuścisz. Tak spokojnie spałeś…
+
+Zawahała się.
+
+— Nie obudziłam cię, wychodząc?
+
+Gruba Dama, która właśnie ponownie otworzyła oczy, prychnęła.
+
+— Panno Granger, ten młodzieniec stoi pod moim portretem od czwartej nad ranem!
+
+Hermiona gwałtownie odwróciła głowę.
+
+— Od czwartej?!
+
+Spojrzała z powrotem na Jamesa.
+
+— James Brown… — zaczęła tonem, w którym mieszały się niedowierzanie i rozbawienie. — Mam nadzieję, że przynajmniej przeczytałeś mój liścik.
+
+Przesunęła książki pod drugie ramię.
+
+— Właśnie wybierałam się do biblioteki. Zostało mi trochę notatek do dokończenia, a później muszę jeszcze załatwić jedną sprawę związaną z obowiązkami prefektki.
+
+Jej spojrzenie złagodniało.
+
+— Ale najpierw powiedz mi, jak się czujesz. Naprawdę udało ci się trochę pospać?
+
+
+[C13-M0145]
+===== USER =====
+
+obudziłem cię jak tylko wyszłaś.
+
+
+[C13-M0146]
+===== ASSISTANT =====
+
+Hermiona zatrzymała się tuż przed Jamesem. Jej uśmiech nieco przygasł.
+
+— Obudziłeś się, kiedy tylko wyszłam? — powtórzyła cicho.
+
+Westchnęła i poprawiła książki trzymane pod pachą.
+
+— Och, James… A ja tak się starałam, żeby cię nie obudzić.
+
+Przez chwilę wyglądała na zmartwioną, ale zaraz zastanowiła się nad czymś.
+
+— Chociaż przecież spałeś już wcześniej. I to całkiem długo, prawda?
+
+Delikatnie ujęła jego wolną dłoń.
+
+— Wiem, że samo zaśnięcie jest dla ciebie czymś znacznie trudniejszym niż dla większości ludzi. Dlatego nie chciałam przerywać ci odpoczynku. Ale nie mogłam też zostać na całą noc.
+
+Spojrzała na niego uważniej.
+
+— Powiedz mi tylko jedno. Kiedy się obudziłeś, udało ci się później jeszcze zasnąć? Czy znowu przez resztę nocy tylko czuwałeś?
+
+Po chwili uniosła lekko brew.
+
+— Bo jeśli to drugie, zaczynam rozumieć, dlaczego od czwartej rano prowadzisz towarzyskie rozmowy z Grubą Damą.
+
+— Towarzyskie?! — oburzyła się z portretu Gruba Dama. — Panno Granger, ten młodzieniec przerwał mi najpiękniejszy sen!
+
+Hermiona zerknęła na nią i z trudem powstrzymała uśmiech.
+
+— Przepraszam panią.
+
+Potem ponownie zwróciła się do Jamesa, nie puszczając jego dłoni. Tym razem jednak nie ponaglała go odpowiedzią.
+
+
+[C13-M0147]
+===== USER =====
+
+-Nie zasnąłem znów....ale jest ok już to często przerabiałem.....
+
+
+[C13-M0148]
+===== ASSISTANT =====
+
+Hermiona przyglądała mu się przez chwilę, po czym westchnęła cicho.
+
+— Wiem, James. Wiem, że już nieraz przez to przechodziłeś.
+
+Delikatnie przesunęła kciukiem po jego dłoni.
+
+— I właśnie dlatego nie zamierzam wygłaszać ci kolejnego wykładu o tym, jak ważny jest sen. Podejrzewam, że znasz go już na pamięć.
+
+Na jej ustach pojawił się niewielki uśmiech.
+
+— Ale cieszę się, że wczoraj udało ci się naprawdę zasnąć. Nawet jeśli później znów wróciło czuwanie.
+
+Poprawiła torbę na ramieniu, a potem zerknęła w stronę schodów.
+
+— W każdym razie, miałam właśnie iść do biblioteki. Jak zwykle o szóstej. Tyle że teraz, odkąd jestem prefektką, nie zawsze udaje mi się trzymać naszego starego zwyczaju.
+
+Spojrzała ponownie na Jamesa.
+
+— Jeśli chcesz, możemy pójść razem. Mam jeszcze trochę pracy, ale obiecuję nie zagonić cię od razu do podręczników.
+
+— Doprawdy, panno Granger! — odezwała się nagle Gruba Dama. — Czy wy dwoje nie możecie prowadzić tych uroczych rozmów gdzieś, gdzie nie próbuję spać?
+
+Hermiona odwróciła głowę.
+
+— Och! Przepraszam panią.
+
+— Już to słyszałam. Kilkakrotnie.
+
+Hermiona przygryzła wargę, tłumiąc śmiech. Następnie spojrzała na Jamesa z rozbawieniem.
+
+— Chodźmy stąd, zanim oboje dostaniemy zakaz zbliżania się do portretu.
+
+Nie puszczając jeszcze jego dłoni, poczekała na jego odpowiedź.
+
+
+[C13-M0149]
+===== USER =====
+
+chwyciłem ją za rękę i poprowadziłem dalej -Wiem że ja nie jestem prefektem ale jakby ktoś kiedyś z młodszych roczników potrzebował pomocy z... czymś co nie wymaga uprawnień prefekta to możesz ich do mnie odsyłać
+
+
+[C13-M0150]
+===== ASSISTANT =====
+
+Hermiona spojrzała na Jamesa z lekkim zaskoczeniem, nie przerywając marszu. Przez chwilę zastanawiała się nad jego propozycją.
+
+— Naprawdę? — zapytała, po czym uśmiechnęła się ciepło. — To bardzo miłe z twojej strony, James.
+
+Delikatnie ścisnęła jego dłoń.
+
+— Właściwie to całkiem dobry pomysł. Niektórzy pierwszoroczni wciąż mają trudności z odnalezieniem sal, inni boją się zapytać starszych uczniów o pomoc. A przecież nie potrzebujesz odznaki prefekta, żeby komuś coś wyjaśnić.
+
+Po chwili uniosła jednak palec, jakby chciała zaznaczyć coś szczególnie istotnego.
+
+— Tylko pamiętaj, że jeżeli ktoś przyjdzie do ciebie z poważniejszym problemem, na przykład dotyczącym bezpieczeństwa albo zachowania innego ucznia, powinien trafić do prefekta lub nauczyciela. Nie chciałabym, żebyś próbował rozwiązywać wszystko sam.
+
+Zerknęła na niego z ukosa, a w jej głosie pojawiło się rozbawienie.
+
+— I uprzedzam, że jeśli naprawdę zacznę odsyłać do ciebie młodszych uczniów, możesz któregoś dnia odkryć pod drzwiami Slytherinu przestraszonego pierwszorocznego Gryffona z pytaniem o pracę domową.
+
+Zachichotała.
+
+— Chociaż… — dodała po chwili z namysłem. — Myślę, że to mogłoby być nawet dobre. Żeby młodsi uczniowie zobaczyli, że nie każdy Ślizgon jest taki, jak sobie wyobrażają.
+
+Na schodach prowadzących w stronę biblioteki panowała jeszcze cisza. Hermiona poprawiła torbę na ramieniu.
+
+— Wiesz co? Zapamiętam twoją propozycję. I potraktuję ją poważnie.
+
+Uśmiechnęła się nieco przekornie.
+
+— Ale jest pewien warunek, panie Brown. Jeśli przyślę ci kogoś z problemem z eliksirami, nie możesz po prostu powiedzieć mu, że jest beznadziejny, i odesłać go do Snape'a.
+
+Przyjrzała mu się z rozbawieniem.
+
+— Poradzisz sobie z odrobiną cierpliwości?
+
+
+[C13-M0151]
+===== USER =====
+
+-Hermiono sam fakt że pomyślałaś że był bym w stanie zrobić coś takiego...jest bardzo niemiły
+
+
+[C13-M0152]
+===== ASSISTANT =====
+
+Hermiona natychmiast przestała się uśmiechać. Spojrzała na Jamesa, a potem na chwilę spuściła wzrok.
+
+— Och…
+
+Zwolniła kroku, nie puszczając jego dłoni.
+
+— Masz rację, James. Przepraszam.
+
+Przez moment zastanawiała się nad własnymi słowami.
+
+— To miał być żart, ale wyszedł wyjątkowo niesprawiedliwie. Sam przed chwilą zaproponowałeś, że będziesz pomagał młodszym uczniom, a ja odpowiedziałam tak, jakbym podejrzewała cię o wyśmiewanie ich za niewiedzę.
+
+Westchnęła cicho.
+
+— I nie powinnam była tego robić. Zwłaszcza że wiem, jak bardzo nie lubisz, kiedy ktoś ocenia cię wyłącznie przez pryzmat Slytherinu.
+
+Spojrzała mu w oczy.
+
+— Właściwie… to trochę głupie z mojej strony, prawda? Narzekam, kiedy ludzie niesprawiedliwie oceniają innych, a potem sama rzucam takim komentarzem.
+
+Na jej twarzy pojawił się niewielki, zakłopotany uśmiech.
+
+— Nie będę się tłumaczyć, że tylko żartowałam. Widzę, że cię uraziłam.
+
+Delikatnie ścisnęła jego dłoń.
+
+— Naprawdę doceniam twoją propozycję. I jeżeli któryś z młodszych uczniów będzie potrzebował pomocy, chętnie mu powiem, że może się do ciebie zwrócić.
+
+Po chwili dodała ciszej:
+
+— Wybaczysz mi ten niemądry komentarz?
+
+
+[C13-M0153]
+===== USER =====
+
+-Hermiona no co ty tak naprawdę tłumaczenie że tylko żartowałaś by mi wystarczyło....powiedziałem i delikatnie pocałowałem jej policzek -Naprawde to ja powinienem cię przeprosić że nie wychwyciłem tego żartu...
+
+
+[C13-M0154]
+===== ASSISTANT =====
+
+Hermiona zamrugała z zaskoczeniem, a kiedy James pocałował ją w policzek, jej zakłopotanie ustąpiło miejsca rozbawieniu.
+
+— Och, na Merlina… — westchnęła, po czym parsknęła śmiechem. — Czy my właśnie zaczęliśmy się nawzajem przepraszać za to, że jedno z nas nie zrozumiało żartu?
+
+Pokręciła głową, nie przestając iść obok niego.
+
+— Dobrze, przyznaję. Trochę przesadziłam z tą poważną przemową.
+
+Uśmiechnęła się przekornie.
+
+— Ale ty też nie musisz mnie przepraszać. Następnym razem po prostu powiem wyraźniej, że żartuję. Chociaż byłoby miło, gdybyś czasami pamiętał, że twoja dziewczyna również posiada poczucie humoru.
+
+Ścisnęła jego dłoń i po chwili sama wspięła się na palce, żeby pocałować go w policzek.
+
+— No dobrze. Uznajmy sprawę za zamkniętą. Zanim zaczniemy przepraszać za przeprosiny.
+
+Na schodach było jeszcze niemal pusto. Hermiona zerknęła na niesione książki i westchnęła.
+
+— A skoro już mowa o pomaganiu młodszym uczniom… przypomniałeś mi, że sama mam do skończenia wypracowanie z transmutacji.
+
+Spojrzała na Jamesa z ukosa.
+
+— I zanim coś powiesz, tak, wiem. Hermiona Granger, która jeszcze nie skończyła pracy domowej. Proszę, oszczędź mi wykładu.
+
+Nie zdołała powstrzymać uśmiechu.
+
+— Ale wczoraj pewien Ślizgon skutecznie odciągał mnie od nauki.
+
+Zrobiła niewinną minę.
+
+— I, co najgorsze, wcale tego nie żałuję.
+
+
+[C13-M0155]
+===== USER =====
+
+-Czy teraz pewien Ślizgon żeby się odwdzięczyć powinien napisać to wypracowanie za ciebie? spytałem cicho
+
+
+[C13-M0156]
+===== ASSISTANT =====
+
+Hermiona zatrzymała się na jednym ze stopni i spojrzała na Jamesa z wyraźnym niedowierzaniem.
+
+— James Brown, czy ty właśnie zaproponowałeś, że napiszesz za mnie wypracowanie?
+
+Przez chwilę próbowała zachować powagę, ale kąciki jej ust zaczęły drgać.
+
+— Och, kochanie… To naprawdę urocze, że chcesz mi pomóc, ale absolutnie nie!
+
+Pokręciła głową i ruszyła dalej, nadal trzymając go za rękę.
+
+— Po pierwsze, nie zamierzam oddawać profesor McGonagall pracy, której sama nie napisałam. Po drugie, transmutacja to jeden z moich ulubionych przedmiotów. A po trzecie…
+
+Zerknęła na niego z figlarnym uśmiechem.
+
+— Naprawdę sądzisz, że potrafiłabym siedzieć spokojnie, wiedząc, że ktoś inny pisze moje wypracowanie? Przecież po pięciu minutach zaczęłabym poprawiać ci każde drugie zdanie!
+
+Roześmiała się, po czym delikatnie ścisnęła jego dłoń.
+
+— Ale jeśli koniecznie chcesz się odwdzięczyć, możesz usiąść obok mnie w bibliotece. Będziesz mógł wysłuchać mojego planu wypracowania i powiedzieć, czy argumenty są przekonujące.
+
+Na moment się zamyśliła.
+
+— A właściwie… — uniosła brew. — To zabawne. Mam chłopaka, który dobrowolnie proponuje pisanie za mnie prac domowych, a ja próbuję go przekonać, żeby zamiast tego po prostu dotrzymał mi towarzystwa.
+
+Nachyliła się odrobinę bliżej.
+
+— Wczorajszy wieczór był wart jednego niedokończonego wypracowania, James. Nie musisz mi go w żaden sposób wynagradzać.
+
+Po chwili dodała ciszej, z rozbawieniem:
+
+— Chociaż możesz mi obiecać, że kiedy już zacznę pisać, nie będziesz mnie co chwilę całował. Bo wtedy naprawdę nie skończę przed śniadaniem.
+
+
+[C13-M0157]
+===== USER =====
+
+-Dobrze to po prostu tak jak ostatnio oprę głowę o twoje ramię dam ci pisać a jak skończysz to zaniosę cię na lekcje?
+
+
+[C13-M0158]
+===== ASSISTANT =====
+
+Hermiona roześmiała się cicho i spojrzała na Jamesa z rozbawieniem.
+
+— Czyli proponujesz, żebym ja pisała, ty wygodnie opierał głowę na moim ramieniu, a potem jeszcze będziesz mnie nosił po zamku?
+
+Pokręciła głową, choć nie przestała się uśmiechać.
+
+— Wiesz, James, zaczynam podejrzewać, że najbardziej podoba ci się ta część naszej porannej nauki, która w ogóle nie wymaga otwierania podręcznika.
+
+Delikatnie ścisnęła jego dłoń.
+
+— Ale dobrze. Możesz oprzeć głowę na moim ramieniu. Tak jak dawniej. Przyznam, że nawet trochę mi tego brakowało.
+
+Po chwili uniosła jednak brew.
+
+— Natomiast z tym noszeniem na lekcje… zobaczymy.
+
+Jej uśmiech stał się bardziej przekorny.
+
+— Pamiętam przecież, że zdarzało ci się już nosić mnie przez Hogwart. I pamiętam też, ile spojrzeń potrafiliśmy tym przyciągnąć!
+
+Zachichotała.
+
+— Więc jeśli po napisaniu wypracowania nadal będziesz miał ochotę, możesz mnie zapytać. Ale nie obiecuję, że zgodzę się urządzić przedstawienie przed całą klasą.
+
+Zbliżali się już do biblioteki. Hermiona zerknęła na trzymane pod pachą książki, a potem ponownie na Jamesa.
+
+— A tak właściwie… — zaczęła ciszej, z ciepłym uśmiechem. — Lubię te nasze poranki. Nawet kiedy prawie nie rozmawiamy, bo ja piszę, a ty odpoczywasz przy mnie.
+
+Na moment przysunęła się bliżej.
+
+— Tylko uprzedzam, że jeśli zaśniesz mi na ramieniu, nie zamierzam cię budzić po to, żebyś zaniósł mnie na lekcje. Wtedy będziesz musiał zadowolić się tym, że sama tam pójdę.
+
+Zaśmiała się lekko, wyraźnie zadowolona ze swojego żartu.
+
+
+[C13-M0159]
+===== USER =====
+
+a no tak....bo to dzisiaj zaczynasz numerologią?
+
+
+[C13-M0160]
+===== ASSISTANT =====
+
+Hermiona spojrzała na Jamesa z lekkim rozbawieniem.
+
+— Nie, kochanie. Numerologią zaczynam w środy, a dzisiaj jest czwartek.
+
+Poprawiła torbę na ramieniu.
+
+— Dzisiaj zaczynamy od Eliksirów. Potem mamy Zaklęcia, a ja jeszcze Obronę przed Czarną Magią i Numerologię.
+
+Westchnęła cicho.
+
+— Zdecydowanie wolałabym zaczynać dzień od Numerologii niż od profesora Snape'a.
+
+Po chwili uśmiechnęła się przekornie.
+
+— Ale skoro już pomyliłeś mój plan lekcji, zaczynam podejrzewać, że powinieneś jednak zajrzeć do własnego, panie Brown.
+
+Delikatnie ścisnęła jego dłoń.
+
+— Chociaż właściwie to dobrze się składa. Skoro oboje zaczynamy od Eliksirów, możemy po śniadaniu pójść na lekcję razem.
+
+Zerknęła w stronę biblioteki, do której właśnie się zbliżali.
+
+— A teraz mam jeszcze prawie dwie godziny, żeby skończyć wypracowanie. O ile oczywiście mój ukochany Ślizgon dotrzyma obietnicy i pozwoli mi pisać.
+
+
+[C13-M0161]
+===== USER =====
+
+(czat wrzuć mi tutaj plany lekcji musimy je trochę zmienić)
+
+
+[C13-M0162]
+===== ASSISTANT =====
+
+Jasne! Poniżej masz obecne plany lekcji Jamesa Browna i Hermiony Granger na V roku w Hogwarcie, dokładnie według pliku 12_PLAN_LEKCJI.md, ustalonego w części 12 naszej kampanii.
+
+Na razie niczego nie zmieniam — najpierw zobaczmy, co chcemy poprawić.
+
+ Plan lekcji Jamesa Browna
+
+V rok · Slytherin
+
+Dzień
+
+	
+
+Lekcje
+
+
+
+
+Poniedziałek
+
+	
+
+Historia Magii → przerwa → podwójne Eliksiry → obiad → Runy → podwójna Obrona
+
+
+
+
+Wtorek
+
+	
+
+Podwójne Zaklęcia → przerwa → podwójna Transmutacja → obiad → Opieka nad Magicznymi Stworzeniami → Zielarstwo
+
+
+
+
+Środa
+
+	
+
+Nauka własna → Transmutacja → obiad → podwójne Zielarstwo → Opieka nad Magicznymi Stworzeniami → Astronomia (wieczorem)
+
+
+
+
+Czwartek
+
+	
+
+Eliksiry → Zaklęcia → przerwa → Historia Magii → obiad → Obrona → nauka własna
+
+
+
+
+Piątek
+
+	
+
+Podwójne Runy → Transmutacja → obiad → Zaklęcia → wolny blok
+
+ Plan lekcji Hermiony Granger
+
+V rok · Gryffindor · prefektka
+
+Dzień
+
+	
+
+Lekcje
+
+
+
+
+Poniedziałek
+
+	
+
+Historia Magii → podwójne Eliksiry → obiad → Runy → podwójna Obrona
+
+
+
+
+Wtorek
+
+	
+
+Podwójne Zaklęcia → podwójna Transmutacja → obiad → Opieka nad Magicznymi Stworzeniami → Zielarstwo
+
+
+
+
+Środa
+
+	
+
+Numerologia → Transmutacja → obiad → podwójne Zielarstwo → Opieka nad Magicznymi Stworzeniami → Astronomia (wieczorem)
+
+
+
+
+Czwartek
+
+	
+
+Eliksiry → Zaklęcia → obiad → Obrona → Numerologia
+
+
+
+
+Piątek
+
+	
+
+Podwójne Runy → Historia Magii → obiad → podwójna Numerologia
+
+Co warto poprawić?
+
+W zapisanym planie widzę kilka kwestii wymagających uzgodnienia:
+
+Czwartek: James ma Historię Magii przed obiadem, a Hermiona ma w tym miejscu nieokreślony wolny blok. Po obiedzie Hermiona idzie na Numerologię, James na naukę własną.
+
+Piątek: po wspólnych podwójnych Runach ich plany znacząco się rozchodzą. Nie mamy jeszcze jednoznacznie ustalonego rozkładu godzin.
+
+Przerwy i okienka: są wpisane nierówno — James ma część z nich wyraźnie zaznaczoną, a Hermiona nie.
+
+Godziny lekcji: zapis określa kolejność zajęć, ale nie zawiera konkretnych godzin rozpoczęcia i zakończenia.
+
+Ważne: Numerologia i Starożytne Runy są już ustalonymi przedmiotami bohaterów. Nie będziemy ponownie wybierać im fakultetów.
+
+Możemy teraz wspólnie przebudować te plany, zachowując dotychczasowe wydarzenia kampanii.
+
+Od czego chcesz zacząć — od zmian poszczególnych dni czy od ustalenia dokładnych godzin lekcji, przerw i obiadu?
+
+
+[C13-M0163]
+===== USER =====
+
+(zmień czwartek i piątek tak żeby mieli jakby to samo nie mówię żebyś dopisywał zajęcia których ktoś nie powinien mieć ale wiesz o co chodzi?)
+
+
+[C13-M0164]
+===== ASSISTANT =====
+
+Tak, rozumiem. Chodzi Ci o to, żeby James i Hermiona mieli jak najwięcej wspólnych lekcji o tych samych porach, a kiedy ich przedmioty się różnią, żeby zajęcia odbywały się równolegle.
+
+Nie będziemy dopisywać nikomu nowych przedmiotów ani zwiększać liczby lekcji w tygodniu.
+
+Najprościej zamienić Jamesowi miejscami Historię Magii z czwartku i Transmutację z piątku. Dzięki temu w piątek oboje będą mieli Historię Magii razem, a w czwartek ich pozostałe wspólne zajęcia nadal będą się pokrywać.
+
+Nowy czwartek
+
+Kolejność
+
+	
+
+James
+
+	
+
+Hermiona
+
+
+
+
+1
+
+	
+
+Eliksiry
+
+	
+
+Eliksiry
+
+
+
+
+2
+
+	
+
+Zaklęcia
+
+	
+
+Zaklęcia
+
+
+
+
+Przerwa
+
+	
+
+Przerwa
+
+	
+
+Przerwa
+
+
+
+
+3
+
+	
+
+Transmutacja
+
+	
+
+Nauka własna
+
+
+
+
+Obiad
+
+	
+
+Obiad
+
+	
+
+Obiad
+
+
+
+
+4
+
+	
+
+Obrona
+
+	
+
+Obrona
+
+
+
+
+5
+
+	
+
+Nauka własna
+
+	
+
+Numerologia
+
+Nowy piątek
+
+Kolejność
+
+	
+
+James
+
+	
+
+Hermiona
+
+
+
+
+1–2
+
+	
+
+Podwójne Runy
+
+	
+
+Podwójne Runy
+
+
+
+
+3
+
+	
+
+Historia Magii
+
+	
+
+Historia Magii
+
+
+
+
+Obiad
+
+	
+
+Obiad
+
+	
+
+Obiad
+
+
+
+
+4
+
+	
+
+Zaklęcia
+
+	
+
+Numerologia
+
+
+
+
+5
+
+	
+
+Wolny blok
+
+	
+
+Numerologia
+
+Pogrubione przedmioty oznaczają wspólne lekcje.
+
+W ten sposób:
+
+W czwartek mają trzy wspólne lekcje.
+
+W piątek mają wspólne podwójne Runy i Historię Magii.
+
+Nie zmieniamy liczby lekcji ani zestawu przedmiotów żadnej postaci.
+
+Poniedziałek, wtorek i środa pozostają bez zmian.
+
+Przygotowałem też kompletny plik z nowym planem:
+
+Pobierz zaktualizowany plan lekcji
+
+To jest teraz przyjęta korekta harmonogramu na potrzeby dalszej rozgrywki. Plik projektu nie został automatycznie zastąpiony — przygotowałem jego nową wersję do podmiany.
+
+
+[C13-M0165]
+===== USER =====
+
+(nie nie nie...nie mogę mieć zwykłej lekcji gdy Hermiona ma fakultet i na odwrót)
+
+
+[C13-M0166]
+===== ASSISTANT =====
+
+Masz rację. To był mój błąd przy układaniu planu.
+
+Sprawdziłem oryginalne ustalenia z części 12 (C12-M0662 i C12-M0674). James miał tam cztery lekcje Transmutacji i cztery Zaklęć tygodniowo, podczas gdy Hermiona miała po trzy. Przeoczyłem tę rozbieżność i zamiast ją poprawić, poprzesuwałem dodatkowe zajęcia.
+
+Poprawiamy to tak, żeby wszystkie zwykłe lekcje odbywali razem. Kiedy Hermiona ma Numerologię, James ma wolne.
+
+Czwartek — poprawiony
+
+Blok
+
+	
+
+James
+
+	
+
+Hermiona
+
+
+
+
+1
+
+	
+
+Eliksiry
+
+	
+
+Eliksiry
+
+
+
+
+2
+
+	
+
+Zaklęcia
+
+	
+
+Zaklęcia
+
+
+
+
+Przerwa
+
+	
+
+Wolne
+
+	
+
+Wolne
+
+
+
+
+Obiad
+
+	
+
+Obiad
+
+	
+
+Obiad
+
+
+
+
+3
+
+	
+
+Obrona
+
+	
+
+Obrona
+
+
+
+
+4
+
+	
+
+Wolne
+
+	
+
+Numerologia
+
+Piątek — poprawiony
+
+Blok
+
+	
+
+James
+
+	
+
+Hermiona
+
+
+
+
+1–2
+
+	
+
+Podwójne Runy
+
+	
+
+Podwójne Runy
+
+
+
+
+3
+
+	
+
+Historia Magii
+
+	
+
+Historia Magii
+
+
+
+
+Obiad
+
+	
+
+Obiad
+
+	
+
+Obiad
+
+
+
+
+4–5
+
+	
+
+Wolne
+
+	
+
+Podwójna Numerologia
+
+Teraz przez cały tydzień oboje mają po trzy bloki Zaklęć i Transmutacji, bez żadnych dodatkowych godzin dla Jamesa.
+
+Poniedziałek, wtorek i środa pozostają bez zmian. James nadal chodzi na Runy i Opiekę nad Magicznymi Stworzeniami, ale nie na Numerologię.
+
+Przygotowałem poprawny pełny plan:
+
+ Pobierz poprawiony plan lekcji
+
+To tę wersję przyjmujemy do dalszej historii. Nie podmieniłem jeszcze oryginalnego pliku projektu ani pliku na GitHubie.
+
+12_PLAN_LEKCJI_KOREKTA_CZW_PT.md
+Dokument
+
+
+[C13-M0167]
+===== USER =====
+
+(ok usuń jeszcze tą przerwę z czwartku i git )
+
+
+[C13-M0168]
+===== ASSISTANT =====
+
+Gotowe! Usunąłem przerwę z czwartku. Reszta planu pozostaje bez zmian.
+
+Czwartek — ostateczna wersja
+
+Blok
+
+	
+
+James
+
+	
+
+Hermiona
+
+
+
+
+1
+
+	
+
+Eliksiry
+
+	
+
+Eliksiry
+
+
+
+
+2
+
+	
+
+Zaklęcia
+
+	
+
+Zaklęcia
+
+
+
+
+Obiad
+
+	
+
+Obiad
+
+	
+
+Obiad
+
+
+
+
+3
+
+	
+
+Obrona przed Czarną Magią
+
+	
+
+Obrona przed Czarną Magią
+
+
+
+
+4
+
+	
+
+Wolne
+
+	
+
+Numerologia
+
+Przyjmujemy ten plan jako obowiązujący w kampanii. Poniedziałek, wtorek, środa i piątek pozostają zgodne z ostatnią korektą.
+
+ Pobierz ostateczny plan lekcji
+
+Możemy wracać do RPG — James i Hermiona idą właśnie razem do biblioteki, około szóstej rano.
+
+12_PLAN_LEKCJI_FINAL.md
+Dokument
+
+
+[C13-M0169]
+===== USER =====
+
+ok wrzuć teraz cały poprawiony plan na githuba wymieniając stary
+
+
+[C13-M0170]
+===== ASSISTANT =====
+
+Zaktualizowano na GitHubie
+
+Gotowe! Zastąpiłem stary plan lekcji pełną, poprawioną wersją w Twoim repozytorium RPG-Archiwum.
+
+Zobacz zaktualizowany plan lekcji na GitHubie
+
+Co zostało uwzględnione?
+
+Poniedziałek, wtorek i środa zachowane bez zmian.
+
+Czwartek bez dodatkowej przerwy.
+
+Piątek ze wspólnymi Runami i Historią Magii.
+
+Wszystkie wspólne przedmioty odbywają się jednocześnie.
+
+Podczas Numerologii Hermiony James ma czas wolny.
+
+Bez dodatkowych lekcji Transmutacji i Zaklęć.
+
+Zweryfikowałem zapis na GitHubie. Zmiana została zatwierdzona w gałęzi main.
+
+Commit: 26e5203a177296ef72f6461e425c540ff3d1e22c
+
+Pozostałe pliki repozytorium nie zostały zmienione. Możemy kontynuować RPG według nowego planu.
+
+
+[C13-M0171]
+===== USER =====
+
+gdy byliśmy już w bibliotece zająłem miejsce obok niej i oparłem głowę o jej ramię ale nie zamknąłem oczu
+
+
+[C13-M0172]
+===== ASSISTANT =====
+
+Biblioteka o tej porze była niemal pusta. Przez wysokie okna wpadało blade światło poranka, a między regałami panowała przyjemna cisza.
+
+Hermiona zajęła miejsce przy stole pod oknem. Ostrożnie odłożyła książki, wyjęła pergamin, kałamarz i pióro, po czym otworzyła podręcznik do transmutacji.
+
+Kiedy James oparł głowę na jej ramieniu, uśmiechnęła się pod nosem.
+
+— No dobrze, panie Brown. Umowa to umowa — szepnęła. — Ty odpoczywasz, ja piszę.
+
+Zerknęła na niego kątem oka i zauważyła, że wcale nie zamknął oczu.
+
+— Och, czyli dzisiaj będziesz nadzorował moją pracę? — dodała z rozbawieniem.
+
+Ułożyła pergamin nieco bliżej siebie, żeby nie musieć poruszać ramieniem, na którym spoczywała jego głowa.
+
+Przez następnych kilka minut rzeczywiście skupiła się na wypracowaniu. Słychać było jedynie cichy szelest przewracanych stron i skrobanie pióra.
+
+W pewnej chwili zatrzymała się, zmarszczyła brwi i skreśliła fragment zdania.
+
+— Nie, to nieprecyzyjne… — mruknęła bardziej do siebie niż do Jamesa.
+
+Przejrzała odpowiedni ustęp podręcznika i poprawiła zapis.
+
+Po kolejnej chwili, nie odrywając wzroku od pergaminu, odezwała się cichutko:
+
+— Wiesz, James, muszę przyznać, że całkiem dobrze mi się tak pracuje.
+
+Uśmiechnęła się lekko.
+
+— Tylko nie wykorzystuj tego przeciwko mnie. Jeszcze uznasz, że powinieneś codziennie zajmować moje ramię.
+
+Nie czekając na odpowiedź, wróciła do pisania. Jej wolna dłoń spoczęła na stole tuż obok dłoni Jamesa, a co jakiś czas delikatnie muskała jego palce.
+
+Nie próbowała go zagadywać. Zależało jej na skończeniu pracy, ale najwyraźniej jego obecność wcale jej w tym nie przeszkadzała.
+
+
+[C13-M0173]
+===== USER =====
+
+spokojnie obserwowałem jej pisanie a gdy zobaczyłem że już prawie kończy obróciłem głowę i szepnąłem jej do ucha -Panno Granger jeszcze tego dzisiaj nie mówiłem ale jest Pani bardzo bardzo mądra...
+
+
+[C13-M0174]
+===== ASSISTANT =====
+
+Pióro Hermiony zatrzymało się w połowie ostatniego zdania.
+
+Przez moment siedziała nieruchomo, po czym powoli odwróciła głowę w stronę Jamesa. Jego usta znajdowały się tak blisko jej ucha, że nie mogła powstrzymać uśmiechu.
+
+— Doprawdy, panie Brown? — wyszeptała. — A ja właśnie zaczynałam podejrzewać, że przez całe wypracowanie nie odezwie się pan ani słowem.
+
+Delikatnie oparła policzek o jego włosy.
+
+— Ale… dziękuję, kochanie. To bardzo miłe.
+
+Zerknęła na pergamin.
+
+— Chociaż muszę zauważyć, że wybrałeś wyjątkowo dogodny moment na pochwałę. Zostały mi dosłownie dwa zdania.
+
+Dopisała kilka słów, postawiła kropkę i odłożyła pióro.
+
+— Gotowe!
+
+Przez chwilę z zadowoleniem przyglądała się ukończonej pracy, po czym spojrzała na Jamesa z przekornym uśmiechem.
+
+— No dobrze. Skoro już skończyłam, mogę wreszcie poświęcić ci całą uwagę.
+
+Pochyliła się odrobinę, jakby chciała pocałować go w policzek, ale w ostatniej chwili zatrzymała się i zerknęła między regały.
+
+— Tylko cicho. Jeśli pani Pince przyłapie nas na szeptaniu, zaraz wygłosi nam wykład o właściwym zachowaniu w bibliotece.
+
+Jej palce odnalazły pod stołem dłoń Jamesa i delikatnie ją ścisnęły.
+
+— A skoro już mowa o mądrości… — dodała jeszcze ciszej. — Uważam, że całkiem mądrze wybrałam sobie chłopaka. Choć czasami bywa nieznośny.
+
+Uśmiechnęła się szerzej.
+
+— I nie, nie zamierzam zdradzić, kogo mam na myśli.
+
+
+[C13-M0175]
+===== USER =====
+
+przewróciłem oczami a wróciłem do jej ucha ale zamiast szeptać teraz zacząłem delakatnie ją po nim całować
+
+
+[C13-M0176]
+===== ASSISTANT =====
+
+Hermiona drgnęła lekko, kiedy poczuła pierwszy pocałunek przy uchu. Przez chwilę siedziała zaskoczona, po czym przygryzła wargę, próbując powstrzymać śmiech.
+
+— James…! — wyszeptała ostrzegawczo, ale w jej głosie wyraźnie pobrzmiewało rozbawienie.
+
+Przechyliła nieco głowę, po czym delikatnie położyła dłoń na jego policzku.
+
+— Ty naprawdę nie potrafisz się powstrzymać, prawda?
+
+Już miała powiedzieć coś więcej, gdy spomiędzy regałów dobiegł charakterystyczny odgłos skrzypiących butów.
+
+Hermiona natychmiast wyprostowała się na krześle i spojrzała w stronę alejki.
+
+Pani Pince właśnie przechodziła między półkami, przyglądając się podejrzliwie stolikom. Na szczęście była jeszcze zbyt daleko, by dostrzec, co przed chwilą działo się przy ich stole.
+
+Hermiona odczekała, aż bibliotekarka się oddali, i ponownie nachyliła się ku Jamesowi.
+
+— Wiesz, że przez ciebie pewnego dnia naprawdę nas stąd wyrzucą? — szepnęła, ledwie powstrzymując kolejny śmiech.
+
+Musnęła ustami jego policzek.
+
+— I pomyśleć, że jeszcze niedawno uważałam bibliotekę za miejsce, w którym nic nie jest w stanie odciągnąć mnie od nauki…
+
+Spojrzała na ukończone wypracowanie, a potem znów na Jamesa.
+
+— Na szczęście zdążyłam postawić ostatnią kropkę, zanim rozpocząłeś ten swój podstępny atak.
+
+Jej palce pozostały na jego policzku.
+
+— Przyznaj się, Brown. Robisz to specjalnie, żeby zobaczyć, jak długo wytrzymam, zanim zacznę się śmiać, prawda?
+
+
+[C13-M0177]
+===== USER =====
+
+-Nie.....chodzi o to że.... bardzo cię kocham i czasmi sobie myślę że niektórych części twojego ciała nie całowałem i na pewno im trochę smutno....
+
+
+[C13-M0178]
+===== ASSISTANT =====
+
+Hermiona przez chwilę wpatrywała się w Jamesa, po czym przycisnęła palce do ust, żeby stłumić śmiech.
+
+— Och, James… — wyszeptała. — Czy ty właśnie próbujesz przekonać mnie, że całujesz mnie z troski o dobre samopoczucie poszczególnych części mojego ciała?
+
+Uniosła brew.
+
+— To doprawdy niezwykle szlachetne z twojej strony.
+
+Nie wytrzymała i zachichotała, ale zaraz zerknęła w stronę regałów, upewniając się, że pani Pince nie nadchodzi.
+
+— Obawiam się jednak, panie Brown, że moje ucho nie ma własnych uczuć. A przynajmniej nic mi o tym nie wiadomo.
+
+Delikatnie ujęła jego twarz w dłonie.
+
+— Za to ja mam. I bardzo lubię, kiedy okazujesz mi czułość.
+
+Pocałowała go krótko w usta, po czym odsunęła się z przekornym uśmiechem.
+
+— Ale myślę, że na razie policzki, usta i czoło są całkowicie zadowolone. Reszta niech cierpliwie czeka.
+
+Zaczęła zwijać ukończone wypracowanie.
+
+— A teraz, mój ukochany obrońco smutnych części ciała, może pomożesz mi schować książki? Bo jeśli pani Pince przyłapie nas na kolejnych pocałunkach, to cała ja będę bardzo niezadowolona z utraty dostępu do biblioteki.
+
+Uśmiechnęła się do niego jeszcze raz.
+
+— Chociaż muszę przyznać, że twoja argumentacja jest coraz bardziej pomysłowa.
+
+
+[C13-M0179]
+===== USER =====
+
+rzeczywiście zacząłem pakować jej książki - A czy mogę przy śniadaniu cię trochę wycałować?
+
+
+[C13-M0180]
+===== ASSISTANT =====
+
+Hermiona przytrzymała torbę, żeby James mógł wygodnie ułożyć w niej ostatnie książki. Na jego pytanie uniosła brwi, a po chwili uśmiechnęła się szeroko.
+
+— Przy śniadaniu? — powtórzyła z rozbawieniem. — James, zamierzasz mnie całować między jednym kęsem owsianki a drugim?
+
+Zachichotała cicho, pamiętając jednak, że nadal znajdują się w bibliotece.
+
+— No dobrze. Możesz mnie trochę wycałować — odpowiedziała, zerkając na niego z ukosa. — Ale naprawdę tylko trochę. Chciałabym też zdążyć coś zjeść.
+
+Zapięła torbę i przesunęła dłonią po jego ramieniu.
+
+— I wolałabym, żebyśmy nie urządzali wielkiego przedstawienia przed całą Wielką Salą. Kilka pocałunków mi nie przeszkadza, ale nie zamierzam siedzieć na twoich kolanach przez całe śniadanie.
+
+Zawahała się na moment, a potem dodała z przekornym błyskiem w oczach:
+
+— Chociaż przyznaję, że czasami sama mam ochotę cię pocałować, zupełnie nie przejmując się tym, kto patrzy.
+
+Pochyliła się i musnęła ustami jego policzek.
+
+— A teraz mam pytanie do pana, panie Brown.
+
+Uśmiechnęła się niewinnie.
+
+— Czy zamierza pan również zjeść śniadanie, czy może znów uzna, że kawa jest wystarczająco pożywnym posiłkiem?
+
+
+[C13-M0181]
+===== USER =====
+
+-najpierw bardzo wycałuje moją ukochaną a potem dopiero coś zjem....
+
+
+[C13-M0182]
+===== ASSISTANT =====
+
+Hermiona roześmiała się cicho, po czym pokręciła głową z rozbawieniem.
+
+— Och, James Brown… Naprawdę masz bardzo interesująco poukładane priorytety.
+
+Przysunęła się do niego i delikatnie poprawiła jego bordowo-złoty krawat.
+
+— Najpierw dziewczyna, potem jedzenie. Przyznaję, że brzmi to romantycznie, ale zaczynam się zastanawiać, czy przypadkiem nie powinnam być zazdrosna o śniadanie. W końcu ono dostanie twoją uwagę dopiero po mnie!
+
+Zachichotała, po czym wspięła się lekko na palce i pocałowała go w usta.
+
+— Proszę. To zaliczka.
+
+Odsunęła się z figlarnym uśmiechem i zarzuciła torbę na ramię.
+
+— A resztę możesz odebrać przy śniadaniu. Tylko pamiętaj, że zamierzam również porozmawiać z Harrym i Ronem. Nie widziałam ich jeszcze dzisiaj.
+
+Po chwili zerknęła na niego z ukosa.
+
+— I, James… — dodała słodkim głosem. — Jeśli będziesz mnie całował tak długo, że wystygną mi grzanki, to tym razem naprawdę się obrażę.
+
+Wyciągnęła do niego dłoń.
+
+— Chodź, kochanie. Zanim pani Pince uzna, że skończyliśmy już z nauką i możemy opuścić jej bibliotekę.
+
+
+[C13-M0183]
+===== USER =====
+
+złapałem ją za rękę i dałem się poprowadzić
+
+
+[C13-M0184]
+===== ASSISTANT =====
+
+Hermiona splotła palce z palcami Jamesa i poprowadziła go ku wyjściu z biblioteki.
+
+— Do widzenia, pani Pince — powiedziała uprzejmie, mijając biurko bibliotekarki.
+
+Pani Pince uniosła wzrok znad książki, obrzuciła ich podejrzliwym spojrzeniem, a następnie wróciła do lektury.
+
+Dopiero za drzwiami Hermiona pozwoliła sobie na cichy śmiech.
+
+— Widziałeś, jak na nas patrzyła? Jestem prawie pewna, że coś podejrzewa.
+
+Schodząc po schodach, poprawiła torbę na ramieniu. Zamek powoli budził się do życia. Mijali pojedynczych uczniów zmierzających na śniadanie, a przez wysokie okna wpadało coraz więcej porannego światła.
+
+— A tak właściwie… — Hermiona zerknęła na Jamesa. — Dziękuję, że dotrzymałeś mi towarzystwa. Naprawdę dobrze mi się przy tobie pisało.
+
+Uśmiechnęła się.
+
+— Nawet jeśli pod koniec postanowiłeś zainteresować się moimi uszami.
+
+Po chwili dotarli do Wielkiej Sali.
+
+Przy czterech długich stołach siedziało już trochę uczniów. Większość dopiero rozpoczynała śniadanie. Nad głowami unosiły się świece, a zaczarowany sufit ukazywał blade, poranne niebo.
+
+Hermiona skierowała się ku stołowi Gryffindoru. Harry'ego i Rona nie było jeszcze wśród siedzących tam uczniów.
+
+Zatrzymała się przy wolnych miejscach nieco dalej od największej grupy pierwszorocznych i odłożyła torbę na ławę.
+
+— No dobrze, panie Brown… — odezwała się ciszej, odwracając się ku Jamesowi z rozbawieniem. — Zdaje się, że obiecałam panu coś przed śniadaniem.
+
+Rozejrzała się przelotnie po sali, po czym ponownie spojrzała na niego.
+
+— Tylko przypominam: kilka pocałunków, a potem jedzenie.
+
+Uniosła lekko brwi.
+
+— I proszę nie próbować negocjować znaczenia słowa „kilka”. Znam cię już wystarczająco dobrze.
+
+Nie usiadła jeszcze. Zamiast tego uśmiechnęła się do niego i delikatnie ścisnęła jego dłoń.
+
+— No? — zapytała szeptem, z figlarną nutą. — Zamierzasz wyegzekwować swoją obiecaną nagrodę, czy mam sama cię pocałować?
+
+
+[C13-M0185]
+===== USER =====
+
+stojąc przy stole objąłem ją w talli i mocno przytuliłem -ależ ta moja kochana Hermiona jest niecierpliwa....powiedziałem i połączyłem nasze usta w bardzo długim delikatnnym pocałunku przerywanym tylko na oddechy
+
+
+[C13-M0186]
+===== ASSISTANT =====
+
+Hermiona odpowiedziała na pocałunek niemal natychmiast. Jej dłonie spoczęły na ramionach Jamesa, a po chwili jedna z nich przesunęła się na jego policzek.
+
+Początkowo zamierzała odwzajemnić tylko kilka krótkich pocałunków, zgodnie z tym, co wcześniej ustalili. Jednak kiedy ich usta ponownie się spotkały, sama przestała się spieszyć.
+
+Przez dłuższą chwilę całowała go czule, nie zwracając uwagi na rozmowy toczące się przy sąsiednich miejscach.
+
+— Hm… — mruknęła cichutko podczas jednej z krótkich przerw.
+
+Jej palce delikatnie zacisnęły się na materiale jego szaty.
+
+Dopiero kiedy gdzieś niedaleko rozległ się stłumiony chichot dwóch Gryfonek, Hermiona przypomniała sobie, że stoją pośrodku Wielkiej Sali.
+
+Powoli odsunęła usta, ale nie wyplątała się z objęć Jamesa.
+
+— James… — wyszeptała, usiłując przybrać surowy ton, choć uśmiech skutecznie jej to utrudniał. — Obawiam się, że zupełnie straciliśmy poczucie czasu.
+
+Zerknęła na pobliskich uczniów, po czym wróciła spojrzeniem do jego twarzy.
+
+— I zanim coś powiesz… tak, wiem. Sama cię całowałam.
+
+Zachichotała.
+
+— Ale obiecałeś, że po wycałowaniu swojej ukochanej zjesz śniadanie. A ja zamierzam dopilnować, żebyś dotrzymał słowa.
+
+Pogładziła kciukiem jego policzek i złożyła na jego ustach jeszcze jeden, znacznie krótszy pocałunek.
+
+— Kocham cię — dodała cicho.
+
+Wreszcie rozluźniła objęcia i spojrzała na zastawiony jedzeniem stół.
+
+— A teraz siadajmy, zanim ktoś z naszych kolegów postanowi skomentować to przedstawienie.
+
+Na jej policzkach wciąż utrzymywał się wyraźny rumieniec. Mimo to, kiedy usiadła na ławie, zostawiła obok siebie miejsce dla Jamesa.
+
+
+[C13-M0187]
+===== USER =====
+
+ja stanąłem za nią i delikatnie położyłem ręce na jej ramionach i zacząłem cichym tonem - Ale ....to był dopiero pierwszy....
+
+
+[C13-M0188]
+===== ASSISTANT =====
+
+Hermiona, która właśnie sięgała po dzbanek z sokiem dyniowym, zatrzymała dłoń w połowie ruchu.
+
+— Pierwszy…? — powtórzyła, unosząc brwi.
+
+Odwróciła lekko głowę, żeby spojrzeć na Jamesa stojącego za nią.
+
+— James Brown, czy ty próbujesz mi powiedzieć, że ten jeden, wyjątkowo długi pocałunek był dopiero początkiem?
+
+Na jej twarzy pojawił się rozbawiony uśmiech.
+
+— Przypominam, że ustaliliśmy kilka pocałunków, a nie kilka godzin całowania!
+
+Położyła dłoń na jednej z jego rąk spoczywających na jej ramionach.
+
+— Poza tym, jeśli ten był pierwszy, to trochę się obawiam, ile zamierzasz poświęcić czasu na drugi.
+
+Zachichotała, ale zamiast od razu wrócić do śniadania, odchyliła głowę odrobinę do tyłu.
+
+— Chociaż… — dodała ciszej, z przekornym uśmiechem. — Przyznaję, że ten pierwszy był naprawdę przyjemny.
+
+Delikatnie pogładziła jego dłoń.
+
+— No dobrze, kochanie. To ile właściwie tych pocałunków zaplanowałeś? Bo zaczynam podejrzewać, że powinnam była poprosić o harmonogram na piśmie.
+
+Zaśmiała się cicho.
+
+— I uprzedzam, że nie zgodzę się na dopisek „liczba nieograniczona” drobnym drukiem!
+
+
+[C13-M0189]
+===== USER =====
+
+-Dziesięć?
+
+
+[C13-M0190]
+===== ASSISTANT =====
+
+Hermiona spojrzała na Jamesa przez ramię, a następnie powoli uniosła brwi.
+
+— Dziesięć?! — powtórzyła z niedowierzaniem, choć jej usta już układały się w uśmiech. — James, ty naprawdę przyszedłeś na śniadanie z zamiarem przeprowadzenia całej serii pocałunków?
+
+Zerknęła na talerz, na którym wciąż nie było ani jednej grzanki.
+
+— I oczywiście zamierzasz je wszystkie wykonać, zanim cokolwiek zjesz…
+
+Przez chwilę wyglądała, jakby właśnie rozważała wyjątkowo skomplikowane zadanie z numerologii.
+
+— Hm. Dziesięć to zdecydowanie więcej niż kilka.
+
+Delikatnie pogładziła jedną z jego dłoni spoczywających na jej ramionach.
+
+— Proponuję kompromis. Jeszcze dwa teraz, a później zjadamy śniadanie. Resztę możesz spróbować wynegocjować po lekcjach.
+
+Zachichotała i dodała ciszej:
+
+— Chociaż muszę przyznać, że podoba mi się twoja determinacja, panie Brown.
+
+Odwróciła się nieco bardziej w jego stronę i uniosła twarz.
+
+— No dobrze. Skoro już prowadzimy negocjacje… — szepnęła z przekornym uśmiechem. — To może pierwszy z tych dwóch pocałunków dostanę od razu?
+
+Po chwili dodała szybko:
+
+— I nie próbuj twierdzić, że jeden pocałunek trwający dziesięć minut nadal liczy się jako jeden. Wiem, do czego jesteś zdolny!
+
+
+[C13-M0191]
+===== USER =====
+
+-liczy się jako jeden powiedziałem i znowu zacząłem nasze usta w bardzo długim delkatnym pocałunku przerywanym tylko na oddech
+
+
+[C13-M0192]
+===== ASSISTANT =====
+
+Hermiona zdążyła jedynie przewrócić oczami, zanim James ponownie ją pocałował.
+
+Odwzajemniła pocałunek, obejmując go za szyję. Początkowo zamierzała zakończyć go dość szybko, ale sama kilkakrotnie wracała do jego ust podczas krótkich przerw na oddech.
+
+W końcu jednak delikatnie położyła dłonie na jego policzkach i odsunęła się odrobinę.
+
+— James… — wyszeptała, próbując zachować powagę. — Zaczynam podejrzewać, że popełniłam poważny błąd, nie określając maksymalnego czasu trwania pojedynczego pocałunku.
+
+Zachichotała.
+
+— I nawet nie próbuj zaprzeczać. Doskonale wiedziałeś, co robisz!
+
+Z pobliskiego fragmentu stołu dobiegł cichy śmiech. Hermiona zerknęła w tamtą stronę i zauważyła dwie młodsze Gryfonki, które pospiesznie wróciły do swoich talerzy.
+
+Westchnęła, choć na jej twarzy wciąż gościł uśmiech.
+
+— Wspaniale. Jeszcze trochę, a całe Gryffindor będzie wiedziało, że nie potrafię odmówić własnemu chłopakowi pocałunku.
+
+Musnęła kciukiem jego policzek.
+
+— Ale teraz naprawdę wystarczy na chwilę. Jestem głodna, ty obiecałeś coś zjeść, a przed nami jeszcze lekcje.
+
+Pocałowała go krótko w czubek nosa.
+
+— A to, panie Brown, był drugi pocałunek. Nie zamierzam pozwolić ci twierdzić, że wszystkie kolejne należą do tego samego!
+
+Usiadła wygodniej przy stole, sięgnęła po grzankę i posmarowała ją marmoladą.
+
+— No dobrze, kochanie. Usiądziesz wreszcie obok mnie? — zapytała z rozbawieniem. — Czy mam zacząć nakładać ci jedzenie, żeby przypomnieć ci, po co właściwie przyszliśmy do Wielkiej Sali?
+
+
+[C13-M0193]
+===== USER =====
+
+zająłem miejsce obok niej i też zacząłem sobie najaldac -zastrzgam sobie prawo do jeszcze jednego niespodziewanego pocałunku....
+
+
+[C13-M0194]
+===== ASSISTANT =====
+
+Hermiona właśnie nakładała sobie jajecznicę, kiedy usłyszała zastrzeżenie Jamesa. Zatrzymała łyżkę nad talerzem i spojrzała na niego z rozbawieniem.
+
+— Zastrzegasz sobie prawo? — powtórzyła, unosząc brew. — Panie Brown, czy my przypadkiem podpisaliśmy jakąś umowę, o której zapomniałam?
+
+Odłożyła łyżkę i sięgnęła po grzankę.
+
+— Nie mam nic przeciwko niespodziewanym pocałunkom. Wręcz przeciwnie… — dodała ciszej, z uśmiechem. — Ale nie wtedy, kiedy mam pełne usta albo trzymam kubek z gorącą herbatą. Nie chciałabym skończyć śniadania z oparzonym nosem.
+
+Zachichotała, po czym zerknęła na jego talerz.
+
+— A poza tym zauważ, że użyłeś słowa „prawo”. To brzmi bardzo oficjalnie.
+
+Przez moment udawała głęboki namysł.
+
+— W takim razie ja również zastrzegam sobie prawo do jednego niespodziewanego pocałunku. I uprzedzam, że nie zamierzam mówić ci, kiedy z niego skorzystam.
+
+Uśmiechnęła się triumfalnie i wreszcie ugryzła grzankę.
+
+Przy sąsiednich miejscach kilku Gryfonów rozmawiało o nadchodzących lekcjach. Hermiona tymczasem spokojnie jadła, ale po chwili zerknęła na Jamesa z ukosa.
+
+— I jeszcze jedno, kochanie…
+
+Przechyliła głowę.
+
+— Czy mogę przynajmniej liczyć na to, że ten twój niespodziewany pocałunek nie nastąpi akurat wtedy, gdy profesor Snape będzie zadawał nam pytania na Eliksirach?
+
+W jej oczach pojawił się figlarny błysk.
+
+— Bo chociaż bardzo cię kocham, nie zamierzam tłumaczyć mu, dlaczego mój chłopak postanowił mnie pocałować zamiast odpowiedzieć na pytanie o skład eliksiru.
+
+
+[C13-M0195]
+===== USER =====
+
+-oczywiście kotku a druga sprawa nie mów mi takich oczywistości wiem żeby cię nie całować gdy pijesz....nie chcę żebyś się opatrzyła...
+
+
+[C13-M0196]
+===== ASSISTANT =====
+
+Hermiona spojrzała na Jamesa znad swojej grzanki, po czym uśmiechnęła się lekko.
+
+— Wiem, kochanie. Przecież tylko się z tobą droczę.
+
+Odstawiła filiżankę i delikatnie dotknęła jego dłoni.
+
+— I wiem, że nie zrobiłbyś niczego, co mogłoby mnie skrzywdzić. Nie musisz mnie o tym przekonywać.
+
+Przez moment jadła w milczeniu, ale po chwili zerknęła na niego z rozbawieniem.
+
+— Chociaż muszę przyznać, że to dość zabawne. Jeszcze przed chwilą próbowałeś wynegocjować dziesięć pocałunków, a teraz upominasz mnie za mówienie oczywistości.
+
+Zachichotała, po czym sięgnęła po sok dyniowy.
+
+— Dobrze, panie Brown. Żadnych więcej wykładów o całowaniu przy gorących napojach. Obiecuję.
+
+Upiła łyk soku, odstawiła kielich i wygodniej usiadła obok niego.
+
+— A tak przy okazji… — dodała ciszej. — Bardzo lubię, kiedy nazywasz mnie kotkiem.
+
+Uśmiechnęła się nieco nieśmiało, po czym wróciła do śniadania, nie robiąc z tego większej sprawy.
+
+
+[C13-M0197]
+===== USER =====
+
+uśmnechnąłem się i nachyliłem się do jej ucha i zacząłem szeptem - czyli mój kotek a tak naprawdę kocica lubi gdy się tak o niej zwracam....a pozatym co ci się najbardziej podoba kotek, ukochana, kochana, Hermiona a może Panna Granger?
+
+
+[C13-M0198]
+===== ASSISTANT =====
+
+Hermiona odłożyła widelec i odwróciła lekko głowę w stronę Jamesa. Na słowo „kocica” uniosła brwi, a potem zachichotała.
+
+— Kocica? Doprawdy, James, coraz ciekawszych określeń używasz.
+
+Przez chwilę zastanawiała się nad jego pytaniem.
+
+— Hm… Wiesz, chyba każde lubię z trochę innego powodu.
+
+Nachyliła się odrobinę bliżej, żeby nie musieć mówić głośno.
+
+— „Kotek” jest urocze. Szczególnie kiedy mówisz to tak cicho, jak przed chwilą. „Ukochana” brzmi… — urwała, lekko się rumieniąc. — Bardzo pięknie. Zwłaszcza kiedy mówisz to zupełnie poważnie.
+
+Uśmiechnęła się.
+
+— „Kochana” jest takie codzienne i ciepłe. A „panno Granger”…
+
+Pokręciła głową z rozbawieniem.
+
+— Przyznaję, że mam słabość do tego twojego udawanie oficjalnego tonu. Nawet jeśli czasami mam ochotę odpowiedzieć ci „panie Brown, proszę się zachowywać”.
+
+Delikatnie położyła dłoń na jego ręce.
+
+— Ale gdybym naprawdę musiała wybrać jedno…
+
+Zawahała się na chwilę.
+
+— Hermiona.
+
+Spojrzała na niego z ciepłym uśmiechem.
+
+— Lubię, kiedy po prostu wypowiadasz moje imię. Szczególnie wtedy, kiedy jesteśmy sami i nie próbujesz mnie rozśmieszyć ani mi dokuczać. Wtedy jakoś… wiem, że mówisz właśnie do mnie, a nie do tej całej „najmądrzejszej dziewczyny w roczniku”.
+
+Po chwili jej uśmiech stał się przekorny.
+
+— Ale nie rezygnuj z pozostałych, dobrze? Byłoby mi szkoda.
+
+Sięgnęła po swoją grzankę, lecz jeszcze raz spojrzała na Jamesa.
+
+— A teraz moja kolej. Wolisz, kiedy mówię do ciebie „James”, „kochanie”, „panie Brown”… czy może „mój mruczku”?
+
+Z trudem powstrzymała śmiech.
+
+
+[C13-M0199]
+===== USER =====
+
+-Zdecydowanie po prostu James ale pozostałem też są dopuszczalne ale to ostatnie tylko prywatnie proszę...
+
+
+[C13-M0200]
+===== ASSISTANT =====
+
+Hermiona zachichotała, ale gdy usłyszała ostatnią część wypowiedzi Jamesa, skinęła głową z pełnym zrozumieniem.
+
+— Oczywiście, James. To ostatnie zostaje tylko między nami.
+
+Uśmiechnęła się odrobinę psotnie.
+
+— Chociaż musisz przyznać, że sam dostarczyłeś mi tego przezwiska. Nie moja wina, że mój chłopak potrafi mruczeć jak zadowolony kot!
+
+Urwała na chwilę, żeby ugryźć kawałek grzanki.
+
+— Ale dobrze. Przy innych będziesz po prostu Jamesem. A kiedy zostaniemy sami… cóż, wtedy zobaczymy.
+
+Odstawiła grzankę i delikatnie położyła dłoń na jego przedramieniu.
+
+— Wiesz, podoba mi się, że najbardziej lubisz własne imię. Ja też lubię je wypowiadać.
+
+Przysunęła się odrobinę, po czym powiedziała znacznie ciszej:
+
+— James.
+
+Przez chwilę przyglądała mu się z ciepłym uśmiechem.
+
+— Właściwie to całkiem ładne imię. Chociaż jego właściciel bywa czasami nieznośny.
+
+Zachichotała i wróciła do śniadania, ale po chwili znów zerknęła na niego.
+
+— A teraz jedz, kochanie. Bo jeśli nadal będziemy tak rozmawiać, skończy się na tym, że ja zjem dwie porcje śniadania, a ty przez cały czas będziesz mnie komplementował.
+
+W jej głosie zabrzmiała przekora.
+
+— Co oczywiście jest bardzo miłe, ale zdecydowanie nie stanowi zbilansowanej diety.
+
+

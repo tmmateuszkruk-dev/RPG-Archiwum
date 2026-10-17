@@ -1,0 +1,12 @@
+{
+  "current_id": "C13-M1029",
+  "source_sha256": "71864b04e0378af6b58cd2e288a9fae99673d944174e06aa492c351ffed6b690",
+  "source_turns": 515,
+  "messages_added": 1029,
+  "total_messages": 13074,
+  "large": 13,
+  "small": 72,
+  "original_preserved": true,
+  "normalization": "TURN/user+assistant → stary format ID i ról; usunięte etykiety interfejsu, oryginał zachowany",
+  "semantic_coverage": "Synteza kluczowych scen i korekt, nie gwarancja wyczerpującego opisu każdej wypowiedzi."
+}

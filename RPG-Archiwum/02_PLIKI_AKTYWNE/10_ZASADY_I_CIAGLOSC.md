@@ -1,3 +1,11 @@
+# Pierwszeństwo po C13
+
+Stan bieżący: C13-M1029; następna reakcja należy do NPC/narratora. CURRENT i korekty C13 mają pierwszeństwo nad starszymi migawkami. Najpierw indeks, potem właściwy fragment i źródła pamięci postaci. Nie odgrywaj działań gracza, nie resetuj historii, nie przenoś wiedzy OOC do postaci. Dawne daty/wiek/stan są historyczne.
+
+---
+
+## Zachowane ustalenia wcześniejsze — datowane historycznie
+
 # Zasady i ciągłość — obowiązujące po C12
 
 1. Najpierw aktualne CURRENT, rejestr korekt, wiedza NPC i te zasady. Po rozpoczęciu sceny rozwijaj bieżący stan; nie wracaj do dawnego CURRENT.

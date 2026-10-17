@@ -1,10 +1,10 @@
 {
-  "version": "C1-C12",
-  "current_id": "C12-M1109",
+  "version": "C1-C13",
+  "current_id": "C13-M1029",
   "current_date": null,
-  "current_date_description": "początek września 1995; D+2 od pierwszych rozegranych lekcji, dokładna data nieustalona",
-  "current_time": "po lekcjach",
-  "next_turn": "USER — James",
+  "current_date_description": "środa w październiku 1995; dokładna data nieustalona",
+  "current_time": "po treningu GD rozpoczętym o 20:00",
+  "next_turn": "ASSISTANT — NPC/narrator",
   "message_counts": {
     "C1": 2389,
     "C2": 1800,
@@ -17,17 +17,18 @@
     "C9": 418,
     "C10": 506,
     "C11": 409,
-    "C12": 1109
+    "C12": 1109,
+    "C13": 1029
   },
-  "total_messages": 12045,
+  "total_messages": 13074,
   "source_c12_turns": 555,
   "source_c12_messages": 1109,
-  "smaller_parts": 66,
-  "large_parts": 12,
-  "lorebook_entries": 276,
+  "smaller_parts": 72,
+  "large_parts": 13,
+  "lorebook_entries": 282,
   "world_entries": 92,
-  "merged_sha256": "6325fa562dea5802dd2ea2cbfaf3d045d18b041d927db33ed34658d6f292fa79",
-  "previous_merged_sha256": "7166fbec3adcf02b422668a97d3aa555ab4240410b634fbf4daf0182559ac7ab",
+  "merged_sha256": "1ae465fd458ea7cbb680af4fd89fdd9c9ba7b368f9ceaa1437a09d7971d48a28",
+  "previous_merged_sha256": "6325fa562dea5802dd2ea2cbfaf3d045d18b041d927db33ed34658d6f292fa79",
   "source_c12_sha256": "58cf4f956baa3caf7429e8e81dde87ae5981fd487540bf7b328b8ee4b1e206e8",
   "chunks": [
     {
@@ -676,5 +677,7 @@
     "unique_contiguous_ids": true,
     "raw_c12_unchanged": true
   },
-  "scope": "Aktualizacja po C12; poprzednie archiwa zachowane i sprawdzone bajtowo. Nie pełna ponowna interpretacja C1–C11."
+  "scope": "Aktualizacja po C12; poprzednie archiwa zachowane i sprawdzone bajtowo. Nie pełna ponowna interpretacja C1–C11.",
+  "source_c13_turns": 515,
+  "source_c13_messages": 1029
 }

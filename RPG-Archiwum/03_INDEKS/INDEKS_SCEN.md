@@ -1,3 +1,36 @@
+# Indeks scen — aktualizacja C13
+
+| Blok | Zakres | Temat | Duża część | Małe części |
+|---|---|---|---|---|
+| C13-S01 | C13-M0001–C13-M0002 | Wznowienie OOC | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [067](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_067_C13-M0001_C13-M0200.txt) |
+| C13-S02 | C13-M0003–C13-M0088 | Prywatna rozmowa, granice i przyszłość | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [067](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_067_C13-M0001_C13-M0200.txt) |
+| C13-S03 | C13-M0089–C13-M0116 | Sen, list i patrol; rozdzielenie wiedzy | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [067](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_067_C13-M0001_C13-M0200.txt) |
+| C13-S04 | C13-M0117–C13-M0144 | Noc, Nott i czekanie pod portretem | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [067](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_067_C13-M0001_C13-M0200.txt) |
+| C13-S05 | C13-M0145–C13-M0170 | Poranek; OOC korekta planu lekcji | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [067](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_067_C13-M0001_C13-M0200.txt) |
+| C13-S06 | C13-M0171–C13-M0240 | Biblioteka, śniadanie i zazdrość | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [067](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_067_C13-M0001_C13-M0200.txt), [068](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_068_C13-M0201_C13-M0400.txt) |
+| C13-S07 | C13-M0241–C13-M0278 | Draco: prowokacja i poprawione przeprosiny | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [068](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_068_C13-M0201_C13-M0400.txt) |
+| C13-S08 | C13-M0279–C13-M0310 | Eliksiry i taniec w korytarzu | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [068](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_068_C13-M0201_C13-M0400.txt) |
+| C13-S09 | C13-M0311–C13-M0350 | Przygotowanie walca; lekcje i kolacja | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [068](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_068_C13-M0201_C13-M0400.txt) |
+| C13-S10 | C13-M0351–C13-M0402 | Pokój Życzeń i jeden patrol | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [068](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_068_C13-M0201_C13-M0400.txt), [069](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_069_C13-M0401_C13-M0600.txt) |
+| C13-S11 | C13-M0403–C13-M0424 | Nuty i walc z orkiestrą portretów | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [069](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_069_C13-M0401_C13-M0600.txt) |
+| C13-S12 | C13-M0425–C13-M0464 | Wieczór i korekta nazwiska u Notta | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [069](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_069_C13-M0401_C13-M0600.txt) |
+| C13-S13 | C13-M0465–C13-M0518 | 19 września: szesnaste urodziny i nowy naszyjnik | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [069](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_069_C13-M0401_C13-M0600.txt) |
+| C13-S14 | C13-M0519–C13-M0552 | Jednorazowe wejście do Gryffindoru; lekcje | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [069](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_069_C13-M0401_C13-M0600.txt) |
+| C13-S15 | C13-M0553–C13-M0674 | Urodzinowy czas we dwoje; plany dorosłości | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [069](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_069_C13-M0401_C13-M0600.txt), [070](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_070_C13-M0601_C13-M0800.txt) |
+| C13-S16 | C13-M0675–C13-M0720 | Przyjęcie i prezenty | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [070](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_070_C13-M0601_C13-M0800.txt) |
+| C13-S17 | C13-M0721–C13-M0822 | Prawda czy wyzwanie; hipotetyczne warianty OOC | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [070](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_070_C13-M0601_C13-M0800.txt), [071](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_071_C13-M0801_C13-M1000.txt) |
+| C13-S18 | C13-M0823–C13-M0852 | Tańce, w tym James i Parvati | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [071](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_071_C13-M0801_C13-M1000.txt) |
+| C13-S19 | C13-M0853–C13-M0892 | Pożegnanie; rozmowy z Ginny i Ronem | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [071](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_071_C13-M0801_C13-M1000.txt) |
+| C13-S20 | C13-M0893–C13-M0908 | Przeskok do jesieni; Harry prowadzi grupę | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [071](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_071_C13-M0801_C13-M1000.txt) |
+| C13-S21 | C13-M0909–C13-M0922 | Spotkanie w Gospodzie pod Świńskim Łbem i podpisy | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [071](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_071_C13-M0801_C13-M1000.txt) |
+| C13-S22 | C13-M0923–C13-M0936 | Trzy Miotły; plan wspólnego latania | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [071](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_071_C13-M0801_C13-M1000.txt) |
+| C13-S23 | C13-M0937–C13-M0948 | Korekta sceny: dekret 24 i pierwszy trening GD | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [071](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_071_C13-M0801_C13-M1000.txt) |
+| C13-S24 | C13-M0949–C13-M0972 | Expelliarmus, pojedynek i zasady bezpieczeństwa | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [071](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_071_C13-M0801_C13-M1000.txt) |
+| C13-S25 | C13-M0973–C13-M0982 | Koniec zajęć; prywatny salon, Colloportus | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [071](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_071_C13-M0801_C13-M1000.txt) |
+| C13-S26 | C13-M0983–C13-M1029 | Rozmowa na kanapie; ostatnia akcja Jamesa bez odpowiedzi | [C13](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | [071](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_071_C13-M0801_C13-M1000.txt), [072](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_072_C13-M1001_C13-M1029.txt) |
+
+## Indeks wcześniejszych części (zachowany)
+
 # Indeks scen — C1–C11
 
 10 936 wiadomości. Indeks obejmuje także OOC i odrzucone wersje; status rozstrzyga rejestr korekt. Wybór pliku według ID przez indeks dużych lub małych części.

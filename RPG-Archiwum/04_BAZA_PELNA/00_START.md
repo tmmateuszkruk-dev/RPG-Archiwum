@@ -1,3 +1,7 @@
+# Aktualizacja C13
+
+Aktualny punkt C13-M1029. Indeksy dużych, małych części i scen: 03_INDEKS. Indywidualna pamięć postaci: 06_PAMIEC_POSTACI. Starsze opisy poniżej są historyczne.
+
 # Baza kampanii C1–C12
 
 Stan C12-M1109: początek września 1995, po lekcjach w dniu porannego zgłoszenia krwawego pióra; Pokój Życzeń, VII piętro Hogwartu. Dokładna data i godzina nieustalone. Następny ruch należy do użytkownika (Jamesa).

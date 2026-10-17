@@ -1,3 +1,7 @@
+# Stan C1–C13 — 17 X 2026
+
+Aktualne: C13-M1029, 13074 wiadomości, 13 dużych i 72 małe części. Najpierw RPG-Archiwum/02_PLIKI_AKTYWNE/08_CURRENT.md, następnie indeksy i 06_PAMIEC_POSTACI. Historyczne instrukcje poniżej nie cofają bieżącego punktu.
+
 # RPG-Archiwum — C1–C12
 
 **12045 wiadomości, 12 dużych archiwów, 66 fragmentów po maksymalnie 200 wiadomości.** Stan: C12-M1109, Pokój Życzeń po lekcjach, początek września 1995. Dokładna data nieustalona; następna tura Jamesa.

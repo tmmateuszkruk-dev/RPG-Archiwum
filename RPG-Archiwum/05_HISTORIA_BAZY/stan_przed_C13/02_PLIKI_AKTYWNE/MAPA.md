@@ -1,0 +1,7 @@
+# Miejsca — po C12
+
+Aktualnie: Pokój Życzeń, VII piętro Hogwartu, po lekcjach; aranżacja M1085. Gabinet Snape’a w lochach był miejscem porannego zgłoszenia. Gruba Dama pilnuje wejścia do wieży Gryffindoru, James nie został wpuszczony. Pokój wspólny Slytherinu pozostaje jego domowym zapleczem w szkole.
+
+Londyn: dom Jamesa przy 14B Belgrave Square i dom Grangerów przy 8 Heathgate (M0125–M0126). Historyczna rozbieżność Eaton Square/Belgrave Square nierozstrzygnięta. Grimmauld Place istnieje jako tło, ale adres pozostaje poza wiedzą Jamesa.
+
+[Wcześniejsza mapa](../05_HISTORIA_BAZY/MAPA_DO_C11.md).

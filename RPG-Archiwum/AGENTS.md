@@ -1,3 +1,7 @@
+# Stan C1–C13 — 17 X 2026
+
+Aktualne: C13-M1029, 13074 wiadomości, 13 dużych i 72 małe części. Najpierw RPG-Archiwum/02_PLIKI_AKTYWNE/08_CURRENT.md, następnie indeksy i 06_PAMIEC_POSTACI. Historyczne instrukcje poniżej nie cofają bieżącego punktu.
+
 # Instrukcje pracy z kampanią
 
 To repozytorium jest bazą ciągłości polskiego RPG. James Brown należy wyłącznie do użytkownika. Nie kontynuuj sceny podczas aktualizacji archiwum.

@@ -1,8 +1,8 @@
-# Indeks dużych części — C1–C12
+# Indeks duzych części — C1–C13
 
-12045 wiadomości; 12 dużych i 66 małych części. Małe części mają do 200 pełnych wiadomości. Starsze pliki i ID zachowano bez zmian.
+13074 wiadomości. Stan C13-M1029.
 
-| Plik | Od | Do | Liczba |
+| Plik | Od | Do | Wiadomości |
 |---|---|---|---|
 | [01_ARCHIWUM_CZAT_1.txt](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_1.txt) | C1-M0001 | C1-M2389 | 2389 |
 | [01_ARCHIWUM_CZAT_2.txt](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_2.txt) | C2-M0001 | C2-M1800 | 1800 |
@@ -16,3 +16,4 @@
 | [01_ARCHIWUM_CZAT_10.txt](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_10.txt) | C10-M0001 | C10-M0506 | 506 |
 | [01_ARCHIWUM_CZAT_11.txt](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_11.txt) | C11-M0001 | C11-M0409 | 409 |
 | [01_ARCHIWUM_CZAT_12.txt](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_12.txt) | C12-M0001 | C12-M1109 | 1109 |
+| [01_ARCHIWUM_CZAT_13.txt](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_13.txt) | C13-M0001 | C13-M1029 | 1029 |

@@ -1,3 +1,17 @@
+# Przyrost osi czasu C13
+
+- Początek września, po lekcjach: prywatny odpoczynek, sen Jamesa i list Hermiony; jej obowiązki prefekta (M0003–0116).
+- Następny poranek: Nott, portret, biblioteka, śniadanie; konfrontacja z Draco kończy się przeprosinami bez bójki (M0117–0278).
+- Tego wieczoru po patrolu: walc nr 2 Szostakowicza grany przez portrety; James dostarczył nuty (M0311–0424).
+- Wtorek 19 IX 1995: 16. urodziny Hermiony, naszyjnik i przyjęcie w Gryffindorze (M0465–0892).
+- Przełom września i października: przygotowanie grupy obrony. W sobotę spotkanie w Hogsmeade; James podpisuje listę (M0893–0936).
+- Poprawiona M0948: poniedziałek dekret 24; środa pierwszy trening GD o 20:00 w Pokoju Życzeń. Harry prowadzi, James demonstruje i pomaga; ćwiczą Expelliarmus (M0948–0980).
+- Po zajęciach prywatny salon i rozmowa Jamesa z Hermioną, do ostatniej akcji użytkownika M1029.
+
+---
+
+## Zachowane ustalenia wcześniejsze — datowane historycznie
+
 # Timeline — aktualizacja C12
 
 | Czas | Zdarzenie i status | Źródło |
