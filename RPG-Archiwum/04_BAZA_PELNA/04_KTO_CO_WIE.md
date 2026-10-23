@@ -1,3 +1,23 @@
+# Wiedza postaci — C14
+
+- Snape otrzymał pisemne wyjaśnienia i list Umbridge. Od Jamesa wie, że ostatni szlaban odbył się bez krwawego pióra; wie też, że groźba listu do Ministerstwa była blefem. Hermiona czekała poza gabinetem. Źródła: C14-M0176, C14-M0184, C14-M0185, C14-M0186, C14-M0191, C14-M0192.
+
+- McGonagall przekazała Jamesowi i Hermionie wieść o hospitalizacji Artura. W Wigilię James wyznał jej niepokój o święta Hermiony z Ronem; nie daje to profesorce wiedzy o całej prywatnej korespondencji. Źródła: C14-M0262, C14-M0591, C14-M0593, C14-M0594.
+
+- Uczniowie przy wspólnym stole usłyszeli relację Jamesa o konflikcie z Draco i o jego uczuciach do Hermiony. To przekazana relacja, nie ich obecność przy dawnym konflikcie. Źródła: C14-M0377, C14-M0383, C14-M0397, C14-M0399.
+
+- Hermiona zna z listów wspólne posiłki, szachy i bitwę na śnieżki. Potwierdza miłość i nie zgadza się na ograniczanie przyjaźni z Ronem. Nie wie automatycznie o kupionym prezencie ani każdej rozmowie Jamesa. Źródła: C14-M0605, C14-M0648.
+
+- Korespondencję Kruma, Luny i Élodie zna James. Młodsi widzą nadawców; nie otrzymują pełnej treści listów. Wizyta w Mungu i rodzice Neville’a pozostają wiedzą uczestników, nie automatycznie Jamesa i grupy w Hogwarcie. Źródła: C14-M0682, C14-M0684, C14-M0692, C14-M0694.
+
+- Graham zna pochodzenie klucza z prezentu dla Luny i chce podziękować jej osobiście. Luna nie wyraziła w tekście wcześniejszej zgody: to przekonanie Jamesa o jej reakcji. Źródła: C14-M0519, C14-M0520, C14-M0522.
+
+- Przewidywania Jamesa o wojnie i zapewnienia, że młodsi nie zginą, są jego oceną; nie stanowią gwarancji narratora ani zapisu przyszłych wydarzeń. Źródła: C14-M0699, C14-M0701, C14-M0702.
+
+---
+
+## Wcześniejsze ustalenia — historyczne
+
 # Wiedza i granice — przyrost C13
 
 Hermiona i James znają prywatne rozmowy, list po śnie, walc, prezent, marzenia i bieżący salon. Świadkowie publicznych uroczystości nie poznają automatycznie ich rozmów w Pokoju Życzeń. Wypowiedź o dziesięciu latach bez snu jest deklaracją Jamesa, a nie wykasowaniem rozegranych snów.

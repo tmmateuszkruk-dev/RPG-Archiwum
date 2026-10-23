@@ -1,8 +1,10 @@
 # Rodzice Harry’ego — wspomnienie
 
-Stan C13-M1029. Wzmianki nie są dowodem wiedzy.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
 
 Rola: Osoba anonimowa / wzmianka rodzinna
+
+Charakter: Zachować zakres konkretnego spotkania lub relacji.
 
 Granice wiedzy: Nie łączyć z innymi osobami tej samej profesji ani dopisywać dostępu do sekretów.
 

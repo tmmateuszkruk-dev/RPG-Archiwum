@@ -1,8 +1,10 @@
 # Cho Chang
 
-Stan C13-M1029. Wzmianki nie są dowodem wiedzy.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
 
 Rola: Krukonka, partnerka Cedrika
+
+Charakter: Pamiętać bal i drugie zadanie.
 
 Granice wiedzy: Nie dopisywać rozmów z Jamesem ani wiedzy o jego sekretach.
 

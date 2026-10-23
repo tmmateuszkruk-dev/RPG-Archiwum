@@ -1,3 +1,7 @@
+# Aktualizacja C1–C14 — 23 X 2026
+
+Stan C14-M0704, 28 XII 1995 rano: następny ruch gracza. 14 dużych części i 76 fragmentów do 200 pozycji w wersji do udostępniania. C14 ma 89 luk; sprawdź 03_INDEKS/LUKI_C14.json. Nowy lorebook: 04_BAZA_PELNA/LOREBOOK_C14_UZUPELNIENIE.md. Starsze informacje poniżej są historyczne.
+
 # Aktualizacja C13
 
 Aktualny punkt C13-M1029. Indeksy dużych, małych części i scen: 03_INDEKS. Indywidualna pamięć postaci: 06_PAMIEC_POSTACI. Starsze opisy poniżej są historyczne.

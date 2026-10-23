@@ -1,3 +1,37 @@
+# Indeks scen C14
+
+Luki: [rejestr](../03_INDEKS/LUKI_C14.json). Cofnięte M0064–M0074 nie są kanonem; M0078 to obowiązująca odpowiedź.
+
+| Blok | Zakres | Temat | Duża część | Małe części |
+|---|---|---|---|---|
+| C14-S01 | C14-M0001–C14-M0058 | Wznowienie po C13; rozmowa prywatna, częściowo pominięta | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_073_C14-M0001_C14-M0200.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_073_C14-M0001_C14-M0200.txt) |
+| C14-S02 | C14-M0059–C14-M0063 | Mecz, dekret 25 i zakaz quidditcha | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_073_C14-M0001_C14-M0200.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_073_C14-M0001_C14-M0200.txt) |
+| C14-S03 | C14-M0064–C14-M0078 | Cofnięta rozmowa o proteście; nowa wersja M0078 | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_073_C14-M0001_C14-M0200.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_073_C14-M0001_C14-M0200.txt) |
+| C14-S04 | C14-M0079–C14-M0110 | Powrót Hagrida, testrale i konflikt podczas inspekcji | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_073_C14-M0001_C14-M0200.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_073_C14-M0001_C14-M0200.txt) |
+| C14-S05 | C14-M0111–C14-M0156 | Szlaban Umbridge: własne pióro i wyjaśnienia | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_073_C14-M0001_C14-M0200.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_073_C14-M0001_C14-M0200.txt) |
+| C14-S06 | C14-M0157–C14-M0174 | Po szlabanie; randka nie jest nowym pomysłem | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_073_C14-M0001_C14-M0200.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_073_C14-M0001_C14-M0200.txt) |
+| C14-S07 | C14-M0175–C14-M0198 | Snape: dokumentacja pióra i blef o Ministerstwie | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_073_C14-M0001_C14-M0200.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_073_C14-M0001_C14-M0200.txt) |
+| C14-S08 | C14-M0199–C14-M0220 | Korytarz po rozmowie ze Snape’em | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_073_C14-M0001_C14-M0200.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_073_C14-M0001_C14-M0200.txt), [ARCHIWUM_074_C14-M0201_C14-M0400.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_074_C14-M0201_C14-M0400.txt) |
+| C14-S09 | C14-M0221–C14-M0252 | Luki przeskoku; Ginny, plany świąt | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_074_C14-M0201_C14-M0400.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_074_C14-M0201_C14-M0400.txt) |
+| C14-S10 | C14-M0253–C14-M0278 | 21 grudnia: Artur w Mungu; wyjazd i korekta Hermiony z brakującą odpowiedzią | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_074_C14-M0201_C14-M0400.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_074_C14-M0201_C14-M0400.txt) |
+| C14-S11 | C14-M0279–C14-M0334 | Pożegnanie, wyjazd Hermiony i listy; luki eksportu | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_074_C14-M0201_C14-M0400.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_074_C14-M0201_C14-M0400.txt) |
+| C14-S12 | C14-M0335–C14-M0370 | Poranek, biblioteka i Pince; luki pierwszej rozmowy | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_074_C14-M0201_C14-M0400.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_074_C14-M0201_C14-M0400.txt) |
+| C14-S13 | C14-M0371–C14-M0408 | Wspólny stół czterech domów; zaproszenie Hermiony | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_074_C14-M0201_C14-M0400.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_074_C14-M0201_C14-M0400.txt), [ARCHIWUM_075_C14-M0401_C14-M0600.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_075_C14-M0401_C14-M0600.txt) |
+| C14-S14 | C14-M0409–C14-M0432 | Szachy i list do Hermiony | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_075_C14-M0401_C14-M0600.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_075_C14-M0401_C14-M0600.txt) |
+| C14-S15 | C14-M0433–C14-M0462 | Pomysł prezentu Luny; pozwolenie na Hogsmeade | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_075_C14-M0401_C14-M0600.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_075_C14-M0401_C14-M0600.txt) |
+| C14-S16 | C14-M0463–C14-M0492 | Zakupy: róża, mapa, motyl i klucz | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_075_C14-M0401_C14-M0600.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_075_C14-M0401_C14-M0600.txt) |
+| C14-S17 | C14-M0493–C14-M0524 | Notes Luny, Graham i prezent dla Amelii | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_075_C14-M0401_C14-M0600.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_075_C14-M0401_C14-M0600.txt) |
+| C14-S18 | C14-M0525–C14-M0554 | Wigilia: biblioteka i przygotowanie bitwy | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_075_C14-M0401_C14-M0600.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_075_C14-M0401_C14-M0600.txt) |
+| C14-S19 | C14-M0555–C14-M0586 | Bitwa na śnieżki; zwycięstwo czerwonych 2:1 | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_075_C14-M0401_C14-M0600.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_075_C14-M0401_C14-M0600.txt) |
+| C14-S20 | C14-M0587–C14-M0600 | McGonagall słyszy o zazdrości Jamesa | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_075_C14-M0401_C14-M0600.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_075_C14-M0401_C14-M0600.txt) |
+| C14-S21 | C14-M0601–C14-M0646 | Listy, czuwanie, kolacja i kolędy | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_076_C14-M0601_C14-M0704.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_076_C14-M0601_C14-M0704.txt) |
+| C14-S22 | C14-M0647–C14-M0664 | Boże Narodzenie: odpowiedź Hermiony i biblioteka | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_076_C14-M0601_C14-M0704.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_076_C14-M0601_C14-M0704.txt) |
+| C14-S23 | C14-M0665–C14-M0688 | Słodycze, Amelia, wydarzenia w Mungu i list Luny | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_076_C14-M0601_C14-M0704.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_076_C14-M0601_C14-M0704.txt) |
+| C14-S24 | C14-M0689–C14-M0694 | 28 grudnia: listy Kruma i Élodie | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_076_C14-M0601_C14-M0704.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_076_C14-M0601_C14-M0704.txt) |
+| C14-S25 | C14-M0695–C14-M0704 | Cedryk, obawy przed wojną i plany Sylwestra | [C14](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) | [ARCHIWUM_076_C14-M0601_C14-M0704.txt](../01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_076_C14-M0601_C14-M0704.txt) |
+
+## Wcześniejsze indeksy
+
 # Indeks scen — aktualizacja C13
 
 | Blok | Zakres | Temat | Duża część | Małe części |
@@ -335,7 +369,7 @@ C4 rozpoczyna odpowiedzią na C3-M1412. Wyjątek: **C4-M1327 opisuje poranek 24 
 | C4-S35 | C4-M1327–C4-M1327 | Fragment poranka poza kolejnością — nie nowy skok fabuły | [C4](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_4.txt) | [036](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_036_C4-M1201_C4-M1333.txt) |
 | C4-S36 | C4-M1328–C4-M1333 | Ciąg dalszy prywatnej rozmowy; ostatnie pytanie Jamesa | [C4](../01_ARCHIWA_CZATY/01_ARCHIWUM_CZAT_4.txt) | [036](../01_ARCHIWA_CZATY/mniejsze_czesci/ARCHIWUM_036_C4-M1201_C4-M1333.txt) |
 
-Alternatywa dla pełnych archiwów: [mniejsze części](00_INDEKS_MNIEJSZYCH_CZESCI.md).
+Alternatywa dla pełnych archiwów: [mniejsze części](../03_INDEKS/INDEKS_MALYCH_CZESCI.md).
 
 
 ## C5 — 24–25 lutego 1995

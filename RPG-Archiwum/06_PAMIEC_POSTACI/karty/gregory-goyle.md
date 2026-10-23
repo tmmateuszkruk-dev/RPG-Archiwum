@@ -1,8 +1,10 @@
 # Gregory Goyle
 
-Stan C13-M1029. Wzmianki nie są dowodem wiedzy.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
 
 Rola: Ślizgon, towarzysz Draco
+
+Charakter: Zachować osobną postać i źródła własnych obserwacji.
 
 Granice wiedzy: Nie jest automatycznym odbiorcą prywatnych rozmów Draco.
 

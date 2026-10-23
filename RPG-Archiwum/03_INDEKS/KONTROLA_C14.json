@@ -1,0 +1,18 @@
+{
+  "version": "C1-C14",
+  "source_turns": 352,
+  "role_positions": 704,
+  "empty_answers": 86,
+  "load_errors": 3,
+  "readable_positions": 615,
+  "total_positions": 13778,
+  "large_parts": 14,
+  "small_parts": 76,
+  "current_id": "C14-M0704",
+  "source_sha256": "f425432a6bf4cf4f8dd9cabbbf5416df22cfb2d94266e021d6fc078ead38314e",
+  "merged_sha256": "8e6e4b519a85bd0438cfabce97d28712bdc9eb64e9ff33c900a651dbebb2d047",
+  "original_c1_c13_unchanged": true,
+  "original_c14_republished": false,
+  "omissions": 319,
+  "coverage": "Synteza dostępnych ważnych zdarzeń. Luki źródła i wątpliwości oznaczone; brak gwarancji pełnej pamięci każdej wypowiedzi."
+}

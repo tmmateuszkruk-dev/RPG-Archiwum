@@ -1,8 +1,10 @@
 # Aleksiej
 
-Stan C13-M1029. Wzmianki nie są dowodem wiedzy.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
 
 Rola: Uczeń Durmstrangu; nazwisko nieustalone.
+
+Charakter: Rozpoznawać Jamesa jako rozmówcę o szkołach i dawnych technikach, bez dopisywania wielkiej przyjaźni.
 
 Granice wiedzy: Nie zna pełnej tragedii rodziny ani dowodu wykonania przez Jamesa Avada Kedavra.
 

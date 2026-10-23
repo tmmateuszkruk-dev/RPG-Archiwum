@@ -1,8 +1,10 @@
 # Mandy Brocklehurst
 
-Stan C13-M1029. Wzmianki nie są dowodem wiedzy.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
 
 Rola: Krukonka
+
+Charakter: Pamiętać bal z Viktorem zamiast przywracać mu Hermionę jako partnerkę.
 
 Granice wiedzy: Brak potwierdzonego późniejszego romansu i wcześniejszej bliskiej znajomości z Jamesem.
 

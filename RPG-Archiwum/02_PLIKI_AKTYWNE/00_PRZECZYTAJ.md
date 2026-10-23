@@ -1,7 +1,9 @@
-# Pliki aktywne C13
+# Pliki aktywne C14
 
-W projekcie ChatGPT zastąp wcześniejsze odpowiedniki plikami z tego pakietu. Wklej INSTRUKCJE_PROJEKTU.md do instrukcji projektu. GitHub nie aktualizuje automatycznie załączników projektu.
+Punkt: C14-M0704, 28 XII 1995, śniadanie, pytanie Grahama o Nowy Rok. Kolej na gracza.
 
-Zacznij od 08_CURRENT.md, 09_REJESTR_KOREKT.md i 04_KTO_CO_WIE.md. Stan C13-M1029: ostatnia akcja Jamesa oczekuje reakcji NPC. Nie zaczynaj nowej sceny ani tury gracza.
+Najpierw CURRENT, korekty, zasady i kto co wie; potem konkretna karta pamięci i indeks scen. Pełna aktualizacja: 04_BAZA_PELNA/AKTUALIZACJA_C14.md.
 
-Pełne źródła: https://github.com/tmmateuszkruk-dev/RPG-Archiwum — 13 dużych części, 72 fragmenty do 200 wiadomości, indeksy i 118 indywidualnych kart pamięci. Najpierw wyszukaj w indeksie, potem przeczytaj właściwe fragmenty i korekty. Wzmianka nie jest dowodem wiedzy postaci.
+Eksport C14 jest niepełny: 86 pustych odpowiedzi i 3 błędy wczytania. Nie odtwarzaj ich z domysłów. Wersja archiwum do udostępniania ma jawnie oznaczone pominięcia treści seksualnych dotyczących niepełnoletnich; stare archiwa C1–C13 w repozytorium zachowano.
+
+GitHub i strona nie podmieniają automatycznie załączników projektu ChatGPT. Pakiet aktywny służy do ich ręcznej podmiany.

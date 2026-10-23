@@ -1,0 +1,747 @@
+{
+  "version": "C1-C14",
+  "current_id": "C14-M0704",
+  "messages": 13778,
+  "merged_file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_1-14_SCALONE.txt",
+  "merged_sha256": "8e6e4b519a85bd0438cfabce97d28712bdc9eb64e9ff33c900a651dbebb2d047",
+  "small": [
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_001_C1-M0001_C1-M0200.txt",
+      "first": "C1-M0001",
+      "last": "C1-M0200",
+      "messages": 200,
+      "bytes": 216122,
+      "sha256": "e18abdb4a1f672552f6aa7bf5097bac51e1a82ea3de314402f6a176ec6cc675f"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_002_C1-M0201_C1-M0400.txt",
+      "first": "C1-M0201",
+      "last": "C1-M0400",
+      "messages": 200,
+      "bytes": 196119,
+      "sha256": "18f14c6da580fbbbcb753f2910c5507067787f84d9825e83b38cd89df9ab49d2"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_003_C1-M0401_C1-M0600.txt",
+      "first": "C1-M0401",
+      "last": "C1-M0600",
+      "messages": 200,
+      "bytes": 172239,
+      "sha256": "754237f14a7b02f63427e89193537271ea7fb8809edd1d374823a9cedd36893a"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_004_C1-M0601_C1-M0800.txt",
+      "first": "C1-M0601",
+      "last": "C1-M0800",
+      "messages": 200,
+      "bytes": 154806,
+      "sha256": "d8f280e0c82235245191cd8dadd0a870deaf70b8aa80150a8ba6785eca9836c0"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_005_C1-M0801_C1-M1000.txt",
+      "first": "C1-M0801",
+      "last": "C1-M1000",
+      "messages": 200,
+      "bytes": 156253,
+      "sha256": "f66952287f31c8f8913795ca1c3b74a60d3cf569dc03b0021d7d9cc3773b6112"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_006_C1-M1001_C1-M1200.txt",
+      "first": "C1-M1001",
+      "last": "C1-M1200",
+      "messages": 200,
+      "bytes": 175282,
+      "sha256": "44e9081e93546b756870c63ab6337a91b1d9dd75f47586e222ba211dff7f9e01"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_007_C1-M1201_C1-M1400.txt",
+      "first": "C1-M1201",
+      "last": "C1-M1400",
+      "messages": 200,
+      "bytes": 163273,
+      "sha256": "37f3b2b7e561c60efd7a3a0a47b773058d7414dbb00e818da21d12c2bc25d11b"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_008_C1-M1401_C1-M1600.txt",
+      "first": "C1-M1401",
+      "last": "C1-M1600",
+      "messages": 200,
+      "bytes": 161816,
+      "sha256": "c0bfdce34eaa906da594bad9e4577780d5e7ffc0a99af1fa1610e4267b02162c"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_009_C1-M1601_C1-M1800.txt",
+      "first": "C1-M1601",
+      "last": "C1-M1800",
+      "messages": 200,
+      "bytes": 178389,
+      "sha256": "5baf19f82b6f59948005cbfb5b47a04b25d7ceee69b95806614e34a5c111f14a"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_010_C1-M1801_C1-M2000.txt",
+      "first": "C1-M1801",
+      "last": "C1-M2000",
+      "messages": 200,
+      "bytes": 147673,
+      "sha256": "65f87907ee6ac03579a1a2c6376b06af90605b93cff43879ef77ddf3d6365743"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_011_C1-M2001_C1-M2200.txt",
+      "first": "C1-M2001",
+      "last": "C1-M2200",
+      "messages": 200,
+      "bytes": 126981,
+      "sha256": "c2853be346c31ac9554aea355c5a1e8d260e8a3b34fa6ce8d6461dd32bf17566"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_012_C1-M2201_C1-M2389.txt",
+      "first": "C1-M2201",
+      "last": "C1-M2389",
+      "messages": 189,
+      "bytes": 106935,
+      "sha256": "4eb43bcb0ecba89ec8ec1d53b789f08706b3e8b4ed5e43ba10ae4a76a8e845f1"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_013_C2-M0001_C2-M0200.txt",
+      "first": "C2-M0001",
+      "last": "C2-M0200",
+      "messages": 200,
+      "bytes": 117744,
+      "sha256": "170ad1d0f034081611c588a5de83cadd3e01a460083e63c33077420b6a5790fe"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_014_C2-M0201_C2-M0400.txt",
+      "first": "C2-M0201",
+      "last": "C2-M0400",
+      "messages": 200,
+      "bytes": 115315,
+      "sha256": "3420d9f42e6a75b2d4e5383049c6b57dc467fe96d31b37642d7b4b3c39f70c80"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_015_C2-M0401_C2-M0600.txt",
+      "first": "C2-M0401",
+      "last": "C2-M0600",
+      "messages": 200,
+      "bytes": 87422,
+      "sha256": "d1ecca2b1d74a42798431daf14eb05258dbd7a7b30ff0eea7bb8bd7d0c2fe632"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_016_C2-M0601_C2-M0800.txt",
+      "first": "C2-M0601",
+      "last": "C2-M0800",
+      "messages": 200,
+      "bytes": 124967,
+      "sha256": "a785a06bf6a9b7086de83dc5f75859523f684254320dfe43aae05a5592520067"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_017_C2-M0801_C2-M1000.txt",
+      "first": "C2-M0801",
+      "last": "C2-M1000",
+      "messages": 200,
+      "bytes": 107327,
+      "sha256": "a4a83efae484a0ccf27a0cbb01fda27161e1d5ad22b3931b11063840012da9e5"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_018_C2-M1001_C2-M1200.txt",
+      "first": "C2-M1001",
+      "last": "C2-M1200",
+      "messages": 200,
+      "bytes": 88827,
+      "sha256": "1720deb431ba71c626b744e58b6345294f2f1b5a593c3a800ae27b9e4f950929"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_019_C2-M1201_C2-M1400.txt",
+      "first": "C2-M1201",
+      "last": "C2-M1400",
+      "messages": 200,
+      "bytes": 114412,
+      "sha256": "9a705e9080e0283d00de5030f5399710a6b893d7da265df23d76e31e0c1629f4"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_020_C2-M1401_C2-M1600.txt",
+      "first": "C2-M1401",
+      "last": "C2-M1600",
+      "messages": 200,
+      "bytes": 109804,
+      "sha256": "020dfc5738c520a481d82438e75897ba5db82084dddaa0e8f259e7f507b0f6f2"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_021_C2-M1601_C2-M1800.txt",
+      "first": "C2-M1601",
+      "last": "C2-M1800",
+      "messages": 200,
+      "bytes": 83842,
+      "sha256": "0f2019a03159bea547ac1cba4fc872a85327e1df4632c6066faff5b077284e2c"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_022_C3-M0001_C3-M0200.txt",
+      "first": "C3-M0001",
+      "last": "C3-M0200",
+      "messages": 200,
+      "bytes": 134676,
+      "sha256": "7798844c87b389b2d9f17df3af4fc726036ae32fbd26c36963ea7f055965f105"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_023_C3-M0201_C3-M0400.txt",
+      "first": "C3-M0201",
+      "last": "C3-M0400",
+      "messages": 200,
+      "bytes": 77859,
+      "sha256": "a0cc5b4c3bc493888771067c4ff1db50531f876fbe615336a4104e7a33a17da8"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_024_C3-M0401_C3-M0600.txt",
+      "first": "C3-M0401",
+      "last": "C3-M0600",
+      "messages": 200,
+      "bytes": 91977,
+      "sha256": "99163dbffafd2f8df05fa8b8b1f57cb19b0ab8f35ea4b7f8018e31be88108e96"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_025_C3-M0601_C3-M0800.txt",
+      "first": "C3-M0601",
+      "last": "C3-M0800",
+      "messages": 200,
+      "bytes": 69394,
+      "sha256": "9fd09f888ba025aafac02af7f234967087b23f8d1c19a42214305bde5fe93b85"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_026_C3-M0801_C3-M1000.txt",
+      "first": "C3-M0801",
+      "last": "C3-M1000",
+      "messages": 200,
+      "bytes": 112464,
+      "sha256": "378eb193eb428579004146680215896dae9678d977a0bad418ff470d071e55fe"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_027_C3-M1001_C3-M1200.txt",
+      "first": "C3-M1001",
+      "last": "C3-M1200",
+      "messages": 200,
+      "bytes": 69314,
+      "sha256": "e1afa522a91860353b5cb612a4fe4748a697536d1bad555f795a0b3ffa5997f1"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_028_C3-M1201_C3-M1400.txt",
+      "first": "C3-M1201",
+      "last": "C3-M1400",
+      "messages": 200,
+      "bytes": 114348,
+      "sha256": "cbe09e14a5693342709772147e81a2e48efdaf1292b88f21ade118079dc8bd44"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_029_C3-M1401_C3-M1412.txt",
+      "first": "C3-M1401",
+      "last": "C3-M1412",
+      "messages": 12,
+      "bytes": 4696,
+      "sha256": "3b04143df01c78f4155ab8040daf209bcb5aead837d71bafd0f17fb320d8972c"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_030_C4-M0001_C4-M0200.txt",
+      "first": "C4-M0001",
+      "last": "C4-M0200",
+      "messages": 200,
+      "bytes": 94045,
+      "sha256": "071a9dd0c19f59dea079a2b2db5191070be8d7b35f0592ed32e0246850dfd1fd"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_031_C4-M0201_C4-M0400.txt",
+      "first": "C4-M0201",
+      "last": "C4-M0400",
+      "messages": 200,
+      "bytes": 91322,
+      "sha256": "de237b50a123532078ef26fab1a6571148553518c9c14e5e1b1531504b527903"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_032_C4-M0401_C4-M0600.txt",
+      "first": "C4-M0401",
+      "last": "C4-M0600",
+      "messages": 200,
+      "bytes": 84150,
+      "sha256": "2927a981c63b752d0e8faf9ba47ead7ecac0b42ed6966c91dc044243204096a4"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_033_C4-M0601_C4-M0800.txt",
+      "first": "C4-M0601",
+      "last": "C4-M0800",
+      "messages": 200,
+      "bytes": 66280,
+      "sha256": "3c5d178d70072c2e5e82f443d1021e3d8c63d661b61616af9f4f459bbc324e15"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_034_C4-M0801_C4-M1000.txt",
+      "first": "C4-M0801",
+      "last": "C4-M1000",
+      "messages": 200,
+      "bytes": 64719,
+      "sha256": "412e0e201f95d23f549887a1c876d09bb82e3c23fc21400069a8ae30ec63e672"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_035_C4-M1001_C4-M1200.txt",
+      "first": "C4-M1001",
+      "last": "C4-M1200",
+      "messages": 200,
+      "bytes": 92700,
+      "sha256": "844ae75dd879e037e49585e78c7571955d3cb511ab07b4c7585e1a13a7b394eb"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_036_C4-M1201_C4-M1333.txt",
+      "first": "C4-M1201",
+      "last": "C4-M1333",
+      "messages": 133,
+      "bytes": 61465,
+      "sha256": "b976b7fdd05641a5698b5576b19c0d6b8e1abb82cf00b17008978921f281a2be"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_037_C5-M0001_C5-M0200.txt",
+      "first": "C5-M0001",
+      "last": "C5-M0200",
+      "messages": 200,
+      "bytes": 84650,
+      "sha256": "ec46ffddc421ac8cc3c461c03291be03b1b2560e1592aee4f85ecd652ad520a2"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_038_C5-M0201_C5-M0400.txt",
+      "first": "C5-M0201",
+      "last": "C5-M0400",
+      "messages": 200,
+      "bytes": 98755,
+      "sha256": "5f0c546c913c3e1c205dacfccee897ac9c293defd2f78e9226d46866d5741a12"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_039_C5-M0401_C5-M0600.txt",
+      "first": "C5-M0401",
+      "last": "C5-M0600",
+      "messages": 200,
+      "bytes": 160941,
+      "sha256": "f6e739d1c092b61080f799bc98213d49856ddedd826276957d8be3d63c1ee775"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_040_C5-M0601_C5-M0766.txt",
+      "first": "C5-M0601",
+      "last": "C5-M0766",
+      "messages": 166,
+      "bytes": 81899,
+      "sha256": "bd343f681adc4322d1a928f2238f283d89cd493ff3c19f16c5a57ef6099b9d8f"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_041_C6-M0001_C6-M0200.txt",
+      "first": "C6-M0001",
+      "last": "C6-M0200",
+      "messages": 200,
+      "bytes": 126130,
+      "sha256": "710fef4cfd05a67c99e36c4a5ae720fb09142cc567be6fb5e6bb533361bc4c29"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_042_C6-M0201_C6-M0400.txt",
+      "first": "C6-M0201",
+      "last": "C6-M0400",
+      "messages": 200,
+      "bytes": 139254,
+      "sha256": "eaa74b21046c435d3a04788c3c119723d24b48454b2103dc96020739210ac8c9"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_043_C6-M0401_C6-M0436.txt",
+      "first": "C6-M0401",
+      "last": "C6-M0436",
+      "messages": 36,
+      "bytes": 19852,
+      "sha256": "a38c8827f5e0c6e3959b89d709cdbf0b32bd8290502f8363a1b005d9591d7910"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_044_C7-M0001_C7-M0200.txt",
+      "first": "C7-M0001",
+      "last": "C7-M0200",
+      "messages": 200,
+      "bytes": 89563,
+      "sha256": "a6b773e1c48196a155de44fc5ae081f7c1729ec0a96b5a5c2070a3246ca687e4"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_045_C7-M0201_C7-M0400.txt",
+      "first": "C7-M0201",
+      "last": "C7-M0400",
+      "messages": 200,
+      "bytes": 115957,
+      "sha256": "36596abc9b5a907ca75907f47d041894f34fece31bebb09bfa31c6e91086670e"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_046_C7-M0401_C7-M0600.txt",
+      "first": "C7-M0401",
+      "last": "C7-M0600",
+      "messages": 200,
+      "bytes": 95042,
+      "sha256": "3a454b359ec1463b4df1e60b090cf6a7b2abded12702c8a0b05b694481bca143"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_047_C7-M0601_C7-M0710.txt",
+      "first": "C7-M0601",
+      "last": "C7-M0710",
+      "messages": 110,
+      "bytes": 52955,
+      "sha256": "d67672a3e8fe8b5cbf1659a7c982b2fd09fa1a701a1a6dac9b38a0496f4fcdf5"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_048_C8-M0001_C8-M0200.txt",
+      "first": "C8-M0001",
+      "last": "C8-M0200",
+      "messages": 200,
+      "bytes": 107339,
+      "sha256": "19861f4cec9f6b4e8031dfa9ac276a8428de2db0b8ac3f937391f550a10892b9"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_049_C8-M0201_C8-M0400.txt",
+      "first": "C8-M0201",
+      "last": "C8-M0400",
+      "messages": 200,
+      "bytes": 81315,
+      "sha256": "6d2b5ac70154b4bc49b02bbf04bf87c982b4dd3f243093eee49f0a9490f2a569"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_050_C8-M0401_C8-M0600.txt",
+      "first": "C8-M0401",
+      "last": "C8-M0600",
+      "messages": 200,
+      "bytes": 72635,
+      "sha256": "6595a104e72dc9c0afb14b1794b7b100048f2e693358ba634e6929241495ddf6"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_051_C8-M0601_C8-M0757.txt",
+      "first": "C8-M0601",
+      "last": "C8-M0757",
+      "messages": 157,
+      "bytes": 54810,
+      "sha256": "347a9b9500c821cd47bedb9707b97bba4655b09c817835157b0d9abd61eb0c52"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_052_C9-M0001_C9-M0200.txt",
+      "first": "C9-M0001",
+      "last": "C9-M0200",
+      "messages": 200,
+      "bytes": 172438,
+      "sha256": "184d89467df1ced8b3cd57c0e473605663f41c40db67e5db7afc68ddcd1a3eda"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_053_C9-M0201_C9-M0400.txt",
+      "first": "C9-M0201",
+      "last": "C9-M0400",
+      "messages": 200,
+      "bytes": 112378,
+      "sha256": "feb39efa17ef5093a3a807fc8dbcb29a048134e48738efddfa44829fc4839096"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_054_C9-M0401_C9-M0418.txt",
+      "first": "C9-M0401",
+      "last": "C9-M0418",
+      "messages": 18,
+      "bytes": 14566,
+      "sha256": "b58aca4eddf56bd44b17e1d8e61063511dbbc793fa7f4fb15db66915a7f1d177"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_055_C10-M0001_C10-M0200.txt",
+      "first": "C10-M0001",
+      "last": "C10-M0200",
+      "messages": 200,
+      "bytes": 84238,
+      "sha256": "eda8f9b7666b6481141a3268f5605cd11df51b3549486618592691bdd8b5d33d"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_056_C10-M0201_C10-M0400.txt",
+      "first": "C10-M0201",
+      "last": "C10-M0400",
+      "messages": 200,
+      "bytes": 82069,
+      "sha256": "78c2842e2d16ffc62619fc0b0df591531d0a6324fd8e3f775efcc670285e2622"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_057_C10-M0401_C10-M0506.txt",
+      "first": "C10-M0401",
+      "last": "C10-M0506",
+      "messages": 106,
+      "bytes": 46698,
+      "sha256": "fd1a953ab6931294a2d0f75540e65f24b9ba2887cf25ceb7413bf12e8aed7fbb"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_058_C11-M0001_C11-M0200.txt",
+      "first": "C11-M0001",
+      "last": "C11-M0200",
+      "messages": 200,
+      "bytes": 95664,
+      "sha256": "dd6f2650c4a765ef29e2e7303d87a333132e35d31f325b24b002ad7ec89e83ec"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_059_C11-M0201_C11-M0400.txt",
+      "first": "C11-M0201",
+      "last": "C11-M0400",
+      "messages": 200,
+      "bytes": 88872,
+      "sha256": "dc606330cb23750a225b851ac2b231a1901454aa198226b8f0feb34ea2e30859"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_060_C11-M0401_C11-M0409.txt",
+      "first": "C11-M0401",
+      "last": "C11-M0409",
+      "messages": 9,
+      "bytes": 4389,
+      "sha256": "7a7f1f66fc9215c3885da63d0760c9d44ea2973f12daec8b924d88bc7883763c"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_061_C12-M0001_C12-M0200.txt",
+      "first": "C12-M0001",
+      "last": "C12-M0200",
+      "messages": 200,
+      "bytes": 73126,
+      "sha256": "a79d8c41438e25682fdbfd2141a797fd0a93db0d8beb3acb66b273f6dcbae4dd"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_062_C12-M0201_C12-M0400.txt",
+      "first": "C12-M0201",
+      "last": "C12-M0400",
+      "messages": 200,
+      "bytes": 105274,
+      "sha256": "2c7b77592c4e58ece61ba8ba425024dd691edec8316e6a7804ffa8b794e4398b"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_063_C12-M0401_C12-M0600.txt",
+      "first": "C12-M0401",
+      "last": "C12-M0600",
+      "messages": 200,
+      "bytes": 87415,
+      "sha256": "bf241ecd5bf87e7cb241786d1dc03c8aac81a2e3fabb04db0bf51d38a0dddac0"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_064_C12-M0601_C12-M0800.txt",
+      "first": "C12-M0601",
+      "last": "C12-M0800",
+      "messages": 200,
+      "bytes": 104087,
+      "sha256": "da2a921f59aa466b97518dd22d76bc4570b8acd4c46fd8fff7fd9368e8f92b79"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_065_C12-M0801_C12-M1000.txt",
+      "first": "C12-M0801",
+      "last": "C12-M1000",
+      "messages": 200,
+      "bytes": 118626,
+      "sha256": "002d873fdace690f59450044c9cec3210377879d8a141281805ea66f7e085804"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_066_C12-M1001_C12-M1109.txt",
+      "first": "C12-M1001",
+      "last": "C12-M1109",
+      "messages": 109,
+      "bytes": 55418,
+      "sha256": "73ee41328731b123a93abe4b8d11d3ab4a9c1a3e73a5b663213692d2148cbaf9"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_067_C13-M0001_C13-M0200.txt",
+      "first": "C13-M0001",
+      "last": "C13-M0200",
+      "messages": 200,
+      "bytes": 147948,
+      "sha256": "16368f651f442986ad83db310670074c7647415af4b7f184f986fee20922a27a"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_068_C13-M0201_C13-M0400.txt",
+      "first": "C13-M0201",
+      "last": "C13-M0400",
+      "messages": 200,
+      "bytes": 169800,
+      "sha256": "826399a56cd6e173109a50148d231342c17f2d78d0fa9aec7f96bd316f47dbe8"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_069_C13-M0401_C13-M0600.txt",
+      "first": "C13-M0401",
+      "last": "C13-M0600",
+      "messages": 200,
+      "bytes": 244847,
+      "sha256": "ffa16e4c5807f7a3f12a29190359ceff38efbf786da7bb7d2fa0821cb368e552"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_070_C13-M0601_C13-M0800.txt",
+      "first": "C13-M0601",
+      "last": "C13-M0800",
+      "messages": 200,
+      "bytes": 253395,
+      "sha256": "9ad45222534232538e3e6744aca3975b68a42970f558d99f87cb531146fa3370"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_071_C13-M0801_C13-M1000.txt",
+      "first": "C13-M0801",
+      "last": "C13-M1000",
+      "messages": 200,
+      "bytes": 272780,
+      "sha256": "c5ce151a55ea3b0385f928f58b4ad53bc9eaadce81271e800eab50d36245da51"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_072_C13-M1001_C13-M1029.txt",
+      "first": "C13-M1001",
+      "last": "C13-M1029",
+      "messages": 29,
+      "bytes": 29945,
+      "sha256": "5ef8a54af9c3d6bb90982f17fabfea909bef6ce703aeb2e34429ed63de1e40d4"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_073_C14-M0001_C14-M0200.txt",
+      "first": "C14-M0001",
+      "last": "C14-M0200",
+      "messages": 200,
+      "bytes": 180439,
+      "sha256": "fa101a43d8d71623e88964c8d079c9ea4624fdc621112bf26fdeb6ecabd1589a"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_074_C14-M0201_C14-M0400.txt",
+      "first": "C14-M0201",
+      "last": "C14-M0400",
+      "messages": 200,
+      "bytes": 102081,
+      "sha256": "98e2e99bf0c21e12b21d6b0d2798b47facf622576c38089e93aea7d639468c32"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_075_C14-M0401_C14-M0600.txt",
+      "first": "C14-M0401",
+      "last": "C14-M0600",
+      "messages": 200,
+      "bytes": 224273,
+      "sha256": "839a45a07d831e206e2f2ac9ec9b3f4370480af2c26b2362ec61e8cfe724fa15"
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_076_C14-M0601_C14-M0704.txt",
+      "first": "C14-M0601",
+      "last": "C14-M0704",
+      "messages": 104,
+      "bytes": 113953,
+      "sha256": "36c5085a16b3a7ad959648e0bc7a73c564a79d85949ebcaeef5e13fdd6c22e6c"
+    }
+  ],
+  "large": [
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_1.txt",
+      "first": "C1-M0001",
+      "last": "C1-M2389",
+      "messages": 2389,
+      "bytes": 1955888,
+      "sha256": "f113f794d306d2f84ead12a893e075c92a4a25c3d9b5b68456119f17448e7c0b",
+      "part": 1
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_2.txt",
+      "first": "C2-M0001",
+      "last": "C2-M1800",
+      "messages": 1800,
+      "bytes": 949660,
+      "sha256": "0e68578ff67f07e00f2fbca9eef3613b99718b890f95c1845092931d374c0bff",
+      "part": 2
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_3.txt",
+      "first": "C3-M0001",
+      "last": "C3-M1412",
+      "messages": 1412,
+      "bytes": 674728,
+      "sha256": "bf4cd4516feda3f315b0c59cf65eb086cba37a503744e1ceb968aad7ec47e859",
+      "part": 3
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_4.txt",
+      "first": "C4-M0001",
+      "last": "C4-M1333",
+      "messages": 1333,
+      "bytes": 554681,
+      "sha256": "2b047b507d3ec3143c7bf9028f632ee68f2f1fd9be256bbbf71377a1004f4da8",
+      "part": 4
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_5.txt",
+      "first": "C5-M0001",
+      "last": "C5-M0766",
+      "messages": 766,
+      "bytes": 426245,
+      "sha256": "41d6f50de27e5501173e679abc78916da4345936c5ae6aac0e60017784bd0eab",
+      "part": 5
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_6.txt",
+      "first": "C6-M0001",
+      "last": "C6-M0436",
+      "messages": 436,
+      "bytes": 285236,
+      "sha256": "a97ef4812b126f9ec0a49be8d0ede866a5acc90088291e918453d314cea49f6e",
+      "part": 6
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_7.txt",
+      "first": "C7-M0001",
+      "last": "C7-M0710",
+      "messages": 710,
+      "bytes": 353517,
+      "sha256": "3312312d3eb3b4eaa0185318c33e7de4f86899255daedb936738eeda9d7af7e0",
+      "part": 7
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_8.txt",
+      "first": "C8-M0001",
+      "last": "C8-M0757",
+      "messages": 757,
+      "bytes": 316099,
+      "sha256": "20be33d8e4859e8689232d7d18577e527848717ae948f1085663ea655d7a0c42",
+      "part": 8
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_9.txt",
+      "first": "C9-M0001",
+      "last": "C9-M0418",
+      "messages": 418,
+      "bytes": 299382,
+      "sha256": "27f79ac83a5b3cfbbbb9be5d9dd8b83e74482eaf77409a30584c28f131f9d9ac",
+      "part": 9
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_10.txt",
+      "first": "C10-M0001",
+      "last": "C10-M0506",
+      "messages": 506,
+      "bytes": 213005,
+      "sha256": "e3982715ef2e6856b05a3cf9e1a3c594d77f2fa48ade8dc89b7aef44935f7e0e",
+      "part": 10
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_11.txt",
+      "first": "C11-M0001",
+      "last": "C11-M0409",
+      "messages": 409,
+      "bytes": 188925,
+      "sha256": "a7e840a40aea1c7e201827d1a3a087f3ef6e56ef925f1d8ffb0f189c589eac17",
+      "part": 11
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_12.txt",
+      "first": "C12-M0001",
+      "last": "C12-M1109",
+      "messages": 1109,
+      "bytes": 543946,
+      "sha256": "3768f1951ba9c2ffe7c37ed3ed62740f81aecc455469d89b6ace2929f146bf2f",
+      "part": 12
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_13.txt",
+      "first": "C13-M0001",
+      "last": "C13-M1029",
+      "messages": 1029,
+      "bytes": 1118715,
+      "sha256": "553d557a4a2081efadf669708106e40087c94a73a61e626f27d64b1462bd4722",
+      "part": 13
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt",
+      "first": "C14-M0001",
+      "last": "C14-M0704",
+      "messages": 704,
+      "bytes": 620746,
+      "sha256": "4180d0b6a6d517272383f78a5d09846a0ab4f9c723fb9ea4f57ee35653975616",
+      "part": 14
+    }
+  ],
+  "content_note": "Wersja do udostępniania z oznaczonymi pominięciami i lukami eksportu. Stare pliki źródłowe C1–C13 w repozytorium niezmienione.",
+  "missing_c14": 89
+}

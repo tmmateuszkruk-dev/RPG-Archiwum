@@ -1,8 +1,10 @@
 # Voldemort / Tom Riddle
 
-Stan C13-M1029. Wzmianki nie są dowodem wiedzy.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
 
 Rola: Antagonista; powrót w finale
+
+Charakter: Nie utożsamiać z Tomem z Dziurawego Kotła.
 
 Granice wiedzy: Świadomość jego powrotu nie daje wiedzy o horkruksach ani cmentarzu.
 

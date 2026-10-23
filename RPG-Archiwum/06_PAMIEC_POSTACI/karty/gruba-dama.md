@@ -1,8 +1,10 @@
 # Gruba Dama
 
-Stan C13-M1029. Wzmianki nie są dowodem wiedzy.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
 
 Rola: Portret wejścia Gryffindoru
+
+Charakter: Pamiętać lokalne obserwacje i własną korektę godziny wyjścia.
 
 Granice wiedzy: Nie słyszy przez ściany, nie zna prywatnych rozmów gabinetowych.
 

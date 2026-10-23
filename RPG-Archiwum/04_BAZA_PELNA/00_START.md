@@ -1,3 +1,7 @@
+# Aktualizacja C14
+
+Stan C14-M0704, kolej na gracza. 89 luk eksportu. Aktualne indeksy: ../03_INDEKS.
+
 # Aktualizacja C13
 
 Aktualny punkt C13-M1029. Indeksy dużych, małych części i scen: 03_INDEKS. Indywidualna pamięć postaci: 06_PAMIEC_POSTACI. Starsze opisy poniżej są historyczne.

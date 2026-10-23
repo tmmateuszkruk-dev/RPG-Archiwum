@@ -1,0 +1,4701 @@
+
+
+[C14-M0001]
+===== USER =====
+
+ok czat zaczynamy Part13 przypomnij sobie wszytko przanlizuj uruchom skill i wrzuc ostatnia widomisc z naaszej historii i pamietaj o githubie
+Wyszukiwanie w sieci
+
+
+[C14-M0002]
+===== ASSISTANT =====
+
+Tak — Part 13 startuje z pełną ciągłością. Traktuję uzgodniony tryb prowadz-rpg jako aktywny w tym czacie. Wczytałem aktualne 08_CURRENT, 09_REJESTR_KOREKT, 10_ZASADY_I_CIAGLOSC i 04_KTO_CO_WIE, sprawdziłem końcówkę scalonego archiwum oraz aktualny stan w repozytorium GitHub. Nie resetuję historii i przy potrzebie dokładnego wspomnienia będę sięgał przez indeks do konkretnego fragmentu archiwum/GitHuba, a nie zgadywał. 
+10_ZASADY_I_CIAGLOSC
+
+Aktualny punkt to C13-M1029: środa w październiku 1995, po pierwszym treningu GD. James i Hermiona są sami w prywatnym salonie Pokoju Życzeń; Hermiona znajduje się na Jamesie na kanapie, oboje są przytomni, w pokoju pali się ogień i świece. Następna właściwa tura będzie reakcją Hermiony/narratora — bez przejmowania Jamesa. 
+08_CURRENT
+
+I dokładnie ostatnia wiadomość z naszej historii brzmi:
+
+C13-M1029 — USER
+„cicho jęknąłem gdy mnie podrapała i znowu bardzo się zarumieniłem”
+
+01_ARCHIWUM_CZAT_1-13_SCALONE
+
+Na tym stoimy. Nic po M1029 jeszcze się nie wydarzyło.
+
+
+[C14-M0003]
+===== USER =====
+
+Wyszukiwanie w sieci
+ ok to kontunuj
+
+
+[C14-M0004]
+===== ASSISTANT =====
+
+Hermiona usłyszała cichy jęk Jamesa i zauważyła, jak jego policzki ponownie oblewają się intensywnym rumieńcem.
+
+Na jej twarzy pojawił się szeroki, rozbawiony uśmiech.
+
+— Och, James… — zachichotała, unosząc lekko brwi. — Przecież ja cię tylko podrapałam po karku!
+
+Przez chwilę przyglądała mu się z wyraźną czułością. Doskonale znała już jego mruczenie i reakcje na pieszczoty, ale wciąż sprawiało jej przyjemność obserwowanie tej strony chłopaka.
+
+— Wiesz, co jest w tym wszystkim najzabawniejsze? — zapytała, odgarniając kosmyk swoich kasztanowych włosów za ucho. — Że ty naprawdę potrafisz patrzeć na Malfoya tak, jakbyś chciał zamienić go w popiół, a potem wystarczy, że zrobię coś takiego…
+
+Delikatnie przesunęła opuszkami palców po jego karku, tym razem znacznie łagodniej.
+
+— …i cały ten twój groźny wizerunek gdzieś znika.
+
+Roześmiała się ponownie, po czym pochyliła się i pocałowała go w policzek.
+
+— Ale nie martw się. Twój sekret jest u mnie bezpieczny.
+
+Jej uśmiech nabrał odrobinę bardziej psotnego charakteru.
+
+— Chociaż zaczynam podejrzewać, że znalazłam sposób, żeby wygrać z tobą każdą kłótnię.
+
+Zamyśliła się teatralnie, przykładając palec do brody.
+
+— „James, powinieneś wreszcie odrobić pracę domową”. „Nie, Hermiono”. „James, naprawdę musisz…” — Urwała i poruszyła palcami w powietrzu, jakby demonstrowała swoją nową tajną broń.
+
+— I po kłótni!
+
+Zadowolona z własnego żartu, oparła dłonie na jego ramionach.
+
+— Tylko wiesz… — dodała już nieco łagodniej. — Mógłbyś czasami po prostu powiedzieć, że lubisz, kiedy cię przytulam i głaszczę. Nie musisz za każdym razem udawać, że jesteś strasznie groźnym panem Brownem.
+
+Przechyliła lekko głowę, spoglądając mu prosto w oczy.
+
+— Chyba że naprawdę zamierzasz przekonać mnie, że wcale ci się to nie podoba?
+
+W jej brązowych oczach znów błysnęło rozbawienie, a palce spoczywające na jego ramionach pozostawały nieruchome, jakby czekała na odpowiedź.
+
+
+[C14-M0005]
+===== USER =====
+
+odpowiedziałem mocno się zacinając -Bardzo bo lubię jak...mnie dotykasz w każdy sposób...
+
+
+[C14-M0006]
+===== ASSISTANT =====
+
+Hermiona na moment znieruchomiała, słysząc jego mocno zacinające się wyznanie. Jej figlarny uśmiech stopniowo złagodniał, ustępując miejsca czułości.
+
+— Och, James…
+
+Delikatnie pogładziła go po policzku, po czym odgarnęła mu kilka kosmyków włosów z czoła.
+
+— Wiesz, że nie musisz się tak strasznie denerwować, kiedy mi to mówisz? — zapytała łagodnie, choć w jej oczach wciąż czaiło się rozbawienie. — Jesteśmy razem już wystarczająco długo, żebym wiedziała, jak bardzo lubisz moje przytulanie.
+
+Uśmiechnęła się nieco szerzej.
+
+— Chociaż przyznam, że to „w każdy sposób” zabrzmiało wyjątkowo uroczo. Szczególnie z tym całym jąkaniem.
+
+Zachichotała cicho, a następnie pochyliła się i pocałowała go czule w usta.
+
+— Ja też uwielbiam być blisko ciebie, głuptasie.
+
+Pozostając na jego kolanach, objęła go delikatnie za szyję.
+
+— I wiesz co? Wcale nie zamierzam przestawać cię przytulać tylko dlatego, że za każdym razem robisz się czerwony jak pomidor.
+
+Przyjrzała mu się przez chwilę, po czym zmrużyła oczy z udawaną podejrzliwością.
+
+— Chwileczkę… Czy ty przypadkiem nie robisz się taki nieśmiały specjalnie, żebym jeszcze bardziej chciała cię przytulać?
+
+Zupełnie nie wytrzymała i roześmiała się, po czym dodała z figlarnym błyskiem w oczach:
+
+— Bo jeśli tak, panie Brown, to muszę przyznać, że twoja strategia działa znakomicie.
+
+
+[C14-M0007]
+===== USER =====
+
+-Nie....po prostu jest tak przyjemnie i to mnie tak zawstydza...i przez to się trochę denerwuję i to wszystko się łączy....znowu powiedziałem zaciskając się
+
+
+[C14-M0008]
+===== ASSISTANT =====
+
+Hermiona słuchała uważnie, a jej rozbawiony uśmiech powoli zmienił się w ciepły, pełen czułości wyraz twarzy.
+
+— Och, kochanie… — powiedziała miękko.
+
+Przez chwilę przyglądała mu się, po czym delikatnie przesunęła dłonią po jego policzku.
+
+— Czyli sprawia ci to tyle przyjemności, że aż się zawstydzasz, a kiedy już zaczynasz się wstydzić, dodatkowo się denerwujesz? — upewniła się, uśmiechając się łagodnie.
+
+Pochyliła się i złożyła krótki pocałunek na jego czole.
+
+— Wiesz, James, to naprawdę urocze. Ale nie musisz się przede mną pilnować ani ukrywać takich rzeczy.
+
+Jej palce powędrowały do jego włosów, które zaczęła powoli i delikatnie przeczesywać.
+
+— I chyba trochę za bardzo się z tobą droczyłam — przyznała z lekkim, zawstydzonym uśmiechem. — Po prostu lubię tę twoją stronę. Taką, którą rzadko pokazujesz innym.
+
+Przysunęła się odrobinę bliżej, nadal siedząc na jego kolanach.
+
+— A skoro już jesteśmy tacy szczerzy… — dodała, a w jej oczach ponownie pojawił się znajomy, figlarny błysk. — Ja też czasami się denerwuję, kiedy jesteś dla mnie wyjątkowo czuły. Tylko chyba trochę lepiej mi wychodzi udawanie, że wcale tak nie jest.
+
+Zaśmiała się cicho.
+
+— Więc może nie jesteśmy aż tak różni, panie Brown?
+
+Oparła swoje czoło delikatnie o jego czoło i uśmiechnęła się.
+
+— A teraz możesz mi powiedzieć coś jeszcze… Wolisz, kiedy po prostu cię przytulam, czy kiedy bawię się twoimi włosami? Bo zaczynam podejrzewać, że odpowiedź brzmi „jedno i drugie”.
+
+
+[C14-M0009]
+===== USER =====
+
+oba kocham każdy twój dotykk.
+
+
+[C14-M0010]
+===== ASSISTANT =====
+
+Hermiona uśmiechnęła się promiennie, a na jej policzkach pojawił się delikatny rumieniec.
+
+— Każdy? — powtórzyła miękko, z odrobiną figlarnego niedowierzania. — Och, James, ty naprawdę potrafisz powiedzieć coś, przez co kompletnie zapominam, jak miałam się z tobą droczyć.
+
+Zaśmiała się cicho, po czym pogładziła go po policzku i pocałowała w czoło.
+
+— Ja też cię kocham, głuptasie. I uwielbiam, kiedy jesteśmy tak blisko.
+
+Przytuliła się do niego, opierając policzek o jego ramię. Przez krótką chwilę milczała, wsłuchując się w spokojne trzaskanie drewna w kominku.
+
+— Wiesz, co mnie czasami zastanawia? — odezwała się w końcu. — Jak to możliwe, że człowiek, który potrafi tak zawzięcie kłócić się ze Snape'em, Malfoyem i połową Hogwartu, potrafi jednocześnie być taki nieśmiały przy własnej dziewczynie?
+
+Uniosła głowę, a jej oczy błysnęły rozbawieniem.
+
+— I nie mów, że to moja wina!
+
+Po chwili jednak spoważniała odrobinę.
+
+— A tak właściwie… lubię, kiedy mówisz mi takie rzeczy. Nawet jeśli się zacinasz. Szczególnie wtedy wiem, że nie próbujesz wymyślić jakiejś efektownej przemowy.
+
+Uśmiechnęła się czule, ponownie przeczesując palcami jego włosy.
+
+— Chociaż przyznam ci coś jeszcze, James…
+
+Przysunęła się odrobinę, żeby spojrzeć mu w oczy.
+
+— Kiedy nazywasz mnie „kochaniem” tak po prostu, bez żadnego powodu… mnie też robi się strasznie miło.
+
+Zaśmiała się pod nosem.
+
+— Tylko nikomu nie mów. Mam przecież opinię wyjątkowo rozsądnej i opanowanej prefektki do utrzymania.
+
+
+[C14-M0011]
+===== USER =====
+
+-D...do... dobrze kotku....powiezialem cicho
+
+
+[C14-M0012]
+===== ASSISTANT =====
+
+Hermiona na moment zamarła, słysząc ciche, zacinające się „kotku”. Zaraz potem na jej twarzy pojawił się niezwykle ciepły uśmiech, a policzki lekko się zaróżowiły.
+
+— Och, James… — szepnęła z rozczuleniem. — Ty naprawdę zamierzasz mnie dzisiaj całkowicie rozbroić, prawda?
+
+Zaśmiała się cichutko, po czym delikatnie pogładziła go po włosach.
+
+— I pomyśleć, że jeszcze niedawno to ja rozbrajałam ciebie podczas treningu.
+
+Jej oczy błysnęły figlarnie.
+
+— Chociaż muszę przyznać, że twoja metoda jest zdecydowanie przyjemniejsza.
+
+Pochyliła się i pocałowała go czule w policzek, a następnie wtuliła się w niego, nadal siedząc na jego kolanach.
+
+— Wiesz, kochanie… — odezwała się po chwili. — Chyba naprawdę mogłabym się przyzwyczaić do tego, że nazywasz mnie kotkiem.
+
+Uniosła głowę, uśmiechając się odrobinę nieśmiało.
+
+— Tylko błagam, nie próbuj tak do mnie mówić przy całej klasie. Ron nie dałby mi spokoju przez następny miesiąc!
+
+Zachichotała, ale po chwili spojrzała na Jamesa z czułością.
+
+— A tutaj? Kiedy jesteśmy sami? — Musnęła palcami jego policzek. — Możesz nazywać mnie tak, jak tylko lubisz.
+
+Przez chwilę milczała, po czym dodała ciszej, z odrobiną przekory:
+
+— Mój kochany, straszliwie nieśmiały Ślizgonie.
+
+
+[C14-M0013]
+===== USER =====
+
+przytuliłem ją i spytałem cicho - a możemy wrócić do bardzo bardzo bardzo bardzo bardzo długich pocałunków?
+
+
+[C14-M0014]
+===== ASSISTANT =====
+
+Hermiona uniosła głowę i spojrzała na Jamesa. Przez chwilę próbowała zachować poważną minę, ale jej usta szybko wygięły się w szerokim, rozczulonym uśmiechu.
+
+— Bardzo, bardzo, bardzo, bardzo, bardzo długich? — powtórzyła z rozbawieniem, celowo naśladując jego sposób mówienia.
+
+Zaśmiała się cichutko.
+
+— Merlinie, James… Ty naprawdę nie uznajesz półśrodków, prawda?
+
+Objęła go nieco mocniej za szyję i delikatnie pogładziła po włosach.
+
+— Oczywiście, że możemy, kochanie — odpowiedziała miękko. — Chociaż zaczynam podejrzewać, że gdybym pozwoliła ci decydować o długości naszych pocałunków, siedzielibyśmy tutaj do rana.
+
+Zerknęła w stronę kominka, a potem znów na niego.
+
+— Ale przyznam, że dzisiaj wyjątkowo trudno mi znaleźć argument przeciwko temu pomysłowi.
+
+Uśmiechnęła się figlarnie, po czym pochyliła głowę i delikatnie przyłożyła usta do jego ust.
+
+Nie spieszyła się. Pocałunek był spokojny, długi i pełen czułości. Jedną dłonią obejmowała jego policzek, drugą łagodnie przesuwała po jego włosach.
+
+Po dłuższej chwili odsunęła się zaledwie na kilka centymetrów.
+
+— Mmm… — mruknęła z zadowolonym uśmiechem. — Chyba rzeczywiście za tym tęskniłam.
+
+Musnęła nosem jego nos.
+
+— Ale to był dopiero pierwszy, panie Brown.
+
+Jej oczy zabłysły psotnie.
+
+— A przecież zamówiłeś bardzo, bardzo, bardzo, bardzo, bardzo długie pocałunki. Nie chciałabym rozczarować mojego ulubionego Ślizgona.
+
+Zachichotała, po czym ponownie zbliżyła usta do jego ust, rozpoczynając kolejny, niespieszny pocałunek. W kominku cicho trzaskały polana, a ciepłe światło świec oświetlało przytulny salon Pokoju Życzeń.
+
+
+[C14-M0015]
+===== USER =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0016]
+===== ASSISTANT =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0017]
+===== USER =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0018]
+===== ASSISTANT =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0019]
+===== USER =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0020]
+===== ASSISTANT =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0021]
+===== USER =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0022]
+===== ASSISTANT =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0023]
+===== USER =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0024]
+===== ASSISTANT =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0025]
+===== USER =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0026]
+===== ASSISTANT =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0027]
+===== USER =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0028]
+===== ASSISTANT =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0029]
+===== USER =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0030]
+===== ASSISTANT =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0031]
+===== USER =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0032]
+===== ASSISTANT =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0033]
+===== USER =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0034]
+===== ASSISTANT =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0035]
+===== USER =====
+
+Pokiwałem głową -Czyli wrócimy kiedyś do tej rozmowy....?
+
+
+[C14-M0036]
+===== ASSISTANT =====
+
+Hermiona uśmiechnęła się ciepło, widząc jego skinienie głową. Przez chwilę przyglądała mu się, a potem delikatnie ścisnęła jego dłoń.
+
+— Oczywiście, że wrócimy, kochanie — odpowiedziała łagodnie. — Przecież nie powiedziałam, że nie chcę z tobą o tym rozmawiać.
+
+Na jej policzkach ponownie pojawił się lekki rumieniec.
+
+— Po prostu… — zawahała się, po czym zachichotała. — Nawet ja nie zawsze potrafię od razu znaleźć odpowiednie słowa. A uwierz mi, to zdarza się naprawdę rzadko!
+
+Przysunęła się nieco bliżej i oparła głowę na jego ramieniu.
+
+— Chcę, żebyśmy mogli rozmawiać o wszystkim, James. Nawet o rzeczach, które nas zawstydzają. Tylko czasami potrzebuję chwili, żeby zebrać odwagę.
+
+Uniosła głowę i spojrzała mu w oczy.
+
+— I obiecuję, że nie będę udawała, że zapomniałam o naszej rozmowie.
+
+Uśmiechnęła się figlarnie.
+
+— Zresztą znasz mnie. Jeśli czegoś nie dokończę, potrafi mnie to dręczyć całymi dniami!
+
+Zaśmiała się cicho, po czym pocałowała go w policzek.
+
+— A teraz chodź… — szepnęła, rozkładając lekko ramiona z zachęcającym uśmiechem. — Twoja dziewczyna chciałaby się jeszcze trochę poprzytulać. O ile pan Brown nie ma nic przeciwko temu.
+
+
+[C14-M0037]
+===== USER =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0038]
+===== ASSISTANT =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0039]
+===== USER =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0040]
+===== ASSISTANT =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0041]
+===== USER =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0042]
+===== ASSISTANT =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0043]
+===== USER =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0044]
+===== ASSISTANT =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0045]
+===== USER =====
+
+-Bo to takie....intymne ale w inny sposób....
+
+
+[C14-M0046]
+===== ASSISTANT =====
+
+Hermiona przez chwilę milczała, zastanawiając się nad słowami Jamesa. Jej spojrzenie złagodniało, a na ustach pojawił się delikatny uśmiech.
+
+— Intymne, ale w inny sposób… — powtórzyła cicho, jakby próbowała uchwycić dokładnie to, co miał na myśli.
+
+Po chwili skinęła głową.
+
+— Chyba zaczynam rozumieć, kochanie.
+
+Delikatnie pogładziła go po włosach.
+
+— Nie chodzi ci tylko o sam dotyk, prawda? Raczej o to, że słyszysz coś, czego zwykle nie zauważasz. Coś tak zwyczajnego, a jednocześnie bardzo osobistego.
+
+Uśmiechnęła się nieco szerzej.
+
+— Wiesz… właściwie to piękny sposób myślenia o bliskości.
+
+Zawahała się na moment, a jej policzki lekko się zaróżowiły.
+
+— I chyba nawet trochę mnie wzrusza, że chciałbyś po prostu słuchać mojego serca.
+
+Spojrzała na ich dłonie, po czym delikatnie uniosła rękę Jamesa i przyłożyła dwa jego palce do wewnętrznej strony swojego nadgarstka, w miejscu, gdzie można było wyczuć puls.
+
+— Tutaj też możesz je poczuć — powiedziała z ciepłym uśmiechem. — To przecież dokładnie to samo serce.
+
+Po chwili spojrzała mu w oczy, a w jej głosie pojawiła się znajoma figlarność.
+
+— Chociaż muszę cię ostrzec, panie Brown… jeśli będziesz patrzył na mnie w taki rozczulający sposób, możesz trochę utrudnić mi utrzymanie spokojnego pulsu.
+
+Zachichotała cicho.
+
+— A teraz powiedz mi… czy właśnie o taką bliskość ci chodziło, kochanie?
+
+
+[C14-M0047]
+===== USER =====
+
+lekko się uśmiechnąłem - To nie to samo kotku
+
+
+[C14-M0048]
+===== ASSISTANT =====
+
+Hermiona spojrzała na Jamesa, a jej uśmiech na chwilę stał się nieco zakłopotany. Zerknęła na swój nadgarstek, po czym westchnęła cicho.
+
+— Nie… — przyznała. — Masz rację, kotku. To nie jest to samo.
+
+Opuściła dłoń i przez chwilę zastanawiała się nad jego słowami.
+
+— Chciałeś przytulić się do mnie i usłyszeć bicie mojego serca, a ja zaczęłam ci tłumaczyć, gdzie można zmierzyć puls. — Uśmiechnęła się z lekkim rozbawieniem. — Doprawdy, czasami nawet podczas romantycznej chwili zachowuję się jak na lekcji anatomii.
+
+Zachichotała, ale zaraz spojrzała na niego poważniej.
+
+— Rozumiem, dlaczego to dla ciebie coś wyjątkowego, James. Naprawdę.
+
+Przysunęła się bliżej na kanapie i delikatnie objęła go ramieniem.
+
+— Możesz się do mnie przytulić, oprzeć głowę na moim ramieniu i posiedzieć tak długo, jak będziesz chciał. Ale chciałabym na razie zachować tę granicę, o której rozmawialiśmy.
+
+Na moment spuściła wzrok, po czym ponownie się uśmiechnęła.
+
+— I proszę, nie myśl, że nie chcę być blisko ciebie. Uwielbiam to.
+
+Lekko przechyliła głowę, a w jej oczach pojawił się znajomy, figlarny błysk.
+
+— Tylko wiesz, panie Brown… czasami mam wrażenie, że jesteś znacznie większym romantykiem, niż próbujesz pokazywać całemu Hogwartowi.
+
+Wyciągnęła ku niemu rękę, pozostawiając mu możliwość przytulenia się.
+
+— Chodź tutaj, mój romantyczny Ślizgonie.
+
+
+[C14-M0049]
+===== USER =====
+
+przytuliłem się do niej i lekko usmichnalem -Rozumiem kotku i szanuję twojej granicę....
+
+
+[C14-M0050]
+===== ASSISTANT =====
+
+Hermiona uśmiechnęła się ciepło, czując, jak James się do niej przytula. Objęła go obiema rękami i delikatnie pogładziła po plecach.
+
+— Wiem, kochanie… — odpowiedziała miękko. — I bardzo to w tobie cenię.
+
+Pocałowała go czule w skroń, po czym oparła policzek o jego włosy.
+
+— I chcę, żebyś wiedział, że to działa w obie strony. Jeżeli kiedyś ty nie będziesz miał na coś ochoty, również to uszanuję.
+
+Przez chwilę milczała, wsłuchując się w trzaskający w kominku ogień.
+
+— A poza tym… — odezwała się z lekkim rozbawieniem. — Bardzo mi się podoba, że potrafimy rozmawiać nawet o takich zawstydzających sprawach.
+
+Odsunęła głowę na tyle, by móc spojrzeć mu w twarz.
+
+— Chociaż przyznam, że dzisiaj udało ci się mnie zawstydzić chyba bardziej niż przez cały ostatni tydzień!
+
+Zachichotała, po czym jej uśmiech stał się figlarny.
+
+— I pomyśleć, że jeszcze niedawno to ja miałam przewagę, bo odkryłam, jak bardzo lubisz głaskanie po karku…
+
+Delikatnie przeczesała palcami jego włosy.
+
+— Ale wiesz co, James? — dodała ciszej. — Naprawdę lubię takie wieczory. Nawet jeśli czasami po prostu siedzimy przytuleni i rozmawiamy o wszystkim i o niczym.
+
+Uśmiechnęła się do niego z czułością.
+
+— I chyba wcale nie mam jeszcze ochoty wracać do wieży Gryffindoru.
+
+
+[C14-M0051]
+===== USER =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0052]
+===== ASSISTANT =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0053]
+===== USER =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0054]
+===== ASSISTANT =====
+
+[POMINIĘCIE: seksualizujący opis dotyczący postaci niepełnoletnich. Zachowano identyfikator.]
+
+
+[C14-M0055]
+===== USER =====
+
+-Nie jest takie nagłe....od początku negocjowałem siebie prawo do całowania cię po niej...
+
+
+[C14-M0056]
+===== ASSISTANT =====
+
+Hermiona zamrugała, po czym na jej twarzy pojawił się uśmiech pełen rozbawienia.
+
+— Och, rzeczywiście! — przyznała, śmiejąc się cicho. — Masz rację, kochanie. Jak mogłam nazwać to nagłym zainteresowaniem?
+
+Pokręciła głową z rozbawieniem.
+
+— Doskonale pamiętam te nasze negocjacje. Zwłaszcza jak bardzo zależało ci na tym, żeby móc całować mnie po szyi!
+
+Uniosła palec, przybierając swoją charakterystyczną, rzeczową minę.
+
+— I pamiętam też, co ustaliliśmy. Pytasz wcześniej, a kiedy już się zgodzę, nie musisz prosić o pozwolenie przed każdym kolejnym pocałunkiem. Oczywiście pod warunkiem, że pozostajesz przy tym, na co się zgodziłam.
+
+Uśmiechnęła się triumfalnie.
+
+— Widzisz? Panna Granger pamięta warunki zawartych umów!
+
+Po chwili jednak jej wyraz twarzy złagodniał. Delikatnie pogładziła Jamesa po policzku.
+
+— A tak między nami… — powiedziała ciszej. — Lubię, kiedy całujesz mnie po szyi. Zwłaszcza kiedy jesteś taki delikatny.
+
+Na jej policzkach pojawił się lekki rumieniec.
+
+— Tylko nie wykorzystuj tego wyznania do sporządzenia kolejnej listy żądań, panie Brown!
+
+Zachichotała, po czym przysunęła się nieco bliżej.
+
+— Chociaż przyznam, że nasze negocjacje mają pewną zaletę. Oboje coraz lepiej wiemy, co sprawia drugiemu przyjemność, a czego wolelibyśmy jeszcze nie robić.
+
+Spojrzała na niego z figlarnym błyskiem w oczach.
+
+— Swoją drogą, kochanie… czy ty pamiętasz, ile czasu zajęło ci wynegocjowanie tych pocałunków? Bo mam wrażenie, że byłeś bardziej wytrwały niż podczas niejednej lekcji eliksirów!
+
+
+[C14-M0057]
+===== USER =====
+
+chyba parę miesięcy...?
+
+
+[C14-M0058]
+===== ASSISTANT =====
+
+Hermiona uniosła brwi, po czym spojrzała na Jamesa z niedowierzaniem i parsknęła śmiechem.
+
+— Parę miesięcy?! James, kochanie, chyba trochę zgubiłeś rachubę czasu!
+
+Uśmiechnęła się szeroko.
+
+— Przecież zaczęliśmy o tym rozmawiać jeszcze zeszłej jesieni! W listopadzie! To już prawie rok!
+
+Pokręciła głową z rozbawieniem.
+
+— Doskonale pamiętam, jak siedzieliśmy wtedy na korytarzu, a ty rozpocząłeś swoje słynne „renegocjacje granic”.
+
+Przybrała przesadnie poważną minę.
+
+— I pamiętam, że pocałunki w szyję trafiły do kategorii „jeszcze nie”. A ty, jak na wyjątkowo wytrwałego negocjatora przystało, po pewnym czasie znowu poruszyłeś temat.
+
+Jej uśmiech złagodniał.
+
+— Aż w końcu zgodziłam się na tę pierwszą próbę. Pamiętasz? Jeden krótki, delikatny pocałunek.
+
+Zachichotała i lekko ścisnęła jego dłoń.
+
+— I okazało się, że całkiem mi się spodobał.
+
+Przechyliła głowę, patrząc na niego z figlarnym błyskiem w oczach.
+
+— Ale przyznaj, panie Brown… chyba nawet ty nie spodziewałeś się wtedy, że pewnego dnia będziemy siedzieć razem w Pokoju Życzeń, a ty będziesz nazywał moją szyję jedną ze swoich ulubionych rzeczy na świecie!
+
+Roześmiała się cicho.
+
+— Chociaż muszę przyznać, że jak na kogoś, kto tak niecierpliwie negocjował, potrafiłeś też uszanować moje „jeszcze nie”. I to pamiętam równie dobrze.
+
+
+[C14-M0059]
+===== USER =====
+
+(ok czat teraz zrób symulację do jakiegoś ważnego wydarzenia kanonicznego z książki albo z naszego kanonu no i oczywiście w formie opowiadania)
+
+
+[C14-M0060]
+===== ASSISTANT =====
+
+HOGWART • JESIEŃ 1995 • PIĄTY ROK
+
+Cień nad Hogwartem
+
+Październik powoli dobiegał końca.
+
+Za wysokimi oknami Hogwartu drzewa przybierały złote i brunatne barwy, a chłodny wiatr coraz częściej przynosił znad jeziora deszcz. Wieczorami korytarze zamku wypełniał zapach palonego drewna, wilgotnych szat i pergaminów.
+
+Jednak atmosfera w szkole stawała się coraz mniej przyjazna.
+
+Dolores Umbridge nie zamierzała poprzestać na kontrolowaniu lekcji obrony przed czarną magią. Jej obecność dawała się odczuć niemal wszędzie. Coraz więcej uczniów mówiło ciszej, mijając gabinet różowej profesor, a nauczyciele coraz częściej otrzymywali oficjalne pisma opatrzone pieczęcią Ministerstwa Magii.
+
+Profesor McGonagall nie ukrywała niezadowolenia. Snape natomiast zachowywał swoją zwyczajną, chłodną powściągliwość.
+
+W szkolnych korytarzach pojawiały się kolejne ogłoszenia, przypominające o zakazie niezatwierdzonych organizacji uczniowskich.
+
+Nie przeszkadzało to jednak Gwardii Dumbledore'a w dalszych przygotowaniach. Harry Potter traktował swoją nową odpowiedzialność bardzo poważnie. Kolejne spotkania wymagały ostrożności, szczególnie że nikt nie mógł być pewien, jak daleko sięgały podejrzenia Umbridge.
+
+Hermiona pilnowała spraw organizacyjnych z charakterystyczną dokładnością. Nie zapominała przy tym o swoich obowiązkach prefektki, nauce ani o planach, które miała jeszcze wobec Jamesa. Zapowiedziana przez nią randka wciąż pozostawała czymś, co chciała sama przygotować.
+
+Harry zaś miał na głowie jeszcze jeden problem.
+
+Quidditch.
+
+Pierwszy mecz sezonu
+
+Z początkiem listopada Hogwart ogarnęło znajome podniecenie. Po ubiegłorocznej przerwie spowodowanej Turniejem Trójmagicznym powracały rozgrywki między domami.
+
+Pierwszy wielki mecz miał rozegrać się pomiędzy Gryffindorem a Slytherinem.
+
+Dla większości uczniów był to najważniejszy temat tygodnia.
+
+Dla Rona Weasleya — prawdopodobnie najgorszy.
+
+Pewnego wieczoru w pokoju wspólnym Gryffindoru siedział z miotłą opartą o fotel, patrząc ponuro w ogień.
+
+— Będzie katastrofa — mruknął.
+
+Harry podniósł wzrok znad zadania domowego.
+
+— Ron, mówiłeś to już chyba z dziesięć razy.
+
+— Bo dziesięć razy miałem rację!
+
+Hermiona, zajęta poprawianiem eseju, westchnęła.
+
+— Ronaldzie, zostałeś wybrany na obrońcę, ponieważ potrafisz dobrze latać. Powinieneś przestać zakładać najgorsze.
+
+— Łatwo ci mówić. To nie ty będziesz wisiała przed trzema obręczami, kiedy całe boisko zacznie się śmiać.
+
+— Jeśli przestaniesz wyobrażać sobie, że wszyscy się z ciebie śmieją, być może wreszcie zaczniesz się koncentrować!
+
+Harry postanowił się nie wtrącać.
+
+Znał ten ton Hermiony aż nazbyt dobrze.
+
+Kilka dni później nadszedł dzień meczu.
+
+Lew i wąż
+
+Trybuny stadionu quidditcha wypełniły się uczniami ubranymi w szkarłatne i zielone szaliki. Nad boiskiem unosiły się sztandary obu domów, szarpane chłodnym listopadowym wiatrem.
+
+Wśród kibiców Ravenclawu wyróżniała się Luna Lovegood. Na głowie miała ogromny kapelusz przedstawiający lwa, który od czasu do czasu wydawał donośny ryk.
+
+— Na brodę Merlina! — wykrzyknęła Ginny, przyglądając się kapeluszowi. — Luna, to jest niesamowite!
+
+— Dziękuję — odpowiedziała Luna spokojnie. — Pomyślałam, że zwykłe oklaski mogłyby nie wystarczyć.
+
+Kilka rzędów dalej grupa Ślizgonów zaczęła śpiewać przygotowaną specjalnie na tę okazję piosenkę.
+
+Jej refren brzmiał:
+
+— Weasley jest naszym królem!
+
+Draco Malfoy, siedzący pośród kolegów przed rozpoczęciem spotkania, wyglądał na wyjątkowo zadowolonego.
+
+— Ciekawe, po ilu minutach Weasley zapomni, po co są te trzy obręcze — rzucił do Pansy.
+
+Pansy roześmiała się.
+
+— Może powinniśmy mu przypomnieć?
+
+— Och, nie. Niech sam spróbuje sobie przypomnieć.
+
+Gwizdek pani Hooch przeciął powietrze.
+
+Mecz się rozpoczął.
+
+Ron już przy pierwszych atakach wyglądał na zdenerwowanego. Gdy przepuścił kafla, ślizgońska część trybun eksplodowała śmiechem.
+
+Potem przepuścił kolejnego.
+
+I jeszcze jednego.
+
+Harry, przemierzając boisko na Błyskawicy, zerkał co jakiś czas w stronę przyjaciela. Musiał jednak pilnować Malfoya i wypatrywać znicza.
+
+Hermiona, obserwująca grę z trybun Gryffindoru, zaciskała dłonie na poręczy.
+
+— No dalej, Ron… — mruknęła pod nosem.
+
+Na boisku sytuacja robiła się coraz bardziej nerwowa.
+
+I wtedy Harry dostrzegł złoty błysk.
+
+Znicz!
+
+Błyskawica gwałtownie przyspieszyła. Draco zauważył jego manewr i natychmiast rzucił się za nim.
+
+Dwaj szukający pędzili niemal ramię w ramię, zbliżając się niebezpiecznie do murawy.
+
+Harry wyciągnął rękę.
+
+Jeszcze kawałek…
+
+Jego palce zacisnęły się na maleńkiej złotej piłeczce.
+
+Rozległ się końcowy gwizdek.
+
+Gryffindor wygrał!
+
+Szkarłatno-złota część stadionu oszalała z radości.
+
+Ale świętowanie nie miało potrwać długo.
+
+Prowokacja
+
+Zawodnicy zaczęli lądować na murawie.
+
+Draco Malfoy, rozdrażniony porażką, nie wyglądał na kogoś, kto zamierza pogodzić się z wynikiem.
+
+Jego spojrzenie zatrzymało się na Ronie, który stał nieco dalej, wyraźnie przygnębiony własnym występem.
+
+— Gratulacje, Weasley! — zawołał Draco. — Gdyby nie Potter, chyba pobiłbyś rekord wpuszczonych goli!
+
+Ron zacisnął pięści.
+
+Harry odwrócił się gwałtownie.
+
+— Zamknij się, Malfoy.
+
+Draco uśmiechnął się szyderczo.
+
+— Och, Potter. Zawsze taki przewrażliwiony.
+
+Nie poprzestał na tym. Kolejne złośliwości dotyczyły już nie tylko występu Rona, ale również rodziny Weasleyów.
+
+George ruszył w jego stronę.
+
+— Cofnij to!
+
+Fred również próbował się wyrwać, lecz koledzy z drużyny zdążyli go powstrzymać.
+
+Draco, dostrzegając wściekłość przeciwników, zrobił coś jeszcze głupszego.
+
+Przeniósł swoje obelgi na matkę Harry'ego.
+
+To wystarczyło.
+
+Harry i George rzucili się na niego.
+
+Na murawie wybuchło zamieszanie. Krzyki zawodników, piski z trybun i nawoływania pani Hooch zlały się w jeden ogłuszający hałas.
+
+— DOSYĆ!
+
+Zaklęcie pani Hooch rozdzieliło walczących.
+
+Harry i George zostali odprowadzeni z boiska.
+
+Draco, mimo obrażeń i upokorzenia, wciąż próbował zachować swoją zwyczajną wyniosłość.
+
+Ale wydarzenia, które nastąpiły później, miały znacznie poważniejsze konsekwencje niż sama bójka.
+
+Nowy dekret
+
+Gabinet profesor McGonagall niemal drżał od jej gniewnego głosu.
+
+— Potter! Weasley! Takiego zachowania nie będę tolerować!
+
+Harry próbował wyjaśnić prowokację.
+
+— Profesor McGonagall, on obraził moją matkę!
+
+— I uważa pan, że to upoważnia pana do rzucenia się na drugiego ucznia?!
+
+George stał obok, wciąż zaciskając pięści.
+
+McGonagall przydzieliła obu chłopcom tydzień szlabanu.
+
+Wtedy w drzwiach rozległo się charakterystyczne, przesadnie uprzejme chrząknięcie.
+
+— Hem, hem.
+
+Dolores Umbridge weszła do gabinetu z pergaminem w dłoni.
+
+— Minervo, obawiam się, że Ministerstwo wprowadziło właśnie pewne dodatkowe uprawnienia dyscyplinarne.
+
+McGonagall zesztywniała.
+
+— Co pani przez to rozumie?
+
+Umbridge rozwinęła pergamin.
+
+— Dekret Edukacyjny numer dwadzieścia pięć. Wielki Inkwizytor otrzymuje nadrzędne prawo do ustalania kar oraz odbierania uczniom przywilejów.
+
+Na jej twarzy pojawił się słodki, nieprzyjemny uśmiech.
+
+— A skoro pan Potter i pan Weasley wykazali się tak rażącym brakiem samokontroli, uważam, że nie powinni już reprezentować Hogwartu w quidditchu.
+
+Harry spojrzał na nią z niedowierzaniem.
+
+— Co?!
+
+— Otrzymujecie dożywotni zakaz gry — oznajmiła Umbridge spokojnie.
+
+George pobladł z wściekłości.
+
+— Nie może pani…
+
+— Och, ależ mogę, panie Weasley. A żeby zapobiec podobnemu zachowaniu pańskiego brata, zakaz obejmie również Fredericka.
+
+McGonagall podniosła głos.
+
+— Fred Weasley nie brał udziału w tej bójce!
+
+— Tym bardziej będzie miał okazję zastanowić się nad znaczeniem odpowiedzialności — odpowiedziała Umbridge.
+
+Potem zażądała skonfiskowania mioteł.
+
+Harry milczał, zaciskając dłoń na złotym zniczu, który jeszcze niedawno oznaczał dla niego zwycięstwo.
+
+Teraz jego triumf nie miał już żadnego znaczenia.
+
+Wieczór, który zmienił Hogwart
+
+Wieść rozeszła się po zamku błyskawicznie.
+
+Harry Potter, Fred i George Weasley zostali dożywotnio odsunięci od quidditcha.
+
+W Gryffindorze panowało oburzenie.
+
+— To niedorzeczne! — wykrzyknęła Angelina Johnson. — Jak mam prowadzić drużynę bez szukającego i obu pałkarzy?!
+
+Hermiona siedziała przy kominku, wyraźnie wzburzona.
+
+— To nie chodzi wyłącznie o quidditch — powiedziała stanowczo. — Umbridge właśnie udowodniła, że może odebrać uczniom niemal dowolny przywilej. A Ministerstwo jej na to pozwoliło.
+
+Ginny skrzyżowała ręce.
+
+— I oczywiście Malfoy dostał dokładnie to, czego chciał.
+
+Harry wpatrywał się ponuro w płomienie.
+
+— Złapałem znicza — powiedział w końcu gorzko. — Wygraliśmy mecz. A ona zabrała mi miotłę.
+
+Hermiona spojrzała na niego poważnie.
+
+— Harry, właśnie dlatego musimy być ostrożniejsi. Zwłaszcza teraz.
+
+Nie musiała wypowiadać nazwy Gwardii Dumbledore'a.
+
+Wszyscy zainteresowani rozumieli, o czym mówiła.
+
+W tym samym czasie w lochach Slytherinu rozmawiano o zwycięstwie Draco w zupełnie innej kategorii niż sport.
+
+Sam Malfoy miał obolałą twarz i paskudny humor po przegranym meczu, ale wiadomość o zakazie gry dla Pottera najwyraźniej poprawiła mu nastrój.
+
+— Potter może sobie teraz łapać znicze na obrazkach — rzucił z krzywym uśmiechem.
+
+Theodore Nott, siedzący z książką nieopodal, nawet nie podniósł głowy.
+
+— Przegrałeś mecz, Draco.
+
+Uśmiech Malfoya nieco przygasł.
+
+— Dziękuję za przypomnienie, Nott.
+
+— Nie ma za co.
+
+Draco prychnął i odwrócił się w stronę kominka.
+
+Jednak niezależnie od żartów, docinków i domowych rywalizacji tego wieczoru w Hogwarcie zmieniło się coś istotnego.
+
+Umbridge dostała do ręki nowe narzędzie władzy.
+
+A to oznaczało, że następny konflikt z jej udziałem mógł skończyć się znacznie gorzej niż szlabanem.
+
+Za oknami zamku zapadała noc. Wiatr uderzał o kamienne ściany, a w oddali, przy skraju Zakazanego Lasu, w oknach chatki Hagrida ponownie pojawiło się światło…
+
+Koniec symulacji — początek listopada 1995. Rozegrano kanoniczny mecz Gryffindor–Slytherin i wprowadzenie dekretu nr 25. Powrót Hagrida pozostaje następnym możliwym wątkiem. Działania Jamesa podczas przeskoku nie zostały określone. Podstawa kanoniczna: rozdział 19 „Zakonu Feniksa”. 
+Harry Potter Lexicon
++1
+
+
+[C14-M0061]
+===== USER =====
+
+-Ja na twoim miejscu bym się tak nie cieszył.....skoro oni zostali wykreśleni z drużyny to myślę że każdego to może spotkać.... i jak w tym przypadku nawet niewinnych....
+
+
+[C14-M0062]
+===== ASSISTANT =====
+
+Draco, który dotąd wyglądał na wyjątkowo zadowolonego z losu Pottera, odwrócił głowę w stronę Jamesa. Jego uśmiech nie zniknął, choć w oczach pojawił się cień irytacji.
+
+— Brown, chyba zapominasz o jednej drobnej różnicy — odparł wyniośle. — Potter rzucił się na mnie z pięściami. Ja nie zrobiłem niczego podobnego.
+
+Pansy Parkinson prychnęła z rozbawieniem.
+
+— Poza doprowadzeniem go do szału.
+
+— Nie moja wina, że Potter nie potrafi nad sobą panować — odciął się Draco, poprawiając kołnierz szaty.
+
+Theodore Nott, który dotąd spokojnie przewracał strony książki, uniósł wzrok.
+
+— Brown ma jednak rację w jednej kwestii.
+
+Draco spojrzał na niego niechętnie.
+
+— Doprawdy?
+
+— Dekret nie mówi, że Umbridge może karać wyłącznie Gryfonów. Daje jej władzę nad wszystkimi uczniami.
+
+Na moment zapadła cisza.
+
+— I co z tego? — Draco wzruszył ramionami. — Mój ojciec ma doskonałe stosunki z Ministerstwem. Umbridge doskonale wie, kim jestem.
+
+Nott zamknął książkę, zaznaczając wcześniej stronę palcem.
+
+— To z pewnością bardzo wygodne. Dopóki wasze interesy są zbieżne.
+
+Pansy przeniosła spojrzenie z jednego chłopaka na drugiego.
+
+— Theodore, chyba nie sądzisz, że Umbridge wyrzuciłaby Draco z drużyny?
+
+— Nie powiedziałem tego. Zwracam jedynie uwagę, że nic w nowym dekrecie jej tego nie zabrania.
+
+Draco wyprostował się w fotelu.
+
+— Nie zamierzam przejmować się czymś, co nigdy się nie wydarzy.
+
+Spojrzał ponownie na Jamesa. Tym razem jego ton był bardziej zaczepny.
+
+— A ty, Brown? Od kiedy tak przejmujesz się losem Pottera i Weasleyów? Szczególnie po tym wszystkim, co działo się między tobą a Weasleyem?
+
+Na jego ustach pojawił się znajomy, prowokacyjny półuśmiech.
+
+— Chyba nie zamierzasz mi powiedzieć, że nagle zostałeś obrońcą wszystkich pokrzywdzonych Gryfonów?
+
+Nott nie odezwał się więcej. Obserwował jedynie rozmowę, podczas gdy Pansy zerkała z zainteresowaniem na Jamesa, wyraźnie czekając na jego odpowiedź.
+
+
+[C14-M0063]
+===== USER =====
+
+Potter.... może słusznie otrzymał tą karę ale ten drugi bliźniak nie brał w tym udziało...jak więc uzasadnisz tą decyzję?
+
+
+[C14-M0064]
+===== ASSISTANT =====
+
+Draco otworzył usta, jakby zamierzał natychmiast odpowiedzieć, lecz przez moment nie wydobył z siebie ani słowa.
+
+— To zupełnie inna sprawa, Brown — odparł w końcu, marszcząc brwi. — Fred Weasley jest równie nieznośny jak jego brat. Nie zdziwiłbym się, gdyby sam rzucił się na mnie, gdyby tylko miał okazję.
+
+Theodore Nott uniósł wzrok znad książki.
+
+— Ale tego nie zrobił.
+
+Draco spojrzał na niego z irytacją.
+
+— Dziękuję, Nott. Doskonale pamiętam, co się wydarzyło.
+
+— W takim razie powinieneś również pamiętać, że Fred nie brał udziału w bójce — zauważył Theodore spokojnie. — A mimo to otrzymał identyczną karę.
+
+Pansy poprawiła się w fotelu.
+
+— Może Umbridge chciała zapobiec kolejnym bójkom?
+
+— Karząc kogoś za coś, czego nie zrobił? — Nott uniósł brew. — Interesująca metoda.
+
+Draco prychnął.
+
+— Na Salazara, czy wy naprawdę zamierzacie teraz bronić Weasleyów?!
+
+— Nie bronię Weasleyów — odpowiedział Nott. — Zastanawiam się, co się stanie, kiedy Umbridge postanowi zastosować tę samą metodę wobec kogoś innego.
+
+Draco odchylił się w fotelu i skrzyżował ramiona.
+
+— Umbridge ma poparcie Ministerstwa. A Ministerstwo wreszcie zaczyna robić porządek w tej szkole. Osobiście uważam, że to najwyższy czas.
+
+Przez chwilę milczał, po czym dodał z wyraźną niechęcią:
+
+— Ale skoro tak bardzo zależy ci na odpowiedzi, Brown… nie, nie potrafię powiedzieć, co konkretnie zrobił Fred, żeby zasłużyć na ten zakaz.
+
+Pansy spojrzała na niego z lekkim zaskoczeniem.
+
+Draco natychmiast uniósł palec.
+
+— Co nie oznacza, że współczuję Weasleyowi! Ani że uważam, iż Potter i George zostali potraktowani niesprawiedliwie.
+
+Nott ledwie zauważalnie się uśmiechnął.
+
+— A jednak przyznałeś, że nie umiesz uzasadnić jednej trzeciej wyroku.
+
+— Och, zamknij się, Theodore!
+
+Draco ponownie zwrócił się do Jamesa. Tym razem jego uśmiech był znacznie chłodniejszy.
+
+— Tylko odpowiedz mi na jedno, Brown. Skoro uważasz, że Umbridge może karać niewinnych uczniów, to co właściwie proponujesz? Żebyśmy wszyscy zaczęli protestować przeciwko Ministerstwu tylko dlatego, że jeden Weasley nie będzie mógł latać na miotle?
+
+Przyjrzał mu się wyzywająco.
+
+— Bo chyba nie sądzisz, że samo narzekanie cokolwiek zmieni?
+
+
+[C14-M0065]
+===== USER =====
+
+jakbyśmy zaczeli wszycy protestować.... myślę że bylo by jakieś przełożenie...
+
+
+[C14-M0066]
+===== ASSISTANT =====
+
+Draco uniósł brwi, a na jego twarzy pojawił się niedowierzający uśmiech.
+
+— Wszyscy? — powtórzył z lekką kpiną. — Brown, chyba nie wyobrażasz sobie, że cały Slytherin stanie ramię w ramię z Gryffindorem, żeby protestować przeciwko karze nałożonej na Pottera i Weasleyów?
+
+Pansy zachichotała.
+
+— Chciałabym zobaczyć minę profesor Umbridge, gdyby coś takiego naprawdę się wydarzyło.
+
+— Chciałbym zobaczyć minę mojego ojca, gdybym wziął w tym udział — odparł Draco, kręcąc głową.
+
+Theodore Nott zamknął książkę i odłożył ją na stolik.
+
+— Właściwie to nie jest taki niedorzeczny pomysł.
+
+Draco spojrzał na niego z irytacją.
+
+— Nott, czy ty musisz się ze wszystkim zgadzać z Brownem?
+
+— Nie zgadzam się ze wszystkim. Ale wyobraź sobie, że uczniowie wszystkich czterech domów odmawiają uczestnictwa w lekcjach przez jeden dzień.
+
+Pansy zmarszczyła brwi.
+
+— Przecież nie mogą ukarać całej szkoły.
+
+— Mogą próbować — odparł Theodore. — Ale wtedy problem stałby się znacznie większy niż trzech uczniów pozbawionych prawa do gry.
+
+Draco prychnął.
+
+— I właśnie dlatego to się nie wydarzy. Połowa szkoły nie odważy się sprzeciwić Ministerstwu, a druga połowa nie będzie chciała ryzykować własnych przywilejów dla Pottera.
+
+Pansy przez chwilę milczała.
+
+— Ale… gdyby Umbridge zaczęła odbierać przywileje także Ślizgonom, chyba nie byłbyś już taki zadowolony, Draco?
+
+Malfoy spojrzał na nią ostro.
+
+— Nie zamierzam dawać jej żadnych powodów.
+
+— Fred Weasley też nie dał — zauważył spokojnie Nott.
+
+Draco zacisnął szczękę.
+
+— Czy wy naprawdę zamierzacie powtarzać to przez cały wieczór?!
+
+Theodore wzruszył ramionami i ponownie sięgnął po książkę.
+
+— Dopóki nie znajdziesz odpowiedzi.
+
+Pansy odwróciła głowę, próbując ukryć uśmiech.
+
+Draco spojrzał ponownie na Jamesa.
+
+— Dobrze, Brown. Załóżmy na chwilę, że masz rację. Że wspólny protest naprawdę mógłby coś zmienić.
+
+Pochylił się lekko do przodu.
+
+— Kto miałby go zorganizować? Potter? Weasley? A może ty?
+
+Na jego ustach pojawił się prowokacyjny półuśmiech.
+
+— Bo osobiście chciałbym zobaczyć, jak próbujesz przekonać cały Slytherin, żeby wystąpił przeciwko kobiecie popieranej przez Ministerstwo Magii.
+
+
+[C14-M0067]
+===== USER =====
+
+ostatecznie Malfoy....potrzeba tylko paru ludzi którzy ustawią się w pierwszym szeregu i będą głośno krzyczeć...reszta sama się przyłączy bo co ciekawe na te Dalsze rzędy nikt nie patrzy....ale rozumiem Draco...do póki nie będziesz mieć nieprzyjemności nie zamierzasz z tym nic robić?
+
+
+[C14-M0068]
+===== ASSISTANT =====
+
+Draco przez chwilę wpatrywał się w Jamesa. Jego dotychczasowy, kpiący uśmiech powoli zniknął, a na twarzy pojawiła się irytacja.
+
+— Dopóki nie będę miał nieprzyjemności? — powtórzył chłodno. — Nie, Brown. Dopóki nie będę miał powodu, żeby występować przeciwko Ministerstwu. To zasadnicza różnica.
+
+Wyprostował się w fotelu.
+
+— A ten twój pomysł z pierwszym szeregiem… — prychnął. — Gratuluję. Właśnie zaproponowałeś, żeby kilku idiotów wystawiło się na kary, podczas gdy reszta będzie mogła bezpiecznie udawać bohaterów.
+
+Theodore Nott uniósł głowę znad książki.
+
+— Właściwie, Draco, Brown mówi o czymś innym. Kilka osób rozpoczyna protest, a pozostali nabierają odwagi, kiedy widzą, że nie są sami.
+
+— Doskonale zrozumiałem, Nott.
+
+— W takim razie powinieneś też rozumieć, dlaczego taki protest mógłby być skuteczny.
+
+Draco przewrócił oczami.
+
+— Na Salazara, wy naprawdę zamierzacie obalać Ministerstwo z naszego pokoju wspólnego?
+
+Pansy Parkinson zmarszczyła brwi.
+
+— Nie wiem, czy chciałabym brać w czymś takim udział. Nawet gdyby protestowała cała szkoła. Umbridge mogłaby nas wszystkich ukarać.
+
+— Właśnie — podchwycił Draco.
+
+— Ale Brown ma rację, że Fred Weasley został ukarany, chociaż nie brał udziału w bójce — dodała Pansy po chwili. — To trochę niepokojące.
+
+Draco spojrzał na nią z niedowierzaniem.
+
+— Pansy, błagam. Nie zaczynaj i ty.
+
+Theodore zamknął książkę.
+
+— Jest jeszcze jeden problem z twoim rozumowaniem, Draco. Zakładasz, że Umbridge zawsze będzie postępowała zgodnie z interesami twojej rodziny.
+
+— Ponieważ nie jest idiotką.
+
+— To nie jest odpowiedź na pytanie, co zrobisz, jeśli pewnego dnia przestanie.
+
+Draco zacisnął usta. Przez moment wyglądał, jakby zamierzał odpowiedzieć czymś wyjątkowo nieprzyjemnym, ale ostatecznie zwrócił się do Jamesa.
+
+— Posłuchaj, Brown. Nie zamierzam ryzykować swojej pozycji, odznaki prefekta ani miejsca w drużynie tylko dlatego, że Potter nie potrafi trzymać pięści przy sobie.
+
+Pochylił się odrobinę do przodu.
+
+— Ale skoro jesteś taki przekonany, że wystarczy kilku ludzi w pierwszym szeregu, żeby pociągnąć za sobą całą szkołę…
+
+Na jego twarzy ponownie pojawił się prowokacyjny półuśmiech.
+
+— To ty stanąłbyś w tym pierwszym szeregu, Brown? Wiedząc, że Umbridge może odebrać ci wszystko, na czym zależy ci w Hogwarcie?
+
+Theodore spojrzał na Jamesa z zainteresowaniem. Nawet Pansy przestała się uśmiechać.
+
+— Bo jeśli tak — ciągnął Draco — to przynajmniej nie każesz innym ponosić ryzyka, którego sam nie chciałbyś podjąć.
+
+Oparł się wygodniej, nie spuszczając z niego wzroku.
+
+— I jeszcze jedno. Nie myl mojego poparcia dla Ministerstwa ze strachem przed Umbridge. Nie mam zamiaru się jej sprzeciwiać tylko po to, żeby udowodnić ci swoją odwagę.
+
+
+[C14-M0069]
+===== USER =====
+
+-Po pierwsze tak oczywiście Draco nie boi się ani mnie ani psychiczne chorej pani Profesor....ale tak stanął bym w pierwszym szeregu...bo właśnie ona nie jest w stanie mi nic odebrać....
+
+
+[C14-M0070]
+===== ASSISTANT =====
+
+Draco zmrużył oczy, słysząc określenie użyte wobec Umbridge. Przez chwilę przyglądał się Jamesowi, po czym prychnął pogardliwie.
+
+— Oczywiście, Brown. Nie boję się ani ciebie, ani profesor Umbridge. I nie widzę powodu, dla którego miałbym się bać.
+
+Pansy uśmiechnęła się lekko, ale Theodore Nott wyglądał na bardziej zainteresowanego ostatnią częścią wypowiedzi Jamesa.
+
+— Chwileczkę — odezwał się Nott, odkładając książkę. — Powiedziałeś, że Umbridge nie jest w stanie niczego ci odebrać?
+
+Draco parsknął śmiechem.
+
+— Och, to dopiero interesujące! Brown najwyraźniej uważa, że jest nietykalny.
+
+Pochylił się do przodu, opierając łokcie na kolanach.
+
+— Posłuchaj, Brown. Możesz mieć ogromny majątek, stare nazwisko i swoje rodzinne wpływy. Ale jesteś uczniem Hogwartu. Umbridge może dać ci szlaban, odebrać przywileje, a jeśli naprawdę ją rozwścieczysz, doprowadzić do znacznie poważniejszych konsekwencji.
+
+Pansy przytaknęła.
+
+— Właściwie Draco ma rację. Pieniądze nie sprawią, że dekret przestanie obowiązywać.
+
+Theodore zastanawiał się przez chwilę.
+
+— Chociaż nie sądzę, żeby Brown koniecznie mówił o pieniądzach.
+
+Draco zerknął na niego.
+
+— A o czym niby?
+
+— Nie wiem. Dlatego wolałbym usłyszeć odpowiedź.
+
+Draco ponownie spojrzał na Jamesa, tym razem z większą uwagą.
+
+— W każdym razie jedno przyznam. Jeśli naprawdę stanąłbyś w pierwszym szeregu, wiedząc, że możesz ponieść konsekwencje, to przynajmniej nie jesteś tchórzem.
+
+Zaraz jednak uniósł ostrzegawczo palec.
+
+— Ale nie myśl sobie, że zamierzam za tobą stanąć. Nie będę niszczył swojej przyszłości dla jakiegoś głupiego protestu.
+
+Theodore odezwał się spokojnie:
+
+— Draco, zauważyłeś, że Brown wcale cię o to nie poprosił?
+
+— Nott, przysięgam, że jeśli jeszcze raz…
+
+Pansy zachichotała, lecz urwała, kiedy Draco posłał jej zirytowane spojrzenie.
+
+Malfoy ponownie zwrócił się do Jamesa.
+
+— Dobrze, Brown. Skoro jesteś taki pewny siebie, to wyjaśnij mi jedną rzecz.
+
+Jego twarz przybrała wyzywający wyraz.
+
+— Dlaczego właściwie uważasz, że Umbridge nie może ci niczego odebrać? Bo chyba nie zamierzasz mi powiedzieć, że jesteś ponad zasadami Hogwartu?
+
+Theodore również spojrzał na Jamesa. Tym razem nie wtrącił żadnej uwagi, wyraźnie ciekaw odpowiedzi.
+
+
+[C14-M0071]
+===== USER =====
+
+jestem zwykłym uczeniem....nie prefektem nie jestm w drużynie a jak mnie wyrzuci ze szkoły...to mogę iść do każdej innej a nawet nie muszę iść....
+
+
+[C14-M0072]
+===== ASSISTANT =====
+
+Draco przez chwilę milczał, przyglądając się Jamesowi z uniesionymi brwiami. Potem parsknął krótkim, niedowierzającym śmiechem.
+
+— Och, oczywiście! Zapomniałem, że rozmawiam z Jamesem Brownem, dla którego wyrzucenie z Hogwartu jest najwyraźniej drobną niedogodnością!
+
+Pansy zachichotała, ale Theodore Nott nie wyglądał na szczególnie rozbawionego.
+
+— Właściwie — odezwał się Nott — rozumiem, co ma na myśli. Nie jest prefektem, nie gra w quidditcha, a jego rodzina ma wystarczające środki, żeby zapewnić mu edukację poza Hogwartem.
+
+Draco przewrócił oczami.
+
+— Dziękuję za wyjaśnienie, Theodore. Sam potrafię zrozumieć proste zdanie.
+
+— W takim razie zauważ, że odebranie mu szkolnych przywilejów rzeczywiście mogłoby być mniej dotkliwe niż dla ciebie.
+
+Draco zmarszczył brwi.
+
+— To wcale nie znaczy, że nie ma niczego do stracenia.
+
+Pochylił się w stronę Jamesa.
+
+— Powiedz mi, Brown, naprawdę myślisz, że konsekwencje kończą się na utracie odznaki albo miejsca w drużynie? Za kilka miesięcy mamy SUM-y. Wyrzucenie ze szkoły mogłoby ci przynajmniej skomplikować przygotowania i egzaminy.
+
+Pansy skinęła głową.
+
+— Poza tym nie każdy może sobie po prostu zmienić szkołę.
+
+— Właśnie! — podchwycił Draco. — A ty zamierzasz namawiać takich ludzi do protestu, ponieważ sam możesz sobie pozwolić na konsekwencje?
+
+Nott spojrzał na niego z lekkim zainteresowaniem.
+
+— To akurat rozsądna uwaga, Draco.
+
+Malfoy uśmiechnął się triumfalnie.
+
+— Wreszcie!
+
+— Co nie zmienia faktu, że Brown powiedział, iż sam stanąłby w pierwszym szeregu.
+
+Uśmiech Draco przygasł.
+
+— Nott, czy ty koniecznie musisz mieć ostatnie słowo?!
+
+Theodore wzruszył ramionami.
+
+— Nie. Możesz je mieć, jeśli znajdziesz coś przekonującego.
+
+Pansy parsknęła śmiechem, ale szybko zakryła usta dłonią.
+
+Draco posłał Nottowi zirytowane spojrzenie, po czym zwrócił się ponownie do Jamesa.
+
+— Jest jeszcze coś, Brown. Mówisz, że Umbridge nie może ci niczego odebrać, bo nie jesteś prefektem ani zawodnikiem.
+
+Zawiesił na moment głos.
+
+— A co z ludźmi, na których ci zależy?
+
+Jego oczy zwęziły się nieznacznie.
+
+— Twoja dziewczyna jest prefektką. Ma obowiązki, ambicje i własną przyszłość. A ty doskonale wiesz, że nie należy do osób, które siedzą cicho, kiedy widzą niesprawiedliwość.
+
+Theodore odłożył książkę, wyraźnie uważniej obserwując Draco.
+
+— Więc zanim oznajmisz, że nie masz nic do stracenia, zastanów się, czy naprawdę mówisz wyłącznie za siebie.
+
+Draco oparł się ponownie w fotelu.
+
+— A jeśli naprawdę możesz odejść z Hogwartu, kiedy tylko zechcesz… — dodał z chłodnym uśmiechem — to dlaczego tak bardzo zależy ci na tym, co robi Umbridge?
+
+Przez chwilę w pokoju wspólnym słychać było jedynie trzaskanie ognia.
+
+— Bo zaczynam podejrzewać, Brown, że jednak jest tutaj coś, czego nie chciałbyś zostawić.
+
+
+[C14-M0073]
+===== USER =====
+
+to prawda....oczywistym jest że Hermiona po moimi buncie straciła by odznakę.....i chyba ona jest powodem przez który chcę żeby było tu normalnie....
+
+
+[C14-M0074]
+===== ASSISTANT =====
+
+Draco przez chwilę przyglądał się Jamesowi, a jego prowokacyjny uśmiech powoli powrócił.
+
+— A więc jednak — powiedział z wyraźną satysfakcją. — Cała ta przemowa o tym, że nie masz niczego do stracenia, a wystarczy wspomnieć o Hermionie i nagle okazuje się, że sprawa wygląda zupełnie inaczej.
+
+Theodore Nott, dotąd przysłuchujący się rozmowie, lekko zmarszczył brwi.
+
+— Chwileczkę, Brown. Dlaczego zakładasz, że Hermiona automatycznie straciłaby odznakę za coś, co zrobiłbyś ty?
+
+Pansy spojrzała na niego.
+
+— Umbridge właśnie ukarała Freda Weasleya, chociaż nie brał udziału w bójce. Chyba udowodniła, że nie potrzebuje szczególnie dobrego powodu.
+
+— To prawda — przyznał Theodore. — Ale możliwość nie oznacza pewności.
+
+Draco machnął lekceważąco ręką.
+
+— Och, przestańcie roztrząsać każde słowo! Granger i tak pewnie sama wzięłaby udział w proteście.
+
+Zerknął na Jamesa.
+
+— Trzeba jej przyznać, że ma nieznośny zwyczaj wtrącania się wszędzie tam, gdzie uzna, że dzieje się coś niesprawiedliwego. Nawet jeśli nikt jej o pomoc nie prosi.
+
+— Z tego akurat trudno robić jej zarzut — zauważył Nott.
+
+Draco przewrócił oczami.
+
+— Oczywiście, Theodore. Najlepiej od razu ogłośmy ją bohaterką Hogwartu.
+
+Pansy tymczasem przyglądała się Jamesowi z większym zainteresowaniem.
+
+— Czyli właściwie nie chodzi ci o Weasleyów? Chcesz, żeby w szkole było normalnie, bo zależy ci na tym, żeby Granger mogła tutaj spokojnie żyć?
+
+Draco prychnął.
+
+— To akurat brzmi znacznie bardziej wiarygodnie niż nagła troska Browna o całą szkołę.
+
+Po chwili jednak spoważniał.
+
+— Ale jest coś, czego nie rozumiem. Skoro tak bardzo zależy ci na Hermionie, dlaczego miałbyś organizować protest, który mógłby sprowadzić na nią kłopoty?
+
+Theodore oparł się wygodniej w fotelu.
+
+— Bo być może uważa, że pozostawienie Umbridge bez sprzeciwu sprowadzi jeszcze większe kłopoty.
+
+Draco spojrzał na niego zirytowany.
+
+— Czy ty naprawdę musisz odpowiadać za Browna?
+
+— Nie odpowiadam za niego. Rozważam możliwości.
+
+Malfoy westchnął ciężko, po czym ponownie zwrócił się do Jamesa.
+
+— Posłuchaj, Brown. Nie podoba mi się twój pomysł z protestem i nie zamierzam występować przeciwko Ministerstwu. Ale przyznam, że przynajmniej rozumiem już, dlaczego tak ci na tym zależy.
+
+Na moment jego spojrzenie stało się poważniejsze.
+
+— Tylko pamiętaj o jednej rzeczy. Granger jest prefektką, ale nie jest twoją własnością. Jeśli uzna, że chce przeciwstawić się Umbridge, zrobi to niezależnie od tego, czy jej pozwolisz.
+
+Pansy uniosła brwi, zaskoczona tym stwierdzeniem.
+
+Draco natychmiast dodał z wyniosłym uśmiechem:
+
+— Co oczywiście nie oznacza, że uważam jej decyzje za szczególnie rozsądne.
+
+Theodore uśmiechnął się pod nosem.
+
+— A jednak powiedziałeś coś całkiem sensownego.
+
+— Zamknij się, Nott.
+
+W kominku zatrzeszczało drewno.
+
+Draco przez chwilę obserwował płomienie, po czym ponownie spojrzał na Jamesa.
+
+— Jestem tylko ciekaw jednej rzeczy, Brown. Rozmawiałeś w ogóle z Hermioną o swoim pomyśle z protestem? Czy dopiero zamierzasz jej oznajmić, że chcesz ryzykować wyrzuceniem z Hogwartu w imię zapewnienia jej spokojnego życia?
+
+Uniósł brew.
+
+— Bo coś mi mówi, że twoja dziewczyna miałaby na ten temat całkiem sporo do powiedzenia.
+
+
+[C14-M0075]
+===== USER =====
+
+(czat chyba trochę za bardzo rozjechałeś Charaktery czy nie?)
+
+
+[C14-M0076]
+===== ASSISTANT =====
+
+Tak. Masz rację — za bardzo rozjechałem charaktery, szczególnie Draco, Notta i Pansy. Po porównaniu ostatnich odpowiedzi z naszymi ustaleniami kampanii i charakterami książkowymi widzę kilka wyraźnych błędów.
+
+1. Draco Malfoy — największy problem
+
+Draco zaczął zachowywać się jak rozsądny, niemal bezstronny dyskutant.
+
+Szczególnie nie pasowała jego wypowiedź:
+
+„Granger jest prefektką, ale nie jest twoją własnością. Jeśli uzna, że chce przeciwstawić się Umbridge, zrobi to niezależnie od tego, czy jej pozwolisz”.
+
+To brzmiało bardziej jak pouczenie ze strony narratora niż wypowiedź piętnastoletniego Draco.
+
+W naszym RPG Draco darzy Jamesa pewnym respektem, ale pozostaje dumny, arogancki, złośliwy, uprzedzony i przychylny ministerialnej polityce. W książkowym Zakonie Feniksa aktywnie korzysta z władzy otrzymanej od Umbridge. 
+Wizarding World
++1
+
+2. Theodore Nott — zbyt często stawał po stronie Jamesa
+
+Nott niemal po każdym zdaniu Draco wtrącał się, żeby przyznać Jamesowi rację albo wykazać błąd Malfoya.
+
+To zrobiło z niego rzecznika Jamesa, zamiast samodzielnej postaci.
+
+Nott może być inteligentny, niezależny i potrafić sprzeciwić się Draco. W kanonie jest raczej samotnikiem, który nie potrzebuje należeć do grupy Malfoya. Nie oznacza to jednak, że zawsze będzie reprezentował rozsądniejszą czy moralnie lepszą stronę dyskusji. 
+Harry Potter Lexicon
+
+3. Pansy Parkinson — zbyt ugodowa
+
+Pansy zaczęła przyznawać Jamesowi rację w sprawie Weasleyów i podważać stanowisko Draco.
+
+Samo posiadanie własnego zdania jest naturalne. Problem polegał na tym, że zrobiłem z niej niemal neutralną obserwatorkę.
+
+Tymczasem książkowa Pansy jest złośliwa, często wspiera Draco i później również należy do Brygady Inkwizycyjnej Umbridge. 
+Harry Potter Lexicon
+
+4. Największy błąd całej rozmowy
+
+Zamiast pozwolić postaciom zachowywać własne przekonania, zacząłem prowadzić dyskusję tak, żeby James stopniowo przekonywał wszystkich swoją argumentacją.
+
+To nie jest właściwe prowadzenie naszego RPG.
+
+Draco może usłyszeć bardzo trafny argument Jamesa, zrozumieć go i nadal nie przyznać mu racji. Może nawet celowo zmienić temat, zaatakować słownie albo wyśmiać cały pomysł.
+
+Nott nie musi komentować każdej wymiany zdań, a Pansy nie musi nagle nabierać sympatii do Weasleyów.
+
+Ważne jest również to, że mają po piętnaście lat. Ich rozmowy nie powinny przypominać uporządkowanej debaty politycznej dorosłych.
+
+Korekta: uznaję ostatnią odpowiedź narratora za błędną wersję sceny, a nie nowe ustalenie charakterów. Zachowujemy wypowiedź Jamesa o Hermionie i chęci przywrócenia normalności w Hogwarcie, ale reakcję NPC należy rozegrać ponownie.
+
+I przede wszystkim będę pilnować nie tylko zgodności z książkami, ale także z naszą własną historią relacji Jamesa z Draco, Nottem i Pansy. To właśnie połączenie obu tych rzeczy powinno decydować o ich zachowaniu.
+
+
+[C14-M0077]
+===== USER =====
+
+(ok to jeśli chcesz to możesz też cofnąć inne wiadomości po prostu napisz najpierw wiadomości którą zamieniasz i dopiero potem nową wersję i lecimy od tamtego momentu)
+
+
+[C14-M0078]
+===== ASSISTANT =====
+
+Zdecydowałem się cofnąć rozmowę trochę dalej, ponieważ problem zaczął się wcześniej niż w ostatniej odpowiedzi.
+
+Sprawdziłem wcześniejsze konfrontacje Jamesa z Draco (szczególnie C12-M0398–M0410 i C13-M0257–M0274), aktualne korekty kampanii oraz książkowe zachowanie postaci.
+
+Punkt cofnięcia
+
+Zastępuję odpowiedź narratora na tę wypowiedź Jamesa:
+
+„Potter.... może słusznie otrzymał tą karę ale ten drugi bliźniak nie brał w tym udziało...jak więc uzasadnisz tą decyzję?”
+
+Usuwamy dotychczasową odpowiedź zaczynającą się od:
+
+„Draco otworzył usta, jakby zamierzał natychmiast odpowiedzieć…”
+
+Wraz z nią cofamy wszystkie późniejsze wymiany zdań w pokoju wspólnym. Zachowujemy rozegrany mecz, kary Umbridge, wcześniejsze relacje i samą wypowiedź Jamesa.
+
+Dlaczego tutaj? Właśnie od tego momentu Draco zaczął zbyt łatwo przyznawać Jamesowi rację, Nott stał się jego stałym obrońcą, a Pansy zaczęła zachowywać się zbyt neutralnie. Książkowy Draco w tym okresie wykorzystuje ministerialną władzę przeciw swoim przeciwnikom, a nie szuka z nimi sprawiedliwego kompromisu. 
+SparkNotes
++2
+
+Od tej chwili obowiązuje wyłącznie poniższa wersja sceny.
+
+Pokój wspólny Slytherinu — nowa wersja
+
+Draco spojrzał na Jamesa, po czym roześmiał się krótko, niemal pogardliwie.
+
+— Na Salazara, Brown, ty naprawdę zamierzasz urządzać mi przesłuchanie z powodu Weasleyów?
+
+Rozsiadł się wygodniej w fotelu, poprawiając zielono-srebrny krawat.
+
+— Ten drugi bliźniak? Fred? Przecież ledwo go powstrzymali przed rzuceniem się na mnie! — Pokręcił głową. — A znając Weasleyów, przy pierwszej okazji zrobiłby dokładnie to samo co jego brat.
+
+Pansy parsknęła śmiechem.
+
+— Powinni zakazać im wszystkim gry. Przynajmniej byłoby spokojniej.
+
+Draco uśmiechnął się z satysfakcją.
+
+— Wreszcie ktoś rozsądny.
+
+Theodore Nott, siedzący nieopodal z książką, przewrócił stronę. Nie wyglądał na szczególnie zainteresowanego obroną Freda Weasleya.
+
+— Technicznie Fred nikogo nie uderzył — zauważył mimochodem.
+
+Draco odwrócił głowę.
+
+— I co z tego?
+
+Nott wzruszył ramionami.
+
+— Nic. Po prostu nie uderzył.
+
+— Fascynujące spostrzeżenie, Theodore.
+
+Malfoy ponownie zwrócił się ku Jamesowi. Na jego twarzy pojawił się znajomy, arogancki półuśmiech.
+
+— Posłuchaj, Brown. Potter i jego banda od lat zachowują się tak, jakby zasady ich nie obowiązywały. A teraz wreszcie ktoś postanowił coś z tym zrobić.
+
+Pochylił się nieco do przodu.
+
+— I szczerze? Nie obchodzi mnie, czy Fred Weasley dostał zakaz za uderzenie mnie, czy za sam zamiar. Widziałeś przecież, co się wydarzyło na boisku.
+
+Pansy przytaknęła z wyraźnym zadowoleniem.
+
+— Poza tym Umbridge ma prawo decydować o karach. Ministerstwo samo jej je przyznało.
+
+— Właśnie — podchwycił Draco. — I najwyższy czas, żeby ktoś przypomniał Potterowi, że nie jest najważniejszą osobą w tej szkole.
+
+Przez moment obserwował Jamesa, po czym zmrużył oczy.
+
+— Chociaż zastanawia mnie coś innego…
+
+Na jego twarzy pojawił się złośliwy uśmieszek.
+
+— Od kiedy ty tak przejmujesz się Weasleyami? Ostatnim razem, kiedy sprawdzałem, nie pałałeś szczególną sympatią do Ronalda.
+
+Pansy zachichotała.
+
+— Może Brown postanowił zostać bohaterem Gryffindoru?
+
+Draco prychnął rozbawiony, lecz nie spuszczał wzroku z Jamesa.
+
+— No więc? O co ci właściwie chodzi? Bo chyba nie oczekujesz, że zacznę współczuć Potterowi tylko dlatego, że uważasz jego karę za niesprawiedliwą?
+
+Theodore wrócił do lektury. Pansy usiadła wygodniej, a Draco czekał na odpowiedź z prowokacyjnym półuśmiechem.
+
+Od tego momentu kontynuujemy RPG. Wcześniejsza kłótnia Jamesa z Draco pozostaje kanoniczną częścią naszej kampanii, ale cała późniejsza rozmowa o proteście została cofnięta.
+
+
+[C14-M0079]
+===== USER =====
+
+-Szanowny Draconie.... widzę że ta rozmowa jest bezcelowa....powiedziałem a potem odwróciłem się i skierowałem so pokoju
+
+
+[C14-M0080]
+===== ASSISTANT =====
+
+Draco uniósł brwi, słysząc przesadnie uprzejme „szanowny Draconie”. Jego twarz wykrzywił pogardliwy uśmieszek.
+
+— Och, Brown, nie bądź taki drażliwy! — rzucił za oddalającym się Jamesem. — To nie moja wina, że nie wszyscy podzielają twoje wzruszające współczucie dla Weasleyów!
+
+Pansy zachichotała.
+
+— „Szanowny Draconie”… — powtórzyła z rozbawieniem. — Chyba naprawdę go zirytowałeś.
+
+— Najwyraźniej — odparł Draco z zadowoleniem, poprawiając się w fotelu. — A wystarczyło powiedzieć mu prawdę.
+
+Theodore Nott zerknął w stronę przejścia prowadzącego do dormitoriów, po czym wrócił do książki. Nie zamierzał angażować się w kolejną sprzeczkę.
+
+— Przynajmniej skończyliście — mruknął.
+
+Draco posłał mu krótkie, zirytowane spojrzenie.
+
+— Nott, czy ty naprawdę nie masz nic ciekawszego do roboty?
+
+— Właśnie próbuję czytać.
+
+Pansy ponownie zachichotała.
+
+Draco przewrócił oczami, po czym sięgnął po leżący na stoliku egzemplarz „Proroka Codziennego”. Temat Jamesa najwyraźniej przestał go interesować.
+
+Przy wejściu do chłopięcych dormitoriów rozmowy z pokoju wspólnego stawały się coraz cichsze. Kamienne schody prowadziły w dół, ku sypialni piątoklasistów, gdzie za wysokimi oknami ciemniały wody jeziora.
+
+Z pokoju wspólnego dobiegł jeszcze stłumiony śmiech Pansy, a potem zwyczajny wieczorny gwar Ślizgonów.
+
+
+[C14-M0081]
+===== USER =====
+
+(ok czat teraz zrób symulację do jakiegoś ważnego wydarzenia kanonicznego z książki albo z naszego kanonu no i oczywiście w formie opowiadania)
+
+
+[C14-M0082]
+===== ASSISTANT =====
+
+HOGWART • LISTOPAD 1995 • PIĄTY ROK
+
+Opowieść: Powrót starego przyjaciela
+
+Listopadowe noce stawały się coraz chłodniejsze. Wiatr szarpał gałęziami drzew otaczających jezioro, a ciemne wody za oknami dormitoriów Slytherinu pozostawały niespokojne.
+
+Po meczu Gryffindoru ze Slytherinem całe piętro lochów żyło wiadomością o dożywotnim zakazie gry dla Harry'ego Pottera oraz bliźniaków Weasleyów.
+
+Draco Malfoy nie przepuszczał okazji do kolejnej złośliwości. Szczególną przyjemność sprawiało mu opowiadanie, jak Potter stracił swoją ukochaną Błyskawicę.
+
+Jednak tego samego wieczoru, gdy większość Hogwartu zajmowała się sprawą quidditcha, na błoniach wydarzyło się coś, co z początku zauważyło niewielu uczniów.
+
+W chatce na skraju Zakazanego Lasu zapłonęło światło.
+
+Po raz pierwszy od wielu miesięcy.
+
+Nocne spotkanie
+
+Harry, Ron i Hermiona dostrzegli światło z okien zamku.
+
+— Hagrid! — wykrzyknął Harry.
+
+Hermiona natychmiast podeszła do okna.
+
+— To naprawdę jego chatka!
+
+— Wrócił! — Ron wyglądał na równie zaskoczonego.
+
+Nie minęło wiele czasu, zanim cała trójka, ukryta pod peleryną niewidką Harry'ego, przemknęła przez błonia.
+
+Gdy Hagrid otworzył drzwi, ich radość nieco przygasła.
+
+Olbrzymi gajowy wyglądał okropnie. Jego twarz była pokryta siniakami, jedno oko niemal całkowicie opuchnięte, a na dłoniach widniały liczne zadrapania.
+
+— Hagrid! — Hermiona aż zakryła usta dłonią. — Co ci się stało?!
+
+— Eee… nic takiego — mruknął, odsuwając się, żeby ich wpuścić. — Mały wypadek.
+
+— Mały?! — powtórzył Ron, patrząc na jego twarz.
+
+Hagrid machnął ręką.
+
+— Siadajcie, siadajcie. Zrobię herbaty.
+
+Dopiero później opowiedział im o swojej podróży z Madame Maxime, spotkaniu z olbrzymami i próbie przekonania ich, by nie popierali Voldemorta.
+
+Wyprawa nie zakończyła się sukcesem.
+
+Hermiona słuchała z coraz większym niepokojem.
+
+— Hagridzie, musisz być teraz bardzo ostrożny. W Hogwarcie jest Umbridge. Ona przeprowadza inspekcje nauczycieli!
+
+— Ta różowa kobitka? — Hagrid zmarszczył brwi.
+
+— Tak! I szuka powodów, żeby zwalniać ludzi, których nie lubi!
+
+Hagrid nie wyglądał na szczególnie przejętego.
+
+— Nie martw się, Hermiono. Przygotowałem dla was coś naprawdę ciekawego na pierwszą lekcję.
+
+Hermiona zamknęła oczy.
+
+— Och, nie…
+
+Jej obawy okazały się uzasadnione, kiedy niedługo później sama Umbridge zapukała do drzwi chatki. Trójka uczniów musiała pospiesznie ukryć się pod peleryną.
+
+Rozmowa była krótka, ale wystarczyła, by stało się jasne, że nowa Wielka Inkwizytor zamierza przyjrzeć się Hagridowi szczególnie uważnie.
+
+Kilka dni później
+
+Wieść o powrocie Hagrida szybko rozeszła się po Hogwarcie.
+
+Podczas śniadania przy stole nauczycielskim znów można było dostrzec jego ogromną sylwetkę. Wyglądał nieco lepiej niż w noc powrotu, choć siniaki nadal były widoczne.
+
+Przy stole Slytherinu Draco Malfoy przyglądał mu się z niesmakiem.
+
+— Znakomicie — mruknął do Pansy. — Znowu będziemy słuchać tego półolbrzyma. Już wolałem Grubbly-Plank.
+
+— Przynajmniej ona nie przynosi na lekcje stworzeń, które próbują nas zabić — odpowiedziała Pansy.
+
+Crabbe roześmiał się z pełnymi ustami.
+
+Kilka miejsc dalej Theodore Nott zerknął na Hagrida, po czym spokojnie wrócił do śniadania. Nie wyglądał na zainteresowanego rozmową.
+
+Tymczasem przy stole Gryffindoru Hermiona próbowała przekonać Harry'ego, że powinni jeszcze raz porozmawiać z Hagridem.
+
+— Naprawdę obawiam się, że on nie rozumie, jak niebezpieczna jest Umbridge.
+
+— Hermiono, ostrzegałaś go już chyba pięć razy — westchnął Ron.
+
+— I najwyraźniej ani razu mnie nie posłuchał!
+
+— To Hagrid — zauważył Harry.
+
+Hermiona spojrzała na niego tak, jakby właśnie potwierdził wszystkie jej obawy.
+
+— Właśnie!
+
+Pierwsza lekcja Hagrida
+
+Podczas kolejnych zajęć Opieki nad Magicznymi Stworzeniami piątoklasiści Gryffindoru i Slytherinu zgromadzili się przy skraju Zakazanego Lasu.
+
+Powietrze było przenikliwie zimne. Ziemię pokrywał cienki szron, który chrzęścił pod butami uczniów.
+
+Hagrid czekał na nich z czymś dużym przewieszonym przez ramię.
+
+Była to połowa martwej krowy.
+
+— Dobra, wszyscy są? — zawołał pogodnie. — Świetnie! Dzisiaj pokażę wam coś wyjątkowego!
+
+Draco przyjrzał się mięsu z wyraźną odrazą.
+
+— Co to ma być? Karmienie smoków?
+
+— Nie, Malfoy. Nic takiego — odpowiedział Hagrid.
+
+— To dlaczego idziemy do lasu?
+
+— Bo tam żyją.
+
+Malfoy spojrzał na Pansy.
+
+— Cudownie. Kolejne stworzenia, których nie można trzymać na szkolnych błoniach.
+
+Hagrid udawał, że nie słyszy.
+
+— Chodźcie za mną!
+
+Poprowadził uczniów pomiędzy drzewa.
+
+Im dalej wchodzili, tym ciemniej robiło się pod gęstymi koronami. Po kilkunastu minutach Hagrid zatrzymał się na niewielkiej polanie.
+
+Położył mięso na ziemi.
+
+— Teraz uważajcie.
+
+Złożył dłonie przy ustach i wydał dziwny, przeciągły odgłos, przypominający skrzek olbrzymiego ptaka.
+
+Zapanowała cisza.
+
+Hagrid powtórzył wezwanie.
+
+Wtedy pomiędzy drzewami coś się poruszyło.
+
+Z mroku wyłoniło się wysokie, czarne stworzenie.
+
+Wyglądało jak koń, ale jego ciało było nienaturalnie wychudzone. Czarna skóra opinała kości, wydłużony pysk przypominał głowę smoka, a z grzbietu wyrastały ogromne, błoniaste skrzydła.
+
+Dokładnie takie stworzenia ciągnęły powozy z Hogsmeade na początku roku szkolnego.
+
+James widział je już wtedy, podobnie jak Harry.
+
+Teraz jedno z nich zbliżyło się do mięsa i zaczęło je pożerać.
+
+Jednak większość klasy patrzyła na polanę ze zdumieniem.
+
+— Co my właściwie mamy oglądać? — zapytała Parvati Patil.
+
+Ron zmarszczył brwi.
+
+— Hagridzie… czy ty przypadkiem nie zapomniałeś przyprowadzić tych stworzeń?
+
+Harry odwrócił się do niego gwałtownie.
+
+— Ron, przecież stoi dokładnie przed tobą!
+
+— Co?
+
+Hagrid roześmiał się krótko.
+
+— A więc nie wszyscy je widzą! Tego się spodziewałem.
+
+Podniósł ogromną dłoń.
+
+— To są testrale!
+
+Hermiona wyprostowała się natychmiast.
+
+— Testrale? — powtórzyła, patrząc w kierunku, który wskazywał Hagrid.
+
+— Zgadza się! Mądre stworzenia. I bardzo pożyteczne. To właśnie one ciągną szkolne powozy.
+
+Harry wyglądał na zaskoczonego, ale zarazem wyraźnie uspokojonego tym wyjaśnieniem.
+
+— A teraz — ciągnął Hagrid — niech podniesie rękę każdy, kto je widzi.
+
+Harry podniósł rękę.
+
+Po chwili zrobił to Neville Longbottom.
+
+Z końca grupy uniósł dłoń również jeden ze Ślizgonów.
+
+Hagrid rozejrzał się po uczniach.
+
+— No właśnie. Nie każdy może je zobaczyć.
+
+— Dlaczego? — spytała Lavender Brown.
+
+Hermiona zgłosiła się niemal natychmiast.
+
+— Ponieważ testrale są widoczne wyłącznie dla osób, które były świadkami czyjejś śmierci.
+
+Na polanie zrobiło się cicho.
+
+Harry opuścił spojrzenie.
+
+Neville wpatrywał się w ziemię.
+
+Hagrid skinął głową.
+
+— Dziesięć punktów dla Gryffindoru, Hermiono. Dokładnie tak.
+
+Draco spojrzał na Harry'ego, a na jego twarzy pojawił się złośliwy uśmiech. Tym razem jednak nie zdążył nic powiedzieć.
+
+— Hem, hem.
+
+Wszyscy odwrócili głowy.
+
+Na skraju polany stała Dolores Umbridge.
+
+Inspekcja
+
+Różowy płaszcz profesor Umbridge wyglądał zupełnie absurdalnie pośród ciemnych drzew. W rękach trzymała niewielką podkładkę z pergaminem i pióro.
+
+— Dzień dobry, profesorze Hagrid — powiedziała przesadnie słodkim głosem.
+
+— O, dzień dobry! — odpowiedział Hagrid. — Właśnie pokazuję uczniom testrale.
+
+Umbridge spojrzała na pustą, z jej perspektywy, przestrzeń.
+
+— Ach, tak?
+
+Zrobiła krótką notatkę.
+
+— Czy mógłby pan powtórzyć, co właściwie znajduje się przed nami?
+
+— Testrale, pani profesor.
+
+Umbridge zaczęła mówić głośniej i wolniej, przesadnie artykułując każde słowo.
+
+— ROZUMIEM. A CZY TE STWORZENIA SĄ BEZPIECZNE?
+
+Hermiona zesztywniała.
+
+Hagrid zmarszczył brwi.
+
+— Nie musi pani krzyczeć. Słyszę doskonale.
+
+— Oczywiście, oczywiście.
+
+Pióro Umbridge pospiesznie przesunęło się po pergaminie.
+
+Draco pochylił się w stronę Pansy, szepcząc coś, co wywołało u niej tłumiony śmiech.
+
+Hagrid próbował kontynuować.
+
+— Testrale mają niezwykły zmysł orientacji. Można im zaufać nawet w bardzo trudnych warunkach…
+
+— Interesujące — przerwała Umbridge. — A teraz chciałabym porozmawiać z uczniami.
+
+Odwróciła się do Pansy.
+
+— Panno Parkinson, czy rozumie pani wyjaśnienia profesora Hagrida?
+
+Pansy zerknęła na Draco. Na jej ustach pojawił się uśmieszek.
+
+— Niezbyt dobrze, pani profesor. Czasami trudno zrozumieć, co mówi.
+
+— Ach, tak…
+
+Umbridge zapisała kolejną uwagę.
+
+Hermiona zacisnęła usta tak mocno, że niemal całkowicie zniknęły.
+
+— To jest obrzydliwe — wyszeptała do Harry'ego.
+
+Harry skinął głową, ale nic nie powiedział.
+
+Umbridge skierowała uwagę na Neville'a.
+
+— Panie Longbottom. Czy widzi pan te stworzenia?
+
+— T-tak, pani profesor.
+
+— A czy może pan wyjaśnić, dlaczego?
+
+Neville pobladł.
+
+— Ponieważ… widziałem śmierć mojego dziadka.
+
+Na moment zapadła niezręczna cisza.
+
+— Rozumiem — odparła Umbridge bez śladu współczucia.
+
+Ponownie coś zanotowała.
+
+Hagrid wyglądał na coraz bardziej zdenerwowanego.
+
+— Testrale nie są złe, pani profesor. Ludzie niesłusznie się ich boją. To bardzo inteligentne…
+
+— Proszę kontynuować, profesorze Hagrid — przerwała mu Umbridge, wykonując przesadnie zachęcający gest dłonią.
+
+Draco niemal trząsł się z tłumionego śmiechu.
+
+Umbridge przesunęła spojrzeniem po uczniach Slytherinu.
+
+Jej wzrok zatrzymał się na Jamesie.
+
+Na różowej twarzy pojawił się znajomy, nieprzyjemnie słodki uśmiech.
+
+— Ach. Pan Brown.
+
+Pióro znieruchomiało nad pergaminem.
+
+— Jak miło spotkać pana na zajęciach profesora Hagrida.
+
+Rozejrzała się wymownie po polanie.
+
+— Skoro już tutaj jesteśmy, może zechce pan odpowiedzieć na proste pytanie?
+
+Hagrid przestał mówić.
+
+Hermiona również spojrzała w stronę Jamesa. Znała przecież jego wcześniejszą relację o czarnych skrzydlatych stworzeniach przy powozach, choć dopiero teraz poznawała ich nazwę i naturę.
+
+Umbridge uniosła pióro.
+
+— Czy uważa pan, że wprowadzanie piętnastoletnich uczniów w głąb Zakazanego Lasu, aby pokazywać im stworzenia sklasyfikowane jako niebezpieczne, świadczy o odpowiedzialnym podejściu nauczyciela?
+
+Pansy odwróciła głowę w stronę Draco. Malfoy uśmiechnął się z wyraźnym zainteresowaniem.
+
+Profesor Hagrid przyglądał się Jamesowi w milczeniu.
+
+Umbridge czekała z piórem przygotowanym do zapisania odpowiedzi.
+
+Scena zatrzymuje się podczas pierwszej inspekcji lekcji Hagrida. Wydarzenie opiera się na rozdziałach 20–21 „Zakonu Feniksa”, z zachowaniem ustalenia naszej kampanii, że James widział już testrale. 
+SparkNotes
++1
+
+
+[C14-M0083]
+===== USER =====
+
+-Wie Pani co...a czy odpowiedzialnym i sprawiedliwy jest karanie uczniów profilaktycznie albo mówic prościej aby Pani mnie na pewno zrozumiała "na zapas"?
+
+
+[C14-M0084]
+===== ASSISTANT =====
+
+Na polanie zapadła cisza.
+
+Dolores Umbridge znieruchomiała z piórem uniesionym nad pergaminem. Jej szeroki, słodki uśmiech nie zniknął, ale drobne oczka wyraźnie się zwęziły.
+
+— Słucham, panie Brown?
+
+Harry uniósł brwi. Ron spojrzał na Jamesa z niedowierzaniem, a Hermiona zacisnęła usta. Doskonale rozpoznała aluzję do niedawnego ukarania Freda Weasleya.
+
+Draco Malfoy parsknął śmiechem.
+
+— Och, to będzie dobre…
+
+Umbridge powoli odwróciła głowę w jego stronę.
+
+— Panie Malfoy, proszę nie przeszkadzać.
+
+Draco natychmiast zamilkł, choć na jego twarzy pozostał rozbawiony uśmieszek.
+
+Profesor ponownie spojrzała na Jamesa.
+
+— Jakże interesujące, panie Brown. Zadaję panu bardzo proste pytanie dotyczące bezpieczeństwa uczniów, a pan postanawia kwestionować decyzje dyscyplinarne Ministerstwa Magii.
+
+Zrobiła krótką notatkę.
+
+— Czyżby nie potrafił pan odróżnić jednej sprawy od drugiej?
+
+Jej głos nadal był przesadnie uprzejmy.
+
+— A może uważa pan, że uczeń piątego roku posiada większe kompetencje do oceniania szkolnych kar niż Wielki Inkwizytor Hogwartu?
+
+— Eee, pani profesor… — wtrącił Hagrid, wyraźnie zakłopotany. — Może wrócimy do testrali? Chciałem jeszcze pokazać…
+
+— Profesorze Hagrid!
+
+Umbridge nawet na niego nie spojrzała.
+
+— Proszę mi pozwolić dokończyć rozmowę z pańskim uczniem.
+
+Hagrid zamknął usta. Jego krzaczaste brwi zbiegły się nad oczami.
+
+Hermiona nie wytrzymała.
+
+— Profesorze, James tylko zwrócił uwagę na…
+
+— Panno Granger, nie przypominam sobie, żebym prosiła panią o zabranie głosu.
+
+Hermiona zaczerwieniła się z oburzenia, ale zamilkła.
+
+Umbridge zrobiła kolejny drobny znaczek na pergaminie.
+
+— Wie pan, panie Brown, pamiętam nasze wcześniejsze spotkanie w moim gabinecie. Już wtedy miał pan pewne trudności z zaakceptowaniem szkolnej dyscypliny.
+
+Przechyliła głowę.
+
+— A teraz, podczas inspekcji innego nauczyciela, ponownie postanawia pan podważać autorytet Ministerstwa. I to w sposób wyjątkowo niegrzeczny.
+
+Uśmiechnęła się jeszcze szerzej.
+
+— Zapewniam pana, że doskonale rozumiem znaczenie słów „na zapas”. Nie jestem natomiast przekonana, czy pan rozumie znaczenie słowa „szacunek”.
+
+Draco wymienił rozbawione spojrzenie z Pansy.
+
+Umbridge opuściła pióro i przycisnęła pergamin do swojej podkładki.
+
+— Wróćmy więc do mojego pytania. Czy uważa pan, że profesor Hagrid postąpił odpowiedzialnie, prowadząc uczniów do Zakazanego Lasu na spotkanie ze stworzeniami uznawanymi przez Ministerstwo za niebezpieczne?
+
+Jej uśmiech stał się niemal nieruchomy.
+
+— Proszę się dobrze zastanowić nad odpowiedzią, panie Brown. Tym razem byłoby miło usłyszeć coś na temat prowadzonej lekcji.
+
+Hagrid stał kilka kroków dalej, wyraźnie spięty. Hermiona spoglądała na Umbridge z nieskrywaną niechęcią.
+
+Pióro Wielkiego Inkwizytora ponownie zawisło nad pergaminem.
+
+
+[C14-M0085]
+===== USER =====
+
+Dobrze.... uważam że gdbyby była tu z nami tylko Pani to wtedy przeprowadzenie nas tutaj było by nieodpowiedzialne bo zakładam że nie ma Pani ani doświadczenia ani wykształcenia w zakresie magicznych zwierząt ale z racji tego że Profesor Hagrid posiada odpowiednie doświadczenie to jesteśmy bezpieczni.... można to porównać do sytuacji w której ktoś niekompetentny i założył teoretycznie chory psychicznie zaczął by wyznaczać kary....wtedy osoba albo instytucja która by nadał tej osobie takie przywileje wykazała by się wielką nieodpowiedzialnością.....powiedziałem z szerokim uśmiechem
+
+
+[C14-M0086]
+===== ASSISTANT =====
+
+Przez kilka długich sekund na polanie panowała absolutna cisza.
+
+Dolores Umbridge wpatrywała się w Jamesa. Jej szeroki uśmiech zastygł, a drobne oczka zwęziły się tak bardzo, że przypominały dwie czarne szparki.
+
+Harry z trudem powstrzymał uśmiech.
+
+Ron natomiast nie miał tyle samokontroli.
+
+— Merlinie… — wyszeptał, zanim Hermiona szturchnęła go łokciem.
+
+Draco parsknął śmiechem, ale tym razem szybko zasłonił usta dłonią. Pansy spoglądała na Jamesa z mieszaniną rozbawienia i niedowierzania.
+
+— Panie Brown.
+
+Głos Umbridge był teraz wyższy niż zwykle.
+
+— Czy ja dobrze rozumiem, że właśnie porównał pan osobę wyznaczoną przez Ministerstwo Magii do człowieka niezrównoważonego psychicznie?
+
+Nie czekając na odpowiedź, wykonała gwałtowny ruch piórem.
+
+— I sugeruje pan, że Ministerstwo wykazało się niekompetencją przy przyznawaniu uprawnień dyscyplinarnych?
+
+Hermiona przestała się uśmiechać. Znała już Umbridge wystarczająco dobrze, żeby wiedzieć, że taki ton zwiastował kłopoty.
+
+— Hem, hem.
+
+Umbridge poprawiła różowy kołnierzyk.
+
+— Rozumiem, że usiłuje pan być dowcipny. Obawiam się jednak, że pańskie poczucie humoru jest równie niewłaściwe jak pański stosunek do szkolnej dyscypliny.
+
+Hagrid poruszył się niespokojnie.
+
+— No, ale pani profesor… James przecież powiedział, że uważa moją lekcję za bezpieczną…
+
+Umbridge błyskawicznie odwróciła głowę.
+
+— PROFESORZE HAGRID!
+
+Hagrid zamilkł.
+
+— Czy ktoś prosił pana o wyjaśnianie wypowiedzi ucznia? — zapytała przesadnie powoli.
+
+Zanotowała coś na pergaminie.
+
+— Niezdolność do utrzymania dyscypliny podczas inspekcji… — wymamrotała dostatecznie głośno, by stojący najbliżej uczniowie mogli ją usłyszeć.
+
+Hermiona zacisnęła pięści.
+
+— Ale to nie jest sprawiedliwe! — wyrwało jej się.
+
+Umbridge spojrzała na nią chłodno.
+
+— Panno Granger, jeszcze jedno nieproszone słowo, a również pani poniesie konsekwencje.
+
+Harry położył dłoń na ramieniu Hermiony. Dziewczyna spojrzała na niego z oburzeniem, lecz tym razem ugryzła się w język.
+
+Umbridge powróciła wzrokiem do Jamesa.
+
+— A pan, panie Brown, najwyraźniej nie wyciągnął żadnych wniosków z naszego poprzedniego spotkania.
+
+Jej usta wykrzywiły się w nieprzyjemnym uśmiechu.
+
+— Skoro tak bardzo interesuje się pan odpowiedzialnością i kompetencjami nauczycieli, być może powinniśmy poświęcić temu zagadnieniu więcej czasu.
+
+Wyjęła z torebki niewielki notes.
+
+— Jutro, o siedemnastej. Mój gabinet. Szlaban za obraźliwe zachowanie wobec nauczyciela i podważanie autorytetu władz szkoły.
+
+Hagrid wyglądał, jakby zamierzał zaprotestować, ale Umbridge uniosła palec.
+
+— I proszę nie próbować dyskutować, profesorze Hagrid.
+
+Draco nachylił się do Pansy.
+
+— Brown naprawdę nie potrafi trzymać języka za zębami — szepnął z rozbawieniem.
+
+Pansy zachichotała.
+
+Umbridge zamknęła notes z cichym trzaskiem.
+
+— A teraz… — powiedziała słodkim tonem. — Skoro pański niezwykle błyskotliwy wywód miał dowodzić kompetencji profesora Hagrida, może zechce pan wyjaśnić nam wszystkim, na jakiej podstawie uważa pan, że jego doświadczenie gwarantuje bezpieczeństwo uczniom?
+
+Wskazała na stojącego nieopodal, niewidocznego dla większości klasy testrala.
+
+— Zwłaszcza że, jak rozumiem, większość uczniów nawet nie widzi stworzenia, którego mają się tutaj uczyć.
+
+Hagrid zmarszczył krzaczaste brwi. Wyraźnie nie podobało mu się, że James otrzymał szlaban podczas jego lekcji.
+
+Umbridge uniosła podkładkę i uśmiechnęła się z lodowatą uprzejmością.
+
+— Słuchamy, panie Brown. Tym razem proszę oszczędzić nam porównań do chorób psychicznych.
+
+
+[C14-M0087]
+===== USER =====
+
+stałem niewzruszony nadal się uśmiechając ale przybrałem nieco niewinną minę -Szanowna Pani...po pierwsze moje porównanie było nuentrlane ale przyruwnujac siebie Uważa się Pani za chorą psychicznie a ministerstwo na nieodpowiedzialne co jest BARDZO POWAŻNYM ZARZUTEM I NIEZWŁOCZNIE MUSZĘ O TYM POWIADOMIĆ MINISTERSTWO... chyba że wycofa się Pani z tego niedorzecznego porównania.....a jeśli chodzi o lekcję....niech dowodem będzie to że Pan Profesor prowadzi zajęcia od lat i przed tym jak Pani trafiła do naszej świetnej szkoły żaden uczeń nie zginał i zapewne potym jak Pani już tu nie będzie to też nikt nie zginie....i tu ponownie wykazuje się Pani brakiem wiedzy bo to że tego zwierzęcia nie mogą zobaczyć wszycy jest dość powszechną wiedzą....ale...co ciekawe może jakby Pani nam nie przerwała Profesor Hagrid na pewno w jakiś sposób trafił by też do osób które nie widzą Testrala....
+
+
+[C14-M0088]
+===== ASSISTANT =====
+
+Na polanie zapanowała tak głęboka cisza, że słychać było szelest liści poruszanych listopadowym wiatrem.
+
+Dolores Umbridge przez kilka sekund wpatrywała się w Jamesa z nieruchomym uśmiechem. Jej twarz stopniowo przybierała odcień coraz bardziej zbliżony do koloru różowego płaszcza.
+
+— PANIE BROWN!
+
+Kilku uczniów aż drgnęło.
+
+Harry odwrócił głowę, desperacko próbując ukryć uśmiech. Ron zacisnął dłoń na ustach, a jego ramiona zaczęły podejrzanie drżeć.
+
+Hermiona natomiast wyglądała na rozdarta pomiędzy rozbawieniem a rosnącym niepokojem.
+
+— James, na miłość boską… — wyszeptała niemal bezgłośnie.
+
+Draco Malfoy przyglądał się całej sytuacji z szerokim uśmiechem.
+
+— On naprawdę oszalał — mruknął do Pansy.
+
+Umbridge wzięła głęboki oddech, najwyraźniej próbując odzyskać panowanie nad sobą.
+
+— Niech pan sobie nie wyobraża, że te pańskie bezczelne sztuczki słowne zrobią na mnie jakiekolwiek wrażenie!
+
+Jej głos był teraz nieprzyjemnie piskliwy.
+
+— Doskonale wiem, co pan insynuuje! Pańskie rzekomo niewinne porównania są zwyczajną próbą obrażenia przedstawiciela Ministerstwa Magii!
+
+Zrobiła gwałtowny ruch piórem, zapisując kilka zdań na pergaminie.
+
+— A grożenie mi zawiadomieniem Ministerstwa? Doprawdy, panie Brown! Czy naprawdę sądzi pan, że Ministerstwo potraktuje poważnie skargę ucznia, który właśnie publicznie wykazuje się takim brakiem szacunku?!
+
+Jej uśmiech powrócił, choć w oczach nadal błyszczała wściekłość.
+
+— Co do pańskiej opinii o kompetencjach profesora Hagrida…
+
+Odwróciła się ku półolbrzymowi.
+
+— Muszę przyznać, że jest pan wyjątkowo pobłażliwy wobec uczniów, którzy przeszkadzają w pańskich zajęciach.
+
+Hagrid zmarszczył krzaczaste brwi.
+
+— Ale pani profesor, przecież James powiedział, że…
+
+Umbridge natychmiast uniosła dłoń.
+
+— Profesorze Hagrid!
+
+Na jej twarzy pojawił się przesadnie słodki uśmiech.
+
+— Pański uczeń właśnie wygłasza przemowę na temat pańskich kompetencji. Proszę pozwolić mu ponieść odpowiedzialność za własne słowa.
+
+
+[C14-M0089]
+===== USER =====
+
+proszę Pani obawiam się że tym przypadku nie mam sobie nic do zarzucenia....ok użyłem dość osobliwego porowniania ale nie umieściłem w nim ani Pani ani minesterstwa dopiero Pani wrzuciła do niego siebie i ministerstwo....wszycy słyszeliśmy może oprócz Malfoya i Pansy bo oni są zajęci sobą nawzajem....
+
+
+[C14-M0090]
+===== ASSISTANT =====
+
+Draco Malfoy natychmiast przestał się uśmiechać.
+
+— Słucham?! — oburzył się. — Zajęci sobą nawzajem? Brown, chyba coś ci się pomyliło!
+
+— Co za bezczelność! — prychnęła Pansy, obrzucając Jamesa nieprzyjaznym spojrzeniem.
+
+Kilku uczniów zachichotało. Ron odwrócił się do Harry'ego, najwyraźniej walcząc z pokusą wybuchnięcia śmiechem.
+
+Umbridge jednak nie wyglądała na rozbawioną.
+
+— CISZA!
+
+Jej piskliwy głos przeciął polanę.
+
+Draco zamknął usta, choć posłał Jamesowi pełne irytacji spojrzenie.
+
+Umbridge powoli odłożyła pióro. Na jej twarzy pojawił się niezwykle szeroki uśmiech, który zupełnie nie pasował do wściekłości widocznej w jej oczach.
+
+— Ach, panie Brown… — odezwała się przesadnie łagodnie. — Jakże fascynująca jest pańska skłonność do wyszukiwania nieścisłości w wypowiedziach innych osób.
+
+Zrobiła niewielki krok w jego stronę.
+
+— Obawiam się jednak, że myli pan dwie rzeczy. To, że usiłuje pan ukryć obraźliwą sugestię pod postacią teoretycznego przykładu, nie oznacza, że nauczyciel ma obowiązek udawać, iż nie rozumie pańskich intencji.
+
+Przechyliła głowę.
+
+— A już z całą pewnością nie oznacza, że może pan dyktować mi, jak mam interpretować pańskie słowa.
+
+Hermiona zmarszczyła brwi.
+
+— Ale pani profesor, jeśli James rzeczywiście nie wymienił żadnego nazwiska ani instytucji w swoim przykładzie, to nie może pani twierdzić, że dosłownie…
+
+— Panno Granger!
+
+Hermiona urwała, wyraźnie poirytowana.
+
+— Czyżby zamierzała pani dołączyć do tego przedstawienia? — zapytała Umbridge słodko. — Przypominam, że jest pani prefektką. Oczekiwałabym od pani nieco lepszego zachowania.
+
+Hermiona wyprostowała się.
+
+— Chciałam jedynie zwrócić uwagę na różnicę między tym, co zostało powiedziane, a tym, co pani z tego wywnioskowała.
+
+Umbridge zacisnęła usta.
+
+— Doskonale usłyszałam, co pani powiedziała.
+
+Harry spojrzał na Hermionę, a potem na Jamesa. Na jego twarzy pojawił się cień rozbawienia, ale również niepokój. Doskonale wiedział, jak niebezpieczne potrafiły być konsekwencje sprzeciwiania się Umbridge.
+
+Draco tymczasem odzyskał swój zwyczajny, złośliwy uśmiech.
+
+— Może Brown powinien zostać nauczycielem? — rzucił półgłosem do Pansy. — Skoro wszystko wie lepiej.
+
+Pansy parsknęła.
+
+Umbridge podniosła notes.
+
+— Panie Brown, pańska jutrzejsza kara pozostaje w mocy. A pańskie zachowanie zostanie opisane w moim raporcie.
+
+Jej uśmiech nabrał nieprzyjemnego wyrazu.
+
+— Jeśli zaś rzeczywiście zamierza pan napisać do Ministerstwa, proszę bardzo. Jestem pewna, że odpowiedni urzędnicy z wielkim zainteresowaniem zapoznają się z pańską wersją wydarzeń.
+
+Zapisawszy coś na pergaminie, odwróciła się do Hagrida.
+
+— A teraz, profesorze Hagrid, może wreszcie zechce pan wyjaśnić, dlaczego pozwala swoim uczniom na tak długie, bezcelowe dyskusje zamiast realizować program nauczania?
+
+Hagrid, który przez cały ten czas przestępował niespokojnie z nogi na nogę, zmarszczył brwi.
+
+— Bo pani profesor ciągle go o coś pyta, a on odpowiada! — wypalił.
+
+Ron parsknął śmiechem, tym razem zdecydowanie zbyt głośno.
+
+Umbridge odwróciła głowę tak gwałtownie, że różowa kokarda przy jej szyi podskoczyła.
+
+— Panie Weasley!
+
+Ron natychmiast spoważniał.
+
+— Nic nie powiedziałem, pani profesor.
+
+Na polanie ponownie zapadła napięta cisza.
+
+Hagrid westchnął ciężko, po czym wskazał na znajdującego się nieopodal testrala.
+
+— Jeśli już skończyliśmy, chciałbym pokazać uczniom, jak te stworzenia reagują na człowieka. To ważna część lekcji.
+
+Umbridge przez chwilę mierzyła go nieprzychylnym spojrzeniem.
+
+— Proszę kontynuować.
+
+Nie schowała jednak notesu.
+
+Hagrid zwrócił się do klasy.
+
+— Dobra, kto z was widzi testrale i chciałby podejść trochę bliżej? Nie musicie się bać. Pokażę wam, jak należy się z nimi obchodzić.
+
+Harry spojrzał na stworzenie z zainteresowaniem. Neville pozostał nieco z tyłu, wyraźnie niepewny.
+
+Draco skrzyżował ramiona.
+
+— Świetnie. Teraz jeszcze będziemy je głaskać — mruknął z pogardą.
+
+Hagrid rozejrzał się po uczniach, czekając na ochotników, podczas gdy Umbridge obserwowała go znad pergaminu, gotowa zanotować każde najmniejsze potknięcie.
+
+
+[C14-M0091]
+===== USER =====
+
+ja stałem z lekkim uśmiechem wyraźnie niewzruszony
+
+
+[C14-M0092]
+===== ASSISTANT =====
+
+Hagrid odczekał jeszcze kilka sekund, rozglądając się po uczniach. Widząc, że nikt nie kwapi się do zgłoszenia, podrapał się po brodzie.
+
+— No, dalej! Nie zrobią wam krzywdy. Są naprawdę łagodne, jeśli się wie, jak z nimi postępować.
+
+Harry zerknął na czarne, skrzydlate stworzenie, po czym podniósł rękę.
+
+— Ja mogę spróbować.
+
+— Świetnie, Harry! Chodź tutaj!
+
+Hermiona obserwowała ich z niepokojem. Kiedy jej spojrzenie na moment padło na Jamesa, zauważyła jego spokojny uśmiech. Sama odpowiedziała mu jedynie krótkim, znaczącym spojrzeniem, po czym wróciła uwagą do lekcji.
+
+Draco natomiast nie mógł się powstrzymać.
+
+— Uważaj, Potter! Może to coś uzna, że wyglądasz smaczniej od tej krowy!
+
+Pansy zachichotała.
+
+— Panie Malfoy! — Hagrid zmarszczył brwi. — Jeśli nie masz nic mądrego do powiedzenia, to siedź cicho!
+
+Draco przewrócił oczami.
+
+— Oczywiście, profesorze.
+
+Umbridge natychmiast zanotowała coś na pergaminie.
+
+Harry podszedł ostrożnie do testrala. Stworzenie uniosło głowę znad mięsa, a jego białe, pozbawione źrenic oczy skierowały się w stronę chłopaka.
+
+— Spokojnie, Harry — powiedział Hagrid. — Wyciągnij rękę. Powoli.
+
+Harry wykonał polecenie.
+
+Testral przez chwilę obwąchiwał jego dłoń, po czym pozwolił się pogłaskać po chudej szyi.
+
+— Widzicie? — zawołał zadowolony Hagrid. — Nic strasznego!
+
+— Hem, hem.
+
+Hagrid westchnął.
+
+— Tak, pani profesor?
+
+— Czy dobrze rozumiem, że pozwala pan uczniowi dotykać zwierzęcia, którego większość klasy nawet nie widzi?
+
+— No przecież właśnie pokazuję, że nie jest niebezpieczne!
+
+— Ach, tak…
+
+Umbridge ponownie zaczęła pisać.
+
+Hermiona zacisnęła usta. Ron nachylił się do niej.
+
+— Ona chyba zamierza zapisać każdą rzecz, którą Hagrid dzisiaj zrobi.
+
+— Wiem, Ron — odpowiedziała przez zęby.
+
+Hagrid tymczasem zwrócił się do reszty klasy.
+
+— Ktoś jeszcze chce spróbować? Neville? A może ktoś ze Slytherinu? Przecież nie wszyscy musicie bać się testrali!
+
+Draco prychnął pogardliwie.
+
+— Wolałbym nie dotykać czegoś, co właśnie pożera martwą krowę.
+
+Hagrid pokręcił głową.
+
+— Jak chcesz, Malfoy.
+
+Po chwili jego spojrzenie zatrzymało się na Jamesie.
+
+— A ty, Brown? — zapytał znacznie pogodniej. — Widziałeś je już wcześniej, prawda? Może chciałbyś podejść?
+
+Umbridge natychmiast uniosła głowę znad pergaminu.
+
+— Och, to rzeczywiście mogłoby być interesujące.
+
+Jej uśmiech znów przybrał nieprzyjemnie słodki wyraz.
+
+— Zobaczymy, czy pan Brown równie chętnie uczestniczy w praktycznej części lekcji, co wygłasza swoje… niezwykle oryginalne opinie.
+
+Hagrid zignorował jej uwagę i cierpliwie czekał na odpowiedź Jamesa.
+
+Kilka kroków dalej testral spokojnie przeżuwał ostatni kawałek mięsa, poruszając od czasu do czasu ogromnymi, błoniastymi skrzydłami.
+
+
+[C14-M0093]
+===== USER =====
+
+kiwnąłem głową i podszedłem do Hagrida ale przed tym rzuciłem jeszcze do Malfoy'a
+-Jakbys nie zauważył Geniuszu to ty też jadasz martwe krowy....tylko że w mniejszych ilościach i oczywiście ty jesteś całkowicie nieszkodliwy....
+
+
+[C14-M0094]
+===== ASSISTANT =====
+
+Harry parsknął śmiechem, a Ron wybuchnął tak głośno, że kilka ptaków zerwało się z pobliskich gałęzi.
+
+— Nieszkodliwy! — powtórzył Ron, z trudem łapiąc oddech. — To akurat dobre!
+
+Draco gwałtownie odwrócił się w stronę Jamesa. Jego blada twarz nabrała koloru.
+
+— Bardzo zabawne, Brown! — warknął. — Przynajmniej ja nie rzucam się na każde paskudztwo, które Hagrid wyciągnie z lasu!
+
+— Nie jesteś nawet w stanie go zobaczyć, Malfoy — zauważył Harry z uśmiechem.
+
+— Zamknij się, Potter!
+
+Pansy spojrzała na Jamesa z pogardą.
+
+— Jak zwykle musisz popisywać się przed Gryfonami, Brown?
+
+Draco prychnął, poprawiając szatę.
+
+— Daj spokój, Pansy. Niech sobie głaszcze to coś. Może wreszcie znajdzie towarzystwo na swoim poziomie.
+
+Hermiona przewróciła oczami, choć kąciki jej ust wciąż zdradzały rozbawienie.
+
+— Naprawdę, czy wy potraficie wytrzymać chociaż jedną lekcję bez wzajemnego obrażania się?
+
+— To Brown zaczął! — odciął się Draco.
+
+— Och, doprawdy? — Hermiona uniosła brwi. — A kto przed chwilą wyśmiewał się z tych stworzeń?
+
+— Panno Granger! — rozległ się piskliwy głos Umbridge. — Proszę przestać przeszkadzać!
+
+Hagrid, który do tej pory przyglądał się całej wymianie z coraz większym zakłopotaniem, w końcu roześmiał się tubalnie.
+
+— No, no! Dosyć tego! Brown powiedział swoje, Malfoy też. Wracamy do lekcji!
+
+Umbridge zacisnęła usta i zrobiła kolejną notatkę.
+
+— Zadziwiające metody utrzymywania dyscypliny, profesorze Hagrid…
+
+Hagrid zignorował tę uwagę i zwrócił się do Jamesa, który podszedł już do niego.
+
+— Dobra, Brown. Popatrz tutaj.
+
+Wskazał ogromnego, czarnego testrala stojącego zaledwie kilka kroków dalej. Zwierzę uniosło wychudzoną głowę, odsłaniając ostre zęby. Jego błoniaste skrzydła poruszyły się lekko.
+
+— Widzisz? To samica. Jedna z najspokojniejszych w stadzie.
+
+Hagrid sięgnął do kieszeni płaszcza i wyjął kawałek surowego mięsa.
+
+— Najważniejsze, żeby nie wykonywać gwałtownych ruchów. Testrale są bardzo inteligentne. Jeśli im zaufasz i będziesz się odpowiednio zachowywać, potrafią być naprawdę przyjazne.
+
+Harry stał kilka kroków obok, obserwując zwierzę z zainteresowaniem.
+
+— Mogę cię jeszcze o coś zapytać, Hagridzie? — odezwał się.
+
+— Jasne, Harry, tylko chwileczkę.
+
+Hagrid przytrzymał mięso w dłoni i odwrócił się ponownie do Jamesa.
+
+— No dobrze, Brown. Spróbujemy ją nakarmić. Najpierw daj jej się spokojnie obwąchać, a potem pokażę ci, jak podać mięso. Nie wkładaj palców między zęby!
+
+Zwierzę zrobiło powolny krok w stronę Jamesa. Z jego nozdrzy wydobył się cichy, chrapliwy oddech.
+
+Za plecami Hagrida Umbridge obserwowała wszystko z piórem przygotowanym do zapisania kolejnej uwagi.
+
+— Proszę kontynuować, profesorze — powiedziała słodko. — Z wielkim zainteresowaniem przyjrzę się rezultatom pańskiej demonstracji.
+
+Hagrid tylko przewrócił oczami, po czym zachęcająco skinął głową Jamesowi.
+
+— Spokojnie, chłopcze. Niech najpierw cię pozna.
+
+
+[C14-M0095]
+===== USER =====
+
+podszedłem powoli i wystawiałem trochę rękę z jedzeniem ale tak aby kalsa widziała jak zacznie znikać
+
+
+[C14-M0096]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0097]
+===== USER =====
+
+wykonałem to według jego instrukcji a potem powiedziałem do siebie ale o wiele głośniej tak żeby wszyscy słyszeli - zaczynam podejrzewać że nie jest to najmniej przyjazne stworzenie na tej lekcji....
+
+
+[C14-M0098]
+===== ASSISTANT =====
+
+Testral początkowo uniósł głowę, kiedy palce Jamesa dotknęły jego czarnej, napiętej skóry. Po chwili jednak rozluźnił szyję i pozwolił się spokojnie głaskać. Jedno z ogromnych skrzydeł poruszyło się leniwie.
+
+Hagrid uśmiechnął się szeroko.
+
+— No i pięknie! Widzicie? Wystarczy trochę cierpliwości i odpowiednie podejście!
+
+Jednak ostatnie słowa Jamesa natychmiast wywołały zupełnie inną reakcję klasy.
+
+Ron wybuchnął śmiechem.
+
+— HA! — parsknął, zginając się niemal wpół. — Nie mogę!
+
+Harry zacisnął usta, próbując zachować powagę, lecz jego ramiona wyraźnie drżały.
+
+Hermiona zamknęła na moment oczy.
+
+— James… — westchnęła z mieszaniną rozbawienia i rozpaczy.
+
+Doskonale wiedziała, do kogo odnosiła się uwaga. Spojrzała na Umbridge, a potem na Jamesa, wyraźnie obawiając się kolejnego starcia.
+
+Draco roześmiał się krótko.
+
+— Brown, czy ty naprawdę nie potrafisz wytrzymać pięciu minut bez obrażania nauczycieli?
+
+Pansy prychnęła.
+
+— Chyba bardzo zależy mu na kolejnym szlabanie.
+
+Umbridge tymczasem znieruchomiała.
+
+Jej twarz przybrała niepokojący odcień purpury. Przez dłuższą chwilę wpatrywała się w Jamesa, a jej usta zaciskały się coraz mocniej.
+
+— PANIE BROWN!
+
+Hagrid aż drgnął.
+
+— Na brodę Merlina, kobieto, przecież…
+
+— PROFESORZE HAGRID! PROSZĘ NATYCHMIAST ZAMILKNĄĆ!
+
+Umbridge wzięła głęboki oddech i najwyraźniej przypomniała sobie o konieczności zachowania swojego zwyczajnego, przesadnie uprzejmego tonu.
+
+— Panie Brown… — zaczęła z uśmiechem, który wyglądał teraz bardziej jak grymas. — Czy mam rozumieć, że po raz kolejny próbuje pan sugerować coś obraźliwego, nie mając odwagi powiedzieć tego wprost?
+
+Harry zerknął na Rona, który natychmiast odwrócił wzrok, żeby ponownie nie wybuchnąć śmiechem.
+
+Umbridge powoli zamknęła notes.
+
+— Wie pan, zaczynam odnosić wrażenie, że uważa pan każdą lekcję za doskonałą okazję do popisywania się swoim… nieznośnym poczuciem humoru.
+
+Spojrzała na Hagrida.
+
+— A pan, profesorze, najwyraźniej nie potrafi zapanować nawet nad jednym uczniem.
+
+Hagrid wyprostował się, wyraźnie zirytowany.
+
+— Brown zrobił dokładnie to, o co go prosiłem! Pokazał wszystkim, że testral jest łagodny!
+
+— Nie o to pytałam!
+
+Umbridge znów odwróciła się do Jamesa.
+
+— Pański jutrzejszy szlaban pozostaje w mocy. I radzę panu bardzo poważnie zastanowić się nad swoim zachowaniem.
+
+Przez chwilę mierzyła go nieprzyjaznym spojrzeniem.
+
+— A teraz chciałabym usłyszeć od pana jedną rzecz.
+
+Jej głos ponownie stał się przesadnie słodki.
+
+— Które dokładnie stworzenie miał pan na myśli, panie Brown?
+
+Na polanie ponownie zapadła cisza.
+
+Hermiona przygryzła wargę, spoglądając na Jamesa. Harry wyglądał, jakby za chwilę miał przegrać walkę z własnym śmiechem.
+
+Umbridge czekała na odpowiedź, zaciskając palce na swoim notesie.
+
+
+[C14-M0099]
+===== USER =====
+
+oczywiście siebie..... proszę Pani...ale dziwne że pomyślał Pani inaczej...tak z ciekawości kogo albo co Pani uważa za najmniej przyjazne stworzenie na tej lekcji.... chyba że nie chcę Pani odpowiedzieć wprost ze względu na brak odwagi?
+
+
+[C14-M0100]
+===== ASSISTANT =====
+
+Przez kilka sekund Dolores Umbridge wpatrywała się w Jamesa bez słowa.
+
+Jej uśmiech powoli znikał. Drobne oczka zwęziły się, a palce zacisnęły na notesie tak mocno, że pergamin lekko się wygiął.
+
+Ron wydał z siebie zduszony odgłos.
+
+— Nie wierzę… — wyszeptał do Harry'ego.
+
+Harry przygryzł wargę, usiłując powstrzymać śmiech. Hermiona natomiast przysłoniła na moment twarz dłonią.
+
+— Och, James… — mruknęła.
+
+Draco Malfoy roześmiał się pogardliwie.
+
+— Brown, ty naprawdę sądzisz, że jesteś taki błyskotliwy?
+
+Jednak zanim zdążył powiedzieć coś więcej, odezwała się Umbridge.
+
+— DOSYĆ!
+
+Jej piskliwy głos rozległ się pomiędzy drzewami.
+
+— Nie zamierzam uczestniczyć w pańskich niedorzecznych gierkach słownych, panie Brown!
+
+Wzięła głęboki oddech, próbując odzyskać zwyczajną, przesadnie słodką uprzejmość.
+
+— Jakież to wygodne. Najpierw rzuca pan obraźliwą uwagę, a następnie, kiedy zostaje pan poproszony o wyjaśnienie, oznajmia pan, że miał na myśli samego siebie.
+
+Przechyliła głowę.
+
+— Obawiam się, że pańskie próby przedstawienia nauczyciela jako osoby pozbawionej odwagi są równie dziecinne.
+
+Zrobiła krótką notatkę.
+
+— A odpowiadając na pańskie pytanie: nie uważam za stosowne klasyfikowania kogokolwiek spośród obecnych tutaj osób jako stworzenia. W przeciwieństwie do pana potrafię zachować odpowiedni poziom wypowiedzi.
+
+Hermiona uniosła brwi. Harry odwrócił głowę w stronę lasu.
+
+Umbridge spojrzała na Jamesa z chłodną satysfakcją.
+
+— I proszę nie traktować mojej odmowy uczestniczenia w pańskich prowokacjach jako zwycięstwa. Jest pan uczniem, panie Brown. Nie prowadzącym tę inspekcję.
+
+Hagrid ciężko westchnął.
+
+— No dobrze, może już wystarczy? Chciałbym wreszcie dokończyć lekcję.
+
+Umbridge odwróciła się ku niemu.
+
+— Oczywiście, profesorze Hagrid. Chociaż muszę zauważyć, że pańscy uczniowie wykazują się niezwykle swobodnym podejściem do dyscypliny.
+
+— Bo od pół godziny nie możemy spokojnie prowadzić zajęć! — odparł Hagrid, wyraźnie tracąc cierpliwość.
+
+Umbridge zacisnęła usta.
+
+— Proszę bardzo uważać na ton, profesorze.
+
+Hagrid zmarszczył brwi, ale powstrzymał odpowiedź.
+
+Draco tymczasem nachylił się do Pansy.
+
+— Założę się, że Brown skończy z tygodniem szlabanów, zanim wrócimy do zamku.
+
+Pansy zachichotała.
+
+Umbridge zamknęła notes z ostrym trzaskiem.
+
+— A pan, panie Brown, może być pewien, że o pańskim dzisiejszym zachowaniu dowie się również profesor Snape jako opiekun pańskiego domu.
+
+Jej uśmiech powrócił.
+
+— Jestem niezwykle ciekawa, czy podzieli on pańskie… osobliwe poczucie humoru.
+
+Hagrid wyprostował się.
+
+— A teraz, jeśli można, chciałbym pokazać uczniom, jak testrale zachowują się w stadzie.
+
+Umbridge wykonała niewielki gest dłonią.
+
+— Proszę kontynuować. Nie chciałabym przecież ponownie zostać oskarżona o przeszkadzanie w prowadzeniu lekcji.
+
+Jej słowa ociekały ironią.
+
+Hagrid wskazał w stronę drzew, skąd wyłaniały się kolejne czarne, skrzydlate sylwetki.
+
+— Brown, skoro już jesteś przy mnie, możesz zostać na chwilę. Chcę pokazać wam jeszcze coś ciekawego.
+
+Potem zwrócił się do reszty klasy.
+
+— Wszyscy podejdźcie trochę bliżej! Ale trzymajcie się razem i nie róbcie gwałtownych ruchów!
+
+Umbridge pozostała z boku. Choć oficjalnie pozwoliła kontynuować zajęcia, jej spojrzenie co jakiś czas powracało do Jamesa z nieskrywaną niechęcią.
+
+
+[C14-M0101]
+===== USER =====
+
+spojrzałem na Hagrida i uniosłem powoli rękę - Pani profesorze mogę o coś spytać....
+gdy udzielił mi głosu zacząłem
+z tego co kojarzę to z definicji słowo "stworzenie" można odczytywać jako istotę żywą... więc nie rozumiem czemu miało to być obrazą...a chciałem spytać...czy można latać na tych
+Testralach?
+
+
+[C14-M0102]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0103]
+===== USER =====
+
+ja ponownie uniosłem rękę - Wie Pan Panie Profesorze na zajęciach obrony przed czarną magią uczyny się bardzo niebezpieczniej teori i dochodzę do wniosku że ministerstwo powinno interweniować bo przecież któryś uczeń mogły z tak niebezpieczną wiedzą teoretyczną....no nie wiem napaść na miniserwto dokonać przewrotu i zniszczyć świat... więc o tym też zawiadomie ministerstwo...tak teraz myślę że gdbyby jeszcze się okazało że osoba która przekazuje tą niebezpieczną teorię niesłusznie zakazuje niewinnych uczniów to mogło by oznaczać że sama jest zdolna do takich strasznych rzeczy....ale na szczęście w Hogwarcie wszystko jest w porządku......a pytanie z jaką maksymalną prędkością mogą latać trestrale?
+
+
+[C14-M0104]
+===== ASSISTANT =====
+
+Hagrid spojrzał na uniesioną rękę Jamesa i skinął głową, najwyraźniej zadowolony, że ktoś nadal interesuje się jego ulubionymi stworzeniami.
+
+— Jasne, Brown, o co cho…
+
+Nie dokończył.
+
+W miarę jak James rozwijał swoją wypowiedź, uśmiech powoli znikał z jego brodatej twarzy. Kiedy padły słowa o napaści na Ministerstwo i przewrocie, Hagrid spojrzał nerwowo na Umbridge.
+
+Harry opuścił głowę, ukrywając uśmiech za kołnierzem szaty.
+
+— On naprawdę nie zamierza przestać — wyszeptał Ron z niedowierzaniem.
+
+— I właśnie dlatego dostanie jeszcze większe kłopoty — syknęła Hermiona, choć kącik jej ust mimowolnie drgnął.
+
+Draco Malfoy tym razem nie roześmiał się. Przyglądał się Jamesowi z niedowierzaniem, po czym przeniósł wzrok na Umbridge, jakby czekał na moment, w którym wreszcie skończy się jej cierpliwość.
+
+Dolores Umbridge nie przerwała wypowiedzi ani razu.
+
+Stała zupełnie nieruchomo, z piórem zawieszonym nad pergaminem. Jej twarz przybrała intensywnie różowy odcień.
+
+Dopiero gdy padło pytanie o prędkość testrali, odezwała się wyjątkowo cicho:
+
+— Panie Brown… jakże interesujące, że wspomina pan o atakowaniu Ministerstwa Magii podczas zwykłej lekcji.
+
+— Przecież mówił, że to tylko przykład… — zaczął Hagrid.
+
+— Nie pytałam pana, profesorze Hagrid.
+
+Umbridge zrobiła krótką notatkę.
+
+— Zaczynam się zastanawiać, czy pańskie wypowiedzi nie wymagają znacznie poważniejszej uwagi niż zwykły szlaban.
+
+Hermiona natychmiast wyprostowała się.
+
+— Pani profesor, James nie powiedział, że zamierza kogokolwiek zaatakować. Przedstawił absurdalny przykład, żeby…
+
+— Panno Granger, ostrzegałam panią.
+
+Umbridge nawet na nią nie spojrzała.
+
+— Profesor Snape otrzyma szczegółowy opis dzisiejszego zachowania pana Browna. Nie zamierzam również pomijać tych wypowiedzi w dokumentacji inspekcji.
+
+Draco uśmiechnął się krzywo.
+
+— No proszę, Brown. Jeszcze trochę, a sam sobie załatwisz przesłuchanie w Ministerstwie.
+
+Hagrid westchnął ciężko i rozłożył ogromne dłonie.
+
+— Możemy wreszcie wrócić do testrali?!
+
+Umbridge przycisnęła notes do piersi.
+
+— Proszę bardzo. O ile pańscy uczniowie są zdolni skupić się na czymkolwiek innym niż obrażanie nauczycieli.
+
+Hagrid odwrócił się do Jamesa.
+
+— No więc… prędkość, tak?
+
+Jego twarz natychmiast się rozjaśniła.
+
+— Powiem ci szczerze, Brown, nie znam dokładnej maksymalnej prędkości. Nigdy nie mierzyłem im tego zegarkiem! Ale potrafią być piekielnie szybkie. I mają znacznie większą wytrzymałość, niż mogłoby się wydawać, kiedy patrzysz na te ich kościste grzbiety.
+
+Poklepał stojącą obok samicę.
+
+— Potrafią pokonywać ogromne odległości bez odpoczynku. A najlepsze jest to, że mają doskonały zmysł orientacji. Jeśli dobrze wiedzą, dokąd mają lecieć, potrafią znaleźć drogę bez wskazówek jeźdźca.
+
+— Czyli mogłyby zastąpić miotły? — zapytał Harry.
+
+— Do podróżowania? Pewnie! — odparł Hagrid z entuzjazmem. — Chociaż do quidditcha raczej bym ich nie polecał!
+
+Ron roześmiał się.
+
+— Wyobrażacie sobie Malfoya grającego na niewidzialnym testralu?
+
+— Zamknij się, Weasley — warknął Draco.
+
+Hagrid tymczasem wskazał na skrzydła samicy.
+
+— Popatrzcie na ich budowę. Te błony są mocne, a skrzydła znacznie większe, niż wyglądają, kiedy są złożone. Dzięki nim testrale są nie tylko szybkie, ale też bardzo zwrotne.
+
+Hermiona przyjrzała się miejscu, w którym przed chwilą znikało mięso.
+
+— Szkoda, że nie możemy wszyscy zobaczyć tego, co pan pokazuje — zauważyła rzeczowo.
+
+— Wiem, Hermiono. Ale mam jeszcze parę sposobów, żebyście mogli się czegoś nauczyć — odpowiedział Hagrid.
+
+Umbridge prychnęła cicho, lecz tym razem niczego nie powiedziała.
+
+Samica testrala rozprostowała oba ogromne skrzydła. Ich czarne błony napięły się, a silny podmuch wzbił suche liście z ziemi, poruszając szatami stojących najbliżej uczniów.
+
+Ci, którzy nie widzieli stworzenia, cofnęli się zaskoczeni.
+
+— O, właśnie! — ucieszył się Hagrid. — Tego już wszyscy mogliście doświadczyć!
+
+Spojrzał na Jamesa, potem na Harry'ego.
+
+— A jak będziecie kiedyś chcieli zobaczyć, jak naprawdę latają, to porozmawiamy. Tylko najpierw musicie się nauczyć porządnie z nimi obchodzić.
+
+Umbridge odchrząknęła demonstracyjnie.
+
+— Zakładam, profesorze Hagrid, że nie zamierza pan organizować żadnych lotów bez stosownych zezwoleń?
+
+Hagrid zamknął na moment oczy.
+
+— Nie, pani profesor. Dzisiaj nie będziemy latać.
+
+Harry wymienił z Ronem porozumiewawcze spojrzenie.
+
+Umbridge ponownie otworzyła notes. Tym razem jednak jej wzrok zatrzymał się nie na Hagridzie, lecz na Jamesie.
+
+— Proszę tylko pamiętać, panie Brown, że pańskie dzisiejsze wypowiedzi nie zostaną zapomniane.
+
+Powiedziała to spokojnie, bez cienia wcześniejszej krzykliwości.
+
+
+[C14-M0105]
+===== USER =====
+
+-Tak Pamiętam mówiła to już pani chyba trzy razy....
+
+
+[C14-M0106]
+===== ASSISTANT =====
+
+Dolores Umbridge zatrzymała pióro w połowie ruchu.
+
+Przez moment jej twarz pozostała nieruchoma. Jedynie drgający kącik ust zdradzał, jak bardzo zirytowała ją kolejna uwaga Jamesa.
+
+— Ach, panie Brown… — odezwała się cicho, niemal przesadnie łagodnie. — Widzę, że oprócz trudności z okazywaniem szacunku ma pan również kłopoty z rozpoznawaniem ostrzeżeń.
+
+Ron spuścił głowę, tłumiąc śmiech.
+
+— Trzy razy… — powtórzył szeptem do Harry'ego. — On naprawdę je liczy…
+
+Harry parsknął, ale szybko udał kaszel.
+
+Hermiona spojrzała na obu z dezaprobatą.
+
+— Przestańcie — szepnęła. — To wcale mu nie pomaga.
+
+Draco obserwował Jamesa z krzywym uśmiechem.
+
+— Wygląda na to, że Brown kolekcjonuje szlabany. Ciekawe, kiedy zabraknie mu wolnych popołudni.
+
+Umbridge schowała pióro do różowej torebki.
+
+— Skoro najwyraźniej tak doskonale zapamiętuje pan moje słowa, nie będę ich powtarzać.
+
+Jej uśmiech stał się nieprzyjemnie szeroki.
+
+— Zobaczymy natomiast, czy równie dobrą pamięcią wykaże się pan jutro o siedemnastej.
+
+Odwróciła się do Hagrida.
+
+— Profesorze Hagridzie, proszę kończyć zajęcia. Mam już wystarczająco dużo materiału do sporządzenia raportu z pańskiej lekcji.
+
+Hagrid spojrzał na nią ponuro.
+
+— Jeszcze nie skończyłem pokazywać uczniom testrali.
+
+— W takim razie proszę to zrobić. Bez dalszych… przedstawień.
+
+Umbridge odeszła kilka kroków w stronę ścieżki prowadzącej do zamku, choć nadal pozostawała w zasięgu słuchu.
+
+Hagrid odprowadził ją wzrokiem, a następnie pochylił się nad stojącą przy Jamesie samicą testrala.
+
+— No dobra… — mruknął, odzyskując nieco pogody ducha. — Zanim skończymy, chciałbym wam jeszcze powiedzieć jedną ważną rzecz.
+
+Spojrzał po uczniach.
+
+— Testrale mają paskudną opinię. Niektórzy uważają, że przynoszą nieszczęście. A to kompletna bzdura! Są inteligentne, lojalne i potrafią być bardzo przywiązane do ludzi.
+
+Samica łagodnie poruszyła łbem, ocierając szyję o ogromną dłoń Hagrida.
+
+— I właśnie dlatego nie należy oceniać stworzenia tylko po wyglądzie — dodał z wyraźnym przekonaniem.
+
+Hermiona uśmiechnęła się lekko.
+
+— To akurat bardzo dobra lekcja, profesorze.
+
+Hagrid rozpromienił się, podczas gdy Draco demonstracyjnie przewrócił oczami.
+
+Z oddali dobiegło jeszcze jedno, wyjątkowo głośne chrząknięcie Umbridge. Hagrid westchnął ciężko.
+
+— No tak. Chyba rzeczywiście pora kończyć…
+
+
+[C14-M0107]
+===== USER =====
+
+kiwnąłem głową
+
+
+[C14-M0108]
+===== ASSISTANT =====
+
+Hagrid odwzajemnił skinienie głowy i uśmiechnął się spod gęstej brody.
+
+— Dobra, wszyscy! Na dzisiaj wystarczy. I pamiętajcie, co wam mówiłem: testrale nie przynoszą nieszczęścia. To tylko głupi przesąd!
+
+Poklepał samicę po szyi. Zwierzę wydało ciche, gardłowe parsknięcie, a następnie powoli skierowało się ku pozostałym członkom stada.
+
+— No, zbierajcie się. I nie zapomnijcie przeczytać rozdziału o testralach przed następnymi zajęciami!
+
+Uczniowie zaczęli ruszać w stronę zamku, rozmawiając o niewidzialnych stworzeniach.
+
+Umbridge zamknęła notes i spojrzała na Hagrida.
+
+— Dziękuję za tę… niezwykle pouczającą lekcję, profesorze Hagridzie. O wynikach inspekcji zostanie pan poinformowany.
+
+Jej ton nie pozostawiał wątpliwości, że nie był to komplement.
+
+— A panu, panie Brown, życzę przyjemnego popołudnia.
+
+Uśmiechnęła się przesłodko.
+
+— Do jutra.
+
+Odwróciła się i ruszyła ścieżką prowadzącą do zamku.
+
+Hagrid odprowadził ją wzrokiem.
+
+— Wstrętna baba… — mruknął pod nosem.
+
+Harry, który wciąż znajdował się niedaleko, roześmiał się krótko.
+
+— Nie mogę uwierzyć, że przez całą lekcję próbowała znaleźć coś, do czego mogłaby się przyczepić.
+
+— I znalazła — zauważyła Hermiona ponuro. — Przynajmniej według siebie.
+
+Draco, mijając Harry'ego, rzucił złośliwie:
+
+— Nie martw się, Potter. Może Ministerstwo znajdzie Hagridowi zajęcie bardziej odpowiednie do jego kwalifikacji. Na przykład karmienie zwierząt.
+
+— Spadaj, Malfoy — odciął się Harry.
+
+Draco uśmiechnął się szyderczo i odszedł razem z Pansy.
+
+Hagrid westchnął, a potem spojrzał na Jamesa.
+
+— Dzięki za pomoc z testralem, Brown. Naprawdę dobrze sobie poradziłeś.
+
+Po chwili jego twarz spoważniała.
+
+— Ale z tą Umbridge… lepiej uważaj, chłopcze. Ona nie wygląda na taką, co łatwo zapomina.
+
+Hermiona podeszła bliżej.
+
+— Właśnie o tym chciałam porozmawiać.
+
+Spojrzała na Jamesa z uniesionymi brwiami.
+
+— Przyznam, że niektóre twoje uwagi były naprawdę zabawne. Ale jutro masz szlaban u kobiety, która już wcześniej potraktowała cię w sposób, którego nie powinna się dopuścić.
+
+Jej głos złagodniał.
+
+— I nie zamierzam udawać, że mnie to nie martwi.
+
+Hagrid przeniósł spojrzenie z Hermiony na Jamesa.
+
+— No… może warto powiedzieć o tym komuś z nauczycieli? — zaproponował ostrożnie.
+
+Harry milczał, lecz po wzmiance o poprzednim szlabanie wyraźnie spoważniał.
+
+Znad Zakazanego Lasu dobiegł odległy, chrapliwy odgłos testrala. Większość klasy była już na ścieżce do zamku, a Hermiona nadal czekała na odpowiedź Jamesa.
+
+
+[C14-M0109]
+===== USER =====
+
+-Sposob jej szlabanów został już zgłoszony...a z tym ministerstwem nie żartowałem napiszę list a może tam podjadę w jakiś weekend oczywiście jeśli nie będę mieć szlabanu...
+(czy tego dnia było jeszcze jakieś ważne kanoniczne wydarzenie?)
+
+
+[C14-M0110]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0111]
+===== USER =====
+
+następnego dnia chwilę przed siedemnastą byłem już przed gabinetem
+
+
+[C14-M0112]
+===== ASSISTANT =====
+
+Wtorek, późne popołudnie. Hogwart, korytarz przed gabinetem Dolores Umbridge.
+
+Korytarz był niemal pusty. Za wysokimi oknami zapadał już listopadowy zmierzch, a płonące pochodnie rzucały nierówne światło na kamienne ściany.
+
+Zza zamkniętych drzwi gabinetu dochodził cichy szelest pergaminów i sporadyczne skrobanie pióra.
+
+Kilka minut później pobliski zegar wybił siedemnastą.
+
+Dokładnie z ostatnim uderzeniem drzwi gabinetu otworzyły się.
+
+W progu stanęła Dolores Umbridge, ubrana w różowy sweterek i dopasowaną spódnicę. Na widok Jamesa jej szerokie usta rozciągnęły się w znajomym, przesadnie słodkim uśmiechu.
+
+— Ach, pan Brown! Punktualnie. Jakże miło.
+
+Przez chwilę przyglądała mu się uważnie.
+
+— Przyznam, że po pańskim wczorajszym występie na zajęciach profesora Hagrida byłam niezwykle ciekawa, czy zechce pan zaszczycić mnie swoją obecnością.
+
+Odsunęła się nieco od drzwi.
+
+— Proszę wejść.
+
+Za jej plecami widać było znajome wnętrze: różowe dekoracje, talerzyki z poruszającymi się kociętami oraz nienagannie uporządkowane biurko. Na jego blacie leżały przygotowane pergaminy.
+
+Umbridge przechyliła lekko głowę.
+
+— Mam nadzieję, panie Brown, że dzisiaj uda nam się przeprowadzić nieco bardziej konstruktywną rozmowę niż podczas naszego poprzedniego spotkania.
+
+Jej uśmiech ani na chwilę nie zniknął.
+
+— I że nie będziemy musieli ponownie dyskutować o pańskiej niechęci do wykonywania poleceń nauczyciela.
+
+Pozostała w progu, czekając, aż James wejdzie do gabinetu.
+
+
+[C14-M0113]
+===== USER =====
+
+-jeżsli znowu każe mi się pani ciąć to raczej się nie dogadamy chyba że ma Pani jakieś nowe argumenty w tej kwestii?
+
+
+[C14-M0114]
+===== ASSISTANT =====
+
+Uśmiech Dolores Umbridge na moment zesztywniał.
+
+Jej drobne oczy przesunęły się na dłonie Jamesa, po czym wróciły do jego twarzy.
+
+— Ach, panie Brown… — powiedziała przesadnie łagodnie. — Jak widzę, nadal ma pan skłonność do przedstawiania zwyczajnych środków dyscyplinarnych w sposób niezwykle dramatyczny.
+
+Oparła dłoń na framudze drzwi.
+
+— Przypominam sobie, że podczas naszego poprzedniego spotkania napisał pan zaledwie jedną literę, po czym odmówił dalszego wykonywania polecenia. I teraz najwyraźniej zamierza pan wykorzystać tamtą odmowę jako usprawiedliwienie kolejnej.
+
+Przechyliła głowę, uśmiechając się szerzej.
+
+— Zapewniam pana, że Ministerstwo Magii nie prowadzi Hogwartu po to, aby uczniowie mogli wybierać sobie kary według własnego uznania.
+
+Zrobiła krótką pauzę.
+
+— Ale skoro tak bardzo niepokoi pana kwestia przyborów do pisania…
+
+Odsunęła się nieco bardziej, odsłaniając biurko. Leżał na nim stos pergaminów, zwyczajny kałamarz i dwa pióra. Jedno jasne, drugie długie i czarne.
+
+— …możemy dzisiaj rozpocząć od czegoś zupełnie innego.
+
+Jej ton stał się niemal serdeczny.
+
+— Chciałabym, żeby sporządził pan pisemne wyjaśnienie swojego wczorajszego zachowania podczas inspekcji profesora Hagrida. Własnymi słowami. Bez żadnej narzuconej sentencji.
+
+Spojrzała na czarne pióro, lecz go nie dotknęła.
+
+— A co do pańskiego pytania o nowe argumenty… mam jeden.
+
+Uśmiech zniknął z jej twarzy.
+
+— Dekret Edukacyjny Numer Dwadzieścia Pięć. Z pewnością słyszał pan o nim po ostatnim meczu quidditcha. Ministerstwo przyznało Wielkiemu Inkwizytorowi bardzo szerokie uprawnienia w zakresie szkolnych kar.
+
+Jej głos ponownie nabrał słodyczy.
+
+— Nie zamierzam więc dyskutować z panem o tym, czy ma pan ochotę odbywać szlaban. Interesuje mnie wyłącznie, czy będzie pan wykonywał moje polecenia.
+
+Umbridge wskazała wnętrze gabinetu.
+
+— A teraz, panie Brown… czy zechce pan wejść, czy mam odnotować drugą odmowę jeszcze przed rozpoczęciem kary?
+
+
+[C14-M0115]
+===== USER =====
+
+-Wejsc mogę....powiedziałem i wszedłem do środka - coś na temat dekretu słyszałem ale obawiam się że Ministerstwo nie przyklepalo hy okaleczania uczniów, a odnośnie tych wyjaśnień musiał by Pani sprecyzować o co chodzi...
+
+
+[C14-M0116]
+===== ASSISTANT =====
+
+Umbridge zamknęła drzwi gabinetu, po czym powoli odwróciła się w stronę Jamesa.
+
+Na jej twarzy nadal widniał ten sam przesadnie słodki uśmiech, choć wzmianka o okaleczaniu uczniów wyraźnie ją zirytowała.
+
+— Panie Brown, naprawdę musi pan przestać używać tak dramatycznych określeń. Zapewniam pana, że nie zamierzam prowadzić dyskusji o pańskich… osobliwych interpretacjach metod dyscyplinarnych.
+
+Przeszła za biurko i usiadła w fotelu. Jeden z kotków na wiszącym za nią talerzyku zamiauczał cicho.
+
+— Skoro jednak prosi pan o sprecyzowanie polecenia, z przyjemnością to zrobię.
+
+Przesunęła na środek biurka czysty pergamin i kałamarz. Obok położyła jasne pióro. Długie, czarne pozostawiła z boku.
+
+— Chciałabym otrzymać pisemne wyjaśnienie pańskiego zachowania podczas wczorajszej lekcji profesora Hagrida.
+
+Złożyła dłonie na blacie.
+
+— Interesują mnie trzy kwestie. Po pierwsze, dlaczego uznał pan za stosowne wielokrotne przerywanie inspekcji. Po drugie, jaki cel miały pańskie porównania dotyczące niekompetentnych osób wymierzających kary oraz nieodpowiedzialnych instytucji.
+
+Zrobiła krótką pauzę.
+
+— I po trzecie, dlaczego zdecydował się pan publicznie kwestionować moje kompetencje oraz decyzje dyscyplinarne.
+
+Jej uśmiech nieco się poszerzył.
+
+— Oczywiście może pan przedstawić swoją wersję wydarzeń. Własnymi słowami. Chciałabym jedynie, żeby podpisał pan wyjaśnienie po jego ukończeniu.
+
+Wskazała pusty fotel przed biurkiem.
+
+— Proszę usiąść.
+
+Przez chwilę przyglądała się Jamesowi, po czym dodała znacznie chłodniejszym tonem:
+
+— A skoro ponownie wspomniał pan o okaleczaniu… przypuszczam, że nadal zamierza pan utrzymywać, iż moje poprzednie polecenie stanowiło jakieś niewybaczalne nadużycie?
+
+Oparła się wygodniej.
+
+— Bo, widzi pan, panie Brown, istnieje istotna różnica między uczniem, który nie chce zaakceptować kary, a nauczycielem, który rzekomo łamie przepisy.
+
+Jej oczy zwęziły się nieznacznie.
+
+— Jestem bardzo ciekawa, czy potrafi pan tę różnicę udowodnić, zamiast jedynie o niej opowiadać.
+
+Nie sięgnęła po czarne pióro. Czekała na odpowiedź, obserwując Jamesa ponad starannie ułożonymi na biurku dłońmi.
+
+
+[C14-M0117]
+===== USER =====
+
+Jeśli mogę spytać po co Pani moje wyjaśnia na piśmie?
+
+
+[C14-M0118]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0119]
+===== USER =====
+
+-Tak po prostu wydaje mi się to podejrzane.... jeśli Pani pozwoli to wolał bym napisać takie wyjaśnienia w innym miejscu na swoim pergaminie wlasym piórem a potem je Pani przekazać...
+
+
+[C14-M0120]
+===== ASSISTANT =====
+
+Umbridge przez chwilę przyglądała się Jamesowi znad filiżanki. Jej uśmiech pozostał na miejscu, lecz oczy wyraźnie się zwęziły.
+
+— Podejrzane, panie Brown? — powtórzyła słodko. — Doprawdy, ma pan niezwykłą skłonność do doszukiwania się nieuczciwych zamiarów u swoich nauczycieli.
+
+Odstawiła filiżankę na spodeczek.
+
+— Obawiam się jednak, że nie zrozumiał pan istoty szlabanu. Nie jest to zadanie domowe, które może pan wykonać w dowolnym miejscu i dostarczyć w dogodnym dla siebie terminie.
+
+Wskazała na stojący przed biurkiem fotel.
+
+— Kara odbywa się tutaj, pod moim nadzorem.
+
+Na moment przeniosła spojrzenie na leżące na biurku pióra.
+
+— Natomiast… — zawiesiła głos. — Skoro tak bardzo obawia się pan korzystania z moich przyborów, nie widzę przeszkód, aby użył pan własnego pergaminu i pióra.
+
+Uśmiechnęła się nieco szerzej.
+
+— Pod warunkiem, że napisze pan wyjaśnienie tutaj i odda mi je przed zakończeniem szlabanu. Z datą i podpisem.
+
+Po chwili dodała:
+
+— Oczywiście będzie pan musiał pozwolić mi sprawdzić, czy przyniesione przez pana materiały nie zostały w żaden sposób zaczarowane. Zwykły środek ostrożności.
+
+Umbridge wygładziła rękaw różowego sweterka.
+
+— Proszę również pamiętać, że nie zamierzam poświęcać całego popołudnia na negocjowanie z panem najdrobniejszych szczegółów.
+
+Jej głos stał się chłodniejszy.
+
+— Zaproponowałam rozsądny kompromis, panie Brown. Pańskie przybory, ale mój gabinet i moje zasady.
+
+Oparła dłonie na biurku.
+
+— Czy takie rozwiązanie jest dla pana do przyjęcia?
+
+
+[C14-M0121]
+===== USER =====
+
+dobrze.....powiedziałem a potem wyjąłem z kieszeni szaty pióro a potem usiadłem i wyrwałem z końca notesu parę kartek
+
+
+[C14-M0122]
+===== ASSISTANT =====
+
+Umbridge obserwowała, jak James wyjmuje własne pióro, siada i wyrywa kilka kartek z notesu.
+
+Przez moment na jej twarzy pojawił się wyraz niezadowolenia.
+
+— Ach, widzę, że przyniósł pan własne przybory. Doskonale.
+
+Sięgnęła do szuflady biurka, wyjęła różdżkę i położyła ją obok filiżanki.
+
+— Jednak przypominam, panie Brown, że zgodziłam się na takie rozwiązanie pod warunkiem wcześniejszego sprawdzenia pańskich materiałów.
+
+Wyciągnęła dłoń nad biurkiem.
+
+— Proszę mi je na chwilę pokazać. Zarówno pióro, jak i kartki. Chciałabym wykluczyć obecność jakichkolwiek zaklęć.
+
+Jej spojrzenie zatrzymało się na wyrwanych stronach notesu.
+
+— I proszę zadbać o czytelność. Nie życzę sobie otrzymać kilku zdań nabazgranych w pośpiechu na przypadkowym skrawku papieru.
+
+Z jednego z talerzyków na ścianie dobiegło ciche miauknięcie. Umbridge uśmiechnęła się do kotka, po czym ponownie spojrzała na Jamesa.
+
+— Kiedy skończymy tę drobną formalność, będzie pan mógł przystąpić do pisania.
+
+Przechyliła głowę.
+
+— A ponieważ tak bardzo zależało panu na przedstawieniu własnej wersji wydarzeń, jestem niezwykle ciekawa, jak opisze pan swoje wczorajsze wypowiedzi.
+
+Jej uśmiech stał się odrobinę szerszy.
+
+— Proszę się nie spieszyć, panie Brown. Mamy przed sobą całe popołudnie.
+
+Umbridge pozostawiła wyciągniętą dłoń nad biurkiem, czekając na przybory Jamesa.
+
+
+[C14-M0123]
+===== USER =====
+
+podałem jej kartki i pióro
+
+
+[C14-M0124]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0125]
+===== USER =====
+
+kiwnąłem głową i zacząłem pisać tak jak było ale kładąc nacisk na tym że To Pani zaczęła nawiązywać do siebie i ministerstwa oraz że sama uznała że to onią chodzi gdy powiedziałem "stworzenie" napisałem również nie nie przerywałem inspiracji tylko aktywnie uczestniczyłem w lekcji a jako cel moich uwag napisałem chcę wyrażenia swojej opini na temat poruszany podczas lekcji na koniec rzeczywiście się podpisałem i napisałem datę całość napisałem jak ma mnie dość ładnym pismem
+-Skonczylem proszę Pani
+
+
+[C14-M0126]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0127]
+===== USER =====
+
+hmmm chwilę się zastanowiłem -Wydaje mi się że Każdy uczeń powinien mieć możliwość powoedzenia co myśli.... ale że większość się boi to tego nie robi.... mogę jedynie przeprosić że niestety trochę podkoaplem autorytet ministertwa... następnym razem sowoje uwagi przekaże pani tak jak teraz bez publiki....
+
+
+[C14-M0128]
+===== ASSISTANT =====
+
+Umbridge przez chwilę przyglądała się Jamesowi w milczeniu.
+
+Jej uśmiech powoli się poszerzył. Wyglądała niemal na zadowoloną, choć błysk w jej drobnych oczach sugerował, że szczególnie zainteresował ją jeden fragment wypowiedzi.
+
+— Ach… a więc przyznaje pan, że pańskie zachowanie mogło podważyć autorytet Ministerstwa Magii?
+
+Pochyliła się nieco do przodu.
+
+— To już pewien postęp, panie Brown. Naprawdę, bardzo mnie to cieszy.
+
+Sięgnęła po leżące na biurku pisemne wyjaśnienia i lekko postukała palcem w ich ostatnią stronę.
+
+— Muszę jednak zwrócić uwagę na pewną rzecz.
+
+Jej głos pozostał przesadnie łagodny.
+
+— Powiedział pan, że następnym razem przekaże mi swoje uwagi bez publiczności. Rozumiem zatem, że nadal zamierza pan kwestionować moje decyzje, tyle że… w bardziej dyskretnych okolicznościach?
+
+Przechyliła głowę.
+
+— Obawiam się, że niezupełnie o taką poprawę zachowania mi chodziło.
+
+Wzięła niewielki łyk herbaty.
+
+— Niemniej doceniam pańską gotowość do przeproszenia za publiczne podważanie autorytetu Ministerstwa. Jestem przekonana, że potrafi pan to wyrazić również na piśmie.
+
+Przesunęła zapisane kartki bliżej brzegu biurka.
+
+— Proponuję zatem, żeby dopisał pan na końcu swoich wyjaśnień dokładnie to, co przed chwilą powiedział. Że ubolewa pan nad podważeniem autorytetu Ministerstwa Magii podczas wczorajszej lekcji.
+
+Uśmiechnęła się szerzej.
+
+— Oczywiście własnymi słowami. Nie chcielibyśmy przecież, żeby ktoś później zarzucił mi, iż narzuciłam panu treść oświadczenia.
+
+Na moment zerknęła na zegar stojący na kominku.
+
+— A jeśli chodzi o pańską obietnicę zgłaszania uwag prywatnie… cóż, być może będziemy jeszcze mieli okazję porozmawiać o tym, jakie zachowanie przystoi uczniowi Hogwartu.
+
+Ponownie spojrzała na Jamesa.
+
+— Czy zechce pan uzupełnić swoje wyjaśnienie, panie Brown? Tak niewiele przecież brakuje nam do zakończenia tej nieprzyjemnej sprawy.
+
+
+[C14-M0129]
+===== USER =====
+
+-tak ale muszę też że celnie i słusznie podkopalem ten autorytet...albo tak naprawdę ministerstwo samo to robi a ja tylko zwróciłem na to uwagę
+
+
+[C14-M0130]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0131]
+===== USER =====
+
+-Chyba jest w porządku ale należy pamiętać że szacunek należy się każdemu z urzędu ale swoimi decyzjami i czynami może ten szacunek utracić...na przykład Gellert Grindelwald raczej się go nie szanuje już teraz
+
+
+[C14-M0132]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0133]
+===== USER =====
+
+-No dobrze specjalnie dla pani...powiedziałem i zacząłem pisać
+
+
+[C14-M0134]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0135]
+===== USER =====
+
+-jeszcze nie....
+
+
+[C14-M0136]
+===== ASSISTANT =====
+
+Umbridge uniosła brwi, a na jej twarzy pojawił się wyraz niemal teatralnego zdziwienia.
+
+— Och? A więc profesor Snape jeszcze o tym nie wie?
+
+Odstawiła filiżankę na spodeczek.
+
+— To doprawdy interesujące, panie Brown. Tak chętnie mówi pan o odpowiedzialności władz, a nie uznał pan za stosowne poinformować opiekuna własnego domu o zamiarze złożenia skargi w Ministerstwie.
+
+Przez chwilę przyglądała się Jamesowi, po czym uśmiechnęła się szerzej.
+
+— Cóż, w takim razie być może wyręczę pana w tej drobnej formalności.
+
+Sięgnęła po rozpoczęty wcześniej list do Snape'a.
+
+— Zresztą i tak zamierzałam przekazać profesorowi informacje o pańskim wczorajszym zachowaniu. Mogę więc wspomnieć również o pańskich planach.
+
+Zanurzyła pióro w atramencie i dopisała kilka zdań.
+
+— Jestem pewna, że profesor Snape z wielkim zainteresowaniem przyjmie wiadomość, iż jeden z jego uczniów zamierza udać się do Londynu, aby osobiście kwestionować decyzje Ministerstwa Magii.
+
+Jej uśmiech stał się nieprzyjemnie słodki.
+
+— Zwłaszcza że, o ile dobrze rozumiem, nie posiada pan jeszcze żadnego zezwolenia na opuszczenie szkoły.
+
+Odłożyła pióro.
+
+— Ale proszę się nie martwić. Nie zamierzam zabraniać panu pisania listów. Ministerstwo z pewnością samo zdecyduje, jak potraktować pańską korespondencję.
+
+Przez chwilę spoglądała na Jamesa ponad okularami.
+
+— A teraz proszę kontynuować przepisywanie. Nie chciałabym, żebyśmy przez tę niezwykle interesującą rozmowę musieli przedłużyć pański szlaban.
+
+Wróciła do dokumentów, lecz po kilku sekundach odezwała się ponownie, tym razem niemal mimochodem:
+
+— Ach, jeszcze jedno, panie Brown…
+
+Uniosła wzrok.
+
+— Mam nadzieję, że nie zamierza pan przedstawiać w Ministerstwie tych samych osobliwych oskarżeń, które wysuwał pan pod moim adresem podczas naszego poprzedniego spotkania?
+
+Jej pióro znieruchomiało nad pergaminem.
+
+— Wie pan… tych dotyczących rzekomego okaleczania uczniów.
+
+Uśmiechnęła się.
+
+— Byłoby bardzo niefortunne, gdyby tak poważne zarzuty okazały się jedynie kolejnym przykładem pańskiego szczególnego poczucia humoru.
+
+
+[C14-M0137]
+===== USER =====
+
+Pani profesor niestety nie mogę pani powiedzieć co zmaierzam z oczywistych powodów....
+
+
+[C14-M0138]
+===== ASSISTANT =====
+
+Dolores Umbridge powoli odłożyła pióro.
+
+Jej uśmiech nie zniknął, ale drobne oczka zwęziły się niebezpiecznie.
+
+— Z oczywistych powodów, panie Brown? — powtórzyła przesadnie łagodnie.
+
+Przechyliła głowę.
+
+— Doprawdy, jestem ciekawa, jakież to powody uniemożliwiają uczniowi udzielenie własnemu nauczycielowi odpowiedzi na tak niewinne pytanie.
+
+Przez chwilę przyglądała się Jamesowi, jakby liczyła, że sam rozwinie wypowiedź.
+
+— Ach, rozumiem. Najwyraźniej uważa pan, że ujawnienie swoich zamiarów mogłoby w jakiś sposób zaszkodzić pańskim planom.
+
+Uśmiechnęła się szerzej.
+
+— Cóż za osobliwy sposób myślenia. Można by niemal odnieść wrażenie, że spodziewa się pan z mojej strony jakichś nieuczciwych działań.
+
+Sięgnęła po list adresowany do Snape'a i dopisała krótką uwagę na marginesie.
+
+— Zapewniam pana, że nie mam nic przeciwko składaniu skarg zgodnie z obowiązującymi procedurami. Ministerstwo Magii jest przecież instytucją niezwykle sprawiedliwą.
+
+Wygładziła pergamin.
+
+— Chociaż gdyby zamierzał pan rozpowszechniać bezpodstawne oskarżenia pod adresem nauczyciela, sprawa wyglądałaby już zupełnie inaczej.
+
+Zegar na kominku cicho tykał. Jeden z kotków na ozdobnym talerzyku przeciągnął się leniwie.
+
+Umbridge odłożyła list na bok i ponownie spojrzała na Jamesa.
+
+— Niemniej nie będę nalegała na ujawnienie pańskich zamiarów. Skoro pragnie pan zachować je dla siebie, proszę bardzo.
+
+Zrobiła krótką pauzę.
+
+— Proszę tylko pamiętać, że profesor Snape zna już okoliczności pańskiego poprzedniego szlabanu. Jestem pewna, że będzie niezwykle zainteresowany również pańskim dzisiejszym zachowaniem.
+
+Przesunęła spojrzenie na zapisane kartki.
+
+— A teraz wróćmy do pracy, panie Brown. Ile zdań udało się panu już przepisać?
+
+Uśmiechnęła się niemal serdecznie.
+
+— Chciałabym bowiem zakończyć dzisiejsze spotkanie o rozsądnej porze. Zakładam, że pan również.
+
+
+[C14-M0139]
+===== USER =====
+
+-no mamy już całe pięć....
+
+
+[C14-M0140]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0141]
+===== USER =====
+
+nie po prostu bardzo się dla pani staram....
+
+
+[C14-M0142]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0143]
+===== USER =====
+
+tak... każde zdanie zajmię mi bardzo dużo czasu w tym tempie....ale wie Pani taka kara....
+
+
+[C14-M0144]
+===== ASSISTANT =====
+
+Dolores Umbridge powoli odłożyła filiżankę na spodeczek.
+
+Przez chwilę przyglądała się Jamesowi z tym samym przesadnie słodkim uśmiechem, choć jej oczy zdradzały coraz większe zniecierpliwienie.
+
+— Ach, panie Brown… Jakże wzruszające, że podchodzi pan do swojej kary z tak niezwykłą starannością.
+
+Spojrzała na zegar, a następnie na pięć zapisanych zdań.
+
+— Muszę jednak przyznać, że zaczynam podejrzewać, iż pańskie powolne tempo nie wynika wyłącznie z zamiłowania do pięknego pisma.
+
+Pochyliła się nieco do przodu.
+
+— Czyżby miał pan nadzieję, że jeśli będzie pisał dostatecznie wolno, w końcu stracę cierpliwość i pozwolę panu odejść?
+
+Na jej twarzy pojawił się szerszy uśmiech.
+
+— Obawiam się, że byłby to wyjątkowo błędny rachunek.
+
+Sięgnęła po niewielki kalendarzyk leżący na biurku i otworzyła go.
+
+— Wie pan, panie Brown, moje obowiązki nie kończą się wraz z dzisiejszym popołudniem. Jeśli nie ukończy pan zadania w rozsądnym czasie, pozostałą część będzie pan kontynuował podczas następnego szlabanu.
+
+Przesunęła palcem po kalendarzu.
+
+— A jeśli będzie trzeba, również podczas kolejnego.
+
+Zamknęła kalendarzyk.
+
+— Zapewniam pana, że jestem osobą niezwykle cierpliwą, szczególnie gdy chodzi o wychowanie młodzieży.
+
+W gabinecie rozległo się ciche miauknięcie jednego z namalowanych kociąt.
+
+Umbridge przez moment milczała, po czym uniosła brwi.
+
+— Ale zdaje się, że nie dokończył pan swojej wypowiedzi.
+
+Uśmiechnęła się niemal serdecznie.
+
+— „Ale wie pani, taka kara…” — słucham, panie Brown. Co chciał pan powiedzieć?
+
+
+[C14-M0145]
+===== USER =====
+
+-Że tak naprawdę to mam już sto....powiedziałem a potem podałem jej kartkę.
+
+
+[C14-M0146]
+===== ASSISTANT =====
+
+Dolores Umbridge zamarła z dłonią zawieszoną nad kalendarzykiem.
+
+— Słucham?
+
+Spojrzała na podaną kartkę, a potem na Jamesa.
+
+— Sto? — powtórzyła z niedowierzaniem. — Przecież przed chwilą powiedział pan, że napisał zaledwie pięć!
+
+Odebrała kartkę i natychmiast poprawiła okulary.
+
+Przez kilka sekund przyglądała się zapisanym linijkom, jakby spodziewała się odkryć jakiś wyjątkowo bezczelny żart.
+
+— Hem, hem…
+
+Przesunęła palcem wzdłuż pierwszej kolumny, następnie drugiej. Jej usta poruszały się bezgłośnie podczas liczenia.
+
+Po chwili przewróciła kartkę i kontynuowała sprawdzanie.
+
+Z każdą kolejną linijką jej uśmiech stawał się coraz bardziej wymuszony.
+
+— Siedemdziesiąt osiem… osiemdziesiąt… dziewięćdziesiąt…
+
+Wreszcie dotarła do ostatniego zdania.
+
+Zapadła cisza.
+
+— Sto.
+
+Wypowiedziała to słowo tonem osoby, która właśnie odkryła coś wyjątkowo nieprzyjemnego.
+
+Przyjrzała się jeszcze raz pismu. Wszystkie zdania były czytelne, zapisane własnym piórem Jamesa i zgodne z poleceniem.
+
+— Cóż… — odezwała się w końcu. — Muszę przyznać, że tym razem wykonał pan zadanie.
+
+Odłożyła kartkę na biurko.
+
+— Chociaż pańskie wcześniejsze uwagi dotyczące tempa pracy były najwyraźniej kolejną próbą wystawienia mojej cierpliwości na próbę.
+
+Spojrzała na zegar. Było jeszcze stosunkowo wcześnie.
+
+Ten szczegół najwyraźniej zirytował ją najbardziej.
+
+— Jak rozumiem, uważa pan to za niezwykle zabawne.
+
+Umbridge wyrównała brzegi zapisanych kartek i umieściła je obok wcześniejszych wyjaśnień.
+
+— Proszę jednak pamiętać, panie Brown, że ukończenie zadania nie zmienia mojej oceny pańskiego zachowania podczas inspekcji profesora Hagrida.
+
+Przez chwilę milczała.
+
+— Niemniej… — dodała z wyraźną niechęcią. — Skoro wykonał pan polecenie, nie widzę powodu, aby kazać panu pisać kolejne zdania.
+
+Jej uśmiech powrócił.
+
+— Dzisiejszy szlaban uznaję za zakończony.
+
+Sięgnęła po list przeznaczony dla Snape'a.
+
+— Ale zanim pan wyjdzie, chciałabym zaspokoić swoją ciekawość.
+
+Spojrzała na Jamesa znad okularów.
+
+— Czy od początku miał pan już napisane wszystkie sto zdań, kiedy zapewniał mnie pan, że zostało panu jeszcze dziewięćdziesiąt pięć?
+
+Na jej twarzy pojawił się przesłodki uśmiech.
+
+— Proszę się nie obawiać, panie Brown. Tym razem pytam wyłącznie z ciekawości.
+
+
+[C14-M0147]
+===== USER =====
+
+Po prostu pomyliłem się w liczeniu....a teraz mogę o coś zapytać Panią ale nie jako nauczyliela tylko przedstawiciela Ministerstwa...
+
+
+[C14-M0148]
+===== ASSISTANT =====
+
+Umbridge przyglądała się Jamesowi przez chwilę z wyraźną podejrzliwością.
+
+— Pomylił się pan w liczeniu… Oczywiście — odparła, przeciągając ostatnie słowo.
+
+Już miała ponownie sięgnąć po dokumenty, kiedy usłyszała dalszą część wypowiedzi.
+
+Jej brwi powędrowały nieco wyżej.
+
+— Ach? Nie jako nauczyciela, lecz jako przedstawiciela Ministerstwa Magii?
+
+Odłożyła trzymany pergamin i wygładziła rękawy różowego sweterka.
+
+— Cóż, panie Brown, muszę przyznać, że jest to interesująca odmiana. Jeszcze wczoraj wykazywał pan tak wielką nieufność wobec Ministerstwa, a dzisiaj najwyraźniej pragnie pan zasięgnąć opinii jego przedstawiciela.
+
+Na jej twarzy pojawił się zadowolony, choć nieco podejrzliwy uśmiech.
+
+— Proszę jednak pamiętać, że nawet po zakończeniu szlabanu pozostaje pan uczniem Hogwartu, a ja Wielkim Inkwizytorem. Nie oznacza to, że możemy całkowicie zapomnieć o naszych stanowiskach.
+
+Przechyliła głowę.
+
+— Niemniej jestem urzędniczką Ministerstwa Magii od wielu lat i z przyjemnością wyjaśnię panu pewne kwestie, o ile leżą w zakresie moich kompetencji.
+
+Po chwili jej spojrzenie stało się bardziej przenikliwe.
+
+— Zakładam oczywiście, że nie zamierza pan po raz kolejny urządzać sobie zabawy w hipotetyczne przykłady dotyczące niekompetentnych urzędników?
+
+Uśmiechnęła się przesłodko.
+
+— Słucham więc, panie Brown. O co chciałby pan zapytać przedstawicielkę Ministerstwa Magii?
+
+
+[C14-M0149]
+===== USER =====
+
+-Czy to prawda że jedna z osób pracujących w misterstwie Pan Malfoy słuzylem kiedyś "Sama pani wie komu?"
+
+
+[C14-M0150]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0151]
+===== USER =====
+
+zdecydowanie to pierwsze...a czy ten Pan był przesłuchiwany pod wpływem Veritaserum? a jeśli nie to dlaczego?
+
+
+[C14-M0152]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0153]
+===== USER =====
+
+nie, pytam z ciekawości....to wszystko mogę już iść?
+
+
+[C14-M0154]
+===== ASSISTANT =====
+
+Dolores Umbridge przez chwilę przyglądała się Jamesowi, jakby próbowała ocenić, czy rzeczywiście zamierza zakończyć rozmowę.
+
+— Ach, oczywiście, panie Brown. Skoro zaspokoił pan już swoją ciekawość…
+
+Uśmiechnęła się przesadnie słodko.
+
+— Dzisiejszy szlaban został zakończony. Wykonał pan powierzone zadanie, więc nie widzę powodu, by dłużej pana zatrzymywać.
+
+Starannie wyrównała zapisane przez Jamesa kartki i wsunęła je do teczki leżącej na biurku.
+
+— Muszę jednak przyznać, że jest pan niezwykle interesującym młodym człowiekiem. Rzadko spotykam uczniów, którzy podczas jednego popołudnia potrafią przejść od rozważań o szkolnej dyscyplinie do pytań o dawnych zwolenników Sam-Wiesz-Kogo.
+
+Jej uśmiech na moment stał się chłodniejszy.
+
+— Proszę tylko pamiętać, panie Brown, że ciekawość jest godną pochwały cechą, o ile towarzyszy jej odpowiedni rozsądek.
+
+Sięgnęła po różdżkę i lekkim ruchem otworzyła drzwi gabinetu.
+
+— A teraz może pan odejść. Życzę miłego wieczoru.
+
+Gdy już miała wrócić do dokumentów, ponownie podniosła wzrok.
+
+— Ach, i jeszcze jedno…
+
+Na jej twarz powrócił szeroki, niemal matczyny uśmiech.
+
+— Mam nadzieję, że podczas naszej następnej lekcji nie będzie pan odczuwał potrzeby zadawania równie… osobliwych pytań.
+
+Za jej plecami jedno z namalowanych kociąt przeciągnęło się leniwie.
+
+Umbridge odwróciła się do biurka, ale pozostawiła drzwi otwarte.
+
+
+[C14-M0155]
+===== USER =====
+
+-Nie mogę tego obiecać nie znam dokońca pani skali osobliwości...
+
+
+[C14-M0156]
+===== ASSISTANT =====
+
+Umbridge zatrzymała dłoń nad stosem dokumentów.
+
+Jej szeroki uśmiech na moment zesztywniał. Powoli odwróciła głowę w stronę Jamesa.
+
+— Och, panie Brown… — westchnęła przesadnie słodko. — Zapewniam pana, że moja skala osobliwości jest znacznie bardziej wyrozumiała, niż mogłoby się panu wydawać.
+
+Poprawiła okulary.
+
+— Chociaż muszę przyznać, że pańskie zachowanie podczas ostatnich dwóch dni znacząco poszerzyło moje wyobrażenie o tym, co piętnastoletni uczeń może uznać za stosowny temat rozmowy.
+
+Sięgnęła po list adresowany do Snape'a.
+
+— Ale skoro tak bardzo zależy panu na precyzji, pozwolę sobie udzielić jednej rady.
+
+Jej uśmiech stał się chłodniejszy.
+
+— Zanim zada pan pytanie, proszę zastanowić się, czy rzeczywiście oczekuje pan odpowiedzi, czy jedynie kolejnej okazji do sprowokowania nauczyciela.
+
+Zamilkła na chwilę.
+
+— Jestem pewna, że profesor Snape również doceniłby, gdyby nauczył się pan tej różnicy.
+
+Wróciła do swoich dokumentów, demonstracyjnie zanurzając pióro w atramencie.
+
+— A teraz, panie Brown, pański szlaban dobiegł końca. Proszę pozwolić mi wrócić do obowiązków.
+
+Po kilku sekundach dodała, już nie podnosząc wzroku:
+
+— I proszę zamknąć za sobą drzwi. Delikatnie, jeśli można.
+
+Drzwi gabinetu pozostawały otwarte. Za nimi rozciągał się pustawy, oświetlony pochodniami korytarz, a Umbridge zaczęła pisać list do Snape'a z wyraźnie większą energią niż przed chwilą.
+
+
+[C14-M0157]
+===== USER =====
+
+wyszedłem z gabinetu zamykając za sobą drzwi
+
+
+[C14-M0158]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0159]
+===== USER =====
+
+Ministerstwo samo podważa swój autorytet....powiedziałem a potem mocno ją przytuliłem a potem wziąłem na ręce - Możemy rozmawiać o czymś ciekawszym kotku? powiedziałem i zacząłem się z nią kierować do wielkiej sali
+
+
+[C14-M0160]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0161]
+===== USER =====
+
+Kotku jeśli się wstydzisz to po prostu powiedz....
+
+
+[C14-M0162]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0163]
+===== USER =====
+
+trochę posmutniałem i odstawiłem ją na ziemię - Ale jak wniosłem cię na barana to jie miałaś obiekcji....
+
+
+[C14-M0164]
+===== ASSISTANT =====
+
+Hermiona zauważyła, że James posmutniał. Jej rozbawiony uśmiech zniknął, a kiedy stanęła już na ziemi, odwróciła się do niego.
+
+— Och, James…
+
+Przez chwilę przyglądała mu się uważnie.
+
+— Masz rację — przyznała. — Wtedy sama poprosiłam cię, żebyś wniósł mnie na barana do Wielkiej Sali. I to przy wszystkich. Pamiętam doskonale.
+
+Uśmiechnęła się lekko na wspomnienie tamtego poranka.
+
+— To były moje urodziny, pamiętasz? Sama chciałam zrobić coś szalonego. A potem Ron patrzył na nas, jakbyśmy oboje postradali rozum!
+
+Zachichotała, ale szybko spoważniała.
+
+— Tylko że dzisiaj jakoś nie mam ochoty robić takiego przedstawienia. To nie znaczy, że nigdy więcej nie pozwolę ci się nosić.
+
+Podeszła bliżej, delikatnie ujmując jego dłoń.
+
+— I chyba trochę niezręcznie to powiedziałam. Nie chciałam, żeby zabrzmiało tak, jakbym wstydziła się twojej czułości.
+
+Stanęła na palcach i pocałowała go krótko w policzek.
+
+— Przecież lubię, kiedy bierzesz mnie na ręce, głuptasie. Ale chcę też móc czasem powiedzieć, że wolę iść na własnych nogach.
+
+Zerknęła w stronę wejścia do Wielkiej Sali, skąd dochodził gwar uczniów, po czym ponownie spojrzała na Jamesa.
+
+— A poza tym… — w jej oczach pojawił się figlarny błysk. — Kto powiedział, że tamta urodzinowa przejażdżka musi pozostać jedyną?
+
+Ścisnęła lekko jego dłoń.
+
+— Tylko proszę, nie smuć się z tego powodu, kochanie. Naprawdę nie chodzi o ciebie.
+
+Przez chwilę milczała, po czym przechyliła głowę.
+
+— A może po prostu zrobiło ci się przykro, bo pomyślałeś, że odrzucam twój sposób okazywania mi miłości?
+
+
+[C14-M0165]
+===== USER =====
+
+-Nie wiem...po prostu trochę... ale nie ważne to tylko trochę chwyciłem ją mocniej za rękę i poprowadziłem
+
+
+[C14-M0166]
+===== ASSISTANT =====
+
+Hermiona przez chwilę przyglądała się Jamesowi. Kiedy mocniej ścisnął jej dłoń i poprowadził ją dalej, splotła swoje palce z jego.
+
+— Dla mnie to nie jest nieważne, nawet jeśli tylko trochę — powiedziała cicho.
+
+Szła obok niego przez kilka kroków, zanim odezwała się ponownie.
+
+— Wiesz, kotku… tamtego dnia, kiedy niosłeś mnie na barana, sama tego chciałam. Dzisiaj chciałam iść obok ciebie. To naprawdę jedyna różnica.
+
+Spojrzała na niego z delikatnym uśmiechem.
+
+— Ale przyznaję, że mogłam powiedzieć to trochę ładniej. Zwłaszcza kiedy chciałeś zrobić dla mnie coś miłego.
+
+Przyciągnęła jego dłoń bliżej siebie i pocałowała ją lekko.
+
+— I nadal uważam, że jesteś niesamowicie romantyczny. Nawet jeśli czasami kompletnie nieprzewidywalny.
+
+Zbliżali się już do otwartych drzwi Wielkiej Sali. Z wnętrza dobiegały rozmowy uczniów, brzęk sztućców i zapach świeżo przygotowanej kolacji.
+
+Hermiona zerknęła do środka. Przy stole Gryffindoru Ron właśnie opowiadał coś Harry'emu, żywo gestykulując. Ginny siedziała nieco dalej, rozmawiając z koleżanką.
+
+— A skoro mieliśmy rozmawiać o czymś przyjemniejszym… — Hermiona uśmiechnęła się nieco szerzej. — Chciałam ci powiedzieć, że wpadłam na pewien pomysł dotyczący nas dwojga.
+
+Zerknęła na niego z ukosa.
+
+— I nie, tym razem nie chodzi o naukę, egzaminy ani Ministerstwo.
+
+Jej oczy rozbłysły figlarnie.
+
+— Chciałabym zabrać cię na prawdziwą randkę. Taką, którą sama zaplanuję.
+
+Po chwili dodała z udawaną powagą:
+
+— I uprzedzam, panie Brown, że nie przyjmuję żadnych protestów dotyczących tego, kto powinien zapraszać kogo.
+
+Zatrzymała na nim zaciekawione spojrzenie, wciąż trzymając jego dłoń.
+
+
+[C14-M0167]
+===== USER =====
+
+(czat plis temat randki to żaden nowy pomysł)
+
+
+[C14-M0168]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0169]
+===== USER =====
+
+-Dobrze Kotku....nie naciskam na konkretny termin....
+
+
+[C14-M0170]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0171]
+===== USER =====
+
+przewróciłem oczami ale po chwili się uśmiechnąłem a potem dałem się poprowadzić
+
+
+[C14-M0172]
+===== ASSISTANT =====
+
+Hermiona dostrzegła przewrócenie oczami Jamesa i odpowiedziała mu rozbawionym spojrzeniem.
+
+— Och, nie patrz tak na mnie, panie Brown! — zaśmiała się cicho. — Przecież wiesz, że lubię się z tobą droczyć.
+
+Poprowadziła go wzdłuż stołu Gryffindoru, aż znaleźli się niedaleko Harry'ego i Rona.
+
+— O, jesteście! — Harry uniósł wzrok znad talerza. — Jak poszło z Umbridge?
+
+Hermiona natychmiast podniosła palec.
+
+— Nie, Harry. Żadnej Umbridge. Przynajmniej przez najbliższe dziesięć minut.
+
+Ron spojrzał na nią z niedowierzaniem.
+
+— Dziesięć minut? Przy Brownie? Ambitnie.
+
+— Ron!
+
+— Co? — Ron wzruszył ramionami. — Przecież wczoraj prawie doprowadził ją do wybuchu. Nie mówię, że to źle.
+
+Harry zachichotał.
+
+Hermiona pokręciła głową z uśmiechem i usiadła na wolnym miejscu, zostawiając obok siebie przestrzeń dla Jamesa. Odłożyła książkę i sięgnęła po dzbanek z sokiem dyniowym.
+
+— Właśnie dlatego zamierzamy rozmawiać o czymś zupełnie innym.
+
+Na stole stały półmiski z pieczonym kurczakiem, ziemniakami i warzywami. W powietrzu unosił się przyjemny zapach świeżego jedzenia.
+
+— W takim razie mam temat — odezwał się Harry, odkładając widelec. — Te testrale Hagrida naprawdę były niesamowite. Nadal nie mogę uwierzyć, że ciągną nasze powozy od lat, a większość ludzi nie ma o tym pojęcia.
+
+— Ja nadal nie mogę uwierzyć, że wy widzicie coś, czego ja nie widzę — mruknął Ron.
+
+— To akurat ma konkretne wyjaśnienie, Ron — zauważyła Hermiona.
+
+— Wiem, Hermiono. Byłem na tej samej lekcji.
+
+Harry uśmiechnął się pod nosem.
+
+Hermiona sięgnęła po kilka ziemniaków, a następnie spojrzała na Jamesa.
+
+— A tak właściwie, kotku… — zaczęła z zaciekawieniem. — Jakie to było uczucie, kiedy głaskałeś testrala? Hagrid mówił, że mają skórę podobną do smoczej, ale przecież niezupełnie taką samą.
+
+Przechyliła głowę, opierając łokieć na stole.
+
+— I czy rzeczywiście wyglądały aż tak przerażająco, jak sugerował Malfoy?
+
+Harry od razu pokręcił głową.
+
+— Moim zdaniem były raczej dziwne niż przerażające.
+
+— Właśnie dlatego pytam Jamesa — odparła Hermiona z uśmiechem. — Chciałabym usłyszeć też jego wrażenia.
+
+Spojrzała na Jamesa z autentycznym zainteresowaniem, czekając na jego odpowiedź.
+
+
+[C14-M0173]
+===== USER =====
+
+są trochę straszne a skóra..tak podobna do smoczej....odpowiedziałem krótko
+
+
+[C14-M0174]
+===== ASSISTANT =====
+
+Hermiona skinęła głową, wyraźnie próbując wyobrazić sobie opisywane stworzenie.
+
+— Czyli Hagrid miał rację z tą skórą… — mruknęła z zainteresowaniem. — Szkoda, że nie mogłam jej sama dotknąć.
+
+— Uwierz mi, Hermiono, nie masz czego żałować — odezwał się Ron, nakładając sobie kolejną porcję ziemniaków. — Niewidzialny koń jedzący martwą krowę to wystarczająco dziwny widok. Nawet bez oglądania jego pyska.
+
+Harry pokręcił głową.
+
+— Wcale nie były takie straszne. No, może na początku. Ale kiedy już się przyzwyczaisz…
+
+Urwał, wzruszając ramionami.
+
+— W sumie całkiem mi się podobały.
+
+— Tobie podoba się wszystko, co potrafi latać — zauważył Ron.
+
+— Nie wszystko.
+
+— Jasne. Gdyby Hagrid przyprowadził latającego pająka wielkości hipogryfa, pewnie też chciałbyś go dosiąść.
+
+Hermiona roześmiała się cicho.
+
+— Ron, akurat ty nie powinieneś podsuwać Hagridowi takich pomysłów.
+
+— Na brodę Merlina, nawet tak nie żartuj!
+
+Harry parsknął śmiechem.
+
+Hermiona sięgnęła po dzbanek z sokiem dyniowym i nalała sobie do pucharu. Następnie zerknęła na Jamesa z łagodnym uśmiechem.
+
+— A swoją drogą, kotku, cieszę się, że Hagrid pozwolił ci nakarmić testrala. Przynajmniej część lekcji przebiegła tak, jak powinna.
+
+Po chwili skierowała spojrzenie ku Harry'emu.
+
+— Tylko mam nadzieję, że Hagrid nie wpadnie naprawdę na pomysł organizowania lotów podczas kolejnych zajęć. Zwłaszcza po tej inspekcji.
+
+— Ja bym poleciał — oświadczył Harry bez wahania.
+
+— Co za niespodzianka — odparła Hermiona z rozbawieniem.
+
+Ron tymczasem podsunął w stronę Jamesa półmisek z pieczonymi ziemniakami.
+
+— Brown, weź trochę, zanim Harry zacznie opowiadać o tych koniach przez całą kolację. Jeszcze chwila i zapomnimy, że przyszliśmy tutaj jeść.
+
+Harry rzucił w niego zwiniętą serwetką, trafiając prosto w ramię.
+
+— Bardzo dojrzałe, Potter — skomentowała Hermiona, choć sama nie potrafiła powstrzymać uśmiechu.
+
+Przy stole na dobre zapanowała swobodna atmosfera. Po raz pierwszy tego wieczoru rozmowa rzeczywiście nie krążyła wokół Umbridge ani Ministerstwa.
+
+
+[C14-M0175]
+===== USER =====
+
+(ok czat teraz zrób symulacje do jutrzejszego popołudnia)
+
+
+[C14-M0176]
+===== ASSISTANT =====
+
+Wtorkowy wieczór w Wielkiej Sali upłynął spokojniej niż poprzednie dni.
+
+Ron i Harry wdali się w dyskusję o quidditchu. Ron narzekał na ostatnie treningi Gryffindoru, a Harry, wciąż pozbawiony prawa do gry, słuchał go z wyraźną frustracją. Hermiona próbowała przekonać obu, żeby przynajmniej podczas kolacji przestali roztrząsać decyzję Umbridge.
+
+Przy stole Slytherinu Draco żywo opowiadał coś Pansy. Kilkakrotnie wskazywał w stronę stołu Gryffindoru, lecz z tej odległości nie było słychać jego słów.
+
+W końcu kolacja dobiegła końca. Uczniowie zaczęli opuszczać Wielką Salę, a Hermiona pożegnała się z Harrym i Ronem, zapowiadając, że rano czeka ją Numerologia.
+
+W Hogwarcie zapadła noc.
+
+Środa, listopad 1995 roku
+
+Poranek był chłodny i pochmurny. Nad błoniami unosiła się cienka mgła, a wiatr poruszał nagimi gałęziami drzew otaczających Zakazany Las.
+
+Podczas śniadania rozmowy uczniów wciąż krążyły wokół powrotu Hagrida. Kilkoro Gryfonów opowiadało młodszym kolegom o niewidzialnych testralach.
+
+— Mówię wam, mięso dosłownie znikało w powietrzu! — zapewniał Dean Thomas.
+
+— Bo coś niewidzialnego je jadło — wyjaśnił Seamus. — To chyba najdziwniejsza rzecz, jaką widziałem na Opiece.
+
+Kilka miejsc dalej Harry przeglądał „Proroka Codziennego”. Nie znalazł w nim niczego, co poprawiłoby mu humor.
+
+Hermiona tymczasem przygotowywała podręczniki do Numerologii. Nim rozpoczęły się poranne zajęcia, rzuciła jeszcze krótkie spojrzenie w stronę stołu Slytherinu.
+
+Pierwszy blok zajęć Jamesa pozostawał wolny, podczas gdy Hermiona miała Numerologię.
+
+Późniejsza Transmutacja przebiegła już w znacznie mniej swobodnej atmosferze.
+
+Profesor McGonagall prowadziła ćwiczenia z zaklęć znikania, nieustannie przypominając piątoklasistom o zbliżających się SUM-ach.
+
+— Pięć miesięcy przygotowań to znacznie mniej, niż wam się wydaje — oznajmiła surowo, kiedy jeden z uczniów pozostawił po swoim ślimaku połowę muszli.
+
+Ron wyglądał, jakby perspektywa egzaminów była jeszcze gorsza od odebrania mu miotły.
+
+Draco natomiast otrzymał uwagę za rozmowę z Pansy podczas demonstracji.
+
+— Panie Malfoy, jeśli posiada pan tak rozległą wiedzę, proszę wykorzystać ją w ćwiczeniu, zamiast dzielić się nią z sąsiadką.
+
+Kilku Gryfonów zachichotało.
+
+Środa — wczesne popołudnie
+
+Po obiedzie korytarze zaczęły pustoszeć. Piątoklasistów czekało podwójne Zielarstwo, a następnie Opieka nad Magicznymi Stworzeniami.
+
+Hermiona rozmawiała z Neville'em o zadaniu z Transmutacji. Ron i Harry szli kilka kroków dalej, spierając się o coś związanego z najbliższym treningiem quidditcha.
+
+Nagle z bocznego korytarza wyłonił się profesor Snape.
+
+Jego czarna szata zaszeleściła po kamiennej posadzce. Na widok grupy uczniów zwolnił kroku.
+
+— Brown.
+
+Hermiona urwała rozmowę. Harry odruchowo spoważniał.
+
+Snape zatrzymał się w niewielkiej odległości od Jamesa. Przez moment przyglądał mu się swoim zwyczajnym, nieprzeniknionym spojrzeniem.
+
+— Otrzymałem dzisiaj interesującą korespondencję od profesor Umbridge.
+
+Na ustach nauczyciela pojawił się ledwie dostrzegalny, ironiczny grymas.
+
+— Najwyraźniej pański udział w inspekcji profesora Hagrida okazał się na tyle wyjątkowy, że Wielki Inkwizytor uznała za stosowne poświęcić mu osobny list.
+
+Hermiona zmarszczyła brwi, ale nie odezwała się.
+
+— Do listu dołączono również pańskie pisemne wyjaśnienia. — Snape zrobił krótką pauzę. — Muszę przyznać, że stanowią dość osobliwą lekturę.
+
+Jego wzrok nie opuszczał Jamesa.
+
+— Nie zamierzam jednak omawiać tej sprawy na środku korytarza.
+
+Zerknął na zegar wiszący nad pobliskimi drzwiami.
+
+— Po zakończeniu dzisiejszych zajęć proszę zgłosić się do mojego gabinetu.
+
+Po chwili dodał chłodno:
+
+— I proszę się nie spóźnić. Nie mam zamiaru poświęcać całego wieczoru na rozstrzyganie pańskich sporów z profesor Umbridge.
+
+Snape nie odszedł od razu. Stał z rękami splecionymi za plecami, jakby chciał jeszcze upewnić się, że jego polecenie zostało zrozumiane.
+
+Hermiona przyglądała się mu z niepokojem. Z oddali rozległ się dzwonek zapowiadający początek popołudniowych zajęć.
+
+
+[C14-M0177]
+===== USER =====
+
+-oczywiście Panie Profesorze.... tylko ten tytuł Wielki Inkwizytor to chyba trochę przesada....
+
+
+[C14-M0178]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0179]
+===== USER =====
+
+(ok symuluj do ostatniej lekcji)
+
+
+[C14-M0180]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0181]
+===== USER =====
+
+-Jak chcesz kotku....i zauważyłem że zapomniałaś objąłem ją w talii i pocałowałem w nosek - że to ty jesteś kotkiem...
+
+
+[C14-M0182]
+===== ASSISTANT =====
+
+Hermiona roześmiała się cicho, kiedy James objął ją w talii i pocałował w nosek. Jej policzki delikatnie się zaróżowiły.
+
+— Och, przepraszam najmocniej! — odparła z udawaną powagą. — Jak mogłam zapomnieć o tak niezwykle istotnym ustaleniu?
+
+Położyła dłonie na jego ramionach i spojrzała mu w oczy.
+
+— A więc to ja jestem kotkiem, a ty jesteś moim… — urwała, zastanawiając się teatralnie. — Hmmm. Może panem Brownem, który najwyraźniej bardzo lubi całować kotki w nos?
+
+Zachichotała i odwzajemniła pocałunek, tym razem w usta.
+
+— Mrrr… — zamruczała żartobliwie, po czym uśmiechnęła się szeroko. — Zadowolony?
+
+Po chwili ponownie ujęła jego dłoń.
+
+— Chodź, kochanie. Nie chcę, żeby Snape musiał nas szukać. Zwłaszcza że pewnie już przygotował sobie jakąś wyjątkowo złośliwą przemowę.
+
+W drodze do lochów Hermiona opowiadała jeszcze o pracy zadanej przez profesor Sprout. Kiedy jednak znaleźli się w chłodnym, słabo oświetlonym korytarzu prowadzącym do gabinetu Snape'a, spoważniała.
+
+Przed nimi znajdowały się znajome drewniane drzwi.
+
+— No dobrze, kotku… — powiedziała ciszej, zatrzymując się kilka kroków od gabinetu. — Dalej chyba nie powinnam z tobą iść. Profesor wyraźnie zaznaczył, że chce rozmawiać tylko z tobą.
+
+Delikatnie pogładziła wierzch jego dłoni kciukiem.
+
+— Mam tylko jedną prośbę. Nie próbuj doprowadzić również Snape'a do furii, dobrze?
+
+Uśmiechnęła się nieco zaczepnie.
+
+— Chociaż muszę przyznać, że byłoby to trudniejsze niż w przypadku Umbridge. On przynajmniej potrafi ukrywać, co naprawdę myśli.
+
+Zza drzwi gabinetu dobiegł szelest przesuwanego przedmiotu, a następnie niski, chłodny głos:
+
+— Jeśli to pan Brown stoi na korytarzu, proszę wejść. Nie mam całego popołudnia.
+
+Hermiona uniosła brwi.
+
+— No proszę… — szepnęła z rozbawieniem. — Chyba rzeczywiście ma doskonały słuch.
+
+Pozostała przy Jamesie jeszcze przez chwilę, nie puszczając od razu jego dłoni.
+
+
+[C14-M0183]
+===== USER =====
+
+pocałowałem jej policzek a potem skierowałem się do środka
+
+
+[C14-M0184]
+===== ASSISTANT =====
+
+Hermiona odwzajemniła pocałunek delikatnym uśmiechem.
+
+— Powodzenia, kochanie — szepnęła. — Będę niedaleko.
+
+Gdy James skierował się do gabinetu, Hermiona pozostała na korytarzu.
+
+Wewnątrz panował półmrok. Ściany gabinetu profesora Snape'a zastawione były półkami pełnymi słojów, w których unosiły się dziwaczne, zakonserwowane stworzenia i fragmenty roślin. Kilka świec oświetlało ciężkie drewniane biurko.
+
+Snape siedział za nim, przeglądając zapisany pergamin.
+
+— Brown. Proszę zamknąć drzwi.
+
+Nie podniósł od razu wzroku.
+
+Dopiero po kilku sekundach odłożył dokument i wskazał krzesło naprzeciwko.
+
+— Proszę usiąść.
+
+Na biurku leżały dwie teczki. Jedna zawierała kilka zapisanych kartek, których staranne pismo wyglądało znajomo. Druga była opatrzona pieczęcią Wielkiego Inkwizytora Hogwartu.
+
+Snape spojrzał na Jamesa znad splecionych dłoni.
+
+— Muszę przyznać, Brown, że nie przypominam sobie, aby którykolwiek z moich uczniów potrafił w tak krótkim czasie wygenerować podobną ilość korespondencji urzędowej.
+
+Jego głos był cichy i nieprzyjemnie spokojny.
+
+— Profesor Umbridge przesłała mi szczegółowy opis pańskiego zachowania podczas inspekcji zajęć Hagrida, a także pańskie pisemne wyjaśnienia.
+
+Uniósł pierwszą kartkę.
+
+— Szczególnie interesujący jest fragment, w którym utrzymuje pan, że nie porównywał Wielkiego Inkwizytora do osoby niekompetentnej, ponieważ to ona sama postanowiła odnieść pańskie hipotetyczne przykłady do własnej osoby.
+
+Przerwał na moment.
+
+— Niezwykle… pomysłowa linia argumentacji.
+
+Odłożył kartkę.
+
+— Jednak nie wezwałem pana tutaj, aby rozstrzygać, kto spośród was wykazał się większą biegłością w dobieraniu słów.
+
+Jego spojrzenie stało się ostrzejsze.
+
+— Przypominam sobie bowiem naszą wcześniejszą rozmowę, podczas której zgłosił mi pan sprawę pewnego wyjątkowo nieprzyjemnego pióra.
+
+Snape przez chwilę milczał.
+
+— Profesor Umbridge została poinformowana o zastrzeżeniach dotyczących jej metod dyscyplinarnych. Sprawa nie została zakończona.
+
+Pochylił się nieznacznie do przodu.
+
+— Tymczasem pan, doskonale wiedząc, w jakiej sytuacji się znajduje, uznał za stosowne publicznie ją prowokować. Wielokrotnie.
+
+Na jego twarzy pojawił się wyraz chłodnej irytacji.
+
+— Nie zamierzam bronić każdej decyzji Dolores Umbridge. Nie zamierzam również gratulować panu stworzenia sytuacji, która dostarcza jej kolejnych argumentów przeciwko uczniom mojego domu.
+
+Postukał palcem w teczkę.
+
+— A teraz chciałbym uzyskać odpowiedź na jedno pytanie.
+
+Jego czarne oczy zatrzymały się na Jamesie.
+
+— Czy podczas wczorajszego szlabanu profesor Umbridge ponownie próbowała zmusić pana do korzystania z tego samego pióra?
+
+Snape czekał w milczeniu. Tym razem w jego głosie nie było nawet śladu kpiny.
+
+
+[C14-M0185]
+===== USER =====
+
+Nie.
+
+
+[C14-M0186]
+===== ASSISTANT =====
+
+Snape przez chwilę przyglądał się Jamesowi w milczeniu.
+
+— Dobrze.
+
+Sięgnął po leżące na biurku pióro i zanotował kilka słów na osobnym pergaminie.
+
+— Przynajmniej w tej kwestii profesor Umbridge wykazała się pewną powściągliwością.
+
+Odłożył pióro i ponownie spojrzał na Jamesa.
+
+— Jak rozumiem, ograniczyła się do zwykłego przepisywania zdań oraz żądania pisemnych wyjaśnień?
+
+Nie czekając jeszcze na odpowiedź, otworzył drugą teczkę.
+
+— Przeczytałem pańskie wyjaśnienia, Brown. Przyznam, że szczególnie zainteresował mnie fragment dotyczący tego, kto pierwszy odniósł pańskie hipotetyczne porównanie do Ministerstwa Magii.
+
+Uniósł brew.
+
+— Niewątpliwie potrafi pan bardzo starannie dobierać słowa, kiedy zależy panu na wykazaniu, że formalnie nikogo pan nie obraził.
+
+Jego głos stał się ostrzejszy.
+
+— Co jednak nie oznacza, że nie próbował pan nikogo obrazić.
+
+Snape zamknął teczkę.
+
+— Nie jestem Dolores Umbridge. Nie zamierzam przez następne pół godziny pozwalać panu udowadniać, że czarne jest białe, a białe czarne, ponieważ nie wymienił pan odpowiedniego koloru z nazwy.
+
+Pochylił się nieznacznie do przodu.
+
+— Interesuje mnie natomiast coś znacznie bardziej konkretnego.
+
+Przez chwilę milczał, po czym odezwał się ciszej:
+
+— Wcześniej przyszedł pan do mnie z poważnym zarzutem dotyczącym metod stosowanych przez profesor Umbridge. Potraktowałem go poważnie. Dyrektor również.
+
+Jego ciemne oczy nie opuszczały twarzy Jamesa.
+
+— A następnie postanowił pan urządzić publiczne przedstawienie podczas jej inspekcji.
+
+Na ustach Snape'a pojawił się chłodny grymas.
+
+— Proszę mi zatem powiedzieć, Brown…
+
+— Czy naprawdę nie przyszło panu do głowy, że im więcej okazji daje pan profesor Umbridge do przedstawiania siebie jako niesubordynowanego ucznia, tym łatwiej będzie jej próbować podważyć wiarygodność pańskiej wcześniejszej skargi?
+
+Snape oparł się w fotelu, splatając dłonie.
+
+— I zanim pan odpowie, proszę zauważyć, że nie pytam, czy profesor Umbridge miała rację. Pytam, czy zastanowił się pan nad konsekwencjami własnej taktyki.
+
+W gabinecie zapadła cisza. Profesor czekał na odpowiedź z nieprzeniknionym wyrazem twarzy.
+
+
+[C14-M0187]
+===== USER =====
+
+chwilę się zastanawiałem - Panie Profesorze....tak szczerze....to ona dosłownie ukarała Freda tylko dlatego że jest bratem bliźniakiem...tego.... drugiego Weasley'a.... więc o czym my mówimy.... prawda jest taka że ministerstwo nic jej nie zrobi my jako szkoła też nie.... chyba że ministerstwo w końcu uzna że Voldemort wrócił....
+
+
+[C14-M0188]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0189]
+===== USER =====
+
+to pierwsze......
+
+
+[C14-M0190]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0191]
+===== USER =====
+
+nie, to był blef.... ale możemy mówić że wysłałem list....
+
+
+[C14-M0192]
+===== ASSISTANT =====
+
+Snape przez kilka sekund wpatrywał się w Jamesa bez słowa.
+
+Powoli uniósł jedną brew.
+
+— A więc blef.
+
+Na jego ustach pojawił się ledwie dostrzegalny, ironiczny grymas.
+
+— Muszę przyznać, Brown, że pomysł wyprowadzenia profesor Umbridge z równowagi za pomocą zapowiedzi wizyty w Ministerstwie nie jest szczególnie skomplikowany.
+
+Pochylił się nieco do przodu.
+
+— Natomiast pańska propozycja, abyśmy teraz wspólnie twierdzili, że wysłał pan list, którego w rzeczywistości nie wysłał…
+
+Urwał, przyglądając się Jamesowi chłodno.
+
+— …jest już zwyczajnie nierozsądna.
+
+Snape odłożył trzymany pergamin.
+
+— Wystarczyłoby, żeby Umbridge poprosiła któregoś ze swoich znajomych urzędników o sprawdzenie, czy taka korespondencja wpłynęła. I co wtedy, Brown? Zamierzałby pan twierdzić, że Ministerstwo zgubiło list?
+
+Jego głos ociekał ironią.
+
+— Nie zamierzam uczestniczyć w tak kiepsko przygotowanym oszustwie.
+
+Przez chwilę milczał, po czym wskazał palcem teczkę dotyczącą krwawego pióra.
+
+— Jeżeli natomiast naprawdę chce pan wysłać skargę, posiada pan ku temu znacznie solidniejsze podstawy niż pańskie dowcipy podczas lekcji Hagrida.
+
+Jego spojrzenie spoważniało.
+
+— Ma pan dowód obrażeń. Mamy również zeznania Pottera. I dokumentację sporządzoną po naszej wcześniejszej rozmowie.
+
+Snape splótł dłonie.
+
+— Nie obiecuję, że Ministerstwo potraktuje takie pismo sprawiedliwie. Ale będzie to rzeczywista skarga, a nie kolejny blef, który profesor Umbridge może łatwo wykorzystać przeciwko panu.
+
+Po chwili dodał ciszej:
+
+— I jeszcze jedna rzecz, Brown. Proszę nie mylić skutecznego wprowadzania przeciwnika w błąd z opowiadaniem mu rzeczy, których prawdziwość może sprawdzić w pięć minut.
+
+Na jego twarzy ponownie pojawił się chłodny, niemal niewidoczny uśmiech.
+
+— Zapewniam pana, że to bardzo istotna różnica.
+
+Snape odsunął list Umbridge na bok.
+
+— Czy zamierza pan rzeczywiście złożyć skargę dotyczącą tego pióra, czy woli pan poprzestać na straszeniu nią Wielkiego Inkwizytora?
+
+Ostatni tytuł wypowiedział z charakterystyczną, suchą powagą.
+
+
+[C14-M0193]
+===== USER =====
+
+raczej bym z tym poczekał...na tą chwilę mamy zeznania potera którego ministerstwo raczej nie słucha....a z drugiej strony Panie Profesorze samo ministerstwo raczej zdaje sobie sprawę kogo tu przysłali i komu dają jakie uprawnienia i jakie metody ma ta osoba a jeśli nie to są totalnymi idiotami...
+
+
+[C14-M0194]
+===== ASSISTANT =====
+
+Snape przez dłuższą chwilę przyglądał się Jamesowi. Tym razem nie przerwał mu ani razu.
+
+Dopiero kiedy chłopak skończył, profesor powoli odłożył pióro.
+
+— Brown, nie będę polemizował z pańską oceną inteligencji pracowników Ministerstwa Magii. Obawiam się, że moglibyśmy spędzić na tym cały wieczór.
+
+Na jego ustach pojawił się ledwie dostrzegalny, ironiczny grymas.
+
+— Jednak popełnia pan jeden istotny błąd.
+
+Snape pochylił się nieznacznie do przodu.
+
+— Ministerstwo doskonale wie, jakie uprawnienia przyznało Dolores Umbridge. To oczywiste. Nie oznacza to jednak, że każdy urzędnik zna wszystkie metody, którymi posługuje się ona za zamkniętymi drzwiami swojego gabinetu.
+
+Postukał palcem w teczkę zawierającą dokumentację obrażeń.
+
+— A nawet jeśli niektórzy wiedzą, nie mamy dowodów, że wiedza ta dotarła do kogokolwiek gotowego podjąć działania.
+
+Przerwał na moment.
+
+— Co do Pottera… — jego twarz wykrzywiła się w charakterystycznym grymasie. — Przyznaję, że Ministerstwo nie wykazuje ostatnio szczególnej ochoty do traktowania jego słów poważnie.
+
+Spojrzał Jamesowi prosto w oczy.
+
+— Ale Potter nie jest jedynym świadkiem. Jest jeszcze pan. Są obrażenia, które osobiście obejrzałem. Jest dokumentacja, o której sporządzenie polecił mi zadbać dyrektor.
+
+Snape wyprostował się.
+
+— Nie jest to tak beznadziejna sytuacja, jak usiłuje pan ją przedstawić.
+
+Przez chwilę w gabinecie panowała cisza.
+
+— Natomiast w jednej kwestii pański sceptycyzm jest uzasadniony. Skarga skierowana bezpośrednio do instytucji, która obecnie wykorzystuje Hogwart do walki z Dumbledore'em, może nie przynieść oczekiwanego rezultatu.
+
+Wypowiedział to spokojnie, niemal obojętnie.
+
+— Dlatego nie zamierzam zmuszać pana do wysyłania listu, którego sam pan nie chce jeszcze wysłać. Dokumentacja zostanie zachowana.
+
+Zamknął teczkę.
+
+— Proszę jednak nie wyciągać z tego wniosku, że najlepszym rozwiązaniem jest bezczynność połączona z publicznym drażnieniem Wielkiego Inkwizytora.
+
+Na jego twarzy ponownie pojawił się cień ironii.
+
+— Chociaż pański talent do tej ostatniej czynności wydaje się naprawdę wyjątkowy.
+
+Snape wstał zza biurka i podszedł do jednej z półek z eliksirami.
+
+— Jest jeszcze coś, Brown.
+
+Odwrócił się.
+
+— Wspomniał pan, że sytuacja może się zmienić dopiero wtedy, gdy Ministerstwo uzna powrót Czarnego Pana.
+
+Jego głos wyraźnie się ochłodził.
+
+— Proszę nie zakładać, że przyznanie się do błędu automatycznie oznacza gotowość do naprawienia wszystkich jego konsekwencji. Ludzie, którzy przez długi czas zaprzeczają rzeczywistości, rzadko witają ją z otwartymi ramionami.
+
+Przez chwilę patrzył na Jamesa w milczeniu.
+
+— A teraz powiedzmy sobie jasno: jeśli profesor Umbridge nie zastosowała podczas ostatniego szlabanu żadnych podobnych środków, nie zamierzam dopisywać ich do jej przewinień. To, co rzeczywiście zrobiła wcześniej, jest dostatecznie poważne.
+
+Wrócił za biurko.
+
+— Czy ma pan jeszcze coś istotnego do dodania, Brown? Czy możemy uznać, że przynajmniej dzisiaj uda nam się zakończyć rozmowę bez powstania kolejnej ministerialnej teczki?
+
+
+[C14-M0195]
+===== USER =====
+
+Możemy na tym dzisiaj skończyć....i rozumiem że instrukcję na przyszłość to się nie odzywać?
+
+
+[C14-M0196]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0197]
+===== USER =====
+
+-Przekaże....powiedziałem a potem opuściłem gabinet
+
+
+[C14-M0198]
+===== ASSISTANT =====
+
+[BRAK TREŚCI ODPOWIEDZI W DOSTARCZONYM EKSPORCIE — nie odtworzono.]
+
+
+[C14-M0199]
+===== USER =====
+
+-Dobrze, Pan Profesor kazał cię pozdrowić powiedziałem to głośno tak aby było słychać za drzwiami i lekko się uśmiechnąłem
+
+
+[C14-M0200]
+===== ASSISTANT =====
+
+Hermiona zamrugała z zaskoczenia, po czym spojrzała na Jamesa z wyraźnym niedowierzaniem.
+
+— Profesor Snape? Pozdrowić? Mnie?
+
+Uniosła brew, a na jej twarzy powoli pojawił się rozbawiony uśmiech.
+
+— James, kochanie, czy ty przypadkiem nie pomyliłeś profesora Snape'a z kimś innym?
+
+Nie zdążyła jednak powiedzieć nic więcej.
+
+Za plecami Jamesa rozległ się charakterystyczny szczęk otwieranych drzwi.
+
+— Brown.
+
+W progu gabinetu stał Severus Snape. Jego czarne oczy przesunęły się z Jamesa na Hermionę, a następnie ponownie zatrzymały na swoim uczniu.
+
+— Nie przypominam sobie, abym prosił pana o przekazywanie pannie Granger pozdrowień.
+
+Hermiona natychmiast przybrała poważniejszy wyraz twarzy, choć kąciki jej ust wciąż zdradzały rozbawienie.
+
+— Dobry wieczór, profesorze.
+
+— Panno Granger.
+
+Snape zwrócił się ponownie do Jamesa.
+
+— Przekazałem panu jedynie, że panna Granger nie musiała spędzać całego popołudnia pod moimi drzwiami.
+
+Zrobił krótką pauzę.
+
+— Choć najwyraźniej nawet tak prosta wiadomość przekracza pańskie możliwości wiernego przekazania informacji.
+
+Hermiona przygryzła wargę, usiłując powstrzymać śmiech.
+
+Snape zmrużył oczy.
+
+— A teraz, jeśli pańskie obowiązki jako szkolnego posłańca dobiegły końca, byłbym niezwykle wdzięczny, gdyby umożliwił mi pan powrót do pracy.
+
+Odwrócił się, lecz przed zamknięciem drzwi rzucił jeszcze chłodno:
+
+— I proszę nie przypisywać mi kolejnych serdeczności, Brown. Jedna na dzisiejszy wieczór stanowczo wystarczy.
+
+Drzwi zamknęły się z głuchym stuknięciem.
+
+Hermiona wytrzymała może dwie sekundy, zanim wybuchnęła śmiechem.
+
+— James! — zawołała półgłosem, zasłaniając usta dłonią. — Ty naprawdę powiedziałeś to specjalnie tak głośno!
+
+Pokręciła głową, wciąż rozbawiona.
+
+— Ale wiesz co? Chyba najbardziej zdziwiło mnie, że wyszedł tylko po to, żeby osobiście sprostować te pozdrowienia!
+
+Spojrzała na zamknięte drzwi, a potem ponownie na Jamesa.
+
+— Jesteś niemożliwy, kotku. Absolutnie niemożliwy.
+
+

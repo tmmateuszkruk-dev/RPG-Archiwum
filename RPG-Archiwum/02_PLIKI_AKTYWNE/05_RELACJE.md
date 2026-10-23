@@ -1,3 +1,19 @@
+# Relacje — C14
+
+- James i Hermiona pozostają parą. Święta spędzają osobno; list Hermiony potwierdza uczucia i jej prawo do przyjaźni z Ronem. Brak zaręczyn i rozstania. Źródła: C14-M0248, C14-M0280, C14-M0648, C14-M0649.
+
+- Nowa grupa świąteczna wspólnie je i gra; James ma remis z Orlą, pokonuje pozostałych rozegranych przeciwników. Rose uczy się zamiast z nim rywalizować. Źródła: C14-M0374, C14-M0414, C14-M0416.
+
+- Graham otrzymał pomoc przy prezencie dla młodszej siostry; chce poznać Lunę. Luna w liście wprost podtrzymuje przyjaźń z Jamesem. Źródła: C14-M0520, C14-M0521, C14-M0684.
+
+- Krum pamięta zaproszenie, ale nie potwierdza terminu. Élodie chciałaby przyjechać do Anglii, wymaga uzgodnień z rodzicami; wakacje są możliwością, nie umówioną wizytą. Źródła: C14-M0692, C14-M0694.
+
+- Opinia Jamesa o trwałych uczuciach Ginny do Harry’ego i żarty o Ginny oraz Lunie nie są potwierdzeniem nowych romansów. Źródła: C14-M0225, C14-M0228, C14-M0235.
+
+---
+
+## Wcześniejsze ustalenia — historyczne
+
 # Relacje — przyrost C13
 
 James i Hermiona pozostają parą. Hermiona publicznie potwierdza miłość, odmawia pozorowania rozstania i zastraszania Rona (M0214–0240). Rozmowy o ślubie i rodzinie to warunkowa przyszłość, nie zaręczyny ani zgoda na osiem dzieci (M0563–0576).

@@ -1,8 +1,10 @@
 # Hermiona Granger
 
-Stan C13-M1029. Wzmianki nie są dowodem wiedzy.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
 
 Rola: Partnerka Jamesa; Gryffindor, V rok, prefekt.
+
+Charakter: Zachowywać swobodę wypracowanej relacji, rozpoznawać zwyczaje i wracać do teraźniejszości bez wykładu. Nadal ma własne zdanie, przyjaciół i obowiązki.
 
 Granice wiedzy: Nie zna automatycznie podsłuchu C9, pełnego zgłoszenia pióra, rosyjskich rozmów, nocnych działań Jamesa ani jego listów do pozostałych znajomych.
 
@@ -34,3 +36,6 @@ Granice wiedzy: Nie zna automatycznie podsłuchu C9, pełnego zgłoszenia pióra
 - Po treningu zostają sami w salonie Pokoju Życzeń; Hermiona zamyka drzwi Colloportus, bez gwarancji niezniszczalności. Oboje przytomni. C13 kończy się akcją Jamesa bez odpowiedzi NPC. Źródła: C13-M0982, C13-M1028, C13-M1029
 - Randka organizowana przez Hermionę nadal jest planem; spontaniczny spacer nie został uznany za spełnienie obietnicy. Źródła: C13-M0917, C13-M0922
 - Wspólne latanie jest propozycją zaakceptowaną przez Jamesa; nie rozegrano jeszcze lotu. Źródła: C13-M0929, C13-M0936
+- 21 XII McGonagall przekazała obojgu, że Artur żyje i jest leczony w Mungu. Nie oznacza to znajomości całej wizji Harry’ego ani adresu kwatery. Źródła: C14-M0262
+- Para pozostaje razem; list z 25 XII potwierdza miłość, tęsknotę i odmowę narzucania Ronowi odstępu. Podpisy o przyszłym mężu/narzeczonym nie są zaręczynami. Randka nadal nie ma potwierdzonego rozegrania. Źródła: C14-M0167, C14-M0648, C14-M0649
+- Z listów Jamesa zna wspólne posiłki czterech domów, szachy i bitwę na śnieżki. Chce poznać Orlę i z nią zagrać. To nie daje jej wiedzy o wszystkich rozmowach w Hogwarcie. Źródła: C14-M0605, C14-M0648

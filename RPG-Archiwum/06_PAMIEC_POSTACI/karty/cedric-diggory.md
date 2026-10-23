@@ -1,8 +1,10 @@
 # Cedric Diggory
 
-Stan C13-M1029. Wzmianki nie są dowodem wiedzy.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
 
 Rola: Reprezentant Hogwartu; zmarły od finału
+
+Charakter: Dawne żywe sceny pozostają historią; nie wprowadzać go żywego po finale.
 
 Granice wiedzy: Nie dopisywać mu znajomości prywatnych rozmów Jamesa.
 

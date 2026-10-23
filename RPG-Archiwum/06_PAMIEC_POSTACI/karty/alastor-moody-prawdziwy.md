@@ -1,8 +1,10 @@
 # Alastor Moody — prawdziwy
 
-Stan C13-M1029. Wzmianki nie są dowodem wiedzy.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
 
 Rola: Prawdziwy auror; uwolniony w C9.
+
+Charakter: Nie zachowywać się jak nauczyciel, który osobiście prowadził wcześniejsze ćwiczenia Jamesa.
 
 Granice wiedzy: Może poznać przebieg lekcji z relacji, lecz takiego przekazania nie dopisywać automatycznie.
 

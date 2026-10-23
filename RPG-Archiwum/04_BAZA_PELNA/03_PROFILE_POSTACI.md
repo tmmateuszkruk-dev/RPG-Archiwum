@@ -1,3 +1,17 @@
+# Profile — C14
+
+- Hermiona nadal 16-letnia, samodzielna i lojalna wobec przyjaciół; prośba użytkownika o niewydoroślanie obowiązuje, lecz nowa wersja odpowiedzi nie jest dostępna. Źródła: C14-M0277, C14-M0278, C14-M0648.
+
+- Draco, Nott i Pansy według korekty M0078, bez automatycznego zgadzania się z Jamesem. Źródła: C14-M0076, C14-M0078.
+
+- Grupa świąteczna: Malcolm, Eleanor, Laura, Dennis, Orla, Stewart, Owen i Kevin — drugi rok; Euan i Rose — pierwszy. Graham jest odrębnym młodszym Ślizgonem. Nie utożsamiaj scenicznych cech i pobytu na święta z kanonem książek. Źródła: C14-M0374, C14-M0496.
+
+- Amelia, siostra Grahama: według niego dziewięć lat, dziesięć skończy w styczniu. To postać kampanii, nie potwierdzona uczennica Hogwartu. Pani Merriweather i Edgar Whitlock są sprzedawcami z tej wizyty. Źródła: C14-M0468, C14-M0486, C14-M0512.
+
+---
+
+## Wcześniejsze ustalenia — historyczne
+
 # Profile — aktualizacja C13
 
 Hermiona ukończyła 16 lat 19 IX 1995 (M0465–0478). Starszy zapis „15 lat” opisuje wcześniejszy czas. James jest uczniem piątej klasy i pozostaje niepełnoletni; nie dopisuj daty urodzin. Harry prowadzi GD; James przyjmuje rolę pomocnika, nie dowódcy.

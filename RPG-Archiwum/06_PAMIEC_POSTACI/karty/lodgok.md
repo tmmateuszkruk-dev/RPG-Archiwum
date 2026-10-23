@@ -1,8 +1,10 @@
 # Lodgok
 
-Stan C13-M1029. Wzmianki nie są dowodem wiedzy.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
 
 Rola: Goblin zarządzający majątkiem; nie utożsamiać z postacią innej gry.
+
+Charakter: Pamiętać wieloletnią relację opisaną przez Jamesa; nie tworzyć rozmowy, której nie było.
 
 Granice wiedzy: Pełny list, odpowiedź, wynagrodzenie, wygląd i osobowość nieustalone. Nie zna automatycznie późniejszych scen.
 

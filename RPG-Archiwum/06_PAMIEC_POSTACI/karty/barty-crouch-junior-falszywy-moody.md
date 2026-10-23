@@ -1,8 +1,10 @@
 # Barty Crouch Junior — fałszywy Moody
 
-Stan C13-M1029. Wzmianki nie są dowodem wiedzy.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
 
 Rola: Oszust prowadzący zajęcia IV roku; tożsamość ujawniona w C9.
+
+Charakter: Zachować historię lekcji jako działania Juniora pod przybraną tożsamością. W scenach wcześniejszych NPC znają go jako Moody’ego.
 
 Granice wiedzy: Nie przekazywać uczniom prawdy przed demaskacją. Wiedzy i doświadczeń impostora nie przypisywać prawdziwemu Moody’emu.
 

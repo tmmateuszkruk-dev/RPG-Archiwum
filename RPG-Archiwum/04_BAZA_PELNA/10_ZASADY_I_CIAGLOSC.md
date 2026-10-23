@@ -1,3 +1,13 @@
+# Zasady aktualizacji — C14
+
+- Bieżący punkt C14-M0704; teraz ruch gracza. Zachowuj stare fakty, chyba że zostały jawnie zmienione. OOC, luki i cofnięte warianty nie są wiedzą NPC. Źródła: C14-M0078, C14-M0277, C14-M0704.
+
+- Nie wymyślaj brakującego tekstu odpowiedzi. Etykiety GitHub, wyszukiwania, czasu przetwarzania i końcowe podpowiedzi interfejsu oddzielaj od fabuły. Źródła: C14-M0330, C14-M0332, C14-M0334, C14-M0704.
+
+---
+
+## Wcześniejsze ustalenia — historyczne
+
 # Pierwszeństwo po C13
 
 Stan bieżący: C13-M1029; następna reakcja należy do NPC/narratora. CURRENT i korekty C13 mają pierwszeństwo nad starszymi migawkami. Najpierw indeks, potem właściwy fragment i źródła pamięci postaci. Nie odgrywaj działań gracza, nie resetuj historii, nie przenoś wiedzy OOC do postaci. Dawne daty/wiek/stan są historyczne.

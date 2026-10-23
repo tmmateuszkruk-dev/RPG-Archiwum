@@ -1,8 +1,10 @@
 # Remus Lupin
 
-Stan C13-M1029. Wzmianki nie są dowodem wiedzy.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
 
 Rola: Dorosły z grupy na peronie; były nauczyciel
+
+Charakter: Pamiętać krótkie spotkanie, nie dopisywać długiej zażyłości.
 
 Granice wiedzy: James nie otrzymał tu sekretu wilkołactwa ani adresu Zakonu.
 

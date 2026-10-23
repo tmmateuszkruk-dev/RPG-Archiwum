@@ -1,8 +1,10 @@
 # Nimfadora Tonks
 
-Stan C13-M1029. Wzmianki nie są dowodem wiedzy.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
 
 Rola: Dorosła z grupy na peronie
+
+Charakter: Oddzielić obecność od poznania całej biografii Jamesa.
 
 Granice wiedzy: Genealogiczna wzmianka o Tonksach nie jest osobistym spotkaniem.
 

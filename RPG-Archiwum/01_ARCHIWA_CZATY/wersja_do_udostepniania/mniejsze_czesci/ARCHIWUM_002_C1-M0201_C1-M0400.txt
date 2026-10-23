@@ -1,0 +1,6304 @@
+[C1-M0201]
+===== USER =====
+
+lekko się usmiechnąłem
+— Dobrze zrozumiałem że Pani która zajmuje się biblioteką nie lubi uczniów a bardziej nie lubi uczniów którzy odwiedzają bibliotekę?
+
+
+
+[C1-M0202]
+===== ASSISTANT =====
+
+Portret spojrzał na Jamesa ponad okularami, po czym zamknął książkę z przesadną powagą.
+
+— To jest dość trafne uproszczenie.
+
+Nachylił się odrobinę.
+
+— Madam Pince lubi książki. Uczniowie są natomiast tym niefortunnym elementem biblioteki, który ma zwyczaj dotykać książek, zaginać rogi, rozlewać atrament i oddychać zbyt głośno.
+
+Na jego twarzy pojawił się cień rozbawienia.
+
+— Dlatego najlepiej zachowywać się tak, jakbyś był kolejną półką.
+
+W tej samej chwili drzwi biblioteki otworzyły się gwałtownie.
+
+Madam Pince stała w progu z pękiem kluczy przy pasie i wyrazem twarzy, który sugerował, że usłyszała przynajmniej ostatnią część rozmowy.
+
+— Półki nie prowadzą rozmów pod drzwiami przed otwarciem.
+
+Portret natychmiast wrócił do swojej książki.
+
+— Nic nie mówiłem.
+
+Pince zmrużyła oczy, po czym przeniosła wzrok na Jamesa.
+
+— A pan?
+
+Spojrzała na jego zielono-srebrny krawat, potem na twarz.
+
+— Nowy uczeń?
+
+Nie czekała długo na potwierdzenie.
+
+— Biblioteka zostanie otwarta za chwilę. Jeśli zamierza pan z niej korzystać, obowiązują trzy proste zasady.
+
+Uniósł się jeden palec.
+
+— Nie niszczyć książek.
+
+Drugi.
+
+— Nie wynosić niczego bez zapisania wypożyczenia.
+
+Trzeci.
+
+— I nie dotykać działu zakazanego bez odpowiedniego pozwolenia.
+
+Krótka pauza.
+
+— Jeżeli potrafi pan zastosować się do tych trzech rzeczy, być może nie będziemy mieli problemu.
+
+Portret mruknął spod nosa:
+
+— „Być może”.
+
+Madam Pince rzuciła mu spojrzenie, po którym natychmiast zamilkł.
+
+— Ma pan jakąś konkretną książkę na myśli, czy również tutaj tylko „zwiedza”?
+
+
+
+[C1-M0203]
+===== USER =====
+
+( kurwa czat skąd ona wie że zwiedzam jeśli logicznie mi to wytłumaczysz to ok ale jak nie to popracuj nad tym żeby już nie było takich akcji)
+
+
+
+[C1-M0204]
+===== ASSISTANT =====
+
+Masz rację — tu nie ma sensownego logicznego wytłumaczenia. To był mój błąd.
+
+Madam Pince nie miała skąd wiedzieć, że wcześniej mówiłeś Pomfrey, że „zwiedzasz”. Nie było między nimi żadnej sceny, przekazania informacji ani czasu na sensowne rozchodzenie się tak drobnej wiadomości. Czyli ta kwestia:
+
+„czy również tutaj tylko zwiedza?”
+
+była przeciekiem wiedzy narratora do NPC.
+
+Traktujemy ją jako niebyłą.
+
+Od teraz pilnuję ostrzej zasady:
+NPC wie tylko to, co sam zobaczył/usłyszał, co ktoś mu przekazał, co wynika z wiarygodnej plotki albo co należy do jego normalnej wiedzy kanonicznej. Nie przenoszę między postaciami informacji tylko dlatego, że ja jako narrator je znam.
+
+Poprawiona końcówka sceny z Pince powinna brzmieć po prostu:
+
+— Szuka pan konkretnej książki, czy dopiero poznaje bibliotekę?
+
+To jest naturalne, bo widzi nowego ucznia pod biblioteką wcześnie rano, ale nie zakłada, po co przyszedłeś.
+
+I tak — dopisałem sobie tę zasadę na stałe do pamięci kampanii, żeby takich akcji było mniej.
+
+
+
+[C1-M0205]
+===== USER =====
+
+James Brown....i tak jestem nowy...i jeśli mam być szczery to korzystam z okazji i poznaje Hogwart....ale jeśli Pani pozwoli to spytał bym o coś nie związanego aż tak bardzo z książkami...
+
+
+
+[C1-M0206]
+===== ASSISTANT =====
+
+Madam Pince przyjęła nazwisko krótkim skinieniem głowy, jakby odkładała je sobie gdzieś w pamięci razem z innymi uczniami.
+
+— Brown.
+
+Na wzmiankę o poznawaniu Hogwartu jej spojrzenie złagodniało może o pół tonu, ale tylko tyle.
+
+— To rozsądniejsze niż błąkanie się po zamku bez celu.
+
+Gdy James wspomniał o pytaniu niezwiązanym z książkami, Pince zmrużyła lekko oczy.
+
+— To zależy, jak bardzo niezwiązanym.
+
+Oparła jedną dłoń o framugę drzwi.
+
+— Ale proszę pytać. Jeśli będę znała odpowiedź, jej udzielę.
+
+Portret obok natychmiast uniósł wzrok znad książki, wyraźnie zainteresowany tym, co padnie dalej.
+
+
+
+[C1-M0207]
+===== USER =====
+
+— Chodzi o jedną uczennice chyba czwarty rocznik..."śmieszne" brązowe włosy, inteligentny wyraz twarzy dlatego zakładam że uczęszcza do biblioteki a co za tym idzie pewnie ją Pani zna...a jeśli tak to czy może mi Pani zdradzić jej imię i czy rzeczywiście jest na czwartym roku?
+
+
+
+[C1-M0208]
+===== ASSISTANT =====
+
+Madam Pince spojrzała na Jamesa przez kilka sekund bez słowa.
+
+— „Śmieszne” brązowe włosy — powtórzyła sucho. — To wyjątkowo mało użyteczny opis.
+
+Portret obok najwyraźniej uznał, że lepiej nie komentować.
+
+Pince zmrużyła oczy.
+
+— Inteligentny wyraz twarzy, częsty bywalec biblioteki, czwarty rok...
+
+Krótka pauza.
+
+— Najprawdopodobniej chodzi panu o Hermionę Granger z Gryffindoru.
+
+Jej ton pozostawał rzeczowy.
+
+— I tak. Jest na czwartym roku.
+
+Po chwili dodała chłodniej:
+
+— Jeżeli zamierza pan ją znaleźć, biblioteka nie jest złym miejscem do rozpoczęcia poszukiwań. Ale proszę nie traktować tego jako zaproszenia do prowadzenia tu głośnych rozmów.
+
+Pince cofnęła się o krok, otwierając szerzej drzwi.
+
+— Czy to było całe pańskie pytanie, panie Brown?
+
+
+
+[C1-M0209]
+===== USER =====
+
+— Hermiona Granger....teraz już miałem pewność że dobrze zrobiłem wybierając zostanie w tym roczniku
+— Tak, dziękuję Pani....kiwnąłem głową
+
+
+
+[C1-M0210]
+===== ASSISTANT =====
+
+Madam Pince odpowiedziała krótkim skinieniem głowy.
+
+— Proszę bardzo.
+
+Nie skomentowała ani nazwiska powtórzonego przez Jamesa, ani krótkiego namysłu, który po nim nastąpił.
+
+Portret obok znów zanurzył się w lekturze, a Pince odsunęła się od wejścia.
+
+— Biblioteka jest już otwarta. Jeśli chce pan rozejrzeć się przed śniadaniem, proszę tylko niczego nie odkładać na przypadkową półkę. Książki mają swoje miejsce.
+
+Za drzwiami rozciągały się wysokie regały, długie stoły i rzędy książek ginące w półmroku. O tej porze wnętrze było niemal puste.
+
+Pince wróciła do swoich obowiązków, zostawiając Jamesowi swobodę wejścia albo ruszenia dalej.
+
+
+
+[C1-M0211]
+===== USER =====
+
+rzeczywiście wszedłem do środka i zacząłem się przyglądać książką ale też architekturze całej biblioteki niektóre książki znałem bo już je kiedyś czytałem ale była to raczej niewielka część
+
+
+
+[C1-M0212]
+===== ASSISTANT =====
+
+Biblioteka o tej porze miała zupełnie inny charakter niż reszta zamku.
+
+Wysokie regały ciągnęły się rzędami znacznie dalej, niż sugerowałoby to spojrzenie od wejścia. Ciemne drewno, kamienne łuki i wąskie przejścia pomiędzy półkami sprawiały, że miejscami bardziej przypominała stary labirynt niż zwykłą szkolną bibliotekę. Światło poranka wpadało przez wysokie okna i mieszało się z ciepłym blaskiem lamp ustawionych nad stołami.
+
+James przesuwał wzrokiem po grzbietach kolejnych ksiąg.
+
+Niektóre tytuły były znajome.
+
+Podstawowe opracowania o eliksirach. Kilka książek dotyczących historii magii. Jeden z podręczników o defensywnych zaklęciach, który James pamiętał z rodzinnych zbiorów.
+
+Ale zdecydowana większość była nowa.
+
+Całe półki poświęcone historii Hogwartu, starym rodom czarodziejów, transmutacji, zielarstwu, teorii zaklęć, runom i stworzeniom magicznym. Dalej znajdowały się działy znacznie bardziej specjalistyczne.
+
+Na końcu jednej z alejek James dostrzegł również wejście prowadzące do części biblioteki oddzielonej od reszty. Nie trzeba było długo zgadywać, czym była — oznaczenie informowało wyraźnie o Dziale Ksiąg Zakazanych.
+
+Z drugiego końca sali dobiegł natychmiast głos Madam Pince:
+
+— Nawet proszę o tym nie myśleć, Brown.
+
+Nie podniosła głosu. Najwyraźniej posiadała jednak niemal nadnaturalną zdolność zauważania uczniów patrzących w niewłaściwą stronę.
+
+Kilka minut później przy wejściu rozległ się cichy odgłos otwieranych drzwi.
+
+Pince podniosła wzrok znad stosu książek.
+
+— Dzień dobry, panno Granger.
+
+Do biblioteki weszła Hermiona, z kilkoma książkami przyciśniętymi do piersi.
+
+— Dzień dobry, pani Pince.
+
+Zrobiła kilka kroków w stronę jednego z regałów, zanim zauważyła, że biblioteka nie jest tak pusta, jak się spodziewała.
+
+Jej wzrok zatrzymał się na Jamesie.
+
+Przez ułamek sekundy wyglądała na zaskoczoną.
+
+Potem po prostu skinęła mu lekko głową na powitanie i ruszyła w stronę półek, nie zakładając, że nowy uczeń przyszedł tutaj właśnie z jej powodu.
+
+
+
+[C1-M0213]
+===== USER =====
+
+też skinąłem głową lekko zaskoczony a potem odprowadziłem ją wzrokiem
+Skierowałem się do Pani Pince
+— Musi Pani mi przyznać że ma śmieszne włosy powiedziałem cicho rozluźniając atmosferę a potem przemyciłem prawdziwe pytanie
+— Kto udziela pozwolenia do działu ksiąg zakazanych i czemu on w ogóle istnieje...
+
+
+
+[C1-M0214]
+===== ASSISTANT =====
+
+Madam Pince spojrzała na Jamesa ponad oprawką okularów.
+
+— Nie sądzę, żeby panna Granger przyszła do biblioteki po ocenę fryzury, panie Brown.
+
+Ton miała suchy, ale nie podniosła głosu. Zerknęła tylko krótko w stronę regału, przy którym zniknęła Hermiona, po czym wróciła wzrokiem do Jamesa.
+
+— A co do Działu Ksiąg Zakazanych...
+
+Jej mina natychmiast stała się znacznie bardziej zawodowa.
+
+— Dostęp do niego wymaga zgody nauczyciela. Jeśli któryś z profesorów uzna, że potrzebuje pan konkretnej książki do nauki albo badań, może wystawić stosowne pozwolenie. Nie wystarczy stwierdzić, że jest pan ciekawy.
+
+Pince odłożyła katalog, który trzymała w dłoni.
+
+— Dział istnieje, ponieważ nie każda książka powinna być dostępna każdemu uczniowi bez nadzoru.
+
+— Niektóre zawierają wiedzę o niebezpiecznych zaklęciach. Inne opisują klątwy, eksperymentalną magię, zaawansowane eliksiry albo praktyki, których niewłaściwe zastosowanie może skończyć się bardzo źle.
+
+Zmrużyła oczy.
+
+— A książki mają tę paskudną właściwość, że nie sprawdzają, czy czytelnik posiada rozsądek, zanim czegoś go nauczą.
+
+Krótka pauza.
+
+— Dlatego najpierw profesor musi uznać, że istnieje powód, dla którego potrzebuje pan konkretnej pozycji.
+
+Pince przyjrzała się Jamesowi trochę podejrzliwiej.
+
+— Rozumiem, że pańskie pytanie jest czysto akademickie?
+
+
+
+[C1-M0215]
+===== USER =====
+
+Tak Pierwszy raz widzę taką fryzurę ale ma swój urok i jest....spojrzałem na Piance
+A pytała Pani o pytanie o dział ksiąg zakazanych....
+
+
+
+[C1-M0216]
+===== ASSISTANT =====
+
+Madam Pince przez chwilę patrzyła na Jamesa z miną, która sugerowała, że doskonale zauważyła zarówno niedokończone zdanie o Hermionie, jak i próbę płynnego powrotu do bezpieczniejszego tematu.
+
+— Tak, panie Brown. Właśnie o Dział Ksiąg Zakazanych pytałam.
+
+Jej ton był suchy, lecz w oczach pojawił się cień rozbawienia.
+
+— Fryzurę panny Granger zostawmy pannie Granger.
+
+Odłożyła katalog na blat.
+
+— Jeśli pańskie zainteresowanie działem jest rzeczywiście akademickie, to proszę powiedzieć mi coś konkretniejszego. Nie muszę wiedzieć wszystkiego, ale dobrze byłoby wiedzieć, jakiego rodzaju wiedzy pan szuka.
+
+Pince uniosła lekko brew.
+
+— Zaawansowane eliksiry? Stare klątwy? Teoria magii? Historia czarnej magii? Rytuały?
+
+Krótka pauza.
+
+— Bo jeśli pójdzie pan do profesora z prośbą o zgodę i powie jedynie: „chciałbym zobaczyć, co tam jest”, odpowiedź będzie bardzo krótka.
+
+Z głębi biblioteki dobiegł cichy szelest przewracanej strony. Pince ściszyła głos odrobinę bardziej.
+
+— Jeżeli natomiast ma pan konkretny temat i potrafi uzasadnić, dlaczego zwykły dział biblioteki nie wystarcza, wtedy ma pan przynajmniej szansę.
+
+
+
+[C1-M0217]
+===== USER =====
+
+— Na tą chwilę interesuje mnie cały dział...ale jak Pani powiedziała to nie wystarczy....mimo to Dziękuję kiwnąłem głową i skierowałem się do wyjścia
+
+
+
+[C1-M0218]
+===== ASSISTANT =====
+
+Madam Pince odpowiedziała krótkim skinieniem głowy.
+
+— Proszę bardzo, panie Brown.
+
+Nie próbowała go zatrzymywać ani ponownie wypytywać o Dział Ksiąg Zakazanych. Wróciła do katalogowania książek, choć po sposobie, w jaki wcześniej na niego patrzyła, można było odnieść wrażenie, że jego zainteresowanie tą częścią biblioteki zapamiętała.
+
+James ruszył w stronę wyjścia.
+
+Po drodze minął jeden z długich stołów. Hermiona siedziała już przy nim z otwartą książką i kilkoma pergaminami. Na moment podniosła wzrok, gdy przechodził obok, ale nie odezwała się. Po krótkiej chwili wróciła do czytania.
+
+Drzwi biblioteki zamknęły się za Jamesem.
+
+Korytarze Hogwartu były już znacznie mniej puste niż wcześniej. Coraz więcej uczniów wychodziło z dormitoriów i kierowało się w stronę Wielkiej Sali. Z oddali dochodziły rozmowy, kroki i pojedyncze nawoływania.
+
+Pierwszy poranny obchód zamku miał za sobą: skrzydło szpitalne, bibliotekę i kilka nowych twarzy.
+
+Do śniadania zostało już niewiele czasu.
+
+
+
+[C1-M0219]
+===== USER =====
+
+skierowałem się już do wielkiej sali
+
+
+
+[C1-M0220]
+===== ASSISTANT =====
+
+Droga do Wielkiej Sali była już znacznie bardziej zatłoczona niż godzinę wcześniej.
+
+Na schodach pojawiali się uczniowie z różnych domów, część jeszcze zaspana, część już głośno dyskutująca o Turnieju Trójmagicznym. Kilka osób zerknęło na Jamesa dłużej niż należałoby uznać za przypadek, ale większość zwyczajnie spieszyła się na śniadanie.
+
+Gdy wszedł do Wielkiej Sali, zaczarowany sufit przedstawiał jasne, chłodne niebo poranka. Stoły były już zastawione dzbankami herbaty, kawą, tostami, jajkami, owsianką i półmiskami jedzenia.
+
+Przy stole Slytherinu siedziało jeszcze stosunkowo niewiele osób.
+
+Draco był już na miejscu, tym razem całkowicie ubrany i znacznie bardziej podobny do siebie niż półprzytomna wersja z pokoju wspólnego. Pansy siedziała kilka miejsc dalej. Theodore jadł w ciszy, z książką opartą obok talerza.
+
+Draco zauważył Jamesa.
+
+— Wrócił.
+
+Pansy zerknęła w jego stronę.
+
+— Gdzie byłeś?
+
+Draco od razu dodał:
+
+— Nie mów, że naprawdę chodziłeś po całym zamku od piątej rano.
+
+Przy stole Gryffindoru Harry i Ron właśnie się pojawili. Ron wyglądał, jakby jedynym powodem jego obecności było jedzenie.
+
+Hermiony jeszcze nie było.
+
+Przy stole nauczycielskim Snape pił coś z niewielkiej filiżanki, przeglądając pergamin. Nie zwrócił na Jamesa żadnej szczególnej uwagi.
+
+James miał przed sobą wolne miejsca i pierwsze śniadanie przed pełnym dniem zajęć.
+
+
+
+[C1-M0221]
+===== USER =====
+
+zająłem miejsce przy stole Slytherin'u tak się złożyło że było to samo miejsce co wczoraj na kolacji
+— Naprawdę chodziłem po zamku od piątej rano...
+
+
+
+[C1-M0222]
+===== ASSISTANT =====
+
+Draco spojrzał na Jamesa, jakby próbował ustalić, czy powinien uznać to za imponujące, czy absurdalne.
+
+— Od piątej.
+
+Powtórzył to wolno, po czym sięgnął po tost.
+
+— I co dokładnie robi człowiek przez dwie godziny w pustym Hogwarcie?
+
+Pansy uniosła brew.
+
+— Zakładam, że Brown zdążył już znaleźć wszystkie miejsca, do których nie powinien wchodzić.
+
+Theodore nawet nie podniósł wzroku znad książki.
+
+— Gdyby znalazł, nie siedziałby teraz tutaj.
+
+Draco rzucił mu krótkie spojrzenie, po czym wrócił uwagą do Jamesa.
+
+— No więc?
+
+Przy stole Gryffindoru Harry i Ron zajęli miejsca. Ron natychmiast zaczął nakładać sobie śniadanie.
+
+Kilka chwil później do Wielkiej Sali weszła Hermiona.
+
+Trzymała pod pachą dwie książki i zwinięty pergamin. Najwyraźniej biblioteka nie była dla niej jedynie miejscem, do którego zaglądała od czasu do czasu.
+
+Ron zauważył ją pierwszy.
+
+— Gdzie ty byłaś?
+
+— W bibliotece.
+
+— O tej porze?
+
+Hermiona spojrzała na niego, jakby pytanie samo w sobie było dziwne.
+
+— Tak.
+
+Usiadła obok nich i zaczęła odkładać książki. Jej wzrok mimowolnie przesunął się przez salę i na moment zatrzymał na znajomej już sylwetce przy stole Slytherinu.
+
+Potem wróciła do rozmowy z Harrym i Ronem.
+
+Przy stole Slytherinu Draco nadal czekał na odpowiedź.
+
+— Nie każ mi zgadywać, Brown. Gdzie byłeś?
+
+
+
+[C1-M0223]
+===== USER =====
+
+— Tu i tam....odpowiedziałem wymijająco
+
+
+
+[C1-M0224]
+===== ASSISTANT =====
+
+Draco patrzył na Jamesa jeszcze przez chwilę, po czym prychnął cicho.
+
+— „Tu i tam”. Bardzo pomocne.
+
+Nie naciskał jednak dalej. Najwyraźniej uznał, że jeśli James nie chce mówić, wyciąganie odpowiedzi na siłę tylko dałoby mu satysfakcję.
+
+Pansy wzruszyła ramionami.
+
+— Czyli jednak coś znalazł.
+
+Theodore odwrócił stronę.
+
+— Albo po prostu nie chce wam opowiadać każdej minuty swojego poranka.
+
+Draco rzucił mu chłodne spojrzenie.
+
+— Dziękuję za analizę, Nott.
+
+Po chwili przy stole zaczęły krążyć pierwsze plany zajęć. Starszy prefekt Slytherinu rozdawał pergaminy kolejnym uczniom, sprawdzając nazwiska.
+
+— Malfoy. Parkinson. Nott...
+
+W końcu zatrzymał się przy Jamesie.
+
+— Brown?
+
+Spojrzał na niego, potem na trzymany pergamin.
+
+— Twój plan był jeszcze poprawiany.
+
+Podał mu arkusz.
+
+— To powinno być już ostateczne.
+
+Na pergaminie widniał plan czwartego roku, ale przy kilku przedmiotach znajdowały się drobne adnotacje nauczycieli. Przy Eliksirach widniała krótka notatka Snape’a o indywidualnym poziomie pracy. Przy Obronie przed Czarną Magią dopisano, że profesor Moody ma przeprowadzić własną ocenę.
+
+Draco od razu próbował zerknąć na kartkę z boku.
+
+— No proszę. Specjalne traktowanie już drugiego dnia.
+
+Nie brzmiał zachwycony. Raczej lekko ukłuty tym, że nowy uczeń dostał coś nietypowego tak szybko.
+
+Po drugiej stronie Wielkiej Sali Hermiona właśnie otrzymała swój plan. Przeglądała go uważnie, rozmawiając z Harrym. Ron wydawał się znacznie bardziej zainteresowany śniadaniem niż rozkładem zajęć.
+
+Pierwszy pełny dzień Jamesa w Hogwarcie właśnie zaczynał nabierać konkretnego kształtu.
+
+
+
+[C1-M0225]
+===== USER =====
+
+nałożyłem sobie trochę jedzenia na talerz
+— Specjalne to dobre słowo ciekawe czy okaże się uciążliwe czy pomocne....
+
+
+
+[C1-M0226]
+===== ASSISTANT =====
+
+Draco zerknął na pergamin Jamesa jeszcze raz, tym razem z nieco mniejszą ciekawością, a nieco większą rezerwą.
+
+— To zależy, co rozumiesz przez „pomocne”. Jeśli Snape zacznie dawać ci osobne zadania, będziesz miał więcej roboty niż reszta.
+
+Pansy sięgnęła po dzbanek.
+
+— I więcej okazji, żeby coś spektakularnie zepsuć.
+
+Draco spojrzał na nią.
+
+— To akurat dotyczy każdego.
+
+Theodore odłożył na moment książkę.
+
+— Indywidualny poziom jest przydatny tylko wtedy, jeśli nauczyciel naprawdę dopasowuje materiał. Jeśli po prostu daje dwa razy więcej pracy, to nie jest żaden przywilej.
+
+Draco wskazał widelcem na plan Jamesa.
+
+— Moody też ma cię sprawdzać?
+
+Na jego twarzy pojawił się cień zainteresowania.
+
+— To może być ciekawsze niż Snape.
+
+Po chwili przesunął wzrok na własny plan.
+
+— Pierwsze zajęcia mamy razem, więc przynajmniej zobaczysz, jak tutaj wygląda normalny dzień, zanim nauczyciele zaczną robić z ciebie osobny projekt.
+
+Wokół stołu robiło się coraz głośniej. Kolejni uczniowie porównywali plany, narzekali na godziny zajęć i próbowali ustalić, z którymi domami będą dzielić lekcje.
+
+Przy Gryffindorze Hermiona również przeglądała swój plan. Ron zerknął na niego tylko raz.
+
+— Powiedz mi po prostu, gdzie mam być pierwszy.
+
+— Gdybyś przeczytał—
+
+— Hermiono.
+
+Harry uśmiechnął się pod nosem.
+
+Draco tymczasem wrócił wzrokiem do Jamesa.
+
+— Jeśli chcesz mojej rady, Brown, nie przyzwyczajaj się za szybko do „specjalnego” traktowania. W Hogwarcie czasem oznacza to tylko, że nauczyciel ma dla ciebie więcej sposobów na uprzykrzenie życia.
+
+
+
+[C1-M0227]
+===== USER =====
+
+— Dzięki....powiedziałem i skupiłem się na jedzeniu
+
+
+
+[C1-M0228]
+===== ASSISTANT =====
+
+Draco tylko skinął głową i wrócił do własnego śniadania.
+
+Przez następne kilka minut przy stole Slytherinu panował zwyczajny poranny gwar. Rozmowy przeskakiwały między Turniejem Trójmagicznym, planami zajęć, nauczycielami i tym, kto zdążył już pierwszego dnia zgubić się na schodach.
+
+James mógł spokojnie jeść.
+
+Zainteresowanie nowym uczniem nadal było wyczuwalne, ale nie miało już intensywności poprzedniego wieczoru. Kilku Ślizgonów zerkało w jego stronę od czasu do czasu, większość jednak zajmowała się własnymi sprawami.
+
+Przy stole Gryffindoru sytuacja wyglądała podobnie. Harry, Ron i Hermiona rozmawiali między sobą, a Hermiona równocześnie próbowała coś czytać przy śniadaniu. W pewnym momencie podniosła wzrok znad książki i przypadkiem spojrzała w stronę Slytherinu.
+
+Jej spojrzenie na moment spotkało się z kierunkiem, w którym siedział James.
+
+Nie zatrzymała go długo. Po chwili wróciła do książki.
+
+Tymczasem Draco skończył jeść i zerknął na zegar.
+
+— Powinniśmy niedługo ruszać.
+
+Złożył swój plan i wsunął go do torby.
+
+Pansy również zaczęła zbierać rzeczy.
+
+— Jeśli Brown chce sprawdzić, czy jego „specjalny” plan naprawdę działa, to chyba zaraz będzie miał pierwszą okazję.
+
+Theodore zamknął książkę, której część zdążył przeczytać podczas całego śniadania.
+
+Wokół nich coraz więcej uczniów wstawało od stołów. Wielka Sala powoli opróżniała się przed rozpoczęciem pierwszych lekcji.
+
+Draco spojrzał na Jamesa.
+
+— Idziesz z nami?
+
+
+
+[C1-M0229]
+===== USER =====
+
+kiwnąłem głowa i szybko dołączyłem jeść a potem zebrałem swoje rzeczy i ruszyłem za nimi
+
+
+
+[C1-M0230]
+===== ASSISTANT =====
+
+(Dokładny plan czwartego roku Slytherinu nie jest w kanonie kompletnie rozpisany, więc tam, gdzie książki tego nie określają, będę uzupełniał go tak, żeby nie kolidował z ustalonymi zajęciami. Na pierwszy przedmiot naszej kampanii ustawiam Transmutację z McGonagall. Źródła wskazują, że rozkład czwartego roku jest tylko częściowo udokumentowany. 
+Harry Potter Lexicon
+)
+
+James szybko dokończył jedzenie, zebrał swoje rzeczy i ruszył za resztą Ślizgonów wychodzących z Wielkiej Sali.
+
+Draco szedł z przodu obok Pansy. Theodore trzymał się nieco z boku, a Crabbe i Goyle podążali za nimi. Tym razem nikt nie czekał specjalnie na Jamesa — grupa po prostu kierowała się na zajęcia, a on bez problemu utrzymywał ich tempo.
+
+Na korytarzach panował już pełny poranny ruch. Uczniowie przeciskali się między sobą, kilka osób biegło po schodach, a jeden z prefektów Ravenclawu właśnie zawracał dwóch pierwszorocznych idących zdecydowanie w złą stronę.
+
+Draco zerknął przez ramię.
+
+— Transmutacja. McGonagall.
+
+Powiedział to bardziej informacyjnie niż przyjacielsko.
+
+— Radzę nie wchodzić po niej do sali.
+
+Pansy prychnęła.
+
+— Zwłaszcza pierwszego dnia.
+
+Po kilku kolejnych schodach dotarli do jasnego korytarza, a następnie do klasy transmutacji.
+
+W środku stały rzędy ławek, biurko nauczycielskie oraz kilka klatek i przedmiotów przygotowanych do ćwiczeń. Część uczniów Slytherinu była już na miejscu.
+
+Profesor McGonagall stała przy swoim biurku, przeglądając pergaminy.
+
+Kiedy grupa weszła, uniosła wzrok.
+
+— Proszę zajmować miejsca.
+
+Jej spojrzenie przesunęło się po uczniach i zatrzymało na Jamesie.
+
+— Pan Brown.
+
+McGonagall odłożyła pergamin.
+
+— Profesor Snape poinformował mnie, że pański dotychczasowy program nauczania był... nietypowy.
+
+Nie było w jej głosie ani sceptycyzmu, ani zachwytu.
+
+— Nie będę jednak opierała pańskiego poziomu z transmutacji na ocenie profesora eliksirów.
+
+Wskazała wolne miejsce.
+
+— Na razie proszę usiąść z resztą. Sama sprawdzę, czego pan potrafi, kiedy przyjdzie odpowiedni moment.
+
+Draco, zajmując miejsce kilka ławek dalej, rzucił Jamesowi krótkie spojrzenie, które mówiło mniej więcej: „a nie mówiłem?”.
+
+
+
+[C1-M0231]
+===== USER =====
+
+kiwnąlem głową i sam usiadłem w kącie
+
+
+
+[C1-M0232]
+===== ASSISTANT =====
+
+James zajął miejsce sam, przy bocznej ścianie, z dala od środka klasy.
+
+McGonagall zauważyła wybór miejsca, ale nie skomentowała go. Jeśli miała jakąś opinię, zachowała ją dla siebie.
+
+W ciągu następnych kilku minut do sali weszli kolejni uczniowie. Gwar narastał, krzesła przesuwały się po kamiennej posadzce, ktoś z tyłu szeptem narzekał na porę zajęć.
+
+Draco usiadł z Crabbe’em i Goyle’em. Pansy zajęła miejsce niedaleko. Theodore wybrał ławkę bardziej z boku i niemal natychmiast wyciągnął pergamin.
+
+Po chwili do klasy zaczęli również wchodzić uczniowie Gryffindoru.
+
+Ron pojawił się pierwszy z Harrym, rozmawiając jeszcze o czymś rozpoczętym na korytarzu. Hermiona weszła kilka kroków za nimi, z książkami przyciśniętymi do piersi.
+
+Gdy rozejrzała się po sali, jej wzrok na moment padł na Jamesa siedzącego samotnie w kącie.
+
+Nie zatrzymała go długo.
+
+— Ron, tam są wolne miejsca — powiedziała, wskazując ławki po drugiej stronie.
+
+McGonagall zamknęła drzwi.
+
+Rozmowy urwały się niemal natychmiast.
+
+— Skoro wszyscy uznali za stosowne dotrzeć na czas, możemy zaczynać.
+
+Jednym ruchem różdżki przesunęła po klasie niewielkie pudełka. Jedno zatrzymało się przed każdym uczniem.
+
+McGonagall stanęła przed biurkiem.
+
+— Zanim przejdziemy do materiału przewidzianego na ten rok, chcę zobaczyć, ile z poprzednich lat rzeczywiście zostało wam w głowach.
+
+Otworzyła jedno z pudełek.
+
+W środku leżał zwyczajny kamień wielkości śliwki.
+
+— Prosta transmutacja nieożywionego obiektu w organizm żywy.
+
+Na jej dłoni kamień zaczął się wydłużać, zmieniać kształt i po chwili po biurku przebiegła niewielka jaszczurka.
+
+— Kamień w jaszczurkę.
+
+Jaszczurka zastygła, a po kolejnym ruchu różdżki ponownie stała się kamieniem.
+
+— Nie interesuje mnie szybkość. Interesuje mnie kontrola. Źle wykonana przemiana jest znacznie gorsza niż brak przemiany.
+
+McGonagall spojrzała po klasie.
+
+— Zaczynajcie.
+
+Wokół natychmiast pojawiły się pierwsze szepty inkantacji i ruchy różdżek.
+
+McGonagall nie ruszyła od razu do Jamesa.
+
+Dała mu dokładnie takie samo zadanie jak wszystkim pozostałym.
+
+
+
+[C1-M0233]
+===== USER =====
+
+dibylem różdżkę i machnąłem nad kamieniem wyszeptując inkantacje
+A kamień stał się jaszczurką
+
+
+
+[C1-M0234]
+===== ASSISTANT =====
+
+Kamień zadrżał pod ruchem różdżki, jego powierzchnia pofalowała, po czym w ciągu kilku sekund zmienił się w niewielką jaszczurkę.
+
+Stworzenie poruszyło łapkami i przesunęło się kawałek po ławce.
+
+McGonagall zauważyła rezultat niemal od razu.
+
+Podeszła bliżej, zatrzymując się przy ławce Jamesa. Przez chwilę obserwowała jaszczurkę, zwracając uwagę nie tyle na sam fakt przemiany, co na szczegóły.
+
+— Stabilna forma.
+
+Jej spojrzenie przesunęło się na Jamesa.
+
+— Bez widocznych pozostałości struktury kamienia.
+
+Krótka pauza.
+
+— Dobrze.
+
+Nie rozpływała się w pochwałach. Po prostu odnotowała poprawne wykonanie i przeszła do rzeczy ważniejszej.
+
+— Proszę teraz odwrócić transmutację.
+
+Kilka ławek dalej Ron nadal zmagał się z kamieniem, który najwyraźniej uznał, że najbardziej komfortową formą pośrednią będzie coś pomiędzy jaszczurką a bulwiastym ziemniakiem z ogonem.
+
+Hermiona natomiast uzyskała już całkiem poprawny rezultat i poprawiała drobny szczegół przy jednej z łap.
+
+Draco zerknął w stronę Jamesa, zauważając, że McGonagall zatrzymała się przy nim dłużej niż przy większości uczniów.
+
+Profesor jednak nie pozwoliła, by uwaga klasy skupiła się na nowym uczniu.
+
+— Panie Weasley, stworzenie powinno mieć cztery kończyny, nie trzy i pół.
+
+Ron spojrzał na swój efekt.
+
+— Ta ostatnia prawie jest.
+
+— „Prawie” nie jest kategorią ocenianą w transmutacji.
+
+
+
+[C1-M0235]
+===== USER =====
+
+znowu machnąłem różdżką i jaszczurka znowu była kamieniem
+
+
+
+[C1-M0236]
+===== ASSISTANT =====
+
+Jaszczurka zesztywniała na moment, jej skóra straciła kolor, a kształt zaczął się upraszczać. Po kilku sekundach na ławce znów leżał zwyczajny kamień.
+
+McGonagall przyjrzała mu się uważnie.
+
+— Równie czysto w drugą stronę.
+
+Uniósł się jeden kącik jej brwi.
+
+— To już bardziej interesujące.
+
+Wyciągnęła różdżkę i stuknęła nią lekko w blat obok kamienia.
+
+— Skoro podstawy nie stanowią problemu, sprawdzimy coś mniej wygodnego.
+
+Kamień zniknął, a na jego miejscu pojawiła się niewielka drewniana figurka ptaka, dość szczegółowa — z wyraźnymi skrzydłami, dziobem i drobnymi nacięciami imitującymi pióra.
+
+— Proszę przemienić ją w żywego ptaka, ale bez utraty szczegółów. Skrzydła mają być funkcjonalne, kości lekkie, a proporcje poprawne.
+
+McGonagall spojrzała Jamesowi prosto w oczy.
+
+— I proszę nie spieszyć się tylko dlatego, że pierwsze zadanie było łatwe.
+
+Kilka osób w klasie zerknęło w jego stronę. Hermiona również, tym razem odrobinę dłużej — nie z podziwem, raczej z wyraźną ciekawością, co zrobi nowy uczeń przy trudniejszej transmutacji.
+
+Draco zauważył to samo i przeniósł wzrok z figurki na Jamesa.
+
+McGonagall cofnęła się o krok.
+
+— Proszę.
+
+
+
+[C1-M0237]
+===== USER =====
+
+na początku przejrzałem się figurce próbując ustalić co to za ptak
+
+
+
+[C1-M0238]
+===== ASSISTANT =====
+
+Figurka była niewielka, mniej więcej wielkości dłoni. Po bliższym przyjrzeniu się dało się zauważyć, że McGonagall nie wybrała przypadkowego kształtu.
+
+Krótki, stożkowaty dziób. Zwarta sylwetka. Dość krótkie skrzydła i ogon. Proporcje zdecydowanie bardziej przypominały małego ptaka śpiewającego niż drapieżnika.
+
+Najbardziej pasował wróbel.
+
+McGonagall zauważyła, że James najpierw analizuje figurkę, zamiast od razu machać różdżką.
+
+— Dobrze — powiedziała spokojnie. — Najpierw proszę ustalić, co pan właściwie próbuje stworzyć.
+
+Jej ton sugerował, że właśnie tego oczekiwała.
+
+— W transmutacji pośpiech zwykle zaczyna się od błędnego założenia, a kończy czymś, czego później trzeba szukać pod szafą.
+
+Kilku uczniów parsknęło cicho.
+
+McGonagall wskazała figurkę.
+
+— Wróbel. Proszę zwrócić uwagę na proporcje skrzydeł i budowę nóg. Jeśli przemieni pan tylko „drewnianego ptaka w ptaka”, bez określenia formy końcowej, rezultat może być poprawny na pierwszy rzut oka i wadliwy funkcjonalnie.
+
+Hermiona, siedząca kilka ławek dalej, wyraźnie słuchała tej uwagi równie uważnie jak James.
+
+McGonagall cofnęła się o krok.
+
+— Kiedy będzie pan gotowy.
+
+
+
+[C1-M0239]
+===== USER =====
+
+znowu machnąłem różdżką i szepnąłem inkantacje a figurka po chwili zmieniła się we wróbla
+
+
+
+[C1-M0240]
+===== ASSISTANT =====
+
+Drewniana figurka zadrżała, jej powierzchnia zaczęła mięknąć i nabierać barw. W ciągu chwili drewno ustąpiło piórom, nieruchome skrzydła poruszyły się, a na ławce zamiast figurki stał żywy wróbel.
+
+Ptak przechylił głowę, zatrzepotał skrzydłami i zrobił kilka krótkich kroków po blacie.
+
+McGonagall podeszła bliżej.
+
+Nie chwaliła od razu. Najpierw dokładnie obejrzała rezultat.
+
+— Skrzydła funkcjonalne.
+
+Wróbel poderwał się na moment z ławki, zatoczył krótki łuk i wylądował ponownie.
+
+— Proporcje prawidłowe. Zachowanie również.
+
+Profesor spojrzała na Jamesa ponad krawędzią okularów.
+
+— Profesor Snape najwyraźniej nie przesadzał.
+
+To była prawdopodobnie jedna z większych pochwał, jakie McGonagall mogła wygłosić bez robienia z tego przedstawienia.
+
+Kilka ławek dalej Draco odchylił się lekko na krześle.
+
+— No dobrze — mruknął pod nosem, bardziej do siebie niż do kogokolwiek obok. — To już nie była sztuczka z kamieniem.
+
+Hermiona również patrzyła na wróbla. Nie wyglądała na urażoną ani zachwyconą — raczej intensywnie zainteresowaną techniką.
+
+McGonagall tymczasem nie zamierzała kończyć testu.
+
+— Proszę go teraz przywrócić do pierwotnej postaci.
+
+Wskazała ptaka.
+
+— Dokładnie do tej samej figurki. Nie „podobnej”. Chcę zobaczyć, czy zachowa pan wszystkie drobne nacięcia i proporcje, które były w drewnie przed przemianą.
+
+Wróbel ćwierknął cicho, nieświadomy, że właśnie stał się częścią egzaminu poziomującego.
+
+
+
+[C1-M0241]
+===== USER =====
+
+dokładnie wykonałem jej polecenie
+
+
+
+[C1-M0242]
+===== ASSISTANT =====
+
+Wróbel znieruchomiał na ułamek sekundy, a potem jego pióra zaczęły twardnieć i tracić kolor. Skrzydła złożyły się w nieruchomą formę, dziób ponownie stał się drewniany, a po chwili na blacie leżała dokładnie ta sama figurka co wcześniej.
+
+McGonagall podniosła ją i obróciła w palcach.
+
+— Te same nacięcia.
+
+Przesunęła kciukiem po jednym z drobnych żłobień imitujących pióra.
+
+— Ta sama proporcja ogona. Bez deformacji struktury.
+
+Odłożyła figurkę na ławkę Jamesa.
+
+— Wystarczy.
+
+Powiedziała to spokojnie, ale tym razem w jej tonie było już wyraźne uznanie.
+
+— Nie ma sensu sprawdzać pana na materiale, który najwyraźniej nie stanowi dla pana żadnego wyzwania.
+
+McGonagall wyprostowała się.
+
+— Dokończy pan dzisiejszą lekcję razem z klasą. Po zajęciach zdecyduję, jakiego rodzaju dodatkowe zadania będą odpowiednie.
+
+Jej spojrzenie zrobiło się odrobinę surowsze.
+
+— I uprzedzam: „trudniejsze” nie oznacza „bardziej efektowne”. Transmutacja nagradza precyzję, nie popisy.
+
+Kilka osób w klasie nadal spoglądało w stronę Jamesa. Draco szybko odwrócił wzrok, kiedy McGonagall przesunęła spojrzeniem po sali.
+
+Hermiona natomiast patrzyła jeszcze przez moment na figurkę, jakby próbowała odtworzyć w głowie sposób, w jaki James przeprowadził przemianę.
+
+McGonagall wróciła na środek klasy.
+
+— Reszta kontynuuje. Panie Weasley, pańska jaszczurka nadal ma ogon z kamienia.
+
+Ron spojrzał na swój rezultat.
+
+— Prawie nie widać.
+
+— Ja widzę.
+
+Harry parsknął cicho, a Hermiona natychmiast wróciła do własnego zadania.
+
+Lekcja toczyła się dalej, ale od tej chwili dla przynajmniej kilku osób w klasie plotki o niezwykłych umiejętnościach nowego Ślizgona przestały być wyłącznie plotkami.
+
+
+
+[C1-M0243]
+===== USER =====
+
+ja kontynuowałem transmutację nadając kolory figurce i dodając więc szczegółów tak że z daleka można było się pomylić czy to żywe stworzenie czy właśnie figurka
+
+
+
+[C1-M0244]
+===== ASSISTANT =====
+
+James nie poprzestał na wymaganym zadaniu.
+
+Drewno figurki zaczęło stopniowo nabierać bardziej naturalnych odcieni. Pojawiły się subtelne przejścia barw na skrzydłach, ciemniejszy dziób, drobne akcenty wokół oczu. Kolejne ruchy różdżki dodawały tak małe szczegóły, że z kilku metrów figurka naprawdę mogła uchodzić za nieruchomego wróbla.
+
+McGonagall zauważyła to przy kolejnym obchodzie klasy.
+
+Zatrzymała się obok ławki Jamesa.
+
+— Panie Brown.
+
+Jej spojrzenie przesunęło się po figurce.
+
+— Polecenie brzmiało: przywrócić ją do pierwotnego stanu.
+
+Krótka pauza.
+
+— Nie: poprawić projekt rzeźbiarza.
+
+Jednak zanim zdążyło to zabrzmieć jak nagana, wzięła figurkę do ręki i obejrzała ją z bliska.
+
+— Kolor równomierny. Szczegóły nie zaburzyły struktury. Nie widzę też przypadkowych deformacji.
+
+Odłożyła ją z powrotem.
+
+— Technicznie bardzo dobrze.
+
+Spojrzała na Jamesa ponad okularami.
+
+— Ale proszę zapamiętać różnicę między precyzją a ulepszaniem zadania, o które nikt nie prosił.
+
+Kilka ławek dalej Hermiona wyraźnie przyglądała się figurce. Draco również zerknął, tym razem z lekko ściągniętymi brwiami.
+
+McGonagall ruszyła dalej, ale po dwóch krokach zatrzymała się jeszcze raz.
+
+— Zostaw tę figurkę na biurku po lekcji.
+
+Odwróciła głowę w stronę Jamesa.
+
+— Chcę zobaczyć, czy potrafisz osiągnąć ten sam poziom szczegółowości również na materiale, którego nie wybierzesz sam.
+
+
+
+[C1-M0245]
+===== USER =====
+
+kiwnąłem głową
+— Przepraszam Panią profesor
+
+
+
+[C1-M0246]
+===== ASSISTANT =====
+
+McGonagall spojrzała na Jamesa jeszcze raz.
+
+— Nie ma potrzeby przepraszać za ciekawość ani inicjatywę, panie Brown.
+
+Jej ton pozostał rzeczowy.
+
+— Trzeba tylko nauczyć się, kiedy są zaletą, a kiedy przeszkadzają w wykonaniu polecenia.
+
+Po chwili skinęła lekko głową.
+
+— Proszę kontynuować.
+
+Ruszyła dalej między ławkami, zostawiając Jamesa z figurką.
+
+Kilka miejsc dalej Hermiona przez moment patrzyła w jego stronę, po czym wróciła do własnej pracy. Draco natomiast zerknął na Jamesa z boku i bardzo cicho mruknął do Pansy:
+
+— Przynajmniej nie próbował się z nią kłócić.
+
+Pansy odpowiedziała równie cicho:
+
+— Jeszcze.
+
+McGonagall bez odwracania się powiedziała z drugiego końca klasy:
+
+— Panno Parkinson, skoro ma pani tyle wolnej uwagi, proszę wykorzystać ją na własną transmutację.
+
+Pansy natychmiast zamilkła.
+
+Lekcja trwała dalej.
+
+
+
+[C1-M0247]
+===== USER =====
+
+skupiłem się na dodawaniu kolejnych szczegółów aż do końca lekcji
+
+
+
+[C1-M0248]
+===== ASSISTANT =====
+
+Przez resztę lekcji James niemal nie odrywał uwagi od figurki.
+
+Z każdym kolejnym ruchem różdżki wróbel stawał się coraz bardziej przekonujący. Odcienie piór przestały wyglądać jak zwykła warstwa koloru — pojawiły się drobne przejścia, połysk przy oku, ciemniejsze końcówki skrzydeł, subtelne różnice między pojedynczymi „piórami” wyrzeźbionymi w drewnie.
+
+Z dalszego końca sali naprawdę można było przez moment pomyśleć, że na ławce siedzi nieruchomy ptak.
+
+McGonagall kilka razy przechodziła obok, ale nie przerywała. Jedynie obserwowała.
+
+W końcu zegar wybił koniec lekcji.
+
+— Wystarczy — powiedziała stanowczo. — Proszę odłożyć różdżki.
+
+W klasie natychmiast rozległ się szelest pergaminów, przesuwanych krzeseł i zamykanych toreb.
+
+Ron spojrzał z wyraźną ulgą na swoją ostatecznie poprawną jaszczurkę.
+
+— Przeżyła.
+
+Hermiona zarzuciła torbę na ramię.
+
+— To nie był cel ćwiczenia.
+
+— Dla mnie był.
+
+Harry uśmiechnął się pod nosem.
+
+Draco wstał razem z resztą Slytherinu, ale zanim ruszył do drzwi, jeszcze raz zerknął na figurkę Jamesa.
+
+— To już wygląda trochę absurdalnie — mruknął. — Z daleka myślałem, że znowu ją ożywiłeś.
+
+McGonagall podniosła wzrok znad biurka.
+
+— Panie Malfoy, jeśli chce pan zostać i również zaprezentować dodatkową pracę, z przyjemnością znajdę dla pana zadanie.
+
+Draco natychmiast ruszył do wyjścia.
+
+— Nie ma potrzeby, pani profesor.
+
+Pansy wyszła za nim, ledwo kryjąc uśmiech.
+
+Hermiona, przechodząc obok miejsca Jamesa, spojrzała na figurkę nieco dokładniej niż wcześniej.
+
+— To naprawdę precyzyjne — powiedziała krótko.
+
+Nie zatrzymała się jednak, by robić z tego większą rozmowę. Ruszyła za Harrym i Ronem.
+
+Po chwili większość klasy była już na korytarzu.
+
+McGonagall wskazała swoim piórem na biurko.
+
+— Panie Brown. Figurka tutaj, tak jak mówiłam.
+
+Jej spojrzenie było spokojne, ale wyraźnie oceniające.
+
+— I proszę zostać jeszcze minutę. Chcę ustalić, co dokładnie zrobię z pańskim programem transmutacji.
+
+
+
+[C1-M0249]
+===== USER =====
+
+wstałem z miejsca i podszedłem do jej biurka stawiając figurkę
+
+
+
+[C1-M0250]
+===== ASSISTANT =====
+
+James postawił figurkę na biurku McGonagall.
+
+Profesor nie sięgnęła po nią od razu. Poczekała, aż ostatni uczniowie wyjdą z sali i drzwi się zamkną. Dopiero wtedy podniosła wróbla, obracając go powoli w palcach.
+
+Z bliska efekt był jeszcze bardziej widoczny. Drobne nacięcia układały się w imitację piór, kolory nie kończyły się gwałtownie na krawędziach, a oczy miały połysk, który z daleka rzeczywiście mógł sugerować żywe stworzenie.
+
+McGonagall postawiła figurkę z powrotem.
+
+— Ma pan bardzo dobrą kontrolę nad drobnymi zmianami materii.
+
+Nie brzmiało to jak komplement dla samego komplementu. Raczej jak zapis wyniku egzaminu.
+
+— I, co ważniejsze, potrafi pan odwracać transmutację bez pozostawiania błędów. To znacznie więcej mówi mi o pańskim poziomie niż samo stworzenie efektownego rezultatu.
+
+Oparła dłonie o biurko.
+
+— Nie zamierzam przenosić pana na zajęcia ze starszym rocznikiem tylko dlatego, że jedno ćwiczenie wykonał pan bez trudności. Transmutacja szybko staje się bardziej niebezpieczna, kiedy uczeń ma większe ambicje niż dyscyplinę.
+
+Krótko spojrzała na dopracowaną figurkę.
+
+— A pan, jak widzę, ambicji ma wystarczająco dużo.
+
+W jej głosie pojawiła się ledwie uchwytna suchość.
+
+— Zostanie pan więc na normalnych lekcjach czwartego roku. Kiedy ćwiczenie będzie dla pana zbyt podstawowe, dostanie pan ode mnie wariant trudniejszy albo dodatkowe ograniczenie. Nie zawsze będzie to bardziej skomplikowana przemiana. Czasem każę panu osiągnąć ten sam efekt mniejszą liczbą ruchów, bez inkantacji albo na materiale mniej podatnym na zmianę.
+
+McGonagall sięgnęła do jednej z szuflad biurka i wyjęła niewielki, matowy przedmiot.
+
+Była to metalowa figurka żaby, prosta, ciężka i pozbawiona większych szczegółów.
+
+Położyła ją obok wróbla.
+
+— To nie jest zadanie na teraz. Proszę jej nie dotykać.
+
+Spojrzała Jamesowi prosto w oczy.
+
+— Na następnej lekcji zobaczę, czy pańska precyzja wynika z dobrej znajomości drewna i prostych form… czy rzeczywiście z opanowania transmutacji.
+
+Po chwili dodała:
+
+— I jeszcze jedno. Jeżeli czegoś pan nie potrafi, wolę usłyszeć „nie wiem”, niż oglądać, jak próbuje pan udowodnić, że jednak potrafi. Przy tej dziedzinie różnica bywa bardzo bolesna.
+
+McGonagall przesunęła figurkę wróbla na bok swojego biurka.
+
+— Może pan iść, panie Brown.
+
+
+
+[C1-M0251]
+===== USER =====
+
+znowu skinąłem głową jakby lekko się kłaniając
+— Dziękuję Pani profesor...powiedziałem a potem odwróciłem się szybko zabrałem swoje rzeczy i skierowałem się na następną lekcję
+
+
+
+[C1-M0252]
+===== ASSISTANT =====
+
+McGonagall odpowiedziała jedynie krótkim skinieniem głowy, a James opuścił klasę.
+
+Ponieważ został chwilę po lekcji, większość uczniów zdążyła już zniknąć za zakrętem. Na korytarzu zostały pojedyncze grupki spieszące na kolejne zajęcia.
+
+Z planu wynikało, że następne były Eliksiry.
+
+Droga prowadziła w dół, ku lochom. Im niżej schodził, tym mniej światła wpadało przez okna i tym chłodniejsze stawały się kamienne ściany.
+
+Kiedy James dotarł pod salę, część klasy już tam była.
+
+Draco stał przy ścianie z Pansy, Crabbe’em i Goyle’em. Theodore przeglądał podręcznik. Po przeciwnej stronie korytarza czekali Gryffindorzy — Harry, Ron, Neville i Hermiona.
+
+Draco zauważył nadchodzącego Jamesa.
+
+— McGonagall cię zatrzymała.
+
+Nie zabrzmiało to jak pytanie.
+
+Jego wzrok na moment przesunął się na torbę Jamesa, jakby zastanawiał się, czy profesor dała mu już jakieś dodatkowe zadanie.
+
+— Czyli Snape nie będzie jedynym, który postanowi zrobić z ciebie eksperyment edukacyjny.
+
+Pansy prychnęła.
+
+— Daj mu dzień. Jeszcze Flitwick i Sprout muszą dostać swoją kolej.
+
+Theodore podniósł wzrok znad książki, ale niczego nie dodał.
+
+Po drugiej stronie korytarza Ron coś powiedział do Harry’ego półgłosem. Hermiona natomiast spojrzała na Jamesa, najwyraźniej rozpoznając go po wcześniejszej lekcji, po czym wróciła do rozmowy z pozostałymi.
+
+Wtedy drzwi lochu otworzyły się gwałtownie.
+
+Snape stanął w wejściu.
+
+— Jeżeli skończyliście już marnować czas na korytarzu, wejdźcie.
+
+Rozmowy natychmiast przycichły.
+
+Uczniowie zaczęli zajmować miejsca przy długich stołach. Na każdym stanowisku znajdowały się kociołki, wagi, noże i przygotowane składniki.
+
+Snape przeszedł między ławkami, a jego czarna szata ciągnęła się za nim po kamiennej podłodze.
+
+Kiedy wszyscy usiedli, odwrócił się do klasy.
+
+— Dzisiaj sprawdzimy, ile wiedzy z poprzednich trzech lat zdołało przetrwać wakacje.
+
+Jego spojrzenie przesunęło się po uczniach.
+
+— W niektórych przypadkach moje oczekiwania są wyjątkowo niskie.
+
+Ron lekko przewrócił oczami, ale zrobił to dopiero, gdy Snape patrzył gdzie indziej.
+
+Na tablicy pojawiły się instrukcje.
+
+Snape zatrzymał się jednak przy stanowisku Jamesa i położył obok jego kociołka osobny, złożony kawałek pergaminu.
+
+— Brown.
+
+Ton miał ten sam chłodny co podczas ich wcześniejszej rozmowy.
+
+— Pan wykona inną wersję.
+
+Nie wyjaśnił tego całej klasie.
+
+— Instrukcja jest na pergaminie. Proszę ją najpierw przeczytać, zanim zacznie pan udowadniać, że jej pan nie potrzebuje.
+
+Po czym po prostu ruszył dalej.
+
+Draco spojrzał na osobny pergamin Jamesa ze zdecydowanie mniejszym entuzjazmem niż poprzednio.
+
+Wyglądało na to, że „specjalne traktowanie” właśnie oficjalnie się zaczęło.
+
+
+
+[C1-M0253]
+===== USER =====
+
+zignorowałem jego słowa i otworzyłem pergamin czytając instrukcje
+
+
+
+[C1-M0254]
+===== ASSISTANT =====
+
+Na pergaminie nie było długiego przepisu. Snape najwyraźniej założył, że podstawową procedurę James zna albo potrafi odtworzyć z podręcznika.
+
+Na górze widniał tytuł:
+
+Eliksir Wyostrzający Umysł — wariant indywidualny
+
+Niżej Snape dopisał własnym, ciasnym pismem kilka warunków:
+
+przygotować połowę standardowej porcji, przez co margines błędu przy temperaturze będzie mniejszy;
+
+jeden ze składników, który reszta klasy otrzymała już przygotowany, James miał oczyścić i rozdrobnić samodzielnie;
+
+po drugim etapie warzenia miał doprowadzić eliksir do właściwej konsystencji bez korzystania z podanej w podręczniku długości czasu — wyłącznie po wyglądzie, zapachu i zachowaniu powierzchni;
+
+obok końcowego wyniku miał zapisać, co zrobiłby, gdyby wywar zaczął skręcać w stronę szarego zamiast oczekiwanego odcienia.
+
+Na samym dole znajdowało się jeszcze jedno zdanie, wyraźnie dopisane specjalnie dla niego:
+
+„Płatki lilii wodnej: według własnego osądu. Proszę być przygotowanym uzasadnić ilość.”
+
+Snape najwyraźniej pamiętał ich wcześniejszą rozmowę.
+
+James zdążył przeczytać całość, kiedy profesor odezwał się do klasy:
+
+— Reszta z państwa przygotuje standardową wersję. Instrukcje znajdują się na tablicy i w podręczniku. Jeżeli po trzech latach nadal musicie pytać mnie, jak prawidłowo używać wagi, sugeruję rozważyć karierę niewymagającą kontaktu z liczbami.
+
+Rozległ się pierwszy szczęk noży i odważników.
+
+Hermiona niemal natychmiast zaczęła przygotowywać składniki. Neville robił to znacznie ostrożniej, kilkukrotnie sprawdzając tablicę. Draco pracował szybko, choć rzucił krótkie spojrzenie na osobny pergamin Jamesa.
+
+Snape przeszedł między stołami.
+
+Kiedy znalazł się niedaleko Jamesa, nawet się przy nim nie zatrzymał.
+
+— Panie Brown, skoro przeczytał pan instrukcję, może pan zaczynać.
+
+I poszedł dalej, pozostawiając go z kociołkiem, składnikami oraz znacznie mniej wybaczającą wersją tego samego zadania.
+
+
+
+[C1-M0255]
+===== USER =====
+
+po chwili rzeczywiście zacząłem przygotowywać eliksir
+
+
+
+[C1-M0256]
+===== ASSISTANT =====
+
+James zabrał się do pracy.
+
+Przy jego stanowisku szybko pojawił się rytm charakterystyczny dla warzenia eliksirów: cichy stuk noża o deskę, brzęk odważników i szum podgrzewanej zawartości kociołka. Ponieważ przygotowywał tylko połowę standardowej porcji, różnice między kolejnymi etapami były znacznie subtelniejsze niż u reszty klasy.
+
+Snape nie stał nad nim. Przez pierwszych kilka minut nawet nie podszedł bliżej.
+
+To nie znaczyło jednak, że nie obserwował.
+
+— Longbottom — odezwał się nagle z drugiej strony sali. — Jeżeli będzie pan mieszał jeszcze wolniej, składniki zdążą umrzeć ze starości.
+
+Neville przyspieszył, wyraźnie zestresowany.
+
+Hermiona pracowała metodycznie, regularnie kontrolując instrukcję. Draco zerkał na tablicę znacznie rzadziej, najwyraźniej dobrze pamiętając podstawy przepisu.
+
+W końcu Snape przeszedł obok stanowiska Jamesa.
+
+Nie zatrzymał się. Jego wzrok jedynie przesunął się po przygotowanych składnikach, sposobie ich rozdrobnienia i powierzchni wywaru.
+
+— Hm.
+
+To jedno krótkie mruknięcie było wszystkim, co po sobie zostawił.
+
+Kilka minut później James dotarł do etapu, przy którym jego pergamin przestawał podawać konkretny czas.
+
+Powierzchnia eliksiru uspokoiła się. Pęcherzyki pojawiały się coraz rzadziej, a zapach zaczął się zmieniać — początkowo ostry, ziołowy aromat stał się czystszy i nieco chłodniejszy.
+
+To właśnie tutaj Snape celowo pozbawił go prostego punktu odniesienia.
+
+Draco, który najwyraźniej właśnie odmierzał czas własnej porcji, zerknął na Jamesa.
+
+— Nie masz czasu na pergaminie? — rzucił półgłosem.
+
+Snape odezwał się natychmiast, mimo że stał kilka stanowisk dalej.
+
+— Pan Malfoy ma wystarczająco dużo pracy przy swoim kociołku.
+
+Draco zacisnął usta i wrócił do niego.
+
+Snape natomiast spojrzał prosto na Jamesa.
+
+— Brown.
+
+Wskazał końcem różdżki jego kociołek.
+
+— Od tej chwili instrukcja już panu nie pomoże.
+
+Na powierzchni wywaru pojawił się pojedynczy, srebrzysty refleks, który po sekundzie zniknął.
+
+— Proszę zdecydować samemu, kiedy przejść do następnego etapu.
+
+I tym razem Snape naprawdę czekał, obserwując, co James zrobi.
+
+
+
+[C1-M0257]
+===== USER =====
+
+mieszając obserwowałem miksturę i niestety przegapiłem o jakieś pół minuty najodpowiedniejszy moment ale nie zniszczyło to całkowicie eliksiru....następne etapy już trafiłem w punkt na koniec ze względu na przesunięcie czasu...dodałem tylko połowę płatku lilii wodnej który i tak delikatnie zmienił zapach i kolor eliksiru
+
+
+
+[C1-M0258]
+===== ASSISTANT =====
+
+Eliksir nie był idealny.
+
+Przesunięcie o te kilkadziesiąt sekund zostawiło po sobie subtelny ślad — konsystencja była odrobinę cięższa, niż powinna być w perfekcyjnie wykonanej porcji. Nie na tyle, by mikstura była wadliwa, ale wystarczająco, by ktoś doświadczony to zauważył.
+
+James zdołał jednak dobrze poprowadzić kolejne etapy. Temperatura, mieszanie i momenty dodawania następnych składników wróciły do właściwego rytmu.
+
+Na samym końcu trafiła do kociołka zaledwie połowa płatka lilii wodnej.
+
+Zmiana była niewielka, ale dostrzegalna. Barwa eliksiru przesunęła się o pół tonu, a nad powierzchnią pojawił się delikatny, świeższy zapach, ledwie wyczuwalny spod dominującego aromatu gotowej mikstury.
+
+Snape znalazł się przy stanowisku Jamesa, zanim ten zdążył cokolwiek powiedzieć.
+
+Profesor pochylił się nad kociołkiem.
+
+Najpierw spojrzał na kolor.
+
+Potem na konsystencję.
+
+Wreszcie krótko powąchał parę unoszącą się nad powierzchnią.
+
+— Spóźnił się pan.
+
+Nie było w tym pytania.
+
+Snape przesunął łyżkę po powierzchni i obserwował, jak eliksir spływa z metalu.
+
+— Niewiele.
+
+Spojrzał na Jamesa.
+
+— Ale wystarczająco.
+
+Odłożył łyżkę.
+
+— Potem skorygował pan proces zamiast próbować gwałtownie „naprawić” wcześniejszy błąd. To akurat rozsądne.
+
+Jego wzrok zatrzymał się na miksturze ponownie.
+
+— I połowa płatka.
+
+Snape najwyraźniej wychwycił także to.
+
+— Mniej niż zwykle.
+
+Krótka pauza.
+
+— Rozumiem, dlaczego.
+
+Wziął pióro i zrobił niewielką adnotację na pergaminie Jamesa.
+
+— Wynik użyteczny. Nie perfekcyjny.
+
+Ton miał chłodny, niemal obojętny.
+
+— Co czyni go znacznie bardziej wartościowym testem niż gdyby wszystko poszło idealnie.
+
+Kilka stanowisk dalej Draco zerknął w ich stronę, ale tym razem nie odezwał się ani słowem.
+
+Snape wskazał na dolną część pergaminu.
+
+— Zostało jeszcze jedno.
+
+„Co zrobiłby pan, gdyby wywar zaczął skręcać w stronę szarego zamiast oczekiwanego odcienia?”
+
+— Proszę zapisać odpowiedź.
+
+Spojrzał jeszcze raz na eliksir.
+
+— I nie interesuje mnie odpowiedź brzmiąca „dodałbym coś, aż zacznie wyglądać dobrze”. Chcę przyczynę, diagnozę i korektę.
+
+Po czym odszedł do następnego stanowiska, zostawiając Jamesowi kociołek i pergamin.
+
+
+
+[C1-M0259]
+===== USER =====
+
+przez dłuższą chwilę się zastanoiłem i napisałem jedną ogólną dokładną odpowiedź jednak na koniec zaznaczyłem że jeśli skręt nastąpił by w którymś z ostatnich etapów łatwiej byłoby by zacząć od nowa
+
+
+
+[C1-M0260]
+===== ASSISTANT =====
+
+Snape wrócił do stanowiska Jamesa dopiero po kilku minutach. Bez słowa podniósł pergamin i przeczytał odpowiedź od początku do końca.
+
+Przy ostatnim zdaniu zatrzymał wzrok odrobinę dłużej.
+
+— Hm.
+
+Odłożył pergamin na blat.
+
+— Wreszcie odpowiedź, która nie zakłada, że każdy błąd można bezkarnie zasypać kolejnymi składnikami.
+
+Wskazał palcem końcową uwagę Jamesa.
+
+— To jest najważniejsza część.
+
+— Jeżeli odchylenie pojawia się późno, zwłaszcza po kilku kolejnych reakcjach, próba korekty może stworzyć eliksir, który wygląda poprawnie, ale zachowuje się inaczej niż powinien.
+
+Jego spojrzenie przesunęło się na kociołek Jamesa.
+
+— Wielu uczniów bardziej boi się przyznać, że porcja jest stracona, niż podać komuś wadliwy eliksir.
+
+Krótka pauza.
+
+— To bardzo głupia hierarchia priorytetów.
+
+Snape sięgnął po pióro i dopisał coś przy odpowiedzi Jamesa. Tym razem nie pokazał oceny.
+
+— Pańska diagnoza jest wystarczająco szeroka, żeby mieć sens bez znajomości dokładnego momentu wystąpienia zmiany, a jednocześnie nie próbuje pan udawać, że istnieje jedna uniwersalna korekta.
+
+Oddał pergamin.
+
+— Dobrze.
+
+Potem wskazał fiolkę stojącą obok stanowiska.
+
+— Proszę pobrać próbkę własnego eliksiru i podpisać ją. Resztę można zutylizować zgodnie z instrukcją na końcu sali.
+
+Snape odszedł, ale po dwóch krokach rzucił jeszcze przez ramię:
+
+— Następnym razem proszę również nie przegapiać tych trzydziestu sekund.
+
+To była cała ceremonia uznania błędu i jednocześnie całkiem przyzwoitego wyniku.
+
+Wokół reszta klasy również zaczynała kończyć warzenie.
+
+
+
+[C1-M0261]
+===== USER =====
+
+nalałem próbkę do fiolki jednak też bardzo dyskretnie tak żeby Snape na pewno tego nie zauważył należałem też do drugiej fiolki jedną opisałem a druga schowałem do kieszeni szaty a potem z resztą wywaru postąpiłem tak jak kazał czyli zutylizowałem
+
+
+
+[C1-M0262]
+===== ASSISTANT =====
+
+James nalał pierwszą porcję do wymaganej fiolki, dokładnie ją opisał i odstawił w wyznaczone miejsce.
+
+Przy okazji, korzystając z chwili, gdy Snape kontrolował stanowisko Neville’a, druga niewielka porcja trafiła do osobnej fiolki. Szkło zniknęło w kieszeni szaty, zanim profesor ponownie odwrócił się w jego stronę.
+
+Snape niczego nie skomentował.
+
+Pozostały eliksir James zutylizował zgodnie z instrukcją, przepłukał kociołek i uporządkował stanowisko.
+
+Po kilku minutach Snape przeszedł wzdłuż stołów, zbierając podpisane próbki.
+
+Przy fiolce Jamesa zatrzymał się jedynie na moment.
+
+— Brown.
+
+Obrócił ją pod światło, sprawdzając kolor.
+
+— Następnym razem oczekuję wyniku bez konieczności kompensowania własnego spóźnienia.
+
+Odstawił fiolkę do stojaka z pozostałymi.
+
+— Ale przynajmniej wiedział pan, kiedy nie pogarszać sytuacji.
+
+Potem ruszył dalej.
+
+Druga fiolka pozostała bezpiecznie w kieszeni Jamesa.
+
+W końcu Snape stanął przed klasą.
+
+— Na następne zajęcia przeczytacie rozdział dotyczący wpływu kolejności dodawania składników na stabilność wywaru. Nie interesuje mnie, czy uważacie go za nudny. Eliksir również nie będzie zainteresowany waszą opinią, kiedy eksploduje.
+
+Ron westchnął niemal bezgłośnie.
+
+Snape spojrzał dokładnie w jego stronę.
+
+— Piętnaście cali pergaminu dla pana Weasleya, skoro temat wzbudza w nim tak głębokie emocje.
+
+— Co?!
+
+— Dwadzieścia.
+
+Ron natychmiast zamilkł.
+
+Rozległ się dzwonek.
+
+Uczniowie zaczęli pakować książki i opuszczać loch. Draco zarzucił torbę na ramię i, przechodząc obok Jamesa, rzucił krótkie spojrzenie na jego stanowisko.
+
+— Czyli przeżyłeś pierwsze „indywidualne” zadanie.
+
+W tonie było więcej konkurencyjnej oceny niż serdeczności.
+
+— Zobaczymy, jak długo Snape będzie podnosił poprzeczkę.
+
+Na korytarzu zaczynał się już kolejny ruch między lekcjami, a w kieszeni szaty Jamesa znajdowała się mała, nieopisana fiolka eliksiru, o której Snape nie wiedział.
+
+
+
+[C1-M0263]
+===== USER =====
+
+skierowałem się na następną lekcję
+
+
+
+[C1-M0264]
+===== ASSISTANT =====
+
+James opuścił lochy razem z falą uczniów zmieniających sale.
+
+Według planu następne zajęcia wypadały z Obrony przed Czarną Magią.
+
+Droga prowadziła kilka pięter wyżej. Na schodach ruch był większy niż rano; młodsi uczniowie próbowali nadążyć za starszymi, a jedna z ruchomych klatek schodowych właśnie odsunęła się od właściwego korytarza, wywołując serię zirytowanych jęków.
+
+Draco szedł kawałek przed Jamesem.
+
+— Teraz Moody — rzucił, nie odwracając się. — Snape powiedział, że ma cię sprawdzić, prawda?
+
+Pansy spojrzała na niego z boku.
+
+— Jeśli to prawda, przynajmniej nie będzie nudno.
+
+Theodore nie skomentował. Szedł z książką pod pachą, obserwując drogę.
+
+Kiedy grupa dotarła pod salę Obrony przed Czarną Magią, Gryffindorzy byli już w pobliżu. Harry stał z Ronem i Neville’em, a Hermiona przeglądała notatki.
+
+Drzwi klasy były otwarte.
+
+W środku panował lekki chaos. Ławki stały w równych rzędach, lecz na biurku nauczyciela znajdowało się kilka zamkniętych skrzynek, stary kufer oraz zestaw przedmiotów, których przeznaczenie trudno było odgadnąć.
+
+Po chwili rozległ się ciężki, nierówny krok.
+
+Alastor Moody wszedł do sali.
+
+Drewniana noga uderzała o podłogę, a jego magiczne oko poruszało się niezależnie od drugiego, omiatając całą klasę.
+
+— Siadać.
+
+Nie musiał powtarzać.
+
+Kiedy uczniowie zajęli miejsca, Moody stanął przed biurkiem.
+
+— Obrona przed Czarną Magią nie polega na ładnym wymachiwaniu różdżką i recytowaniu definicji.
+
+Jego magiczne oko obróciło się i zatrzymało gdzieś z boku sali.
+
+— Polega na tym, żebyście wiedzieli, co zrobić, kiedy ktoś naprawdę chce wam zrobić krzywdę.
+
+Krótka cisza.
+
+— Profesor Snape zostawił mi też jedną uwagę.
+
+Normalne oko Moody’ego przesunęło się po klasie, aż zatrzymało się na Jamesie.
+
+— Brown.
+
+Kilku uczniów odruchowo spojrzało w jego stronę.
+
+— Podobno mam sam zdecydować, co z tobą zrobić.
+
+Moody skrzywił usta w czymś, co mogło być namiastką uśmiechu.
+
+— Doskonale.
+
+Oparł laskę o biurko.
+
+— Ale najpierw pracujesz z resztą. Zobaczymy, czy profesor Snape rzeczywiście miał powód, żeby pisać mi dodatkowe uwagi.
+
+Potem odwrócił się do całej klasy.
+
+— Różdżki na ławki. Zaczniemy od podstawowego sprawdzenia reakcji obronnych.
+
+
+
+[C1-M0265]
+===== USER =====
+
+wykonałem jego polecenie
+
+
+
+[C1-M0266]
+===== ASSISTANT =====
+
+James położył różdżkę na ławce.
+
+Wokół zrobiło się podobnie. Drewno uderzało cicho o blaty, choć niektórzy uczniowie odkładali różdżki znacznie mniej chętnie niż inni.
+
+Moody przeszedł między rzędami.
+
+Jego magiczne oko obracało się bez przerwy, podczas gdy zwykłe obserwowało uczniów przed nim.
+
+— Pierwszy błąd — warknął. — Większość z was patrzy na różdżkę przeciwnika.
+
+Zatrzymał się przy jednej z ławek.
+
+— A zanim zobaczycie, gdzie ją skierował, może być już za późno.
+
+Spojrzał na Harry’ego.
+
+— Potter. Na co patrzysz?
+
+Harry zawahał się.
+
+— Na... przeciwnika?
+
+— Dokładniej.
+
+Hermiona uniosła rękę.
+
+Moody nawet na nią nie spojrzał.
+
+— Granger.
+
+— Na całe ciało. Ułożenie ramion, kierunek spojrzenia, zmianę postawy. Ruch może zdradzić zamiar jeszcze przed zaklęciem.
+
+Moody odwrócił głowę w jej stronę.
+
+— Właśnie.
+
+Przeszedł dalej.
+
+— Nie zamierzam dziś sprawdzać, kto zna najwięcej zaklęć. Chcę zobaczyć, kto potrafi zareagować, zanim zacznie myśleć o odpowiedzi z podręcznika.
+
+Na środku sali ustawił manekin treningowy. Jednym ruchem różdżki ożywił jego drewniane ramię.
+
+— Będzie wykonywał losowe ruchy imitujące atak. Waszym zadaniem jest rozpoznać moment zagrożenia i sięgnąć po różdżkę. Nie rzucać zaklęcia, dopóki nie każę.
+
+Ron zmarszczył brwi.
+
+— Tylko sięgnąć?
+
+Moody spojrzał na niego.
+
+— Jeśli nie potrafisz sięgnąć odpowiednio szybko, Weasley, zaklęcie w twojej głowie będzie niezwykle użyteczne na pogrzebie.
+
+Ron zamilkł.
+
+Kilku uczniów nerwowo spojrzało na manekin.
+
+Moody wskazał pierwszą osobę.
+
+— Finnigan. Wstań.
+
+Seamus przeszedł na środek. Manekin wykonał dwa fałszywe ruchy, a przy trzecim gwałtownie wysunął rękę. Seamus chwycił różdżkę, lecz zrobił to dopiero po wyraźnym „ataku”.
+
+— Za późno.
+
+Następni byli Neville, Pansy i Harry. Wyniki różniły się — Harry zareagował szybko, Neville dał się zwieść pierwszemu fałszywemu ruchowi, a Pansy zirytowała się, kiedy Moody kazał jej powtórzyć próbę.
+
+W końcu magiczne oko profesora obróciło się w stronę Jamesa.
+
+— Brown.
+
+Moody wskazał środek sali.
+
+— Zobaczmy, czy Snape ocenił twoje reakcje równie dobrze jak eliksiry.
+
+Manekin znieruchomiał.
+
+— Różdżka zostaje na ławce do momentu rozpoczęcia próby.
+
+Moody stanął z boku, uważnie obserwując.
+
+— Na środek.
+
+
+
+[C1-M0267]
+===== USER =====
+
+przeszedłem na środek sali
+
+
+
+[C1-M0268]
+===== ASSISTANT =====
+
+James stanął na środku sali. Jego różdżka nadal leżała na ławce kilka kroków za nim, dokładnie tak, jak polecił Moody.
+
+Profesor przesunął się na bok. Drewniana noga stuknęła o kamienną posadzkę.
+
+— Nie zgaduj — powiedział szorstko. — Obserwuj.
+
+Manekin stał nieruchomo.
+
+Sekunda.
+
+Druga.
+
+Nagle jego prawe ramię drgnęło gwałtownie do góry—
+
+— Nie.
+
+Ruch urwał się w połowie. Fałszywy atak.
+
+Kilku uczniów odruchowo spięło się mimo tego, że sami nie brali udziału w próbie.
+
+Manekin przechylił tułów w lewo. Lewa ręka przesunęła się do przodu, jakby miała sięgnąć po różdżkę—
+
+Znów nic.
+
+Moody milczał.
+
+Jego zwykłe oko było wbite w Jamesa, podczas gdy magiczne poruszało się niezależnie, śledząc jednocześnie manekin i resztę sali.
+
+Nastąpiło kilka sekund całkowitego bezruchu.
+
+Potem drewniana głowa manekina obróciła się lekko w bok.
+
+Ramię pozostało opuszczone.
+
+Za to jego druga dłoń zaczęła bardzo powoli przesuwać się za plecy.
+
+Moody nie dawał żadnej wskazówki.
+
+I właśnie wtedy ruch gwałtownie przyspieszył.
+
+Dłoń manekina wyskoczyła zza pleców z trzymaną w niej atrapą różdżki, a całe ciało ustawiło się w pozycji do natychmiastowego rzucenia zaklęcia.
+
+— Teraz.
+
+
+
+[C1-M0269]
+===== USER =====
+
+sięgnąłem szybko po różdżkę i ustawiłem pozycję a z moich ust odruchowo padło szeptane Сдохни, сукин сын.
+
+
+
+[C1-M0270]
+===== ASSISTANT =====
+
+James zareagował natychmiast.
+
+Obrócił się, jednym szybkim ruchem sięgnął po różdżkę pozostawioną na ławce i ustawił się do obrony. Manekin dopiero kończył wyprowadzanie drewnianej „różdżki”, kiedy James miał już swoją w dłoni.
+
+A razem z ruchem, niemal bez udziału namysłu, spomiędzy jego ust wydostało się ciche:
+
+— Сдохни, сукин сын.
+
+Żadne zaklęcie jednak nie padło.
+
+Moody uniósł brew.
+
+— Stop.
+
+Manekin zamarł w połowie ruchu.
+
+Profesor popatrzył najpierw na ustawienie Jamesa, potem na jego rękę z różdżką. Magiczne oko obróciło się niemal o pełen obrót.
+
+— Szybko.
+
+Podszedł bliżej, ciężko stukając drewnianą nogą.
+
+— Nie idealnie. Musiałeś odwrócić się od zagrożenia, żeby dostać się do różdżki, więc przez moment straciłeś napastnika z oczu.
+
+Krótka pauza.
+
+— Ale po chwyceniu jej nie traciłeś czasu na poprawianie pozycji. Od razu byłeś gotowy odpowiedzieć.
+
+Moody zmrużył zdrowe oko.
+
+— I nie rzuciłeś zaklęcia, mimo że odruch wyraźnie mówił ci coś innego. To też się liczy.
+
+Po chwili wskazał różdżką Jamesa.
+
+— A to, co powiedziałeś…
+
+Na jego twarzy pojawił się krzywy, trudny do odczytania grymas.
+
+— …nie brzmiało jak żadna inkantacja, której uczy się w Hogwarcie.
+
+Kilku uczniów zaczęło szeptać. Ron spojrzał pytająco na Hermionę; ona zmarszczyła brwi, najwyraźniej próbując rozpoznać język.
+
+Draco patrzył na Jamesa znacznie uważniej niż wcześniej.
+
+Moody uciszył klasę jednym spojrzeniem.
+
+— Nie interesuje mnie teraz, co to znaczy. Interesuje mnie, dlaczego pojawiło się automatycznie w chwili zagrożenia.
+
+Nie brzmiał jak ktoś zgorszony przekleństwem. Bardziej jak człowiek, który właśnie zauważył kolejny szczegół odruchów bojowych Jamesa i zamierzał go zapamiętać.
+
+— Brown. Co to było?
+
+
+
+[C1-M0271]
+===== USER =====
+
+lekko się usmiechnąłem przypominając siebie dawen czasy
+Powiedzmy że to był pewnego rodzaju bardzo stary odruch....
+
+
+
+[C1-M0272]
+===== ASSISTANT =====
+
+Moody przyglądał mu się jeszcze przez moment, jakby oceniał nie samą odpowiedź, ale sposób, w jaki została udzielona.
+
+— Stare odruchy bywają cholernie użyteczne.
+
+Stuknął laską o podłogę.
+
+— Albo cholernie niebezpieczne.
+
+Jego magiczne oko obróciło się i na sekundę skierowało na różdżkę Jamesa.
+
+— Jeśli to tylko słowa, nie obchodzi mnie to. Jeśli są częścią nawyku związanego z rzucaniem zaklęcia, wtedy obchodzi mnie bardzo.
+
+Nie pytał jednak dalej o pochodzenie frazy.
+
+— W prawdziwej walce człowiek wraca do tego, co ma wbite najgłębiej. Nie do tego, co ładnie wyglądało na ćwiczeniach.
+
+Moody odwrócił się do reszty klasy.
+
+— Zapamiętajcie to.
+
+Wskazał Jamesowi jego miejsce.
+
+— Możesz wrócić.
+
+Po chwili jednak dodał:
+
+— I następnym razem różdżka będzie przy tobie. Odkładanie jej na drugi koniec sali sprawdza szybkość reakcji, ale nie pokazuje mi, jak naprawdę się bronisz.
+
+Draco obserwował Jamesa z wyraźnie większym zainteresowaniem niż wcześniej. Pansy wyglądała tak, jakby bardzo chciała wiedzieć, co oznaczały rosyjskie słowa. Hermiona natomiast miała lekko zmarszczone brwi i przez chwilę patrzyła na Jamesa, najwyraźniej próbując przypomnieć sobie, czy kiedykolwiek widziała tę frazę w którymś z językowych dodatków do podręczników.
+
+Ron nachylił się do Harry’ego.
+
+— To było zaklęcie?
+
+— Moody właśnie powiedział, że raczej nie — szepnął Harry.
+
+— Wiem, ale brzmiało jak takie, którego nie chciałbym dostać.
+
+Moody odwrócił głowę bez patrzenia na nich.
+
+— Weasley.
+
+Ron natychmiast się wyprostował.
+
+— Skoro ma pan tyle energii na komentarze, będzie pan następny.
+
+Kilka osób parsknęło śmiechem.
+
+Moody ponownie uruchomił manekin.
+
+— Potter, Granger, Malfoy, Brown — potem sprawdzę was jeszcze raz. Tym razem z różdżkami przy sobie i bez ostrzeżenia, z której strony przyjdzie atak.
+
+Jego magiczne oko obróciło się niespokojnie.
+
+— Reakcja na sygnał to jedno.
+
+— Stała czujność to coś zupełnie innego.
+
+
+
+[C1-M0273]
+===== USER =====
+
+ja siedząc już na miejscu kiwnąłem głową
+
+
+
+[C1-M0274]
+===== ASSISTANT =====
+
+Moody zauważył skinienie głowy, ale niczego nie skomentował.
+
+James siedział już z powrotem na swoim miejscu, a różdżka spoczywała teraz przy jego dłoni.
+
+Na środku sali Ron właśnie ustawiał się naprzeciw manekina.
+
+— Gotowy? — warknął Moody.
+
+Ron przełknął ślinę.
+
+— Tak.
+
+— To źle.
+
+Ron zamrugał.
+
+— Co?
+
+— Jeżeli napastnik uprzedza cię, że zaczyna, Weasley, to znaczy, że masz wyjątkowo uprzejmych wrogów.
+
+Kilku uczniów parsknęło.
+
+W następnej chwili manekin wykonał gwałtowny zwód. Ron sięgnął po różdżkę odrobinę za wcześnie, dając się nabrać na pierwszy ruch.
+
+Moody zatrzymał ćwiczenie.
+
+— Właśnie dlatego.
+
+Przez kolejne kilkanaście minut przepuszczał przez próbę następnych uczniów. Nie oszczędzał nikogo. Harry reagował szybko, choć raz dał się zwieść zmianie kierunku. Hermiona była bardzo dokładna, lecz Moody zwrócił jej uwagę, że przez moment próbowała przewidzieć schemat zamiast obserwować przeciwnika. Draco poradził sobie dobrze i wyraźnie był z tego zadowolony, dopóki Moody nie wskazał mu drobnego opóźnienia przy drugim zwodzie.
+
+W końcu profesor zatrzymał manekin.
+
+— Dobrze. Teraz druga część.
+
+Przeszedł między ławkami.
+
+— Różdżki przy sobie.
+
+Jego magiczne oko obracało się po całej klasie.
+
+— I od tej chwili nie będę mówił, kiedy zaczyna się próba.
+
+Kilka osób spojrzało na siebie.
+
+Moody uśmiechnął się krzywo.
+
+— Możecie rozmawiać. Możecie pisać. Możecie patrzeć na tablicę.
+
+Stuknął laską o posadzkę.
+
+— Ale jeżeli coś w tej sali ruszy w waszą stronę, oczekuję reakcji.
+
+Odwrócił się i zaczął pisać na tablicy, jak gdyby nagle wrócił do zwyczajnej lekcji.
+
+Na tablicy pojawiło się:
+
+REAKCJA — OCENA — DECYZJA
+
+— Trzy rzeczy. W tej kolejności.
+
+Moody mówił, nie odwracając się.
+
+— Najpierw reagujecie na zagrożenie. Potem ustalacie, czym ono właściwie jest. Dopiero potem wybieracie odpowiedź.
+
+Przerwał.
+
+— Kto odwróci kolejność, może skończyć martwy.
+
+I dokładnie wtedy, bez żadnego ostrzeżenia, jedna z drewnianych kulek leżących dotąd na jego biurku poderwała się gwałtownie w powietrze i pomknęła przez salę.
+
+Nie w stronę Jamesa.
+
+Prosto ku Hermionie.
+
+
+
+[C1-M0275]
+===== USER =====
+
+widząc to od razu zareagowałem wykonałem dyskretny tych różdżką i wyszeptałem inkantacje ale tak aby nie było wiadomo że to zrobiłem zmieniłem trojektorię kulki tak że nie poleciała w Hermionę a Rona
+
+
+
+[C1-M0276]
+===== ASSISTANT =====
+
+Kulka była już w połowie drogi do Hermiony, kiedy jej tor nagle się załamał.
+
+Nie odbiła się od niczego. Po prostu skręciła pod ostrym kątem i pomknęła w bok.
+
+Hermiona, która właśnie unosiła różdżkę, znieruchomiała na ułamek sekundy.
+
+— Co…?
+
+— Au!
+
+Drewniana kulka trafiła Rona w ramię i odbiła się na podłogę.
+
+Ron poderwał się z miejsca.
+
+— Dlaczego we mnie?!
+
+Harry parsknął śmiechem, zanim zdążył się powstrzymać.
+
+— Miała lecieć w Hermionę!
+
+— Dzięki, Harry, zauważyłem!
+
+Hermiona natomiast nie śmiała się. Patrzyła na kulkę leżącą na podłodze, wyraźnie analizując to, co właśnie zobaczyła.
+
+— Ona zmieniła kierunek — powiedziała. — Sama by tego nie zrobiła.
+
+W klasie rozległy się szepty.
+
+Moody nadal stał przy tablicy.
+
+Przynajmniej jego zwykłe oko.
+
+Magiczne oko było zwrócone zupełnie gdzie indziej.
+
+Prosto w stronę Jamesa.
+
+Przez sekundę nie wydarzyło się nic.
+
+Potem Moody bardzo powoli odwrócił głowę.
+
+— Ciekawe.
+
+Ron wskazał na kulkę.
+
+— Profesorze, coś było z tym zaklęciem.
+
+— Z moim nie.
+
+Moody ruszył ciężkim krokiem między ławkami i podniósł drewnianą kulkę.
+
+— Jej pierwotny tor był prosty.
+
+Obrócił ją w dłoni.
+
+— Czyli ktoś w tej sali postanowił zmienić parametry ćwiczenia.
+
+Kilku uczniów rozejrzało się wokół.
+
+Draco zmrużył oczy.
+
+Hermiona również zaczęła rozglądać się po klasie, ale nie wyglądała na pewną, kto rzucił zaklęcie.
+
+Moody natomiast nie musiał szukać.
+
+Jego magiczne oko zatrzymało się na Jamesie, a na twarzy profesora pojawił się bardzo nieprzyjemny, krzywy uśmiech.
+
+— I zrobił to wystarczająco dyskretnie, że większość klasy niczego nie zauważyła.
+
+Krótka pauza.
+
+— Większość.
+
+Nie wskazał Jamesa. Nie powiedział jego nazwiska.
+
+Zamiast tego wrócił na środek sali.
+
+— To daje nam dodatkową lekcję.
+
+Wskazał laską Rona.
+
+— Weasley. Atak nie musi być przeznaczony dla ciebie, kiedy zostaje rzucony.
+
+Potem na Hermionę.
+
+— Granger. Dobrze zaczęłaś reagować, ale po zmianie toru przestałaś śledzić zagrożenie.
+
+I wreszcie jego magiczne oko ponownie przesunęło się ku Jamesowi.
+
+— A osoba, która uznała, że warto ingerować…
+
+Uśmiech zniknął.
+
+— …powinna pamiętać, że przekierowanie zagrożenia na kogoś innego nadal jest decyzją bojową.
+
+Ron rozejrzał się po sali.
+
+— Chwila. Kto to zrobił?
+
+Moody odpowiedział natychmiast:
+
+— Jeśli tego nie zauważyłeś, Weasley, właśnie dlatego ćwiczymy.
+
+
+
+[C1-M0277]
+===== USER =====
+
+widząc że Profesor wie lekko się usmiechnąłem ale też kiwnąłem głową jakby dziękując że mnie nie zdradza
+
+
+
+[C1-M0278]
+===== ASSISTANT =====
+
+Moody wychwycił ten lekki uśmiech i skinienie głowy.
+
+Nie odwzajemnił gestu.
+
+Jego magiczne oko zatrzymało się na Jamesie na sekundę dłużej, a potem profesor tylko mruknął pod nosem:
+
+— Nie dziękuj. Wyciągnij wniosek.
+
+Odwrócił się do klasy.
+
+Ron nadal rozglądał się podejrzliwie.
+
+— Świetnie. Czyli ktoś właśnie użył mnie jako tarczy i mam udawać, że to lekcja.
+
+— Nie jako tarczy — poprawiła Hermiona. — Tor został przekierowany na ciebie.
+
+Ron spojrzał na nią.
+
+— To brzmi znacznie lepiej.
+
+Harry tłumił uśmiech.
+
+Moody stuknął laską o podłogę.
+
+— Koniec gadania.
+
+Drewniana kulka wróciła na jego biurko.
+
+— Właśnie dlatego prawdziwa obrona jest trudniejsza niż szkolny pojedynek. Ktoś może osłonić jedną osobę kosztem drugiej. Może zmienić kierunek zaklęcia. Może zmusić was do reakcji na zagrożenie, którego sekundę wcześniej w ogóle nie było.
+
+Jego magiczne oko przesunęło się po sali.
+
+— A czasami ktoś zrobi coś celowo tak dyskretnie, żebyście nawet nie wiedzieli, że uczestniczy w walce.
+
+Draco zmarszczył brwi i jeszcze raz rozejrzał się po uczniach. Tym razem jego spojrzenie zatrzymało się na Jamesie odrobinę dłużej, ale nie miał żadnego dowodu.
+
+Hermiona również wyglądała na zamyśloną.
+
+Moody wrócił do tablicy.
+
+— Kontynuujemy.
+
+Przez następne kilkadziesiąt sekund nic się nie wydarzyło.
+
+Profesor zaczął mówić o różnicy między blokowaniem, unikaniem i przekierowaniem ataku, jakby poprzedni incydent był już zakończony.
+
+I właśnie kiedy większość klasy zaczęła ponownie skupiać uwagę na jego słowach—
+
+magiczne oko Moody’ego gwałtownie obróciło się.
+
+Z bocznej części sali wyrwał się drugi drewniany pocisk.
+
+Tym razem nie leciał w Hermionę.
+
+Nie w Rona.
+
+Prosto w Jamesa.
+
+Moody nawet nie przerwał zdania.
+
+— …bo jeżeli przeciwnik wymusi na was przewidywalną reakcję—
+
+Kulka była już w powietrzu.
+
+— —to przejął inicjatywę.
+
+
+
+[C1-M0279]
+===== USER =====
+
+dobyłem różdżkę ale tym razem jednak nie przekierowałem pocisku tylko zatrzymałem go w powietrzu i powoli wrócił na swoje miejsce startowe
+
+
+
+[C1-M0280]
+===== ASSISTANT =====
+
+Kulka zatrzymała się gwałtownie w powietrzu, zaledwie kawałek przed Jamesem.
+
+Przez moment wisiała nieruchomo.
+
+Potem, zamiast spaść albo odbić się na bok, zaczęła powoli cofać dokładnie tą samą drogą, którą przyleciała. Przeleciała przez salę i spokojnie osiadła na miejscu, z którego została wystrzelona.
+
+Moody urwał zdanie.
+
+Jego zwykłe oko spojrzało na kulkę. Magiczne nadal było skierowane na Jamesa.
+
+— Lepiej.
+
+Jedno słowo.
+
+Profesor odwrócił się całkowicie.
+
+— Tym razem nie przerzuciłeś własnego problemu na kogoś obok.
+
+Ron natychmiast mruknął:
+
+— Doceniam rozwój.
+
+Kilka osób zachichotało.
+
+Moody zignorował ich.
+
+— Zatrzymanie. Kontrola. Usunięcie zagrożenia bez tworzenia następnego.
+
+Wskazał laską miejsce, na które wróciła kulka.
+
+— I nie odbiłeś jej we mnie.
+
+Na jego twarzy pojawił się krzywy uśmiech.
+
+— Co oznacza, że albo masz rozsądek, albo instynkt samozachowawczy.
+
+Draco obserwował Jamesa już otwarcie. Po dwóch takich reakcjach trudno było udawać, że wcześniejsza zmiana toru pocisku nie miała z nim nic wspólnego.
+
+Hermiona również spojrzała w jego stronę.
+
+Tym razem nie na sekundę.
+
+Najpierw na Jamesa, potem na kulkę, a następnie znów na niego.
+
+Jej brwi lekko się uniosły, jakby właśnie połączyła dwa wydarzenia.
+
+Ron zauważył kierunek jej spojrzenia.
+
+— Co?
+
+Hermiona odpowiedziała cicho:
+
+— Nic.
+
+Moody ponownie zwrócił się do tablicy.
+
+— Brown zdał właśnie drugi test lepiej niż pierwszy.
+
+Nie było już sensu ukrywać, kogo tym razem sprawdzał.
+
+— Ale nie pomylcie kontroli z bezpieczeństwem. Zatrzymywanie rzeczy w powietrzu jest bardzo efektowne, dopóki przeciwnik nie rzuci czegoś, czego nie chcecie zatrzymać pół metra od własnej twarzy.
+
+Stuknął różdżką w blat.
+
+— Każda obrona musi odpowiadać zagrożeniu. Nie własnym przyzwyczajeniom.
+
+Jego magiczne oko wykonało obrót po klasie.
+
+— Teraz zobaczymy, czy potraficie o tym pamiętać, kiedy przestanę używać tylko jednej kulki.
+
+
+
+[C1-M0281]
+===== USER =====
+
+patrzyłem na profesora z lekkim wyrzutem że jednak mnie wydał
+— Jeśli mam być szczery to zastanawiałem się czy nie skierować pocisku w Pana stronę ale potem założyłem że dzięki temu oku jej będzie to dla Pana profesora problem...
+
+
+
+[C1-M0282]
+===== ASSISTANT =====
+
+Przez sekundę w klasie zapadła cisza.
+
+Moody patrzył na Jamesa bez mrugnięcia. Jego magiczne oko wykonało szybki obrót, jakby samo sprawdzenie, że nadal działa, było odpowiedzią na uwagę.
+
+Potem profesor parsknął szorstkim śmiechem.
+
+— Przynajmniej się pan do tego przyznaje.
+
+Stuknął palcem w okolice magicznego oka.
+
+— I słusznie pan założył, że zobaczyłbym, co nadchodzi.
+
+Krótka pauza.
+
+— Ale błędnie założył pan, że samo zobaczenie ataku oznacza jego zatrzymanie.
+
+Moody podszedł kawałek bliżej.
+
+— Nigdy nie oceniaj przeciwnika na podstawie jednej przewagi. Dobre oko nie blokuje zaklęć. Dobra różdżka sama ich nie rzuca. A reputacja nie robi absolutnie nic, kiedy leżysz na ziemi.
+
+Ron spojrzał na Jamesa, potem na Moody’ego.
+
+— Czyli naprawdę to on skierował tamtą kulkę we mnie?
+
+Moody odwrócił zdrowe oko ku Ronowi.
+
+— Brawo, Weasley. Dochodzenie zakończone.
+
+Ron zrobił minę.
+
+Hermiona natomiast spojrzała na Jamesa z mieszaniną zrozumienia i lekkiej dezaprobaty.
+
+— Mogłeś po prostu zatrzymać ją tak jak drugą — powiedziała.
+
+Nie brzmiała na obrażoną. Raczej jak ktoś wskazujący najbardziej oczywiste rozwiązanie problemu.
+
+Moody natychmiast podchwycił:
+
+— Granger ma rację.
+
+Wskazał Jamesa laską.
+
+— Pierwsza reakcja była szybka, kreatywna i taktycznie skuteczna, jeśli pańskim jedynym celem było ochronienie Granger.
+
+Potem laska przesunęła się w stronę Rona.
+
+— Była znacznie mniej skuteczna, jeśli celem było ograniczenie liczby poszkodowanych.
+
+Ron mruknął:
+
+— Dziękuję.
+
+— Nie panu dziękuję, Weasley.
+
+Moody ponownie zwrócił się do Jamesa.
+
+— A jeśli kiedyś naprawdę postanowi pan odbić coś w moją stronę...
+
+Na jego twarzy pojawił się ten sam nieprzyjemny, krzywy uśmiech.
+
+— ...proszę przynajmniej zrobić to wtedy, gdy nie będę się tego spodziewał.
+
+Kilku uczniów spojrzało na profesora niepewnie, próbując zdecydować, czy właśnie zażartował, czy wydał ostrzeżenie.
+
+Z Moodym trudno było stwierdzić.
+
+— Dobrze. Koniec dyskusji.
+
+Odwrócił się do całej klasy.
+
+— Teraz trzy pociski. Różne kierunki. I tym razem nie zakładajcie, że każdy będzie wymierzony w osobę, na którą wygląda, że leci.
+
+
+
+[C1-M0283]
+===== USER =====
+
+— сукин сын wyszeptałem do nosem a potem dyskretnie machnąłem różdżką ale nic się nie stało
+
+
+
+[C1-M0284]
+===== ASSISTANT =====
+
+— сукин сын — padło cicho pod nosem Jamesa.
+
+Potem nastąpił drobny, niemal niedostrzegalny ruch różdżki.
+
+Nic.
+
+Żadnego błysku. Żadnego drgnięcia któregoś z pocisków. Nawet kreda na tablicy nie poruszyła się o milimetr.
+
+Moody jednak zamilkł w połowie przygotowywania kolejnego ćwiczenia.
+
+Jego normalne oko pozostało zwrócone na klasę.
+
+Magiczne obróciło się prosto ku Jamesowi.
+
+— Hm.
+
+Przez moment profesor nic więcej nie zrobił.
+
+Ron, który stał na tyle blisko, żeby wychwycić znajomo brzmiący rosyjski zwrot, spojrzał podejrzliwie w stronę Jamesa.
+
+— Znowu to powiedział.
+
+Hermiona cicho odpowiedziała:
+
+— Zauważyłam.
+
+— Wiesz, co to znaczy?
+
+— Nie.
+
+Moody tymczasem powoli odłożył jeden z drewnianych pocisków na biurko.
+
+— Brown.
+
+Nie brzmiał na rozgniewanego. Raczej zainteresowanego.
+
+— Widziałem ruch.
+
+Krótka pauza.
+
+— I widziałem, że nic po nim nie nastąpiło.
+
+Jego magiczne oko zwęziło się odrobinę.
+
+— To były dwie możliwości.
+
+Uniósł jeden palec.
+
+— Albo próbował pan czegoś i nie wyszło.
+
+Drugi.
+
+— Albo zrobił pan dokładnie to, co chciał pan zrobić, tylko efektu nie powinienem jeszcze widzieć.
+
+Kilka osób w klasie natychmiast przestało zajmować się własnymi rzeczami.
+
+Draco spojrzał na Jamesa z wyraźną podejrzliwością.
+
+Moody wskazał go końcem różdżki.
+
+— Która?
+
+I dopiero po chwili dodał:
+
+— A jeśli odpowiedź brzmi „żadna”, proszę wymyślić coś lepszego. Jestem paranoikiem zawodowo.
+
+Na jego twarzy pojawił się krzywy uśmiech.
+
+— I właśnie pomachał pan różdżką w sali pełnej ludzi zaraz po tym, jak przyznał pan, że rozważał posłanie pocisku we mnie.
+
+Ron natychmiast odsunął swoje krzesło o kilka centymetrów od Jamesa.
+
+— Tym razem ja się profilaktycznie odsuwam.
+
+Harry parsknął śmiechem.
+
+Hermiona nie. Nadal patrzyła na różdżkę Jamesa, próbując najwyraźniej ustalić, czy naprawdę nic się nie wydarzyło.
+
+
+
+[C1-M0285]
+===== USER =====
+
+— Zdecydowanie po prostu odzywa się Pana paranoja... ruchu był przypadkowy a fraza...ta samą którą wcześniej Pan uznał za nie zaklęcie....więc na razie nie musi obawiać się Pan ataku Panie profesorze...
+
+
+
+[C1-M0286]
+===== ASSISTANT =====
+
+Moody patrzył na Jamesa jeszcze przez chwilę.
+
+Jego magiczne oko obróciło się powoli, jakby wcale nie zamierzało przyjąć wyjaśnienia do wiadomości tylko dlatego, że brzmiało rozsądnie.
+
+— „Na razie” — powtórzył.
+
+Na jego twarzy pojawił się krzywy uśmiech.
+
+— To właśnie takie słowa sprawiają, że paranoja jest użyteczna.
+
+Stuknął laską o podłogę.
+
+— Dobrze. Przyjmuję, że ruch był przypadkowy.
+
+Krótka pauza.
+
+— Nie znaczy to, że w to wierzę.
+
+Ron prychnął pod nosem.
+
+— Czyli wszystko po staremu.
+
+Moody odwrócił głowę.
+
+— Dziesięć punktów za trafną obserwację, Weasley.
+
+Ron rozjaśnił się.
+
+— Naprawdę?
+
+— Nie.
+
+Harry parsknął śmiechem.
+
+Hermiona tymczasem nadal przyglądała się Jamesowi z lekkim zmarszczeniem brwi. Najwyraźniej bardziej interesowała ją rosyjska fraza niż sam ruch różdżki.
+
+Moody wrócił do biurka i bez dalszego komentarza ustawił trzy drewniane pociski.
+
+— Koniec przedstawienia.
+
+Jego głos natychmiast spoważniał.
+
+— Trzy cele. Trzy różne prędkości. Jeden zwód.
+
+Magiczne oko prześlizgnęło się po klasie.
+
+— I teraz zobaczymy, kto słuchał.
+
+Pierwsza kulka poderwała się i ruszyła wysoko nad ławkami w stronę Draco.
+
+Druga wystrzeliła niemal równocześnie nisko, tuż nad podłogą, w kierunku Harry’ego.
+
+Trzecia pozostała nieruchoma.
+
+Przynajmniej przez pierwszą sekundę.
+
+Potem gwałtownie odbiła od blatu, zmieniając tor tak, że zamiast w osobę, na którą początkowo wyglądało, zaczęła lecieć w stronę Jamesa.
+
+Moody nie powiedział ani słowa.
+
+Tym razem nie było żadnego „teraz”.
+
+Tylko test.
+
+
+
+[C1-M0287]
+===== USER =====
+
+momentalnie wyjąłem różdżkę i wstałem z miejsca a potem wychowałem ruch i wyszeptałem inkantacje a wszystkie trzy kulki zatoczyły łuk i zaczęły lecieć w stronę Profesora
+
+
+
+[C1-M0288]
+===== ASSISTANT =====
+
+James poderwał się z miejsca niemal równocześnie z trzecim pociskiem.
+
+Krótki ruch różdżki.
+
+Cicha inkantacja.
+
+Tym razem efekt był natychmiastowy.
+
+Pierwsza kulka, lecąca w stronę Draco, skręciła jeszcze w powietrzu. Druga minęła Harry’ego, zanim zdążyła do niego dotrzeć. Trzecia, która miała trafić Jamesa, również zmieniła kierunek.
+
+Wszystkie trzy zatoczyły szerokie łuki.
+
+I pomknęły prosto na Moody’ego.
+
+Kilka osób gwałtownie odsunęło się od ławek.
+
+— O cholera — wyrwało się Ronowi.
+
+Moody nawet nie drgnął przez pierwszą chwilę.
+
+Magiczne oko śledziło wszystkie trzy pociski jednocześnie.
+
+Gdy pierwszy znalazł się kilka metrów od niego, różdżka profesora błysnęła.
+
+— Protego!
+
+Pierwsza kulka odbiła się z trzaskiem i uderzyła w ścianę.
+
+Druga nadleciała niżej.
+
+Moody przesunął laskę i zwyczajnie zszedł jej z drogi; przeleciała tuż obok jego ramienia.
+
+Trzecia była już niemal przy nim.
+
+Profesor złapał ją wolną dłonią.
+
+Cisza.
+
+Moody spojrzał na drewnianą kulkę w swojej dłoni.
+
+Potem na Jamesa.
+
+Powoli pojawił się ten sam krzywy uśmiech.
+
+— A więc jednak postanowiłeś sprawdzić teorię.
+
+Draco patrzył na Jamesa szeroko otwartymi oczami.
+
+Harry również wyglądał na zaskoczonego, choć u niego szybko ustępowało to zainteresowaniu.
+
+Hermiona natomiast spojrzała najpierw na trzy różne miejsca, w których pociski zmieniły kierunek, potem na Jamesa.
+
+— Wszystkie naraz... — powiedziała cicho.
+
+Moody rzucił złapaną kulkę na biurko.
+
+— Szybka reakcja. Jedno zaklęcie, trzy cele. I nie ograniczyłeś się do własnego zagrożenia.
+
+Stuk.
+
+Drewniana noga ruszyła w stronę Jamesa.
+
+— To plus.
+
+Jeszcze krok.
+
+— A teraz minus.
+
+Moody zatrzymał się kilka metrów przed nim.
+
+— Przekierowałeś trzy zagrożenia na jednego przeciwnika, którego umiejętności obronne znałeś tylko z założenia.
+
+Wskazał swoją różdżką na Jamesa.
+
+— Gdybym nie zdołał ich zatrzymać, trafiłyby mnie wszystkie trzy.
+
+Krótka pauza.
+
+— W prawdziwej walce może być dokładnie o to chodzić.
+
+Jego uśmiech stał się nieco szerszy.
+
+— Więc tym razem nie będę narzekał.
+
+Ron spojrzał na Harry’ego.
+
+— Czy on właśnie pochwalił Browna za próbę trafienia nauczyciela?
+
+Harry wzruszył ramionami.
+
+— Chyba tak.
+
+Moody odwrócił się gwałtownie.
+
+— Nie. Pochwaliłem go za decyzję taktyczną.
+
+Spojrzał ponownie na Jamesa.
+
+— A poza tym uprzedzałem pana, Brown.
+
+— Jeśli już ma pan coś we mnie posłać... proszę zrobić to wtedy, gdy się tego nie spodziewam.
+
+Uniósł złapaną wcześniej kulkę.
+
+— Tym razem prawie się udało.
+
+
+
+[C1-M0289]
+===== USER =====
+
+lekko się usmiechnąłem
+— 15 Punktów dla Pana Profesora za styl i dobrą analizę...
+
+
+
+[C1-M0290]
+===== ASSISTANT =====
+
+Moody spojrzał na Jamesa tak, jakby przez chwilę rozważał, czy odpowiedzieć, czy po prostu rzucić w niego czwartą kulką.
+
+Potem prychnął.
+
+— Zachowaj swoje punkty, Brown. Nie mam zamiaru zbierać ich od uczniów.
+
+Kilka osób w klasie się roześmiało.
+
+Ron odezwał się półgłosem:
+
+— Szkoda. Gryffindor mógłby mu potem odjąć.
+
+Hermiona szturchnęła go łokciem.
+
+Moody tymczasem wskazał Jamesa laską.
+
+— Ale styl zapamiętam.
+
+Krótka pauza.
+
+— I tę skłonność do odwracania ćwiczenia przeciwko prowadzącemu również.
+
+Draco uśmiechnął się krzywo.
+
+— To akurat brzmi jak coś, co warto rozwijać.
+
+Moody błyskawicznie skierował na niego magiczne oko.
+
+— Malfoy, jeśli chce pan sprawdzić tę teorię osobiście, mogę przygotować następne ćwiczenie specjalnie dla pana.
+
+Uśmiech Draco zniknął.
+
+— Nie trzeba.
+
+— Tak myślałem.
+
+Moody wrócił na środek sali i jednym ruchem różdżki przywołał wszystkie trzy kulki z powrotem na biurko.
+
+— Dobrze. Wystarczy zabawy z drewnem.
+
+Odwrócił się do tablicy.
+
+— Brown pokazał wam właśnie coś użytecznego. Obrona nie zawsze oznacza blokowanie. Można odebrać przeciwnikowi inicjatywę, zmieniając kierunek zagrożenia.
+
+Napisał dużymi literami:
+
+PRZEJĘCIE INICJATYWY
+
+— Ale jeśli zaczniecie myśleć wyłącznie o tym, jak efektownie odwrócić atak, skończycie z klątwą w plecach.
+
+Spojrzał przez ramię.
+
+— Dlatego następne ćwiczenie będzie w parach.
+
+W klasie natychmiast zrobiło się głośniej.
+
+Moody uniósł głos.
+
+— Bez ofensywnych zaklęć. Jedna osoba próbuje dotknąć różdżką ramienia drugiej. Broniący może unikać, blokować albo kontrolować pozycję przeciwnika. Po trzy próby, potem zmiana.
+
+Jego magiczne oko przesunęło się po uczniach.
+
+— I sam dobiorę pary.
+
+Ron jęknął.
+
+— Oczywiście.
+
+Moody zaczął wskazywać uczniów.
+
+— Potter z Malfoyem.
+
+Obaj spojrzeli na siebie bez entuzjazmu.
+
+— Granger z Parkinson.
+
+Pansy przewróciła oczami, a Hermiona już wstawała.
+
+Moody przesunął wzrok dalej.
+
+— Brown…
+
+Zatrzymał się na chwilę, jakby świadomie wybierał kogoś, kto nie pozwoli Jamesowi przejść przez ćwiczenie automatycznie.
+
+— …z Nottem.
+
+Theodore zamknął książkę i bez komentarza podniósł się z miejsca.
+
+Moody wskazał wolną przestrzeń między ławkami.
+
+— Rozstawić się.
+
+
+
+[C1-M0291]
+===== USER =====
+
+wstałem z miejsca i zająłem pozycję
+
+
+
+[C1-M0292]
+===== ASSISTANT =====
+
+Theodore podszedł na wyznaczone miejsce bez pośpiechu i stanął naprzeciw Jamesa. Nie rzucił żadnego komentarza; jedynie wyjął różdżkę i ustawił ją nisko przy boku.
+
+Moody przeszedł między parami.
+
+— Nott atakuje pierwszy. Brown się broni.
+
+Theodore lekko przesunął ciężar ciała na przednią nogę.
+
+— Pamiętajcie: żadnych zaklęć ofensywnych. Dotknięcie ramienia kończy próbę. Możecie blokować, unikać, odsuwać różdżkę przeciwnika albo zmieniać dystans.
+
+Moody spojrzał na Jamesa.
+
+— I zanim wpadnie panu do głowy posłać Notta w sufit: kontrola.
+
+Theodore uniósł różdżkę. Jego twarz pozostała spokojna, niemal obojętna.
+
+— Gotów? — zapytał krótko.
+
+Moody natychmiast warknął:
+
+— Nie pytaj.
+
+Theodore zareagował bez dalszego ostrzeżenia.
+
+Nie ruszył różdżką od razu. Najpierw zrobił szybki krok w prawo, jakby zamierzał obejść Jamesa, a dopiero w połowie ruchu gwałtownie zmienił kierunek i wyprowadził krótki, precyzyjny ruch różdżki w stronę jego lewego ramienia.
+
+Nie był efektowny.
+
+Był za to szybki i oszczędny — dokładnie taki ruch, którego łatwo byłoby nie docenić.
+
+
+
+[C1-M0293]
+===== USER =====
+
+zrobiłem krok w bok i skierowałem tam różdżkę na wszelki wypadek mogąc jej użyć w razie potrzeby do parowania jak miecza
+
+
+
+[C1-M0294]
+===== ASSISTANT =====
+
+James zrobił krok w bok dokładnie w chwili, gdy różdżka Theodore’a przecięła przestrzeń, w której przed momentem znajdowało się jego ramię.
+
+Ruch Notta minął cel o kilka centymetrów.
+
+James ustawił własną różdżkę pod kątem, gotów w razie potrzeby potraktować ją nie tylko jako narzędzie do rzucania zaklęć, ale też jako punkt parowania.
+
+Theodore zauważył to.
+
+Nie cofnął się od razu.
+
+Zamiast tego skrócił chwyt i spróbował wykorzystać bliski dystans, prowadząc drugi ruch niżej, w stronę boku Jamesa, jakby chciał ominąć przygotowane parowanie.
+
+Moody obserwował ich uważnie.
+
+— Dobrze.
+
+Wskazał Jamesa laską.
+
+— Nie każdy problem rozwiązuje się zaklęciem. Jeśli jesteś wystarczająco blisko, czasem prostsze jest zepchnąć cudzą różdżkę niż urządzać pojedynek na inkantacje.
+
+Jego magiczne oko przesunęło się na Theodore’a.
+
+— Nott też to zauważył. Dlatego zmienił linię ataku.
+
+Theodore nadal nie mówił niczego zbędnego. Skupił się wyłącznie na znalezieniu drogi do ramienia Jamesa.
+
+Pierwsza próba jeszcze się nie skończyła.
+
+
+
+[C1-M0295]
+===== USER =====
+
+lekko się usmiechnąłem do Nota i poprawiłem krawat
+
+
+
+[C1-M0296]
+===== ASSISTANT =====
+
+Theodore zauważył uśmiech i poprawienie krawata.
+
+Na jego twarzy nie pojawiła się żadna wyraźna reakcja, ale przez ułamek sekundy jego wzrok zszedł niżej — dokładnie tyle, ile trzeba było, żeby zarejestrować ruch dłoni Jamesa.
+
+I natychmiast spróbował to wykorzystać.
+
+Zamiast kontynuować wcześniejszą linię ataku, skrócił dystans o pół kroku i gwałtownie zmienił kąt nadgarstka, prowadząc czubek różdżki ku zewnętrznej stronie ramienia Jamesa.
+
+Nie rzucił żadnego zaklęcia.
+
+Po prostu próbował trafić cel, zanim James skończy ten demonstracyjnie spokojny gest.
+
+Moody prychnął gdzieś obok.
+
+— Właśnie tak.
+
+Jego magiczne oko śledziło obu uczniów.
+
+— Rozproszenie nie musi wyglądać jak zaklęcie. Czasem wystarczy, że ktoś wygląda, jakby przestał traktować cię poważnie.
+
+Theodore nie odezwał się ani słowem.
+
+Różdżka była już blisko ramienia Jamesa.
+
+
+
+[C1-M0297]
+===== USER =====
+
+zrobiłem krok w tył jednocześnie wyszeptałem inkantacje a wtedy różdżką Notta wbiła się w powietrze i wnim utknęła jakby wbiła się w jakąś lepką substancje gdy on próbował ją wciągająć ja zrobiłem parę kroków i znalazłem się za nim
+
+
+
+[C1-M0298]
+===== ASSISTANT =====
+
+James cofnął się o krok i niemal bezgłośnie wypowiedział inkantację.
+
+Efekt pojawił się dokładnie na linii ruchu Theodore’a.
+
+Jego różdżka weszła w pozornie pustą przestrzeń — i nagle stanęła.
+
+Nie jak po uderzeniu w niewidzialną ścianę.
+
+Raczej jakby powietrze zgęstniało do konsystencji lepkiej żywicy.
+
+Theodore natychmiast szarpnął nadgarstkiem.
+
+Różdżka drgnęła, ale nie wyszła.
+
+Jeszcze raz, mocniej.
+
+Nic.
+
+Właśnie te dwie sekundy wystarczyły Jamesowi, żeby obejść go po łuku i znaleźć się za jego plecami.
+
+Theodore zamarł.
+
+Nie odwrócił głowy gwałtownie. Najpierw przestał walczyć z zaklęciem, jakby zrozumiał, że dalsze szarpanie tylko zabiera mu czas.
+
+Moody stuknął laską o podłogę.
+
+— Stop.
+
+Theodore rozluźnił chwyt.
+
+Moody podszedł bliżej i przyjrzał się miejscu, w którym tkwiła różdżka Notta.
+
+— Hm.
+
+Dotknął końcem własnej różdżki niewidocznego obszaru. Powierzchnia zafalowała lekko.
+
+— Nie zatrzymał pan Notta.
+
+Spojrzał na Jamesa.
+
+— Zatrzymał pan narzędzie, którym wykonywał zadanie.
+
+Krzywy uśmiech.
+
+— Znacznie rozsądniej.
+
+Potem wskazał Theodore’a.
+
+— A pan popełnił błąd.
+
+Theodore spojrzał na niego spokojnie.
+
+— Szarpałem.
+
+— Właśnie.
+
+Moody pokiwał głową.
+
+— Kiedy coś unieruchamia różdżkę, pierwszym odruchem większości ludzi jest ciągnąć mocniej. Przez te dwie sekundy Brown zdążył znaleźć się za pańskimi plecami.
+
+Magiczne oko profesora obróciło się na Jamesa.
+
+— I tego właśnie szukałem.
+
+— Nie wygrał pan większą siłą. Zmienił pan problem tak, żeby przeciwnik sam tracił czas.
+
+Moody wykonał krótki ruch różdżką.
+
+Lepkość powietrza zniknęła i różdżka Theodore’a została uwolniona.
+
+Theodore wyciągnął ją, obejrzał przez sekundę, a potem odwrócił się do Jamesa.
+
+— Sprytne.
+
+Tylko tyle.
+
+Moody wskazał obu laską.
+
+— Próba pierwsza dla Browna.
+
+Potem jego spojrzenie zatrzymało się na Jamesie.
+
+— Ale następnym razem Nott już zna ten numer.
+
+Przerwa.
+
+— A teraz zobaczymy, czy umie pan obronić się przed przeciwnikiem, który czegoś się nauczył.
+
+Theodore ustawił się ponownie naprzeciw Jamesa.
+
+Tym razem trzymał różdżkę bliżej ciała i wyraźnie nie zamierzał pozwolić jej łatwo wejść w żadną podejrzanie „pustą” przestrzeń.
+
+
+
+[C1-M0299]
+===== USER =====
+
+ustawiłem pozycję i czekałem na jego ruch
+
+
+
+[C1-M0300]
+===== ASSISTANT =====
+
+Theodore również ustawił się ponownie, ale tym razem nie ruszył od razu.
+
+Przez kilka sekund po prostu obserwował Jamesa.
+
+Różdżkę trzymał bliżej tułowia, łokieć lekko cofnięty. Najwyraźniej nie zamierzał drugi raz wysuwać jej daleko przed siebie i dawać łatwego celu dla tego samego zaklęcia.
+
+Moody milczał.
+
+Theodore zrobił jeden krok w lewo.
+
+Potem drugi.
+
+Nie atakował.
+
+Próbował raczej zmusić Jamesa do obracania się razem z nim i samemu ustalić, jak reaguje na zmianę kąta.
+
+Nagle prawa stopa Theodore’a przesunęła się do przodu.
+
+Różdżka drgnęła w kierunku ramienia Jamesa—
+
+ale był to tylko bardzo krótki zwód. Nott natychmiast cofnął rękę, zanim wysunęła się wystarczająco daleko, żeby łatwo ją unieruchomić.
+
+Moody mruknął z aprobatą.
+
+— Uczy się.
+
+Theodore wykorzystał moment zaraz po zwodzie.
+
+Zamiast ponownie sięgać różdżką od frontu, gwałtownie skrócił dystans samym ciałem, przeszedł pół kroku na bok Jamesa i dopiero z bardzo bliskiej odległości wyprowadził krótki ruch w stronę jego prawego ramienia.
+
+Tym razem praktycznie nie było przestrzeni pomiędzy jego różdżką a celem.
+
+Moody obserwował bez słowa.
+
+Theodore nie próbował być szybszy od Jamesa na dystans.
+
+Próbował odebrać mu miejsce na reakcję.
+
+
+
+[C1-M0301]
+===== USER =====
+
+w ostatniej chwili nie mając czasu żeby zrobić unik po prostu złapalem różdżkę Notta ręką i mu ją wyrwałem
+
+
+
+[C1-M0302]
+===== ASSISTANT =====
+
+Theodore był już niemal przy celu, kiedy James zrezygnował z próby wykonania pełnego uniku.
+
+Zamiast tego jego dłoń zacisnęła się na różdżce Notta.
+
+Theodore zdążył tylko mocniej zacisnąć palce na rękojeści.
+
+Szarpnięcie.
+
+Różdżka wysunęła mu się z dłoni.
+
+Przez ułamek sekundy obaj stali bardzo blisko siebie — Theodore z pustą ręką, James z dwiema różdżkami.
+
+Moody natychmiast uderzył laską w posadzkę.
+
+— Stop.
+
+Theodore spojrzał najpierw na własną pustą dłoń, potem na swoją różdżkę trzymaną przez Jamesa.
+
+Jego twarz pozostała niemal bez wyrazu.
+
+— Tego się nie spodziewałem.
+
+Moody podszedł bliżej.
+
+— I właśnie dlatego zadziałało.
+
+Wskazał laską Jamesa.
+
+— Nie miał pan już czasu na elegancki unik. Nie miał pan dobrego kąta na zaklęcie. Więc zamiast bronić się przed różdżką…
+
+Stuknięcie laski o podłogę.
+
+— …po prostu pan ją zabrał.
+
+Ron z dalszej części sali mruknął:
+
+— Można tak?
+
+Moody odwrócił ku niemu głowę.
+
+— Jeśli przeciwnik jest na tyle uprzejmy, żeby wsadzić ci różdżkę w zasięg ręki? Oczywiście.
+
+Hermiona zmarszczyła brwi.
+
+— Ale w prawdziwym pojedynku to byłoby bardzo ryzykowne.
+
+— Właśnie, Granger.
+
+Moody spojrzał ponownie na Jamesa.
+
+— Gdyby Nott rzucał prawdziwe zaklęcie, chwytanie jego różdżki gołą ręką mogłoby być ostatnią głupią rzeczą, jaką pan zrobi.
+
+Krótka pauza.
+
+— Ale to nie był prawdziwy pojedynek. Zadaniem Notta było dotknąć pańskiego ramienia. W ramach tego ćwiczenia decyzja była skuteczna.
+
+Theodore wyciągnął rękę po swoją różdżkę.
+
+Moody jednak uniósł palec.
+
+— Jeszcze chwila.
+
+Spojrzał na Theodore’a.
+
+— Co zrobił pan źle?
+
+Nott popatrzył na Jamesa, potem na własną różdżkę.
+
+— Skróciłem dystans za bardzo.
+
+— Dokładniej.
+
+— Skupiłem się na dotknięciu celu. Nie zabezpieczyłem własnej różdżki.
+
+Moody skinął głową.
+
+— Dobrze.
+
+Dopiero wtedy wskazał Jamesowi, by oddał różdżkę.
+
+— Druga próba również dla Browna.
+
+Theodore odebrał swoją różdżkę i tym razem, ustawiając się po raz trzeci, zrobił coś innego.
+
+Cofnął się o pół kroku.
+
+Nie zamierzał już ani zostawiać różdżki daleko przed sobą, ani wchodzić Jamesowi pod ręce.
+
+Moody uśmiechnął się krzywo.
+
+— No dobrze.
+
+— Teraz zaczyna się interesująca część.
+
+
+
+[C1-M0303]
+===== USER =====
+
+spojrzałem na jego krzywy uśmiech i też się skrzywiłem
+
+
+
+[C1-M0304]
+===== ASSISTANT =====
+
+Moody wychwycił skrzywienie Jamesa i odpowiedział jeszcze szerszym, zdecydowanie mało pocieszającym uśmiechem.
+
+— O, nie podoba się?
+
+Stuknął laską o podłogę.
+
+— Doskonale.
+
+Theodore zerknął krótko między nimi, ale nic nie powiedział. Tym razem wyglądał na znacznie ostrożniejszego niż przy dwóch poprzednich próbach.
+
+Nie ruszył od razu.
+
+Najpierw zaczął powoli krążyć, pilnując dystansu.
+
+Różdżkę trzymał blisko ciała, niemal pionowo, tak żeby trudniej było ją wyrwać albo ponownie unieruchomić. Nie robił też szerokich ruchów.
+
+Moody obserwował.
+
+— Dwie próby przegrał pan z dwóch różnych powodów, Nott.
+
+Theodore nawet na niego nie spojrzał.
+
+— Wiem.
+
+— To dobrze. Trzeci raz ten sam błąd byłby już nudny.
+
+Theodore nagle przyspieszył.
+
+Nie poszedł jednak bezpośrednio na Jamesa.
+
+Zrobił szybki krok w bok, potem drugi w przeciwną stronę, jakby chciał sprowokować reakcję, a jego różdżka pozostała cały czas cofnięta.
+
+Dopiero kiedy znalazł się pod innym kątem—
+
+wyprowadził bardzo krótki ruch.
+
+Nie w stronę ramienia.
+
+W stronę różdżki Jamesa, najwyraźniej próbując najpierw zepchnąć ją z linii obrony, a dopiero potem otworzyć sobie drogę do właściwego celu.
+
+Moody mruknął:
+
+— Teraz myśli.
+
+Theodore natychmiast przeszedł do drugiego ruchu, próbując wykorzystać choćby najmniejsze odsłonięcie.
+
+Trzecia próba właśnie się zaczęła.
+
+
+
+[C1-M0305]
+===== USER =====
+
+tym razem posąpilem inaczej * wycelowałem różdżkę w jego stronę i wypowiedziałem jakąś frazę po rosyjsku przemycajac w niej prawdziwą inkantacje ale zrobiłem to takim tonem i machnąłem różdżką tak jakby było to zaklęcie równie potężne jak Armagedon w ułamku sekundy końcówka moje różdżki zaczęła świecić
+
+
+
+[C1-M0306]
+===== ASSISTANT =====
+
+Efekt był natychmiastowy — nie dlatego, że Theodore wiedział, co James właśnie rzuca.
+
+Właśnie dlatego, że nie wiedział.
+
+Rosyjska fraza zabrzmiała obco i agresywnie, ruch różdżki był przesadnie szeroki, a nagłe światło na jej końcu wyglądało tak, jakby za sekundę miało wydarzyć się coś zdecydowanie większego niż szkolne ćwiczenie.
+
+Theodore przerwał własny ruch.
+
+Zamiast próbować sięgnąć ramienia Jamesa, gwałtownie cofnął się o pół kroku i uniósł różdżkę do obrony.
+
+To wystarczyło, żeby całkowicie stracił inicjatywę.
+
+Moody natychmiast uniósł głowę.
+
+— Ha!
+
+Nie zatrzymał ćwiczenia od razu.
+
+Jego magiczne oko skupiło się na świecącej końcówce różdżki Jamesa, podczas gdy zwykłe obserwowało Theodore’a.
+
+— Nott właśnie zrobił dokładnie to, czego chciał od niego Brown.
+
+Theodore zmrużył oczy.
+
+— To była zmyłka.
+
+— Oczywiście, że była — warknął Moody. — Ale zorientował się pan po reakcji.
+
+Kilku uczniów odwróciło się już całkowicie w ich stronę.
+
+Draco wyglądał na wyraźnie zainteresowanego.
+
+Hermiona natomiast patrzyła przede wszystkim na różdżkę Jamesa.
+
+— On ukrył inkantację w innym zdaniu… — powiedziała cicho, bardziej do siebie niż do kogokolwiek obok.
+
+Moody usłyszał.
+
+— Tak.
+
+Krzywy uśmiech wrócił na jego twarz.
+
+— Dźwięk, gest, światło. Trzy sygnały mówiące przeciwnikowi: „zaraz stanie się coś paskudnego”.
+
+Wskazał Theodore’a.
+
+— I zamiast wykonać własne zadanie, Nott przeszedł do obrony przed czymś, czego jeszcze nawet nie rozpoznał.
+
+Theodore opuścił różdżkę odrobinę, nadal obserwując Jamesa.
+
+— Nie wiedziałem, co rzuca.
+
+Moody prychnął.
+
+— W prawdziwej walce też często nie będziesz wiedział.
+
+Potem jego spojrzenie przesunęło się na Jamesa.
+
+— Ale teraz interesuje mnie druga połowa sztuczki.
+
+Wskazał świecącą końcówkę różdżki.
+
+— Skoro cała reszta była teatrem…
+
+— …to co właściwie zrobiło zaklęcie?
+
+
+
+[C1-M0307]
+===== USER =====
+
+usmiechnąłem się i wyszeptałem to samo zaklecie a różdżką się zaczynała świecić i przestawała
+
+
+
+[C1-M0308]
+===== ASSISTANT =====
+
+Końcówka różdżki Jamesa rozjarzyła się ponownie.
+
+Po chwili światło zgasło.
+
+Jeszcze raz.
+
+Błysk.
+
+I ciemność.
+
+Przez moment w sali panowała cisza.
+
+Theodore spojrzał najpierw na różdżkę Jamesa, potem na niego.
+
+— Tylko światło.
+
+Moody parsknął głośnym, chropowatym śmiechem.
+
+— Właśnie.
+
+Stuknął laską o posadzkę.
+
+— Żadna klątwa. Żadna eksplozja. Żaden cholerny Armagedon.
+
+Jego magiczne oko przesunęło się na Notta.
+
+— A pan przerwał atak, cofnął się i przygotował obronę przed… świecącą końcówką różdżki.
+
+Theodore zacisnął lekko szczękę, ale nie próbował się tłumaczyć.
+
+Moody wskazał Jamesa.
+
+— To jest blef. I zanim któremuś z was przyjdzie do głowy, że to tylko sztuczka dla klaunów, przypominam: w walce przeciwnik podejmuje decyzje na podstawie tego, co wydaje mu się, że widzi.
+
+Hermiona nadal obserwowała Jamesa.
+
+— Ukryłeś prawdziwą inkantację w rosyjskim zdaniu — powiedziała, tym razem już bez pytającego tonu.
+
+Moody skinął głową.
+
+— I dołożył do tego odpowiedni gest i ton.
+
+Spojrzał ponownie na Jamesa.
+
+— Technicznie proste.
+
+Krzywy uśmiech.
+
+— Taktycznie znacznie ciekawsze.
+
+Draco odezwał się z boku:
+
+— Czyli całe to przedstawienie było po to, żeby Nott się cofnął?
+
+Moody odwrócił się ku niemu.
+
+— Tak, Malfoy. Wreszcie pan nadąża.
+
+Potem wrócił spojrzeniem do Jamesa i Theodore’a.
+
+— Próba nie jest jeszcze skończona.
+
+Theodore poprawił chwyt na różdżce.
+
+Tym razem w jego spojrzeniu było wyraźnie więcej ostrożności.
+
+Moody uśmiechnął się paskudnie.
+
+— Teraz, Nott, pański problem jest gorszy.
+
+— Bo następnym razem Brown może zrobić dokładnie to samo…
+
+krótka pauza
+
+— …i tym razem naprawdę coś rzucić.
+
+Theodore patrzył już tylko na Jamesa.
+
+— Wiem.
+
+— Doskonale.
+
+Moody cofnął się o kilka kroków.
+
+— Kontynuujcie.
+
+
+
+[C1-M0309]
+===== USER =====
+
+nie czekalem na jego ruch zamiast to wycelowałem różdżkę w jego różdżkę i rzuciłem cicho tak że nikt nie słyszał
+— Protego...biała smuga wystrzeliła w jego różdżkę że nawet nie zdążył zareagować ale teoretycznie nic się nie stało
+
+
+
+[C1-M0310]
+===== ASSISTANT =====
+
+Biała smuga uderzyła w różdżkę Theodore’a tak szybko, że ten nie zdążył nawet odruchowo jej cofnąć.
+
+I… nic.
+
+Żadnego wybuchu. Żadnego wyrwania różdżki. Żadnego widocznego odrzutu.
+
+Theodore spojrzał na własną dłoń, potem na Jamesa.
+
+Jego brwi lekko się ściągnęły.
+
+— Co to miało zrobić?
+
+Moody nie odpowiedział za niego.
+
+Magiczne oko profesora natychmiast skupiło się na różdżce Notta, potem na Jamesie, jakby próbował wychwycić skutek, którego nie dało się zobaczyć od razu.
+
+— Ciekawe — mruknął.
+
+Theodore nie czekał dłużej.
+
+Najwyraźniej uznał, że skoro nic się nie stało, nie ma sensu dawać Jamesowi kolejnych sekund.
+
+Ruszył nagle.
+
+Tym razem bez zwodu.
+
+Krótki krok, szybkie wejście w dystans i precyzyjny ruch różdżką w stronę ramienia Jamesa.
+
+I dopiero wtedy mogło się okazać, czy tamta biała smuga rzeczywiście była „niczym”… czy James po prostu przygotował efekt, który miał ujawnić się dopiero przy następnym ruchu Notta.
+
+
+
+[C1-M0311]
+===== USER =====
+
+ja stałe w bez ruchu a gdy jego różdżką miała dotknąć mojego ramienia jakby jakaś magnetyczna siała zsunęła ją i nott trafił w powietrze
+
+
+
+[C1-M0312]
+===== ASSISTANT =====
+
+Theodore był już praktycznie pewien trafienia.
+
+James nawet się nie poruszył.
+
+Końcówka różdżki Notta znalazła się centymetry od jego ramienia—
+
+i nagle została gwałtownie ściągnięta w bok.
+
+Nie odbiła się od widzialnej bariery. Nie zatrzymała.
+
+Po prostu ześlizgnęła się z właściwej linii, jakby coś niewidzialnego odpychało ją od celu.
+
+Theodore trafił w pustą przestrzeń obok Jamesa.
+
+Zatrzymał się natychmiast.
+
+— Co…
+
+Spojrzał na własną różdżkę.
+
+Moody natomiast przestał się uśmiechać.
+
+Teraz naprawdę się przyglądał.
+
+— Stop.
+
+Podszedł bliżej, ignorując pozostałe pary.
+
+Jego magiczne oko przesunęło się od różdżki Theodore’a do ramienia Jamesa, a potem z powrotem.
+
+— Więc jednak nie było „nic”.
+
+Theodore cofnął rękę i wykonał niewielki próbny ruch różdżką. Tym razem zachowywała się normalnie.
+
+Moody zmrużył oko.
+
+— Nie postawiłeś tarczy przed sobą.
+
+Wskazał różdżkę Notta.
+
+— Zmieniłeś zachowanie jego narzędzia przy próbie wejścia w konkretną linię.
+
+Hermiona, która przerwała własne ćwiczenie, patrzyła teraz otwarcie.
+
+— To było Protego? — zapytała, wyraźnie niepewna.
+
+Moody odwrócił ku niej głowę.
+
+— Jeśli było, to użyte w sposób, którego nie znajdziecie w podstawowym ćwiczeniu z zaklęcia tarczy.
+
+Potem znów spojrzał na Jamesa.
+
+— Bardzo wąski efekt. Bardzo precyzyjny.
+
+Krótka pauza.
+
+— I cholernie podstępny.
+
+Theodore spojrzał na Jamesa.
+
+Tym razem bez komentarza o „sprycie”. Po prostu analizował.
+
+Moody stuknął laską o podłogę.
+
+— Nott zrobił dokładnie to, czego powinien: wykorzystał moment, w którym przeciwnik stał nieruchomo.
+
+— I przegrał, bo wcześniejszy ruch Browna przygotował obronę, której nie było widać.
+
+Profesor spojrzał po klasie.
+
+— To jest powód, dla którego nie zakładacie, że zaklęcie bez natychmiastowego efektu było nieudane.
+
+Ron zmarszczył brwi.
+
+— Czyli wcześniej naprawdę coś zrobił.
+
+— Tak, Weasley.
+
+— A my wszyscy myśleliśmy, że nie.
+
+Moody uśmiechnął się krzywo.
+
+— Dokładnie.
+
+Theodore obrócił różdżkę w palcach i ustawił się ponownie.
+
+— Trzecia próba? — zapytał krótko.
+
+Moody spojrzał na niego.
+
+— Technicznie nadal trwa.
+
+Potem na Jamesa.
+
+— Brown ma przewagę dwóch do zera.
+
+Krótka pauza.
+
+— Nott, jeśli chce pan uniknąć trzeciej porażki, radzę przestać zakładać, że widzi pan wszystkie elementy układanki.
+
+
+
+[C1-M0313]
+===== USER =====
+
+spojrzałem na Notta
+I zorbiłem krok w tył
+
+
+
+[C1-M0314]
+===== ASSISTANT =====
+
+Theodore zauważył krok w tył i tym razem nie ruszył za Jamesem odruchowo.
+
+Zatrzymał się.
+
+Po dwóch wcześniejszych porażkach najwyraźniej nie zamierzał już przyjmować żadnego ruchu za przypadkowy. Obserwował ustawienie Jamesa, jego różdżkę i wolną przestrzeń pomiędzy nimi.
+
+Moody milczał.
+
+Theodore przesunął się lekko w bok.
+
+Potem jeszcze raz.
+
+Nie skracał dystansu bezpośrednio. Zamiast tego próbował zmusić Jamesa do utrzymywania go w polu widzenia i jednocześnie znaleźć kąt, z którego nie musiałby prowadzić różdżki prostą linią do celu.
+
+— Lepiej — mruknął Moody. — Nie ścigaj przeciwnika tylko dlatego, że się cofa.
+
+Theodore wykonał nagle szybki krok naprzód—
+
+ale zatrzymał go przed wejściem w zasięg.
+
+Zwód.
+
+Tym razem nie wyciągnął różdżki.
+
+Po sekundzie zrobił to ponownie z innego kąta.
+
+Znów nic.
+
+Wyglądało na to, że próbuje sprawdzić, czy James przygotował kolejną niewidoczną pułapkę, zanim rzeczywiście się zaangażuje.
+
+Moody skrzywił się lekko.
+
+— Teraz obaj próbujecie zmusić drugiego, żeby pierwszy zdradził zamiar.
+
+Theodore spojrzał Jamesowi prosto w oczy.
+
+A potem zrobił coś prostszego.
+
+Zamiast ponownie próbować trafić różdżką, gwałtownie skrócił dystans bez wysuwania jej przed siebie. Trzymał ją przy własnym tułowiu, zabezpieczoną przed złapaniem i przygotowaną do krótkiego ruchu dopiero w ostatniej chwili.
+
+Dopiero gdy znalazł się blisko, jego nadgarstek ruszył.
+
+Krótko.
+
+Bez szerokiego zamachu.
+
+Końcówka różdżki skierowała się ku ramieniu Jamesa.
+
+Moody obserwował w całkowitym milczeniu.
+
+Theodore tym razem próbował dać mu możliwie najmniej informacji i jeszcze mniej czasu.
+
+
+
+[C1-M0315]
+===== USER =====
+
+tym razem już się nie bawiłem zrobiłem unik a potem machnąłem różdżką i wyszeptałem zaklęcie a Not kontynuując swój ruch uderzył czołem jak w tarczę
+
+
+
+[C1-M0316]
+===== ASSISTANT =====
+
+James zrobił unik, a zaraz potem krótko machnął różdżką i wyszeptał zaklęcie.
+
+Theodore kontynuował ruch jeszcze przez ułamek sekundy—
+
+stuk.
+
+Jego czoło zatrzymało się na niewidzialnej barierze.
+
+Nie była to siła, która odrzuciła go przez pół sali. Po prostu trafił w coś twardego tam, gdzie spodziewał się pustej przestrzeni.
+
+Theodore cofnął głowę i zacisnął oczy.
+
+— Cholera...
+
+Odruchowo dotknął czoła.
+
+Moody natychmiast uniósł laskę.
+
+— Stop.
+
+Przez moment patrzył na Notta, upewniając się, że nic poważnego mu się nie stało, a potem przeniósł spojrzenie na Jamesa.
+
+— Tym razem bez sztuczek.
+
+Stuknął laską o podłogę.
+
+— Unik. Bariera. Koniec.
+
+Theodore opuścił rękę z czoła. Wyglądał bardziej na zirytowanego niż poszkodowanego.
+
+Moody wskazał go.
+
+— I dlatego nie kontynuuje się ruchu bez możliwości jego przerwania.
+
+Potem spojrzał na Jamesa.
+
+— A pan wreszcie użył rozwiązania, które można wyjaśnić w mniej niż pięć minut.
+
+Ron parsknął.
+
+Harry uśmiechnął się pod nosem.
+
+Nawet Theodore rzucił Jamesowi krótkie, chłodne spojrzenie.
+
+— Doceniam prostotę.
+
+Moody podniósł głos.
+
+— Trzecia próba dla Browna.
+
+Krótka pauza.
+
+— Trzy do zera.
+
+Theodore wyprostował się i schował różdżkę bliżej boku.
+
+— Zapamiętam.
+
+Moody prychnął.
+
+— Mam nadzieję. Inaczej następna lekcja będzie bardzo podobna.
+
+Po czym wskazał obu uczniom miejsca.
+
+— Zamiana. Teraz Brown atakuje, Nott się broni.
+
+
+
+[C1-M0317]
+===== USER =====
+
+ustawiłem się i czekałem nie czekając na to aż not będzie gotowy rzuciłem w niego różdżką leciała ona podejrzanie szybko wydając cichy świst a na koniec trafiła jego ramię
+
+
+
+[C1-M0318]
+===== ASSISTANT =====
+
+Theodore dopiero zaczynał ustawiać różdżkę, kiedy James wykonał ruch.
+
+Nie było podejścia.
+
+Nie było inkantacji.
+
+Po prostu rzucił własną różdżką.
+
+Drewno przecięło powietrze z cichym, podejrzanie ostrym świstem — zdecydowanie szybciej, niż można byłoby oczekiwać po zwykłym rzucie ręką.
+
+Theodore zdążył jedynie odruchowo obrócić głowę.
+
+stuk.
+
+Różdżka trafiła go prosto w ramię i spadła na kamienną posadzkę.
+
+Zapadła cisza.
+
+Nott spojrzał na miejsce trafienia.
+
+Potem na leżącą na ziemi różdżkę.
+
+Na końcu na Jamesa.
+
+— ...Naprawdę?
+
+Moody przez moment nic nie mówił.
+
+Potem wydał z siebie krótki, szorstki śmiech.
+
+— Stop.
+
+Podszedł i laską wskazał różdżkę leżącą między nimi.
+
+— Polecenie brzmiało: dotknąć ramienia przeciwnika różdżką.
+
+Krótka pauza.
+
+— Nie powiedziałem, że różdżka musi podczas tego znajdować się w pańskiej dłoni.
+
+Ron parsknął śmiechem.
+
+— To się liczy?!
+
+Moody odwrócił ku niemu głowę.
+
+— Weasley, właśnie widział pan różdżkę uderzającą Notta w ramię. Chce pan dyskutować z geometrią?
+
+Hermiona zmarszczyła brwi.
+
+— Ale wyrzucił własną różdżkę.
+
+Moody natychmiast wskazał ją laską.
+
+— I to jest druga połowa odpowiedzi.
+
+Spojrzał na Jamesa.
+
+— W ramach ćwiczenia? Trafienie.
+
+— W prawdziwej walce? Właśnie dobrowolnie się pan rozbroił.
+
+Theodore schylił się, podniósł różdżkę Jamesa z podłogi i przez moment obracał ją w palcach.
+
+— I teraz ja ją mam.
+
+Nie wyglądał na szczególnie rozbawionego.
+
+Moody uśmiechnął się krzywo.
+
+— Dokładnie.
+
+Jego magiczne oko obróciło się ku Jamesowi.
+
+— Więc zanim przyznam panu tę próbę, interesuje mnie jeszcze jedno.
+
+Wskazał różdżkę znajdującą się teraz w dłoni Theodore’a.
+
+— Co robi pan dalej?
+
+
+
+[C1-M0319]
+===== USER =====
+
+— To jest dobre pytanie ćwiczenie nie jest do końca sprecyzowane ale myślę że możemy w takim wypadku uznać Wynik cztery do dwóch....
+
+
+
+[C1-M0320]
+===== ASSISTANT =====
+
+Moody spojrzał najpierw na Jamesa, potem na Theodore’a trzymającego jego różdżkę.
+
+— Cztery do dwóch?
+
+Uniósł brew.
+
+— Ciekawe liczenie.
+
+Theodore również spojrzał na Jamesa.
+
+— Ja mam twoją różdżkę.
+
+Moody stuknął laską o podłogę.
+
+— A Brown trafił pana w ramię. Czyli według zasad ćwiczenia punkt jest jego.
+
+Krótka pauza.
+
+— Ale dobrowolne oddanie przeciwnikowi różdżki jest na tyle głupie, że rozumiem, skąd wzięły się te dwa punkty dla Notta.
+
+Ron parsknął śmiechem.
+
+Moody wskazał Theodore’a.
+
+— Oddaj mu ją.
+
+Theodore przez sekundę jeszcze trzymał hebanową różdżkę, po czym podał ją Jamesowi rękojeścią do przodu.
+
+— Następnym razem jej nie oddam tak łatwo — powiedział cicho.
+
+Moody skrzywił się w czymś zbliżonym do aprobaty.
+
+— I bardzo dobrze.
+
+Spojrzał na obu.
+
+— Oficjalnie: Brown prowadzi cztery do zera w wykonanych próbach. Nieoficjalnie...
+
+Wskazał laską Jamesa.
+
+— ...ma pan właśnie duży minus za stworzenie sytuacji, w której przeciwnik może użyć pańskiej własnej różdżki przeciwko panu.
+
+Potem jego magiczne oko obróciło się ku Theodore’owi.
+
+— A pan ma minus za to, że patrzył pan na człowieka zamiast na przedmiot lecący prosto w pańskie ramię.
+
+Theodore skinął krótko głową.
+
+Moody cofnął się.
+
+— Druga próba. Nott już wie, że Brown potrafi potraktować własną różdżkę jak nóż do rzucania.
+
+Krzywy uśmiech.
+
+— Zobaczymy więc, czy Brown ma drugi pomysł.
+
+
+
+[C1-M0321]
+===== USER =====
+
+spojrzalem na Notta i przyjąłem pozycję jakbym to ja czekał na jego atak
+
+
+
+[C1-M0322]
+===== ASSISTANT =====
+
+Theodore uniósł lekko brwi.
+
+James miał atakować.
+
+A jednak ustawił się tak, jakby to on czekał na pierwszy ruch przeciwnika.
+
+Nott nie dał się sprowokować od razu.
+
+Stał nieruchomo przez moment, różdżkę trzymając blisko ciała. Po poprzednich próbach nauczył się już, że nietypowe zachowanie Jamesa zwykle oznacza jakiś zamiar.
+
+Moody natomiast uśmiechnął się krzywo.
+
+— Nie, Nott. Nie pomagaj mu.
+
+Theodore spojrzał krótko na profesora.
+
+— To on ma atakować.
+
+— Właśnie.
+
+Moody wskazał Jamesa laską.
+
+— A próbuje sprawić, żeby pan zapomniał o tym fakcie.
+
+Theodore wrócił wzrokiem do Jamesa.
+
+Nie ruszył się.
+
+— Więc będę czekał.
+
+Moody prychnął.
+
+— Dobrze.
+
+Zapadła dziwna cisza.
+
+James w pozycji obronnej.
+
+Theodore również gotowy, ale bez zamiaru wejścia pierwszy.
+
+Sekunda.
+
+Druga.
+
+Trzecia.
+
+Ron obserwował ich z boku.
+
+— To jest pojedynek czy konkurs gapienia się?
+
+Hermiona odpowiedziała półgłosem:
+
+— James próbuje wymusić reakcję.
+
+Moody usłyszał.
+
+— Dokładnie.
+
+Jego magiczne oko obracało się między nimi.
+
+— Ale tym razem Nott się nie spieszy.
+
+Theodore minimalnie przesunął stopę, poprawiając balans.
+
+— Masz trafić mnie — powiedział spokojnie do Jamesa. — Nie odwrotnie.
+
+Nie było w tym zaczepki. Raczej przypomnienie zasad.
+
+Moody stuknął laską o posadzkę.
+
+— Brown. Zegar nie istnieje, ale cierpliwość przeciwnika też jest zasobem.
+
+Krzywy uśmiech.
+
+— Teraz proszę pokazać, po co właściwie przyjął pan tę pozycję.
+
+
+
+[C1-M0323]
+===== USER =====
+
+wyszeptałem jakieś zaklęcie i machnąłem różdżką a potem w sali błysnęło na krótką chwilę jednak ja nadal wstałem w tym samym miejscu a przynajmniej tak się zdawało bo postać która stała w miejscu była iluzją prawdziwy ja w tym czasie bardzo powoli przy ścianie stawiałem kroki aby zajść Notta od pleców*
+
+
+
+[C1-M0324]
+===== ASSISTANT =====
+
+Krótki błysk przeciął salę.
+
+Na środku wciąż stał James.
+
+Przynajmniej tak to wyglądało.
+
+Sylwetka nie poruszyła się ani o krok, nadal trzymając różdżkę w tej samej pozycji. Dla większości klasy wszystko wyglądało tak, jakby nic się nie zmieniło poza krótkim rozbłyskiem.
+
+Theodore zmrużył oczy.
+
+Nie ruszył od razu.
+
+Po dwóch wcześniejszych próbach nauczył się już, że przy Jamesie najgorsze jest zakładanie, że widzi się całą sytuację.
+
+Moody natomiast od razu przekręcił magiczne oko.
+
+Nie w stronę iluzji.
+
+W stronę ściany.
+
+Ale nie odezwał się ani słowem.
+
+Hermiona lekko się wyprostowała, marszcząc brwi. Najwyraźniej coś jej nie pasowało w nieruchomej sylwetce stojącej pośrodku, lecz jeszcze nie potrafiła uchwycić co dokładnie.
+
+Theodore nadal obserwował „Jamesa” na wprost.
+
+Właśnie to wykorzystywał prawdziwy James, przesuwając się powoli przy ścianie, krok po kroku, tak ostrożnie, by nie zwrócić na siebie uwagi zbyt szybkim ruchem.
+
+Ron mruknął półgłosem:
+
+— Dlaczego on się w ogóle nie rusza?
+
+Harry odpowiedział ciszej:
+
+— Bo chyba właśnie o to chodzi.
+
+Theodore zrobił minimalny ruch różdżką, jakby chciał sprowokować reakcję iluzji.
+
+„James” na środku nie drgnął.
+
+I to właśnie stało się pierwszą wskazówką.
+
+Brwi Notta ściągnęły się odrobinę mocniej.
+
+Za mało reakcji. Za dużo bezruchu.
+
+Zaczął obracać głowę, najwyraźniej próbując sprawdzić boki sali —
+
+ale sekundę za późno.
+
+Prawdziwy James znalazł się już za nim.
+
+Końcówka różdżki dotknęła jego ramienia.
+
+Moody uderzył laską o posadzkę.
+
+— Stop.
+
+Iluzja na środku sali zgasła jak odbicie na wodzie.
+
+Kilka osób w klasie wyraźnie drgnęło.
+
+Ron aż uniósł głowę.
+
+— O nie, no świetnie.
+
+Hermiona patrzyła teraz już całkiem otwarcie.
+
+— Iluzja pozycyjna — powiedziała cicho. — I odciągnięcie uwagi na centralny obraz.
+
+Moody skinął raz głową.
+
+— Tak.
+
+Jego krzywy uśmiech wrócił na miejsce.
+
+— Proste. Skuteczne. I wyjątkowo irytujące dla człowieka, który patrzy tylko tam, gdzie wypada patrzeć.
+
+Theodore odwrócił się do Jamesa.
+
+Na jego twarzy nie było złości, raczej chłodna analiza.
+
+— Powinienem był sprawdzić, czy reagujesz.
+
+Moody prychnął.
+
+— Powinien pan był sprawdzić wszystko.
+
+Wskazał miejsce, gdzie przed chwilą stała iluzja.
+
+— Nieruchomy cel po błysku to już powód do podejrzeń.
+
+Potem przeniósł laskę na Jamesa.
+
+— A pan dobrze wykorzystał dwie rzeczy: centrum uwagi przeciwnika i własną cierpliwość.
+
+Krótka pauza.
+
+— Gdyby jednak Nott rzucił się od razu na iluzję, miałby pan mniej czasu na obejście.
+
+Hermiona dodała spokojnie:
+
+— Albo gdyby spojrzał na cień przy ścianie.
+
+Moody zerknął na nią.
+
+— Też.
+
+Ron westchnął.
+
+— Czy na tych zajęciach wszyscy poza mną widzą rzeczy, których nie widać?
+
+Harry parsknął śmiechem.
+
+Moody zignorował to całkowicie.
+
+— Próba dla Browna.
+
+Spojrzał na Theodore’a.
+
+— I dobra lekcja dla pana, Nott. Kiedy coś wygląda zbyt wygodnie, zwykle jest pułapką.
+
+Theodore skinął krótko głową.
+
+— Zapamiętam.
+
+Moody przesunął wzrok między nimi.
+
+— Jeszcze jedna próba ofensywna, Brown.
+
+Jego magiczne oko obróciło się niespokojnie.
+
+— Tym razem bez rzucania różdżką, bez teatru końca świata i najlepiej bez robienia ze mnie szczęśliwego człowieka, który widzi, jak ktoś wreszcie myśli nieszablonowo.
+
+Krzywy uśmiech poszerzył mu się odrobinę.
+
+— Chociaż obawiam się, że na to drugie jest już za późno.
+
+
+
+[C1-M0325]
+===== USER =====
+
+zająłem pozycję i tym razem czekałem aż not też zajmiej pozycję a potem rzuciłem w jego stronę kilka razy Obscuro a potem zacząłem szybko przemieszczać się w jego kierunku
+
+
+
+[C1-M0326]
+===== ASSISTANT =====
+
+Theodore tym razem był gotowy.
+
+Gdy tylko pierwsze:
+
+— Obscuro.
+
+wyrwało się z różdżki Jamesa, Nott natychmiast uniósł własną.
+
+— Protego!
+
+Pierwsze zaklęcie rozbiło się o tarczę.
+
+Drugie przemknęło tuż obok niej, kiedy Theodore odruchowo przesunął się w bok.
+
+Ale James nie rzucił jednego.
+
+Rzucił kilka.
+
+Przy kolejnym czarna opaska pojawiła się nagle na oczach Notta.
+
+— Cholera—
+
+Theodore natychmiast stracił możliwość śledzenia Jamesa wzrokiem.
+
+I właśnie wtedy James ruszył szybko w jego kierunku.
+
+Moody aż przechylił głowę.
+
+— Dobrze! Nie dawaj mu czasu na kontrzaklęcie!
+
+Theodore jednak nie spanikował.
+
+Po wcześniejszych porażkach zdążył już zrozumieć jedną rzecz: stanie w miejscu przeciwko Jamesowi było fatalnym pomysłem.
+
+Nie próbował zerwać opaski ręką.
+
+Zamiast tego natychmiast cofnął się po skosie i wysunął różdżkę przed siebie, poruszając nią szerokim łukiem jak sondą.
+
+Nie widział Jamesa.
+
+Ale słyszał szybkie kroki.
+
+Odwrócił się w ich kierunku.
+
+— Finite!
+
+Opaska drgnęła, lecz nie zniknęła od razu — Theodore musiał jeszcze utrzymać koncentrację.
+
+Moody obserwował obu.
+
+— Nott! Przestań próbować odzyskać idealną sytuację! Walcz z tą, którą masz!
+
+Theodore zacisnął szczękę.
+
+Zamiast ponownie próbować zdjąć Obscuro, gwałtownie zatrzymał się i ustawił bokiem do kierunku nadchodzących kroków. Różdżkę trzymał blisko ramienia, by James nie mógł jej łatwo złapać.
+
+James szybko zmniejszał dystans.
+
+Theodore nie widział go nadal.
+
+Ale teraz czekał na dźwięk ostatniego kroku, by uskoczyć w chwili, w której James spróbuje dosięgnąć jego ramienia.
+
+Moody uśmiechnął się krzywo.
+
+— No. Teraz zobaczymy, czy Brown przewidział, że ślepy przeciwnik nadal ma uszy.
+
+
+
+[C1-M0327]
+===== USER =====
+
+rzeczywiście wykonałem ostatni ruch pchając różdżką przed siebie prosto w jego prawe ramię
+
+
+
+[C1-M0328]
+===== ASSISTANT =====
+
+W chwili, gdy James wykonał ostatni krok i pchnął różdżkę prosto ku prawemu ramieniu Theodore’a, Nott usłyszał dokładnie to, na co czekał.
+
+Nie próbował zgadywać kierunku.
+
+Po prostu gwałtownie opadł na lewe kolano i jednocześnie obrócił tułów.
+
+Końcówka różdżki Jamesa przemknęła nad jego prawym ramieniem — tak blisko, że zahaczyła o materiał szaty, ale nie dotknęła samego ramienia.
+
+— Stop! — warknął Moody.
+
+James znalazł się tuż obok Theodore’a, a Nott nadal miał czarną opaskę na oczach.
+
+Przez moment panowała cisza.
+
+Potem Moody parsknął.
+
+— Wreszcie.
+
+Theodore wyprostował się powoli.
+
+— Finite.
+
+Obscuro zniknęło z jego oczu.
+
+Nott spojrzał na własne ramię, potem na Jamesa.
+
+— Prawie.
+
+Moody stuknął laską o posadzkę.
+
+— I właśnie „prawie” robi tutaj całą różnicę.
+
+Wskazał Theodore’a.
+
+— Nie widział przeciwnika. Nie wiedział dokładnie, gdzie znajduje się różdżka. Ale Brown dał mu jedną informację, której potrzebował: ostatni krok przed atakiem.
+
+Potem laska przesunęła się ku Jamesowi.
+
+— Plan był dobry. Odebrać wzrok, natychmiast skrócić dystans i trafić, zanim przeciwnik usunie zaklęcie.
+
+Krótka pauza.
+
+— Ale ostatnia faza była przewidywalna. Biegł pan prosto na człowieka, który czekał na dźwięk pańskich kroków.
+
+Theodore poprawił rękaw.
+
+— Tym razem wiedziałem, czego słuchać.
+
+Moody skinął głową.
+
+— I dlatego ta próba należy do Notta.
+
+Ron odezwał się z boku:
+
+— Czyli jednak da się go zatrzymać.
+
+Theodore spojrzał krótko w jego stronę.
+
+— Najwyraźniej.
+
+Moody natychmiast podsumował:
+
+— Brown wygrał dwie ofensywne próby. Nott jedną.
+
+Jego magiczne oko przesunęło się między nimi.
+
+— I to jest znacznie bardziej użyteczne niż trzy identyczne zwycięstwa. Brown właśnie dostał informację, której wcześniej nie miał: kiedy pozbawia przeciwnika wzroku, powinien pamiętać, że sam może zdradzić swoją pozycję dźwiękiem.
+
+Krzywy uśmiech wrócił.
+
+— Gratulacje, Nott. Przeżył pan wystarczająco długo, żeby zacząć się uczyć.
+
+
+
+[C1-M0329]
+===== USER =====
+
+poklepałem Notta po ramieniu
+— Wygląda na to że cię nie doceniłem podczas ostatniego starcia....honorowo zdobyłeś jedne punkt...
+
+
+
+[C1-M0330]
+===== ASSISTANT =====
+
+Theodore zerknął na dłoń Jamesa spoczywającą przez chwilę na jego ramieniu, a potem spojrzał mu prosto w oczy.
+
+— Jeden — poprawił spokojnie. — I zamierzam dopilnować, żeby nie został ostatnim.
+
+Nie brzmiało to jak przechwałka. Bardziej jak chłodne stwierdzenie celu.
+
+Moody prychnął z boku.
+
+— Dobrze. Wreszcie trochę zdrowej konkurencji zamiast wzajemnego głaskania się po ego.
+
+Theodore cofnął się na swoje miejsce, poprawiając chwyt różdżki.
+
+— Przy następnym starciu będę wiedział, że jeśli przestanę cię widzieć, mam słuchać.
+
+Krótka pauza.
+
+— A jeśli przestanę cię słyszeć… wtedy zacznę się martwić.
+
+Moody uśmiechnął się krzywo.
+
+— Właściwa odpowiedź.
+
+Potem odwrócił się do całej klasy.
+
+— Zapamiętajcie tę rundę. Brown wygrał większość prób, ale Nott wygrał tę, w której przestał reagować na to, co wydawało mu się, że przeciwnik zrobi, i zaczął wykorzystywać to, co naprawdę miał dostępne.
+
+Jego magiczne oko przesunęło się po sali.
+
+— W walce nie dostajecie punktów za reputację.
+
+— Dostajecie je za przeżycie.
+
+Po czym stuknął laską o podłogę.
+
+— Zamiana par za pięć minut. Chcę zobaczyć, czy ktokolwiek poza tą dwójką nauczył się dziś czegoś użytecznego.
+
+
+
+[C1-M0331]
+===== USER =====
+
+spojrzałem na różdżkę i powiedziałem bardziej do siebie
+poklepałem Notta po ramieniu
+— Marne szanse...
+
+
+
+[C1-M0332]
+===== ASSISTANT =====
+
+Theodore spojrzał na Jamesa po tym krótkim:
+
+— Marne szanse...
+
+Przez chwilę nic nie odpowiedział. Potem zerknął na różdżkę Jamesa, jakby próbował ustalić, czy komentarz był skierowany do niego, do samego siebie, czy do całej sytuacji.
+
+— Zobaczymy — rzucił tylko.
+
+Bez uśmiechu, bez dalszego przechwalania się.
+
+Moody natomiast usłyszał wystarczająco dużo.
+
+— I właśnie dlatego pojedynki są takie użyteczne — warknął. — Bardzo szybko uczą różnicy między „marne szanse” a „źle oceniłem przeciwnika”.
+
+Jego magiczne oko zatrzymało się na Jamesie.
+
+— Pan już raz dzisiaj tę różnicę poznał.
+
+Theodore odsunął się o krok i poprawił szatę.
+
+— A ja zamierzam sprawdzić, czy zapamiętał.
+
+Moody parsknął z aprobatą, po czym odwrócił się do reszty klasy.
+
+— Dosyć. Następne pary.
+
+Wokół zaczęło się przestawianie uczniów i przesuwanie ławek. Harry właśnie kończył swoją rundę z Draco, Hermiona z Pansy stały kilka metrów dalej, a Ron obserwował wszystko z miną człowieka, który najwyraźniej zaczynał podejrzewać, że ta lekcja potrwa dla niego zdecydowanie zbyt długo.
+
+Moody wskazał laską nowe miejsca.
+
+— Brown, tym razem odpoczynek. Chcę zobaczyć, czy potrafi pan obserwować równie dobrze, jak kombinować.
+
+Krótka pauza.
+
+— I proszę przez pięć minut niczego nie przekierowywać, oślepiać ani rzucać własną różdżką w kolegów.
+
+Ron odezwał się z boku:
+
+— To bardzo konkretna lista.
+
+Moody nawet na niego nie spojrzał.
+
+— Powstała z doświadczenia ostatnich czterdziestu minut.
+
+
+
+[C1-M0333]
+===== USER =====
+
+kiwnąłem głową i stanąłem obok Profesora
+
+
+
+[C1-M0334]
+===== ASSISTANT =====
+
+James stanął obok Moody’ego, zostawiając środek sali kolejnym parom.
+
+Profesor rzucił mu krótkie spojrzenie.
+
+— Dobrze. Skoro już pan tu stoi, proszę nie patrzeć tylko na to, kto wygrywa.
+
+Wskazał laską na Harry’ego i Draco.
+
+— Patrz na moment, w którym ktoś zdradza zamiar.
+
+Draco właśnie próbował podejść Harry’ego zwodem barkiem, ale Harry nie ruszył się od razu. Dopiero kiedy różdżka Malfoya faktycznie weszła w linię ataku, uskoczył i zepchnął ją własną.
+
+Moody mruknął:
+
+— Potter patrzy na rękę. Malfoy za bardzo pracuje ramieniem.
+
+Po chwili wskazał Hermionę i Pansy.
+
+Hermiona utrzymywała dystans i poruszała się oszczędnie. Pansy próbowała zmusić ją do reakcji kilkoma szybkimi zwodami, ale sama przy każdym ruchu lekko wysuwała prawą stopę.
+
+— Parkinson zdradza wejście nogą — powiedział Moody. — Granger już to zauważyła.
+
+Rzeczywiście, przy następnym ruchu Hermiona cofnęła się dokładnie w chwili, gdy stopa Pansy ruszyła do przodu.
+
+Moody spojrzał bokiem na Jamesa.
+
+— Teraz najważniejsze.
+
+Jego magiczne oko obróciło się ku niemu, podczas gdy zwykłe nadal obserwowało klasę.
+
+— Niech pan nie szuka tylko błędów.
+
+Krótka pauza.
+
+— Proszę patrzeć, co każdy z nich robi dobrze. To trudniejsze.
+
+Na środku Draco właśnie zmienił podejście. Przestał próbować przechytrzyć Harry’ego seriami zwodów i nagle wykonał jeden bardzo prosty, szybki ruch. Harry ledwo zdążył uniknąć.
+
+Moody stuknął laską.
+
+— Widzisz? Malfoy zauważył, że za dużo kombinował. Uprościł.
+
+Kilka metrów dalej Pansy natomiast wykorzystała moment, gdy Hermiona spojrzała na jej różdżkę, i niemal dotknęła jej ramienia wolną ręką, zanim przypomniała sobie, że zadanie wymaga użycia różdżki.
+
+Moody prychnął.
+
+— Dobry instynkt. Złe narzędzie.
+
+Przez następne minuty James miał wyjątkowo dobrą pozycję do obserwacji całej klasy — niemal tę samą, którą zajmował nauczyciel.
+
+Moody nie próbował z niego robić pomocnika.
+
+Po prostu pozwalał mu patrzeć.
+
+Po chwili odezwał się ciszej, tak żeby nie zagłuszać ćwiczeń:
+
+— Brown.
+
+Wskazał laską Harry’ego, Draco, Hermionę i Pansy.
+
+— Gdybyś musiał wybrać jedną osobę z tej czwórki, której najmniej chciałbyś teraz lekceważyć…
+
+Krzywy uśmiech.
+
+— Kogo?
+
+
+
+[C1-M0335]
+===== USER =====
+
+mój wzrok od dawna dokładnie przyglądał się Hermionie ale tylko dlatego bo w swoim bojowym stanie wyglądała jeszcze bardziej pociągająco więc gdy tylko usłyszałem pytanie bez namysłu z moich ust wydobyło się Hermiona...
+
+
+
+[C1-M0336]
+===== ASSISTANT =====
+
+Moody zerknął na Jamesa niemal natychmiast.
+
+— Granger.
+
+Nie skomentował tego, jak szybko padła odpowiedź. Nie miał też żadnego powodu wiedzieć, dlaczego James akurat na nią patrzył.
+
+Jego magiczne oko przesunęło się ku Hermionie.
+
+— Dobry wybór.
+
+Hermiona właśnie cofała się przed kolejnym zwodem Pansy. Nie próbowała odpowiadać szybkością na szybkość. Zamiast tego obserwowała rytm ruchów przeciwniczki, czekając na moment, w którym Parkinson za bardzo przeniesie ciężar ciała na przednią nogę.
+
+Stało się to sekundę później.
+
+Hermiona zrobiła krótki krok w bok, zepchnęła różdżkę Pansy poza linię i sama niemal dotknęła jej ramienia.
+
+Moody wskazał laską.
+
+— Właśnie dlatego.
+
+Pansy cofnęła się z zirytowaną miną.
+
+— Granger nie jest najszybsza z tej czwórki — ciągnął Moody ciszej do Jamesa. — Potter ma lepszy odruch. Malfoy potrafi być bardziej agresywny.
+
+Hermiona ponownie ustawiła się naprzeciw Pansy.
+
+— Ale ona obserwuje. Koryguje. Jeśli pokażesz jej ten sam trik dwa razy, za trzecim razem masz problem.
+
+Moody spojrzał na Jamesa.
+
+— A takich przeciwników najbardziej opłaca się nie lekceważyć.
+
+Na środku Hermiona właśnie uniknęła kolejnego ruchu Pansy.
+
+Moody prychnął.
+
+— Co ciekawe, pan też dzisiaj kilka razy zrobił dokładnie to samo. Nott pokazał panu, że słyszy kroki, więc następnym razem powinien pan uwzględnić dźwięk. Granger działa podobnie. Zbiera informacje i zmienia odpowiedź.
+
+Przez moment patrzył na ćwiczenie.
+
+— Tyle że ona robi to bardziej metodycznie.
+
+Po chwili Hermiona i Pansy zakończyły swoją rundę. Hermiona odsunęła włosy z twarzy i zaczęła poprawiać rękaw szaty.
+
+Nie wyglądało na to, żeby usłyszała wcześniejszą odpowiedź Jamesa; między nimi nadal trwały ćwiczenia i rozmowy pozostałych uczniów.
+
+Moody natomiast dodał:
+
+— Jeśli kiedyś traficie na siebie w ćwiczeniu, będzie ciekawie.
+
+Krzywy uśmiech.
+
+— Pan próbuje zmienić zasady gry. Ona próbuje je zrozumieć szybciej, niż pan zdąży je zmienić.
+
+
+
+[C1-M0337]
+===== USER =====
+
+jej proste gęsty odsunięcia włosów z twarzy i poprawiania rękawów dosłownie przeniosły mnie do innego świata tak że praktycznie nie słuchałem teraz Profesora
+
+
+
+[C1-M0338]
+===== ASSISTANT =====
+
+Moody mówił jeszcze przez kilka sekund, ale stojąc tuż obok Jamesa miał wyjątkowo dobry widok na to, gdzie właściwie skierowana była jego uwaga.
+
+Jego zwykłe oko obserwowało ćwiczenia.
+
+Magiczne powoli obróciło się ku Jamesowi.
+
+Potem podążyło za linią jego wzroku.
+
+Hermiona właśnie odgarnęła ostatnie pasmo włosów za ucho, poprawiła rękaw i ponownie chwyciła różdżkę, przygotowując się do kolejnej rundy.
+
+Moody zamilkł.
+
+Sekunda.
+
+Druga.
+
+— Brown.
+
+Brak reakcji natychmiastowej.
+
+Krzywy uśmiech pojawił się na twarzy profesora.
+
+— Brown.
+
+Tym razem powiedział to znacznie głośniej.
+
+Kilka osób stojących bliżej odruchowo zerknęło w ich stronę. Hermiona również na moment podniosła wzrok.
+
+Moody przechylił głowę.
+
+— Skoro obserwuje pan tak niezwykle intensywnie…
+
+krótka pauza
+
+— …to z pewnością potrafi pan powtórzyć moje ostatnie zdanie.
+
+Ron, stojący kawałek dalej, natychmiast zainteresował się sytuacją.
+
+Harry spojrzał na niego z miną sugerującą, żeby nawet nie próbował komentować.
+
+Draco również zauważył zamieszanie i zerknął w stronę Jamesa.
+
+Moody jednak nie patrzył na nikogo poza nim.
+
+— No?
+
+Magiczne oko wykonało powolny obrót.
+
+— Co powiedziałem?
+
+Na drugim końcu wolnej przestrzeni Hermiona jeszcze przez chwilę patrzyła w ich stronę, najwyraźniej zastanawiając się, dlaczego Moody nagle przepytuje Jamesa, po czym opuściła różdżkę, czekając na dalszy ciąg.
+
+Moody dodał ciszej, już tylko do Jamesa:
+
+— Stała czujność, Brown.
+
+Stuknął palcem we własną skroń.
+
+— Dotyczy również nauczyciela stojącego pół metra od pana.
+
+
+
+[C1-M0339]
+===== USER =====
+
+wrocilem na ziemię słysząc jego głośniejszy ton i zacząłem sobie przypominać ale w moich wspomnieniach przez ostatnie minuty jest tylko idealny obraz Hermiony i dokładne analizy jej zwykłych gestów na mojej twarzy pojawił się lekki rumieniec ale szybko go ukryłem
+Formułując w głowie ostatnią deskę
+poklepałem Notta po ramieniu
+— Powiedział Pan coś z czym się nie zgadzam...powiedziałem ale było w tym też słyszalna nuta pytania która wprost pokazywała że nie jestem pewien własnych słów
+
+
+
+[C1-M0340]
+===== ASSISTANT =====
+
+Moody patrzył na Jamesa przez dłuższą chwilę.
+
+Ta ledwie słyszalna niepewność w jego głosie wystarczyła.
+
+Krzywy uśmiech profesora powoli się poszerzył.
+
+— Ach.
+
+Stuknął laską o podłogę.
+
+— Czyli nie ma pan pojęcia, co powiedziałem.
+
+Ron parsknął gdzieś z boku, ale szybko zakrył usta dłonią.
+
+Moody nie spuszczał wzroku z Jamesa.
+
+— Ładna próba, Brown. Gdyby powiedział pan to z odrobinę większym przekonaniem, może nawet zacząłbym się zastanawiać, z czym dokładnie się pan nie zgadza.
+
+Jego magiczne oko wykonało powolny obrót.
+
+— Ale skoro już pan wybrał tę drogę…
+
+Profesor skrzyżował ręce.
+
+— Proszę bardzo.
+
+— Powiedziałem, że gdyby pan i Granger trafili na siebie w ćwiczeniu, byłoby interesująco. Pan ma tendencję do zmieniania sytuacji tak, żeby przeciwnik nie wiedział, jakie właściwie obowiązują zasady.
+
+Moody wskazał laską Hermionę.
+
+— A ona zbiera informacje, analizuje i dostosowuje odpowiedź.
+
+Hermiona, słysząc własne nazwisko, spojrzała w ich stronę.
+
+Moody ponownie zwrócił się do Jamesa.
+
+— Powiedziałem również, że ona robi to bardziej metodycznie niż pan.
+
+Krótka pauza.
+
+Krzywy uśmiech.
+
+— Więc teraz jestem naprawdę ciekaw.
+
+— Z którą częścią się pan nie zgadza?
+
+Harry zerknął na Rona.
+
+Ron wyszeptał:
+
+— Sam się w to wpakował.
+
+Hermiona natomiast nie wyglądała na rozbawioną. Raczej zainteresowaną odpowiedzią — szczególnie teraz, kiedy Moody otwarcie porównał sposób działania ich obojga.
+
+Moody lekko przechylił głowę.
+
+— I tym razem radzę nie zgadywać.
+
+
+
+[C1-M0341]
+===== USER =====
+
+*chwilę się zawahałem a potem powiedziałem i wiele ciszej tak żeby tylko on słyszał* 
+— Nie było by to interesujące a przynajmniej nie z tego powodu z którego pan myśli....
+
+
+
+[C1-M0342]
+===== ASSISTANT =====
+
+Moody nie odpowiedział od razu.
+
+Jego zdrowe oko zostało na Jamesie, ale magiczne wykonało powolny obrót. Na moment zatrzymało się w kierunku Hermiony, po czym wróciło.
+
+Nie potrzebował wiele, żeby zauważyć, że odpowiedź Jamesa nie miała już wiele wspólnego z taktyką.
+
+— Ach — mruknął tak cicho, żeby reszta klasy tego nie usłyszała.
+
+Krzywy uśmiech pojawił się ponownie, tym razem wyraźnie innego rodzaju.
+
+— Rozumiem wystarczająco dużo.
+
+Nie powiedział jednak nic głośniej. Nie wskazał Hermiony. Nie zrobił z tego przedstawienia przed klasą.
+
+Zamiast tego nachylił się minimalnie w stronę Jamesa.
+
+— W takim razie radzę panu nauczyć się dwóch rzeczy, Brown.
+
+Uniósł jeden palec.
+
+— Po pierwsze: kiedy ma pan obserwować przeciwnika, proszę naprawdę obserwować przeciwnika.
+
+Drugi palec.
+
+— Po drugie: jeżeli jakaś osoba potrafi wyłączyć pańską uwagę samym poprawieniem rękawa…
+
+Moody spojrzał na niego znacząco.
+
+— …to z punktu widzenia obrony ma pan problem.
+
+Nie było w jego tonie kpiny. Raczej brutalnie praktyczna diagnoza.
+
+Po chwili wyprostował się i już normalnym głosem rzucił do całej klasy:
+
+— Koniec przerwy. Wracamy do ćwiczeń!
+
+Hermiona, która nadal zerkała w ich stronę, wyglądała na lekko zaciekawioną tym, co Moody powiedział Jamesowi na tyle cicho, że nie mogła tego usłyszeć.
+
+Ron nachylił się ku Harry’emu.
+
+— O czym oni gadają?
+
+Harry wzruszył ramionami.
+
+— Nie wiem.
+
+Draco również obserwował ich przez moment, ale Moody już stuknął laską o podłogę.
+
+— Granger! Brown!
+
+W klasie zrobiło się nieco ciszej.
+
+Moody wskazał wolną przestrzeń na środku.
+
+— Skoro już wcześniej was porównywałem, sprawdzimy teorię.
+
+Magiczne oko profesora zatrzymało się na Jamesie.
+
+— Jedna runda.
+
+Potem spojrzał na Hermionę.
+
+— Te same zasady. Dotknięcie ramienia różdżką. Bez ofensywnych zaklęć.
+
+Hermiona poprawiła chwyt na różdżce i ruszyła na środek.
+
+Moody dodał już znacznie ciszej, tylko kiedy James mijał go:
+
+— Teraz proszę spróbować pamiętać, że ma pan wygrać ćwiczenie, a nie podziwiać przeciwniczkę.
+
+
+
+[C1-M0343]
+===== USER =====
+
+spojrzałem na Profesora z dużym wyrzutem a potem powiedziałem i wiele ciszej tak żeby tylko on słyszał
+— To co Pan właśnie zrobił jest co najmniej niesmaczne...
+
+
+
+[C1-M0344]
+===== ASSISTANT =====
+
+Moody zatrzymał Jamesa na sekundę samym spojrzeniem.
+
+Krzywy uśmiech zniknął.
+
+— Niesmaczne? — powtórzył bardzo cicho. — Możliwe.
+
+Nie próbował udawać, że nie zrozumiał, o co chodzi.
+
+— Ale nie dobrałem was w parę po to, żeby pana zawstydzić. Porównałem wasze sposoby działania, zanim zorientowałem się, dlaczego pańska uwaga tak często wracała akurat do Granger.
+
+Jego magiczne oko poruszyło się krótko, sprawdzając salę.
+
+— Ten ostatni komentarz mogłem sobie darować.
+
+To było powiedziane rzeczowo, bez szczególnej skruchy, ale też bez dalszego żartu.
+
+— Natomiast pary nie zmienię tylko dlatego, że sytuacja zrobiła się dla pana niewygodna.
+
+Spojrzał Jamesowi prosto w oczy.
+
+— Jeśli chce pan kiedyś zachować coś dla siebie, Brown, proszę nie pozwalać, żeby zawodowy paranoik zauważył to po pięciu minutach obserwacji.
+
+Po czym wyprostował się i już głośniej rzucił:
+
+— Granger czeka.
+
+Hermiona stała kilka metrów dalej na środku sali, różdżkę trzymając przy boku. Nie mogła usłyszeć ich cichej wymiany i wyglądała przede wszystkim na zainteresowaną samym ćwiczeniem.
+
+Gdy James znalazł się naprzeciw niej, spojrzała na niego uważnie.
+
+— Chyba uprzedzę od razu — powiedziała spokojnie. — Widziałam większość twoich sztuczek z Nottem.
+
+Uniósł się lekko kącik jej ust.
+
+— Więc z iluzją może być trochę trudniej.
+
+
+
+[C1-M0345]
+===== USER =====
+
+Żeby przypadkiem się nie rozproszyć unikałem patrzenia na nią jedyną bezpieczną strefą dla moich oczu była jej różdżką i to na niej skupiłem wzrok co trochę utrudniało zadanie
+
+
+
+[C1-M0346]
+===== ASSISTANT =====
+
+James konsekwentnie trzymał wzrok na różdżce Hermiony.
+
+Nie na twarzy. Nie na włosach. Nie na ruchach ramion.
+
+Tylko na różdżce.
+
+Z punktu widzenia koncentracji było to rozwiązanie bezpieczne.
+
+Z punktu widzenia walki — znacznie mniej.
+
+Hermiona zauważyła to po kilku sekundach.
+
+Nie skomentowała.
+
+Po prostu zaczęła sprawdzać, jak bardzo może to wykorzystać.
+
+Najpierw poruszyła samym nadgarstkiem.
+
+Krótki ruch w prawo.
+
+Różdżka Jamesa podążyła za jej różdżką.
+
+Potem lekko w lewo.
+
+Znów.
+
+Hermiona minimalnie zmrużyła oczy.
+
+Moody obserwował z boku.
+
+— Brown — odezwał się szorstko. — Właśnie ograniczył pan sobie pole widzenia do kawałka drewna długości trzydziestu centymetrów.
+
+Hermiona nadal nic nie mówiła.
+
+Nagle wysunęła różdżkę przed siebie, jakby miała rozpocząć bezpośredni atak—
+
+ale jednocześnie zrobiła szybki krok w przeciwną stronę, zmieniając pozycję całym ciałem.
+
+Różdżka pozostała na moment w miejscu, podczas gdy jej ramię i tułów już przesuwały się pod innym kątem.
+
+Moody natychmiast wskazał laską.
+
+— Właśnie.
+
+Hermiona wykorzystała moment.
+
+Nie ruszyła agresywnie.
+
+Zamiast tego zaczęła powoli krążyć wokół Jamesa, cały czas utrzymując różdżkę na tyle stabilnie, by jego wzrok miał wygodny punkt zaczepienia.
+
+Ale jej nogi, biodra i barki pracowały niezależnie.
+
+— Jeśli patrzysz tylko na różdżkę — powiedziała spokojnie — nie widzisz, kiedy zmieniam dystans.
+
+Nie było w tym kpiny.
+
+To była czysta analiza.
+
+Moody prychnął.
+
+— I dlatego mówiłem: całe ciało.
+
+Hermiona zrobiła jeszcze jeden krok.
+
+Potem nagle opuściła różdżkę niżej, niemal do poziomu biodra.
+
+Nie atakowała.
+
+Po prostu sprawdziła, czy oczy Jamesa pójdą za nią w dół.
+
+A sama w tym samym momencie przesunęła się pół kroku bliżej.
+
+Teraz dystans między nimi był zauważalnie mniejszy.
+
+Moody uśmiechnął się krzywo.
+
+— Granger właśnie testuje pana dokładnie tak samo, jak pan wcześniej testował Notta.
+
+Hermiona uniosła różdżkę z powrotem.
+
+— Tylko bez rosyjskiego.
+
+Ron parsknął śmiechem gdzieś z tyłu.
+
+Hermiona nadal obserwowała Jamesa bardzo uważnie.
+
+— Gotowy? — zapytała.
+
+I tym razem trudno było stwierdzić, czy rzeczywiście ostrzegała przed atakiem…
+
+czy właśnie przygotowywała kolejny zwód.
+
+
+
+[C1-M0347]
+===== USER =====
+
+nie słuchałem tego co mówią i cały czas obserwowałem różdżkę
+
+
+
+[C1-M0348]
+===== ASSISTANT =====
+
+James nie reagował ani na komentarz Hermiony, ani na uwagi Moody’ego.
+
+Cała reszta praktycznie przestała mieć znaczenie.
+
+Wzrok pozostawał wbity wyłącznie w koniec jej różdżki.
+
+Hermiona bardzo szybko to potwierdziła.
+
+Przesunęła różdżkę kilka centymetrów w lewo.
+
+Oczy Jamesa podążyły za nią.
+
+Niżej.
+
+Znów to samo.
+
+Hermiona przestała mówić.
+
+Jej wyraz twarzy zmienił się na ten charakterystyczny, skupiony sposób, w jaki podchodziła do problemu, kiedy zaczynała dostrzegać rozwiązanie.
+
+Różdżkę pozostawiła niemal nieruchomo.
+
+Natomiast sama zaczęła się poruszać.
+
+Jeden spokojny krok po łuku.
+
+Drugi.
+
+James nadal miał doskonały widok na jej różdżkę — dokładnie dlatego, że Hermiona pilnowała, by mu go nie odebrać.
+
+Moody patrzył i niczego już nie podpowiadał.
+
+Hermiona przesunęła się jeszcze trochę.
+
+Teraz stała pod wyraźnie innym kątem niż kilka sekund wcześniej, chociaż z perspektywy kogoś śledzącego tylko jej dłoń zmiana mogła być znacznie trudniejsza do zauważenia.
+
+Nagle różdżka wykonała szybki ruch w prawo.
+
+Nie w stronę Jamesa.
+
+Zwykły zwód.
+
+A kiedy jego uwaga podążyła za kawałkiem drewna—
+
+Hermiona wykonała gwałtowny krok z przeciwnej strony.
+
+Różdżka natychmiast wróciła krótkim łukiem.
+
+Moody aż chrząknął.
+
+— O, dobre.
+
+Hermiona była już bardzo blisko.
+
+Nie próbowała żadnego efektownego ruchu. Nie rzuciła zaklęcia. Nie szarpała się z jego różdżką.
+
+Po prostu wykorzystała fakt, że James obserwował narzędzie, a nie osobę, która nim władała.
+
+Końcówka jej różdżki ruszyła krótkim, oszczędnym pchnięciem ku jego ramieniu.
+
+Teraz James mógł ją widzieć doskonale.
+
+Problem polegał na tym, że gdy ją zobaczył wchodzącą na właściwą linię, Hermiona była już niemal w zasięgu trafienia.
+
+Moody milczał.
+
+Nie zatrzymywał próby.
+
+Końcówka różdżki Hermiony była już o kilkanaście centymetrów od ramienia Jamesa.
+
+
+
+[C1-M0349]
+===== USER =====
+
+w moich oczach pojawiła się niemalże ból ugiąłem lekko kolana przez co różdżka Hermiony minęła moje ramię i w tym momencie chwyciłem obiema rękami za jej nadgarstek obróciłem się do niej plecami i przerzuciłem ją przez moje plecy ten ruch był szybki i wyglądał brutalnie ale ja przed tym jak Hermiona uderzyła o ziemię wsunąłem rękę pod jej plecy i to ona przyjęła całą siłę a Hermiona poczuła tylko przez chwilę uczucie bezwładności z trudne powstrzymałem reakcje na ból i wykorzystywać jej szok wyrwałem jej różdżkę z ręki tą drogą ręką w której trzymałem swoją różdżkę a czerwoną rękę ukryłem za plecami mając nadzieję że nikt nie zorientuje się że amortyzowane jej upadek
+
+
+
+[C1-M0350]
+===== ASSISTANT =====
+
+Różdżka Hermiony minęła ramię Jamesa o włos.
+
+W następnej chwili wszystko wydarzyło się bardzo szybko.
+
+Chwyt za nadgarstek. Obrót. Przerzut.
+
+Hermiona nagle straciła grunt pod nogami.
+
+— Co—?!
+
+Jej ciało przeleciało przez plecy Jamesa, ale zamiast twardego uderzenia o kamienną posadzkę spadła znacznie łagodniej, niż sugerował brutalnie wyglądający ruch.
+
+Przez sekundę była kompletnie zdezorientowana.
+
+A potem jej różdżka zniknęła z dłoni.
+
+— STOP! — ryknął Moody.
+
+W sali zapadła cisza.
+
+Ron poderwał się niemal natychmiast.
+
+— Ej!
+
+Harry również zrobił krok do przodu, ale zatrzymał się, widząc, że Hermiona już podnosi się z podłogi.
+
+Wyglądała przede wszystkim na zaskoczoną.
+
+Dotknęła pleców, jakby sprawdzała, dlaczego upadek, który powinien boleć znacznie bardziej, właściwie prawie jej nie zabolał.
+
+Potem spojrzała na Jamesa.
+
+Na własną różdżkę w jego dłoni.
+
+I znowu na niego.
+
+— Ty mnie właśnie… przerzuciłeś?
+
+Moody był już obok.
+
+Jego zwykłe oko patrzyło na Hermionę.
+
+Magiczne—
+
+prosto za plecy Jamesa.
+
+Na ukrytą, zaczerwienioną dłoń.
+
+Profesor nic o niej nie powiedział.
+
+Jeszcze.
+
+— Granger?
+
+— Nic mi nie jest — odpowiedziała szybko, nadal trochę oszołomiona.
+
+Moody skinął głową.
+
+Dopiero potem zwrócił się do Jamesa.
+
+— Skuteczne.
+
+Krótka pauza.
+
+— Ale zdecydowanie bardziej siłowe, niż wymagało tego ćwiczenie.
+
+Jego magiczne oko nadal widziało to, czego James próbował nie pokazywać.
+
+— Dobrze pan wykorzystał moment, kiedy Granger była za blisko, żeby łatwo odzyskać dystans. Rozbrojenie również było poprawne.
+
+Hermiona wstała całkowicie i otrzepała szatę.
+
+Jej spojrzenie przesunęło się jeszcze raz po Jamesie, tym razem bardziej analitycznie.
+
+— Powinnam była przewidzieć, że skoro wcześniej wyrwałeś różdżkę Nottowi ręką, możesz spróbować czegoś fizycznego.
+
+Moody prychnął.
+
+— Właśnie.
+
+Potem spojrzał prosto na Jamesa.
+
+— Ale jest jeszcze druga lekcja.
+
+Krzywy uśmiech zniknął.
+
+— Jeśli już amortyzuje pan czyjś upadek własną ręką, Brown…
+
+jego magiczne oko wykonało znaczący ruch w stronę dłoni ukrytej za plecami
+
+— …proszę nie zakładać, że nikt tego nie zauważy.
+
+Hermiona natychmiast spojrzała na Jamesa uważniej.
+
+
+
+[C1-M0351]
+===== USER =====
+
+znowu spojrzałem na Moody'ego z dużym wyrzutem
+
+
+
+[C1-M0352]
+===== ASSISTANT =====
+
+Moody bez trudu wychwycił to spojrzenie.
+
+Przez moment patrzył na Jamesa całkowicie niewzruszony.
+
+— Tak, tak — mruknął ciszej. — Znowu jestem niesmaczny.
+
+Jego magiczne oko wykonało krótki obrót, ale tym razem profesor najwyraźniej uznał, że powiedział już wystarczająco dużo. Nie dodał ani słowa o ukrytej dłoni.
+
+Hermiona natomiast zdążyła już połączyć jego wcześniejszą uwagę z tym, że James trzyma jedną rękę za plecami.
+
+Zmarszczyła brwi.
+
+— Chwila…
+
+Spojrzała na miejsce, w którym przed momentem wylądowała, potem znowu na Jamesa.
+
+— Dlatego prawie nic nie poczułam?
+
+Ron, który nadal wyglądał na niezadowolonego z całego rzutu, przeniósł wzrok między nimi.
+
+— Co zrobił?
+
+Moody natychmiast uciął:
+
+— Granger jest cała. Ćwiczenie zakończone. To wystarczy.
+
+To skutecznie zamknęło temat dla reszty klasy, choć Hermiona nadal wyglądała tak, jakby zamierzała do niego wrócić.
+
+Profesor wyciągnął rękę w kierunku dwóch różdżek znajdujących się po stronie Jamesa.
+
+— Proszę oddać Granger jej różdżkę.
+
+Potem spojrzał na Hermionę.
+
+— Pani błąd był prosty. Miała pani przeciwnika dokładnie tam, gdzie chciała, i uznała pani, że skoro jego uwaga była ograniczona, to jego możliwości również.
+
+Hermiona skinęła głową, choć wyglądała na lekko zirytowaną własnym błędem.
+
+Moody zwrócił się do Jamesa.
+
+— A pański?
+
+Krótka pauza.
+
+— Pozwolił pan, żeby przeciwniczka znalazła się niemal na celu, zanim zareagował pan w sposób, który kosztował pana więcej, niż powinien.
+
+Jego magiczne oko na moment skierowało się ku schowanej ręce.
+
+Tym razem jednak nie powiedział tego głośno.
+
+— Skuteczne zwycięstwo — podsumował. — Nie ekonomiczne.
+
+Hermiona wyciągnęła dłoń po swoją różdżkę.
+
+I patrzyła teraz na Jamesa zdecydowanie uważniej niż przed rozpoczęciem ćwiczenia.
+
+
+
+[C1-M0353]
+===== USER =====
+
+podałem jej różdżkę lekko skinajac głowę jakby oddając jej pokłon
+
+
+
+[C1-M0354]
+===== ASSISTANT =====
+
+Hermiona przyjęła różdżkę, a lekkie skinienie Jamesa wyraźnie ją zaskoczyło.
+
+Przez krótką chwilę patrzyła na niego, jakby próbowała zdecydować, czy gest był żartem, uprzejmością czy jakimś dziwnym zwyczajem.
+
+— Dzięki — powiedziała w końcu.
+
+Sprawdziła różdżkę jednym szybkim spojrzeniem i wsunęła ją pewniej w dłoń.
+
+Potem jej wzrok przesunął się w stronę ręki, którą James nadal trzymał za plecami.
+
+— I… — zaczęła ciszej, ale zawahała się. — następnym razem możesz po prostu pozwolić mi upaść trochę mniej widowiskowo.
+
+Nie brzmiała na obrażoną. Bardziej na lekko zakłopotaną faktem, że ktoś właśnie przerzucił ją przez plecy na oczach połowy klasy.
+
+Po sekundzie dodała już bardziej rzeczowo:
+
+— Ale ten unik był dobry. Byłam pewna, że cię mam.
+
+Moody prychnął obok.
+
+— I to właśnie jest moment, w którym najczęściej przestaje się mieć przeciwnika, Granger.
+
+Hermiona rzuciła mu krótkie spojrzenie.
+
+— Tak, profesorze. Zauważyłam.
+
+Ron, stojący kawałek dalej, wyglądał na znacznie mniej spokojnego.
+
+— Ja nadal uważam, że rzucanie Hermioną nie powinno być uznawane za normalną technikę obronną.
+
+Harry spojrzał na niego.
+
+— Nic jej nie jest.
+
+— To nie znaczy, że chcę być następny.
+
+Moody stuknął laską o podłogę.
+
+— Weasley, przy pańskich wynikach istnieje całkiem spora szansa, że będzie pan następny niezależnie od własnych preferencji.
+
+Hermiona odwróciła się, żeby wrócić na swoje miejsce, ale po dwóch krokach jeszcze raz spojrzała przez ramię na Jamesa — tym razem przede wszystkim na tę schowaną za plecami rękę.
+
+Nic jednak nie powiedziała.
+
+Moody już wskazywał kolejną parę.
+
+— Dobrze. Następni. I spróbujcie zakończyć ćwiczenie bez lotów przez salę.
+
+
+
+[C1-M0355]
+===== USER =====
+
+gdy nikt nie patrzył obróciłem się plecami do wszystkich i zacząłem machać ręką i klnąć pod nosem
+
+
+
+[C1-M0356]
+===== ASSISTANT =====
+
+James odwrócił się plecami do reszty klasy dopiero wtedy, gdy uwaga wszystkich przeniosła się na kolejną parę.
+
+Dopiero wtedy puścił napięcie.
+
+Zaczerwieniona dłoń zapiekła znacznie mocniej, gdy zaczął nią potrząsać. Przyjęcie na nią ciężaru Hermiony może i oszczędziło jej kontaktu z kamienną podłogą, ale dla ręki Jamesa oznaczało bardzo nieprzyjemne zderzenie z podłożem.
+
+Spod jego oddechu poleciało kilka przekleństw.
+
+Nikt z uczniów nie zareagował.
+
+Ron zajmował się komentowaniem kolejnej próby Harry’emu, Hermiona obserwowała ćwiczących, a Theodore wrócił już na swoje miejsce.
+
+Prawie idealnie.
+
+Z tyłu sali rozległo się tylko ciche:
+
+— Hm.
+
+James nie musiał się odwracać, żeby domyślić się, do kogo należało.
+
+Moody prowadził właśnie ćwiczenie, normalnym okiem patrząc na parę przed sobą.
+
+Jego magiczne oko było obrócone niemal całkowicie do tyłu.
+
+Prosto na Jamesa.
+
+Tym razem profesor jednak niczego nie ogłosił.
+
+Nie powiedział nazwiska.
+
+Nie zwrócił uwagi Hermiony.
+
+Przez moment magiczne oko obserwowało potrząsaną dłonią, po czym wróciło do ćwiczących.
+
+Dopiero gdy Moody przechodził kilka chwil później obok Jamesa, rzucił tak cicho, że słowa zniknęły w hałasie klasy:
+
+— Nie jest złamana.
+
+Stuk drewnianej nogi.
+
+— Ale jeśli zacznie puchnąć, Pomfrey. Bohaterskie ukrywanie urazu przed pielęgniarką jest wyjątkowo głupią metodą leczenia.
+
+Ani razu na niego nie spojrzał.
+
+Po kolejnych dwóch krokach dodał jeszcze ciszej:
+
+— I tym razem niczego nikomu nie powiedziałem.
+
+Po czym, jak gdyby rozmowa nigdy się nie odbyła, ryknął na ucznia po drugiej stronie sali:
+
+— FINNIGAN! Jeśli przeciwnik może przez pięć sekund oglądać pańskie plecy, to nie jest „zmiana pozycji”, tylko zaproszenie!
+
+
+
+[C1-M0357]
+===== USER =====
+
+kiwnąłem głową tym razem dziękując że jego milczenie
+
+
+
+[C1-M0358]
+===== ASSISTANT =====
+
+Moody wychwycił skinienie głowy kątem magicznego oka.
+
+Nie odpowiedział gestem. Jedynie bardzo lekko uniósł brew, jakby przyjmował do wiadomości to nieme podziękowanie.
+
+— Dobrze — mruknął pod nosem. — Skoro już potrafi pan czasem zachować coś dla siebie, może jeszcze zrobi się z pana człowiek nadający się do działania w terenie.
+
+Po chwili znów skupił się na klasie.
+
+Hermiona nadal obserwowała ćwiczącą parę, choć raz jeszcze zerknęła w stronę Jamesa. Tym razem jednak nie próbowała podejść ani pytać o rękę.
+
+Moody przeszedł kawałek dalej i zatrzymał kolejną próbę krótkim:
+
+— Stop!
+
+Potem spojrzał na zegar.
+
+— Wystarczy na dziś.
+
+W klasie od razu rozległ się szmer ulgi i przesuwanych krzeseł.
+
+— Na następnej lekcji wrócimy do reakcji obronnych, ale dołożymy zaklęcia. I wtedy zobaczymy, ilu z was pamięta cokolwiek z tego, czego nauczyliście się bez nich.
+
+Jego magiczne oko przemknęło po Jamesie.
+
+— Brown, pańskiego poziomu jeszcze nie skończyłem oceniać.
+
+Krótka pauza.
+
+— Ale na razie wiem przynajmniej jedno.
+
+Krzywy uśmiech.
+
+— Nudzić się pan raczej nie będzie.
+
+Dzwonek oznajmił koniec lekcji.
+
+
+
+[C1-M0359]
+===== USER =====
+
+Po lekcji zapytałem w sali i dopiero jak wszyscy wyszli ja wyszedłem i od razu skierowałem się do skrzydła szpitalnego
+
+
+
+[C1-M0360]
+===== ASSISTANT =====
+
+James został jeszcze chwilę w sali, pozwalając pozostałym uczniom wyjść przed sobą. Kiedy korytarz nieco opustoszał, sam ruszył w stronę skrzydła szpitalnego.
+
+Dopiero teraz, kiedy adrenalina po ćwiczeniach zaczynała opadać, ręka dawała o sobie znać wyraźniej. Każdy mocniejszy ruch palcami przypominał, ile siły przyjęła podczas amortyzowania upadku.
+
+Kilka minut później James dotarł do znajomych już drzwi skrzydła szpitalnego.
+
+Madam Pomfrey była przy jednym z łóżek, układając świeże bandaże w szafce. Gdy usłyszała kroki, odwróciła się.
+
+Rozpoznała go od razu.
+
+— Pan Brown.
+
+Spojrzała na niego ponad stertą opatrunków.
+
+— Rano pytał mnie pan, z jakich powodów uczniowie zwykle tutaj trafiają.
+
+Krótka pauza.
+
+— Nie spodziewałam się, że postanowi pan przeprowadzić badanie praktyczne jeszcze tego samego dnia.
+
+Odłożyła bandaże.
+
+— Co się stało?
+
+Jej spojrzenie natychmiast przesunęło się po Jamesie — twarz, postura, sposób trzymania rąk. Nie wiedziała jeszcze, że chodzi o ćwiczenie z Hermioną ani co dokładnie wydarzyło się na Obronie.
+
+— I proszę mi nie odpowiadać „nic”, jeśli właśnie przyszedł pan do skrzydła szpitalnego — dodała rzeczowo.
+
+
+
+[C1-M0361]
+===== USER =====
+
+pokazałem czerwoną rękę
+— Normalnie bym to zignorował ale Pan profesor powiedział żebym tu zajrzał, a odnosiie tego co sie stało to pwiedzny że podczas lekcji zostałem bardzo niefortunnie dobrany w parę....
+
+
+
+[C1-M0362]
+===== ASSISTANT =====
+
+Madam Pomfrey spojrzała na wyciągniętą rękę i momentalnie przestała żartować.
+
+— Proszę tutaj.
+
+Podeszła bliżej i ujęła dłoń ostrożnie za nadgarstek, nie naciskając zaczerwienionego miejsca. Najpierw obejrzała skórę, potem wykonała krótki ruch różdżką nad palcami i śródręczem.
+
+Delikatna smuga światła przesunęła się wzdłuż kości.
+
+— Nic złamanego — stwierdziła po chwili. — To już coś.
+
+Poruszyła lekko jednym z palców, sprawdzając reakcję, a następnie przyjrzała się zaczerwienieniu.
+
+— Stłuczenie i przeciążenie. Wygląda tak, jakby ta ręka przyjęła dość gwałtownie czyjś ciężar albo uderzyła płasko w twardą powierzchnię.
+
+Jej wzrok podniósł się na Jamesa.
+
+— A teraz ta część o „bardzo niefortunnym dobraniu w parę”.
+
+Pomfrey zmrużyła oczy.
+
+— Niech zgadnę. Zamiast powiedzieć mi, co się wydarzyło, zamierza pan opowiedzieć wersję tak ogólną, żebym musiała sama wyciągać informacje?
+
+Nie czekała jednak na odpowiedź, zanim ponownie skierowała różdżkę na dłoń.
+
+Chłodne uczucie rozeszło się po zaczerwienionym miejscu, a ból zaczął stopniowo tępieć.
+
+— Który profesor kazał panu przyjść?
+
+Krótka pauza.
+
+— I co dokładnie zrobiła ta „niefortunnie dobrana para”, że skończył pan z ręką wyglądającą, jakby próbował pan złapać kogoś spadającego ze schodów?
+
+Pomfrey spojrzała na niego znacząco.
+
+— Proszę pamiętać, panie Brown: nie oceniam tutaj pańskich decyzji bojowych. Od tego macie nauczycieli. Potrzebuję tylko wiedzieć, jak powstał uraz, żebym nie leczyła połowy problemu.
+
+
+
+[C1-M0363]
+===== USER =====
+
+chwilę się zastanowielme i naprawdę nie mogłem siebie przypomnieć imienia ani nazwiska
+— Ten z magicznym oczkiem, a jeśli chodzi tylko o to jak powstał uraz to rzeczywiście przyjąłem ciężar i uderzyłem o płaską powierzchnię....potrzebuję tylko na chwilę czegoś przeciw bólowego...
+
+
+
+[C1-M0364]
+===== ASSISTANT =====
+
+Madam Pomfrey przez moment patrzyła na Jamesa, jakby próbowała ustalić, czy naprawdę właśnie opisał nauczyciela jako „tego z magicznym oczkiem”.
+
+— Profesor Moody — powiedziała w końcu. — Alastor Moody.
+
+Westchnęła cicho.
+
+— Przypuszczam, że jeśli to on kazał panu tutaj przyjść, to przynajmniej raz wykazał się rozsądkiem.
+
+Ponownie obejrzała dłoń.
+
+— I dobrze. Taki mechanizm urazu pasuje do tego, co widzę. Nie ma złamania ani uszkodzenia stawu.
+
+Otworzyła jedną z szafek i wyjęła mały słoiczek oraz niewielką fiolkę.
+
+— Nie dam panu wyłącznie czegoś przeciwbólowego, żeby mógł pan przez resztę dnia udawać, że ręka jest zdrowa.
+
+Na zaczerwienione miejsce nałożyła cienką warstwę chłodnej maści. Niemal natychmiast pieczenie zaczęło słabnąć.
+
+Potem podała Jamesowi fiolkę.
+
+— Dwa łyki. Nie więcej.
+
+W środku znajdowała się niewielka ilość jasnego eliksiru.
+
+— Ból powinien wyraźnie zmaleć w ciągu kilku minut. Maść zajmie się stłuczeniem. Do wieczora ręka powinna być prawie normalna, o ile nie postanowi pan ponownie amortyzować nią czyjegoś ciężaru.
+
+Pomfrey zatrzymała na nim wzrok.
+
+— I nie potrzebuję nazwiska tej osoby. Skoro profesor nadzorował ćwiczenie i nikomu nic poważnego się nie stało, wystarczy mi mechanizm urazu.
+
+Po chwili dodała sucho:
+
+— Chociaż określenie „niefortunnie dobrany w parę” jest wyjątkowo interesującym sposobem opisania sytuacji, w której to pan skończył ze stłuczoną ręką.
+
+Wskazała fiolkę.
+
+— Proszę wypić. Potem może pan wracać na zajęcia.
+
+
+
+[C1-M0365]
+===== USER =====
+
+wziąłem dwa łyki
+— Powiedzmy że musiałem zrobić coś co wyglądało poważnie żeby nie tracić w oczach innych ale jednocześnie nie mogłem jej skrzywdzić żeby nie stracić w jej oczach....tu urwałem bo zdałem sobie sprawę że powiedziałem jej
+
+
+
+[C1-M0366]
+===== ASSISTANT =====
+
+Madam Pomfrey znieruchomiała na sekundę.
+
+Potem bardzo powoli uniosła wzrok znad jego dłoni.
+
+— Ach.
+
+Jedno krótkie słowo wystarczyło, żeby było jasne, że usłyszała dokładnie tyle, ile James nie chciał powiedzieć.
+
+Nie uśmiechnęła się szeroko ani nie zaczęła wypytywać. Jedynie zakręciła słoiczek z maścią i odstawiła go na miejsce.
+
+— Czyli jednak nie chodziło wyłącznie o niefortunne dobranie w parę.
+
+Jej ton był rzeczowy, choć pojawiła się w nim lekka nuta rozbawienia.
+
+— Spokojnie. Nie potrzebuję nazwiska.
+
+Spojrzała jeszcze raz na jego rękę.
+
+— Ale skoro już pan zdradził tyle, to następnym razem proszę znaleźć sposób, który pozwoli zachować twarz i nie zrobić z własnej dłoni amortyzatora.
+
+Krótka pauza.
+
+— To byłoby znacznie rozsądniejsze.
+
+Pomfrey odsunęła się o krok, najwyraźniej uznając leczenie za zakończone.
+
+— I proszę się nie martwić. Skrzydło szpitalne nie prowadzi kroniki szkolnych zauroczeń.
+
+Spojrzała na niego znacząco.
+
+— Ani nie przekazuję ich zainteresowanym osobom.
+
+Po czym wskazała drzwi.
+
+— Ręka powinna być w porządku. Jeśli ból wróci albo zacznie puchnąć, proszę przyjść ponownie.
+
+Na sam koniec dodała sucho:
+
+— A „jej oczy” proszę następnym razem oszczędzać metodą niewymagającą interwencji medycznej.
+
+
+
+[C1-M0367]
+===== USER =====
+
+kiwnąłem głową lekko się uśmiechając
+— Księga zauroczeń...to by była bardzo ciekawa lektura może powinna Pani jednak zacząć ją prowadzić...
+
+
+
+[C1-M0368]
+===== ASSISTANT =====
+
+Pomfrey spojrzała na Jamesa znad ramienia i przez moment wyglądała, jakby naprawdę rozważała tę sugestię.
+
+— Absolutnie nie.
+
+Zamknęła szafkę nieco mocniej, niż było to konieczne.
+
+— Mam już wystarczająco dużo dokumentacji dotyczącej złamań, zatruć, oparzeń, ukąszeń i idiotycznych pomysłów uczniów. Nie zamierzam dodawać do tego „kto na kogo patrzył przy śniadaniu”.
+
+Krótka pauza.
+
+— Poza tym taka księga byłaby znacznie grubsza niż podręczniki do eliksirów.
+
+W jej oczach pojawiło się jednak lekkie rozbawienie.
+
+— Chociaż przyznaję, że czasami znacznie łatwiej byłoby zrozumieć przyczynę urazu, gdybym miała odpowiednią rubrykę.
+
+Spojrzała znacząco na rękę Jamesa.
+
+— „Powód wizyty: próba zachowania godności przed dziewczyną”.
+
+Uniósł się lekko kącik jej ust.
+
+— Pański przypadek otwierałby pierwszy tom.
+
+Potem machnęła dłonią w stronę drzwi.
+
+— A teraz proszę już iść, zanim naprawdę zacznę robić notatki.
+
+
+
+[C1-M0369]
+===== USER =====
+
+— Dziękuję...powiedziałem cicho i wyszedłem pomieszczenia kierując się do wielkiej sali na obiad
+
+
+
+[C1-M0370]
+===== ASSISTANT =====
+
+Po wyjściu ze skrzydła szpitalnego chłodne działanie maści i eliksiru zaczęło robić swoje. Ręka nadal przypominała o sobie przy mocniejszym zaciskaniu palców, ale ból wyraźnie osłabł.
+
+James ruszył korytarzami w stronę Wielkiej Sali.
+
+Pora obiadowa już się zaczynała. Z kolejnych przejść napływali uczniowie kończący przedpołudniowe lekcje, a im bliżej sali, tym wyraźniejszy stawał się gwar rozmów.
+
+Gdy James wszedł do środka, stoły były częściowo zapełnione.
+
+Przy Slytherinie Draco, Pansy i Theodore zdążyli już usiąść. Theodore zauważył Jamesa pierwszy. Jego wzrok na moment przesunął się na rękę, którą wcześniej widział po ćwiczeniach, ale nie zapytał o nią przy całym stole.
+
+Draco zrobił to za niego.
+
+— Jednak poszedłeś do Pomfrey?
+
+Nie brzmiał szczególnie troskliwie. Bardziej jak ktoś potwierdzający własne przypuszczenie.
+
+Pansy podniosła wzrok znad talerza.
+
+— Po tej lekcji? Wcale mnie to nie dziwi.
+
+Theodore spokojnie dodał:
+
+— Moody chyba osiągnął swój cel. Pierwsza lekcja i już ktoś wylądował w skrzydle szpitalnym.
+
+Po przeciwnej stronie sali przy stole Gryffindoru siedzieli już Harry i Ron. Hermiona właśnie podchodziła do swojego miejsca z książką pod pachą.
+
+Ron powiedział do niej coś, czego z tej odległości nie dało się usłyszeć.
+
+Hermiona odpowiedziała, po czym — siadając — mimowolnie spojrzała w stronę stołu Slytherinu.
+
+Jej wzrok odnalazł Jamesa.
+
+Tym razem zatrzymał się na nim chwilę dłużej.
+
+Potem przesunął się niżej, w kierunku ręki.
+
+Najwyraźniej pamiętała.
+
+Draco tymczasem przesunął się trochę, robiąc przy stole więcej miejsca, ale bez zapraszającego gestu.
+
+— No więc? — zapytał. — Moody cię połamał, czy sam się połamałeś?
+
+
+
+[C1-M0371]
+===== USER =====
+
+— Nikt nikogo nie połamał....powiedziałem zajmując miejsce przy stole po prostu czasami zwycięstwo wymaga poświęcenia...
+
+
+
+[C1-M0372]
+===== ASSISTANT =====
+
+Draco spojrzał na Jamesa, a potem na jego dłoń.
+
+— Brzmi wyjątkowo bohatersko jak na stłuczoną rękę.
+
+Pansy uniosła brew.
+
+— Albo wyjątkowo dramatycznie.
+
+Theodore przez chwilę jadł w milczeniu, po czym odezwał się spokojnie:
+
+— Zależy, co uznajesz za zwycięstwo.
+
+Jego spojrzenie na moment zatrzymało się na Jamesie.
+
+— Z Granger wygrałeś ćwiczenie. Ale skoro zapłaciłeś za to wizytą u Pomfrey, koszt był wyższy niż przy naszych rundach.
+
+Draco prychnął.
+
+— Czyli jednak Nott może się dziś czymś pochwalić. Przynajmniej po walce z nim nie potrzebowałeś pielęgniarki.
+
+Theodore nie podjął zaczepki.
+
+— Jeszcze.
+
+Pansy parsknęła śmiechem.
+
+Po drugiej stronie Wielkiej Sali Hermiona siedziała już przy Gryffindorach. Raz jeszcze spojrzała w stronę Jamesa, ale tym razem szybko wróciła do własnego obiadu, kiedy Ron zaczął coś do niej mówić.
+
+Draco nałożył sobie kolejną porcję jedzenia.
+
+— Przyznam jedno. Moody chyba rzeczywiście znalazł sposób, żeby ten dzień nie był nudny.
+
+Zerknął na Jamesa.
+
+— I mamy dopiero połowę pierwszego dnia.
+
+
+
+[C1-M0373]
+===== USER =====
+
+zacząłem sobie nakładać jedzenie w głowie wciąż mają obraz jak Hermiona odgarnia włosy z twarzy na chwilę przerwałem wszytko inne i skupiłem się na tym wspomnieniu a na moje twarzy pojawl się uśmiech
+
+
+
+[C1-M0374]
+===== ASSISTANT =====
+
+James zaczął nakładać sobie jedzenie, ale po chwili jego ruchy zwolniły.
+
+Wspomnienie prostego gestu Hermiony — odgarnięcia włosów z twarzy i poprawienia rękawa — wróciło z taką wyrazistością, że przez kilka sekund cała reszta Wielkiej Sali zeszła na dalszy plan.
+
+Na jego twarzy pojawił się uśmiech.
+
+Theodore zauważył go pierwszy.
+
+Podniósł wzrok znad talerza, przyjrzał się Jamesowi przez sekundę i ponownie wrócił do jedzenia. Nie powiedział nic.
+
+Pansy była mniej powściągliwa.
+
+— Co cię tak bawi?
+
+Draco spojrzał na Jamesa z boku.
+
+— Chyba nic, co wydarzyło się przy tym stole.
+
+Nie mieli jednak żadnego sposobu, żeby wiedzieć, co dokładnie chodziło Jamesowi po głowie.
+
+Po drugiej stronie sali Hermiona właśnie rozmawiała z Harrym i Ronem. W pewnej chwili sięgnęła po dzbanek z sokiem, przesunęła książkę, która zajmowała zbyt dużo miejsca przy talerzu, i powiedziała coś Ronowi z wyraźnie cierpliwym wyrazem twarzy.
+
+Ron odpowiedział jej gestem sugerującym, że wcale nie zamierza przyznać jej racji.
+
+Harry obserwował ich z rozbawieniem.
+
+Hermiona odwróciła głowę na moment i jej wzrok przypadkiem przesunął się po stole Slytherinu.
+
+Zauważyła Jamesa.
+
+I zauważyła uśmiech.
+
+Nie mogła wiedzieć, skąd się wziął.
+
+Jej spojrzenie zatrzymało się na nim może sekundę, potem wróciła do rozmowy.
+
+Draco tymczasem uniósł kielich.
+
+— Jeżeli po porannej lekcji Moody’ego nadal masz powód do takiej miny, to pierwszy dzień chyba rzeczywiście ci odpowiada.
+
+Theodore odezwał się cicho:
+
+— Albo środek przeciwbólowy od Pomfrey działa lepiej, niż sądziliśmy.
+
+Pansy parsknęła śmiechem.
+
+— To by przynajmniej coś wyjaśniało.
+
+
+
+[C1-M0375]
+===== USER =====
+
+wróciłem na zimie
+— przypomniałem sobie coś z dzieciństwa...powiesiłem i po chwili wróciłem do nakładania jedzenia a potem skupiłem się na konsumpcji
+
+
+
+[C1-M0376]
+===== ASSISTANT =====
+
+Draco uniósł brew, ale nie wyglądał na całkowicie przekonanego.
+
+— Z dzieciństwa — powtórzył. — Jasne.
+
+Pansy spojrzała na niego z lekkim rozbawieniem.
+
+— Bardzo przyjemne wspomnienie, skoro robiłeś przy nim taką minę.
+
+Theodore nie dołączył do przesłuchania. Przez krótką chwilę obserwował Jamesa, po czym wrócił do własnego talerza.
+
+— Każdy ma jakieś — powiedział tylko.
+
+Temat na szczęście nie został pociągnięty dalej.
+
+James mógł spokojnie wrócić do jedzenia.
+
+Wielka Sala żyła własnym rytmem. Przy stole Ravenclawu trwała jakaś dyskusja nad zadaniem, kilku młodszych Puchonów wymieniało się słodyczami, a kawałek dalej dwóch Ślizgonów z piątego roku kłóciło się o tegoroczny skład drużyny quidditcha.
+
+Draco również po chwili przestał interesować się uśmiechem Jamesa.
+
+— Ciekawe, kiedy w końcu przyjadą Durmstrang i Beauxbatons — powiedział, odrywając kawałek pieczywa. — Skoro ojciec naprawdę chodził do Durmstrangu, może rozpoznasz któregoś z nauczycieli.
+
+Pansy spojrzała na Jamesa.
+
+— O ile nadal pracuje tam ktokolwiek z jego czasów.
+
+Theodore jadł dalej, nie dodając niczego.
+
+Po drugiej stronie sali Hermiona zajmowała się już przede wszystkim obiadem i rozmową z Harrym oraz Ronem. Nie wyglądało na to, by dalej zwracała szczególną uwagę na stół Slytherinu.
+
+Przynajmniej przez tę chwilę Jamesowi udało się spokojnie zjeść bez kolejnego nauczyciela, testu albo drewnianego pocisku lecącego w jego stronę.
+
+
+
+[C1-M0377]
+===== USER =====
+
+(kurwa czat proszę się popraw poprzednią wiadomoś albo zwatpie w ludzkość i roboty po prostu popraw jak poprawisz dobrze to wtedy możesz się wytłumaczyć ale jak nie to nie)
+
+
+
+[C1-M0378]
+===== ASSISTANT =====
+
+Draco rzucił Jamesowi krótkie spojrzenie, ale na odpowiedź o wspomnieniu z dzieciństwa tylko wzruszył ramionami.
+
+— Hm.
+
+I na tym temat się skończył.
+
+Pansy wróciła do własnego jedzenia, Theodore również nie zadawał żadnych pytań. Po chwili rozmowa przy ich części stołu przeszła na zupełnie inne rzeczy — zajęcia, Turniej Trójmagiczny i zwykłe szkolne plotki, które nie miały nic wspólnego z Jamesem.
+
+James mógł więc spokojnie skupić się na obiedzie.
+
+Wielka Sala pozostawała głośna. Sztućce uderzały o talerze, setki rozmów mieszały się ze sobą, a uczniowie przy kolejnych stołach zajmowali się własnymi sprawami.
+
+Przy Gryffindorze Harry, Ron i Hermiona również prowadzili własną rozmowę. Hermiona jadła, od czasu do czasu odpowiadając Ronowi albo zaglądając do leżącej obok książki. Nie obserwowała Jamesa ani nie miała powodu wiedzieć, że wcześniejszy uśmiech miał z nią cokolwiek wspólnego.
+
+Obiad przez kilka następnych minut przebiegał po prostu normalnie.
+
+Tak powinienem był to poprowadzić. Popełniłem głównie błąd polegający na tym, że znowu zrobiłem z prostego zdania Jamesa pretekst do dalszego wypytywania go przez Draco i Pansy, mimo że powiedział, że to wspomnienie z dzieciństwa i wrócił do jedzenia. Nie każdy gest Jamesa powinien uruchamiać reakcję całego otoczenia. Do tego Theodore znów dostał niepotrzebnie „dowcipny” komentarz, choć ustaliliśmy, że ma być bardziej powściągliwy. I dorzucony przeze mnie temat Durmstrangu był sztucznym sposobem na utrzymanie rozmowy przy Jamesie zamiast pozwolić światu żyć własnym życiem.
+
+
+
+[C1-M0379]
+===== USER =====
+
+(Nie o to chodzi po pierwsze Draco dokładnie wie kiedy przyjadą inne szkoły bo było to mówione... chyba on sam mi to mowił)
+
+
+
+[C1-M0380]
+===== ASSISTANT =====
+
+Tak — masz rację. To był konkretny błąd ciągłości.
+
+Nawet bez odzyskania tamtej dokładnej wypowiedzi Draco, nie powinienem był napisać:
+
+„Ciekawe, kiedy w końcu przyjadą Durmstrang i Beauxbatons”.
+
+Już na uczcie Dumbledore podał informację o przyjeździe delegacji, więc Draco nie siedziałby kilka godzin później, zastanawiając się, kiedy w ogóle przyjadą. W kanonicznym harmonogramie delegacje przybywają 30 października, a obecnie mamy dopiero początek września 1994. Jeśli — jak pamiętasz — Draco wcześniej sam podał Jamesowi dokładny termin, to błąd jest jeszcze bardziej oczywisty.
+
+Czyli końcówka mojej poprzedniej wiadomości z pytaniem Draco o termin przyjazdu szkół wypada z ciągłości i traktujemy ją, jakby nigdy nie padła.
+
+I dobrze, że mnie złapałeś, bo tym razem problemem nie było nadmierne zainteresowanie Jamesem, tylko zwyczajne zgubienie informacji, którą postać już posiadała.
+
+
+
+[C1-M0381]
+===== USER =====
+
+Ok to powtórz napisz nowa wiadomość od momentu jak odpowiedziałem
+
+
+
+[C1-M0382]
+===== ASSISTANT =====
+
+Draco rzucił Jamesowi krótkie spojrzenie.
+
+— Hm.
+
+Najwyraźniej uznał odpowiedź za wystarczającą. Pansy również nie ciągnęła tematu, a Theodore po prostu wrócił do jedzenia.
+
+James dokończył nakładanie sobie obiadu i skupił się na posiłku.
+
+Przez jakiś czas rozmowa przy stole toczyła się już zupełnie bez jego udziału. Pansy rozmawiała z inną Ślizgonką o jednym z porannych zajęć, Crabbe z Goyle’em spierali się o ostatni kawałek pieczeni, a Draco zaczął komentować Turniej Trójmagiczny.
+
+— I tak będziemy czekać do trzydziestego października — powiedział, sięgając po napój. — Dopiero wtedy przyjadą Beauxbatons i Durmstrang.
+
+Pansy westchnęła.
+
+— Prawie dwa miesiące słuchania, jak wszyscy zastanawiają się, kto wrzuci nazwisko do Czary.
+
+— Większość nawet nie będzie mogła — odparł Draco. — Dumbledore wyraźnie powiedział: siedemnaście lat.
+
+Rozmowa szybko przeszła na starszych uczniów, którzy ich zdaniem mogliby próbować zostać reprezentantem Hogwartu.
+
+Przy stole Gryffindoru również trwało normalne życie. Harry jadł i rozmawiał z Ronem, który najwyraźniej nadal miał coś do powiedzenia na temat lekcji Moody’ego. Hermiona trzymała obok talerza książkę, ale tym razem przynajmniej przez większość obiadu rzeczywiście jadła zamiast czytać.
+
+W pewnym momencie Neville przechodzący za Ronem przypadkiem zahaczył o ławkę.
+
+— Przepraszam.
+
+— Nic się nie stało — odpowiedziała Hermiona, przesuwając swoją torbę, żeby zrobić mu miejsce.
+
+Nic szczególnego. Zwykły obiad pierwszego pełnego dnia zajęć.
+
+Ręka Jamesa pod wpływem środka od Pomfrey bolała już znacznie mniej. Pozostawała lekko tkliwa, ale przy zwyczajnym używaniu sztućców niemal nie przeszkadzała.
+
+Po pewnym czasie do Wielkiej Sali zaczęli wlatywać pierwsi uczniowie spieszący się na popołudniowe zajęcia, a część stołów stopniowo pustoszała.
+
+Draco zerknął w końcu na swój plan.
+
+— Jeszcze trochę czasu.
+
+Złożył pergamin i odłożył go obok talerza.
+
+— Przynajmniej następna lekcja nie powinna wyglądać jak próba zabicia połowy klasy drewnianymi kulkami.
+
+Theodore podniósł na niego wzrok.
+
+— Przy naszym szczęściu nie zakładałbym tego.
+
+I na tym rozmowa znów rozpłynęła się w zwyczajnym gwarze Wielkiej Sali.
+
+
+
+[C1-M0383]
+===== USER =====
+
+*po chwili skończyliśmy jeść i w końcu ruszyliśmy na następną lekcję
+
+
+
+[C1-M0384]
+===== ASSISTANT =====
+
+Po obiedzie uczniowie zaczęli opuszczać Wielką Salę większymi grupami. James ruszył razem ze Ślizgonami, tym razem kierując się nie w głąb zamku, lecz ku wyjściu na błonia.
+
+Z planu wynikało, że następne były Zielarstwo z profesor Sprout.
+
+Powietrze na zewnątrz było wyraźnie chłodniejsze niż w zamku. Grupa przecięła trawnik i skierowała się ku szklarniom, gdzie zbierali się już uczniowie Gryffindoru.
+
+Draco szedł kilka kroków przed Jamesem, rozmawiając z Pansy o Turnieju. Theodore trzymał się bardziej z boku. Tym razem nikt specjalnie nie wracał do porannych wydarzeń.
+
+Przed jedną ze szklarni czekała już profesor Sprout, w znoszonym kapeluszu i roboczej szacie, której rękawy nosiły ślady ziemi.
+
+— Wchodźcie, wchodźcie! — zawołała. — I proszę zostawić torby tam, gdzie nie zostaną zalane, zjedzone ani ukorzenione.
+
+W szklarni panowało wilgotne ciepło. Powietrze pachniało ziemią, nawozem i dziesiątkami roślin ustawionych na półkach oraz stołach.
+
+James zauważył Hermionę przy jednym ze stanowisk razem z Harrym i Ronem, ale profesor Sprout już zaczynała zajęcia.
+
+— Dzisiaj zajmiemy się rośliną, z którą część z was prawdopodobnie zetknęła się wyłącznie w książkach.
+
+Na środkowym stole znajdowały się płytkie misy wypełnione wodą. W każdej pływały niepozorne, szarozielone kępki przypominające splątane wodorosty.
+
+Sprout podniosła jedną.
+
+— Skrzeloziele.
+
+Hermiona natychmiast spojrzała uważniej.
+
+Sprout obróciła roślinę w palcach.
+
+— Zanim ktokolwiek zacznie jej dotykać albo, Merlin broń, wkładać ją do ust…
+
+spojrzała podejrzliwie przede wszystkim w stronę kilku chłopaków z tyłu
+
+— …kto powie mi, co dzieje się z człowiekiem po jej spożyciu?
+
+Kilka rąk uniosło się niemal od razu. Hermiona oczywiście należała do pierwszych.
+
+Sprout rozejrzała się jednak po klasie i jej wzrok zatrzymał się na nowym uczniu.
+
+— Pan Brown, prawda?
+
+Uśmiechnęła się krótko.
+
+— Skoro to pański pierwszy dzień, dajmy panu okazję. Co pan wie o skrzelozielu?
+
+
+
+[C1-M0385]
+===== USER =====
+
+— Najprościej można powiedzieć że pozwala oddychać pod wodą...a dokładnie powoduje że za uszami pojawiają się skrzela a na rękach i nogach błonie po między palcami ułatwiające pływanie...
+
+
+
+[C1-M0386]
+===== ASSISTANT =====
+
+Profesor Sprout skinęła głową, wyraźnie zadowolona z odpowiedzi.
+
+— Tak. Właśnie tak.
+
+Uniósła skrzeloziele trochę wyżej, żeby cała klasa mogła je zobaczyć.
+
+— Po spożyciu organizm tymczasowo przystosowuje się do życia pod wodą. Pojawiają się skrzela, a między palcami dłoni i stóp tworzą się błony, dzięki którym pływanie staje się znacznie łatwiejsze.
+
+Spojrzała ponownie na Jamesa.
+
+— Dobra odpowiedź, panie Brown.
+
+Hermiona, która nadal miała uniesioną rękę, opuściła ją i zerknęła w jego stronę. Tym razem bardziej z czystego zainteresowania wiedzą niż z powodu wcześniejszych wydarzeń na Obronie.
+
+Sprout odłożyła roślinę z powrotem do misy.
+
+— Jest jednak pewien szczegół, o którym warto pamiętać. Sama przemiana może być dla osoby nieprzygotowanej bardzo nieprzyjemna. Pierwsze chwile potrafią sprawiać wrażenie, jakby człowiek nagle przestał móc normalnie oddychać.
+
+Ron skrzywił się.
+
+— Brzmi zachęcająco.
+
+— Dlatego, panie Weasley — odparła Sprout — nie testujemy jej dzisiaj na ochotnikach.
+
+Kilka osób z tyłu klasy wyraźnie wyglądało na rozczarowanych.
+
+Profesor rozdała uczniom rękawice.
+
+— Waszym zadaniem będzie dzisiaj rozpoznać zdrowe fragmenty skrzeloziela, oddzielić uszkodzone części i przygotować próbki do przechowania. Nie chcę żadnego smakowania, żucia ani sprawdzania „czy naprawdę działa”.
+
+Jej spojrzenie przesunęło się po klasie z doświadczeniem osoby, która najwyraźniej wiedziała, że takie ostrzeżenie było potrzebne.
+
+— Dobierzcie się przy stołach i zaczynajcie.
+
+
+
+[C1-M0387]
+===== USER =====
+
+rozejrzałem się po zebranych
+
+
+
+[C1-M0388]
+===== ASSISTANT =====
+
+James rozejrzał się po szklarni.
+
+Uczniowie zaczynali już zajmować miejsca przy roboczych stołach. Każdy mieścił po kilka osób, więc nie tworzyły się sztywne pary.
+
+Draco przesunął się w stronę stanowiska, przy którym byli już Pansy, Crabbe i Goyle. Theodore został przy sąsiednim stole, na razie sam, zakładając rękawice i oglądając leżące przed nim narzędzia.
+
+Po stronie Gryffindoru Harry i Ron stanęli przy jednej z mis. Hermiona była obok nich, ale zamiast od razu zaczynać, przyglądała się skrzelozielu z bliska, najwyraźniej porównując poszczególne fragmenty z tym, co pamiętała z książek. Przy ich stole pozostawało jeszcze wolne miejsce.
+
+Kilka stanowisk dalej Neville wyglądał zdecydowanie bardziej swobodnie niż podczas Obrony; zanim Sprout zdążyła cokolwiek powiedzieć, już rozpoznawał uszkodzone części rośliny.
+
+Profesor chodziła między stołami, rozdając ostatnie przybory.
+
+— Nie musicie stać ze swoim domem — rzuciła, widząc, że część uczniów nadal się rozgląda. — Byle przy każdym stanowisku były najwyżej cztery osoby i żebyście rzeczywiście pracowali.
+
+James miał więc kilka zupełnie naturalnych możliwości wyboru miejsca, a nikt jeszcze nie zwracał szczególnej uwagi na to, dokąd pójdzie.
+
+
+
+[C1-M0389]
+===== USER =====
+
+chwilę się zawachałem ale potem dołączyłem do Notta
+
+
+
+[C1-M0390]
+===== ASSISTANT =====
+
+Po krótkim wahaniu James ruszył do stanowiska Theodore’a.
+
+Nott zauważył go dopiero wtedy, gdy James stanął przy stole. Przesunął jedną z mis odrobinę w bok, robiąc mu miejsce.
+
+— Brown.
+
+Tylko tyle. Bez komentarza o wcześniejszym pojedynku.
+
+Na stole leżało kilka kęp skrzeloziela, mały nóż, pęseta oraz dwa naczynia — jedno na zdrowe fragmenty, drugie na części przeznaczone do odrzucenia.
+
+Theodore założył rękawice i podniósł pierwszą kępę.
+
+— Te ciemniejsze miejsca są chyba uszkodzone.
+
+Nie brzmiał jednak całkowicie pewnie. Obrócił roślinę w palcach, przyglądając się jej strukturze.
+
+Profesor Sprout przechodziła właśnie między stanowiskami.
+
+— Nie kierujcie się samym kolorem! — zawołała do całej klasy. — Zdrowe skrzeloziele potrafi mieć różne odcienie. Patrzcie przede wszystkim na elastyczność i strukturę tkanek.
+
+Theodore spojrzał jeszcze raz na trzymany fragment.
+
+— Czyli jednak nie.
+
+Odłożył go z powrotem i sięgnął po pęsetę.
+
+Kilka stołów dalej Draco pracował z Pansy i pozostałymi Ślizgonami. Przy stanowisku Gryffindoru Hermiona coś tłumaczyła Ronowi, podczas gdy Harry próbował oddzielić jeden z fragmentów bez rozerwania całej rośliny.
+
+Nikt nie robił większej sprawy z tego, że James wybrał miejsce obok Theodore’a.
+
+Nott wskazał jedną z kęp.
+
+— Chcesz zacząć od tej?
+
+
+
+[C1-M0391]
+===== USER =====
+
+kiwnąłem głową bo było mi to obojętne
+
+
+
+[C1-M0392]
+===== ASSISTANT =====
+
+Theodore przyjął skinienie bez komentarza i przesunął wybraną kępę skrzeloziela bliżej Jamesa.
+
+Sam wziął następną.
+
+Przez chwilę przy ich stole panowała cisza, przerywana tylko odgłosami noży, pęset i rozmów z pozostałych stanowisk.
+
+Theodore ścisnął lekko fragment rośliny między palcami w rękawiczce, sprawdzając jej sprężystość zgodnie ze wskazówką Sprout.
+
+— Ta jest zdrowa — powiedział krótko i odłożył ją do właściwego naczynia.
+
+Profesor Sprout przechodziła między stołami, zaglądając uczniom przez ramiona.
+
+— Delikatnie z podstawą! — upomniała kogoś dwa stanowiska dalej. — Jeśli rozerwiecie włókna, próbka będzie bezużyteczna.
+
+Przy stole Gryffindoru Neville radził sobie wyraźnie najlepiej. Hermiona sprawdzała każdą część bardzo metodycznie, Harry pracował trochę wolniej, a Ron kilka razy porównywał swój fragment z tym, który odłożyła Hermiona.
+
+Theodore zerknął na kępę leżącą przed Jamesem.
+
+— Sprout mówiła, żeby patrzeć na strukturę, nie kolor.
+
+Po czym wrócił do własnej pracy, zostawiając Jamesowi jego część bez dalszego instruowania.
+
+
+
+[C1-M0393]
+===== USER =====
+
+chwilę przypatrywałem się we włosy Hermiony a potem skupiłem się na zadaniu
+
+
+
+[C1-M0394]
+===== ASSISTANT =====
+
+Przez krótką chwilę wzrok Jamesa uciekł w stronę Hermiony.
+
+Kilka pasm jej włosów opadało jej na bok twarzy, kiedy pochylała się nad własną próbką skrzeloziela.
+
+Potem James wrócił do swojego stanowiska.
+
+Roślina przed nim była chłodna i wilgotna w dotyku rękawiczek. Przy bliższym obejrzeniu różnice stawały się znacznie bardziej czytelne niż z daleka — zdrowe włókna pozostawały sprężyste, podczas gdy uszkodzone miejsca łatwiej się zapadały i miały nieco mniej jednolitą strukturę.
+
+Theodore pracował obok w ciszy.
+
+James zaczął oddzielać kolejne fragmenty, odkładając zdrowe do jednej misy, a uszkodzone do drugiej.
+
+Po paru minutach profesor Sprout dotarła również do ich stołu.
+
+Najpierw sprawdziła naczynie Theodore’a.
+
+— Dobrze, panie Nott.
+
+Potem przesunęła wzrok na pracę Jamesa.
+
+Podniosła jedną z przygotowanych przez niego części, ścisnęła ją delikatnie w palcach i obejrzała miejsce cięcia.
+
+— Czyste oddzielenie. Bez niepotrzebnego uszkodzenia włókien.
+
+Odłożyła próbkę.
+
+— Proszę tak kontynuować.
+
+I ruszyła dalej.
+
+Theodore zerknął krótko na ich dwa naczynia.
+
+— To chyba jedna z tych lekcji, na których lepiej nie próbować być kreatywnym.
+
+Po wydarzeniach z transmutacji i Obrony komentarz miał całkiem oczywisty kontekst, ale powiedział go spokojnie i zaraz wrócił do pracy.
+
+Kilka stanowisk dalej Sprout właśnie poprawiała technikę Harry’ego, podczas gdy Neville kończył kolejną próbkę znacznie szybciej od większości klasy.
+
+W szklarni ponownie dominował zwyczajny rytm zajęć: szelest roślin, ciche rozmowy i chlupot wody z mis.
+
+James miał przed sobą jeszcze kilka kęp skrzeloziela do przygotowania.
+
+
+
+[C1-M0395]
+===== USER =====
+
+— Co do zasady nie ma tu miejsca na kreatywność...można by jedynie kombinować z zastosowaniem odpadków...rzuciłem i kontynuowałem zadanie
+
+
+
+[C1-M0396]
+===== ASSISTANT =====
+
+Theodore odłożył kolejny uszkodzony fragment do osobnego naczynia.
+
+— Zależy, dlaczego są odpadkami — odpowiedział po chwili. — Uszkodzone mechanicznie to niekoniecznie to samo co zepsute.
+
+Obrócił w palcach jeden z odrzuconych kawałków, ale nie próbował z nim eksperymentować.
+
+— Tylko nie zamierzam sprawdzać tego na sobie.
+
+I na tym skończył temat.
+
+James kontynuował pracę. Kolejne fragmenty trafiały do właściwych naczyń, a z czasem rozpoznawanie zdrowej tkanki stawało się niemal automatyczne.
+
+Profesor Sprout, przechodząc niedaleko, wychwyciła jedynie końcówkę rozmowy.
+
+— I bardzo dobrze, panie Nott.
+
+Wskazała naczynia z odpadami.
+
+— Nie wszystko, czego nie wykorzystujemy do bieżącego zadania, jest bezwartościowe. Część materiału roślinnego wykorzystujemy ponownie do nawozów, część do innych zajęć, a część rzeczywiście trzeba zniszczyć.
+
+Spojrzała po klasie.
+
+— Ale wy niczego z tych naczyń nie zabieracie bez pozwolenia.
+
+Ron, kilka stanowisk dalej, podniósł głowę.
+
+— Kto chciał coś zabierać?
+
+Sprout popatrzyła na niego.
+
+— Po trzydziestu latach uczenia wiem, że najlepiej odpowiadać na to pytanie, zanim ktoś zdąży wpaść na pomysł.
+
+Po czym ruszyła dalej.
+
+Theodore rzucił Jamesowi krótkie spojrzenie.
+
+— Czyli jednak jest trochę miejsca na kreatywność.
+
+Wrócił do skrzeloziela.
+
+— Tylko najwyraźniej nie dla nas.
+
+
+
+[C1-M0397]
+===== USER =====
+
+kontynuowałem zadanie w ciszy
+
+
+
+[C1-M0398]
+===== ASSISTANT =====
+
+James wrócił do pracy i przez kolejne minuty przy ich stanowisku panowała właściwie cisza.
+
+Theodore również nie próbował jej przerywać. Oboje po prostu segregowali kolejne fragmenty skrzeloziela, sprawdzając sprężystość tkanek, odcinając uszkodzone części i układając zdrowe próbki w przygotowanym naczyniu.
+
+W szklarni robiło się coraz cieplej. Szyby lekko zaparowały, a wilgotny zapach ziemi i roślin stawał się coraz bardziej intensywny.
+
+Profesor Sprout krążyła między stołami.
+
+— Ostrożniej, panie Goyle. To skrzeloziele, nie chwasty do wyrwania.
+
+Kilka stanowisk dalej Neville znów radził sobie najlepiej z grupy. Sprout zatrzymała się przy nim na dłużej, oglądając przygotowane próbki.
+
+— Bardzo dobrze, panie Longbottom. Właśnie tak powinno to wyglądać.
+
+Neville wyraźnie się rozpromienił.
+
+Hermiona również pracowała sprawnie, choć trochę wolniej — dokładnie sprawdzała każdy fragment przed odłożeniem go do odpowiedniego naczynia. Harry radził sobie przyzwoicie, a Ron raz jeszcze musiał wyjąć kawałek z niewłaściwej misy po krótkiej uwadze Hermiony.
+
+Po pewnym czasie James i Theodore skończyli ostatnią kępę.
+
+Nott odłożył pęsetę i spojrzał na dwa naczynia.
+
+— Chyba gotowe.
+
+Profesor Sprout podeszła chwilę później i szybko skontrolowała ich pracę.
+
+— Tak. Dobrze posegregowane.
+
+Przykryła naczynie ze zdrowymi fragmentami.
+
+— Zostawcie je tutaj. Zostaną odpowiednio zabezpieczone po zajęciach.
+
+Następnie klasnęła w dłonie.
+
+— Pięć minut do końca! Posprzątać stanowiska, opłukać narzędzia i proszę nie zostawiać kawałków skrzeloziela na podłodze. Nie chcę jutro odkrywać, że coś zaczęło rosnąć pod stołem.
+
+Uczniowie zaczęli porządkować szklarnie.
+
+Theodore zabrał jedno z naczyń do wyznaczonego miejsca, pozostawiając Jamesowi narzędzia do przepłukania.
+
+Lekcja dobiegała spokojnego końca — bez pojedynków, urazów i niespodziewanych testów.
+
+
+
+[C1-M0399]
+===== USER =====
+
+uprzątnąłem stanowisko i opłukałem naczynia
+
+
+
+[C1-M0400]
+===== ASSISTANT =====
+
+James opłukał pęsetę, nóż i pozostałe naczynia, po czym odstawił je na wyznaczone miejsce. Theodore wrócił chwilę później po odłożeniu próbek i bez słowa pomógł przesunąć pustą misę na bok.
+
+Profesor Sprout jeszcze raz obeszła stanowiska.
+
+— Dobrze. Znacznie mniej bałaganu, niż się spodziewałam.
+
+Spojrzała gdzieś w stronę stołu Crabbe’a i Goyle’a.
+
+— W większości.
+
+Po chwili rozległ się dzwonek.
+
+— Na dziś wystarczy. Na następne zajęcia przeczytajcie odpowiedni rozdział o właściwościach roślin wodnych. I przypominam: żadnego wynoszenia próbek.
+
+Drzwi szklarni otworzyły się i do środka wpadło chłodniejsze powietrze z błoni.
+
+Uczniowie zaczęli zbierać torby. Neville wyszedł w wyraźnie lepszym humorze niż po Obronie, Harry z Ronem ruszyli kilka kroków przed Hermioną, a Draco i Pansy dołączyli do grupy Ślizgonów wracającej w stronę zamku.
+
+Theodore zarzucił torbę na ramię.
+
+— Przynajmniej tym razem nikt nie potrzebował skrzydła szpitalnego.
+
+Rzucił to sucho, po czym sam ruszył ku wyjściu.
+
+Na zewnątrz grupy zaczęły się rozdzielać zgodnie z dalszymi zajęciami, a pierwszy pełny dzień lekcji nadal jeszcze się nie skończył.
+
+
+

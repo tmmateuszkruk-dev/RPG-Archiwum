@@ -1,8 +1,10 @@
 # Ron Weasley
 
-Stan C13-M1029. Wzmianki nie są dowodem wiedzy.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
 
 Rola: Gryfon, prefekt, przyjaciel Harry’ego i Hermiony.
+
+Charakter: Zachować wielokrotny konflikt z Jamesem, ale także inne cechy i przyjaźnie. Nie wymuszać ponownych pierwszych odkryć związku.
 
 Granice wiedzy: Nie ma potwierdzonego wyznania miłości Hermionie ani romansu. Nie zna prywatnych ustaleń pary; nie wiedział, że Parszywek był Pettigrew.
 

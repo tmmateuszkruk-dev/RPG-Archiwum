@@ -1,8 +1,10 @@
 # Harry Potter
 
-Stan C13-M1029. Wzmianki nie są dowodem wiedzy.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
 
 Rola: Gryfon, przyjaciel Rona i Hermiony, uczestnik Turnieju.
+
+Charakter: Zachowywać kolejne rozmowy i współpracę z Jamesem, własną lojalność wobec przyjaciół i upór.
 
 Granice wiedzy: Nie słyszał prywatnych pomysłów wieloryba/ośmiornicy ani rozmów pary. Wnioski o Ronie nie są wyznaniem Rona.
 

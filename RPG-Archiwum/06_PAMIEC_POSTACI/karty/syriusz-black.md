@@ -1,8 +1,10 @@
 # Syriusz Black
 
-Stan C13-M1029. Wzmianki nie są dowodem wiedzy.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
 
 Rola: Ojciec chrzestny Harry’ego, animag
+
+Charakter: James już zna jego niewinność i psią postać; nie odgrywać pierwszego odkrycia przy każdym spotkaniu.
 
 Granice wiedzy: Brak ujawnienia Jamesowi kryjówki i pełnej działalności Zakonu.
 

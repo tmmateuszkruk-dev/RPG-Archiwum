@@ -1,0 +1,3327 @@
+[C2-M0801]
+===== ASSISTANT =====
+
+Draco zatrzymał widelec w połowie drogi do ust i bardzo powoli spojrzał na Jamesa.
+
+— Nie wiem, czy to był komplement, czy wyjątkowo skomplikowana obelga.
+
+Pansy parsknęła śmiechem.
+
+— To było zdecydowanie jedno i drugie.
+
+Theodore nawet nie podniósł wzroku znad talerza.
+
+— Brown właśnie stwierdził, że natura nie zdołała stworzyć niczego wystarczająco brzydkiego, żeby zasłużyło na imię Draco.
+
+Draco zmrużył oczy.
+
+— Dziękuję, Nott. Sam potrafię interpretować zniewagi.
+
+— Najwyraźniej potrzebowałeś chwili.
+
+Pansy uśmiechnęła się szerzej.
+
+Draco odłożył widelec.
+
+— Dobrze, Brown. W takim razie mam nadzieję, że jeśli McGonagall kiedyś każe nam transmutować pawie, będziesz miał dość przyzwoitości, żeby jeden dostał twoje imię.
+
+
+
+[C2-M0802]
+===== USER =====
+
+Pokręciłem głową - Może kiedyś jakiś kot dostanie moje i nie imię a nazwisko nazwę go Brown....
+
+
+
+[C2-M0803]
+===== ASSISTANT =====
+
+Pansy od razu spojrzała na Jamesa.
+
+— Kot nazwany Brown?
+
+Draco uniósł brew.
+
+— To brzmi jak zwierzę, które siedziałoby cały dzień przy kominku, patrzyło na wszystkich z pogardą i ignorowało polecenia.
+
+Theodore spokojnie odłożył widelec.
+
+— Czyli całkiem trafnie.
+
+Draco zerknął na niego.
+
+— Mówiłem o kocie.
+
+— Ja też.
+
+Pansy parsknęła śmiechem.
+
+— Tylko błagam, nie nazywaj go James. Jeden wystarczy.
+
+Kawałek dalej przy stole Gryffindoru Ron najwyraźniej usłyszał fragment rozmowy i rzucił głośniej:
+
+— Dopóki nie nazwiesz kolejnego zwierzęcia Ron, popieram ten pomysł!
+
+
+
+[C2-M0804]
+===== USER =====
+
+-O ile następne zwierzę nie będzie osłem to możesz być spokojny!
+
+
+
+[C2-M0805]
+===== ASSISTANT =====
+
+Ron odwrócił się przy stole Gryffindoru tak szybko, że Harry aż spojrzał na niego z boku.
+
+— Osłem?!
+
+Pansy wybuchnęła śmiechem, a Theodore tylko pokręcił głową.
+
+— Sam się o to prosiłeś — rzucił Draco, wyraźnie zadowolony, że tym razem to nie on był celem.
+
+Ron wskazał widelcem w stronę stołu Slytherinu.
+
+— Dobra, Brown. Zapamiętam to.
+
+Harry spojrzał na niego.
+
+— Co zrobisz?
+
+Ron zawahał się.
+
+— Jeszcze nie wiem.
+
+Hermiona, która do tej pory próbowała skupić się na własnym obiedzie, westchnęła.
+
+— Ron, naprawdę nie musisz odpowiadać na każdą zaczepkę.
+
+— Nazwał mnie osłem!
+
+— Powiedział, że jeśli następnym zwierzęciem będzie osioł, wtedy może dostać twoje imię.
+
+Ron spojrzał na nią z niedowierzaniem.
+
+— Hermiono, to nie jest lepsze.
+
+Przy stole Slytherinu Theodore mruknął:
+
+— Technicznie jest precyzyjniejsze.
+
+Draco parsknął śmiechem.
+
+
+
+[C2-M0806]
+===== USER =====
+
+Przypomnijcie jakie jeszcze lekcję?
+
+
+
+[C2-M0807]
+===== ASSISTANT =====
+
+Theodore spojrzał na Jamesa znad talerza.
+
+— Po obiedzie jeszcze Zaklęcia z Flitwickiem, potem Historia Magii z Binnsem, a na końcu Zielarstwo ze Sprout.
+
+Draco od razu dodał:
+
+— A potem ty znikasz do Londynu.
+
+Pansy skinęła głową.
+
+— Gringott. Masz zgodę na wyjazd po ostatniej lekcji.
+
+Theodore doprecyzował spokojnie:
+
+— Autoryzowana Sieć Fiuu. Bank i te sprawy, które musisz załatwić przed przyjęciem. Więc po Zielarstwie nie masz już żadnych zajęć.
+
+Draco sięgnął po kielich.
+
+— Innymi słowy: trzy lekcje i potem możesz wreszcie przekonać gobliny, żeby oddały ci trochę twoich własnych pieniędzy.
+
+
+
+[C2-M0808]
+===== USER =====
+
+-cieskie zadanie ale wykonalne obiad i następne lekcję minęły szybko gdy tylko skończyła się lekcja zielarstwa skierowałem się do Dormitorium założyłem płaszcz szaliki i rękawiczki a potem wziąłem dokumenty i skiwrowalem się do szkolnej sieci fiuu
+
+
+
+[C2-M0809]
+===== ASSISTANT =====
+
+Po ostatnim dzwonku korytarze zaczęły się już przerzedzać. Większość uczniów kierowała się do pokojów wspólnych albo Wielkiej Sali, więc droga przez zamek była wyraźnie spokojniejsza niż pomiędzy lekcjami.
+
+Punkt szkolnej Sieci Fiuu znajdował się w niewielkim pomieszczeniu używanym do zatwierdzonych podróży poza teren Hogwartu. Kominek płonął już zielonkawym ogniem, a obok na stoliku stało metalowe naczynie z proszkiem Fiuu.
+
+Nie był jednak pozostawiony bez nadzoru.
+
+Snape stał przy biurku pod ścianą z jakimś pergaminem w dłoni. Gdy James wszedł, profesor podniósł wzrok.
+
+— Brown.
+
+Jego spojrzenie szybko przesunęło się po płaszczu, szaliku i dokumentach.
+
+— Widzę, że przynajmniej nie zamierza pan pojechać do Londynu w szkolnej szacie i udawać, że grudzień jest sugestią.
+
+Odłożył pergamin.
+
+— Zgoda jest aktywna. Powrót również przez zatwierdzone połączenie. Gringott, potem rozsądny czas na sprawy związane z pańskim… przedsięwzięciem.
+
+Nieznacznie zwęził oczy.
+
+— „Rozsądny” nie oznacza zwiedzania całego Londynu do północy.
+
+Snape wskazał naczynie z proszkiem.
+
+— Połączenie prowadzi do publicznego punktu Fiuu na Pokątnej. Stamtąd Gringott jest kilka minut pieszo.
+
+Krótka pauza.
+
+— I proszę wymawiać nazwę miejsca wyraźnie. Nie mam ochoty później tłumaczyć dyrektorowi, dlaczego znalazł się pan w cudzym kominku w Yorkshire.
+
+
+
+[C2-M0810]
+===== USER =====
+
+lekko się usniechnąłem a potem stanąłem w kominku i rzuciłem proszek wymawiając wyraźnie nazwę
+
+
+
+[C2-M0811]
+===== ASSISTANT =====
+
+Zielony płomień wystrzelił wyżej, obejmując wnętrze kominka bez zwykłego żaru.
+
+Kamienne ściany pomieszczenia zniknęły.
+
+Przez kilka sekund wokół przesuwały się kolejne kominki — urywki obcych wnętrz, światła, sylwetki — wszystko rozciągnięte w szybkim, wirującym ciągu.
+
+Potem ruch gwałtownie zwolnił.
+
+Zielony ogień opadł i szkolny kominek został zastąpiony szerokim paleniskiem w jednym z publicznych punktów Sieci Fiuu na Pokątnej.
+
+Wokół panował zupełnie inny gwar niż w Hogwarcie. Dorośli czarodzieje przechodzili w obie strony, ktoś otrzepywał sadzę z płaszcza po własnej podróży, zza drzwi dochodził uliczny hałas.
+
+Na zewnątrz było już wyraźnie zimniej i ciemniej niż w ciągu dnia. Witryny sklepów świeciły ciepłym światłem, a nad ulicą unosiły się pojedyncze zaczarowane lampy.
+
+I dalej, ponad niższymi budynkami Pokątnej, trudno było przeoczyć biały gmach Gringotta.
+
+Droga do banku była otwarta.
+
+
+
+[C2-M0812]
+===== USER =====
+
+długo się nie zastanawiałem i szybko skiwrowalem się do banku
+
+
+
+[C2-M0813]
+===== ASSISTANT =====
+
+Krótki spacer przez Pokątną wystarczył, by biały gmach Gringotta wyrósł przed Jamesem ponad sąsiednimi sklepami. Za wejściem rozciągała się ogromna marmurowa sala bankowa, z długimi stanowiskami goblinów zajmujących się klientami, dokumentami, monetami i kluczami. 
+Harry Potter
++1
+
+O tej porze nie było już tak tłoczno jak w środku dnia, ale bank zdecydowanie wciąż pracował. Kilku czarodziejów czekało przed stanowiskami; z głębi budynku dochodził metaliczny stuk monet i skrzypienie piór.
+
+Przy jednym z wolnych stanowisk goblin skończył właśnie przeglądać dokumenty starszego czarodzieja. Kiedy tamten odszedł, goblin podniósł wzrok na kolejnego klienta, nie okazując ani szczególnego zainteresowania, ani uprzejmości ponad to, czego wymagała praca.
+
+— Następny.
+
+
+
+[C2-M0814]
+===== USER =====
+
+podszedłem - Dzień dobry, albo już dobry wieczór....
+
+
+
+[C2-M0815]
+===== ASSISTANT =====
+
+Goblin spojrzał na Jamesa znad cienkich okularów.
+
+— Dla banku pora dnia ma niewielkie znaczenie.
+
+Jego wzrok przesunął się na trzymane dokumenty.
+
+— Cel wizyty?
+
+Sięgnął po pusty formularz i położył go przed sobą.
+
+— Wypłata, dostęp do skrytki, depozyt, dokumentacja własności… czy coś mniej typowego?
+
+
+
+[C2-M0816]
+===== USER =====
+
+Wypłata ale pieniądze są w skarbcu więc zakładam że musze dostać się do niego osobiście?
+
+
+
+[C2-M0817]
+===== ASSISTANT =====
+
+Goblin spojrzał na niego uważniej.
+
+— Jeżeli środki znajdują się bezpośrednio w pańskim skarbcu i nie ma ustanowionego osobnego zlecenia wypłat, to tak.
+
+Przesunął formularz odrobinę na bok.
+
+— Musimy najpierw potwierdzić pańskie prawo dostępu. Następnie jeden z pracowników zaprowadzi pana do skarbca. Kwotę może pan pobrać na miejscu, a po powrocie zostanie ona odnotowana.
+
+Wyciągnął dłoń ponad ladą.
+
+— Nazwisko właściciela skarbca oraz dokument potwierdzający dostęp, proszę.
+
+
+
+[C2-M0818]
+===== USER =====
+
+Brown....powiedziałem i podałem mu dokumenty
+
+
+
+[C2-M0819]
+===== ASSISTANT =====
+
+Goblin przyjął dokumenty bez komentarza i zaczął przeglądać je jeden po drugim.
+
+Najpierw nazwisko.
+
+Potem pieczęcie.
+
+Później numery zapisane drobnym pismem na jednym z arkuszy. Przy tym zatrzymał się nieco dłużej i sięgnął do grubego rejestru leżącego pod ladą.
+
+Przewrócił kilka stron.
+
+Jego palec przesunął się w dół kolumny.
+
+— Brown…
+
+Jeszcze jedna strona.
+
+Tym razem goblin uniósł wzrok znad papierów i spojrzał na Jamesa wyraźnie uważniej niż wcześniej.
+
+— To nie jest zwykły skarbiec osobisty.
+
+Ponownie zerknął do dokumentów.
+
+— Dostęp rodzinny. Stara umowa depozytowa. Kilka dodatkowych zabezpieczeń.
+
+Nie brzmiało to jak zachwyt; raczej jak stwierdzenie, że obsługa tej wizyty będzie bardziej pracochłonna.
+
+Wyciągnął niewielki formularz.
+
+— Dokumenty potwierdzają pańskie nazwisko. Muszę jeszcze sprawdzić zgodność uprawnień z aktualnym rejestrem właścicieli.
+
+Sięgnął po mały mosiężny dzwonek i zadzwonił raz.
+
+Po chwili z bocznego przejścia pojawił się drugi goblin.
+
+Pierwszy podał mu jeden z dokumentów.
+
+— Rejestr Brownów. Głęboki poziom. Potwierdzenie dostępu.
+
+Drugi goblin spojrzał na nazwisko, potem na Jamesa.
+
+— Proszę zaczekać.
+
+I zniknął za drzwiami prowadzącymi w głąb banku.
+
+Pierwszy goblin położył pozostałe dokumenty przed sobą.
+
+— Jeżeli rejestr się zgadza, zejdzie pan do skarbca osobiście. Przy tej kategorii depozytu nie będziemy wybierać środków za pana.
+
+
+
+[C2-M0820]
+===== USER =====
+
+-Rozumiem....
+
+
+
+[C2-M0821]
+===== ASSISTANT =====
+
+Po krótkiej chwili z bocznego przejścia wrócił drugi goblin, niosąc wąski pergamin z kilkoma odciśniętymi pieczęciami.
+
+Podał go pierwszemu bez słowa.
+
+Ten przeczytał dokument, porównał jeszcze raz z papierami Jamesa i w końcu zamknął rejestr.
+
+— Uprawnienia potwierdzone.
+
+Zebrał dokumenty w równy stos i oddał je przez ladę.
+
+— Dostęp bez ograniczenia do rodzinnego skarbca Brownów. Wypłata środków dozwolona.
+
+Drugi goblin został przy stanowisku.
+
+— Ja pana zaprowadzę.
+
+Odwrócił się w stronę ciężkich drzwi prowadzących dalej w głąb Gringotta.
+
+Za nimi marmurowa elegancja głównej sali szybko ustępowała surowszym kamiennym korytarzom. Dalej było już zejście w stronę podziemnych tras banku.
+
+Goblin zatrzymał się przy niewielkim wagoniku stojącym na szynach.
+
+— Skarbiec Brownów znajduje się na jednym z głębszych poziomów. Podróż chwilę potrwa.
+
+Wskazał miejsce w wagoniku.
+
+— Proszę wsiadać.
+
+
+
+[C2-M0822]
+===== USER =====
+
+wsiadłem za nim
+
+
+
+[C2-M0823]
+===== ASSISTANT =====
+
+Goblin usiadł z przodu wagonika i pociągnął niewielką dźwignię.
+
+Metalowe koła szarpnęły po szynach.
+
+Wagonik ruszył najpierw powoli, po czym niemal od razu nabrał prędkości. Kamienne ściany zaczęły przemykać po obu stronach, a światło lamp rozmieszczonych w tunelu pojawiało się i znikało w regularnych odstępach. Trasa opadała coraz głębiej, raz gwałtownie skręcając, raz przechodząc przez długie proste odcinki.
+
+Goblin najwyraźniej nie widział żadnego powodu do prowadzenia rozmowy podczas jazdy.
+
+Po dłuższym czasie wagonik zwolnił na rozgałęzieniu, zjechał na boczny tor i ruszył jeszcze głębiej. Tutaj mijanych drzwi było znacznie mniej, za to każde wyglądało masywniej od poprzedniego.
+
+W końcu koła zapiszczały o szyny i wagonik zatrzymał się przed kamiennym podestem.
+
+Goblin wysiadł pierwszy.
+
+Przed nimi znajdował się krótki korytarz zakończony dużymi, starymi drzwiami skarbca. Nie było na nich wielkiego napisu ani ozdobnej tabliczki — jedynie niewielkie oznaczenie bankowe przy framudze.
+
+Goblin zatrzymał się przed wejściem i spojrzał na Jamesa.
+
+— Od tego miejsca obowiązują zabezpieczenia przypisane bezpośrednio do skarbca. Bank potwierdził pańskie prawo dostępu. Teraz skarbiec musi potwierdzić pana.
+
+Odsunął się pół kroku od drzwi.
+
+— Proszę podejść.
+
+
+
+[C2-M0824]
+===== USER =====
+
+podszedłem
+
+
+
+[C2-M0825]
+===== ASSISTANT =====
+
+Gdy James znalazł się przed samymi drzwiami, przez kilka sekund nie wydarzyło się nic.
+
+Goblin patrzył na niewielką, ciemną płytkę osadzoną obok zamka. Po chwili na jej powierzchni pojawiły się cienkie srebrne linie, układające się w kilka starych znaków.
+
+Goblin zerknął na nie, potem na dokument, który nadal trzymał.
+
+— Rejestr rozpoznał uprawnionego właściciela.
+
+Nie sięgnął jednak do zamka.
+
+— Teraz autoryzacja osobista. Pańska rodzina nie korzystała tutaj ze zwykłego klucza skarbcowego.
+
+Wskazał płytkę przy drzwiach.
+
+— Proszę położyć na niej dłoń. Jeśli zabezpieczenia pana zaakceptują, drzwi otworzą się bez mojej ingerencji.
+
+
+
+[C2-M0826]
+===== USER =====
+
+położyłem dłoń
+
+
+
+[C2-M0827]
+===== ASSISTANT =====
+
+Przez pierwszą sekundę płytka pozostawała zupełnie zimna i ciemna.
+
+Potem srebrne znaki pod dłonią rozbłysły jeden po drugim.
+
+Gdzieś wewnątrz drzwi odezwał się niski, ciężki klik. Zaraz po nim drugi, trzeci i czwarty — jakby kilka niezależnych zamków właśnie zwolniło swoje blokady. Goblin obserwował cały proces bez ingerencji.
+
+— To wystarczy.
+
+Kamienne obramowanie lekko zadrżało. Masywne drzwi zaczęły powoli odsuwać się do wnętrza, odsłaniając skarbiec Brownów.
+
+Nie przypominał niewielkiej komory przeznaczonej wyłącznie na stosy galeonów. Przestrzeń ciągnęła się znacznie dalej: półki z księgami i zamkniętymi skrzyniami, stare pudła oraz szkatuły, kolekcje przedmiotów przechowywanych przez rodzinę od pokoleń. W głębi dało się dostrzec także charakterystyczne serpentynowe rzeźby i długie szeregi zabezpieczonych futerałów, w których przechowywano rodzinne różdżki.
+
+Pieniądze zajmowały własną część skarbca — nie były jednak jedyną ani nawet najbardziej rzucającą się w oczy jego zawartością.
+
+Goblin pozostał przy wejściu.
+
+— Skarbiec jest otwarty. Może pan wejść i pobrać potrzebną kwotę.
+
+Po krótkiej pauzie dodał rzeczowo:
+
+— Nie będę pana poganiał, ale przed wyjściem bank musi odnotować wartość wypłaty.
+
+
+
+[C2-M0828]
+===== USER =====
+
+wszedłem do środka a potem podszedłem do jednej z wieży z galeonów i zacząłem je pakować do sakiewki
+
+
+
+[C2-M0829]
+===== ASSISTANT =====
+
+Galeony zaczęły znikać z wieży jeden po drugim, z charakterystycznym metalicznym brzękiem wpadając do sakiewki. Stos stopniowo się obniżał, ale przy rozmiarze całej części skarbca różnica nadal była niewielka.
+
+Goblin pozostał przy wejściu i nie próbował ingerować.
+
+— Proszę pobrać tyle, ile pan potrzebuje — powiedział rzeczowo. — Przy wyjściu ustalimy dokładną wartość wypłaty i wpiszemy ją do rejestru.
+
+W głębi skarbca panowała niemal całkowita cisza, przerywana tylko stukiem przesuwanych monet.
+
+
+
+[C2-M0830]
+===== USER =====
+
+po jakimś czasie skończyłem zabierając dokładnie 5000 galeonów ale z racji tego że sakiewka była magiczna nie było tego widać ani czuć wyszedłem ze skarbca
+
+
+
+[C2-M0831]
+===== ASSISTANT =====
+
+Goblin czekał dokładnie tam, gdzie wcześniej, przy wejściu do skarbca. Gdy James wyszedł, jego spojrzenie przesunęło się na sakiewkę, ale po jej wyglądzie nie dało się ocenić, ile monet znalazło się w środku.
+
+— Skończone?
+
+Spojrzał następnie na otwarty skarbiec i przygotowany wcześniej formularz.
+
+— W takim razie pozostaje wpis do rejestru. Ile galeonów pan pobrał?
+
+
+
+[C2-M0832]
+===== USER =====
+
+5000....
+
+
+
+[C2-M0833]
+===== ASSISTANT =====
+
+Goblin nie zareagował szczególnie na samą wysokość kwoty. Jedynie zapisał ją drobnym, równym pismem na formularzu.
+
+— Pięć tysięcy galeonów.
+
+Spojrzał na magiczną sakiewkę.
+
+— Przy tej ilości nie będziemy oczywiście liczyć monet ręcznie.
+
+Obok wejścia do skarbca wysunął z kamiennej ściany niewielką mosiężną płytę pokrytą runami bankowymi.
+
+— Proszę położyć sakiewkę tutaj. Urządzenie sprawdzi wyłącznie liczbę i rodzaj pobranych monet. Nie ingeruje w pozostałą zawartość sakiewki.
+
+Goblin położył formularz obok.
+
+— Jeżeli wynik wyniesie pięć tysięcy galeonów, zatwierdzę wypłatę i możemy wracać na górę.
+
+
+
+[C2-M0834]
+===== USER =====
+
+położyłem sakiewkę
+
+
+
+[C2-M0835]
+===== ASSISTANT =====
+
+Runy na mosiężnej płycie rozjarzyły się kolejno, a spod sakiewki przeszedł krótki, złotawy błysk.
+
+Po kilku sekundach na powierzchni pojawił się zapis:
+
+5000 GALLEONÓW
+
+Goblin zerknął na wynik, potem na formularz.
+
+— Zgadza się.
+
+Postawił przy kwocie niewielki znak bankowy i odsunął sakiewkę z płyty.
+
+— Wypłata zatwierdzona.
+
+Następnie odwrócił się ku otwartym drzwiom skarbca. Srebrne znaki przy framudze zaczęły gasnąć, a ciężkie zabezpieczenia powoli wracały na swoje miejsca.
+
+— Proszę zabrać sakiewkę. Wracamy na górę.
+
+
+
+[C2-M0836]
+===== USER =====
+
+*wziąłem sakiewkę i otworzyłem swój notatnik i też zapisałem* tak z ciekawości ma pan tam kwotę ile zostało?
+
+
+
+[C2-M0837]
+===== ASSISTANT =====
+
+Goblin zerknął na notatnik Jamesa, a potem otworzył swój rejestr na wcześniejszej stronie.
+
+— Mam zapis ostatniego zinwentaryzowanego stanu oraz wszystkich późniejszych operacji — odpowiedział. — Ale przy tak starym skarbcu rodzinnym nie istnieje jedna automatycznie aktualizowana liczba obejmująca wszystko, co znajduje się za tymi drzwiami.
+
+Przesunął paznokciem po jednej z kolumn.
+
+— Bank dokładnie rejestruje wpłaty i wypłaty. Nie przelicza jednak bez przerwy monet przechowywanych luzem w prywatnym skarbcu, zwłaszcza gdy znajdują się tam również przedmioty, kruszce i inne aktywa.
+
+Spojrzał na Jamesa.
+
+— Mogę podać panu ostatni oficjalnie potwierdzony stan monetarny pomniejszony o dzisiejsze pięć tysięcy, jeżeli o to pan pyta. To jednak nie musi być dokładnie tym samym, co fizyczna liczba galeonów znajdujących się obecnie w skarbcu, jeżeli od ostatniej inwentaryzacji dokonywano tam zmian bez osobnej wyceny.
+
+
+
+[C2-M0838]
+===== USER =====
+
+Poproszę....
+
+
+
+[C2-M0839]
+===== ASSISTANT =====
+
+Goblin przesunął palcem niżej po kolumnie, zatrzymał się przy jednej z pozycji i przez moment sprawdzał jeszcze wcześniejsze wpisy.
+
+— Ostatnia pełna inwentaryzacja środków pieniężnych…
+
+Przeliczył coś szybko na marginesie, uwzględniając właśnie zatwierdzoną wypłatę.
+
+— Po odjęciu dzisiejszych pięciu tysięcy galeonów: 487 316 240 galeonów.
+
+Podniósł wzrok znad rejestru, jakby właśnie podał stan przeciętnego rachunku.
+
+— To wyłącznie środki zapisane jako monety. Nie obejmuje wartości przedmiotów, metali szlachetnych, ksiąg, artefaktów ani pozostałej zawartości skarbca.
+
+Po chwili dodał:
+
+— I, jak wspomniałem, jest to ostatni oficjalnie potwierdzony stan. Fizyczna suma może się nieznacznie różnić.
+
+Goblin zamknął rejestr.
+
+— Pańskie pięć tysięcy stanowi więc… stosunkowo mało istotną zmianę.
+
+
+
+[C2-M0840]
+===== USER =====
+
+-Tak zauważyłem ale muszę pana ucieszyć mam zapisaną dokładnie tą samą sumę powiedziałem i zamknąłem notatnik
+
+
+
+[C2-M0841]
+===== ASSISTANT =====
+
+Goblin zerknął na zamknięty notatnik, potem na własny rejestr.
+
+— W takim razie przynajmniej jedno z nas nie będzie musiało wyjaśniać rozbieżności księgowych.
+
+Na jego twarzy nie pojawił się uśmiech, ale ton był odrobinę mniej chłodny niż wcześniej.
+
+Schował formularz z wypłatą do odpowiedniej przegródki.
+
+— Pięć tysięcy galeonów zostało odnotowane. Stan zgadza się z pańskimi zapiskami i z naszym rejestrem.
+
+Odwrócił się w stronę wagonika.
+
+— Jeżeli nie zamierza pan dziś sprawdzać pozostałych kilkuset milionów ręcznie, możemy wracać na górę.
+
+
+
+[C2-M0842]
+===== USER =====
+
+lekko się zaśmiałem i skierowałem do wagonika chyba nie starczyło by mi życia
+
+
+
+[C2-M0843]
+===== ASSISTANT =====
+
+Goblin wszedł do wagonika za Jamesem i usiadł z przodu.
+
+— Przy ręcznym liczeniu? Zapewne nie.
+
+Pociągnął za dźwignię.
+
+— Dlatego Gringott zatrudnia księgowych.
+
+Wagonik szarpnął i ruszył z powrotem po torach, szybko nabierając prędkości. Kamienne ściany znów zaczęły przemykać po obu stronach, a zakręty wyrzucały wagonik raz w jedną, raz w drugą stronę.
+
+Po chwili goblin odezwał się ponownie, nie odwracając głowy.
+
+— Chociaż gdyby ktoś naprawdę próbował przeliczyć czterysta osiemdziesiąt siedem milionów galeonów pojedynczo, bank prawdopodobnie zdążyłby zmienić procedury kilka razy, zanim dotarłby do połowy.
+
+Dalszą część drogi odbyli już przy huku metalowych kół.
+
+W końcu wagonik zaczął zwalniać, a przed nimi pojawiło się jaśniejsze przejście prowadzące z powrotem ku głównej części banku.
+
+
+
+[C2-M0844]
+===== USER =====
+
+-Dziekuje kiwnąlem głową a potem skierowałem się do wyjścia
+
+
+
+[C2-M0845]
+===== ASSISTANT =====
+
+Goblin odpowiedział jedynie krótkim skinieniem głowy.
+
+— Gringott życzy spokojnego wieczoru, panie Brown.
+
+W głównej sali banku ruch był już mniejszy niż przy wejściu. Kilka stanowisk pozostawało czynnych, ale część goblinów porządkowała dokumenty i zamykała rejestry.
+
+Za ciężkimi drzwiami czekała chłodna Pokątna. Witryny sklepów rzucały ciepłe światło na bruk, a liczba przechodniów wyraźnie malała wraz z późniejszą porą.
+
+Sakiewka z 5000 galeonów była już zabezpieczona, a w notatniku widniał aktualny zapis stanu skarbca.
+
+Gringott został za plecami; reszta zatwierdzonych spraw w Londynie nadal czekała.
+
+
+
+[C2-M0846]
+===== USER =====
+
+szybko skierowałem się do sklepu z mugolskim rzeczami i zacząłem się pi nim rozglądać zinteresoealemy mnie pewien zestaw uderznia dzialajsce podobnie do gramofonów i mikrofon do nich oraz jakiś japoński wynalezak zwany karaoke
+
+
+
+[C2-M0847]
+===== ASSISTANT =====
+
+Sklep wyglądał zupełnie inaczej niż większość lokali na Pokątnej. Zamiast kociołków, piór i fiolek na półkach stały dziwne prostokątne urządzenia z przyciskami, przewodami i metalowymi antenami. W jednym rogu wisiała nawet niewielka tabliczka:
+
+SPRZĘT MUGOLSKI — PRZYSTOSOWANY DO UŻYTKU W ŚRODOWISKU MAGICZNYM
+
+Największy zestaw przyciągał uwagę od razu. Składał się z dwóch sporych głośników, centralnego urządzenia z odtwarzaczem kaset i płyt oraz osobnego wzmacniacza. Obok leżały dwa przewodowe mikrofony.
+
+Sprzedawca, starszy czarodziej w kamizelce, zauważył zainteresowanie.
+
+— To mugole nazywają wieżą stereo. W pewnym sensie rzeczywiście robi to samo co gramofon, tylko znacznie głośniej i z większej liczby nośników.
+
+Wskazał kolejną część zestawu.
+
+— Kasety magnetofonowe, płyty kompaktowe, radio. Ten egzemplarz został dodatkowo zabezpieczony przed typowymi zakłóceniami magicznymi. W Hogwarcie zwykła mugolska elektronika potrafiłaby zachowywać się… kapryśnie.
+
+Potem stuknął palcem w niewielką skrzynkę stojącą obok.
+
+Na niej widniał napis:
+
+KARAOKE SYSTEM
+
+— A to jest ciekawsze.
+
+Sprzedawca podniósł jeden z mikrofonów.
+
+— Japoński pomysł. Urządzenie odtwarza muzykę bez głównego wokalu, a człowiek śpiewa do mikrofonu zamiast wykonawcy. W wersji mugolskiej tekst może być wyświetlany na ekranie, ale my mamy również wersję zaczarowaną.
+
+Wskazał niewielką płaską tablicę przypominającą czarne lustro.
+
+— Słowa piosenki pojawiają się tutaj linijka po linijce. Nie potrzeba telewizora.
+
+Na sąsiedniej półce znajdowało się kilkadziesiąt kaset i płyt opisanych między innymi jako ROCK, POP, DANCE, OLDIES oraz KARAOKE COLLECTION.
+
+Sprzedawca spojrzał na Jamesa.
+
+— Jeśli chodzi panu o coś na większą imprezę, ten zestaw może obsłużyć znacznie większe pomieszczenie niż zwykły gramofon. Mikrofony można też podłączyć równocześnie, więc dwie osoby mogą… niestety… śpiewać jednocześnie.
+
+
+
+[C2-M0848]
+===== USER =====
+
+-ile za tą przyjemność?
+
+
+
+[C2-M0849]
+===== ASSISTANT =====
+
+Sprzedawca zmierzył wzrokiem cały zestaw, jakby w głowie jeszcze raz podliczał poszczególne elementy.
+
+— Wieża, dwa głośniki, wzmacniacz, dwa mikrofony i zaczarowany moduł karaoke… siedemdziesiąt dwa galeony.
+
+Wskazał półkę z nagraniami.
+
+— W tej cenie dorzucę pięć wybranych płyt albo kaset karaoke. Kolejne po jednym galeonie za sztukę, chyba że bierze pan większy pakiet.
+
+Uniósł palec.
+
+— I jeszcze jedno: jeśli sprzęt ma trafić do Hogwartu, zostawię zabezpieczenia przeciw zakłóceniom magicznym aktywne. Bez tego byłby znacznie tańszy, ale również znacznie bardziej bezużyteczny.
+
+
+
+[C2-M0850]
+===== USER =====
+
+Dobra *wyjąłem 150 galeonów*  potrzebuję jeszcze czegoś żeby to wygodnie zabrać i poproszę do tego jakieś hity które wszyscy znają
+
+
+
+[C2-M0851]
+===== ASSISTANT =====
+
+Sprzedawca spojrzał na stos galeonów, a potem od razu zaczął odkładać kolejne elementy zestawu.
+
+— Za sto pięćdziesiąt możemy zrobić to porządnie.
+
+Spod lady wyciągnął dużą, sztywną walizę. Po otwarciu wyglądała na znacznie głębszą, niż pozwalały na to jej zewnętrzne wymiary.
+
+— Rozszerzone wnętrze, zabezpieczenie przed uderzeniami. Zmieści wieżę, głośniki, mikrofony, przewody i nagrania. Całość będzie ważyła przy przenoszeniu mniej więcej tyle co zwykła torba podróżna.
+
+Następnie przeszedł do półki z płytami i kasetami.
+
+— A jeśli przez „wszyscy znają” rozumie pan rzeczy, przy których mugolska młodzież nie będzie patrzyła na siebie i pytała „co to jest?”, zrobię mieszankę starszych pewniaków i rzeczy aktualnych.
+
+Zaczął odkładać nagrania. Wśród starszych znalazły się między innymi Queen, ABBA, Michael Jackson, Wham!, Bon Jovi, Madonna, Nirvana, Haddaway i 2 Unlimited.
+
+Potem dołożył kilka zdecydowanie świeższych:
+
+— Whigfield — „Saturday Night”. Tego jesienią praktycznie nie dało się uniknąć.
+
+Singiel wszedł na brytyjską listę we wrześniu 1994 od razu na pierwsze miejsce i utrzymywał się wysoko przez kolejne tygodnie. 
+Official Charts
+
+— Wet Wet Wet — „Love Is All Around”. Jeśli ktoś w Wielkiej Brytanii w tym roku tego nie słyszał, prawdopodobnie mieszkał pod kamieniem.
+
+Utwór był już przebojem od maja 1994 i spędził aż piętnaście tygodni na pierwszym miejscu brytyjskiej listy. 
+Official Charts
+
+Dalej odłożył Blur — „Girls & Boys” oraz Oasis — „Live Forever” — oba utwory były już wydane i notowane w Wielkiej Brytanii wcześniej w 1994 roku. 
+Official Charts
++1
+
+Na końcu sięgnął po kilka naprawdę aktualnych nagrań.
+
+— A jeżeli chce pan coś, co jest popularne właśnie teraz…
+
+Wyciągnął Baby D — „Let Me Be Your Fantasy”.
+
+— Numer jeden w tym tygodniu.
+
+I rzeczywiście, na brytyjskiej liście obejmującej 27 listopada–3 grudnia 1994 zajmował pierwsze miejsce. Obok znajdowały się wtedy między innymi The Stone Roses — „Love Spreads”, The Real McCoy — „Another Night” i Pato Banton — „Baby Come Back”. 
+Official Charts
++1
+
+Sprzedawca sięgnął jeszcze po jedną płytę.
+
+— Mam również świeżutkie East 17 — „Stay Another Day”. Dopiero wyszło.
+
+Singiel został wydany 21 listopada 1994, więc 2 grudnia był już dostępny, choć jego największy świąteczny sukces miał dopiero nadejść. 
+Official Charts
+
+Po chwili obok sprzętu leżał już całkiem pokaźny stos nagrań.
+
+— Sprzęt, waliza transportowa, zestaw przewodów, dwa mikrofony i porządny pakiet muzyki oraz wersji karaoke. Za pańskie sto pięćdziesiąt galeonów zmieszczę wszystko bez dokładania ceny.
+
+Spojrzał na górę stosu.
+
+— I żadnych piosenek, które zostaną napisane za rok. Tego jeszcze nawet my nie sprzedajemy.
+
+
+
+[C2-M0852]
+===== USER =====
+
+Potrzebuję też coś dla młodzieży z Francji i Europy wschodniej....
+
+
+
+[C2-M0853]
+===== ASSISTANT =====
+
+Sprzedawca pokiwał głową, tym razem odkładając część wcześniejszego stosu na bok.
+
+— Słusznie. „Europa” to trochę za szeroka kategoria, żeby wrzucić wszystkim tę samą kasetę i oczekiwać szczęścia.
+
+Podszedł do drugiego regału.
+
+— Dla Francuzów dorzuciłbym rzeczy, które rzeczywiście są teraz rozpoznawalne: Youssou N'Dour i Neneh Cherry — „7 Seconds”, IAM — „Je danse le mia”, trochę MC Solaara, w tym „Nouveau Western”. To nie jest wyłącznie muzyka do skakania, ale francuska młodzież przynajmniej nie będzie miała wrażenia, że cały wieczór przygotował ktoś znający Francję wyłącznie z mapy.
+
+Dołożył kilka kolejnych nagrań.
+
+— A Europa Wschodnia jest jeszcze bardziej skomplikowana. Polak, Rosjanin i Czech niekoniecznie będą chcieli tego samego. Mogę jednak zrobić rozsądny przekrój.
+
+Wyciągnął pierwszą płytę.
+
+— Edyta Górniak — „To nie ja!”. Polska, ten rok. Po Eurowizji trudno jej tam nie kojarzyć.
+
+Potem sięgnął po kasetę opisaną cyrylicą.
+
+— Dla rosyjskojęzycznych kilka popularnych nagrań z początku lat dziewięćdziesiątych. Choćby На-На — „Фаина”. Nie jest tegoroczne, ale nadal jest wystarczająco rozpoznawalne, żeby grupa młodych ludzi wiedziała, co właśnie leci.
+
+Na koniec zgarnął kilka bardziej międzynarodowych pozycji.
+
+— I przede wszystkim Eurodance. To będzie pański najbezpieczniejszy most między narodowościami: Dr. Alban, 2 Unlimited, Culture Beat, Cappella, Ace of Base, Corona. Przy tym Francuz, Niemiec, Polak czy ktoś z Durmstrangu ma znacznie większą szansę znać refren niż przy próbie trafienia w jeden lokalny przebój.
+
+Spojrzał na rozrastający się stos.
+
+— Zrobię więc trzy części: francuską, środkowo- i wschodnioeuropejską oraz międzynarodowy zestaw taneczny. Do karaoke wybiorę głównie te ostatnie, bo zmuszanie pół sali do śpiewania po francusku albo rosyjsku może być zabawne tylko przez pierwsze trzy minuty.
+
+Uniósł jedną brew.
+
+— Chociaż, jeśli właśnie o to panu chodzi, mogę oczywiście przygotować również kilka takich.
+
+
+
+[C2-M0854]
+===== USER =====
+
+Może pan dać kilka
+
+
+
+[C2-M0855]
+===== ASSISTANT =====
+
+Sprzedawca skinął głową.
+
+— Oczywiście. Kilka wystarczy, żeby ktoś mógł zaskoczyć resztę sali, ale nie zamienimy całego zestawu w konkurs językowy.
+
+Do stosu dołożył kilka specjalnie przygotowanych kaset karaoke.
+
+— Po francusku: IAM — „Je danse le mia”, MC Solaar — „Nouveau Western” i starsze, ale nadal bardzo znane Vanessa Paradis — „Joe le taxi”.
+
+Sięgnął następnie po kasety opisane cyrylicą.
+
+— Z rosyjskich dam На-На — „Фаина”, a także Кино — „Группа крови” i „Пачка сигарет”. Te dwie są starsze, ale dla młodzieży ze wschodu zdecydowanie bardziej rozpoznawalne niż przypadkowa nowość.
+
+Na koniec dorzucił jeszcze jedną.
+
+— I skoro mamy reprezentować trochę więcej niż dwa kraje: polska Edyta Górniak — „To nie ja!”. Tegoroczna i po Eurowizji bardzo łatwa do rozpoznania.
+
+Zaczął układać wszystkie nagrania w rozszerzonej walizie.
+
+— Każda z tych wersji ma podkład bez głównego wokalu oraz tekst przystosowany do tego zaczarowanego wyświetlacza. Jeśli ktoś zna język, może śpiewać. Jeśli nie zna…
+
+Spojrzał na mikrofony.
+
+— Cóż. Wtedy pańska impreza może stać się znacznie ciekawsza.
+
+
+
+[C2-M0856]
+===== USER =====
+
+-ok bardzo Panu dziękuję....i to 150 starczy?
+
+
+
+[C2-M0857]
+===== ASSISTANT =====
+
+Sprzedawca spojrzał jeszcze raz na cały przygotowany zestaw, szybko przeliczył coś na kartce i skinął głową.
+
+— Tak. Sto pięćdziesiąt galeonów wystarczy za wszystko.
+
+Wskazał po kolei na zapakowane rzeczy.
+
+— Wieża, dwa głośniki, wzmacniacz, dwa mikrofony, system karaoke z zaczarowanym wyświetlaczem, zabezpieczona waliza transportowa oraz cały zestaw nagrań — brytyjskich, międzynarodowych, francuskich i wschodnioeuropejskich.
+
+Przesunął stos monet w swoją stronę.
+
+— Umówiliśmy się na sto pięćdziesiąt, więc nie będę teraz doliczał panu kilku galeonów dlatego, że dołożyliśmy parę piosenek.
+
+Zamknął walizę i zabezpieczył zatrzaski.
+
+— Wszystko gotowe.
+
+
+
+[C2-M0858]
+===== USER =====
+
+-Bardzo Panu dziękuję....powiedziałem a potem wziąłem walizkę i po chwili opuściłem sklep kierując się do jednej z leoszych restauracji -wszedlem do środka i zbliżyłem się do lady.... Dzień dobry...
+
+
+
+[C2-M0859]
+===== ASSISTANT =====
+
+Za ladą stała elegancko ubrana czarownica w średnim wieku, a za nią widać było wejście do głównej sali restauracji — znacznie spokojniejszej i bardziej uporządkowanej niż przeciętny lokal na Pokątnej. Z kuchni dochodził zapach pieczonego mięsa, przypraw i świeżego pieczywa.
+
+Kobieta spojrzała na Jamesa, potem na walizkę, ale nie skomentowała jej.
+
+— Dobry wieczór.
+
+Uśmiechnęła się uprzejmie.
+
+— Stolik dla jednej osoby, czy chciałby pan coś zamówić na wynos?
+
+
+
+[C2-M0860]
+===== USER =====
+
+-Wie Pani przychodzę z innym interesem....zjaladam że nie realizujecie dużych zamówień na imprezy?
+
+
+
+[C2-M0861]
+===== ASSISTANT =====
+
+Kobieta uniosła lekko brwi, po czym jej uprzejmy uśmiech zmienił się w bardziej zawodowy.
+
+— Realizujemy, choć zależy, co rozumie pan przez „duże”.
+
+Sięgnęła spod lady po niewielki notes.
+
+— Przyjęcia, bankiety, wesela, spotkania ministerialne… takie rzeczy się zdarzają. Możemy przygotować jedzenie na miejscu i wydać do transportu albo, jeśli lokalizacja na to pozwala, zorganizować dostawę.
+
+Spojrzała na Jamesa uważniej.
+
+— Potrzebowałabym tylko wiedzieć: na ile osób, na kiedy i czy mówimy o pełnym posiłku, czy raczej o jedzeniu, które można podawać przez kilka godzin podczas przyjęcia.
+
+
+
+[C2-M0862]
+===== USER =====
+
+500 i Chodzi raczej o przekąski jakieś małe dania na raz....i zależało by mi żeby dania nie obejmowały tylko kuchni angielskiej ale też coś z Europy kontynentalnej najlepiej z Francji a potem Europy wschodniej....
+
+
+
+[C2-M0863]
+===== ASSISTANT =====
+
+Kobieta przestała już traktować rozmowę jak zwykłe pytanie o catering i otworzyła notes na czystej stronie.
+
+— Pięćset osób to już pełnoprawny bankiet, ale tak, jesteśmy w stanie to zrobić.
+
+Zaczęła szybko notować.
+
+— Jeśli zależy panu na rzeczach, które da się jeść na stojąco albo między tańcami, proponowałabym głównie małe porcje: tartaletki, paszteciki, małe kanapki, pieczone warzywa, sery, mięsa na zimno, drobne desery. Z Francji można dorzucić choćby mini quiche, gougères, małe croque-monsieur, tartaletki z cebulą albo serem.
+
+Przewróciła stronę.
+
+— Z Europy Wschodniej możemy przygotować małe pierogi, paszteciki z kapustą i grzybami, bliny w małych porcjach, krokiety, pieczone ziemniaki z dodatkami i kilka rzeczy mięsnych. Nic zbyt ciężkiego, jeśli ludzie mają potem tańczyć przez kilka godzin.
+
+Spojrzała znad notesu.
+
+— Przy pięciuset osobach nie robiłabym po jednym rodzaju z każdego kraju, tylko większy wybór i po prostu uzupełniała półmiski w trakcie.
+
+Po chwili dodała:
+
+— Potrzebuję jeszcze trzech rzeczy: daty, miejsca dostawy i mniej więcej budżetu. Przy tej liczbie gości różnica między „porządnie” a „bardzo wystawnie” robi się dość znacząca.
+
+
+
+[C2-M0864]
+===== USER =====
+
+podałem datę i zaznaczyłem że zaczyna sie dopiero po północy -Budżet praktycznie nie ogrniczony... tylko problem jest taki że ja bardzo nie lubię marnować żywności....
+
+
+
+[C2-M0865]
+===== ASSISTANT =====
+
+Kobieta przy dacie zatrzymała pióro na moment.
+
+— Po północy… rozumiem. To nawet trochę pomaga, bo nie musimy przygotowywać wszystkiego na jedną konkretną minutę.
+
+Kiedy usłyszała ostatnie zdanie, skinęła głową zdecydowanie.
+
+— W takim razie nie przygotowywałabym jedzenia dla pięciuset osób tak, jakby pięćset osób miało usiąść jednocześnie do stołu. Przy przyjęciu z przekąskami byłoby to niemal gwarantowane marnotrawstwo.
+
+Zaczęła kreślić coś w notesie.
+
+— Możemy zrobić to etapami. Pierwsza dostawa wystarczająca mniej więcej dla trzystu osób, z rozsądnym zapasem najpopularniejszych rzeczy. Resztę przygotujemy częściowo — farsze, ciasto, porcje, składniki — ale nie będziemy wszystkiego kończyć ani podgrzewać.
+
+Spojrzała znad kartki.
+
+— Jeśli okaże się, że rzeczywiście przyszło czterysta pięćdziesiąt czy pięćset osób, druga partia może zostać dostarczona później. Jeżeli przyjdzie mniej, nie zostanie nam góra gotowego jedzenia, której nikt nie zje.
+
+Dopisała kolejną uwagę.
+
+— Mogę też zrobić więcej rzeczy, które dobrze znoszą przechowanie: sery, pieczywo, część tartaletek, paszteciki, niektóre desery. Natomiast rzeczy, które po kilku godzinach tracą jakość, będą wychodziły małymi partiami.
+
+Po chwili dodała:
+
+— A to, co zostanie nietknięte i bezpieczne do dalszego użycia, możemy zabrać z powrotem. Niektóre produkty wykorzystamy następnego dnia, inne można przekazać. Nie ma powodu wyrzucać jedzenia tylko dlatego, że bankiet się skończył.
+
+Jeszcze raz spojrzała na zapisane 500.
+
+— Czyli potraktuję pięćset jako maksymalną liczbę gości, a nie jako liczbę porcji, które muszą czekać gotowe o północy.
+
+Kącik jej ust lekko się uniósł.
+
+— To jest znacznie rozsądniejsze zamówienie.
+
+
+
+[C2-M0866]
+===== USER =====
+
+-ok a jak to wygląda u was z transportem macie jakieś magiczne talerze spytałem bo znałem system jaki jest w Hogwarcie
+
+
+
+[C2-M0867]
+===== ASSISTANT =====
+
+Kobieta pokiwała głową.
+
+— Mamy coś podobnego, choć nie dokładnie taki system jak w Hogwarcie.
+
+Odłożyła pióro i wskazała zaplecze.
+
+— Przy większych zamówieniach używamy zaczarowanych półmisków i pojemników transportowych. Utrzymują temperaturę, nie pozwalają potrawom wyschnąć i można je zakląć tak, żeby po dotarciu na miejsce same rozłożyły się na przygotowanych stołach.
+
+Zawahała się chwilę.
+
+— Możemy też przygotować zestaw naczyń połączonych z naszym zapleczem na czas konkretnego przyjęcia. Wtedy kolejne partie jedzenia pojawiają się na wskazanych półmiskach po naszej stronie, bez konieczności wożenia za każdym razem całych skrzyń. Ale to wymaga wcześniejszego ustawienia obu końców i zgody właściciela miejsca.
+
+Spojrzała na zapisany termin.
+
+— Przy pięciuset potencjalnych gościach i pańskiej niechęci do marnowania jedzenia właśnie to byłoby najlepsze. Pierwsza partia trafia na miejsce przed rozpoczęciem, a później uzupełniamy tylko to, co rzeczywiście schodzi.
+
+Dodała jeszcze:
+
+— Jeśli miejsce ma własną magię transportową podobną do szkolnej kuchni, możemy się do niej dostosować, ale potrzebowalibyśmy kogoś na miejscu, kto pokaże nam, z czym możemy się bezpiecznie połączyć.
+
+
+
+[C2-M0868]
+===== USER =====
+
+Odnośnie sposobu dostawy dam jeszcze znać wysyłając sowę....
+
+
+
+[C2-M0869]
+===== ASSISTANT =====
+
+Kobieta skinęła głową i dopisała przy zamówieniu krótką adnotację.
+
+— W porządku. W takim razie sposób dostawy pozostawiam jako „do potwierdzenia sową”. Termin i wielkość zamówienia mogę już zarezerwować.
+
+Przesunęła palcem po zapisanych ustaleniach.
+
+— Pięćset osób maksymalnie, przekąski i małe dania, kuchnia brytyjska, francuska oraz wschodnioeuropejska, przygotowanie partiami tak, żeby ograniczyć marnowanie żywności. Początek po północy.
+
+Spojrzała znad notesu.
+
+— Proszę tylko nie zostawiać kwestii transportu do samego dnia przyjęcia. Jeśli mamy przygotować połączenie magiczne albo specjalne naczynia, potrzebujemy czasu na sprawdzenie wszystkiego.
+
+Po chwili dodała:
+
+— Gdy dostaniemy sowę z ostateczną decyzją, odeślemy potwierdzenie wraz z dokładnym zestawieniem menu i ceną. Na razie zamówienie mogę wpisać jako wstępnie zatwierdzone.
+
+
+
+[C2-M0870]
+===== USER =====
+
+Jeśli mma być szczery to wolał bym jux Teraz zapłacić więce proszę mi powiedzieć ile za to wyjdzie najdrożej?
+
+
+
+[C2-M0871]
+===== ASSISTANT =====
+
+Kobieta spojrzała jeszcze raz na notatki, tym razem wyraźnie licząc już wariant najdroższy.
+
+— Jeśli mam podać panu kwotę tak, żebyśmy na pewno nie musieli później prosić o dopłatę, przyjmę pełne pięćset osób, najdroższy wariant menu, kilka rodzajów mięs, sery, desery, francuskie i wschodnioeuropejskie dodatki, przygotowanie nocne oraz najbardziej wymagający wariant magicznego transportu.
+
+Przez chwilę pisała cyfry na marginesie.
+
+— Tysiąc dwieście galeonów.
+
+Podniosła wzrok.
+
+— To jest celowo zawyżony pułap. Realny rachunek prawdopodobnie wyjdzie niższy, szczególnie jeśli nie zużyjemy pełnego zapasu dla pięciuset osób.
+
+Przesunęła notes w bok.
+
+— Jeżeli chce pan zapłacić teraz całe 1200, wpiszę to jako przedpłatę. Po przyjęciu rozliczymy rzeczywiste zużycie i niewykorzystaną część zwrócimy albo pozostawimy jako kredyt u nas — jak pan woli.
+
+Dodała z lekkim uśmiechem:
+
+— Przy pańskim podejściu do marnowania jedzenia nie zamierzam nagle przygotować pięciuset porcji kawioru tylko dlatego, że budżet na to pozwala.
+
+
+
+[C2-M0872]
+===== USER =====
+
+wyjąłem dwa tysiące i położyłem na ladzie -uznajmy że to napiwek i zapomniałem wspomnieć że są też potrzebne alkohole ale tylko te lekkie
+
+
+
+[C2-M0873]
+===== ASSISTANT =====
+
+Kobieta spojrzała na stos monet i przez moment po prostu milczała.
+
+— Dwa tysiące?
+
+Przeliczyła je wzrokiem, po czym pokręciła głową.
+
+— Przy rachunku maksymalnym na poziomie tysiąca dwustu to nie jest napiwek, tylko drugi rachunek.
+
+Nie zgarnęła od razu wszystkiego do kasy. Najpierw dopisała coś do zamówienia.
+
+— Mogę przyjąć 1200 galeonów jako pełną przedpłatę, a pozostałe osiemset zapisać jako dobrowolną gratyfikację, skoro pan nalega. Ale będzie to wyraźnie odnotowane. Nie chcę, żeby za miesiąc ktoś stwierdził, że restauracja omyłkowo pobrała osiemset galeonów za kilka tac pasztecików.
+
+Dopiero wtedy przeszła do drugiej kwestii.
+
+— Alkohol zmienia zamówienie trochę bardziej.
+
+Pióro znów ruszyło.
+
+— Jeżeli przez „lekkie” rozumie pan rzeczy typu piwo kremowe, słabszy cydr, lekkie wino podawane w małych porcjach albo poncz o niskiej zawartości alkoholu, możemy to przygotować. Mocnych trunków nie dorzucę do takiego zamówienia bez wyraźnego potwierdzenia organizatora miejsca.
+
+Spojrzała na niego uważniej.
+
+— Zwłaszcza jeśli mówimy o przyjęciu związanym z Hogwartem.
+
+Dopisała na marginesie:
+
+ALKOHOL: WYŁĄCZNIE LEKKI — BEZ OGNISTEJ WHISKY I MOCNYCH TRUNKÓW
+
+— Mogę też zrobić większość napojów bezalkoholowych, a alkoholowe ustawić osobno. Wtedy nikt nie bierze ich przypadkiem, my łatwiej kontrolujemy ilość i nadal nie zamawiamy pięciuset porcji czegoś, czego połowa gości nie będzie chciała.
+
+Przesunęła notatnik tak, żeby było widać nowy dopisek.
+
+— To pasuje do reszty zamówienia. Potrzebuję tylko, żeby w sowie dotyczącej transportu znalazło się również potwierdzenie, że miejsce zezwala na taki zakres napojów. Wtedy z naszej strony wszystko będzie czyste.
+
+
+
+[C2-M0874]
+===== USER =====
+
+Ok super, bardzo Pani dziękuję... jeśli zdążę to jeszcze dzisiaj osoba zarządzająca wyśle informacje
+
+
+
+[C2-M0875]
+===== ASSISTANT =====
+
+Kobieta skinęła głową i zamknęła notes z zamówieniem.
+
+— Doskonale. Jeśli wiadomość dotrze jeszcze dziś, od razu dopiszemy szczegóły transportu i napojów do zamówienia. Jeśli jutro rano, również nie będzie problemu.
+
+Spojrzała jeszcze raz na zapisane ustalenia.
+
+— Mamy termin, maksymalną liczbę gości, charakter menu, ograniczenie marnowania żywności, lekkie alkohole i przedpłatę. Brakuje nam już właściwie tylko sposobu dostarczenia oraz potwierdzenia miejsca.
+
+Po chwili dodała uprzejmie:
+
+— Gdy sowa przyjdzie, odeślemy pisemne potwierdzenie wszystkiego, żeby żadna ze stron nie musiała później polegać na pamięci.
+
+Przesunęła w jego stronę niewielki kwit potwierdzający przyjęcie pieniędzy i rezerwację terminu.
+
+— I proszę zachować to do czasu ostatecznego rozliczenia.
+
+
+
+[C2-M0876]
+===== USER =====
+
+wziąłem od niej pokiwitowanie a potem
+wyjąłem notes i położyłem na ladzie -
+Mogła by mi Pani jeszcze napisać jeszcze raz co Pani potrzebuję w wiadomości?
+
+
+
+[C2-M0877]
+===== ASSISTANT =====
+
+Kobieta przyciągnęła notes bliżej siebie i przez chwilę pisała starannym, równym pismem.
+
+Potem obróciła go z powrotem w stronę Jamesa.
+
+— Proszę. Wystarczy, że osoba zarządzająca miejscem potwierdzi te rzeczy:
+
+Do wiadomości dla restauracji:
+
+Dokładne miejsce przyjęcia i potwierdzenie, że możemy tam zrealizować dostawę.
+
+Wybrany sposób dostawy — zwykłe zaczarowane pojemniki i półmiski albo magiczne połączenie do późniejszego uzupełniania jedzenia.
+
+Jeśli wybieracie połączenie magiczne — potwierdzenie, że magia miejsca pozwala je bezpiecznie ustanowić.
+
+Potwierdzenie zgody na lekkie alkohole: słabszy cydr, lekkie wino, poncz i podobne. Bez mocnych trunków.
+
+Kto będzie osobą kontaktową na miejscu, gdyby przy dostawie pojawiło się jakieś pytanie.
+
+Mniej więcej od której godziny możemy zacząć przygotowanie lub dostarczenie pierwszej partii, skoro samo przyjęcie rozpoczyna się po północy.
+
+Na dole dopisała jeszcze:
+
+Zamówienie już ustalone: maks. 500 gości, jedzenie podawane partiami, kuchnia brytyjska + francuska + wschodnioeuropejska, ograniczenie marnowania żywności.
+
+— Tego nie trzeba już tłumaczyć od początku. Niech po prostu powołają się na zamówienie z dzisiejszego wieczoru na nazwisko Brown. Wtedy znajdziemy całość w rejestrze.
+
+
+
+[C2-M0878]
+===== USER =====
+
+zabrałem notes - ok bardzo Pani dziękuję i Dowiedzenia kiwnąłem jeszcze głową i opuściłem restaurację a potem skierowałem się do jednego z antykwariatów
+
+
+
+[C2-M0879]
+===== ASSISTANT =====
+
+Kilka minut później gwar Pokątnej został nieco z tyłu. Antykwariat mieścił się w węższej części ulicy, między sklepem z pergaminami a niewielkim zakładem naprawiającym magiczne zegary.
+
+Nad drzwiami wisiał stary, lekko przekrzywiony szyld:
+
+„KSIĘGI, DRUKI I RĘKOPISY — KUPNO, SPRZEDAŻ, WYCENA”
+
+W środku pachniało kurzem, starym papierem i drewnem. Regały sięgały niemal sufitu, a część książek leżała w stosach na podłodze albo w zamkniętych gablotach. Niektóre tomy wyglądały na zwyczajne mugolskie wydania, inne miały metalowe okucia, popękane skórzane grzbiety albo tytuły zapisane alfabetami z różnych części Europy.
+
+Za ladą siedział starszy czarodziej w okularach o bardzo grubych szkłach. Oderwał wzrok od katalogu dopiero, gdy drzwi się zamknęły.
+
+— Dobry wieczór.
+
+Spojrzał na walizkę, potem z powrotem na Jamesa.
+
+— Szuka pan czegoś konkretnego, czy należy pan do tych klientów, którzy mówią „tylko się rozejrzę”, a godzinę później odkrywają, że potrzebują trzech półek więcej w domu?
+
+
+
+[C2-M0880]
+===== USER =====
+
+Dobry wieczór lekko się usniechnąłem -Szukwm czegoś dla bardzo inteligentnej czarownicy...tylko nie chcę żeby to była kolejna ksiazka do nauki... więc mam pan może jakaś mugolską powieść o magi ale w jakieś magicznej oprawie?
+
+
+
+[C2-M0881]
+===== ASSISTANT =====
+
+Antykwariusz odłożył katalog i od razu zainteresował się bardziej.
+
+— A, to już brzmi jak znacznie ciekawsze zadanie niż „proszę coś bardzo starego i bardzo drogiego”.
+
+Wstał i zniknął między dwoma wysokimi regałami.
+
+— Mugolska powieść o magii, ale dla kogoś, kto rzeczywiście myśli podczas czytania… i bez udawania, że prezent jest kolejnym podręcznikiem.
+
+Po chwili wrócił z niezbyt grubym tomem.
+
+— Ursula K. Le Guin. „A Wizard of Earthsea” — „Czarnoksiężnik z Archipelagu”. Mugolska pisarka. Książka ma już ponad dwadzieścia lat, więc nie sprzedaję panu żadnej tegorocznej nowinki.
+
+Położył tom na ladzie.
+
+Samo wydanie było jednak zdecydowanie niemugolskie. Oprawiono je ponownie w ciemną, granatową skórę. Na okładce srebrne linie układały się w zarys wysp, a gdy książkę lekko przesunęło się względem światła, linie zmieniały położenie, jakby mapa oglądana była z innej wysokości.
+
+— Treść pozostawiono dokładnie mugolską. Żadnego poprawiania autora przez czarodziejów. Ale oprawa została wykonana przez czarodziejskiego introligatora.
+
+Dotknął brzegu okładki.
+
+— Mapa na froncie delikatnie się zmienia. Zakładka sama pamięta ostatnią czytaną stronę. Atrament nie blaknie. A jeśli książkę zostawi się otwartą, po kilku minutach zamknie się sama, żeby nie niszczyć grzbietu.
+
+Uśmiechnął się lekko.
+
+— I, co może być zabawne dla prawdziwej czarownicy, mugole wymyślili tam własne zasady magii. Nie zawsze takie głupie, jak czarodzieje lubią zakładać.
+
+Sięgnął jeszcze pod ladę.
+
+— Mam też „The Last Unicorn” Petera S. Beagle’a w zaczarowanej oprawie oraz „Lords and Ladies” Terry’ego Pratchetta, jeśli ta inteligentna czarownica ma poczucie humoru. Ale jeśli szuka pan czegoś, co jest jednocześnie powieścią, fantastyką i daje trochę do myślenia…
+
+Lekko stuknął palcem w A Wizard of Earthsea.
+
+— Od tej bym zaczął.
+
+
+
+[C2-M0882]
+===== USER =====
+
+Wie Pan co wezmę wszystkie tyljo jakby mógłby je Pan jakoś ładnie zapakować....z drugiej strony obiecałem że nie kupie połowy antykwariatu.... więc może jednak trochę przesadzam?
+
+
+
+[C2-M0883]
+===== ASSISTANT =====
+
+Antykwariusz spojrzał najpierw na trzy książki, potem na ciągnące się pod sam sufit regały.
+
+— Panie, jeśli trzy książki to dla kogoś połowa antykwariatu, to albo ma bardzo mały antykwariat, albo wyjątkowo dramatyczną znajomą.
+
+Kącik jego ust drgnął.
+
+— Natomiast jako prezent… trzy naraz mogą już wyglądać bardziej jak mała biblioteczka niż pojedynczy upominek. Jeśli obiecał pan zachować umiar, proponowałbym prostsze rozwiązanie.
+
+Położył A Wizard of Earthsea na środku, a pozostałe dwie nieco odsunął.
+
+— Tę dałbym teraz. Jest najbardziej… elegancka jako samodzielny prezent. Pozostałe mogę panu odłożyć. Jeśli po przeczytaniu pierwszej okaże się, że trafił pan z gustem, wróci pan po następne i nadal będzie mógł z czystym sumieniem twierdzić, że nie wykupił połowy sklepu.
+
+Sięgnął pod ladę po ciemny papier i cienką srebrną wstążkę.
+
+— A zapakować mogę tak, żeby nie wyglądało ani jak podręcznik, ani jak paczka z sowiej poczty. Bez nazwy sklepu na wierzchu. Tylko książka, papier i małe zabezpieczenie, żeby oprawa nie ucierpiała w drodze.
+
+
+
+[C2-M0884]
+===== USER =====
+
+Świetny pomysł powiedziałem a potem położyłem walizkę i otworzyłem
+
+
+
+[C2-M0885]
+===== ASSISTANT =====
+
+Antykwariusz zerknął do otwartej walizki i uniósł brwi, widząc, że jej wnętrze zdecydowanie nie odpowiada zewnętrznym rozmiarom.
+
+— Ach. Rozszerzona przestrzeń. To rzeczywiście rozwiązuje problem noszenia zakupów po Pokątnej.
+
+Nie próbował jednak zaglądać głębiej. Zajął się książką.
+
+Najpierw owinął A Wizard of Earthsea cienką warstwą miękkiego papieru zabezpieczającego oprawę, potem ciemnym papierem ozdobnym i przewiązał całość srebrną wstążką. Na końcu dotknął paczki różdżką.
+
+— Proste zabezpieczenie przed zgnieceniem i wilgocią. Nic efektownego. Nie chcemy przecież, żeby opakowanie było ciekawsze od książki.
+
+Położył gotowy prezent na ladzie obok otwartej walizki.
+
+— Pozostałe dwie odłożę na miesiąc na nazwisko Brown. Jeżeli pan nie wróci, po prostu wrócą na półkę.
+
+Spojrzał jeszcze na zapakowany tom.
+
+— Za tę książkę, oprawę i pakowanie będzie dziewięć galeonów.
+
+
+
+[C2-M0886]
+===== USER =====
+
+-Dziekuje powiedziałem i dałem mu dwadzieścia galeonów a potem bez słowa skierowlame się do wyjścia - dowidzenia rzuciłem jeszcze przed wyjściem
+
+
+
+[C2-M0887]
+===== ASSISTANT =====
+
+Antykwariusz spojrzał na dwadzieścia galeonów, potem na cenę zapisaną przy książce.
+
+— Dobranoc, panie Brown… ale chwileczkę.
+
+Zdążył odezwać się, zanim drzwi całkiem się zamknęły.
+
+— Jedenaście galeonów reszty.
+
+Trzymał monety w wyciągniętej dłoni, najwyraźniej nie zamierzając samodzielnie uznać różnicy za napiwek.
+
+Za drzwiami Pokątna była już znacznie spokojniejsza niż wcześniej. Większość witryn nadal świeciła, ale ruch wyraźnie malał, a chłodne grudniowe powietrze szybko wdzierało się do środka za każdym otwarciem drzwi antykwariatu.
+
+
+
+[C2-M0888]
+===== USER =====
+
+kiwnąlem mu tylko głową a później opuściłem antykwariat i skiwrowalem się już do sieci fiuu
+
+
+
+[C2-M0889]
+===== ASSISTANT =====
+
+Pokątna była już znacznie spokojniejsza niż wcześniej. Po kilku minutach dotarł do tego samego publicznego punktu Sieci Fiuu, którym przybył z Hogwartu.
+
+Wewnątrz płonęło kilka kominków, a przy jednym z bocznych stanowisk siedziała czarownica nadzorująca wieczorne połączenia. Gdy zobaczyła szkolne dokumenty podróżne, zerknęła na nie krótko i wskazała wolne palenisko.
+
+— Hogwart? Połączenie zwrotne jest jeszcze aktywne.
+
+Obok kominka stało metalowe naczynie wypełnione proszkiem Fiuu. Zielone płomienie czekały nieruchomo na kolejnego podróżnego.
+
+
+
+[C2-M0890]
+===== USER =====
+
+Mam nadzieję....ale muszę Panią spytać po czym wy wszyscy poznajecie że jestem z Hogwartu
+
+
+
+[C2-M0891]
+===== ASSISTANT =====
+
+Czarownica spojrzała na niego, potem na trzymane przez niego dokumenty i lekko uniosła brwi.
+
+— Głównie po tym.
+
+Wskazała palcem na jeden z pergaminów.
+
+— Szkolne zezwolenia podróżne mają pieczęć Hogwartu, oznaczenie połączenia zwrotnego i kod autoryzacji dla Sieci Fiuu. Kiedy przychodzi pan z takim dokumentem do publicznego punktu, dla obsługi jest to dość oczywiste.
+
+Po chwili dodała:
+
+— Poza tym wraca pan dokładnie trasą zarejestrowaną wcześniej jako Hogwart — Pokątna — Hogwart. To nie jest tak, że rozpoznajemy uczniów po twarzy.
+
+Zerknęła jeszcze na jego płaszcz i szalik.
+
+— Choć czasem szalik w barwach domu trochę pomaga. Ale bez papierów nie założyłabym na tej podstawie, że ktoś jest uczniem.
+
+
+
+[C2-M0892]
+===== USER =====
+
+-ok to ma sens skierowlame się do komina -Po prostu Hogwart?
+
+
+
+[C2-M0893]
+===== ASSISTANT =====
+
+Czarownica skinęła głową.
+
+— Tak. Przy pańskim zezwoleniu wystarczy wyraźnie powiedzieć „Hogwart”. Sieć rozpozna zatwierdzony szkolny punkt docelowy.
+
+Wskazała na kominek.
+
+— Tylko proszę nie mamrotać. Sieć Fiuu nie ma poczucia humoru, kiedy ktoś połyka połowę nazwy.
+
+
+
+[C2-M0894]
+===== USER =====
+
+uśmiechnąłem się a potem rzuciłem proszek pod nogi mówiąc wyraźnie nazwę
+
+
+
+[C2-M0895]
+===== ASSISTANT =====
+
+Zielone płomienie natychmiast wystrzeliły wokół kominka.
+
+Pokątna zniknęła, zastąpiona krótką serią wirujących palenisk i urywków obcych wnętrz. Po kilku sekundach ruch zwolnił, a zielony ogień opadł.
+
+Kamienne ściany Hogwartu pojawiły się z powrotem.
+
+To był ten sam szkolny punkt Sieci Fiuu, z którego James wyjechał wcześniej. W pomieszczeniu panował już wieczorny spokój; przy biurku leżał rejestr podróży, a obok kominka nadal stało naczynie z proszkiem Fiuu.
+
+Połączenie zwrotne zadziałało bez problemu.
+
+
+
+[C2-M0896]
+===== USER =====
+
+rozejrzałem się a potem wyszedłem z komina i spojrzałem na godzinę sprawdzając ile czasu do kolacji alvo ile po bo na pokątnej straciłem poczucie czasu
+
+
+
+[C2-M0897]
+===== ASSISTANT =====
+
+Zegar przy szkolnym punkcie Fiuu pokazywał kilka minut po dziewiętnastej.
+
+Kolacja nie dopiero miała się zacząć — trwała już od pewnego czasu, ale nie była jeszcze całkiem skończona. Przy szybkim przejściu do Wielkiej Sali zostało jeszcze spokojnie kilkanaście–kilkadziesiąt minut, zanim stoły zaczęłyby pustoszeć.
+
+Pokątna, Gringott, sklep z mugolskim sprzętem, ustalanie cateringu i antykwariat zajęły więc razem sporą część wieczoru.
+
+
+
+[C2-M0898]
+===== USER =====
+
+od razu Skierowałem się do wielkiej sali
+
+
+
+[C2-M0899]
+===== ASSISTANT =====
+
+Wielka Sala była już w pełnym rytmie kolacji, choć część uczniów zdążyła zjeść i zaczynała powoli się zbierać. Nad stołami unosił się zwyczajny wieczorny gwar, a półmiski nadal były pełne.
+
+Przy stole Slytherinu Draco, Pansy i Theodore siedzieli jeszcze na swoich miejscach. Theodore zauważył Jamesa pierwszy i tylko uniósł lekko wzrok.
+
+Draco spojrzał zaraz potem na walizkę.
+
+— No proszę. Wrócił.
+
+Pansy również zerknęła na bagaż.
+
+— I najwyraźniej nie z pustymi rękami.
+
+Przy stole Gryffindoru Harry, Ron i Hermiona także nadal byli na kolacji. Hermiona właśnie coś mówiła do Rona, ale kiedy James pojawił się w sali, jej wzrok na moment przesunął się w stronę wejścia.
+
+Draco tymczasem odchylił się lekko na ławie.
+
+— To jak? Gringott nadal stoi?
+
+
+
+[C2-M0900]
+===== USER =====
+
+poszedłem do stołu i zająłem swoje miejsce - Gringott nadal stoi i chyba wszystko załatwiłem...
+
+
+
+[C2-M0901]
+===== ASSISTANT =====
+
+Draco spojrzał na walizkę, potem na Jamesa.
+
+— „Chyba” brzmi wyjątkowo niepokojąco jak na człowieka, który miał wrócić z Londynu z pieniędzmi i jedzeniem dla kilkuset osób.
+
+Pansy odłożyła widelec.
+
+— Najważniejsze pytanie: catering?
+
+Theodore spojrzał znad kielicha.
+
+— I transport. Jeśli zamówienie jest złożone, ale sposób dostawy nadal nieustalony, to nie jest jeszcze całkiem „wszystko”.
+
+Draco skrzywił się lekko.
+
+— Nott, pozwól mu najpierw zjeść.
+
+— To ty zapytałeś.
+
+Przy stole Gryffindoru Hermiona na moment ponownie zerknęła w stronę Slytherinu, głównie na walizkę, ale po chwili wróciła do rozmowy z Harrym i Ronem.
+
+Pansy tymczasem spojrzała na Jamesa wyczekująco.
+
+— No więc? Co dokładnie udało ci się załatwić?
+
+
+
+[C2-M0902]
+===== USER =====
+
+Jedzenie załatwione ale muszę jeszcze dogadać z Dumbledore'm dostawę... zrobię to po kolacji...
+
+
+
+[C2-M0903]
+===== ASSISTANT =====
+
+Theodore skinął głową.
+
+— To brzmi sensownie. Jeśli restauracja ma łączyć własny system transportowy z Pokojem Życzeń, lepiej żeby dyrektor wiedział dokładnie, co wpuszczamy do zamku.
+
+Pansy spojrzała na Jamesa.
+
+— Czyli jedzenie naprawdę zamówione? Na pełne pięćset?
+
+Draco uniósł brew.
+
+— I mam nadzieję, że nie skończyłeś na pięciuset porcjach puddingów i kanapek z ogórkiem.
+
+Theodore rzucił mu krótkie spojrzenie.
+
+— Brown pojechał do Londynu między innymi dlatego, żeby tego uniknąć.
+
+Pansy oparła przedramiona o stół.
+
+— Jeśli po kolacji idziesz do Dumbledore’a, dobrze byłoby od razu ustalić też, kto dokładnie będzie osobą kontaktową przy dostawie. Restauracja może tego wymagać.
+
+Draco zerknął jeszcze raz na walizkę.
+
+— A teraz ważniejsze pytanie. Co jest w tym?
+
+
+
+[C2-M0904]
+===== USER =====
+
+A... parę książkę....
+
+
+
+[C2-M0905]
+===== ASSISTANT =====
+
+Draco spojrzał na walizkę, potem z powrotem na Jamesa.
+
+— „Parę książek”.
+
+Pansy uniosła brew.
+
+— W walizce.
+
+Theodore spokojnie sięgnął po kielich.
+
+— Być może Brown odkrył wyjątkowo agresywny gatunek literatury i uznał, że wymaga zabezpieczenia transportowego.
+
+Draco parsknął.
+
+— Albo właśnie próbuje bardzo słabo ukryć coś znacznie ciekawszego.
+
+Pansy przyjrzała się walizce jeszcze przez chwilę.
+
+— Jeśli naprawdę kupiłeś tylko książki, to jestem rozczarowana. Po całej wyprawie do Londynu spodziewałam się przynajmniej czegoś, co wybucha.
+
+Theodore zerknął na nią.
+
+— Przy organizacji przyjęcia wolałbym, żeby nic nie wybuchało.
+
+— Ty zawsze psujesz zabawę.
+
+Przy stole Gryffindoru Hermiona na moment spojrzała w stronę Slytherinu, ale z tej odległości nie mogła usłyszeć całej rozmowy. Jej wzrok zatrzymał się krótko na walizce, po czym wróciła do własnego stołu.
+
+
+
+[C2-M0906]
+===== USER =====
+
+Jest tam też pewna niepsidzinaka...ale zakładam że przez pierwsy etap Balu po Balu nie będzie zbyt chętnie używana...alr potem jak ludzie już popiją to może być swietna...
+
+
+
+[C2-M0907]
+===== ASSISTANT =====
+
+Draco spojrzał na Jamesa już zdecydowanie bardziej zainteresowany.
+
+— O, czyli jednak nie tylko książki.
+
+Pansy zmrużyła oczy.
+
+— „Jak ludzie już popiją” brzmi jak coś, czego rozsądny człowiek nie uruchamia na początku wieczoru.
+
+Theodore odłożył kielich.
+
+— Co zawęża możliwości do rzeczy bardzo głośnych, bardzo kompromitujących albo obu naraz.
+
+Draco wskazał walizkę widelcem.
+
+— Jeśli to jest coś, co zmusi ludzi do śpiewania, tańczenia albo publicznego robienia z siebie idiotów, chcę wiedzieć wcześniej.
+
+Pansy uśmiechnęła się lekko.
+
+— Ja przeciwnie. Jeśli ma być zabawnie, wolę zobaczyć miny ludzi dopiero wtedy, kiedy już będzie za późno na ucieczkę.
+
+Theodore zerknął na walizkę.
+
+— Cokolwiek to jest, dobrze byłoby najpierw sprawdzić, czy rzeczywiście działa w Hogwarcie, zanim postawimy to przed pięciuset osobami.
+
+Draco spojrzał na Jamesa.
+
+— No więc? Dasz chociaż jedną wskazówkę, czy mamy czekać do samej imprezy?
+
+
+
+[C2-M0908]
+===== USER =====
+
+-Japoński Wynalazek....
+
+
+
+[C2-M0909]
+===== ASSISTANT =====
+
+Draco zmarszczył brwi.
+
+— To zawęziło mi możliwości dokładnie do… żadnej.
+
+Pansy spojrzała na walizkę z nowym zainteresowaniem.
+
+— Japoński wynalazek, który robi się lepszy po alkoholu?
+
+Theodore oparł łokieć o stół.
+
+— Brzmi niebezpiecznie społecznie, nie fizycznie.
+
+Draco zerknął na niego.
+
+— Skąd ten wniosek?
+
+— Bo Brown wygląda na zbyt zadowolonego z samej perspektywy użycia tego przy ludziach.
+
+Pansy parsknęła cicho.
+
+— Czyli jednak publiczne kompromitowanie się.
+
+Draco ponownie spojrzał na Jamesa.
+
+— Dobra. Teraz już naprawdę chcę wiedzieć, co Japończycy wymyślili takiego, że potrzebujesz do tego pół sali po kilku drinkach.
+
+
+
+[C2-M0910]
+===== USER =====
+
+-Licze na twoją inteligencję Draconie na pewno odkryjesz co to...
+
+
+
+[C2-M0911]
+===== ASSISTANT =====
+
+Draco spojrzał na Jamesa z miną sugerującą, że właśnie został osobiście obrażony.
+
+— Oczywiście, że odkryję.
+
+Pansy od razu się uśmiechnęła.
+
+— Nie odkryjesz.
+
+— Odkryję.
+
+Theodore spokojnie spojrzał na walizkę.
+
+— Japoński. Mugolski. Ma być lepszy, kiedy ludzie wypiją. Brown nie chce powiedzieć, co to jest, więc prawdopodobnie cała zabawa polega na tym, że ludzie sami robią coś kompromitującego.
+
+Draco zerknął na niego.
+
+— Przestań mu pomagać.
+
+Pansy zaczęła wyliczać na palcach.
+
+— Tańczenie odpada, bo do tego nie potrzeba specjalnego japońskiego wynalazku. Jedzenie też. Gra?
+
+Draco pokręcił głową.
+
+— Powiedział, że raczej nie będą tego używać na początku. Czyli ludzie muszą najpierw stracić trochę godności.
+
+Theodore uniósł lekko brew.
+
+— Coraz bliżej.
+
+Draco patrzył jeszcze chwilę na walizkę.
+
+— Coś z muzyką?
+
+Pansy spojrzała na niego zaskoczona.
+
+— To akurat nie było głupie.
+
+— Dziękuję.
+
+— Nie przyzwyczajaj się.
+
+Draco ponownie przeniósł wzrok na Jamesa.
+
+— Dobra. Muzyka. Japoński wynalazek. Ludzie po alkoholu. Co, jakiś sprzęt, który każe im śpiewać?
+
+
+
+[C2-M0912]
+===== USER =====
+
+-Powiedzmy że zadałeś ale ludzie sami muszą chcieć nie zmusi ich do tego...
+
+
+
+[C2-M0913]
+===== ASSISTANT =====
+
+Draco zmrużył oczy.
+
+— Czyli naprawdę chodzi o śpiewanie.
+
+Pansy spojrzała na niego, potem na Jamesa.
+
+— Dobrowolne publiczne śpiewanie po alkoholu?
+
+Theodore pokiwał głową bardzo powoli.
+
+— To brzmi jak urządzenie zaprojektowane specjalnie po to, żeby ludzie następnego dnia żałowali własnej odwagi.
+
+Draco parsknął.
+
+— Nadal nie rozumiem, po co do tego potrzebny jest cały wynalazek.
+
+Pansy wskazała na walizkę.
+
+— Pewnie gra muzykę, pokazuje tekst i daje ludziom mikrofon.
+
+Theodore zerknął na nią.
+
+— Jeśli właśnie rozwiązałaś zagadkę szybciej niż Malfoy, będzie z tego większy problem niż samo śpiewanie.
+
+Draco spojrzał na Pansy z wyraźną irytacją.
+
+— Nie powiedziałem jeszcze ostatniego słowa.
+
+— Już praktycznie powiedziałeś wszystkie potrzebne.
+
+Pansy wróciła wzrokiem do Jamesa.
+
+— Jak to się w ogóle nazywa?
+
+
+
+[C2-M0914]
+===== USER =====
+
+Karaoke....
+
+
+
+[C2-M0915]
+===== ASSISTANT =====
+
+Pansy powtórzyła ostrożnie:
+
+— Kara… oke?
+
+Theodore lekko uniósł brew.
+
+— Nazwa rzeczywiście nie pomaga.
+
+Draco spojrzał na Jamesa z wyrazem triumfu.
+
+— Ale zgadłem, że chodzi o śpiewanie.
+
+— Po tym, jak dostałeś pół odpowiedzi po drodze — zauważyła Pansy.
+
+— Szczegóły.
+
+Theodore odchylił się nieco na ławie.
+
+— Czyli muzyka gra, tekst jest podany, a ktoś bierze mikrofon i sam wykonuje piosenkę?
+
+Pansy już zaczynała się uśmiechać.
+
+— To może być katastrofalnie dobre.
+
+Draco za to wyglądał na coraz bardziej podejrzliwego.
+
+— I rozumiem, że ty zamierzasz patrzeć, jak pijani ludzie sami zgłaszają się do publicznego upokorzenia?
+
+Theodore zerknął na niego.
+
+— Malfoy, właśnie opisałeś połowę szkolnych bali bez żadnego urządzenia.
+
+Pansy parsknęła śmiechem.
+
+— Ja chcę to zobaczyć. Szczególnie po drugiej w nocy.
+
+Draco wskazał Jamesa.
+
+— Ale jeśli spróbujesz wpisać moje nazwisko na jakąś listę „pierwszych ochotników”, wyrzucę ten japoński wynalazek przez okno.
+
+
+
+[C2-M0916]
+===== USER =====
+
+Za późno powiedz tylko co chcesz śpiewać.... zakladam że Cant Help Falling In Love Elvis Presley?
+
+
+
+[C2-M0917]
+===== ASSISTANT =====
+
+Draco spojrzał na Jamesa tak, jakby właśnie zaproponowano mu publiczne wejście na stół.
+
+— Absolutnie nie.
+
+Pansy parsknęła śmiechem.
+
+— Och, błagam. Teraz już musisz.
+
+Draco odwrócił się do niej.
+
+— Nie będę śpiewał mugolskiej piosenki miłosnej przed połową szkoły.
+
+Theodore spokojnie poprawił:
+
+— Potencjalnie przed pięciuset osobami.
+
+Draco posłał mu chłodne spojrzenie.
+
+— Dziękuję, Nott. To bardzo pomaga.
+
+Pansy uśmiechnęła się jeszcze szerzej.
+
+— Can’t Help Falling in Love… właściwie całkiem pasuje. Bardzo dramatyczne. Bardzo dostojne. Malfoy stojący z mikrofonem i—
+
+— Parkinson.
+
+— Tak?
+
+— Nie kończ tego zdania.
+
+Theodore spojrzał na Draco z ledwie widocznym rozbawieniem.
+
+— Najgorsze jest to, że im bardziej protestujesz, tym bardziej prawdopodobne staje się, że ktoś spróbuje cię do tego namówić po drugiej w nocy.
+
+Draco westchnął i spojrzał z powrotem na Jamesa.
+
+— Jeśli już mam kiedyś dotknąć tego mikrofonu, sam wybiorę piosenkę. I na pewno nie będzie to Elvis Presley.
+
+
+
+[C2-M0918]
+===== USER =====
+
+Zobaczymy....*powiedziałem a gdy kolekcja minęła skierowałem się do gabinetu Dumbledore'a...
+
+
+
+[C2-M0919]
+===== ASSISTANT =====
+
+Po kolacji korytarze były już znacznie spokojniejsze. Większość uczniów rozchodziła się do bibliotek, pokojów wspólnych albo dormitoriów, a ruch przy głównych schodach szybko malał.
+
+Droga do gabinetu dyrektora była już znajoma. Po kilku minutach przed Jamesem pojawił się kamienny gargulec strzegący wejścia na spiralne schody.
+
+Tym razem jednak nikt nie czekał przed nim, a James nie miał umówionej wizyty na konkretną godzinę.
+
+Gargulec pozostawał nieruchomy.
+
+Zza ściany nie dochodziły żadne głosy, więc nie dało się stwierdzić, czy Dumbledore akurat jest w gabinecie.
+
+
+
+[C2-M0920]
+===== USER =====
+
+-Mozna wejść?
+
+
+
+[C2-M0921]
+===== ASSISTANT =====
+
+Przez moment gargulec nie zareagował.
+
+Potem kamienna głowa poruszyła się nieznacznie, a z góry dobiegł spokojny, znajomy głos Dumbledore’a:
+
+— Jeśli to pan, panie Brown, to owszem. Proszę wejść.
+
+Gargulec odsunął się na bok, odsłaniając spiralne schody prowadzące ku gabinetowi.
+
+Z góry Dumbledore dodał jeszcze:
+
+— Zakładam, że skoro wrócił pan z Londynu w jednym kawałku, Gringott nie okazał się najniebezpieczniejszą częścią dzisiejszego planu.
+
+
+
+[C2-M0922]
+===== USER =====
+
+po chwili otworzyłem drzwi do jego gabinetu i wszedłem do środka -Dobry wieczór następnie wyjąłem z plaszcza notatnik i otworzyłem pokazując zapiski z restauracji - Jeśli mogbym Pana prosić to był bym wdzięczny gdyby Pan wysyłał tam dzisiaj sowę albo coś innego?
+
+
+
+[C2-M0923]
+===== ASSISTANT =====
+
+Dumbledore przyjął notatnik i przesunął wzrokiem po zapisanych punktach.
+
+— Dobry wieczór, panie Brown.
+
+Czytał przez chwilę w ciszy, zatrzymując się dłużej przy sposobie dostawy i dopisku o napojach.
+
+— Rozumiem. Restauracja chce potwierdzenia miejsca, osoby kontaktowej, sposobu transportu oraz tego, co właściwie wolno im dostarczyć.
+
+Uniósł wzrok.
+
+— Mogę wysłać im sowę jeszcze dziś. To będzie prostsze niż pozostawianie im pańskich ustaleń bez szkolnego potwierdzenia.
+
+Spojrzał ponownie na notatki.
+
+— Napiszę, że przyjęcie odbywa się w Hogwarcie, w Pokoju Życzeń, za moją wiedzą i zgodą. Potwierdzę również, że mogą dostarczyć jedzenie partiami oraz że lekkie napoje alkoholowe są dopuszczone w zakresie, o którym już rozmawialiśmy. Bez ognistej whisky i bez mocniejszych trunków.
+
+Przesunął palcem niżej.
+
+— Co do transportu, wolałbym najpierw nie łączyć na stałe ich systemu z magią zamku. Zaczarowane pojemniki i półmiski są bezpieczniejszym rozwiązaniem. Jeśli okaże się, że to niewystarczające, możemy później rozważyć coś bardziej bezpośredniego.
+
+Po chwili dodał:
+
+— Jako osobę kontaktową mogę podać pana. A na wypadek, gdyby był pan zajęty w czasie przyjęcia, pana zastępcę, Theodore’a Notta.
+
+Dumbledore zamknął notatnik i podał go z powrotem.
+
+— To powinno im wystarczyć. Wyślę wiadomość dziś wieczorem.
+
+
+
+[C2-M0924]
+===== USER =====
+
+-Tak myślę że tak.... Dziękuję...a i jeszcze jedno wyjąłem zaproszenie i wręczyłem Dumbeldorowi -Jakby Pan przyszedł chociaż na chwilę to bylo by smiesznie....
+
+
+
+[C2-M0925]
+===== ASSISTANT =====
+
+Dumbledore przyjął zaproszenie i przez moment obracał je w palcach, oglądając znajome zabezpieczenia, które już wcześniej miał okazję sprawdzać.
+
+Potem spojrzał na Jamesa ponad okularami.
+
+— Panie Brown… zapraszanie dyrektora na przyjęcie, którego jednym z założeń było właśnie to, by uczniowie mogli bawić się bez nauczyciela stojącego im nad ramieniem, jest interesującym zwrotem wydarzeń.
+
+Kąciki jego ust uniosły się lekko.
+
+— Z drugiej strony przyznaję, że wizja wejścia na pięć minut, powiedzenia wszystkim „proszę się dobrze bawić” i obserwowania, jak połowa sali natychmiast próbuje przypomnieć sobie, czy zrobiła coś nielegalnego, ma pewien urok.
+
+Jeszcze raz zerknął na zaproszenie.
+
+— Niczego nie obiecuję. Bo jeśli pojawię się tam jako dyrektor, mogę bardzo skutecznie zepsuć atmosferę samą obecnością.
+
+Krótka pauza.
+
+— Ale skoro zostałem formalnie zaproszony, zachowam zaproszenie. I jeżeli wieczór pozwoli… być może pański „Bal po Balu” przeżyje kilka minut obecności Albusa Dumbledore’a.
+
+Uśmiech stał się odrobinę szerszy.
+
+— Choć jeśli zastanę tam pana Malfoya śpiewającego do mugolskiego mikrofonu, uprzedzam, że zostanę dłużej.
+
+
+
+[C2-M0926]
+===== USER =====
+
+zmarszczyłem brwi - Czy Pan nas podsłuchuje...nie ważne znaczny ważne... może się pan nie pojawiać jako Dyrektor ale jako absolwent.... zobaczenie pana w szacie Gryffindoru też bylo by komiczne....
+
+
+
+[C2-M0927]
+===== ASSISTANT =====
+
+Dumbledore przez moment patrzył na Jamesa, po czym w jego oczach pojawiło się wyraźne rozbawienie.
+
+— Nie, panie Brown. Nie podsłuchuję pańskich rozmów przy kolacji. Nazwisko pana Malfoya było jedynie wyjątkowo szczęśliwym — albo nieszczęśliwym dla niego — przykładem.
+
+Przesunął zaproszenie między palcami.
+
+— Natomiast pańska druga propozycja jest znacznie ciekawsza.
+
+Oparł się wygodniej w fotelu.
+
+— Obawiam się, że nie mogę przestać być dyrektorem Hogwartu tylko dlatego, że przekroczę próg pokoju. Jeśli wydarzy się coś poważnego, nadal będę dorosłym odpowiedzialnym za uczniów.
+
+Kącik jego ust drgnął.
+
+— Ale mogę przynajmniej nie wejść tam jak dyrektor dokonujący inspekcji.
+
+Spojrzał na własną szatę, jakby rzeczywiście rozważał alternatywę.
+
+— A szata Gryffindoru…
+
+Zapadła krótka cisza.
+
+— Sądzę, że gdzieś w zamku dałoby się znaleźć coś odpowiedniego. Choć człowiek w moim wieku ubrany jak uczeń własnego dawnego domu może wyglądać bardziej jak bardzo zagubiony duch szkolnej tradycji niż absolwent.
+
+Uśmiechnął się szerzej.
+
+— Z drugiej strony reakcja profesor McGonagall mogłaby sama w sobie uzasadniać wysiłek.
+
+Po chwili wskazał zaproszeniem Jamesa.
+
+— Jeśli przyjdę, postaram się więc przyjść jako Albus Dumbledore, absolwent Gryffindoru, a nie jako dyrektor przeprowadzający kontrolę.
+
+Krótka pauza.
+
+— Nie obiecuję jednak krawata. Mam pewne granice.
+
+
+
+[C2-M0928]
+===== USER =====
+
+-rozumiem ale jakby Pan nie zauważył to zaproszenie jest z osobą towarzyszącą
+
+
+
+[C2-M0929]
+===== ASSISTANT =====
+
+Dumbledore spojrzał ponownie na zaproszenie, tym razem zatrzymując wzrok dokładnie przy dopisku dotyczącym osoby towarzyszącej.
+
+— Zauważyłem.
+
+Na moment zapadła cisza.
+
+— Po prostu miałem nadzieję, że pan nie zauważy, że ja zauważyłem.
+
+W jego oczach pojawiło się rozbawienie.
+
+— Przyznaję, możliwość pojawienia się na uczniowskim przyjęciu z osobą towarzyszącą wprowadza do sytuacji zupełnie nowy poziom komplikacji.
+
+Obrócił zaproszenie w dłoni.
+
+— Jeżeli zamierza pan zasugerować profesor McGonagall, uprzedzam, że mam do niej zbyt wiele szacunku, żeby poinformować ją: „Minerwo, zostałem zaproszony na tajemniczy bal po północy i mam plus jeden”.
+
+Krótka pauza.
+
+— Chociaż chciałbym zobaczyć jej twarz.
+
+Dumbledore uniósł palec.
+
+— Oczywiście nie zamierzam też zamieniać pańskiego pomysłu „przychodzę jako absolwent” w paradę członków grona pedagogicznego przebranych za dawnych uczniów. To bardzo szybko przestałoby być zabawne dla kogokolwiek poza mną.
+
+Spojrzał jeszcze raz na zaproszenie.
+
+— Ale tak. Plus jeden jest prawidłowy. Jeżeli zdecyduję się przyjść i znajdę odpowiednią osobę, która również uzna ten pomysł za wystarczająco nierozsądny… być może z niego skorzystam.
+
+
+
+[C2-M0930]
+===== USER =====
+
+lekko się usniechnąłem - w takimi razie to chyba wszystko kiwnąłem głową
+
+
+
+[C2-M0931]
+===== ASSISTANT =====
+
+Dumbledore skinął głową i odłożył zaproszenie na biurko obok dokumentów.
+
+— W takim razie na dziś rzeczywiście wystarczy.
+
+Spojrzał jeszcze raz na notatnik Jamesa.
+
+— Sowa do restauracji zostanie wysłana jeszcze dziś. Jeśli odpowiedzą wieczorem, jutro rano będziemy już wiedzieli, czy proponowany sposób dostawy im odpowiada.
+
+Potem uniósł zaproszenie między palcami.
+
+— A to zachowam. Bez obietnic co do obecności, stroju ani osoby towarzyszącej.
+
+Kącik jego ust lekko się uniósł.
+
+— Choć przyznaję, że pański plan z każdą kolejną rozmową staje się coraz trudniejszy do uznania za zwykłe „przedłużenie balu”.
+
+Dumbledore wrócił wzrokiem do leżących przed nim pergaminów.
+
+— Dobrego wieczoru, panie Brown.
+
+
+
+[C2-M0932]
+===== USER =====
+
+-Dobranoc...rzuciłem a potem opuściłem gabinet i skiwrowalem się do Biblioteki mając nadzieję spotkać Hermionę po drodze na chwilę się zatrzymałem i wyjąłem tą książkę z walizki a potem ruszyłem dalej
+
+
+
+[C2-M0933]
+===== ASSISTANT =====
+
+Droga do biblioteki była już znacznie spokojniejsza niż wcześniej. Większość uczniów po kolacji rozeszła się do pokojów wspólnych, więc na korytarzach zostawały głównie pojedyncze grupki i prefekci.
+
+Zapakowana książka pozostała w dłoni Jamesa, gdy dotarł pod znajome drzwi biblioteki.
+
+W środku panowała wieczorna cisza przerywana jedynie szelestem pergaminów i przewracanych stron. Madam Pince siedziała przy swoim stanowisku, zajęta katalogiem, i tylko krótko podniosła wzrok na wchodzącego.
+
+A przy jednym z dalszych stołów — tym samym, który Hermiona wybierała wyjątkowo często — rzeczywiście siedziała Hermiona.
+
+Była sama. Przed nią leżały dwa otwarte podręczniki, pergamin z notatkami i kilka luźnych kartek. Właśnie porównywała coś między książką a własnym tekstem, z piórem zatrzymanym nad pergaminem.
+
+Nie zauważyła Jamesa od razu.
+
+
+
+[C2-M0934]
+===== USER =====
+
+bardzo cicho podszedłem wybierając drogę na około po drodze kiwając głową do Pani Pince w ramach powitania
+
+
+
+[C2-M0935]
+===== ASSISTANT =====
+
+Madam Pince odpowiedziała ledwie zauważalnym skinieniem głowy i natychmiast wróciła do katalogu. Nie wyglądała na osobę, którą obchodziło, że ktoś postanowił przejść pół biblioteki okrężną drogą, o ile robił to cicho.
+
+Hermiona nadal siedziała pochylona nad pergaminem.
+
+Przez kilka kolejnych sekund nic nie wskazywało na to, że zauważyła zbliżającego się Jamesa. Dopiero gdy znalazł się już stosunkowo blisko jej stołu, jej pióro zatrzymało się.
+
+Nie podniosła głowy od razu.
+
+Najpierw spojrzała lekko w bok, jakby wyłapała ruch na granicy pola widzenia.
+
+Potem odwróciła twarz.
+
+Jej wzrok trafił na Jamesa, a zaraz potem na trzymaną przez niego starannie zapakowaną książkę.
+
+Brwi uniosły się odrobinę.
+
+— Dobry wieczór.
+
+Powiedziała to cicho, zgodnie z bibliotecznym tonem, ale w jej spojrzeniu od razu pojawiło się pytanie, którego jeszcze nie wypowiedziała.
+
+
+
+[C2-M0936]
+===== USER =====
+
+pokręciłem głową ale potem uśmiechnąłem się i podszedłem bliżej - Ciebie też dobrze widzieć...Panno Granger powiedziałem a potem teatralnie klękałem i podałem książkę w jej stronę
+
+
+
+[C2-M0937]
+===== ASSISTANT =====
+
+Hermiona zamarła z piórem nad pergaminem.
+
+Najpierw spojrzała na klęczącego Jamesa.
+
+Potem na paczkę.
+
+Potem znowu na niego.
+
+Przez sekundę wyglądała, jakby naprawdę próbowała zdecydować, czy bardziej chce się roześmiać, czy skarcić go za samą oprawę sytuacji.
+
+— James…
+
+Powiedziała jego imię bardzo cicho, ale kąciki ust już zaczęły jej drgać.
+
+— Naprawdę musisz robić z wręczania książki scenę jak z oświadczyn?
+
+Spojrzała szybko w stronę Madam Pince, najwyraźniej sprawdzając, czy przedstawienie nie przyciągnęło uwagi całej biblioteki, po czym wróciła wzrokiem do paczki.
+
+— I zanim powiesz cokolwiek: pamiętam dokładnie, że mówiłam ci, żebyś mi nic nie kupował.
+
+Mimo to wyciągnęła dłonie i ostrożnie przyjęła zapakowaną książkę.
+
+— Co to jest?
+
+
+
+[C2-M0938]
+===== USER =====
+
+wstałem z kolan i zająłem miejsce obok niej - Otwórz....
+
+
+
+[C2-M0939]
+===== ASSISTANT =====
+
+Hermiona przez chwilę patrzyła na niego podejrzliwie, ale w końcu opuściła wzrok na pakunek.
+
+— Dobrze. Ale nadal podtrzymuję, że mówiłam „nie kupuj mi niczego”.
+
+Ostrożnie rozwiązała srebrną wstążkę i rozchyliła ciemny papier, pilnując, żeby nie podrzeć go bez potrzeby.
+
+Kiedy zobaczyła granatową skórzaną oprawę, zatrzymała się.
+
+Srebrne linie mapy przesunęły się subtelnie pod światłem bibliotecznych lamp.
+
+— Och…
+
+Teraz zainteresowanie wyraźnie wygrało z wcześniejszym protestem.
+
+Przesunęła palcami po okładce, potem odczytała tytuł.
+
+— A Wizard of Earthsea.
+
+Spojrzała szybko na Jamesa.
+
+— Le Guin?
+
+Otworzyła książkę i przewróciła kilka pierwszych stron. Zakładka sama przesunęła się lekko przy grzbiecie, a Hermiona od razu to zauważyła.
+
+— To jest mugolska książka… w magicznej oprawie.
+
+Na jej twarzy pojawił się coraz wyraźniejszy uśmiech.
+
+— To jest właściwie bardzo sprytne.
+
+Jeszcze raz obejrzała okładkę.
+
+— I zdecydowanie nie jest podręcznikiem.
+
+Po chwili zmrużyła jednak oczy.
+
+— Ale, James…
+
+Spojrzała na niego już z rozbawieniem.
+
+— Powiedziałam ci dziś rano, żebyś nie kupował mi książki. A ty najwyraźniej uznałeś, że rozwiązaniem jest kupić mi książkę, która wygląda tak dobrze, że trudniej będzie mi protestować.
+
+
+
+[C2-M0940]
+===== USER =====
+
+Ja jej nie kupiłem....
+
+
+
+[C2-M0941]
+===== ASSISTANT =====
+
+Hermiona zamrugała.
+
+Spojrzała na książkę.
+
+Potem na Jamesa.
+
+I jeszcze raz na książkę.
+
+— …Nie kupiłeś.
+
+Jej ton był bardzo spokojny, ale brwi powędrowały wyżej.
+
+— James, przed chwilą wróciłeś z Londynu z zapakowaną książką z antykwariatu, wręczyłeś mi ją na kolanach i teraz twierdzisz, że jej nie kupiłeś.
+
+Przechyliła lekko głowę.
+
+— Dobrze. Jestem zainteresowana wyjaśnieniem. Bardzo zainteresowana.
+
+
+
+[C2-M0942]
+===== USER =====
+
+Dałem 20 galeonów darowizny a w zamian dostałem książkę...
+
+
+
+[C2-M0943]
+===== ASSISTANT =====
+
+Hermiona patrzyła na Jamesa przez dłuższą chwilę w absolutnej ciszy.
+
+Potem bardzo powoli zamknęła książkę.
+
+— Nie.
+
+Jedno słowo. Spokojne. Stanowcze.
+
+— To nie jest „nie kupiłem książki”. To jest „zapłaciłem dwadzieścia galeonów człowiekowi, od którego dostałem książkę”.
+
+Kącik jej ust drgnął.
+
+— Możesz nazwać to darowizną, wsparciem dla lokalnego antykwariatu albo heroicznym ratowaniem starej literatury. Nadal wyszedłeś ze sklepu uboższy o dwadzieścia galeonów i bogatszy o książkę przeznaczoną dla mnie.
+
+Przesunęła palcem po srebrnej mapie na okładce.
+
+— I zanim zaczniesz budować kolejną teorię ekonomiczną: podoba mi się. Bardzo.
+
+Spojrzała na niego z lekkim uśmiechem.
+
+— Ale nie próbuj ze mną wygrywać na technikaliach, panie Brown. Zwłaszcza przy książkach.
+
+
+
+[C2-M0944]
+===== USER =====
+
+lekko się zarumieniłem i zapytałem niepewnie -To nie jest to unikanie teamtu z mojej strony o którym mówi nasza jedna z nowszych zasad czy jest?
+
+
+
+[C2-M0945]
+===== ASSISTANT =====
+
+Hermiona przez moment patrzyła na Jamesa, po czym jej wyraz twarzy złagodniał.
+
+— Nie. Nie w sensie tej zasady.
+
+Lekko przesunęła książkę na swoim pergaminie.
+
+— Tam mówiłam konkretnie o używaniu czułości, pocałunków, przytulania i całej reszty do rozbrojenia mnie albo ucieczki od rozmowy, którą powinniśmy dokończyć.
+
+Kącik jej ust uniósł się.
+
+— To tutaj było po prostu bardzo kreatywnym nadużyciem słowa „darowizna”.
+
+Przyjrzała mu się jeszcze chwilę.
+
+— I nie zamierzam robić z tego poważnego problemu. Powiedziałam, żebyś niczego mi nie kupował, ty kupiłeś jedną książkę, ja powiedziałam, że pamiętam, a ty próbowałeś znaleźć lukę w definicji „kupowania”.
+
+Krótka pauza.
+
+— Nie uniknąłeś rozmowy. Przegrałeś argument. To coś innego.
+
+Spojrzała ponownie na A Wizard of Earthsea i uśmiechnęła się trochę szerzej.
+
+— A książkę i tak zatrzymuję.
+
+
+
+[C2-M0946]
+===== USER =====
+
+usmiechnąłem się a potem dyskretnie pocałowałem ją w policzek - W takimi razie, nje będę ci już przeszkadzać...
+
+
+
+[C2-M0947]
+===== ASSISTANT =====
+
+Hermiona drgnęła lekko przy pocałunku i odruchowo zerknęła w stronę Madam Pince.
+
+Bibliotekarka nadal była zajęta swoim katalogiem.
+
+Hermiona wróciła wzrokiem do Jamesa i powiedziała bardzo cicho:
+
+— Dyskretnie, panie Brown.
+
+Nie brzmiała na złą, bardziej jak przypomnienie ich ustaleń sprzed balu. Kącik jej ust jednak uniósł się odrobinę.
+
+— I nie przeszkadzałeś mi.
+
+Położyła dłoń na nowej książce.
+
+— Ale skoro już postanowiłeś być rozsądny, to skorzystam z okazji i naprawdę trochę popracuję.
+
+Po chwili dodała jeszcze ciszej:
+
+— Dziękuję za prezent. Naprawdę mi się podoba.
+
+
+
+[C2-M0948]
+===== USER =====
+
+na chwilę się zatrzymałem i zarumieniłem -w zasadzie wpadłem na jeszcze jeden pomysł ale jest on trochę masochistyczny....
+
+
+
+[C2-M0949]
+===== ASSISTANT =====
+
+Hermiona zatrzymała pióro nad pergaminem i spojrzała na Jamesa z wyraźną podejrzliwością.
+
+— To określenie nie brzmi szczególnie zachęcająco.
+
+Przechyliła lekko głowę.
+
+— Zwłaszcza w twoich ustach.
+
+Po chwili dodała ciszej:
+
+— Dobrze. Mów. Co wymyśliłeś?
+
+
+
+[C2-M0950]
+===== USER =====
+
+-Żebyśmy do balu ograniczyli swój kątakt do tego co było orzed pierwszym etapem turnieju....powiedziałem cicho
+
+
+
+[C2-M0951]
+===== ASSISTANT =====
+
+Hermiona przez chwilę po prostu patrzyła na Jamesa.
+
+Pióro powoli opadło na pergamin, ale nie wróciła do pisania.
+
+— Do tego, co było przed pierwszym zadaniem?
+
+Powtórzyła to cicho, jakby upewniała się, że dobrze zrozumiała zakres propozycji.
+
+— Czyli normalnie rozmawiamy, możemy siedzieć razem w bibliotece, chodzić gdzieś razem… ale żadnych naszych prywatnych rzeczy? Bez przytulania, trzymania się za ręce, leżenia razem, pocałunków w policzek i całej reszty, która pojawiła się później?
+
+Zmarszczyła lekko brwi.
+
+— Przez ponad trzy tygodnie.
+
+Krótka cisza.
+
+— Tak. To rzeczywiście brzmi trochę masochistycznie.
+
+Nie uśmiechnęła się jednak od razu. Przyglądała mu się uważnie.
+
+— Tylko chcę wiedzieć dlaczego.
+
+Po chwili dodała:
+
+— Jeśli chodzi ci o utrzymanie tajemnicy do balu, to już mamy zasadę dotyczącą zachowania publicznie. Nie musimy przestać się przytulać w zamkniętym Pokoju Życzeń tylko dlatego, że Ron może coś podejrzewać przy śniadaniu.
+
+Jej ton stał się odrobinę bardziej stanowczy.
+
+— A jeśli to ma być jakaś kara za dzisiejszą lekcję Moody’ego albo sposób, żeby udowodnić sobie, że potrafisz się przy mnie kontrolować, to też nie jestem pewna, czy podoba mi się ten pomysł.
+
+Zawiesiła głos.
+
+— Więc zanim powiem „tak” albo „nie”… powiedz mi, po co właściwie chcesz to zrobić.
+
+
+
+[C2-M0952]
+===== USER =====
+
+zarumieniłem się jeszcze bardziej - bo to będzie bardzo sloko ostre oczekiwanie....
+
+
+
+[C2-M0953]
+===== ASSISTANT =====
+
+Hermiona patrzyła na niego przez chwilę, a potem jej brwi uniosły się nieco wyżej.
+
+— Ach.
+
+Teraz w jej spojrzeniu pojawiło się już wyraźniejsze zrozumienie.
+
+— Czyli nie chodzi o karę ani o unikanie mnie. Chcesz po prostu… celowo zrobić z tych trzech tygodni bardzo długie oczekiwanie.
+
+Kącik jej ust drgnął.
+
+— To jest jednocześnie romantyczne i kompletnie nierozsądne.
+
+Pochyliła się odrobinę nad stołem, nadal mówiąc cicho.
+
+— I chyba rozumiem, co masz na myśli. Jeśli przez trzy tygodnie ograniczymy wszystko do rozmów, wspólnej nauki i zwykłego przebywania razem, to sam bal będzie potem… dużo bardziej intensywny.
+
+Krótka pauza.
+
+— Tylko wtedy żadnego oszukiwania. Żadnego „to się nie liczyło, bo było prywatnie”, żadnych pięciosekundowych wyjątków i żadnego negocjowania granicy co dwa dni.
+
+Spojrzała na niego uważnie.
+
+— Jeśli mamy to zrobić, to naprawdę. Do balu wracamy do poziomu sprzed pierwszego zadania.
+
+Po chwili dodała z lekkim uśmiechem:
+
+— I uprzedzam: jeśli po tygodniu zaczniesz wyglądać jak człowiek, który sam sobie wymyślił bardzo zły eksperyment, nie będę miała litości.
+
+
+
+[C2-M0954]
+===== USER =====
+
+uśmiechnąłem się i kiwnąłem głową
+
+
+
+[C2-M0955]
+===== ASSISTANT =====
+
+Hermiona odwzajemniła uśmiech, ale zaraz potem uniosła palec w ostrzegawczym geście.
+
+— Dobrze. W takim razie umowa obowiązuje od teraz.
+
+Przez moment spojrzała na książkę, potem znowu na Jamesa.
+
+— Rozmowy, wspólna nauka, spacery, zwykłe siedzenie razem — tak. Cała reszta wraca dopiero przy balu.
+
+Jej uśmiech zrobił się odrobinę bardziej złośliwy.
+
+— I nie licz na to, że będę ci pomagała przetrwać własny pomysł.
+
+Po czym sięgnęła po pióro.
+
+— A teraz naprawdę muszę skończyć te notatki, zanim wymyślisz jeszcze trzecią zasadę na dzisiejszy wieczór.
+
+
+
+[C2-M0956]
+===== USER =====
+
+chciałem ją jeszcze raz pocałować w policzek ale sie powstrzymałem i zmaist tego chciałem ją za rękę i ją potrząsnąłem
+
+
+
+[C2-M0957]
+===== ASSISTANT =====
+
+Hermiona spojrzała najpierw na swoją potrząsaną dłoń, potem na Jamesa.
+
+Przez sekundę wyglądała na kompletnie zaskoczoną, ale szybko zrozumiała, czym zastąpił wcześniejszy odruch.
+
+Kąciki jej ust uniosły się.
+
+— Aha. Czyli zamiast pocałunku oficjalny uścisk dłoni?
+
+Pozwoliła na ten krótki gest, po czym bardzo poważnie — zdecydowanie zbyt poważnie jak na sytuację — lekko odwzajemniła potrząśnięcie.
+
+— Umowa zawarta, panie Brown.
+
+Zabrała dłoń i wskazała na niego piórem.
+
+— Ale uprzedzam: nie próbuj przez następne trzy tygodnie przekonywać mnie, że „potrząsanie ręką przez dwadzieścia minut” nadal jest tylko formalnym uściskiem.
+
+Jej oczy zdradzały rozbawienie.
+
+— Znam cię już trochę za dobrze.
+
+
+
+[C2-M0958]
+===== USER =====
+
+przekręciłem oczami a potem wróciłem do pokoju wspólnego Slytherin'u następne tygodnie zelcialy na ostatnich poprawkach na sali ustawiłem zestaw głośników i karaoke w odpiwidnim miejscu pozatym Pansy dokonała małych poprawek w usatwieniu stołów i dekroacjach oprócz tego zrobiliśmy też testy zaproszeń i przekazaliśmy dokładne informacje i procedury osobą odpowiedzialnym przez cały ten okres Rozmowy, wspólna nauka, spacery, zwykłe siedzenie razem z Hermioną byly ba początku dziennym ale zaczęło mi bardzo brakować tego co było przed... *W końcu 25 grudnia otworzyłem oczy a zegar pokazywał piątą rano wstałem z łóżka poszedłem do łazienki zgłoliłem zarost umyłem zęby i wziąłem prysznic a potem założyłem mundurek czyli czarną szate z zieloną podszewką i herbem Slytherinu szarą kamizelkę, białą koszule czarne spodnie oraz krawata w zielono-srebrne pasy spojrzałem w lustro i jeszcze poprawiłem krawat i później wyszeldm z łazienki i po chwili znalazłem się w pokoju wspólnym Slytherinu zrobiłem sobie kawę tym razem małą bardzo mocną czarną a potem usiadłem przy stoliku i zacząłem pić*
+
+Pokaż więcej
+
+
+
+[C2-M0959]
+===== ASSISTANT =====
+
+O piątej rano pokój wspólny Slytherinu wyglądał zupełnie inaczej niż za dnia.
+
+Kominek ledwie się żarzył, zielonkawe światło jeziora za wysokimi oknami było niemal czarne, a większość dormitoriów pozostawała cicha. Nawet w Boże Narodzenie niewielu uczniów miało powód, by wstawać o tej porze.
+
+Na stoliku stała mała filiżanka bardzo mocnej czarnej kawy. Jej zapach mieszał się z wonią dogasającego drewna i świątecznych gałązek, którymi kilka dni wcześniej udekorowano pokój wspólny. Nad kominkiem wisiała dyskretna srebrno-zielona girlanda; gdzieś dalej pojedyncza ozdoba poruszyła się sama i znów znieruchomiała.
+
+Do rozpoczęcia normalnego świątecznego poranka pozostawało jeszcze sporo czasu.
+
+A do Balu Bożonarodzeniowego o dwudziestej — piętnaście godzin.
+
+Przy stoliku panowała całkowita cisza. Na razie James miał pokój wspólny praktycznie dla siebie.
+
+
+
+[C2-M0960]
+===== USER =====
+
+szybko i dość nerwowo wypiłem kawę a potem zacząłem stukać palcami o stół czując jak kazda minuta duży się w nieskończoność
+
+
+
+[C2-M0961]
+===== ASSISTANT =====
+
+Filiżanka szybko została pusta.
+
+W niemal całkowitej ciszy pokoju wspólnego stukanie palców o drewniany blat brzmiało zaskakująco głośno.
+
+Tik. Tik. Tik.
+
+Zegar nad kominkiem przesunął wskazówkę o minutę.
+
+Potem o następną.
+
+I kolejną.
+
+Nic szczególnego się nie wydarzyło.
+
+W dormitoriach nadal panowała cisza, jezioro za oknami pozostawało ciemne, a ogień w kominku tylko od czasu do czasu trzaskał cicho. Świąteczne dekoracje wiszące przy suficie poruszały się leniwie własną magią, całkowicie obojętne na to, jak wolno ciągnął się poranek.
+
+Było dopiero kilka minut po piątej.
+
+Do śniadania pozostawały godziny.
+
+Do balu — prawie cały dzień.
+
+
+
+[C2-M0962]
+===== USER =====
+
+przewróciłem oczami i wyjąłem różdżkę a potem zacząłem ją machać bez celu
+
+
+
+[C2-M0963]
+===== ASSISTANT =====
+
+Końcówka różdżki kreśliła w półmroku przypadkowe łuki, ale bez inkantacji i wyraźnego zamiaru nic z niej nie wystrzeliwało.
+
+Raz przecięła smugę zielonkawego światła wpadającego przez okno, innym razem zatrzymała się nad pustą filiżanką. W kominku osunął się kawałek żaru i na moment rozświetlił kamienną ścianę.
+
+Po kilku minutach z korytarza prowadzącego do dormitoriów dobiegło skrzypnięcie drzwi.
+
+Ktoś najwyraźniej jednak postanowił wstać wcześniej.
+
+Po chwili w wejściu pojawił się Theodore Nott, jeszcze bez szaty, w koszuli i spodniach, z włosami wyraźnie nieprzekonanymi do tej pory dnia. Zatrzymał się, widząc Jamesa przy stoliku z różdżką w dłoni.
+
+— Brown.
+
+Spojrzał na zegar.
+
+Potem jeszcze raz na Jamesa.
+
+— Jest piąta rano.
+
+Krótka pauza.
+
+— Jeśli próbujesz przyspieszyć czas zaklęciem, uprzedzam, że McGonagall prawdopodobnie uznałaby to za nieprzemyślane.
+
+
+
+[C2-M0964]
+===== USER =====
+
+-Cześć gotowy ba dzisiejszy dzień?
+
+
+
+[C2-M0965]
+===== ASSISTANT =====
+
+Theodore spojrzał na Jamesa, potem jeszcze raz na zegar.
+
+— Cześć.
+
+Przeszedł kilka kroków dalej i oparł się o oparcie fotela.
+
+— Na dzień? Tak. Na piątą rano? Nie szczególnie.
+
+Jego wzrok przesunął się na pustą filiżankę po kawie.
+
+— Ty za to wyglądasz, jakbyś próbował przeżyć do dwudziestej siłą woli i kofeiną.
+
+Krótka pauza.
+
+— Więc jeśli pytasz o bal: wszystko, za co odpowiadam, jest gotowe. Procedury przekazane, ludzie wiedzą, co mają robić, a jeśli ktoś postanowi urządzić pojedynek o pierwszej w nocy, będziemy przynajmniej wiedzieli, kogo wyrzucić pierwszego.
+
+Kącik jego ust drgnął.
+
+— Podejrzewam jednak, że nie o organizację naprawdę pytasz.
+
+
+
+[C2-M0966]
+===== USER =====
+
+kiwnąłem głową - nie mieliśmy okazji w ogóle pogadać o bardziej przyziemnych rzeczach z kim idziesz?
+
+
+
+[C2-M0967]
+===== ASSISTANT =====
+
+Theodore przez moment milczał, jakby pytanie było znacznie prostsze niż wszystkie sprawy organizacyjne, którymi zajmowali się przez ostatnie tygodnie.
+
+— Z Daphne Greengrass.
+
+Przeszedł do stolika z kawą i nalał sobie niewielką porcję.
+
+— Zapytałem ją jakiś czas temu. Zgodziła się. Bez kampanii, tajemniczych „sił wyższych” i miesięcznego ukrywania nazwiska przed całym domem.
+
+Spojrzał na Jamesa ponad kubkiem.
+
+— Wiem. Rozczarowująco normalne.
+
+
+
+[C2-M0968]
+===== USER =====
+
+Nie, Daphne jest bardzo ładna i z tego co z nią rozmawiałem to bardzo inteligentna....bierzesz ją tylko na bal czy będą z tego dzieci?
+
+
+
+[C2-M0969]
+===== ASSISTANT =====
+
+Theodore zatrzymał kubek w połowie drogi do ust i spojrzał na Jamesa długo, bardzo spokojnie.
+
+— Brown.
+
+Krótka pauza.
+
+— Mam piętnaście lat.
+
+Napił się kawy.
+
+— Na razie planuję przetrwać cztery godziny balu, a nie ustalać imiona naszych przyszłych dzieci.
+
+Kącik jego ust drgnął ledwie zauważalnie.
+
+— Lubię Daphne. Dobrze mi się z nią rozmawia, jest rozsądna i rzeczywiście inteligentna. Dlatego ją zaprosiłem.
+
+Znów spojrzał na Jamesa.
+
+— Co będzie później, zobaczymy później. W przeciwieństwie do ciebie nie opracowałem jeszcze dziesięcioletniego planu romantycznego.
+
+
+
+[C2-M0970]
+===== USER =====
+
+Tak dokładnie to plan obejmuje 50 lat ale większość to po prostu w miarę szczęśliwe życie...
+
+
+
+[C2-M0971]
+===== ASSISTANT =====
+
+Theodore spojrzał na Jamesa znad kubka.
+
+— Ach. Pięćdziesięcioletni.
+
+Skinął głową, jakby właśnie otrzymał istotne sprostowanie.
+
+— To faktycznie zmienia postać rzeczy. Dziesięć lat brzmiało pochopnie.
+
+Upił łyk kawy.
+
+— „W miarę szczęśliwe życie” jako główny punkt planu jest przynajmniej rozsądniejsze niż większość rzeczy, które zwykle planujesz z takim wyprzedzeniem.
+
+Po krótkiej chwili dodał sucho:
+
+— Zakładam, że pierwsze dwadzieścia stron harmonogramu dotyczą dzisiejszego wieczoru.
+
+
+
+[C2-M0972]
+===== USER =====
+
+-oj tak, o ciebie się nie obawiam ale myślę że skrajne Poglądy naszego Draco mogą zamknąć naszą znajomość
+
+
+
+[C2-M0973]
+===== ASSISTANT =====
+
+Theodore przez chwilę milczał, obracając kubek w dłoniach.
+
+— Mogą.
+
+Nie próbował tego łagodzić.
+
+— Draco potrafi oddzielić człowieka od poglądu tak długo, jak różnica pozostaje abstrakcyjna. Kiedy robi się osobista… bywa znacznie gorzej.
+
+Spojrzał w stronę korytarza prowadzącego do dormitoriów.
+
+— A ty nigdy specjalnie nie ukrywałeś, że nie podzielasz jego podejścia do pochodzenia. Do tej pory mógł traktować to jako jedną z twoich osobliwości.
+
+Krótka pauza.
+
+— Jeśli dzisiaj odkryje coś, co uderzy bezpośrednio w jego przekonania albo dumę, może zareagować bardzo źle.
+
+Theodore uniósł wzrok na Jamesa.
+
+— Ale jeśli przez „zamknąć znajomość” rozumiesz, że przestanie się do ciebie odzywać na zawsze… tego bym jeszcze nie zakładał. Malfoy jest bardziej skomplikowany niż jego najgłośniejsze opinie. I bardziej uparty.
+
+Kącik jego ust lekko drgnął.
+
+— Co oznacza niestety, że jeśli się obrazi, możemy wszyscy bardzo długo o tym słuchać.
+
+
+
+[C2-M0974]
+===== USER =====
+
+Jeśli będzie trzeba to zamknę mu usta na balu...
+
+
+
+[C2-M0975]
+===== ASSISTANT =====
+
+Theodore uniósł wzrok znad kubka.
+
+— Mam nadzieję, że metaforycznie.
+
+Krótka pauza.
+
+— Bo jeśli Malfoy powie coś głupiego, możesz go zgasić słownie. Jeśli zacznie awanturę, wtedy reagujemy według procedury. Ale nie będę pomagał ci rzucać na niego zaklęć tylko dlatego, że nie spodoba ci się jego komentarz.
+
+Upił łyk kawy.
+
+— Poza tym, jeśli dzisiaj odkryje to, czego się domyślam, samo patrzenie na jego twarz może być wystarczającą karą.
+
+
+
+[C2-M0976]
+===== USER =====
+
+-Wiem ale nie będę żałować...
+
+
+
+[C2-M0977]
+===== ASSISTANT =====
+
+Theodore spojrzał na Jamesa spokojnie.
+
+— W to akurat wierzę.
+
+Odstawił kubek na stół.
+
+— Tylko postaraj się, żebyś później nie musiał żałować sposobu, w jaki to zrobisz.
+
+Krótka pauza.
+
+— Jeśli Malfoy powie coś paskudnego, nie zamierzam udawać, że nie słyszałem. Ale dzisiaj jest bal. Lepiej, żeby największym dramatem wieczoru było to, że ktoś fałszuje przy karaoke.
+
+Kącik jego ust drgnął.
+
+— Choć znając nas, to chyba zbyt optymistyczny plan.
+
+
+
+[C2-M0978]
+===== USER =====
+
+-Właśnie o drugiej dwadzieścia dwa mamy duet Sarà Perché Ti Amo mam nadzieję że znasz
+
+
+
+[C2-M0979]
+===== ASSISTANT =====
+
+Theodore znieruchomiał z kubkiem przy ustach.
+
+— O drugiej dwadzieścia dwa.
+
+Powtórzył godzinę powoli.
+
+— Oczywiście, że ustaliłeś nawet minutę mojego publicznego upokorzenia.
+
+Po chwili zmarszczył brwi.
+
+— Sarà perché ti amo… kojarzę. Włoskie. Ten absurdalnie chwytliwy refren.
+
+Spojrzał na Jamesa podejrzliwie.
+
+— Czekaj. Powiedziałeś duet.
+
+Kubek powoli opadł na stół.
+
+— Z kim dokładnie, Brown?
+
+
+
+[C2-M0980]
+===== USER =====
+
+Ja ty to już duet
+
+
+
+[C2-M0981]
+===== ASSISTANT =====
+
+Theodore patrzył na Jamesa przez dobre dwie sekundy.
+
+— Ach.
+
+Potem bardzo powoli odstawił kubek.
+
+— Czyli ty i ja.
+
+Kącik jego ust drgnął.
+
+— W takim razie wycofuję pytanie. Problem jest większy, niż sądziłem.
+
+Krótka pauza.
+
+— I nie, Brown. Nie zamierzam ćwiczyć choreografii.
+
+Spojrzał na niego z boku.
+
+— Ale skoro już wpisałeś mnie na listę bez konsultacji… znam piosenkę wystarczająco, żeby nie skompromitować się całkowicie.
+
+
+
+[C2-M0982]
+===== USER =====
+
+-bedzie dobrze bo o trzeciej spiewam sam
+
+
+
+[C2-M0983]
+===== ASSISTANT =====
+
+Theodore uniósł brew.
+
+— Sam.
+
+Przez moment wyglądał, jakby ta informacja wcale go nie uspokoiła.
+
+— Nie wiem, dlaczego mówisz to tak, jakby miało poprawić sytuację.
+
+Sięgnął znowu po kubek.
+
+— O drugiej dwadzieścia dwa duet. O trzeciej ty solo. Czyli między tymi godzinami mam około trzydziestu ośmiu minut, żeby odzyskać godność.
+
+Krótka pauza.
+
+— W co oczywiście nie wierzę.
+
+Kącik jego ust lekko drgnął.
+
+— Co śpiewasz?
+
+
+
+[C2-M0984]
+===== USER =====
+
+...A Man Without Love
+
+
+
+[C2-M0985]
+===== ASSISTANT =====
+
+Theodore zatrzymał kubek przy ustach i spojrzał na Jamesa znacznie uważniej.
+
+— A Man Without Love.
+
+Krótka cisza.
+
+— O trzeciej rano.
+
+Kącik jego ust drgnął.
+
+— Rozumiem. Czyli najpierw włoski duet, a czterdzieści minut później postanawiasz publicznie ogłosić całej sali, że subtelność została definitywnie odwołana.
+
+Upił łyk kawy.
+
+— Przynajmniej piosenka jest starsza od nas obu. To daje jej pewną godność, której wykonanie o trzeciej nad ranem prawdopodobnie szybko ją pozbawi.
+
+Po chwili dodał spokojniej:
+
+— Zakładam, że wybór utworu nie jest przypadkowy.
+
+
+
+[C2-M0986]
+===== USER =====
+
+-Po prostu mi się podoba... ale będzie też trochę sugestią...
+
+
+
+[C2-M0987]
+===== ASSISTANT =====
+
+Theodore popatrzył na Jamesa przez chwilę w milczeniu.
+
+— „Trochę sugestią”.
+
+Powtórzył to bez szczególnego pośpiechu.
+
+— Czyli jednak nie całkiem przypadkowy wybór.
+
+Odstawił kubek.
+
+— Dobrze. Nie będę pytał komu dokładnie zamierzasz coś sugerować, bo podejrzewam, że odpowiedź i tak poznam wieczorem razem z resztą szkoły.
+
+Kącik jego ust drgnął.
+
+— Tylko pamiętaj, że jeśli zaśpiewasz to zbyt przekonująco, możesz sprawić, że połowa sali zacznie analizować tekst bardziej niż powinna.
+
+
+
+[C2-M0988]
+===== USER =====
+
+Właśnie tu jest kolejny problem nie umiem śpiewać a raczej nigdy jue próbowałem
+
+
+
+[C2-M0989]
+===== ASSISTANT =====
+
+Theodore uniósł brew.
+
+— To nie jest „kolejny problem”. To jest dość istotna informacja, jeśli planujesz śpiewać solo przed kilkuset osobami.
+
+Przez moment patrzył na Jamesa, jakby próbował zdecydować, czy mówi poważnie.
+
+— Nigdy?
+
+Krótka pauza.
+
+— Nawet samemu? Pod prysznicem? Przy muzyce? Nic?
+
+Kącik jego ust drgnął.
+
+— W takim razie proponuję niezwykle śmiały plan: sprawdzić to przed trzecią rano.
+
+Sięgnął po kubek.
+
+— Masz przecież sprzęt. Pokój Życzeń. Zamknięte drzwi. I jeszcze prawie cały dzień, zanim ktokolwiek będzie miał okazję usłyszeć wynik.
+
+Po chwili dodał:
+
+— Bo istnieje niewielka, ale bardzo realna możliwość, że okaże się, iż śpiewasz całkiem dobrze.
+
+Jeszcze krótsza pauza.
+
+— Istnieje też druga możliwość.
+
+Spojrzał na niego znad kubka.
+
+— I tę zdecydowanie wolałbym odkryć przed naszym duetem.
+
+
+
+[C2-M0990]
+===== USER =====
+
+Nie no to wiadomo że sobie czasem coś podpisywałem ale nigdy nikt tego nie słyszałem a ocenianie samego siebie jest mało obiektywne
+
+
+
+[C2-M0991]
+===== ASSISTANT =====
+
+Theodore skinął głową.
+
+— To już brzmi rozsądniej.
+
+Oparł się lekko o stolik.
+
+— Sam siebie rzeczywiście trudno ocenić. Zwłaszcza jeśli znasz piosenkę i w głowie automatycznie słyszysz oryginalnego wykonawcę razem ze sobą.
+
+Kącik jego ust drgnął.
+
+— Mogę cię posłuchać później, jeśli naprawdę chcesz wiedzieć. Bez Draco, bez Pansy i bez połowy domu stojącej za drzwiami.
+
+Krótka pauza.
+
+— I uprzedzam: jeśli będzie źle, powiem, że jest źle.
+
+Spojrzał na niego spokojnie.
+
+— Jeśli będzie dobrze, też powiem. Tylko wtedy będziesz miał znacznie mniej wymówek, żeby wycofać się z trzeciej rano.
+
+
+
+[C2-M0992]
+===== USER =====
+
+-dzieku ale pójdę na żywioł najwyżej będzie bardzo śmiesznie
+
+
+
+[C2-M0993]
+===== ASSISTANT =====
+
+Theodore przez chwilę patrzył na Jamesa, po czym bardzo powoli skinął głową.
+
+— To również jest strategia.
+
+Upił łyk kawy.
+
+— Nie dobra. Ale strategia.
+
+Kącik jego ust lekko drgnął.
+
+— W najgorszym razie będzie źle przez trzy minuty, a potem przez następne trzy lata ktoś będzie ci to przypominał.
+
+Krótka pauza.
+
+— Czyli właściwie idealnie pasuje do Hogwartu.
+
+Spojrzał na niego spokojnie.
+
+— Tylko błagam: jeśli odkryjesz w połowie pierwszego refrenu, że kompletnie nie trafiasz w dźwięki, nie próbuj ratować sytuacji większą głośnością. To zwykle nie pomaga.
+
+
+
+[C2-M0994]
+===== USER =====
+
+Jasne
+
+
+
+[C2-M0995]
+===== ASSISTANT =====
+
+Theodore skinął głową, jakby uznał temat za zamknięty.
+
+— W takim razie mamy plan: ty idziesz na żywioł, ja próbuję nie żałować naszego duetu, a Draco prawdopodobnie przez cały wieczór będzie udawał, że karaoke go nie interesuje.
+
+Usiadł w jednym z foteli przy kominku i spojrzał na zegar.
+
+— Nadal jest absurdalnie wcześnie.
+
+Po chwili dodał sucho:
+
+— Co zamierzasz robić przez następne… czternaście godzin, zanim wreszcie wolno ci będzie wejść na ten bal?
+
+
+
+[C2-M0996]
+===== USER =====
+
+-nie wiem, muszę poczekać do śniadania i wtedy dopiero mogę opuścić pokój wspólny...dluga Historia
+
+
+
+[C2-M0997]
+===== ASSISTANT =====
+
+Theodore spojrzał na Jamesa przez chwilę, potem na wejście do pokoju wspólnego.
+
+— Oczywiście.
+
+Nie brzmiał szczególnie zaskoczony. Raczej jak ktoś, kto po kilku miesiącach przestał oczekiwać prostych wyjaśnień.
+
+— „Nie mogę opuścić pokoju wspólnego przed śniadaniem, długa historia” brzmi dokładnie jak coś, o co rozsądniej nie pytać o piątej rano.
+
+Usiadł wygodniej w fotelu.
+
+— W takim razie pozostaje ci kawa, kominek i patrzenie, jak wskazówki zegara odmawiają współpracy.
+
+Po krótkiej pauzie dodał:
+
+— Mogę ci przynajmniej dotrzymać towarzystwa przez jakiś czas. I tak już nie zasnę.
+
+
+
+[C2-M0998]
+===== USER =====
+
+-lepiej powiedz jak z twoimi śpiewaniem
+
+
+
+[C2-M0999]
+===== ASSISTANT =====
+
+Theodore uniósł lekko brew.
+
+— Wystarczająco dobrze, żeby nie uciekać od mikrofonu.
+
+Po chwili dodał:
+
+— Nie jestem żadnym wybitnym śpiewakiem, ale potrafię utrzymać melodię, nie gubię rytmu i wiem mniej więcej, kiedy przestać, zanim zrobi się tragicznie.
+
+Kącik jego ust drgnął.
+
+— Czyli przy naszym duecie prawdopodobnie będę pełnił funkcję człowieka, który próbuje utrzymać całość na torach.
+
+Spojrzał na Jamesa.
+
+— Ale jeśli zaczniesz specjalnie śpiewać fałszywie tylko po to, żeby zobaczyć moją reakcję, zostawię cię samego przy drugim refrenie.
+
+
+
+[C2-M1000]
+===== USER =====
+
+Zdrajca!
+
+
+

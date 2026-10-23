@@ -1,8 +1,10 @@
 # Rita Skeeter
 
-Stan C13-M1029. Wzmianki nie są dowodem wiedzy.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
 
 Rola: Dziennikarka, niezarejestrowany animag
+
+Charakter: Pamiętać schwytanie i warunki Hermiony.
 
 Granice wiedzy: Nie dopisywać wypuszczenia tylko z przyjazdu pociągu; nie wiadomo, co słyszała w innych scenach bez obecności.
 

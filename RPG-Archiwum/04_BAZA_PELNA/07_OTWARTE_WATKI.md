@@ -1,3 +1,19 @@
+# Otwarte wątki — C14
+
+- Następny ruch należy do Jamesa: odpowiedź Grahamowi, czy zostaje na Nowy Rok. Sylwester i zgoda Sprout są dopiero pomysłem. Źródła: C14-M0704.
+
+- Wręczenie Hermionie prezentu, wręczenie Lunie motyla i notesu, przedstawienie Grahama Lunie, zaproszenie Hermiony do wspólnego stołu i partia z Orlą pozostają do rozegrania. Źródła: C14-M0381, C14-M0480, C14-M0520, C14-M0648, C14-M0667.
+
+- Oczekiwana odpowiedź Weasleyów. Luna chce opowiedzieć historię osobiście; Krum i Élodie bez terminu wizyty. Randka Hermiony i wspólny lot z Harrym nadal bez potwierdzenia wykonania. Źródła: C14-M0167, C14-M0684, C14-M0690, C14-M0692, C14-M0694.
+
+- Sprawa krwawego pióra pozostaje otwarta; ostatni szlaban nie oznacza jej zamknięcia. List do Ministerstwa nie został wysłany. Źródła: C14-M0184, C14-M0185, C14-M0191, C14-M0192, C14-M0194.
+
+- Brakujące odpowiedzi C14 wymagają uzupełnienia eksportu; zachowane ID pozwolą podmienić oznaczenia bez zmiany dalszych odsyłaczy. Źródła: C14-M0330, C14-M0332, C14-M0334.
+
+---
+
+## Wcześniejsze ustalenia — historyczne
+
 # Otwarte wątki po C13
 
 Randka organizowana przez Hermionę pozostaje do rozegrania (M0917–0922). Plan lotu z Harrym i ewentualnego niskiego lotu Hermiony nie jest wykonany (M0923–0936). Kolejny trening GD planowany na środę; Harry prowadzi, James pomaga. Bezpieczeństwo grupy po dekrecie 24, poufność listy i inspekcje Umbridge pozostają aktywne. Zgłoszenie krwawego pióra z C12 nie ma potwierdzonego rozstrzygnięcia. Nie dopisuj zdrady, nowego meczu, zaręczyn ani rozstania.

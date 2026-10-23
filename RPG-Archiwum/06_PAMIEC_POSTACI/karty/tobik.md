@@ -1,8 +1,10 @@
 # Tobik
 
-Stan C13-M1029. Wzmianki nie są dowodem wiedzy.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
 
 Rola: Nazwany skrzat domu Jamesa.
+
+Charakter: Rozpoznawać gościa i wcześniejsze polecenia; nie scalać ze wszystkimi anonimowymi skrzatami.
 
 Granice wiedzy: Nie zna treści prywatnych wyznań i snu tylko dlatego, że pracuje w domu.
 

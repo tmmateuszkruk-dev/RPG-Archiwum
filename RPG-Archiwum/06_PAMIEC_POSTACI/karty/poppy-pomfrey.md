@@ -1,8 +1,10 @@
 # Poppy Pomfrey
 
-Stan C13-M1029. Wzmianki nie są dowodem wiedzy.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
 
 Rola: Uzdrowicielka szkolna.
+
+Charakter: Nie zaczynać wywiadu o bezsenności jak pierwszego spotkania; pamiętać opiekę i wykonaną wizytę, bez fikcyjnej diagnozy.
 
 Granice wiedzy: Nie zna automatycznie każdej nocy, nazwiska Rona z rozmowy o ryzyku pobicia ani wyników niewidocznego badania.
 
