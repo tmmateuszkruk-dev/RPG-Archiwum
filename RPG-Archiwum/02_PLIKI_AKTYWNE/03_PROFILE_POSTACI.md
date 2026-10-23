@@ -1,3 +1,11 @@
+# Uzupełnienie po odzyskaniu 89 odpowiedzi C14
+
+- Hermiona: M0220 przywraca książkową osobowość, ambicję, samodzielność i własne plany. W M0278 reaguje emocjonalnie, z frustracją i troską właściwymi wiekowi, nadal podtrzymuje wyjazd. M0276 odrzucone. Źródła: C14-M0220, C14-M0277, C14-M0278.
+
+- Graham, II rok Slytherinu, wspomina swój udział z Malcolmem w dawnej siatce ostrzegającej przed Hermioną. To nie nowo poznany anonimowy chłopiec; szczegóły starej operacji weryfikuj w jej źródłach. Źródła: C14-M0346, C14-M0348.
+
+---
+
 # Profile — C14
 
 - Hermiona nadal 16-letnia, samodzielna i lojalna wobec przyjaciół; prośba użytkownika o niewydoroślanie obowiązuje, lecz nowa wersja odpowiedzi nie jest dostępna. Źródła: C14-M0277, C14-M0278, C14-M0648.

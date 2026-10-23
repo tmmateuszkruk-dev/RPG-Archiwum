@@ -1,6 +1,6 @@
 # Indeks malych części — C1–C14
 
-13778 pozycji, w tym 89 luk C14. Wersja do udostępniania; jawne pominięcia nie są brakami eksportu.
+13778 wiadomości, bez luk eksportu C14. Wersja do udostępniania; jawne pominięcia nie są brakami eksportu.
 
 | Plik | Od | Do | Pozycje |
 |---|---|---|---|

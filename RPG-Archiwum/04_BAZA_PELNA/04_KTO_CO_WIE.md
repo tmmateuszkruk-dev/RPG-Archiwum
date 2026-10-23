@@ -1,3 +1,17 @@
+# Uzupełnienie po odzyskaniu 89 odpowiedzi C14
+
+- James słyszy od Umbridge wersję o Imperiusie Lucjusza i brak potwierdzenia Veritaserum. Hermiona nie uczestniczy w szlabanie, więc nie zna automatycznie tych słów. Źródła: C14-M0150, C14-M0152, C14-M0158.
+
+- Snape i James rozmawiają o dokumentacji pióra, obrażeniach dwóch uczniów i poinformowaniu dyrektora. Hermiona czeka za drzwiami, po wyjściu pyta o przebieg rozmowy; nie słyszała jej automatycznie. Źródła: C14-M0188, C14-M0190, C14-M0196, C14-M0198.
+
+- Hermiona poznaje od Neville’a fragment relacji o nocnej interwencji McGonagall i śnie Harry’ego; przekazuje go Jamesowi. Nie daje to im pełnej wiedzy o wizji ani Grimmauld Place. Źródła: C14-M0254, C14-M0258, C14-M0260, C14-M0262.
+
+- Hermiona mówi Jamesowi o niepełnym wyjaśnieniu rodzicom zmiany planów (nauka do SUM-ów). James zna cel dołączenia do Harry’ego i Weasleyów w Londynie, nie otrzymuje w tej rozmowie adresu kwatery. Źródła: C14-M0270.
+
+- Gruba Dama rozpoznaje noszenie Hermiony jako powtarzający się zwyczaj. Graham rozmawia z Jamesem o dawnej siatce i zobowiązaniu do tajemnicy; samo wspomnienie nie dowodzi, że Hermiona je słyszała. Źródła: C14-M0314, C14-M0348.
+
+---
+
 # Wiedza postaci — C14
 
 - Snape otrzymał pisemne wyjaśnienia i list Umbridge. Od Jamesa wie, że ostatni szlaban odbył się bez krwawego pióra; wie też, że groźba listu do Ministerstwa była blefem. Hermiona czekała poza gabinetem. Źródła: C14-M0176, C14-M0184, C14-M0185, C14-M0186, C14-M0191, C14-M0192.

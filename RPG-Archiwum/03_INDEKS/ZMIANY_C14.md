@@ -1,3 +1,9 @@
+# Naprawa C14
+
+Uzupełniono 89 luk, zachowano 615 pozostałych tekstów i wszystkie ID. Aktualnie 704 wiadomości C14. M0276 odrzucone, zastąpione M0278. Szczegóły: NAPRAWA_EKSPORTU_C14.json.
+
+## Historia poprzedniej publikacji
+
 # Zmiany C14
 
 14 dużych części, 76 fragmentów, 13778 pozycji. C14: 352 bloki, 704 pozycje, 615 czytelnych wiadomości, 86 pustych odpowiedzi i 3 błędy wczytania.

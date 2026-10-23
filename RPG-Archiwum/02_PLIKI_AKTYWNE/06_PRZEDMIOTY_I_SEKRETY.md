@@ -1,3 +1,11 @@
+# Uzupełnienie po odzyskaniu 89 odpowiedzi C14
+
+- Umbridge sprawdziła własne przybory Jamesa i oddała je do pisania, zachowała podpisane wyjaśnienia. Jej czarne pióro pozostało nieużyte i zostało schowane. Źródła: C14-M0124, C14-M0126, C14-M0130, C14-M0134.
+
+- Pince udostępnia trzy tomy: Standardowa księga zaklęć, stopień szósty Mirandy Goshawk, teoria zaklęć ochronnych i opracowanie magii niewerbalnej. James bierze wszystkie trzy do czytania; nie jest to dowód nauczenia się zaklęć ani wypożyczenia poza bibliotekę. Źródła: C14-M0360, C14-M0362, C14-M0363.
+
+---
+
 # Przedmioty — C14
 
 - Jednorazowa zgoda Dumbledore’a na Hogsmeade: powrót przed zmrokiem, bez wyjazdu poza wioskę. Nie daje stałego uprawnienia. Źródła: C14-M0456, C14-M0461.

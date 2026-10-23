@@ -1,6 +1,6 @@
 # Hermiona Granger
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Partnerka Jamesa; Gryffindor, V rok, prefekt.
 
@@ -39,3 +39,10 @@ Granice wiedzy: Nie zna automatycznie podsłuchu C9, pełnego zgłoszenia pióra
 - 21 XII McGonagall przekazała obojgu, że Artur żyje i jest leczony w Mungu. Nie oznacza to znajomości całej wizji Harry’ego ani adresu kwatery. Źródła: C14-M0262
 - Para pozostaje razem; list z 25 XII potwierdza miłość, tęsknotę i odmowę narzucania Ronowi odstępu. Podpisy o przyszłym mężu/narzeczonym nie są zaręczynami. Randka nadal nie ma potwierdzonego rozegrania. Źródła: C14-M0167, C14-M0648, C14-M0649
 - Z listów Jamesa zna wspólne posiłki czterech domów, szachy i bitwę na śnieżki. Chce poznać Orlę i z nią zagrać. To nie daje jej wiedzy o wszystkich rozmowach w Hogwarcie. Źródła: C14-M0605, C14-M0648
+- Czekała z książką przed gabinetem Snape’a; po wyjściu Jamesa pyta o rozmowę i pióro. Nie zna automatycznie wypowiedzianych za drzwiami słów. Źródła: C14-M0198
+- Hermiona poznaje od Neville’a fragment relacji o nocnej interwencji McGonagall i śnie Harry’ego; przekazuje go Jamesowi. Nie daje to im pełnej wiedzy o wizji ani Grimmauld Place. Źródła: C14-M0254, C14-M0258, C14-M0260, C14-M0262
+- Hermiona mówi Jamesowi o niepełnym wyjaśnieniu rodzicom zmiany planów (nauka do SUM-ów). James zna cel dołączenia do Harry’ego i Weasleyów w Londynie, nie otrzymuje w tej rozmowie adresu kwatery. Źródła: C14-M0270
+- Hermiona pamięta obiecaną randkę; ma pomysł i część przygotowań, ale nie ustala terminu. Przedświąteczne popołudnie nie zostało nazwane wykonaniem tej obietnicy. Źródła: C14-M0168, C14-M0222, C14-M0238, C14-M0240, C14-M0288, C14-M0306
+- James deklaruje zaufanie i smutek. Obowiązujące M0278 zachowuje wyjazd Hermiony, jej troskę i frustrację; nie oznacza wyboru Rona jako partnera. Rozmowa o wspólnej przyszłości nie jest zaręczynami. Źródła: C14-M0238, C14-M0240, C14-M0275, C14-M0278
+- M0276 zostało odrzucone; obowiązuje M0278. Troska o Jamesa, emocjonalna frustracja i przyjaźń z Weasleyami współistnieją; decyzja o wyjeździe zostaje. To korekta narracji, nie wiedza postaci o OOC. Źródła: C14-M0277, C14-M0278
+- 22 XII wspólne popołudnie w Pokoju Życzeń, potem odprowadzenie z kufrem i pożegnanie przy bramie. Hermiona odchodzi z grupą pod nadzorem; obiecuje pisać i przekazać pozdrowienia, co samo w sobie nie potwierdza ich doręczenia. Źródła: C14-M0288, C14-M0306, C14-M0314, C14-M0320, C14-M0326

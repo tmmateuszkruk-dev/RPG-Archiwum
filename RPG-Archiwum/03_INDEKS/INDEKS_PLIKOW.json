@@ -3,7 +3,7 @@
   "current_id": "C14-M0704",
   "messages": 13778,
   "merged_file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_1-14_SCALONE.txt",
-  "merged_sha256": "8e6e4b519a85bd0438cfabce97d28712bdc9eb64e9ff33c900a651dbebb2d047",
+  "merged_sha256": "2ee81d845eb5ea07f3d2815769e98b809c2499b943d1f0021de87af0eaa4bb88",
   "small": [
     {
       "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_001_C1-M0001_C1-M0200.txt",
@@ -586,16 +586,16 @@
       "first": "C14-M0001",
       "last": "C14-M0200",
       "messages": 200,
-      "bytes": 180439,
-      "sha256": "fa101a43d8d71623e88964c8d079c9ea4624fdc621112bf26fdeb6ecabd1589a"
+      "bytes": 232085,
+      "sha256": "c33c36562f21e4dbc7d648206a661541546ca1340fa4a87a6174462b770df4da"
     },
     {
       "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_074_C14-M0201_C14-M0400.txt",
       "first": "C14-M0201",
       "last": "C14-M0400",
       "messages": 200,
-      "bytes": 102081,
-      "sha256": "98e2e99bf0c21e12b21d6b0d2798b47facf622576c38089e93aea7d639468c32"
+      "bytes": 219822,
+      "sha256": "a1446ff8f94edc34668ad003abd6947b3a9ab342a02d0033f12ed297662bd10f"
     },
     {
       "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci/ARCHIWUM_075_C14-M0401_C14-M0600.txt",
@@ -737,11 +737,12 @@
       "first": "C14-M0001",
       "last": "C14-M0704",
       "messages": 704,
-      "bytes": 620746,
-      "sha256": "4180d0b6a6d517272383f78a5d09846a0ab4f9c723fb9ea4f57ee35653975616",
+      "bytes": 790133,
+      "sha256": "2dc1dc8c92517dd378e15a9d398d522f7a5fa8307877c89c20e3a5d3f96fcb23",
       "part": 14
     }
   ],
-  "content_note": "Wersja do udostępniania z oznaczonymi pominięciami i lukami eksportu. Stare pliki źródłowe C1–C13 w repozytorium niezmienione.",
-  "missing_c14": 89
+  "content_note": "Poprawiony eksport C14: 704 wiadomości, 0 luk eksportu; wszystkie ID zachowane. Odrzucone warianty i jawne pominięcia to osobne statusy.",
+  "missing_c14": 0,
+  "recovered_c14": 89
 }

@@ -1,3 +1,13 @@
+# Uzupełnienie po odzyskaniu 89 odpowiedzi C14
+
+- Hermiona pamięta obiecaną randkę; ma pomysł i część przygotowań, ale nie ustala terminu. Przedświąteczne popołudnie nie zostało nazwane wykonaniem tej obietnicy. Źródła: C14-M0168, C14-M0222, C14-M0238, C14-M0240, C14-M0288, C14-M0306.
+
+- James deklaruje zaufanie i smutek. Obowiązujące M0278 zachowuje wyjazd Hermiony, jej troskę i frustrację; nie oznacza wyboru Rona jako partnera. Rozmowa o wspólnej przyszłości nie jest zaręczynami. Źródła: C14-M0238, C14-M0240, C14-M0275, C14-M0278.
+
+- Noszenie Hermiony, żarty i pożegnanie są wspólnymi doświadczeniami. Gruba Dama pamięta wcześniejsze noszenie, a Hermiona wprost stwierdza, że odbywało się wiele razy. Źródła: C14-M0160, C14-M0162, C14-M0282, C14-M0308, C14-M0314, C14-M0326.
+
+---
+
 # Relacje — C14
 
 - James i Hermiona pozostają parą. Święta spędzają osobno; list Hermiony potwierdza uczucia i jej prawo do przyjaźni z Ronem. Brak zaręczyn i rozstania. Źródła: C14-M0248, C14-M0280, C14-M0648, C14-M0649.

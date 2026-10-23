@@ -3,12 +3,12 @@
     "campaign": "Hogwarts — James Brown / Hermiona, C1–C12; nie świat ślubu z Luną",
     "cutoff": "C14-M0704",
     "source_repository": "tmmateuszkruk-dev/RPG-Archiwum",
-    "source_commit": "Publikacja C14 — patrz historia Git.",
-    "source_sha256": "8e6e4b519a85bd0438cfabce97d28712bdc9eb64e9ff33c900a651dbebb2d047",
+    "source_commit": "Naprawa C14 — patrz historia Git",
+    "source_sha256": "2ee81d845eb5ea07f3d2815769e98b809c2499b943d1f0021de87af0eaa4bb88",
     "messages_indexed": 12045,
     "cards": 131,
     "source_bytes": 6841170,
-    "coverage": "Zachowano wcześniejsze fakty; przyrost C14 ze źródeł dostępnych. 89 luk eksportu jawnie oznaczono. Wzmianka nie jest dowodem wiedzy, a synteza nie jest pełną transkrypcją.",
+    "coverage": "C14: 704 wiadomości, 89 luk odzyskanych. Starsze fakty zachowane; nowe wpisy ze źródeł, z wykluczeniem M0276. Wzmianka nie jest dowodem wiedzy.",
     "limitations": [
       "Katalog obejmuje rozpoznane nazwane postacie, zwierzęta, osoby anonimowe i wzmianki; anonimowy tłum nie ma wymyślonych indywidualnych kart.",
       "Trafienie imienia nie ustanawia obecności, wiedzy ani wspomnienia.",
@@ -310,7 +310,7 @@
         },
         {
           "id": "james-brown-C14-020",
-          "text": "Podczas listopadowego szlabanu James korzystał z własnych przyborów, złożył pisemne wyjaśnienia i przepisał sto zdań; kara została zakończona. Odpowiedzi na pytania o Lucjusza i Veritaserum nie ma w eksporcie.",
+          "text": "Podczas listopadowego szlabanu James korzystał z własnych przyborów, złożył pisemne wyjaśnienia i przepisał sto zdań; kara została zakończona. Umbridge przedstawiła wersję o Imperiusie i braku skazania Lucjusza; nie potwierdziła użycia Veritaserum (C14-M0150, C14-M0152).",
           "sources": [
             "C14-M0120",
             "C14-M0121",
@@ -319,7 +319,9 @@
             "C14-M0146",
             "C14-M0149",
             "C14-M0151",
-            "C14-M0154"
+            "C14-M0154",
+            "C14-M0150",
+            "C14-M0152"
           ],
           "source_label": "C14 — przyrost ze sprawdzonych fragmentów",
           "evidence": "Synteza dostępnego tekstu; sprawdź źródła, luki i korekty.",
@@ -581,6 +583,151 @@
           "latest_evidence_id": "C14-M0704",
           "sources_verified_exist": true,
           "temporal_rule": "Wiedza od zdarzenia; nie przenosić wstecz."
+        },
+        {
+          "id": "james-brown-C14R-001",
+          "text": "James słyszy od Umbridge wersję o Imperiusie Lucjusza i brak potwierdzenia Veritaserum. Hermiona nie uczestniczy w szlabanie, więc nie zna automatycznie tych słów.",
+          "sources": [
+            "C14-M0150",
+            "C14-M0152",
+            "C14-M0158"
+          ],
+          "source_label": "Ponowny eksport C14 — odzyskane odpowiedzi",
+          "evidence": "Odczyt odzyskanego tekstu, z uwzględnieniem korekt.",
+          "latest_evidence_id": "C14-M0158",
+          "sources_verified_exist": true,
+          "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
+        },
+        {
+          "id": "james-brown-C14R-003",
+          "text": "Sprawa pióra pozostaje nierozstrzygnięta. Snape zaleca dokumentowanie nadużyć i zgłoszenie ponownego użycia; nie nakazuje milczenia ani nie ogłasza skutecznego postępowania Ministerstwa.",
+          "sources": [
+            "C14-M0188",
+            "C14-M0190",
+            "C14-M0196",
+            "C14-M0222"
+          ],
+          "source_label": "Ponowny eksport C14 — odzyskane odpowiedzi",
+          "evidence": "Odczyt odzyskanego tekstu, z uwzględnieniem korekt.",
+          "latest_evidence_id": "C14-M0222",
+          "sources_verified_exist": true,
+          "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
+        },
+        {
+          "id": "james-brown-C14R-006",
+          "text": "Hermiona poznaje od Neville’a fragment relacji o nocnej interwencji McGonagall i śnie Harry’ego; przekazuje go Jamesowi. Nie daje to im pełnej wiedzy o wizji ani Grimmauld Place.",
+          "sources": [
+            "C14-M0254",
+            "C14-M0258",
+            "C14-M0260",
+            "C14-M0262"
+          ],
+          "source_label": "Ponowny eksport C14 — odzyskane odpowiedzi",
+          "evidence": "Odczyt odzyskanego tekstu, z uwzględnieniem korekt.",
+          "latest_evidence_id": "C14-M0262",
+          "sources_verified_exist": true,
+          "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
+        },
+        {
+          "id": "james-brown-C14R-008",
+          "text": "Hermiona mówi Jamesowi o niepełnym wyjaśnieniu rodzicom zmiany planów (nauka do SUM-ów). James zna cel dołączenia do Harry’ego i Weasleyów w Londynie, nie otrzymuje w tej rozmowie adresu kwatery.",
+          "sources": [
+            "C14-M0270"
+          ],
+          "source_label": "Ponowny eksport C14 — odzyskane odpowiedzi",
+          "evidence": "Odczyt odzyskanego tekstu, z uwzględnieniem korekt.",
+          "latest_evidence_id": "C14-M0270",
+          "sources_verified_exist": true,
+          "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
+        },
+        {
+          "id": "james-brown-C14R-010",
+          "text": "Hermiona pamięta obiecaną randkę; ma pomysł i część przygotowań, ale nie ustala terminu. Przedświąteczne popołudnie nie zostało nazwane wykonaniem tej obietnicy.",
+          "sources": [
+            "C14-M0168",
+            "C14-M0222",
+            "C14-M0238",
+            "C14-M0240",
+            "C14-M0288",
+            "C14-M0306"
+          ],
+          "source_label": "Ponowny eksport C14 — odzyskane odpowiedzi",
+          "evidence": "Odczyt odzyskanego tekstu, z uwzględnieniem korekt.",
+          "latest_evidence_id": "C14-M0306",
+          "sources_verified_exist": true,
+          "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
+        },
+        {
+          "id": "james-brown-C14R-012",
+          "text": "James deklaruje zaufanie i smutek. Obowiązujące M0278 zachowuje wyjazd Hermiony, jej troskę i frustrację; nie oznacza wyboru Rona jako partnera. Rozmowa o wspólnej przyszłości nie jest zaręczynami.",
+          "sources": [
+            "C14-M0238",
+            "C14-M0240",
+            "C14-M0275",
+            "C14-M0278"
+          ],
+          "source_label": "Ponowny eksport C14 — odzyskane odpowiedzi",
+          "evidence": "Odczyt odzyskanego tekstu, z uwzględnieniem korekt.",
+          "latest_evidence_id": "C14-M0278",
+          "sources_verified_exist": true,
+          "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
+        },
+        {
+          "id": "james-brown-C14R-015",
+          "text": "22 XII wspólne popołudnie w Pokoju Życzeń, potem odprowadzenie z kufrem i pożegnanie przy bramie. Hermiona odchodzi z grupą pod nadzorem; obiecuje pisać i przekazać pozdrowienia, co samo w sobie nie potwierdza ich doręczenia.",
+          "sources": [
+            "C14-M0288",
+            "C14-M0306",
+            "C14-M0314",
+            "C14-M0320",
+            "C14-M0326"
+          ],
+          "source_label": "Ponowny eksport C14 — odzyskane odpowiedzi",
+          "evidence": "Odczyt odzyskanego tekstu, z uwzględnieniem korekt.",
+          "latest_evidence_id": "C14-M0326",
+          "sources_verified_exist": true,
+          "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
+        },
+        {
+          "id": "james-brown-C14R-018",
+          "text": "23 XII nad ranem Graham przypomina, że on i Malcolm należeli do siatki ostrzegającej przed Hermioną. Opowiada o trzech mrugnięciach i dawnym fałszywym alarmie Malcolma; zobowiązuje się zachować tajemnicę. Detale tej relacji wymagają porównania z pierwotną sceną, nie zastępują jej.",
+          "sources": [
+            "C14-M0346",
+            "C14-M0348",
+            "C14-M0352"
+          ],
+          "source_label": "Ponowny eksport C14 — odzyskane odpowiedzi",
+          "evidence": "Odczyt odzyskanego tekstu, z uwzględnieniem korekt.",
+          "latest_evidence_id": "C14-M0352",
+          "sources_verified_exist": true,
+          "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
+        },
+        {
+          "id": "james-brown-C14R-020",
+          "text": "Pince udostępnia trzy tomy: Standardowa księga zaklęć, stopień szósty Mirandy Goshawk, teoria zaklęć ochronnych i opracowanie magii niewerbalnej. James bierze wszystkie trzy do czytania; nie jest to dowód nauczenia się zaklęć ani wypożyczenia poza bibliotekę.",
+          "sources": [
+            "C14-M0360",
+            "C14-M0362",
+            "C14-M0363"
+          ],
+          "source_label": "Ponowny eksport C14 — odzyskane odpowiedzi",
+          "evidence": "Odczyt odzyskanego tekstu, z uwzględnieniem korekt.",
+          "latest_evidence_id": "C14-M0363",
+          "sources_verified_exist": true,
+          "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
+        },
+        {
+          "id": "james-brown-C14R-022",
+          "text": "Listopad: pokaz karmienia testrala i pytanie o lot; Hagrid proponuje lot w przyszłości, bez odbycia go na lekcji.",
+          "sources": [
+            "C14-M0096",
+            "C14-M0102"
+          ],
+          "source_label": "Ponowny eksport C14 — odzyskane odpowiedzi",
+          "evidence": "Odczyt odzyskanego tekstu, z uwzględnieniem korekt.",
+          "latest_evidence_id": "C14-M0102",
+          "sources_verified_exist": true,
+          "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
         }
       ],
       "mention_ids": [
@@ -5809,59 +5956,148 @@
         "C14-M0090",
         "C14-M0092",
         "C14-M0094",
+        "C14-M0096",
         "C14-M0098",
         "C14-M0100",
+        "C14-M0102",
         "C14-M0104",
         "C14-M0106",
         "C14-M0108",
+        "C14-M0110",
         "C14-M0112",
         "C14-M0114",
         "C14-M0116",
+        "C14-M0118",
         "C14-M0120",
         "C14-M0121",
         "C14-M0122",
+        "C14-M0124",
         "C14-M0125",
+        "C14-M0126",
         "C14-M0128",
+        "C14-M0130",
+        "C14-M0132",
+        "C14-M0134",
         "C14-M0136",
         "C14-M0138",
+        "C14-M0140",
+        "C14-M0142",
         "C14-M0144",
         "C14-M0145",
         "C14-M0146",
         "C14-M0148",
         "C14-M0149",
+        "C14-M0150",
         "C14-M0151",
+        "C14-M0152",
         "C14-M0154",
         "C14-M0156",
+        "C14-M0158",
+        "C14-M0160",
+        "C14-M0162",
         "C14-M0164",
         "C14-M0166",
         "C14-M0167",
+        "C14-M0168",
+        "C14-M0170",
         "C14-M0172",
         "C14-M0174",
         "C14-M0176",
+        "C14-M0178",
+        "C14-M0180",
         "C14-M0182",
         "C14-M0184",
         "C14-M0185",
         "C14-M0186",
+        "C14-M0188",
+        "C14-M0190",
         "C14-M0191",
         "C14-M0192",
         "C14-M0194",
+        "C14-M0196",
+        "C14-M0198",
         "C14-M0200",
         "C14-M0202",
+        "C14-M0204",
+        "C14-M0206",
         "C14-M0208",
         "C14-M0210",
+        "C14-M0212",
+        "C14-M0214",
+        "C14-M0216",
         "C14-M0218",
+        "C14-M0220",
+        "C14-M0222",
+        "C14-M0224",
         "C14-M0226",
         "C14-M0228",
         "C14-M0230",
+        "C14-M0232",
         "C14-M0234",
+        "C14-M0236",
+        "C14-M0238",
+        "C14-M0240",
+        "C14-M0242",
         "C14-M0244",
         "C14-M0246",
         "C14-M0248",
+        "C14-M0250",
+        "C14-M0252",
+        "C14-M0254",
+        "C14-M0256",
+        "C14-M0258",
+        "C14-M0260",
         "C14-M0262",
+        "C14-M0264",
+        "C14-M0266",
+        "C14-M0268",
+        "C14-M0270",
+        "C14-M0272",
+        "C14-M0274",
+        "C14-M0275",
+        "C14-M0276",
+        "C14-M0278",
         "C14-M0280",
+        "C14-M0282",
+        "C14-M0284",
+        "C14-M0286",
+        "C14-M0288",
+        "C14-M0290",
+        "C14-M0292",
+        "C14-M0294",
+        "C14-M0296",
+        "C14-M0298",
+        "C14-M0300",
         "C14-M0302",
+        "C14-M0304",
+        "C14-M0306",
+        "C14-M0308",
         "C14-M0310",
+        "C14-M0312",
+        "C14-M0314",
+        "C14-M0316",
+        "C14-M0318",
+        "C14-M0320",
+        "C14-M0322",
+        "C14-M0324",
+        "C14-M0326",
+        "C14-M0328",
+        "C14-M0330",
+        "C14-M0332",
+        "C14-M0338",
+        "C14-M0340",
+        "C14-M0342",
+        "C14-M0344",
+        "C14-M0346",
+        "C14-M0348",
+        "C14-M0350",
+        "C14-M0352",
+        "C14-M0354",
         "C14-M0356",
+        "C14-M0358",
+        "C14-M0360",
+        "C14-M0362",
+        "C14-M0363",
         "C14-M0364",
         "C14-M0366",
         "C14-M0368",
@@ -6069,7 +6305,7 @@
         "C14-M0703",
         "C14-M0704"
       ],
-      "mention_count": 5484
+      "mention_count": 5573
     },
     {
       "id": "hermiona-granger",
@@ -6536,6 +6772,106 @@
           "latest_evidence_id": "C14-M0648",
           "sources_verified_exist": true,
           "temporal_rule": "Wiedza od zdarzenia; nie przenosić wstecz."
+        },
+        {
+          "id": "hermiona-granger-C14R-005",
+          "text": "Czekała z książką przed gabinetem Snape’a; po wyjściu Jamesa pyta o rozmowę i pióro. Nie zna automatycznie wypowiedzianych za drzwiami słów.",
+          "sources": [
+            "C14-M0198"
+          ],
+          "source_label": "Ponowny eksport C14 — odzyskane odpowiedzi",
+          "evidence": "Odczyt odzyskanego tekstu, z uwzględnieniem korekt.",
+          "latest_evidence_id": "C14-M0198",
+          "sources_verified_exist": true,
+          "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
+        },
+        {
+          "id": "hermiona-granger-C14R-007",
+          "text": "Hermiona poznaje od Neville’a fragment relacji o nocnej interwencji McGonagall i śnie Harry’ego; przekazuje go Jamesowi. Nie daje to im pełnej wiedzy o wizji ani Grimmauld Place.",
+          "sources": [
+            "C14-M0254",
+            "C14-M0258",
+            "C14-M0260",
+            "C14-M0262"
+          ],
+          "source_label": "Ponowny eksport C14 — odzyskane odpowiedzi",
+          "evidence": "Odczyt odzyskanego tekstu, z uwzględnieniem korekt.",
+          "latest_evidence_id": "C14-M0262",
+          "sources_verified_exist": true,
+          "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
+        },
+        {
+          "id": "hermiona-granger-C14R-009",
+          "text": "Hermiona mówi Jamesowi o niepełnym wyjaśnieniu rodzicom zmiany planów (nauka do SUM-ów). James zna cel dołączenia do Harry’ego i Weasleyów w Londynie, nie otrzymuje w tej rozmowie adresu kwatery.",
+          "sources": [
+            "C14-M0270"
+          ],
+          "source_label": "Ponowny eksport C14 — odzyskane odpowiedzi",
+          "evidence": "Odczyt odzyskanego tekstu, z uwzględnieniem korekt.",
+          "latest_evidence_id": "C14-M0270",
+          "sources_verified_exist": true,
+          "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
+        },
+        {
+          "id": "hermiona-granger-C14R-011",
+          "text": "Hermiona pamięta obiecaną randkę; ma pomysł i część przygotowań, ale nie ustala terminu. Przedświąteczne popołudnie nie zostało nazwane wykonaniem tej obietnicy.",
+          "sources": [
+            "C14-M0168",
+            "C14-M0222",
+            "C14-M0238",
+            "C14-M0240",
+            "C14-M0288",
+            "C14-M0306"
+          ],
+          "source_label": "Ponowny eksport C14 — odzyskane odpowiedzi",
+          "evidence": "Odczyt odzyskanego tekstu, z uwzględnieniem korekt.",
+          "latest_evidence_id": "C14-M0306",
+          "sources_verified_exist": true,
+          "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
+        },
+        {
+          "id": "hermiona-granger-C14R-013",
+          "text": "James deklaruje zaufanie i smutek. Obowiązujące M0278 zachowuje wyjazd Hermiony, jej troskę i frustrację; nie oznacza wyboru Rona jako partnera. Rozmowa o wspólnej przyszłości nie jest zaręczynami.",
+          "sources": [
+            "C14-M0238",
+            "C14-M0240",
+            "C14-M0275",
+            "C14-M0278"
+          ],
+          "source_label": "Ponowny eksport C14 — odzyskane odpowiedzi",
+          "evidence": "Odczyt odzyskanego tekstu, z uwzględnieniem korekt.",
+          "latest_evidence_id": "C14-M0278",
+          "sources_verified_exist": true,
+          "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
+        },
+        {
+          "id": "hermiona-granger-C14R-014",
+          "text": "M0276 zostało odrzucone; obowiązuje M0278. Troska o Jamesa, emocjonalna frustracja i przyjaźń z Weasleyami współistnieją; decyzja o wyjeździe zostaje. To korekta narracji, nie wiedza postaci o OOC.",
+          "sources": [
+            "C14-M0277",
+            "C14-M0278"
+          ],
+          "source_label": "Ponowny eksport C14 — odzyskane odpowiedzi",
+          "evidence": "Odczyt odzyskanego tekstu, z uwzględnieniem korekt.",
+          "latest_evidence_id": "C14-M0278",
+          "sources_verified_exist": true,
+          "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
+        },
+        {
+          "id": "hermiona-granger-C14R-016",
+          "text": "22 XII wspólne popołudnie w Pokoju Życzeń, potem odprowadzenie z kufrem i pożegnanie przy bramie. Hermiona odchodzi z grupą pod nadzorem; obiecuje pisać i przekazać pozdrowienia, co samo w sobie nie potwierdza ich doręczenia.",
+          "sources": [
+            "C14-M0288",
+            "C14-M0306",
+            "C14-M0314",
+            "C14-M0320",
+            "C14-M0326"
+          ],
+          "source_label": "Ponowny eksport C14 — odzyskane odpowiedzi",
+          "evidence": "Odczyt odzyskanego tekstu, z uwzględnieniem korekt.",
+          "latest_evidence_id": "C14-M0326",
+          "sources_verified_exist": true,
+          "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
         }
       ],
       "mention_ids": [
@@ -12656,46 +12992,112 @@
         "C14-M0090",
         "C14-M0092",
         "C14-M0094",
+        "C14-M0096",
         "C14-M0098",
         "C14-M0100",
+        "C14-M0102",
         "C14-M0104",
         "C14-M0106",
         "C14-M0108",
+        "C14-M0110",
+        "C14-M0158",
+        "C14-M0160",
+        "C14-M0162",
         "C14-M0164",
         "C14-M0166",
         "C14-M0167",
+        "C14-M0168",
+        "C14-M0170",
         "C14-M0172",
         "C14-M0174",
         "C14-M0176",
+        "C14-M0178",
+        "C14-M0180",
         "C14-M0182",
         "C14-M0184",
+        "C14-M0196",
+        "C14-M0198",
         "C14-M0200",
         "C14-M0202",
+        "C14-M0204",
+        "C14-M0206",
         "C14-M0208",
         "C14-M0210",
+        "C14-M0212",
+        "C14-M0214",
+        "C14-M0216",
         "C14-M0218",
+        "C14-M0220",
+        "C14-M0222",
+        "C14-M0224",
         "C14-M0226",
         "C14-M0228",
         "C14-M0230",
+        "C14-M0232",
         "C14-M0234",
+        "C14-M0236",
+        "C14-M0238",
+        "C14-M0240",
         "C14-M0241",
+        "C14-M0242",
         "C14-M0244",
         "C14-M0246",
         "C14-M0248",
+        "C14-M0250",
+        "C14-M0252",
+        "C14-M0254",
+        "C14-M0256",
         "C14-M0257",
+        "C14-M0258",
+        "C14-M0260",
         "C14-M0261",
         "C14-M0262",
+        "C14-M0264",
+        "C14-M0266",
+        "C14-M0268",
         "C14-M0269",
+        "C14-M0270",
+        "C14-M0272",
+        "C14-M0274",
+        "C14-M0275",
+        "C14-M0276",
+        "C14-M0277",
+        "C14-M0278",
         "C14-M0280",
         "C14-M0281",
+        "C14-M0282",
+        "C14-M0284",
+        "C14-M0286",
+        "C14-M0288",
+        "C14-M0290",
+        "C14-M0292",
+        "C14-M0294",
+        "C14-M0296",
+        "C14-M0298",
         "C14-M0299",
+        "C14-M0300",
         "C14-M0302",
+        "C14-M0304",
+        "C14-M0306",
+        "C14-M0308",
         "C14-M0310",
+        "C14-M0312",
+        "C14-M0314",
+        "C14-M0316",
         "C14-M0317",
+        "C14-M0318",
+        "C14-M0320",
+        "C14-M0322",
+        "C14-M0324",
+        "C14-M0326",
         "C14-M0339",
+        "C14-M0348",
         "C14-M0349",
+        "C14-M0350",
         "C14-M0355",
         "C14-M0356",
+        "C14-M0358",
+        "C14-M0362",
         "C14-M0363",
         "C14-M0364",
         "C14-M0366",
@@ -12781,7 +13183,7 @@
         "C14-M0701",
         "C14-M0702"
       ],
-      "mention_count": 6241
+      "mention_count": 6307
     },
     {
       "id": "theodore-nott",
@@ -14024,11 +14426,13 @@
         "C14-M0078",
         "C14-M0080",
         "C14-M0082",
+        "C14-M0170",
+        "C14-M0260",
         "C14-M0409",
         "C14-M0410",
         "C14-M0414"
       ],
-      "mention_count": 1141
+      "mention_count": 1143
     },
     {
       "id": "draco-malfoy",
@@ -15408,14 +15812,24 @@
         "C14-M0092",
         "C14-M0093",
         "C14-M0094",
+        "C14-M0096",
         "C14-M0098",
         "C14-M0100",
+        "C14-M0102",
         "C14-M0104",
         "C14-M0106",
         "C14-M0108",
         "C14-M0149",
+        "C14-M0150",
+        "C14-M0152",
+        "C14-M0170",
         "C14-M0172",
         "C14-M0176",
+        "C14-M0180",
+        "C14-M0188",
+        "C14-M0260",
+        "C14-M0306",
+        "C14-M0346",
         "C14-M0394",
         "C14-M0395",
         "C14-M0396",
@@ -15425,7 +15839,7 @@
         "C14-M0410",
         "C14-M0414"
       ],
-      "mention_count": 1285
+      "mention_count": 1295
     },
     {
       "id": "pansy-parkinson",
@@ -16370,10 +16784,13 @@
         "C14-M0094",
         "C14-M0098",
         "C14-M0100",
+        "C14-M0102",
         "C14-M0108",
-        "C14-M0176"
+        "C14-M0170",
+        "C14-M0176",
+        "C14-M0260"
       ],
-      "mention_count": 858
+      "mention_count": 861
     },
     {
       "id": "harry-potter",
@@ -17916,23 +18333,42 @@
         "C14-M0090",
         "C14-M0092",
         "C14-M0094",
+        "C14-M0096",
         "C14-M0098",
         "C14-M0100",
+        "C14-M0102",
         "C14-M0104",
         "C14-M0106",
         "C14-M0108",
+        "C14-M0110",
         "C14-M0166",
+        "C14-M0170",
         "C14-M0172",
         "C14-M0174",
         "C14-M0176",
+        "C14-M0178",
+        "C14-M0180",
+        "C14-M0188",
         "C14-M0192",
         "C14-M0194",
+        "C14-M0222",
+        "C14-M0224",
         "C14-M0225",
         "C14-M0226",
         "C14-M0228",
         "C14-M0230",
+        "C14-M0254",
+        "C14-M0256",
+        "C14-M0258",
+        "C14-M0260",
         "C14-M0262",
+        "C14-M0264",
+        "C14-M0270",
+        "C14-M0272",
+        "C14-M0276",
+        "C14-M0278",
         "C14-M0280",
+        "C14-M0326",
         "C14-M0682",
         "C14-M0696",
         "C14-M0698",
@@ -17941,7 +18377,7 @@
         "C14-M0702",
         "C14-M0704"
       ],
-      "mention_count": 1395
+      "mention_count": 1414
     },
     {
       "id": "ron-weasley",
@@ -19335,19 +19771,40 @@
         "C14-M0090",
         "C14-M0092",
         "C14-M0094",
+        "C14-M0096",
         "C14-M0098",
         "C14-M0100",
+        "C14-M0102",
         "C14-M0104",
         "C14-M0106",
+        "C14-M0110",
         "C14-M0164",
         "C14-M0166",
+        "C14-M0170",
         "C14-M0172",
         "C14-M0174",
         "C14-M0176",
+        "C14-M0178",
+        "C14-M0180",
+        "C14-M0222",
+        "C14-M0250",
+        "C14-M0254",
+        "C14-M0258",
+        "C14-M0260",
         "C14-M0262",
+        "C14-M0264",
         "C14-M0265",
+        "C14-M0266",
+        "C14-M0268",
+        "C14-M0270",
         "C14-M0271",
+        "C14-M0272",
         "C14-M0273",
+        "C14-M0274",
+        "C14-M0276",
+        "C14-M0278",
+        "C14-M0312",
+        "C14-M0326",
         "C14-M0421",
         "C14-M0591",
         "C14-M0594",
@@ -19356,7 +19813,7 @@
         "C14-M0648",
         "C14-M0682"
       ],
-      "mention_count": 1297
+      "mention_count": 1318
     },
     {
       "id": "ginny-weasley",
@@ -20018,18 +20475,30 @@
         "C13-M0954",
         "C14-M0060",
         "C14-M0166",
+        "C14-M0170",
+        "C14-M0222",
         "C14-M0223",
+        "C14-M0224",
         "C14-M0225",
         "C14-M0226",
         "C14-M0228",
         "C14-M0230",
+        "C14-M0232",
         "C14-M0233",
         "C14-M0234",
+        "C14-M0236",
+        "C14-M0254",
+        "C14-M0258",
         "C14-M0262",
+        "C14-M0264",
+        "C14-M0270",
+        "C14-M0272",
+        "C14-M0278",
+        "C14-M0326",
         "C14-M0649",
         "C14-M0682"
       ],
-      "mention_count": 563
+      "mention_count": 575
     },
     {
       "id": "luna-lovegood",
@@ -20373,9 +20842,12 @@
         "C13-M0938",
         "C13-M0948",
         "C14-M0060",
+        "C14-M0222",
         "C14-M0233",
         "C14-M0234",
+        "C14-M0236",
         "C14-M0333",
+        "C14-M0334",
         "C14-M0420",
         "C14-M0445",
         "C14-M0446",
@@ -20408,7 +20880,7 @@
         "C14-M0688",
         "C14-M0690"
       ],
-      "mention_count": 308
+      "mention_count": 311
     },
     {
       "id": "viktor-krum",
@@ -20970,6 +21442,7 @@
         "C13-M0704",
         "C13-M0706",
         "C14-M0333",
+        "C14-M0334",
         "C14-M0420",
         "C14-M0605",
         "C14-M0682",
@@ -20978,7 +21451,7 @@
         "C14-M0693",
         "C14-M0694"
       ],
-      "mention_count": 199
+      "mention_count": 200
     },
     {
       "id": "aleksiej",
@@ -21087,6 +21560,21 @@
           "latest_evidence_id": "C14-M0194",
           "sources_verified_exist": true,
           "temporal_rule": "Wiedza od zdarzenia; nie przenosić wstecz."
+        },
+        {
+          "id": "severus-snape-C14R-004",
+          "text": "Sprawa pióra pozostaje nierozstrzygnięta. Snape zaleca dokumentowanie nadużyć i zgłoszenie ponownego użycia; nie nakazuje milczenia ani nie ogłasza skutecznego postępowania Ministerstwa.",
+          "sources": [
+            "C14-M0188",
+            "C14-M0190",
+            "C14-M0196",
+            "C14-M0222"
+          ],
+          "source_label": "Ponowny eksport C14 — odzyskane odpowiedzi",
+          "evidence": "Odczyt odzyskanego tekstu, z uwzględnieniem korekt.",
+          "latest_evidence_id": "C14-M0222",
+          "sources_verified_exist": true,
+          "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
         }
       ],
       "mention_ids": [
@@ -21479,20 +21967,36 @@
         "C14-M0060",
         "C14-M0100",
         "C14-M0104",
+        "C14-M0110",
+        "C14-M0118",
+        "C14-M0130",
+        "C14-M0134",
         "C14-M0136",
         "C14-M0138",
         "C14-M0146",
+        "C14-M0150",
         "C14-M0156",
         "C14-M0176",
+        "C14-M0178",
+        "C14-M0180",
         "C14-M0182",
         "C14-M0184",
         "C14-M0185",
         "C14-M0186",
+        "C14-M0188",
+        "C14-M0190",
         "C14-M0191",
         "C14-M0192",
         "C14-M0194",
+        "C14-M0196",
+        "C14-M0198",
         "C14-M0200",
         "C14-M0218",
+        "C14-M0222",
+        "C14-M0260",
+        "C14-M0330",
+        "C14-M0352",
+        "C14-M0360",
         "C14-M0368",
         "C14-M0370",
         "C14-M0372",
@@ -21500,7 +22004,7 @@
         "C14-M0408",
         "C14-M0520"
       ],
-      "mention_count": 409
+      "mention_count": 425
     },
     {
       "id": "albus-dumbledore",
@@ -21834,7 +22338,13 @@
         "C13-M0938",
         "C13-M0948",
         "C14-M0060",
+        "C14-M0110",
         "C14-M0194",
+        "C14-M0222",
+        "C14-M0254",
+        "C14-M0256",
+        "C14-M0258",
+        "C14-M0260",
         "C14-M0447",
         "C14-M0448",
         "C14-M0450",
@@ -21848,7 +22358,7 @@
         "C14-M0462",
         "C14-M0686"
       ],
-      "mention_count": 272
+      "mention_count": 278
     },
     {
       "id": "minerva-mcgonagall",
@@ -22218,7 +22728,15 @@
         "C13-M0982",
         "C14-M0060",
         "C14-M0176",
+        "C14-M0178",
+        "C14-M0236",
+        "C14-M0254",
+        "C14-M0258",
         "C14-M0262",
+        "C14-M0296",
+        "C14-M0308",
+        "C14-M0318",
+        "C14-M0320",
         "C14-M0394",
         "C14-M0586",
         "C14-M0588",
@@ -22234,7 +22752,7 @@
         "C14-M0628",
         "C14-M0642"
       ],
-      "mention_count": 309
+      "mention_count": 317
     },
     {
       "id": "poppy-pomfrey",
@@ -22500,6 +23018,20 @@
           "latest_evidence_id": "C14-M0657",
           "sources_verified_exist": true,
           "temporal_rule": "Wiedza od zdarzenia; nie przenosić wstecz."
+        },
+        {
+          "id": "irma-pince-C14R-021",
+          "text": "Pince udostępnia trzy tomy: Standardowa księga zaklęć, stopień szósty Mirandy Goshawk, teoria zaklęć ochronnych i opracowanie magii niewerbalnej. James bierze wszystkie trzy do czytania; nie jest to dowód nauczenia się zaklęć ani wypożyczenia poza bibliotekę.",
+          "sources": [
+            "C14-M0360",
+            "C14-M0362",
+            "C14-M0363"
+          ],
+          "source_label": "Ponowny eksport C14 — odzyskane odpowiedzi",
+          "evidence": "Odczyt odzyskanego tekstu, z uwzględnieniem korekt.",
+          "latest_evidence_id": "C14-M0363",
+          "sources_verified_exist": true,
+          "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
         }
       ],
       "mention_ids": [
@@ -22707,7 +23239,12 @@
         "C13-M0184",
         "C13-M0466",
         "C13-M0910",
+        "C14-M0354",
         "C14-M0356",
+        "C14-M0358",
+        "C14-M0360",
+        "C14-M0362",
+        "C14-M0363",
         "C14-M0364",
         "C14-M0365",
         "C14-M0366",
@@ -22731,7 +23268,7 @@
         "C14-M0662",
         "C14-M0664"
       ],
-      "mention_count": 227
+      "mention_count": 232
     },
     {
       "id": "dolores-umbridge",
@@ -22769,7 +23306,7 @@
         },
         {
           "id": "dolores-umbridge-C14-003",
-          "text": "Podczas listopadowego szlabanu James korzystał z własnych przyborów, złożył pisemne wyjaśnienia i przepisał sto zdań; kara została zakończona. Odpowiedzi na pytania o Lucjusza i Veritaserum nie ma w eksporcie.",
+          "text": "Podczas listopadowego szlabanu James korzystał z własnych przyborów, złożył pisemne wyjaśnienia i przepisał sto zdań; kara została zakończona. Umbridge przedstawiła wersję o Imperiusie i braku skazania Lucjusza; nie potwierdziła użycia Veritaserum (C14-M0150, C14-M0152).",
           "sources": [
             "C14-M0120",
             "C14-M0121",
@@ -22778,13 +23315,29 @@
             "C14-M0146",
             "C14-M0149",
             "C14-M0151",
-            "C14-M0154"
+            "C14-M0154",
+            "C14-M0150",
+            "C14-M0152"
           ],
           "source_label": "C14 — przyrost ze sprawdzonych fragmentów",
           "evidence": "Synteza dostępnego tekstu; sprawdź źródła, luki i korekty.",
           "latest_evidence_id": "C14-M0154",
           "sources_verified_exist": true,
           "temporal_rule": "Wiedza od zdarzenia; nie przenosić wstecz."
+        },
+        {
+          "id": "dolores-umbridge-C14R-002",
+          "text": "James słyszy od Umbridge wersję o Imperiusie Lucjusza i brak potwierdzenia Veritaserum. Hermiona nie uczestniczy w szlabanie, więc nie zna automatycznie tych słów.",
+          "sources": [
+            "C14-M0150",
+            "C14-M0152",
+            "C14-M0158"
+          ],
+          "source_label": "Ponowny eksport C14 — odzyskane odpowiedzi",
+          "evidence": "Odczyt odzyskanego tekstu, z uwzględnieniem korekt.",
+          "latest_evidence_id": "C14-M0158",
+          "sources_verified_exist": true,
+          "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
         }
       ],
       "mention_ids": [
@@ -22900,37 +23453,63 @@
         "C14-M0090",
         "C14-M0092",
         "C14-M0094",
+        "C14-M0096",
         "C14-M0098",
         "C14-M0100",
+        "C14-M0102",
         "C14-M0104",
         "C14-M0106",
         "C14-M0108",
+        "C14-M0110",
         "C14-M0112",
         "C14-M0114",
         "C14-M0116",
+        "C14-M0118",
         "C14-M0120",
         "C14-M0121",
         "C14-M0122",
+        "C14-M0124",
         "C14-M0125",
+        "C14-M0126",
         "C14-M0128",
+        "C14-M0130",
+        "C14-M0132",
+        "C14-M0134",
         "C14-M0136",
         "C14-M0138",
+        "C14-M0140",
+        "C14-M0142",
         "C14-M0144",
         "C14-M0145",
         "C14-M0146",
         "C14-M0148",
         "C14-M0149",
+        "C14-M0150",
         "C14-M0151",
+        "C14-M0152",
         "C14-M0154",
         "C14-M0156",
+        "C14-M0158",
+        "C14-M0168",
+        "C14-M0170",
         "C14-M0172",
         "C14-M0174",
         "C14-M0176",
+        "C14-M0178",
+        "C14-M0180",
         "C14-M0182",
         "C14-M0184",
         "C14-M0186",
+        "C14-M0188",
+        "C14-M0190",
         "C14-M0192",
         "C14-M0194",
+        "C14-M0196",
+        "C14-M0198",
+        "C14-M0222",
+        "C14-M0250",
+        "C14-M0252",
+        "C14-M0326",
         "C14-M0436",
         "C14-M0438",
         "C14-M0440",
@@ -22940,7 +23519,7 @@
         "C14-M0678",
         "C14-M0698"
       ],
-      "mention_count": 151
+      "mention_count": 177
     },
     {
       "id": "barty-crouch-junior-falszywy-moody",
@@ -24392,6 +24971,7 @@
         "C13-M0540",
         "C13-M0542",
         "C13-M0580",
+        "C14-M0330",
         "C14-M0368",
         "C14-M0372",
         "C14-M0442",
@@ -24403,7 +24983,7 @@
         "C14-M0674",
         "C14-M0690"
       ],
-      "mention_count": 69
+      "mention_count": 70
     },
     {
       "id": "pomona-sprout",
@@ -24487,7 +25067,9 @@
         "C13-M0542",
         "C13-M0766",
         "C13-M0788",
+        "C14-M0180",
         "C14-M0182",
+        "C14-M0330",
         "C14-M0368",
         "C14-M0372",
         "C14-M0384",
@@ -24499,7 +25081,7 @@
         "C14-M0680",
         "C14-M0704"
       ],
-      "mention_count": 69
+      "mention_count": 71
     },
     {
       "id": "cuthbert-binns",
@@ -24732,6 +25314,20 @@
           "latest_evidence_id": "C13-M0676",
           "sources_verified_exist": true,
           "temporal_rule": "Obowiązuje od wskazanej sceny; nie przenoś wiedzy wstecz."
+        },
+        {
+          "id": "gruba-dama-C14R-017",
+          "text": "Przy portrecie widzi ponownie Jamesa niosącego Hermionę i rozpoznaje zwyczaj. Komentuje odbiór kufra i odprowadzanie. Nie zna ich prywatnego popołudnia.",
+          "sources": [
+            "C14-M0314",
+            "C14-M0316",
+            "C14-M0318"
+          ],
+          "source_label": "Ponowny eksport C14 — odzyskane odpowiedzi",
+          "evidence": "Odczyt odzyskanego tekstu, z uwzględnieniem korekt.",
+          "latest_evidence_id": "C14-M0318",
+          "sources_verified_exist": true,
+          "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
         }
       ],
       "mention_ids": [
@@ -24850,9 +25446,14 @@
         "C13-M0868",
         "C13-M0888",
         "C13-M0890",
-        "C13-M0892"
+        "C13-M0892",
+        "C14-M0312",
+        "C14-M0314",
+        "C14-M0316",
+        "C14-M0318",
+        "C14-M0320"
       ],
-      "mention_count": 116
+      "mention_count": 121
     },
     {
       "id": "neville-longbottom",
@@ -25083,10 +25684,16 @@
         "C14-M0082",
         "C14-M0090",
         "C14-M0092",
+        "C14-M0096",
+        "C14-M0170",
         "C14-M0176",
+        "C14-M0180",
+        "C14-M0222",
+        "C14-M0254",
+        "C14-M0260",
         "C14-M0682"
       ],
-      "mention_count": 193
+      "mention_count": 199
     },
     {
       "id": "seamus-finnigan",
@@ -25178,9 +25785,11 @@
         "C13-M0952",
         "C13-M0974",
         "C13-M0976",
-        "C14-M0176"
+        "C14-M0176",
+        "C14-M0180",
+        "C14-M0222"
       ],
-      "mention_count": 68
+      "mention_count": 70
     },
     {
       "id": "dean-thomas",
@@ -25225,9 +25834,10 @@
         "C13-M0938",
         "C13-M0948",
         "C13-M0950",
-        "C14-M0176"
+        "C14-M0176",
+        "C14-M0222"
       ],
-      "mention_count": 20
+      "mention_count": 21
     },
     {
       "id": "blaise-zabini",
@@ -25345,9 +25955,11 @@
         "C13-M0858",
         "C13-M0910",
         "C13-M0962",
-        "C14-M0082"
+        "C14-M0082",
+        "C14-M0096",
+        "C14-M0170"
       ],
-      "mention_count": 11
+      "mention_count": 13
     },
     {
       "id": "parvati-patil",
@@ -25498,9 +26110,11 @@
         "C13-M0950",
         "C13-M0962",
         "C13-M0966",
-        "C14-M0082"
+        "C14-M0082",
+        "C14-M0096",
+        "C14-M0170"
       ],
-      "mention_count": 98
+      "mention_count": 100
     },
     {
       "id": "padma-patil",
@@ -25958,6 +26572,8 @@
         "C2-M1116",
         "C4-M0830",
         "C4-M0832",
+        "C14-M0346",
+        "C14-M0348",
         "C14-M0374",
         "C14-M0376",
         "C14-M0377",
@@ -26085,7 +26701,7 @@
         "C14-M0703",
         "C14-M0704"
       ],
-      "mention_count": 145
+      "mention_count": 147
     },
     {
       "id": "graham-pritchard",
@@ -26190,6 +26806,20 @@
           "latest_evidence_id": "C14-M0704",
           "sources_verified_exist": true,
           "temporal_rule": "Wiedza od zdarzenia; nie przenosić wstecz."
+        },
+        {
+          "id": "graham-pritchard-C14R-019",
+          "text": "23 XII nad ranem Graham przypomina, że on i Malcolm należeli do siatki ostrzegającej przed Hermioną. Opowiada o trzech mrugnięciach i dawnym fałszywym alarmie Malcolma; zobowiązuje się zachować tajemnicę. Detale tej relacji wymagają porównania z pierwotną sceną, nie zastępują jej.",
+          "sources": [
+            "C14-M0346",
+            "C14-M0348",
+            "C14-M0352"
+          ],
+          "source_label": "Ponowny eksport C14 — odzyskane odpowiedzi",
+          "evidence": "Odczyt odzyskanego tekstu, z uwzględnieniem korekt.",
+          "latest_evidence_id": "C14-M0352",
+          "sources_verified_exist": true,
+          "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
         }
       ],
       "mention_ids": [
@@ -26211,6 +26841,10 @@
         "C2-M1031",
         "C4-M0830",
         "C4-M0832",
+        "C14-M0346",
+        "C14-M0348",
+        "C14-M0350",
+        "C14-M0352",
         "C14-M0422",
         "C14-M0424",
         "C14-M0426",
@@ -26318,7 +26952,7 @@
         "C14-M0703",
         "C14-M0704"
       ],
-      "mention_count": 124
+      "mention_count": 128
     },
     {
       "id": "fred-weasley",
@@ -26397,9 +27031,13 @@
         "C14-M0074",
         "C14-M0078",
         "C14-M0084",
-        "C14-M0187"
+        "C14-M0187",
+        "C14-M0188",
+        "C14-M0222",
+        "C14-M0254",
+        "C14-M0272"
       ],
-      "mention_count": 52
+      "mention_count": 56
     },
     {
       "id": "george-weasley",
@@ -26472,9 +27110,12 @@
         "C13-M0978",
         "C13-M0980",
         "C14-M0060",
-        "C14-M0064"
+        "C14-M0064",
+        "C14-M0222",
+        "C14-M0254",
+        "C14-M0272"
       ],
-      "mention_count": 46
+      "mention_count": 49
     },
     {
       "id": "cedric-diggory",
@@ -26592,10 +27233,11 @@
         "C12-M0844",
         "C12-M0846",
         "C13-M0910",
+        "C14-M0254",
         "C14-M0696",
         "C14-M0697"
       ],
-      "mention_count": 91
+      "mention_count": 92
     },
     {
       "id": "cho-chang",
@@ -26652,9 +27294,14 @@
         "C13-M0948",
         "C13-M0980",
         "C14-M0104",
-        "C14-M0226"
+        "C14-M0110",
+        "C14-M0222",
+        "C14-M0224",
+        "C14-M0226",
+        "C14-M0254",
+        "C14-M0256"
       ],
-      "mention_count": 20
+      "mention_count": 25
     },
     {
       "id": "fleur-delacour",
@@ -27023,6 +27670,19 @@
           "sources_verified_exist": true,
           "temporal_rule": "Wcześniejsza scena: odczytaj właściwy etap, nie stosuj późniejszej syntezy wstecz.",
           "id": "rubeus-hagrid-F01"
+        },
+        {
+          "id": "rubeus-hagrid-C14R-023",
+          "text": "Listopad: pokaz karmienia testrala i pytanie o lot; Hagrid proponuje lot w przyszłości, bez odbycia go na lekcji.",
+          "sources": [
+            "C14-M0096",
+            "C14-M0102"
+          ],
+          "source_label": "Ponowny eksport C14 — odzyskane odpowiedzi",
+          "evidence": "Odczyt odzyskanego tekstu, z uwzględnieniem korekt.",
+          "latest_evidence_id": "C14-M0102",
+          "sources_verified_exist": true,
+          "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
         }
       ],
       "mention_ids": [
@@ -27057,23 +27717,30 @@
         "C14-M0092",
         "C14-M0093",
         "C14-M0094",
+        "C14-M0096",
         "C14-M0098",
         "C14-M0100",
         "C14-M0101",
+        "C14-M0102",
         "C14-M0104",
         "C14-M0106",
         "C14-M0108",
+        "C14-M0110",
         "C14-M0112",
         "C14-M0114",
         "C14-M0116",
+        "C14-M0126",
         "C14-M0146",
         "C14-M0172",
         "C14-M0174",
         "C14-M0176",
+        "C14-M0180",
         "C14-M0184",
-        "C14-M0192"
+        "C14-M0192",
+        "C14-M0196",
+        "C14-M0222"
       ],
-      "mention_count": 46
+      "mention_count": 53
     },
     {
       "id": "syriusz-black",
@@ -27344,9 +28011,10 @@
         "C13-M0466",
         "C13-M0910",
         "C14-M0082",
-        "C14-M0187"
+        "C14-M0187",
+        "C14-M0188"
       ],
-      "mention_count": 54
+      "mention_count": 55
     },
     {
       "id": "gilderoy-lockhart",
@@ -27563,12 +28231,13 @@
         "C13-M0466",
         "C13-M0844",
         "C13-M0890",
+        "C14-M0328",
         "C14-M0456",
         "C14-M0460",
         "C14-M0462",
         "C14-M0492"
       ],
-      "mention_count": 21
+      "mention_count": 22
     },
     {
       "id": "charlie-weasley",
@@ -27747,9 +28416,11 @@
         "C8-M0227",
         "C9-M0112",
         "C9-M0174",
-        "C12-M0951"
+        "C12-M0951",
+        "C14-M0150",
+        "C14-M0152"
       ],
-      "mention_count": 6
+      "mention_count": 8
     },
     {
       "id": "dudley-dursley",
@@ -28083,6 +28754,7 @@
       ],
       "mention_ids": [
         "C2-M0482",
+        "C14-M0254",
         "C14-M0450",
         "C14-M0452",
         "C14-M0454",
@@ -28090,7 +28762,7 @@
         "C14-M0458",
         "C14-M0460"
       ],
-      "mention_count": 7
+      "mention_count": 8
     },
     {
       "id": "skrzatka-domu-c9",
@@ -28699,9 +29371,10 @@
         "C13-M0948",
         "C13-M0950",
         "C13-M0952",
-        "C13-M0954"
+        "C13-M0954",
+        "C14-M0222"
       ],
-      "mention_count": 11
+      "mention_count": 12
     },
     {
       "id": "marietta-edgecombe",
@@ -28727,9 +29400,10 @@
       "mention_ids": [
         "C13-M0910",
         "C13-M0914",
-        "C13-M0916"
+        "C13-M0916",
+        "C14-M0222"
       ],
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "lee-jordan",
@@ -28760,9 +29434,10 @@
         "C13-M0466",
         "C13-M0938",
         "C13-M0948",
-        "C14-M0060"
+        "C14-M0060",
+        "C14-M0222"
       ],
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "dobby",
@@ -28788,9 +29463,10 @@
       "mention_ids": [
         "C13-M0110",
         "C13-M0938",
-        "C13-M0948"
+        "C13-M0948",
+        "C14-M0222"
       ],
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "maurycy-portret",
@@ -29713,6 +30389,7 @@
         }
       ],
       "mention_ids": [
+        "C14-M0142",
         "C14-M0374",
         "C14-M0376",
         "C14-M0378",
@@ -29804,7 +30481,7 @@
         "C14-M0703",
         "C14-M0704"
       ],
-      "mention_count": 90
+      "mention_count": 91
     },
     {
       "id": "stewart-ackerley",

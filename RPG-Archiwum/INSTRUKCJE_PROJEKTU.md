@@ -1,6 +1,6 @@
 # Aktualizacja C1–C14 — 23 X 2026
 
-Stan C14-M0704, 28 XII 1995 rano: następny ruch gracza. 14 dużych części i 76 fragmentów do 200 pozycji w wersji do udostępniania. C14 ma 89 luk; sprawdź 03_INDEKS/LUKI_C14.json. Nowy lorebook: 04_BAZA_PELNA/LOREBOOK_C14_UZUPELNIENIE.md. Starsze informacje poniżej są historyczne.
+Stan C14-M0704, 28 XII 1995 rano: następny ruch gracza. 14 dużych części i 76 fragmentów do 200 pozycji w wersji do udostępniania. C14 po ponownym eksporcie: 704 wiadomości, wszystkie 89 luk uzupełnione. Rejestr: 03_INDEKS/NAPRAWA_EKSPORTU_C14.json. Nowy lorebook: 04_BAZA_PELNA/LOREBOOK_C14_UZUPELNIENIE.md. Starsze informacje poniżej są historyczne.
 
 # Stan C1–C13 — 17 X 2026
 

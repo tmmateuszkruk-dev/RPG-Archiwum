@@ -1,6 +1,6 @@
 # Aktualizacja C1–C14 — 23 X 2026
 
-Stan C14-M0704, 28 XII 1995 rano: następny ruch gracza. 14 dużych części i 76 fragmentów do 200 pozycji w wersji do udostępniania. C14 ma 89 luk; sprawdź 03_INDEKS/LUKI_C14.json. Nowy lorebook: 04_BAZA_PELNA/LOREBOOK_C14_UZUPELNIENIE.md. Starsze informacje poniżej są historyczne.
+Stan C14-M0704, 28 XII 1995 rano: następny ruch gracza. 14 dużych części i 76 fragmentów do 200 pozycji w wersji do udostępniania. C14 po ponownym eksporcie: 704 wiadomości, wszystkie 89 luk uzupełnione. Rejestr: 03_INDEKS/NAPRAWA_EKSPORTU_C14.json. Nowy lorebook: 04_BAZA_PELNA/LOREBOOK_C14_UZUPELNIENIE.md. Starsze informacje poniżej są historyczne.
 
 # Stan C1–C13 — 17 X 2026
 
@@ -16,7 +16,7 @@ Do ważnego faktu dobierz dział. Jeżeli skrót jest niejasny, sprawdź 03_INDE
 
 Późniejsza jawna korekta użytkownika ma pierwszeństwo tylko w swoim zakresie. Oddziel wiedzę NPC, narratora, prywatne myśli, plotki, deklaracje i marzenia. Nie mieszaj odrębnych kampanii. Zachowuj osobowości, wiek i samodzielność NPC. Brak źródła zgłoś zamiast zgadywać.
 
-Przy aktualizacji: zachowaj oryginał, istniejące ID i odrzucone wersje w archiwum; dopisz nowy Part. Uaktualnij pełną bazę, aktywne skróty, oba indeksy, indeks scen, CURRENT, rejestr korekt i lorebook. Następny numer C13. Nie dopisuj odpowiedzi NPC ani ruchu Jamesa poza transkryptem.
+Przy aktualizacji: zachowaj oryginał, istniejące ID i odrzucone wersje w archiwum; dopisz nowy Part. Uaktualnij pełną bazę, aktywne skróty, oba indeksy, indeks scen, CURRENT, rejestr korekt i lorebook. Następny nowy Part: C15; ponowny eksport C14 zachowuje jego ID. Nie dopisuj odpowiedzi NPC ani ruchu Jamesa poza transkryptem.
 
 Sprawdź `python scripts/sprawdz.py`. Nie usuwaj historii i nie publikuj repozytorium bez zlecenia. Samo istnienie AGENTS.md nie oznacza, że dowolny czat automatycznie go odczyta. Nie obiecuj automatycznej synchronizacji.
 

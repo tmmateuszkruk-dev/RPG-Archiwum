@@ -1,3 +1,11 @@
+# Uzupełnienie po odzyskaniu 89 odpowiedzi C14
+
+- Propozycja przyszłego lotu na testralu od Hagrida pozostaje propozycją. Randka przygotowywana przez Hermionę nadal bez daty i potwierdzonej realizacji. Źródła: C14-M0102, C14-M0168, C14-M0240, C14-M0304.
+
+- Sprawa pióra pozostaje nierozstrzygnięta. Snape zaleca dokumentowanie nadużyć i zgłoszenie ponownego użycia; nie nakazuje milczenia ani nie ogłasza skutecznego postępowania Ministerstwa. Źródła: C14-M0188, C14-M0190, C14-M0196, C14-M0222.
+
+---
+
 # Otwarte wątki — C14
 
 - Następny ruch należy do Jamesa: odpowiedź Grahamowi, czy zostaje na Nowy Rok. Sylwester i zgoda Sprout są dopiero pomysłem. Źródła: C14-M0704.

@@ -1,22 +1,32 @@
+# Uzupełnienie po odzyskaniu 89 odpowiedzi C14
+
+- M0278 jednoznacznie unieważnia tylko M0276, odpowiedź na M0275. Archiwum przechowuje oba teksty; do pamięci zdarzeń trafia zamiennik. Wcześniejsza decyzja Hermiony o wyjeździe pozostaje. Źródła: C14-M0275, C14-M0276, C14-M0277, C14-M0278.
+
+- M0256 omyłkowo nazywa 25 XII 1995 czwartkiem; kalendarz daje poniedziałek. Zachowaj datę i literalny błąd w archiwum. M0284 mówi o jutrzejszym wyjeździe, lecz M0270 i M0326 ustanawiają piątek 22 XII. M0312 wspomina możliwość spotkania Rona mimo jego wcześniejszego wyjazdu: nie przywracaj go do zamku. Źródła: C14-M0254, C14-M0256, C14-M0270, C14-M0284, C14-M0312, C14-M0326.
+
+- M0348 to relacja Grahama o starej siatce: trzy mrugnięcia i fałszywy alarm Malcolma. Dla dokładnego przebiegu starego zdarzenia sięgnij do dawnej sceny; nie traktuj nowej relacji jako korekty wcześniejszych źródeł. Źródła: C14-M0346, C14-M0348.
+
+---
+
 # Korekty i niepewności — C14
 
 - M0078 jawnie cofa odpowiedź M0064 i późniejsze wymiany do M0074. Nowa odpowiedź na M0063 jest w M0078. Protest i deklaracje z cofniętej gałęzi nie są wydarzeniami ani wiedzą NPC. Źródła: C14-M0063, C14-M0064, C14-M0075, C14-M0076, C14-M0077, C14-M0078.
 
 - Draco pozostaje arogancki i przychylny polityce Ministerstwa; Nott nie jest stałym rzecznikiem Jamesa, Pansy nie jest neutralną mediatorką. Nie przywracaj odrzuconego pojednania. Źródła: C14-M0076, C14-M0078.
 
-- Użytkownik przypomina, że randka nie jest nowym pomysłem. Odpowiedź na korektę jest pusta; samo przypomnienie obowiązuje. Źródła: C14-M0167, C14-M0168.
+- Użytkownik przypomina, że randka nie jest nowym pomysłem. Odzyskane M0168 potwierdza wcześniejszą obietnicę Hermiony, pomysł niespodzianki i brak ustalonego terminu. Źródła: C14-M0167, C14-M0168.
 
-- Użytkownik żąda młodszego, właściwego wiekowi charakteru Hermiony i pozwala cofnąć scenę. M0278 jest puste: nieznany zakres faktycznego cofnięcia i tekst zamienny. Nie uznawaj brakującej korekty za przeczytaną. Źródła: C14-M0277, C14-M0278.
+- Użytkownik żąda młodszego, właściwego wiekowi charakteru Hermiony i pozwala cofnąć scenę. Odzyskane M0278 jawnie cofa tylko M0276 i zastępuje jej reakcję; zachowuje wcześniejsze wydarzenia oraz decyzję o świętach z Harrym i Weasleyami. Źródła: C14-M0277, C14-M0278.
 
 - M0517 mówi o „kwiatku”, mimo zakupu motyla i klucza. M0520 pokazuje przyjęcie klucza przez Grahama, M0521 potwierdza dalszą zgodę. Odnotuj rozbieżność, nie twórz trzeciego kolczyka. Źródła: C14-M0487, C14-M0517, C14-M0518, C14-M0520, C14-M0521.
 
-- Nie ma odpowiedzi Umbridge na pytania o Lucjusza i Veritaserum: M0150 i M0152 są puste. Nie zapisuj przesłuchania ani wyjaśnienia jako faktu. Źródła: C14-M0149, C14-M0150, C14-M0151, C14-M0152.
+- Odzyskane M0150: Umbridge powołuje się na wersję o Imperiusie i brak skazania Lucjusza; M0152: nie potwierdza użycia Veritaserum. To jej wypowiedzi, nie dowód niewinności ani przeprowadzonego przesłuchania eliksirem. Źródła: C14-M0149, C14-M0150, C14-M0151, C14-M0152.
 
 - M0682 nazywa list Luny pierwszą nową odpowiedzią tego dnia, ale M0648 zawiera poranny list Hermiony. Oba zdarzenia zachowaj, sformułowanie „pierwsza” jest błędem. Źródła: C14-M0648, C14-M0682, C14-M0684.
 
 - „Jeszcze dwie osoby” jest wypowiedzią Jamesa, nie kasuje oczekiwanej odpowiedzi Weasleyów; M0690 wprost potwierdza jej brak. Źródła: C14-M0687, C14-M0690.
 
-- Eksport ma 352 bloki i 704 pozycje ról: 86 pustych odpowiedzi oraz 3 błędy wczytania. Osobny rejestr LUKI_C14.json. Etykiety narzędzi i sugestie interfejsu nie są wydarzeniami. Źródła: C14-M0330, C14-M0332, C14-M0334, C14-M0704.
+- Poprawiony eksport ma 352 bloki i 704 wiadomości, bez pustych odpowiedzi i błędów wczytania. Odzyskano 89 odpowiedzi; historia naprawy: NAPRAWA_EKSPORTU_C14.json. Etykiety narzędzi i sugestie interfejsu nie są wydarzeniami. Źródła: C14-M0330, C14-M0332, C14-M0334, C14-M0704.
 
 ---
 

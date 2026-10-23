@@ -1,3 +1,9 @@
+# Uzupełnienie po odzyskaniu 89 odpowiedzi C14
+
+- Naprawa eksportu przywraca tekst, nie czyni odrzuconych reakcji kanonem. OOC M0220 i M0278 zachowują rozdział wiedzy, samodzielność i właściwy wiek postaci. Nie powtarzaj znajomych doświadczeń jako pierwszych. Źródła: C14-M0220, C14-M0278, C14-M0314.
+
+---
+
 # Zasady aktualizacji — C14
 
 - Bieżący punkt C14-M0704; teraz ruch gracza. Zachowuj stare fakty, chyba że zostały jawnie zmienione. OOC, luki i cofnięte warianty nie są wiedzą NPC. Źródła: C14-M0078, C14-M0277, C14-M0704.

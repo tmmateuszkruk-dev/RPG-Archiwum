@@ -1,6 +1,6 @@
 # Alastor Moody — prawdziwy
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Prawdziwy auror; uwolniony w C9.
 
@@ -13,7 +13,7 @@ Granice wiedzy: Może poznać przebieg lekcji z relacji, lecz takiego przekazani
 
 # Albus Dumbledore
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Dyrektor Hogwartu.
 
@@ -29,7 +29,7 @@ Granice wiedzy: Nie przypisywać mu wiedzy o każdym prywatnym geście ani dokł
 
 # Aleksiej
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Uczeń Durmstrangu; nazwisko nieustalone.
 
@@ -42,7 +42,7 @@ Granice wiedzy: Nie zna pełnej tragedii rodziny ani dowodu wykonania przez Jame
 
 # Ambroży — portret
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Postać wymieniona w archiwum; rolę odtwarzaj ze źródeł.
 
@@ -55,7 +55,7 @@ Granice wiedzy: Wzmianka nie oznacza obecności ani wiedzy; nie zna prywatnych s
 
 # Amelia — siostra Grahama
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Postać kampanii; 9 lat, według Grahama 10 urodziny w styczniu.
 
@@ -68,7 +68,7 @@ Granice wiedzy: Wiedza tylko ze scen z własnym udziałem lub przekazanych infor
 
 # Angelina Johnson
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Postać wymieniona w archiwum; rolę odtwarzaj ze źródeł.
 
@@ -79,9 +79,10 @@ Granice wiedzy: Wzmianka nie oznacza obecności ani wiedzy; nie zna prywatnych s
 
 
 
+
 # Anthony Goldstein
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Wzmianka / tło / zwierzę; patrz szczegół
 
@@ -94,7 +95,7 @@ Granice wiedzy: Brak udokumentowanego przepływu nowych prywatnych informacji po
 
 # Antykwariusz — C2
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Osoba anonimowa / jawnie oznaczona grupa
 
@@ -107,7 +108,7 @@ Granice wiedzy: Brak wiedzy o innych spotkaniach i sekretach bez przekazania.
 
 # Arcturus Black
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Wzmianka / tło / zwierzę; patrz szczegół
 
@@ -120,7 +121,7 @@ Granice wiedzy: Brak udokumentowanego przepływu nowych prywatnych informacji po
 
 # Argus Filch
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Wzmianka / tło / zwierzę; patrz szczegół
 
@@ -133,7 +134,7 @@ Granice wiedzy: Brak udokumentowanego przepływu nowych prywatnych informacji po
 
 # Barty Crouch Junior — fałszywy Moody
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Oszust prowadzący zajęcia IV roku; tożsamość ujawniona w C9.
 
@@ -147,7 +148,7 @@ Granice wiedzy: Nie przekazywać uczniom prawdy przed demaskacją. Wiedzy i doś
 
 # Barty Crouch Senior
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Urzędnik związany z Turniejem
 
@@ -160,7 +161,7 @@ Granice wiedzy: Samo nazwisko Crouch wymaga sprawdzenia osoby.
 
 # Bathsheda Babbling
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Nauczycielka Starożytnych Run
 
@@ -173,7 +174,7 @@ Granice wiedzy: Szepty pary pod ławką nie są automatycznie słyszane.
 
 # Bill Weasley
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Brat Rona i Ginny.
 
@@ -186,7 +187,7 @@ Granice wiedzy: Nie przypisywać pełnej historii medycznej i całego podsłuchu
 
 # Blaise Zabini
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Ślizgon
 
@@ -199,7 +200,7 @@ Granice wiedzy: Nie zna sekretów z samego domu Slytherinu.
 
 # Cedric Diggory
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Reprezentant Hogwartu; zmarły od finału
 
@@ -212,7 +213,7 @@ Granice wiedzy: Nie dopisywać mu znajomości prywatnych rozmów Jamesa.
 
 # Charlie Weasley
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Wzmianka / tło / zwierzę; patrz szczegół
 
@@ -225,7 +226,7 @@ Granice wiedzy: Brak udokumentowanego przepływu nowych prywatnych informacji po
 
 # Cho Chang
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Krukonka, partnerka Cedrika
 
@@ -239,7 +240,7 @@ Granice wiedzy: Nie dopisywać rozmów z Jamesem ani wiedzy o jego sekretach.
 
 # Colin Creevey
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Postać wymieniona w archiwum; rolę odtwarzaj ze źródeł.
 
@@ -252,7 +253,7 @@ Granice wiedzy: Wzmianka nie oznacza obecności ani wiedzy; nie zna prywatnych s
 
 # Cuthbert Binns
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Nauczyciel historii magii, duch
 
@@ -265,7 +266,7 @@ Granice wiedzy: Brak potwierdzonego dostępu do sekretów Jamesa.
 
 # Daphne Greengrass
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Ślizgonka
 
@@ -278,7 +279,7 @@ Granice wiedzy: Późniejsza wypowiedź Notta nie ujawnia jej wszystkich uczuć.
 
 # Dean Thomas
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Gryfon
 
@@ -291,7 +292,7 @@ Granice wiedzy: Nie zna celu zniknięcia Hermiony z samej nieobecności.
 
 # Dennis Creevey
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Gryffindor, II rok; młodszy brat Colina.
 
@@ -307,7 +308,7 @@ Granice wiedzy: Wiedza tylko ze scen z własnym udziałem lub przekazanych infor
 
 # Zgredek / Dobby
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Postać wymieniona w archiwum; rolę odtwarzaj ze źródeł.
 
@@ -320,7 +321,7 @@ Granice wiedzy: Wzmianka nie oznacza obecności ani wiedzy; nie zna prywatnych s
 
 # Dolores Umbridge
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Nauczycielka Obrony narzucona przez Ministerstwo.
 
@@ -330,12 +331,13 @@ Granice wiedzy: Nie jest jeszcze Wielkim Inkwizytorem. Nie ustalono, że poznał
 
 - Usłyszała sprzeciw i świadectwo o Crouchu oraz jego sprostowanie; nałożyła szlaban z krwawym piórem. Odmowa pisania była możliwa i miała konsekwencje szkolne. Źródła: C12-M0831, C12-M0866
 - Nie została zwolniona w wyniku zgłoszenia; jej zapowiedziana skarga nie jest potwierdzonym doręczeniem. Źródła: C12-M0953, C12-M1021
-- Podczas listopadowego szlabanu James korzystał z własnych przyborów, złożył pisemne wyjaśnienia i przepisał sto zdań; kara została zakończona. Odpowiedzi na pytania o Lucjusza i Veritaserum nie ma w eksporcie. Źródła: C14-M0120, C14-M0121, C14-M0125, C14-M0145, C14-M0146, C14-M0149, C14-M0151, C14-M0154
+- Podczas listopadowego szlabanu James korzystał z własnych przyborów, złożył pisemne wyjaśnienia i przepisał sto zdań; kara została zakończona. Umbridge przedstawiła wersję o Imperiusie i braku skazania Lucjusza; nie potwierdziła użycia Veritaserum (C14-M0150, C14-M0152). Źródła: C14-M0120, C14-M0121, C14-M0125, C14-M0145, C14-M0146, C14-M0149, C14-M0151, C14-M0154, C14-M0150, C14-M0152
+- James słyszy od Umbridge wersję o Imperiusie Lucjusza i brak potwierdzenia Veritaserum. Hermiona nie uczestniczy w szlabanie, więc nie zna automatycznie tych słów. Źródła: C14-M0150, C14-M0152, C14-M0158
 
 
 # Draco Malfoy
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Ślizgon, prefekt V roku.
 
@@ -354,7 +356,7 @@ Granice wiedzy: Nie zna planu prefektury tylko dlatego, że znał go Nott. Wycof
 
 # Dudley Dursley
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Wzmianka / tło / zwierzę; patrz szczegół
 
@@ -367,7 +369,7 @@ Granice wiedzy: Brak udokumentowanego przepływu nowych prywatnych informacji po
 
 # Dwie Krukonki w przedziale Luny — C9
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Osoba anonimowa / jawnie oznaczona grupa
 
@@ -380,7 +382,7 @@ Granice wiedzy: Brak wiedzy o innych spotkaniach i sekretach bez przekazania.
 
 # Edgar Whitlock
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Jubiler w Hogsmeade; postać tej sceny.
 
@@ -393,7 +395,7 @@ Granice wiedzy: Wiedza tylko ze scen z własnym udziałem lub przekazanych infor
 
 # Eleanor Branstone
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Hufflepuff, II rok; pomaga organizować wspólny stół.
 
@@ -410,7 +412,7 @@ Granice wiedzy: Wiedza tylko ze scen z własnym udziałem lub przekazanych infor
 
 # Élodie Moreau
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Uczennica Beauxbatons; koleżanka Jamesa i znajoma Luny.
 
@@ -425,7 +427,7 @@ Granice wiedzy: Nie zna pełnych uprawnień Notta i prywatnych gróźb bez przek
 
 # Ernie Macmillan
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Postać wymieniona w archiwum; rolę odtwarzaj ze źródeł.
 
@@ -436,9 +438,10 @@ Granice wiedzy: Wzmianka nie oznacza obecności ani wiedzy; nie zna prywatnych s
 
 
 
+
 # Euan Abercrombie
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Gryffindor, I rok.
 
@@ -454,7 +457,7 @@ Granice wiedzy: Wiedza tylko ze scen z własnym udziałem lub przekazanych infor
 
 # Fawkes
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Wzmianka / tło / zwierzę; patrz szczegół
 
@@ -467,7 +470,7 @@ Granice wiedzy: Brak udokumentowanego przepływu nowych prywatnych informacji po
 
 # Filius Flitwick
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Nauczyciel zaklęć
 
@@ -480,7 +483,7 @@ Granice wiedzy: Nie zna prywatnych zwierzeń pary.
 
 # Fleur Delacour
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Reprezentantka Beauxbatons
 
@@ -493,7 +496,7 @@ Granice wiedzy: Znajomość Élodie nie przekazuje prywatnych rozmów tej ostatn
 
 # Fred Weasley
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Gryfon, bliźniak George’a
 
@@ -506,7 +509,7 @@ Granice wiedzy: Nie zna automatycznie prywatnych zwierzeń.
 
 # Gabrielle Delacour
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Młodsza siostra Fleur
 
@@ -519,7 +522,7 @@ Granice wiedzy: Nie zna dialogów na brzegu podczas przebywania pod wodą.
 
 # George Weasley
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Gryfon, bliźniak Freda
 
@@ -532,7 +535,7 @@ Granice wiedzy: Wiedza Freda nie przechodzi automatycznie na George’a.
 
 # Gilderoy Lockhart
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Dawny nauczyciel, wspominany
 
@@ -545,7 +548,7 @@ Granice wiedzy: Wzmianki o nim nie oznaczają jego obecności lub nowej wiedzy.
 
 # Ginny Weasley
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Gryfonka, młodsza od głównej pary.
 
@@ -564,7 +567,7 @@ Granice wiedzy: Nie zna szeptanych sekretów, treści listów Jamesa do Luny ani
 
 # Goblin obsługujący skarbiec — C2
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Osoba anonimowa / jawnie oznaczona grupa
 
@@ -577,7 +580,7 @@ Granice wiedzy: Brak wiedzy o innych spotkaniach i sekretach bez przekazania.
 
 # Graham Pritchard
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Młodszy Ślizgon, pomocnik ostrzegania
 
@@ -591,11 +594,12 @@ Granice wiedzy: Nie przypisywać pełnego motywu emocjonalnego ani wiedzy wszyst
 - Przygotowano notes dla Luny o niezwykłych spostrzeżeniach. James prosi o osobiste wręczenie po powrocie. Notes zachowany, pod koniec u Rose; Luna nie dostała go jeszcze. Źródła: C14-M0496, C14-M0667, C14-M0684, C14-M0690
 - Wigilijna bitwa na śnieżki odbyła się bez zaklęć. James staranował fort i później odpadł; czerwoni wygrali 2:1. To wspólne doświadczenie, nie pierwsze spotkanie przy następnym posiłku. Źródła: C14-M0549, C14-M0555, C14-M0571, C14-M0579, C14-M0583, C14-M0584
 - 28 XII słyszą rozmowę o Krumie, Cedryku i obawach przed wojną. Zapewnienie Jamesa, że młodsi nie będą musieli walczyć, nie jest gwarancją przyszłości. Potem planują Sylwestra; Graham pyta Jamesa o pozostanie na Nowy Rok, odpowiedzi jeszcze nie ma. Źródła: C14-M0695, C14-M0697, C14-M0699, C14-M0700, C14-M0701, C14-M0702, C14-M0703, C14-M0704
+- 23 XII nad ranem Graham przypomina, że on i Malcolm należeli do siatki ostrzegającej przed Hermioną. Opowiada o trzech mrugnięciach i dawnym fałszywym alarmie Malcolma; zobowiązuje się zachować tajemnicę. Detale tej relacji wymagają porównania z pierwotną sceną, nie zastępują jej. Źródła: C14-M0346, C14-M0348, C14-M0352
 
 
 # Gregory Goyle
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Ślizgon, towarzysz Draco
 
@@ -609,7 +613,7 @@ Granice wiedzy: Nie jest automatycznym odbiorcą prywatnych rozmów Draco.
 
 # Gruba Dama
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Portret wejścia Gryffindoru
 
@@ -620,11 +624,12 @@ Granice wiedzy: Nie słyszy przez ściany, nie zna prywatnych rozmów gabinetowy
 - Widziała wyjście Hermiony i Rona poprzedniego wieczoru przed 22:00, nie znała celu. W C12 jest przy rozmowach korytarzowych, co nie daje jej wiedzy o całym zgłoszeniu pióra. Źródła: C4-M1073, C4-M1075, C12-M0874, C12-M0918, C12-M1029, C12-M1049
 - Uczestniczy w przygotowaniu muzyki portretów. Gruba Dama nazwana Adelajdą; Maurycy jest skrzypkiem, Ambroży rozmawia z nią przy przekazaniu nut. Źródła: C13-M0406
 - Urodzinowy wstęp Jamesa do pokoju wspólnego Gryffindoru jest jednorazowy i pod opieką Hermiony; bez stałego hasła i wejścia do dormitorium. Źródła: C13-M0536, C13-M0676
+- Przy portrecie widzi ponownie Jamesa niosącego Hermionę i rozpoznaje zwyczaj. Komentuje odbiór kufra i odprowadzanie. Nie zna ich prywatnego popołudnia. Źródła: C14-M0314, C14-M0316, C14-M0318
 
 
 # Hannah Abbott
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Postać wymieniona w archiwum; rolę odtwarzaj ze źródeł.
 
@@ -635,9 +640,10 @@ Granice wiedzy: Wzmianka nie oznacza obecności ani wiedzy; nie zna prywatnych s
 
 
 
+
 # Harry Potter
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Gryfon, przyjaciel Rona i Hermiony, uczestnik Turnieju.
 
@@ -660,7 +666,7 @@ Granice wiedzy: Nie słyszał prywatnych pomysłów wieloryba/ośmiornicy ani ro
 
 # Hedwiga
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Wzmianka / tło / zwierzę; patrz szczegół
 
@@ -673,7 +679,7 @@ Granice wiedzy: Brak udokumentowanego przepływu nowych prywatnych informacji po
 
 # Hermiona Granger
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Partnerka Jamesa; Gryffindor, V rok, prefekt.
 
@@ -712,11 +718,18 @@ Granice wiedzy: Nie zna automatycznie podsłuchu C9, pełnego zgłoszenia pióra
 - 21 XII McGonagall przekazała obojgu, że Artur żyje i jest leczony w Mungu. Nie oznacza to znajomości całej wizji Harry’ego ani adresu kwatery. Źródła: C14-M0262
 - Para pozostaje razem; list z 25 XII potwierdza miłość, tęsknotę i odmowę narzucania Ronowi odstępu. Podpisy o przyszłym mężu/narzeczonym nie są zaręczynami. Randka nadal nie ma potwierdzonego rozegrania. Źródła: C14-M0167, C14-M0648, C14-M0649
 - Z listów Jamesa zna wspólne posiłki czterech domów, szachy i bitwę na śnieżki. Chce poznać Orlę i z nią zagrać. To nie daje jej wiedzy o wszystkich rozmowach w Hogwarcie. Źródła: C14-M0605, C14-M0648
+- Czekała z książką przed gabinetem Snape’a; po wyjściu Jamesa pyta o rozmowę i pióro. Nie zna automatycznie wypowiedzianych za drzwiami słów. Źródła: C14-M0198
+- Hermiona poznaje od Neville’a fragment relacji o nocnej interwencji McGonagall i śnie Harry’ego; przekazuje go Jamesowi. Nie daje to im pełnej wiedzy o wizji ani Grimmauld Place. Źródła: C14-M0254, C14-M0258, C14-M0260, C14-M0262
+- Hermiona mówi Jamesowi o niepełnym wyjaśnieniu rodzicom zmiany planów (nauka do SUM-ów). James zna cel dołączenia do Harry’ego i Weasleyów w Londynie, nie otrzymuje w tej rozmowie adresu kwatery. Źródła: C14-M0270
+- Hermiona pamięta obiecaną randkę; ma pomysł i część przygotowań, ale nie ustala terminu. Przedświąteczne popołudnie nie zostało nazwane wykonaniem tej obietnicy. Źródła: C14-M0168, C14-M0222, C14-M0238, C14-M0240, C14-M0288, C14-M0306
+- James deklaruje zaufanie i smutek. Obowiązujące M0278 zachowuje wyjazd Hermiony, jej troskę i frustrację; nie oznacza wyboru Rona jako partnera. Rozmowa o wspólnej przyszłości nie jest zaręczynami. Źródła: C14-M0238, C14-M0240, C14-M0275, C14-M0278
+- M0276 zostało odrzucone; obowiązuje M0278. Troska o Jamesa, emocjonalna frustracja i przyjaźń z Weasleyami współistnieją; decyzja o wyjeździe zostaje. To korekta narracji, nie wiedza postaci o OOC. Źródła: C14-M0277, C14-M0278
+- 22 XII wspólne popołudnie w Pokoju Życzeń, potem odprowadzenie z kufrem i pożegnanie przy bramie. Hermiona odchodzi z grupą pod nadzorem; obiecuje pisać i przekazać pozdrowienia, co samo w sobie nie potwierdza ich doręczenia. Źródła: C14-M0288, C14-M0306, C14-M0314, C14-M0320, C14-M0326
 
 
 # Igor Karkaroff
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Dyrektor Durmstrangu w czasie Turnieju
 
@@ -729,7 +742,7 @@ Granice wiedzy: Wiedza narratora o przyczynie ucieczki nie jest automatycznie wi
 
 # Irma Pince
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Bibliotekarka.
 
@@ -740,11 +753,12 @@ Granice wiedzy: Nie zna pełnej rodzinnej tragedii, wszystkich scen pary, lekars
 - Zna rutynę Jamesa, pytanie o Hermionę i pomoc przy książkach. Cofnięto jej nieuprawnioną wiedzę o rozmowie u Pomfrey. Źródła: C1-M0197, C1-M0217, C2-M1117, C2-M1138
 - Usłyszała lęk przed stratą, obawy o atrakcyjność i zazdrość o Rona. „Żeby go nie było” wyjaśniono jako mniejszą bliskość, nie zamiar zabójstwa. Jej późniejszy komentarz nie odkrywa Hermionie po raz pierwszy bibliotecznego zainteresowania Jamesa. Źródła: C7-M0263, C7-M0320, C12-M0593, C12-M0594
 - Poranne wizyty w bibliotece są znanym zwyczajem, nie pierwszą wizytą. Pince pamięta dawny stolik z widokiem na Hermionę; James pomaga i czyta także podczas świąt. Dowiaduje się od niego o odpowiedzi Hermiony. Źródła: C14-M0356, C14-M0364, C14-M0366, C14-M0533, C14-M0537, C14-M0657
+- Pince udostępnia trzy tomy: Standardowa księga zaklęć, stopień szósty Mirandy Goshawk, teoria zaklęć ochronnych i opracowanie magii niewerbalnej. James bierze wszystkie trzy do czytania; nie jest to dowód nauczenia się zaklęć ani wypożyczenia poza bibliotekę. Źródła: C14-M0360, C14-M0362, C14-M0363
 
 
 # James Brown
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Gracz; V rok, Slytherin.
 
@@ -771,7 +785,7 @@ Granice wiedzy: Nie zna adresu kwatery Zakonu, całego przesłuchania Croucha an
 - Wspólne latanie jest propozycją zaakceptowaną przez Jamesa; nie rozegrano jeszcze lotu. Źródła: C13-M0929, C13-M0936
 - Rozmowa o proteście od M0064 do M0074 została cofnięta. Obowiązuje M0078: Draco nie współczuje Weasleyom, Pansy wspiera go, Nott nie jest rzecznikiem Jamesa. Źródła: C14-M0076, C14-M0078
 - Ostatni szlaban u Umbridge odbył się bez krwawego pióra. Snape ma wyjaśnienia Jamesa oraz dokumentację dawnego pióra; sprawa pozostaje otwarta. Zapowiedź listu do Ministerstwa była blefem, co James ujawnił Snape’owi. Źródła: C14-M0184, C14-M0185, C14-M0186, C14-M0191, C14-M0192, C14-M0194
-- Podczas listopadowego szlabanu James korzystał z własnych przyborów, złożył pisemne wyjaśnienia i przepisał sto zdań; kara została zakończona. Odpowiedzi na pytania o Lucjusza i Veritaserum nie ma w eksporcie. Źródła: C14-M0120, C14-M0121, C14-M0125, C14-M0145, C14-M0146, C14-M0149, C14-M0151, C14-M0154
+- Podczas listopadowego szlabanu James korzystał z własnych przyborów, złożył pisemne wyjaśnienia i przepisał sto zdań; kara została zakończona. Umbridge przedstawiła wersję o Imperiusie i braku skazania Lucjusza; nie potwierdziła użycia Veritaserum (C14-M0150, C14-M0152). Źródła: C14-M0120, C14-M0121, C14-M0125, C14-M0145, C14-M0146, C14-M0149, C14-M0151, C14-M0154, C14-M0150, C14-M0152
 - 21 XII McGonagall przekazała obojgu, że Artur żyje i jest leczony w Mungu. Nie oznacza to znajomości całej wizji Harry’ego ani adresu kwatery. Źródła: C14-M0262
 - W Wigilię James powiedział McGonagall o niepokoju z powodu świąt Hermiony z Ronem. Rozmowa była ściszona; reszta szkoły nie poznaje jej automatycznie. Źródła: C14-M0591, C14-M0592, C14-M0593, C14-M0594, C14-M0598
 - Para pozostaje razem; list z 25 XII potwierdza miłość, tęsknotę i odmowę narzucania Ronowi odstępu. Podpisy o przyszłym mężu/narzeczonym nie są zaręczynami. Randka nadal nie ma potwierdzonego rozegrania. Źródła: C14-M0167, C14-M0648, C14-M0649
@@ -789,11 +803,21 @@ Granice wiedzy: Nie zna adresu kwatery Zakonu, całego przesłuchania Croucha an
 - List z 28 XII: Krum spędza święta z rodziną w Bułgarii, pamięta zaproszenie do Anglii, termin nieustalony. Prosi o pozdrowienie Hermiony; nie zakładaj, że pozdrowienia już przekazano. Źródła: C14-M0692
 - List z 28 XII: Élodie chciałaby odwiedzić Anglię, musi uzgodnić podróż z rodzicami; następne wakacje tylko możliwością. Rodzina odwzajemnia pozdrowienia. Źródła: C14-M0694
 - 28 XII słyszą rozmowę o Krumie, Cedryku i obawach przed wojną. Zapewnienie Jamesa, że młodsi nie będą musieli walczyć, nie jest gwarancją przyszłości. Potem planują Sylwestra; Graham pyta Jamesa o pozostanie na Nowy Rok, odpowiedzi jeszcze nie ma. Źródła: C14-M0695, C14-M0697, C14-M0699, C14-M0700, C14-M0701, C14-M0702, C14-M0703, C14-M0704
+- James słyszy od Umbridge wersję o Imperiusie Lucjusza i brak potwierdzenia Veritaserum. Hermiona nie uczestniczy w szlabanie, więc nie zna automatycznie tych słów. Źródła: C14-M0150, C14-M0152, C14-M0158
+- Sprawa pióra pozostaje nierozstrzygnięta. Snape zaleca dokumentowanie nadużyć i zgłoszenie ponownego użycia; nie nakazuje milczenia ani nie ogłasza skutecznego postępowania Ministerstwa. Źródła: C14-M0188, C14-M0190, C14-M0196, C14-M0222
+- Hermiona poznaje od Neville’a fragment relacji o nocnej interwencji McGonagall i śnie Harry’ego; przekazuje go Jamesowi. Nie daje to im pełnej wiedzy o wizji ani Grimmauld Place. Źródła: C14-M0254, C14-M0258, C14-M0260, C14-M0262
+- Hermiona mówi Jamesowi o niepełnym wyjaśnieniu rodzicom zmiany planów (nauka do SUM-ów). James zna cel dołączenia do Harry’ego i Weasleyów w Londynie, nie otrzymuje w tej rozmowie adresu kwatery. Źródła: C14-M0270
+- Hermiona pamięta obiecaną randkę; ma pomysł i część przygotowań, ale nie ustala terminu. Przedświąteczne popołudnie nie zostało nazwane wykonaniem tej obietnicy. Źródła: C14-M0168, C14-M0222, C14-M0238, C14-M0240, C14-M0288, C14-M0306
+- James deklaruje zaufanie i smutek. Obowiązujące M0278 zachowuje wyjazd Hermiony, jej troskę i frustrację; nie oznacza wyboru Rona jako partnera. Rozmowa o wspólnej przyszłości nie jest zaręczynami. Źródła: C14-M0238, C14-M0240, C14-M0275, C14-M0278
+- 22 XII wspólne popołudnie w Pokoju Życzeń, potem odprowadzenie z kufrem i pożegnanie przy bramie. Hermiona odchodzi z grupą pod nadzorem; obiecuje pisać i przekazać pozdrowienia, co samo w sobie nie potwierdza ich doręczenia. Źródła: C14-M0288, C14-M0306, C14-M0314, C14-M0320, C14-M0326
+- 23 XII nad ranem Graham przypomina, że on i Malcolm należeli do siatki ostrzegającej przed Hermioną. Opowiada o trzech mrugnięciach i dawnym fałszywym alarmie Malcolma; zobowiązuje się zachować tajemnicę. Detale tej relacji wymagają porównania z pierwotną sceną, nie zastępują jej. Źródła: C14-M0346, C14-M0348, C14-M0352
+- Pince udostępnia trzy tomy: Standardowa księga zaklęć, stopień szósty Mirandy Goshawk, teoria zaklęć ochronnych i opracowanie magii niewerbalnej. James bierze wszystkie trzy do czytania; nie jest to dowód nauczenia się zaklęć ani wypożyczenia poza bibliotekę. Źródła: C14-M0360, C14-M0362, C14-M0363
+- Listopad: pokaz karmienia testrala i pytanie o lot; Hagrid proponuje lot w przyszłości, bez odbycia go na lekcji. Źródła: C14-M0096, C14-M0102
 
 
 # Jubiler z Hatton Garden — C9
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Osoba anonimowa / jawnie oznaczona grupa
 
@@ -806,7 +830,7 @@ Granice wiedzy: Brak wiedzy o innych spotkaniach i sekretach bez przekazania.
 
 # Justin Finch-Fletchley
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Postać wymieniona w archiwum; rolę odtwarzaj ze źródeł.
 
@@ -817,9 +841,10 @@ Granice wiedzy: Wzmianka nie oznacza obecności ani wiedzy; nie zna prywatnych s
 
 
 
+
 # Kevin Whitby
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Hufflepuff, II rok.
 
@@ -834,7 +859,7 @@ Granice wiedzy: Wiedza tylko ze scen z własnym udziałem lub przekazanych infor
 
 # Kierowca odwożący Hermionę — C12
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Osoba anonimowa / jawnie oznaczona grupa
 
@@ -847,7 +872,7 @@ Granice wiedzy: Brak wiedzy o innych spotkaniach i sekretach bez przekazania.
 
 # Kierowca powrotu — C11
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Osoba anonimowa / jawnie oznaczona grupa
 
@@ -860,7 +885,7 @@ Granice wiedzy: Brak wiedzy o innych spotkaniach i sekretach bez przekazania.
 
 # Kierowca wizyty u Grangerów — C9
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Osoba anonimowa / jawnie oznaczona grupa
 
@@ -873,7 +898,7 @@ Granice wiedzy: Brak wiedzy o innych spotkaniach i sekretach bez przekazania.
 
 # Korneliusz Fudge
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Minister Magii
 
@@ -886,7 +911,7 @@ Granice wiedzy: Nie zna automatycznie poufnego zgłoszenia pióra.
 
 # Krwawy Baron
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Duch Slytherinu
 
@@ -899,7 +924,7 @@ Granice wiedzy: Nie zna całej kampanii z faktu bycia duchem.
 
 # Krzywołap
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Wzmianka / tło / zwierzę; patrz szczegół
 
@@ -912,7 +937,7 @@ Granice wiedzy: Brak udokumentowanego przepływu nowych prywatnych informacji po
 
 # Kwiaciarka — C9
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Osoba anonimowa / wzmianka rodzinna
 
@@ -925,7 +950,7 @@ Granice wiedzy: Nie łączyć z innymi osobami tej samej profesji ani dopisywać
 
 # Laura Madley
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Hufflepuff, II rok.
 
@@ -942,7 +967,7 @@ Granice wiedzy: Wiedza tylko ze scen z własnym udziałem lub przekazanych infor
 
 # Lavender Brown
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Gryfonka, współlokatorka Hermiony
 
@@ -956,7 +981,7 @@ Granice wiedzy: Wspólne dormitorium nie oznacza znajomości prywatnych rozmów 
 
 # Lee Jordan
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Postać wymieniona w archiwum; rolę odtwarzaj ze źródeł.
 
@@ -967,9 +992,10 @@ Granice wiedzy: Wzmianka nie oznacza obecności ani wiedzy; nie zna prywatnych s
 
 
 
+
 # Lodgok
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Goblin zarządzający majątkiem; nie utożsamiać z postacią innej gry.
 
@@ -982,7 +1008,7 @@ Granice wiedzy: Pełny list, odpowiedź, wynagrodzenie, wygląd i osobowość ni
 
 # Lucjusz Malfoy
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Wzmianka / tło / zwierzę; patrz szczegół
 
@@ -995,7 +1021,7 @@ Granice wiedzy: Brak udokumentowanego przepływu nowych prywatnych informacji po
 
 # Ludo Bagman
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Organizator i komentator Turnieju
 
@@ -1008,7 +1034,7 @@ Granice wiedzy: Nie dopisywać prywatnego kontaktu z Jamesem.
 
 # Luna Lovegood
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Krukonka; przyjaciółka Jamesa w tej kampanii.
 
@@ -1024,7 +1050,7 @@ Granice wiedzy: Nie zna snu Jamesa o ślubie z nią, całej tragedii rodzinnej a
 
 # Malcolm Baddock
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Młodszy Ślizgon, pomocnik ostrzegania
 
@@ -1042,7 +1068,7 @@ Granice wiedzy: Zna zadanie, nie wszystkie emocjonalne motywy Jamesa.
 
 # Mandy Brocklehurst
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Krukonka
 
@@ -1055,7 +1081,7 @@ Granice wiedzy: Brak potwierdzonego późniejszego romansu i wcześniejszej blis
 
 # Marietta Edgecombe
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Postać wymieniona w archiwum; rolę odtwarzaj ze źródeł.
 
@@ -1068,7 +1094,7 @@ Granice wiedzy: Wzmianka nie oznacza obecności ani wiedzy; nie zna prywatnych s
 
 # Matka Hermiony
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Dentystka; imię nieustalone.
 
@@ -1082,7 +1108,7 @@ Granice wiedzy: Nie zna pełnej tragedii, bezsenności, cen prezentów ani prywa
 
 # Matka Jamesa
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Wzmianka / tło / zwierzę; patrz szczegół
 
@@ -1095,7 +1121,7 @@ Granice wiedzy: Brak udokumentowanego przepływu nowych prywatnych informacji po
 
 # Maurycy — portret skrzypka
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Postać wymieniona w archiwum; rolę odtwarzaj ze źródeł.
 
@@ -1108,7 +1134,7 @@ Granice wiedzy: Wzmianka nie oznacza obecności ani wiedzy; nie zna prywatnych s
 
 # Pani Merriweather
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Sprzedawczyni w Hogsmeade; postać tej sceny.
 
@@ -1121,7 +1147,7 @@ Granice wiedzy: Wiedza tylko ze scen z własnym udziałem lub przekazanych infor
 
 # Michael Corner
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Wzmianka / tło / zwierzę; patrz szczegół
 
@@ -1134,7 +1160,7 @@ Granice wiedzy: Brak udokumentowanego przepływu nowych prywatnych informacji po
 
 # Millicent Bulstrode
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Ślizgonka; w scenie podano imię
 
@@ -1147,7 +1173,7 @@ Granice wiedzy: Nazwisko to identyfikacja kanoniczna; prywatna znajomość z Jam
 
 # Minerva McGonagall
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Nauczycielka transmutacji.
 
@@ -1163,7 +1189,7 @@ Granice wiedzy: Nie zna prywatnego celu pozostania Jamesa na IV roku; nie uczest
 
 # Młodsza siostra Jamesa
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Wzmianka / tło / zwierzę; patrz szczegół
 
@@ -1176,7 +1202,7 @@ Granice wiedzy: Brak udokumentowanego przepływu nowych prywatnych informacji po
 
 # Młody duch od gramofonu — C1
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Osoba anonimowa / jawnie oznaczona grupa
 
@@ -1189,7 +1215,7 @@ Granice wiedzy: Brak wiedzy o innych spotkaniach i sekretach bez przekazania.
 
 # Molly Weasley
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Matka Weasleyów; wspiera Harry’ego.
 
@@ -1202,7 +1228,7 @@ Granice wiedzy: Nie zna całych prywatnych rozmów pary ani szczegółów podsł
 
 # Neville Longbottom
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Gryfon
 
@@ -1216,7 +1242,7 @@ Granice wiedzy: Nie zna prywatnej historii pary ani treści listów do Luny.
 
 # Nimfadora Tonks
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Dorosła z grupy na peronie
 
@@ -1229,7 +1255,7 @@ Granice wiedzy: Genealogiczna wzmianka o Tonksach nie jest osobistym spotkaniem.
 
 # Ojciec Hermiony
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Dentysta; imię nieustalone.
 
@@ -1243,7 +1269,7 @@ Granice wiedzy: Nie zna pełnej tragedii, bezsenności, cen prezentów ani prywa
 
 # Ojciec Jamesa
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Wzmianka / tło / zwierzę; patrz szczegół
 
@@ -1256,7 +1282,7 @@ Granice wiedzy: Brak udokumentowanego przepływu nowych prywatnych informacji po
 
 # Ojciec Rona — wzmianka o wakacjach
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Osoba anonimowa / wzmianka rodzinna
 
@@ -1269,7 +1295,7 @@ Granice wiedzy: Nie łączyć z innymi osobami tej samej profesji ani dopisywać
 
 # Olympe Maxime
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Dyrektorka Beauxbatons
 
@@ -1282,7 +1308,7 @@ Granice wiedzy: Nie zna prywatnej korespondencji Élodie z samej funkcji.
 
 # Orla Quirke
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Ravenclaw, II rok; gra w szachy.
 
@@ -1298,7 +1324,7 @@ Granice wiedzy: Wiedza tylko ze scen z własnym udziałem lub przekazanych infor
 
 # Owen Cauldwell
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Hufflepuff, II rok.
 
@@ -1313,7 +1339,7 @@ Granice wiedzy: Wiedza tylko ze scen z własnym udziałem lub przekazanych infor
 
 # Padma Patil
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Krukonka
 
@@ -1326,7 +1352,7 @@ Granice wiedzy: Bal z Ronem nie ustanawia późniejszego związku.
 
 # Pansy Parkinson
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Ślizgonka, prefektka V roku.
 
@@ -1343,7 +1369,7 @@ Granice wiedzy: Nie widziała chwytu Draco i nie zna prywatnych scen pary; hipot
 
 # Parvati Patil
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Gryfonka
 
@@ -1358,7 +1384,7 @@ Granice wiedzy: Nie utożsamiać z Padmą ani dopisywać długotrwałego związk
 
 # Penelope Clearwater
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Wzmianka / tło / zwierzę; patrz szczegół
 
@@ -1371,7 +1397,7 @@ Granice wiedzy: Brak udokumentowanego przepływu nowych prywatnych informacji po
 
 # Percy Weasley
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Wzmianka / tło / zwierzę; patrz szczegół
 
@@ -1384,7 +1410,7 @@ Granice wiedzy: Brak udokumentowanego przepływu nowych prywatnych informacji po
 
 # Peter Pettigrew / Parszywek
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Animag wspominany w opowieściach o minionym roku
 
@@ -1397,7 +1423,7 @@ Granice wiedzy: Wiedza Hermiony i Harry’ego nie staje się wiedzą całej szko
 
 # Phineas Nigellus Black
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Wzmianka / tło / zwierzę; patrz szczegół
 
@@ -1410,7 +1436,7 @@ Granice wiedzy: Brak udokumentowanego przepływu nowych prywatnych informacji po
 
 # Pomona Sprout
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Nauczycielka zielarstwa
 
@@ -1423,7 +1449,7 @@ Granice wiedzy: Nie zna prywatnych ustaleń pary z samej obecności w szkole.
 
 # Poppy Pomfrey
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Uzdrowicielka szkolna.
 
@@ -1437,7 +1463,7 @@ Granice wiedzy: Nie zna automatycznie każdej nocy, nazwiska Rona z rozmowy o ry
 
 # Remus Lupin
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Dorosły z grupy na peronie; były nauczyciel
 
@@ -1450,7 +1476,7 @@ Granice wiedzy: James nie otrzymał tu sekretu wilkołactwa ani adresu Zakonu.
 
 # Restauratorka organizująca catering — C2
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Osoba anonimowa / wzmianka rodzinna
 
@@ -1463,7 +1489,7 @@ Granice wiedzy: Nie łączyć z innymi osobami tej samej profesji ani dopisywać
 
 # Rita Skeeter
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Dziennikarka, niezarejestrowany animag
 
@@ -1476,7 +1502,7 @@ Granice wiedzy: Nie dopisywać wypuszczenia tylko z przyjazdu pociągu; nie wiad
 
 # Rodzice Harry’ego — wspomnienie
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Osoba anonimowa / wzmianka rodzinna
 
@@ -1489,7 +1515,7 @@ Granice wiedzy: Nie łączyć z innymi osobami tej samej profesji ani dopisywać
 
 # Roger Davies
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Krukon, partner Fleur na balu
 
@@ -1502,7 +1528,7 @@ Granice wiedzy: Brak potwierdzonych prywatnych rozmów z Jamesem.
 
 # Ron Weasley
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Gryfon, prefekt, przyjaciel Harry’ego i Hermiony.
 
@@ -1521,7 +1547,7 @@ Granice wiedzy: Nie ma potwierdzonego wyznania miłości Hermionie ani romansu. 
 
 # Rose Zeller
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Hufflepuff, I rok; robi papierowe ozdoby.
 
@@ -1538,7 +1564,7 @@ Granice wiedzy: Wiedza tylko ze scen z własnym udziałem lub przekazanych infor
 
 # Rubeus Hagrid
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Nauczyciel Opieki
 
@@ -1547,11 +1573,12 @@ Charakter: Oddzielać obserwacje od niespójnej wzmianki o powitaniu pierwszoroc
 Granice wiedzy: Nie dopisywać pewnej historii powrotu z misji.
 
 - Obecny przy początku IV roku. C12 ma sprzeczną wzmiankę o pierwszorocznych i nieobecność przy stole; jego aktualna misja wymaga kontekstu, nie automatycznego retconu. Źródła: C1-M0064, C12-M0346, C12-M0420
+- Listopad: pokaz karmienia testrala i pytanie o lot; Hagrid proponuje lot w przyszłości, bez odbycia go na lekcji. Źródła: C14-M0096, C14-M0102
 
 
 # Salazar Slytherin
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Wzmianka / tło / zwierzę; patrz szczegół
 
@@ -1564,7 +1591,7 @@ Granice wiedzy: Brak udokumentowanego przepływu nowych prywatnych informacji po
 
 # Seamus Finnigan
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Gryfon
 
@@ -1577,7 +1604,7 @@ Granice wiedzy: Uczestnictwo w klasie nie daje wiedzy o prywatnym teście Snape�
 
 # Septima Vector
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Wzmianka / tło / zwierzę; patrz szczegół
 
@@ -1590,7 +1617,7 @@ Granice wiedzy: Brak udokumentowanego przepływu nowych prywatnych informacji po
 
 # Severus Snape
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Nauczyciel, opiekun Slytherinu.
 
@@ -1602,11 +1629,12 @@ Granice wiedzy: Nie zna pełnego znaczenia lilii; nie zauważył potajemnego pob
 - Słyszał groźbę wobec Rona i przekazał dyrektorowi. Widział Jamesa pod gabinetem podczas demaskacji, ale nie zna bez rozmowy zakresu podsłuchu. Źródła: C4-M1084, C4-M1085, C4-M1114, C4-M1115, C9-M0070, C9-M0072
 - Obejrzał ślady pióra Jamesa i Harry’ego; otrzymał polecenie dokumentacji. Nie przeprowadzono tu automatycznego zwolnienia Umbridge. Źródła: C12-M0979, C12-M1021
 - Ostatni szlaban u Umbridge odbył się bez krwawego pióra. Snape ma wyjaśnienia Jamesa oraz dokumentację dawnego pióra; sprawa pozostaje otwarta. Zapowiedź listu do Ministerstwa była blefem, co James ujawnił Snape’owi. Źródła: C14-M0184, C14-M0185, C14-M0186, C14-M0191, C14-M0192, C14-M0194
+- Sprawa pióra pozostaje nierozstrzygnięta. Snape zaleca dokumentowanie nadużyć i zgłoszenie ponownego użycia; nie nakazuje milczenia ani nie ogłasza skutecznego postępowania Ministerstwa. Źródła: C14-M0188, C14-M0190, C14-M0196, C14-M0222
 
 
 # Sir Nicholas — Prawie Bezgłowy Nick
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Duch Gryffindoru
 
@@ -1619,7 +1647,7 @@ Granice wiedzy: Nie przypisywać mu każdej sceny z anonimowym duchem.
 
 # Skrzat zgłaszający gościa — C11
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Osoba anonimowa / jawnie oznaczona grupa
 
@@ -1632,7 +1660,7 @@ Granice wiedzy: Brak wiedzy o innych spotkaniach i sekretach bez przekazania.
 
 # Skrzatka domu — C9
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Osoba anonimowa / jawnie oznaczona grupa
 
@@ -1645,7 +1673,7 @@ Granice wiedzy: Brak wiedzy o innych spotkaniach i sekretach bez przekazania.
 
 # Skrzaty obsługujące posiłek — C11
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Osoba anonimowa / jawnie oznaczona grupa
 
@@ -1658,7 +1686,7 @@ Granice wiedzy: Brak wiedzy o innych spotkaniach i sekretach bez przekazania.
 
 # Sprzedawca sprzętu muzycznego — C2
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Osoba anonimowa / jawnie oznaczona grupa
 
@@ -1671,7 +1699,7 @@ Granice wiedzy: Brak wiedzy o innych spotkaniach i sekretach bez przekazania.
 
 # Starszy Krukon — informator Draco
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Osoba anonimowa / wzmianka rodzinna
 
@@ -1684,7 +1712,7 @@ Granice wiedzy: Nie łączyć z innymi osobami tej samej profesji ani dopisywać
 
 # Stewart Ackerley
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Ravenclaw, II rok.
 
@@ -1699,7 +1727,7 @@ Granice wiedzy: Wiedza tylko ze scen z własnym udziałem lub przekazanych infor
 
 # Susan Bones
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Postać wymieniona w archiwum; rolę odtwarzaj ze źródeł.
 
@@ -1710,9 +1738,10 @@ Granice wiedzy: Wzmianka nie oznacza obecności ani wiedzy; nie zna prywatnych s
 
 
 
+
 # Sybilla Trelawney
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Wzmianka / tło / zwierzę; patrz szczegół
 
@@ -1725,7 +1754,7 @@ Granice wiedzy: Brak udokumentowanego przepływu nowych prywatnych informacji po
 
 # Syriusz Black
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Ojciec chrzestny Harry’ego, animag
 
@@ -1738,7 +1767,7 @@ Granice wiedzy: Brak ujawnienia Jamesowi kryjówki i pełnej działalności Zako
 
 # Terry Boot
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Wzmianka / tło / zwierzę; patrz szczegół
 
@@ -1751,7 +1780,7 @@ Granice wiedzy: Brak udokumentowanego przepływu nowych prywatnych informacji po
 
 # Theodore Nott
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Ślizgon, kolega i współorganizator.
 
@@ -1769,7 +1798,7 @@ Granice wiedzy: Domysł o Pokoju nie daje wiedzy o wystroju i rozmowach. Nie zna
 
 # Tobik
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Nazwany skrzat domu Jamesa.
 
@@ -1782,7 +1811,7 @@ Granice wiedzy: Nie zna treści prywatnych wyznań i snu tylko dlatego, że prac
 
 # Tom — Dziurawy Kocioł
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Właściciel/gospodarz lokalu
 
@@ -1795,7 +1824,7 @@ Granice wiedzy: Zna swoją transakcję, nie wszystkie zakupy i finanse Jamesa.
 
 # Trzy pierwszoroczne dziewczyny — odprawa C2
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Osoba anonimowa / jawnie oznaczona grupa
 
@@ -1808,7 +1837,7 @@ Granice wiedzy: Brak wiedzy o innych spotkaniach i sekretach bez przekazania.
 
 # Viktor Krum
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Reprezentant Durmstrangu, kolega Jamesa.
 
@@ -1824,7 +1853,7 @@ Granice wiedzy: Nie zna dawnego pomysłu przemiany smoka z samego komentarza nar
 
 # Vincent Crabbe
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Ślizgon, towarzysz Draco
 
@@ -1838,7 +1867,7 @@ Granice wiedzy: Obezwładnienie nie znaczy świadomego usłyszenia wszystkich p�
 
 # Voldemort / Tom Riddle
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Antagonista; powrót w finale
 
@@ -1851,7 +1880,7 @@ Granice wiedzy: Świadomość jego powrotu nie daje wiedzy o horkruksach ani cme
 
 # Xenophilius Lovegood
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Ojciec Luny; wiadomość przekazana w jej liście.
 
@@ -1864,7 +1893,7 @@ Granice wiedzy: Wiedza tylko ze scen z własnym udziałem lub przekazanych infor
 
 # Zacharias Smith
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Postać wymieniona w archiwum; rolę odtwarzaj ze źródeł.
 

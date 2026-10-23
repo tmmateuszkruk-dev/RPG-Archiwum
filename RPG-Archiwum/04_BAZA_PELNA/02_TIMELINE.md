@@ -1,10 +1,22 @@
+# Uzupełnienie po odzyskaniu 89 odpowiedzi C14
+
+- Listopad: pokaz karmienia testrala i pytanie o lot; Hagrid proponuje lot w przyszłości, bez odbycia go na lekcji. Źródła: C14-M0096, C14-M0102.
+
+- 20 XII ostatnie GD przed świętami; Harry i Cho całują się po wyjściu grupy. Noc 20/21 XII: atak na Artura, interwencja dyrektora i wyjazd Harry’ego oraz Weasleyów. To również sceny poza obecnością Jamesa. Źródła: C14-M0222, C14-M0254, C14-M0256.
+
+- 22 XII Hermiona rezygnuje z nart po korespondencji z rodzicami; po wspólnym popołudniu w Pokoju Życzeń opuszcza Hogwart wieczorem. M0284 mówi omyłkowo o jutrzejszym wyjeździe, M0326 potwierdza 22 XII. Źródła: C14-M0270, C14-M0278, C14-M0288, C14-M0306, C14-M0326.
+
+- 22 XII wysłano życzenia do Luny i list do Élodie ponawiający zaproszenie. 23 XII przed piątą rozmowa z Grahamem; od 6:00 pomoc Pince i wybór trzech książek. Źródła: C14-M0334, C14-M0336, C14-M0346, C14-M0348, C14-M0354, C14-M0360, C14-M0362, C14-M0363.
+
+---
+
 # Chronologia — C14
 
 - Październik przechodzi w listopad; Gryffindor wygrywa mecz, Harry i George atakują Draco; Harry, Fred i George otrzymują zakaz quidditcha. Dekret 25. Jamesowi nie dopisano działań w przeskoku. Źródła: C14-M0060.
 
 - Listopad: powrót Hagrida, inspekcja lekcji testrali; James publicznie spiera się z Umbridge. Następnego dnia o 17 szlaban, potem rozmowa ze Snape’em. Źródła: C14-M0082, C14-M0112, C14-M0176, C14-M0184.
 
-- 21 XII McGonagall przekazuje Jamesowi i Hermionie, że Artur żyje i jest w Mungu. Dokładny przebieg wcześniejszego przeskoku nie jest dostępny; nie rekonstruuj pustych M0254–0256. Źródła: C14-M0262.
+- 21 XII McGonagall przekazuje Jamesowi i Hermionie, że Artur żyje i jest w Mungu. Odzyskane C14-M0254–C14-M0256 opisują pocałunek Harry’ego i Cho 20 XII oraz atak na Artura w nocy 20/21 XII. Prywatne sceny nie są automatycznie wiedzą Jamesa. Źródła: C14-M0262.
 
 - 23 XII: wspólny stół uczniów czterech domów, szachy, list do Hermiony, jednorazowy zakup prezentów w Hogsmeade. Źródła: C14-M0374, C14-M0416, C14-M0422, C14-M0456, C14-M0480, C14-M0522.
 

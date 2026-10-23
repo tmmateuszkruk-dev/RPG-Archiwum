@@ -4,7 +4,7 @@
 
 - Listopad: powrót Hagrida, inspekcja lekcji testrali; James publicznie spiera się z Umbridge. Następnego dnia o 17 szlaban, potem rozmowa ze Snape’em. Źródła: C14-M0082, C14-M0112, C14-M0176, C14-M0184.
 
-- 21 XII McGonagall przekazuje Jamesowi i Hermionie, że Artur żyje i jest w Mungu. Dokładny przebieg wcześniejszego przeskoku nie jest dostępny; nie rekonstruuj pustych M0254–0256. Źródła: C14-M0262.
+- 21 XII McGonagall przekazuje Jamesowi i Hermionie, że Artur żyje i jest w Mungu. Odzyskane C14-M0254–C14-M0256 opisują pocałunek Harry’ego i Cho 20 XII oraz atak na Artura w nocy 20/21 XII. Prywatne sceny nie są automatycznie wiedzą Jamesa. Źródła: C14-M0262.
 
 - 23 XII: wspólny stół uczniów czterech domów, szachy, list do Hermiony, jednorazowy zakup prezentów w Hogsmeade. Źródła: C14-M0374, C14-M0416, C14-M0422, C14-M0456, C14-M0480, C14-M0522.
 

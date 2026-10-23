@@ -1,6 +1,6 @@
 # James Brown
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Gracz; V rok, Slytherin.
 
@@ -27,7 +27,7 @@ Granice wiedzy: Nie zna adresu kwatery Zakonu, całego przesłuchania Croucha an
 - Wspólne latanie jest propozycją zaakceptowaną przez Jamesa; nie rozegrano jeszcze lotu. Źródła: C13-M0929, C13-M0936
 - Rozmowa o proteście od M0064 do M0074 została cofnięta. Obowiązuje M0078: Draco nie współczuje Weasleyom, Pansy wspiera go, Nott nie jest rzecznikiem Jamesa. Źródła: C14-M0076, C14-M0078
 - Ostatni szlaban u Umbridge odbył się bez krwawego pióra. Snape ma wyjaśnienia Jamesa oraz dokumentację dawnego pióra; sprawa pozostaje otwarta. Zapowiedź listu do Ministerstwa była blefem, co James ujawnił Snape’owi. Źródła: C14-M0184, C14-M0185, C14-M0186, C14-M0191, C14-M0192, C14-M0194
-- Podczas listopadowego szlabanu James korzystał z własnych przyborów, złożył pisemne wyjaśnienia i przepisał sto zdań; kara została zakończona. Odpowiedzi na pytania o Lucjusza i Veritaserum nie ma w eksporcie. Źródła: C14-M0120, C14-M0121, C14-M0125, C14-M0145, C14-M0146, C14-M0149, C14-M0151, C14-M0154
+- Podczas listopadowego szlabanu James korzystał z własnych przyborów, złożył pisemne wyjaśnienia i przepisał sto zdań; kara została zakończona. Umbridge przedstawiła wersję o Imperiusie i braku skazania Lucjusza; nie potwierdziła użycia Veritaserum (C14-M0150, C14-M0152). Źródła: C14-M0120, C14-M0121, C14-M0125, C14-M0145, C14-M0146, C14-M0149, C14-M0151, C14-M0154, C14-M0150, C14-M0152
 - 21 XII McGonagall przekazała obojgu, że Artur żyje i jest leczony w Mungu. Nie oznacza to znajomości całej wizji Harry’ego ani adresu kwatery. Źródła: C14-M0262
 - W Wigilię James powiedział McGonagall o niepokoju z powodu świąt Hermiony z Ronem. Rozmowa była ściszona; reszta szkoły nie poznaje jej automatycznie. Źródła: C14-M0591, C14-M0592, C14-M0593, C14-M0594, C14-M0598
 - Para pozostaje razem; list z 25 XII potwierdza miłość, tęsknotę i odmowę narzucania Ronowi odstępu. Podpisy o przyszłym mężu/narzeczonym nie są zaręczynami. Randka nadal nie ma potwierdzonego rozegrania. Źródła: C14-M0167, C14-M0648, C14-M0649
@@ -45,3 +45,13 @@ Granice wiedzy: Nie zna adresu kwatery Zakonu, całego przesłuchania Croucha an
 - List z 28 XII: Krum spędza święta z rodziną w Bułgarii, pamięta zaproszenie do Anglii, termin nieustalony. Prosi o pozdrowienie Hermiony; nie zakładaj, że pozdrowienia już przekazano. Źródła: C14-M0692
 - List z 28 XII: Élodie chciałaby odwiedzić Anglię, musi uzgodnić podróż z rodzicami; następne wakacje tylko możliwością. Rodzina odwzajemnia pozdrowienia. Źródła: C14-M0694
 - 28 XII słyszą rozmowę o Krumie, Cedryku i obawach przed wojną. Zapewnienie Jamesa, że młodsi nie będą musieli walczyć, nie jest gwarancją przyszłości. Potem planują Sylwestra; Graham pyta Jamesa o pozostanie na Nowy Rok, odpowiedzi jeszcze nie ma. Źródła: C14-M0695, C14-M0697, C14-M0699, C14-M0700, C14-M0701, C14-M0702, C14-M0703, C14-M0704
+- James słyszy od Umbridge wersję o Imperiusie Lucjusza i brak potwierdzenia Veritaserum. Hermiona nie uczestniczy w szlabanie, więc nie zna automatycznie tych słów. Źródła: C14-M0150, C14-M0152, C14-M0158
+- Sprawa pióra pozostaje nierozstrzygnięta. Snape zaleca dokumentowanie nadużyć i zgłoszenie ponownego użycia; nie nakazuje milczenia ani nie ogłasza skutecznego postępowania Ministerstwa. Źródła: C14-M0188, C14-M0190, C14-M0196, C14-M0222
+- Hermiona poznaje od Neville’a fragment relacji o nocnej interwencji McGonagall i śnie Harry’ego; przekazuje go Jamesowi. Nie daje to im pełnej wiedzy o wizji ani Grimmauld Place. Źródła: C14-M0254, C14-M0258, C14-M0260, C14-M0262
+- Hermiona mówi Jamesowi o niepełnym wyjaśnieniu rodzicom zmiany planów (nauka do SUM-ów). James zna cel dołączenia do Harry’ego i Weasleyów w Londynie, nie otrzymuje w tej rozmowie adresu kwatery. Źródła: C14-M0270
+- Hermiona pamięta obiecaną randkę; ma pomysł i część przygotowań, ale nie ustala terminu. Przedświąteczne popołudnie nie zostało nazwane wykonaniem tej obietnicy. Źródła: C14-M0168, C14-M0222, C14-M0238, C14-M0240, C14-M0288, C14-M0306
+- James deklaruje zaufanie i smutek. Obowiązujące M0278 zachowuje wyjazd Hermiony, jej troskę i frustrację; nie oznacza wyboru Rona jako partnera. Rozmowa o wspólnej przyszłości nie jest zaręczynami. Źródła: C14-M0238, C14-M0240, C14-M0275, C14-M0278
+- 22 XII wspólne popołudnie w Pokoju Życzeń, potem odprowadzenie z kufrem i pożegnanie przy bramie. Hermiona odchodzi z grupą pod nadzorem; obiecuje pisać i przekazać pozdrowienia, co samo w sobie nie potwierdza ich doręczenia. Źródła: C14-M0288, C14-M0306, C14-M0314, C14-M0320, C14-M0326
+- 23 XII nad ranem Graham przypomina, że on i Malcolm należeli do siatki ostrzegającej przed Hermioną. Opowiada o trzech mrugnięciach i dawnym fałszywym alarmie Malcolma; zobowiązuje się zachować tajemnicę. Detale tej relacji wymagają porównania z pierwotną sceną, nie zastępują jej. Źródła: C14-M0346, C14-M0348, C14-M0352
+- Pince udostępnia trzy tomy: Standardowa księga zaklęć, stopień szósty Mirandy Goshawk, teoria zaklęć ochronnych i opracowanie magii niewerbalnej. James bierze wszystkie trzy do czytania; nie jest to dowód nauczenia się zaklęć ani wypożyczenia poza bibliotekę. Źródła: C14-M0360, C14-M0362, C14-M0363
+- Listopad: pokaz karmienia testrala i pytanie o lot; Hagrid proponuje lot w przyszłości, bez odbycia go na lekcji. Źródła: C14-M0096, C14-M0102

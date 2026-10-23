@@ -1,6 +1,6 @@
 # Rose Zeller
 
-Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. C14 ma luki; brak wpisu nie dowodzi braku zdarzenia.
+Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źródłach C14. Wszystkie 89 luk C14 odzyskano; brak wpisu nadal nie dowodzi braku zdarzenia.
 
 Rola: Hufflepuff, I rok; robi papierowe ozdoby.
 
