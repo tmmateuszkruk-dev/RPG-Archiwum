@@ -1,18 +1,17 @@
 {
   "metadata": {
-    "campaign": "Hogwarts — James Brown / Hermiona, C1–C12; nie świat ślubu z Luną",
+    "campaign": "Hogwarts — James Brown / Hermiona, C1–C14; nie świat ślubu z Luną",
     "cutoff": "C14-M0704",
     "source_repository": "tmmateuszkruk-dev/RPG-Archiwum",
     "source_commit": "Naprawa C14 — patrz historia Git",
     "source_sha256": "2ee81d845eb5ea07f3d2815769e98b809c2499b943d1f0021de87af0eaa4bb88",
-    "messages_indexed": 12045,
+    "messages_indexed": 13778,
     "cards": 131,
-    "source_bytes": 6841170,
+    "source_bytes": 8670160,
     "coverage": "C14: 704 wiadomości, 89 luk odzyskanych. Starsze fakty zachowane; nowe wpisy ze źródeł, z wykluczeniem M0276. Wzmianka nie jest dowodem wiedzy.",
     "limitations": [
       "Katalog obejmuje rozpoznane nazwane postacie, zwierzęta, osoby anonimowe i wzmianki; anonimowy tłum nie ma wymyślonych indywidualnych kart.",
       "Trafienie imienia nie ustanawia obecności, wiedzy ani wspomnienia.",
-      "Późniejsza rozmowa po C12 nie została dostarczona.",
       "Rejestr wykluczeń w indeksie jest pomocniczy, nie zastępuje pełnego rejestru korekt."
     ],
     "messages": 13778,

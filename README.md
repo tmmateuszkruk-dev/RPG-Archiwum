@@ -1,37 +1,35 @@
-# Aktualizacja C1–C14 — 23 X 2026
+# RPG-Archiwum — C1–C14
 
-Stan C14-M0704, 28 XII 1995 rano: następny ruch gracza. 14 dużych części i 76 fragmentów do 200 pozycji w wersji do udostępniania. C14 po ponownym eksporcie: 704 wiadomości, wszystkie 89 luk uzupełnione. Rejestr: 03_INDEKS/NAPRAWA_EKSPORTU_C14.json. Nowy lorebook: 04_BAZA_PELNA/LOREBOOK_C14_UZUPELNIENIE.md. Starsze informacje poniżej są historyczne.
+Aktualny punkt: **C14-M0704**, 28 grudnia 1995 rano, pytanie Grahama o Nowy Rok. Następny ruch należy do gracza.
 
-# Stan C1–C13 — 17 X 2026
-
-Aktualne: C13-M1029, 13074 wiadomości, 13 dużych i 72 małe części. Najpierw RPG-Archiwum/02_PLIKI_AKTYWNE/08_CURRENT.md, następnie indeksy i 06_PAMIEC_POSTACI. Historyczne instrukcje poniżej nie cofają bieżącego punktu.
-
-# RPG-Archiwum — C1–C12
-
-**12045 wiadomości, 12 dużych archiwów, 66 fragmentów po maksymalnie 200 wiadomości.** Stan: C12-M1109, Pokój Życzeń po lekcjach, początek września 1995. Dokładna data nieustalona; następna tura Jamesa.
+**13 778 pozycji, 14 dużych części, 76 fragmentów do 200 pozycji i 131 kart pamięci postaci.** C14 zawiera 704 wiadomości; wszystkie 89 luk eksportu uzupełniono.
 
 - [CURRENT](RPG-Archiwum/02_PLIKI_AKTYWNE/08_CURRENT.md)
-- [Duże części](RPG-Archiwum/03_INDEKS/INDEKS_CZATY.md)
-- [Małe części](RPG-Archiwum/03_INDEKS/INDEKS_MALYCH_CZESCI.md)
+- [Duże części C1–C14](RPG-Archiwum/03_INDEKS/INDEKS_DUZYCH_CZESCI.md)
+- [Małe części C1–C14](RPG-Archiwum/03_INDEKS/INDEKS_MALYCH_CZESCI.md)
 - [Indeks scen](RPG-Archiwum/03_INDEKS/INDEKS_SCEN.md)
-- [Instrukcje projektu z właściwymi adresami RAW](RPG-Archiwum/INSTRUKCJE_PROJEKTU.md)
+- [Pamięć postaci](RPG-Archiwum/06_PAMIEC_POSTACI)
+- [Instrukcje projektu](RPG-Archiwum/INSTRUKCJE_PROJEKTU.md)
 
-| Folder wewnątrz RPG-Archiwum | Zawartość |
+| Folder wewnątrz RPG-Archiwum | Przeznaczenie |
 |---|---|
-| 01_ARCHIWA_CZATY | Pełne części, małe fragmenty i scalone archiwum |
-| 02_PLIKI_AKTYWNE | Bieżący stan, wiedza NPC, zasady i skróty |
-| 03_INDEKS | Indeksy i mapowania do oryginalnych eksportów |
-| 04_BAZA_PELNA | Pełne działy, lorebook Markdown/JSON |
-| 04_ORYGINALY | Oryginał eksportu C12 |
-| 05_HISTORIA_BAZY | Zachowane wcześniejsze wersje wiedzy |
+| 01_ARCHIWA_CZATY/wersja_do_udostepniania | Aktualny, kompletny zestaw C1–C14: duże części, fragmenty i scalone archiwum; pominięcia treści są oznaczone |
+| 01_ARCHIWA_CZATY (poza powyższym podfolderem) | Zachowany wcześniejszy zestaw C1–C13; nie jest kompletnym zestawem C14 |
+| 02_PLIKI_AKTYWNE | Bieżący stan, zasady i skróty |
+| 03_INDEKS | Indeksy, mapowania i kontrola integralności |
+| 04_BAZA_PELNA | Pełne działy i uzupełnienia lorebooka |
+| 04_ORYGINALY | Zachowane materiały źródłowe |
+| 05_HISTORIA_BAZY | Poprzednie wersje wiedzy i dokumentacji |
+| 06_PAMIEC_POSTACI | Karty, fakty ze źródłami i indeks wzmianek |
 | scripts | Wyszukiwanie ID i kontrola integralności |
 
-Najpierw indeks, potem konkretny fragment. C12-M0922–C12-M0949 to odrzucona gałąź, zachowana wyłącznie archiwalnie. Sny, plany i OOC nie stają się faktami świata.
+Najpierw właściwy dział i indeks, następnie potrzebny fragment. Odrzucone sceny nie ustanawiają faktów ani wiedzy NPC; sprawdzaj rejestr korekt. Wzmianka o postaci nie dowodzi jej obecności.
 
 ```bash
 cd RPG-Archiwum
 python scripts/sprawdz.py
-python scripts/znajdz.py C12-M1109
+python scripts/znajdz.py C14-M0704
 ```
 
-Starsze archiwa C1–C11 i 60 fragmentów zachowano bajt w bajt. Aktualizacja repozytorium nie podmienia automatycznie załączników ani ustawień projektu ChatGPT. Do ręcznej podmiany przeznaczony jest folder 02_PLIKI_AKTYWNE.
+Konfiguracja ścieżek: `RPG-Archiwum/REPO_CONFIG.json`. Adresy RAW muszą zawierać podfolder `RPG-Archiwum/`.
+Aktualizacja GitHuba nie podmienia automatycznie załączników projektu ChatGPT ani danych strony.
