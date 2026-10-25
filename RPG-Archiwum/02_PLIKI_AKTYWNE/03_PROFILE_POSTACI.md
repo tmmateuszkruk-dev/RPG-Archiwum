@@ -1,3 +1,14 @@
+# Nadrzędna korekta bieżąca — James Brown
+
+- **Data urodzenia Jamesa:** 1 stycznia.
+- **Aktualny wiek fabularny:** **17 lat**. Starsze zapisy „15 lat”, „niepełnoletni” oraz „nie dopisuj daty urodzin” są zachowane niżej wyłącznie jako historyczne migawki wcześniejszych części i **nie obowiązują jako stan bieżący**.
+- **Wygląd bieżący:** 180 cm; blond włosy; szaro-niebieskie oczy; biała, bardzo jasna i czysta cera; rysy raczej ostre, nadal młodzieńcze.
+- **Budowa:** szczupła, atletyczna, wyraźnie wysportowana, lecz nie masywna; mocniejsze barki i ramiona, wytrenowany brzuch, proporcjonalna klatka piersiowa, węższa talia, smukłe sprawne nogi.
+- **Ciągłość treningu:** ćwiczy regularnie od lutego; Hermiona w C8-M0382–C8-M0389 zauważa mocniejsze ramiona/posturę i efekty treningu brzucha. Poranne ćwiczenia oraz bieganie pozostają stałą rutyną w C11-M0101, C12-M0203–C12-M0204 i C12-M0207.
+- Szczegółowa karta: [James Brown](../06_PAMIEC_POSTACI/karty/james-brown.md).
+
+---
+
 # Uzupełnienie po odzyskaniu 89 odpowiedzi C14
 
 - Hermiona: M0220 przywraca książkową osobowość, ambicję, samodzielność i własne plany. W M0278 reaguje emocjonalnie, z frustracją i troską właściwymi wiekowi, nadal podtrzymuje wyjazd. M0276 odrzucone. Źródła: C14-M0220, C14-M0277, C14-M0278.
