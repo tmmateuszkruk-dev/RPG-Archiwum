@@ -4,6 +4,18 @@ Granica aktualizacji: C14-M0704. Starsze fakty zachowane, nowe tylko przy źród
 
 Rola: Gracz; V rok, Slytherin.
 
+## Dane podstawowe i wygląd — nadrzędne ustalenia bieżące
+
+- **Data urodzenia:** 1 stycznia. **Aktualny wiek fabularny: 17 lat.** To jawne, nadrzędne ustalenie użytkownika; starsze wpisy opisujące Jamesa jako 15- lub 16-letniego albo zabraniające dopisywania daty urodzin są historyczne i nie obowiązują jako stan bieżący.
+- **Wzrost:** 180 cm. Ustalony jawnie w C6-M0206–C6-M0207.
+- **Włosy:** blond. James mówi o tym w C10-M0297, Hermiona potwierdza w C10-M0298.
+- **Oczy:** szaro-niebieskie.
+- **Cera:** biała, bardzo jasna i czysta.
+- **Rysy twarzy:** raczej ostre, ale nadal młodzieńcze; wyraźniejsza linia żuchwy i kości policzkowe, bez przesadnie dorosłego lub masywnego wyglądu.
+- **Budowa:** szczupła, atletyczna i wyraźnie wysportowana, ale nie masywna. James ma mocniejsze, lekko poszerzone barki, dobrze zarysowane ramiona i przedramiona, wytrenowany brzuch, proporcjonalnie rozwiniętą klatkę piersiową, stosunkowo wąską talię oraz smukłe, sprawne nogi. Sylwetka ma wyglądać jak efekt długotrwałych ćwiczeń i biegania, nie kulturystyki.
+- **Rozwój sylwetki:** regularne ćwiczenia zaczął w lutym. W C8-M0382–C8-M0389 Hermiona po świadomym porównaniu zauważa, że wygląda mocniej niż w lutym, szczególnie w ramionach i posturze; wyraźnie wyczuwa też efekt treningu brzucha. Rutyna treningowa trwa dalej: poranne ćwiczenia i bieganie są już „tradycyjne” w C11-M0101 oraz powtarzają się przez wakacje i przed powrotem do Hogwartu w C12-M0203–C12-M0204 i C12-M0207.
+- **Ogólny odbiór:** w neutralnej lub poważnej minie jasna cera, szaro-niebieskie oczy i ostrzejsze rysy mogą dawać chłodniejszy, bardziej zdecydowany wygląd. Na bardzo jasnej cerze rumieniec jest wyraźnie widoczny.
+
 Charakter: Nie dopisywać mu czynów ani uczuć. Zachować zdobyte umiejętności i jego własne deklaracje jako deklaracje.
 
 Granice wiedzy: Nie zna adresu kwatery Zakonu, całego przesłuchania Croucha ani cudzych prywatnych rozmów.
