@@ -45,6 +45,9 @@ def main():
  historical=bool(a.at and key(a.at)<key(data['metadata']['cutoff']))
  page=hits[a.offset:a.offset+a.limit]
  result={'character':c['name'],'campaign':data['metadata']['campaign'],'source_cutoff':data['metadata']['cutoff'],
+ 'content_revision':data['metadata'].get('content_revision'),
+ 'card_source':c.get('card_source'),
+ 'current_profile':None if historical else c.get('current_profile'),
  'historical_warning':'Reconstruct the state at requested ID from sources; present-day role/limits suppressed.' if historical else None,
  'role':None if historical else c['role'],'behavior':None if historical else c['behavior'],
  'knowledge_limits':None if historical else c['knowledge_limits'],

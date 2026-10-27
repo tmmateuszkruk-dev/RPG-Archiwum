@@ -3,5 +3,14 @@
   "default_branch": "main",
   "base_path": "RPG-Archiwum",
   "raw_base": "https://raw.githubusercontent.com/tmmateuszkruk-dev/RPG-Archiwum/refs/heads/main/RPG-Archiwum/",
-  "state": "C14-M0704"
+  "state": "C14-M0704",
+  "paths": {
+    "current": "02_PLIKI_AKTYWNE/08_CURRENT.md",
+    "rules": "02_PLIKI_AKTYWNE/10_ZASADY_I_CIAGLOSC.md",
+    "corrections": "02_PLIKI_AKTYWNE/09_REJESTR_KOREKT.md",
+    "archive_index": "03_INDEKS/INDEKS_PLIKOW.json",
+    "cards": "06_PAMIEC_POSTACI/karty",
+    "memory": "06_PAMIEC_POSTACI/pamiec_postaci.json",
+    "memory_metadata": "06_PAMIEC_POSTACI/metryka.json"
+  }
 }

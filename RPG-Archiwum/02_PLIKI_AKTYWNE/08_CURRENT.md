@@ -10,6 +10,6 @@ Ostatnia odpowiedź narratora M0704 kończy się pytaniem Grahama: „a ty zosta
 
 Oba listy z 28 XII, od Kruma i Élodie, przeczytane i schowane przez Jamesa do kieszeni szaty (M0693, M0695). Grupa zna nadawców i deklarację Jamesa o znajomości Kruma, nie całą treść listów. Odpowiedź Weasleyów nadal nie nadeszła (M0690). Hermiona odpisała 25 XII, Luna tego samego dnia wieczorem.
 
-Hermiona ma 16 lat; James jest niepełnoletnim piątoklasistą, bez nowego potwierdzenia urodzin. Związek trwa; „przyszły mąż/narzeczony” w listach nie oznacza zaręczyn. Jej randka nadal bez potwierdzonego rozegrania. Prezent dla Hermiony kupiony, niepotwierdzone wręczenie. Notes Luny nadal u grupy.
+Hermiona ma 16 lat. James ma 17 lat, urodziny 1 stycznia — zgodnie z nadrzędną bieżącą korektą w karcie postaci; pozostaje na V roku. Związek trwa; „przyszły mąż/narzeczony” w listach nie oznacza zaręczyn. Jej randka nadal bez potwierdzonego rozegrania. Prezent dla Hermiony kupiony, niepotwierdzone wręczenie. Notes Luny nadal u grupy.
 
 C14 po naprawie eksportu nie ma luk. C14-M0278 zastępuje wyłącznie C14-M0276; wcześniejsze wydarzenia i decyzja o wyjeździe Hermiony pozostają. Stare CURRENT jest historyczne; nie cofaj akcji.

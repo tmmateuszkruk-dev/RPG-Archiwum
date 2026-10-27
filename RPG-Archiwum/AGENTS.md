@@ -9,6 +9,10 @@ To repozytorium jest bazą ciągłości polskiego RPG. James Brown należy wył�
 
 Przed pierwszą narracją przeczytaj pliki z 02_PLIKI_AKTYWNE: 08_CURRENT.md, 10_ZASADY_I_CIAGLOSC.md, 09_REJESTR_KOREKT.md, 04_KTO_CO_WIE.md. Potem rozwijaj bieżącą rozmowę; nie resetuj do CURRENT.
 
+Obowiązujące reguły prowadzenia są w 02_PLIKI_AKTYWNE/10_ZASADY_I_CIAGLOSC.md. Dawne wersje instrukcji i punktów startowych w 05_HISTORIA_BAZY są źródłem historycznym. Przy sprawdzaniu aktualności porównuj osobno końcowe ID historii oraz wersję treści kart i korekt. Ten sam cutoff nie wyklucza nowszej korekty wieku lub profilu. Czytaj indywidualną kartę, nie tylko jej kopię JSON.
+
+Po zmianie kart uruchom `python scripts/synchronizuj_profile.py`, następnie `python scripts/synchronizuj_profile.py --check`. Sekcja `## Dane bieżące` (lub istniejąca sekcja nadrzędnego profilu Jamesa) jest źródłem profilu bieżącego w JSON; nie zmienia automatycznie dawnych wydarzeń. Zapisz razem karty i pochodną bazę. Przeglądarka wymaga osobnego odświeżenia danych i publikacji; sprawdź jej sourceCommit i sourceVersions, także bez nowej części. Zachowaj prywatność strony.
+
 Do ważnego faktu dobierz dział. Jeżeli skrót jest niejasny, sprawdź 03_INDEKS/INDEKS_SCEN.md oraz właściwy fragment archiwum. Jedno ID znajduje `python scripts/znajdz.py C14-M0704`; zakres przyjmuje dwa ID z tego samego Part. Pełne działy są w 04_BAZA_PELNA. Historyczne punkty końcowe nie są bieżącym stanem.
 
 Późniejsza jawna korekta użytkownika ma pierwszeństwo tylko w swoim zakresie. Oddziel wiedzę NPC, narratora, prywatne myśli, plotki, deklaracje i marzenia. Nie mieszaj odrębnych kampanii. Zachowuj osobowości, wiek i samodzielność NPC. Brak źródła zgłoś zamiast zgadywać.
