@@ -16,17 +16,17 @@
     ],
     "messages": 13778,
     "bytes": 8670160,
-    "content_revision": "32dba8694b851ba876ca31f3f80545df6ecb1c711040a015282592e71cd0e34a",
+    "content_revision": "1f1be0e6f5f54aa329e942b0193ddf2875469de539e234b23cacbdfe649e3c04",
     "card_source_blobs": {
       "06_PAMIEC_POSTACI/karty/james-brown.md": "b5114f9dfe5e8d41b0a9387dbb4cf3313b9661bc",
-      "06_PAMIEC_POSTACI/karty/hermiona-granger.md": "80f12dce09acf7dc4b0eee7a0d8f72df6028a997",
+      "06_PAMIEC_POSTACI/karty/hermiona-granger.md": "c11c02a75ab4a84183db3a67b136c2d652159776",
       "06_PAMIEC_POSTACI/karty/theodore-nott.md": "6f5f099571ca96f93980e203c093d03bb71b6610",
       "06_PAMIEC_POSTACI/karty/draco-malfoy.md": "a0f7a40cecd8270eb22ad408ee1532895f32912f",
       "06_PAMIEC_POSTACI/karty/pansy-parkinson.md": "0fbedbddeef5281d60e4fce1a2c061a8dbcbddff",
-      "06_PAMIEC_POSTACI/karty/harry-potter.md": "808d93c4df7c857700cc60dbd8ca583cf4c45ec3",
-      "06_PAMIEC_POSTACI/karty/ron-weasley.md": "caa8499b873720e66cda49310375a5185cf4efe4",
-      "06_PAMIEC_POSTACI/karty/ginny-weasley.md": "89739be1f1161dad2c2b0e5592de2cb1a9481319",
-      "06_PAMIEC_POSTACI/karty/luna-lovegood.md": "5b66f9c375334ad3fc790ec76da7348868254747",
+      "06_PAMIEC_POSTACI/karty/harry-potter.md": "b2364fd9c9d76a0f4e304e6e6319d445e0031ac9",
+      "06_PAMIEC_POSTACI/karty/ron-weasley.md": "c6455a179fa80662a87a491b6513694f055da5e4",
+      "06_PAMIEC_POSTACI/karty/ginny-weasley.md": "42585d7477355403eb83116028c7656db6a666e3",
+      "06_PAMIEC_POSTACI/karty/luna-lovegood.md": "a8326ef17e4975acc14c510e4815925932aeb4cc",
       "06_PAMIEC_POSTACI/karty/viktor-krum.md": "9bf4baf7e2c49ec8798f89271228c97f3f0a5690",
       "06_PAMIEC_POSTACI/karty/elodie-moreau.md": "388ac4be866c0b9fc5f7e93f3217ebca1104f3e1",
       "06_PAMIEC_POSTACI/karty/aleksiej.md": "7e832d0243cf5077738a6c80efc0d898e53be4ec",
@@ -50,7 +50,7 @@
       "06_PAMIEC_POSTACI/karty/bathsheda-babbling.md": "2b879dd3305acdc7d0f19012a3e5cdebf393d8df",
       "06_PAMIEC_POSTACI/karty/sir-nicholas-prawie-bezglowy-nick.md": "2ba37f970e7311cf9fff4d563e95affb53bc963b",
       "06_PAMIEC_POSTACI/karty/krwawy-baron.md": "9b0cd2eac3d07c2a0ba66bc25ef1e14daf030c75",
-      "06_PAMIEC_POSTACI/karty/gruba-dama.md": "fbe03116aecf2afbf440f6da8a4faa196de5ea4c",
+      "06_PAMIEC_POSTACI/karty/gruba-dama.md": "93221cdc2d81e20dcfd7c3ed4f6d381366e20a6a",
       "06_PAMIEC_POSTACI/karty/neville-longbottom.md": "a4a36bc3f9b7c2a10330f945dae3a243a5289c3e",
       "06_PAMIEC_POSTACI/karty/seamus-finnigan.md": "ef16a48e37bf18a986e5db9962cef7e16d223c56",
       "06_PAMIEC_POSTACI/karty/dean-thomas.md": "11f81af2a0ae3586de7cc69a1fcf8e8fb19394e2",
@@ -63,8 +63,8 @@
       "06_PAMIEC_POSTACI/karty/mandy-brocklehurst.md": "fa33c3cbaaf0519ca782ec031a5759cf2f9e535d",
       "06_PAMIEC_POSTACI/karty/vincent-crabbe.md": "0ecd917577f4c4b84485f55289d764443d5b1d61",
       "06_PAMIEC_POSTACI/karty/gregory-goyle.md": "8808a1ba1377a03e072f88a555756ff2caf169d7",
-      "06_PAMIEC_POSTACI/karty/malcolm-baddock.md": "db49cc3079a833a4d5d3e45250ec8e2b9a83da4b",
-      "06_PAMIEC_POSTACI/karty/graham-pritchard.md": "7463f6edd85e4a399f3aa9e7960e1305ac70cd19",
+      "06_PAMIEC_POSTACI/karty/malcolm-baddock.md": "16eacdd88f99bb774138aaa5da11285dbf9a830d",
+      "06_PAMIEC_POSTACI/karty/graham-pritchard.md": "2290576c422dfb4a9c7d461ef439d3e1438cf86e",
       "06_PAMIEC_POSTACI/karty/fred-weasley.md": "466f04fbe04fbf318576bc1f314ced9b9edd1d28",
       "06_PAMIEC_POSTACI/karty/george-weasley.md": "1b40d3421d294d950dc03f7befc18c6fb47e1477",
       "06_PAMIEC_POSTACI/karty/cedric-diggory.md": "1bfab5d2434d2fed132347b527ec406fed07ef03",
@@ -141,7 +141,7 @@
       "06_PAMIEC_POSTACI/karty/laura-madley.md": "c38ad4e629930b94afe3a54cd8fe53a46b4cdcbb",
       "06_PAMIEC_POSTACI/karty/dennis-creevey.md": "cbe41019829b62cf991c99b0a88819e8f11add14",
       "06_PAMIEC_POSTACI/karty/euan-abercrombie.md": "f43ff48fffe485802624bd8a1b82e4689eca8d70",
-      "06_PAMIEC_POSTACI/karty/orla-quirke.md": "91237823b4324950d2b2fe58cb5acb6780713b91",
+      "06_PAMIEC_POSTACI/karty/orla-quirke.md": "d94ad2d53d77d3fec098164737118f2132ba76e7",
       "06_PAMIEC_POSTACI/karty/stewart-ackerley.md": "6136478a6baeda5b43824b573b3c5490cd30b647",
       "06_PAMIEC_POSTACI/karty/owen-cauldwell.md": "0d66fde7e8c7d6c86433bd5da0a953dbea257a03",
       "06_PAMIEC_POSTACI/karty/kevin-whitby.md": "a4799184389b214f71e5d166a94a22b0e008ebff",
@@ -149,6 +149,10 @@
       "06_PAMIEC_POSTACI/karty/amelia-pritchard.md": "7b2375602952e6803ebef520c638f8a95f882680",
       "06_PAMIEC_POSTACI/karty/merriweather.md": "5f5beaf0c21985276d63ae6f7dd0d886fb8710c8",
       "06_PAMIEC_POSTACI/karty/edgar-whitlock.md": "4cc237dc01e6e7ca43eee593481ad89f72101708"
+    },
+    "reaction_source": {
+      "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+      "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
     }
   },
   "cards": [
@@ -6449,6 +6453,103 @@
         "source_path": "06_PAMIEC_POSTACI/karty/james-brown.md",
         "source_blob_sha": "b5114f9dfe5e8d41b0a9387dbb4cf3313b9661bc",
         "archive_cutoff_at_sync": "C14-M0704"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [
+          {
+            "id": "rozmowa-krum-charakter",
+            "title": "James odpowiedział, jaki jest Krum",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "rose-zeller"
+            ],
+            "status": "ODPOWIEDZIANE",
+            "summary": "Na pytanie Dennisa James opisał Kruma jako skrytego, ale serdecznego. Nie zadawać od początku tego samego pytania; można odnieść się do odpowiedzi lub zapytać o nowy konkret.",
+            "sources": [
+              "C14-M0696",
+              "C14-M0697"
+            ],
+            "pending": "Brak oczekującej odpowiedzi na to pytanie.",
+            "return_condition": "Nowe pytanie o konkretną sytuację lub inicjatywa gracza.",
+            "as_of": "C14-M0697"
+          },
+          {
+            "id": "rozmowa-wojna-odlozona",
+            "title": "Rozmowa o wojnie została odłożona",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "laura-madley",
+              "rose-zeller",
+              "euan-abercrombie"
+            ],
+            "status": "ODŁOŻONE",
+            "summary": "James przyjął uwagę, żeby skupić się na teraźniejszości, i przeszedł do Nowego Roku. Lęk nie został magicznie usunięty; bez nowej przyczyny nie powtarzać tej samej rundy pocieszania.",
+            "sources": [
+              "C14-M0700",
+              "C14-M0701",
+              "C14-M0702",
+              "C14-M0703"
+            ],
+            "pending": "Nie ustalono przyszłego przebiegu wojny ani bezpieczeństwa uczniów.",
+            "return_condition": "Nowe zdarzenie, informacja lub powrót gracza do tematu.",
+            "as_of": "C14-M0703"
+          },
+          {
+            "id": "rozmowa-sylwester-plan",
+            "title": "Wieczór sylwestrowy pozostaje planem",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "laura-madley",
+              "rose-zeller"
+            ],
+            "status": "PLAN",
+            "summary": "Padły propozycje gier, życzeń i zaproszenia innych. Laura przypomniała o pozwoleniu, Eleanor zaproponowała zapytanie Sprout. Nie uzyskano jeszcze zgody ani nie zorganizowano spotkania.",
+            "sources": [
+              "C14-M0704"
+            ],
+            "pending": "Decyzje uczestników i ewentualne uzyskanie pozwolenia.",
+            "return_condition": "Dalsze ustalenia lub wykonanie planu.",
+            "as_of": "C14-M0704"
+          },
+          {
+            "id": "rozmowa-zostajesz-na-nowy-rok",
+            "title": "Graham czeka na odpowiedź Jamesa",
+            "characters": [
+              "graham-pritchard",
+              "james-brown"
+            ],
+            "status": "OTWARTE",
+            "summary": "Ostatnie pytanie dotyczy pozostania Jamesa w Hogwarcie na Nowy Rok. Odpowiedź należy do gracza. Nie dopisywać jej z wcześniejszych planów ani sugestii interfejsu.",
+            "sources": [
+              "C14-M0704"
+            ],
+            "pending": "Odpowiedź lub działanie Jamesa.",
+            "return_condition": "Nie ponawiaj automatycznie pytania; daj graczowi turę.",
+            "as_of": "C14-M0704"
+          }
+        ],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -7016,6 +7117,17 @@
           "latest_evidence_id": "C14-M0326",
           "sources_verified_exist": true,
           "temporal_rule": "Wiedza dopiero od udziału lub przekazania; nie przenosić wstecz."
+        },
+        {
+          "text": "Była już noszona przez Jamesa przy innych; wie, że Ginny zna zwyczaj, bo odpowiadała na jej komentarz. Znajomość sytuacji nie wymusza stałej emocji ani obojętności.",
+          "sources": [
+            "C13-M0718",
+            "C14-M0314"
+          ],
+          "source_label": "C13-M0718, C14-M0314",
+          "evidence": "synteza odczytanych scen; nie stenogram",
+          "latest_evidence_id": "C14-M0314",
+          "id": "znane-noszenie-hermiona-granger"
         }
       ],
       "mention_ids": [
@@ -13330,7 +13442,89 @@
       "mention_count": 6307,
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/hermiona-granger.md",
-        "blob_sha": "80f12dce09acf7dc4b0eee7a0d8f72df6028a997"
+        "blob_sha": "c11c02a75ab4a84183db3a67b136c2d652159776"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": [
+          {
+            "id": "glos-hermiona-granger-1",
+            "title": "Hermiona Granger — sprzeciw",
+            "characters": [
+              "hermiona-granger"
+            ],
+            "context": "sprzeciw",
+            "quote": "Nie zgadzam się, kochanie.",
+            "sources": [
+              "C14-M0228"
+            ],
+            "signals": [
+              "Potrafi jasno się sprzeciwić, zachowując bliskość.",
+              "Odróżnia przekonanie Jamesa od wiedzy o Ginny."
+            ],
+            "limits": [
+              "Nie kopiować wieloczęściowego wykładu całej sceny.",
+              "Nie zakładać cudzych uczuć."
+            ],
+            "status": "PRÓBKA_KAMPANII",
+            "summary": "Potrafi jasno się sprzeciwić, zachowując bliskość. Odróżnia przekonanie Jamesa od wiedzy o Ginny.",
+            "period": "C14",
+            "as_of": "C14-M0228"
+          },
+          {
+            "id": "glos-hermiona-granger-2",
+            "title": "Hermiona Granger — własne zajęcie",
+            "characters": [
+              "hermiona-granger"
+            ],
+            "context": "własne zajęcie",
+            "quote": "Miałam książkę, więc absolutnie nie zmarnowałam czasu.",
+            "sources": [
+              "C14-M0198"
+            ],
+            "signals": [
+              "Ma własne zajęcie podczas czekania.",
+              "Praktyczny konkret może oddać jej charakter."
+            ],
+            "limits": [
+              "Nie kopiować serii pytań z całej wiadomości.",
+              "Nie sprowadzać jej stale do książek."
+            ],
+            "status": "PRÓBKA_KAMPANII",
+            "summary": "Ma własne zajęcie podczas czekania. Praktyczny konkret może oddać jej charakter.",
+            "period": "C14",
+            "as_of": "C14-M0198"
+          },
+          {
+            "id": "glos-hermiona-granger-3",
+            "title": "Hermiona Granger — rozpoznany zwyczaj",
+            "characters": [
+              "hermiona-granger"
+            ],
+            "context": "rozpoznany zwyczaj",
+            "quote": "O, wróciło mruczenie.",
+            "sources": [
+              "C8-M0740"
+            ],
+            "signals": [
+              "Rozpoznaje zachowanie Jamesa jako znane."
+            ],
+            "limits": [
+              "Nie powtarzać tej kwestii jako refrenu.",
+              "Próbka dotyczy wcześniejszego etapu i zwykłego masażu głowy; nie eskalować opisu."
+            ],
+            "status": "PRÓBKA_KAMPANII",
+            "summary": "Rozpoznaje zachowanie Jamesa jako znane.",
+            "period": "C8",
+            "as_of": "C8-M0740"
+          }
+        ]
       }
     },
     {
@@ -14584,6 +14778,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/theodore-nott.md",
         "blob_sha": "6f5f099571ca96f93980e203c093d03bb71b6610"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -15995,6 +16199,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/draco-malfoy.md",
         "blob_sha": "a0f7a40cecd8270eb22ad408ee1532895f32912f"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -16950,6 +17164,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/pansy-parkinson.md",
         "blob_sha": "0fbedbddeef5281d60e4fce1a2c061a8dbcbddff"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -18540,7 +18764,40 @@
       "mention_count": 1414,
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/harry-potter.md",
-        "blob_sha": "808d93c4df7c857700cc60dbd8ca583cf4c45ec3"
+        "blob_sha": "b2364fd9c9d76a0f4e304e6e6319d445e0031ac9"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": [
+          {
+            "id": "glos-harry-potter-1",
+            "title": "Harry Potter — prowadzenie ćwiczeń",
+            "characters": [
+              "harry-potter"
+            ],
+            "context": "prowadzenie ćwiczeń",
+            "quote": "Dobra, koniec pokazu. James, odłóż jej różdżkę.",
+            "sources": [
+              "C13-M0966"
+            ],
+            "signals": [
+              "Krótka, bezpośrednia interwencja osoby prowadzącej zajęcia."
+            ],
+            "limits": [
+              "Nie przenosić roli prowadzącego na wszystkie sceny."
+            ],
+            "status": "PRÓBKA_KAMPANII",
+            "summary": "Krótka, bezpośrednia interwencja osoby prowadzącej zajęcia.",
+            "period": "C13",
+            "as_of": "C13-M0966"
+          }
+        ]
       }
     },
     {
@@ -19980,7 +20237,40 @@
       "mention_count": 1318,
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/ron-weasley.md",
-        "blob_sha": "caa8499b873720e66cda49310375a5185cf4efe4"
+        "blob_sha": "c6455a179fa80662a87a491b6513694f055da5e4"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": [
+          {
+            "id": "glos-ron-weasley-1",
+            "title": "Ron Weasley — sprzeciw podczas ćwiczeń",
+            "characters": [
+              "ron-weasley"
+            ],
+            "context": "sprzeciw podczas ćwiczeń",
+            "quote": "Przecież to miały być ćwiczenia z Expelliarmus!",
+            "sources": [
+              "C13-M0966"
+            ],
+            "signals": [
+              "Reaguje konkretnie na naruszenie zasad ćwiczenia."
+            ],
+            "limits": [
+              "To sprzeciw sytuacyjny, nie dowód stałej wrogości ani obowiązek krzyku."
+            ],
+            "status": "PRÓBKA_KAMPANII",
+            "summary": "Reaguje konkretnie na naruszenie zasad ćwiczenia.",
+            "period": "C13",
+            "as_of": "C13-M0966"
+          }
+        ]
       }
     },
     {
@@ -20087,6 +20377,17 @@
           "latest_evidence_id": "C13-M0948",
           "sources_verified_exist": true,
           "temporal_rule": "Obowiązuje od wskazanej sceny; nie przenoś wiedzy wstecz."
+        },
+        {
+          "text": "Zna noszenie Hermiony przez Jamesa i sama komentowała ten zwyczaj na urodzinach. Hermiona słyszała ten komentarz. Nie przedstawiać Ginny jako dopiero odkrywającej sam zwyczaj; nie zna automatycznie późniejszych epizodów.",
+          "sources": [
+            "C13-M0672",
+            "C13-M0718"
+          ],
+          "source_label": "C13-M0672, C13-M0718",
+          "evidence": "synteza odczytanych scen; nie stenogram",
+          "latest_evidence_id": "C13-M0718",
+          "id": "znane-noszenie-ginny-weasley"
         }
       ],
       "mention_ids": [
@@ -20669,7 +20970,63 @@
       "mention_count": 575,
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/ginny-weasley.md",
-        "blob_sha": "89739be1f1161dad2c2b0e5592de2cb1a9481319"
+        "blob_sha": "42585d7477355403eb83116028c7656db6a666e3"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": [
+          {
+            "id": "glos-ginny-weasley-1",
+            "title": "Ginny Weasley — konkretny żart ze wspólnego doświadczenia",
+            "characters": [
+              "ginny-weasley"
+            ],
+            "context": "konkretny żart ze wspólnego doświadczenia",
+            "quote": "Hermiono, on dzisiaj nosił cię po połowie zamku.",
+            "sources": [
+              "C13-M0718"
+            ],
+            "signals": [
+              "Żart ma konkretną podstawę w znanym wydarzeniu."
+            ],
+            "limits": [
+              "Nie komentuje automatycznie każdej sceny pary.",
+              "Znajomość zwyczaju nie oznacza wiedzy o każdym późniejszym epizodzie."
+            ],
+            "status": "PRÓBKA_KAMPANII",
+            "summary": "Żart ma konkretną podstawę w znanym wydarzeniu.",
+            "period": "C13",
+            "as_of": "C13-M0718"
+          },
+          {
+            "id": "glos-ginny-weasley-2",
+            "title": "Ginny Weasley — inicjatywa w grupie",
+            "characters": [
+              "ginny-weasley"
+            ],
+            "context": "inicjatywa w grupie",
+            "quote": "Może Gwardia Dumbledore'a?",
+            "sources": [
+              "C13-M0948"
+            ],
+            "signals": [
+              "Proponuje własne rozwiązanie z zaczepnym podtekstem."
+            ],
+            "limits": [
+              "Nie kopiować żartu o nazwie w innych sytuacjach."
+            ],
+            "status": "PRÓBKA_KAMPANII",
+            "summary": "Proponuje własne rozwiązanie z zaczepnym podtekstem.",
+            "period": "C13",
+            "as_of": "C13-M0948"
+          }
+        ]
       }
     },
     {
@@ -21055,7 +21412,41 @@
       "mention_count": 311,
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/luna-lovegood.md",
-        "blob_sha": "5b66f9c375334ad3fc790ec76da7348868254747"
+        "blob_sha": "a8326ef17e4975acc14c510e4815925932aeb4cc"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": [
+          {
+            "id": "glos-luna-lovegood-1",
+            "title": "Luna Lovegood — zasięg plotki",
+            "characters": [
+              "luna-lovegood"
+            ],
+            "context": "zasięg plotki",
+            "quote": "Więc powiedziałabym, że katastrofa jest jeszcze lokalna.",
+            "sources": [
+              "C5-M0578"
+            ],
+            "signals": [
+              "Spokojny, nieoczywisty humor po konkretnym wyjaśnieniu źródła informacji."
+            ],
+            "limits": [
+              "Próbka z wcześniejszego etapu tej kampanii.",
+              "Nie zamieniać jej w zawsze zagadkową ani wszechwiedzącą postać."
+            ],
+            "status": "PRÓBKA_KAMPANII",
+            "summary": "Spokojny, nieoczywisty humor po konkretnym wyjaśnieniu źródła informacji.",
+            "period": "C5",
+            "as_of": "C5-M0578"
+          }
+        ]
       }
     },
     {
@@ -21372,6 +21763,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/viktor-krum.md",
         "blob_sha": "9bf4baf7e2c49ec8798f89271228c97f3f0a5690"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -21635,6 +22036,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/elodie-moreau.md",
         "blob_sha": "388ac4be866c0b9fc5f7e93f3217ebca1104f3e1"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -21675,6 +22086,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/aleksiej.md",
         "blob_sha": "7e832d0243cf5077738a6c80efc0d898e53be4ec"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -22196,6 +22617,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/severus-snape.md",
         "blob_sha": "a087ad60c935e201b15e530466d85bd60b6e795a"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -22554,6 +22985,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/albus-dumbledore.md",
         "blob_sha": "d839c33308237056d7e51b7b952ee2a6e6c27e8f"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -22952,6 +23393,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/minerva-mcgonagall.md",
         "blob_sha": "98a5af37b89ebf2b0dc84acefb2af209a27d9343"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -23166,6 +23617,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/poppy-pomfrey.md",
         "blob_sha": "f8444dbf77c8e16913e9a9cb7843aa54b0c8f0ba"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -23476,6 +23937,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/irma-pince.md",
         "blob_sha": "3d8060f4e98a845b439690814b074ca2d90be313"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -23731,6 +24202,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/dolores-umbridge.md",
         "blob_sha": "a8452fae020e5ee47273644b1561ed9b213d5d68"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -24196,6 +24677,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/barty-crouch-junior-falszywy-moody.md",
         "blob_sha": "0bb41b9ef0efbbdf51f76712f2733201e0dd6eed"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -24639,6 +25130,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/alastor-moody-prawdziwy.md",
         "blob_sha": "3c31ec59d8218fb4f5c38e141db4f2aa765be75d"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -24704,6 +25205,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/molly-weasley.md",
         "blob_sha": "c2746c2530271d518df0960c75167bebcfd49415"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -24767,6 +25278,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/bill-weasley.md",
         "blob_sha": "6eef7592ab69bfd282fd25fe2304b7c167652c23"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -24902,6 +25423,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/matka-hermiony.md",
         "blob_sha": "ee004fb69e12d3c8c4228fd8f08f28090b22bf3b"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -25019,6 +25550,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/ojciec-hermiony.md",
         "blob_sha": "2c250a64f8ee1a5672cc5a28d9fe7c8a3df5e46a"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -25084,6 +25625,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/lodgok.md",
         "blob_sha": "0abaeb5333d31ae4bac436d26c1b9ba2f9ace72c"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -25127,6 +25678,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/tobik.md",
         "blob_sha": "c310072d56ab504ea591649868c81e24e6c35877"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -25231,6 +25792,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/filius-flitwick.md",
         "blob_sha": "3febbfbfeee6285aa00ca2e2c20b57d38767451b"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -25333,6 +25904,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/pomona-sprout.md",
         "blob_sha": "afa0af69014d54b729668c71e2ff3e3f5a521432"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -25404,6 +25985,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/cuthbert-binns.md",
         "blob_sha": "c0297f6bbdcb159605fac0c0e75f56c204c35f7f"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -25448,6 +26039,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/bathsheda-babbling.md",
         "blob_sha": "2b879dd3305acdc7d0f19012a3e5cdebf393d8df"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -25494,6 +26095,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/sir-nicholas-prawie-bezglowy-nick.md",
         "blob_sha": "2ba37f970e7311cf9fff4d563e95affb53bc963b"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -25531,6 +26142,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/krwawy-baron.md",
         "blob_sha": "9b0cd2eac3d07c2a0ba66bc25ef1e14daf030c75"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -25724,7 +26345,42 @@
       "mention_count": 121,
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/gruba-dama.md",
-        "blob_sha": "fbe03116aecf2afbf440f6da8a4faa196de5ea4c"
+        "blob_sha": "93221cdc2d81e20dcfd7c3ed4f6d381366e20a6a"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": [
+          {
+            "id": "glos-gruba-dama-1",
+            "title": "Gruba Dama — znani goście",
+            "characters": [
+              "gruba-dama"
+            ],
+            "context": "znani goście",
+            "quote": "Widzę, że nadal preferujecie ten sposób podróżowania.",
+            "sources": [
+              "C14-M0314"
+            ],
+            "signals": [
+              "Rozpoznaje powtarzającą się sytuację.",
+              "Zachowuje zainteresowanie wejściem i hasłem."
+            ],
+            "limits": [
+              "Nie kopiować kwestii przy każdym spotkaniu.",
+              "Nie nadaje stałego prawa wstępu ani wiedzy o prywatnym popołudniu."
+            ],
+            "status": "PRÓBKA_KAMPANII",
+            "summary": "Rozpoznaje powtarzającą się sytuację. Zachowuje zainteresowanie wejściem i hasłem.",
+            "period": "C14",
+            "as_of": "C14-M0314"
+          }
+        ]
       }
     },
     {
@@ -25969,6 +26625,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/neville-longbottom.md",
         "blob_sha": "a4a36bc3f9b7c2a10330f945dae3a243a5289c3e"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -26069,6 +26735,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/seamus-finnigan.md",
         "blob_sha": "ef16a48e37bf18a986e5db9962cef7e16d223c56"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -26121,6 +26797,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/dean-thomas.md",
         "blob_sha": "11f81af2a0ae3586de7cc69a1fcf8e8fb19394e2"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -26166,6 +26852,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/blaise-zabini.md",
         "blob_sha": "2b34954ed65354b68e5c2c1e9bfb0e9916f937ae"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -26198,6 +26894,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/millicent-bulstrode.md",
         "blob_sha": "01b921b9d25db08397babcbc8222e5eeae6b0b8e"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -26255,6 +26961,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/lavender-brown.md",
         "blob_sha": "7da270d7e266ceaa0c3608a2b58adead1ef53999"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -26414,6 +27130,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/parvati-patil.md",
         "blob_sha": "bdddbf558fae97d364907a6c6dd326aa2b5c9921"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -26452,6 +27178,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/padma-patil.md",
         "blob_sha": "477f7c228f8c733a437bc8d6b754208cfc3f3a17"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -26529,6 +27265,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/daphne-greengrass.md",
         "blob_sha": "746e912a0bc38e41e765cbcd7ceb5f3507f01879"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -26567,6 +27313,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/mandy-brocklehurst.md",
         "blob_sha": "fa33c3cbaaf0519ca782ec031a5759cf2f9e535d"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -26668,6 +27424,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/vincent-crabbe.md",
         "blob_sha": "0ecd917577f4c4b84485f55289d764443d5b1d61"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -26764,6 +27530,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/gregory-goyle.md",
         "blob_sha": "8808a1ba1377a03e072f88a555756ff2caf169d7"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -27024,7 +27800,176 @@
       "mention_count": 147,
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/malcolm-baddock.md",
-        "blob_sha": "db49cc3079a833a4d5d3e45250ec8e2b9a83da4b"
+        "blob_sha": "16eacdd88f99bb774138aaa5da11285dbf9a830d"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [
+          {
+            "id": "rozmowa-krum-charakter",
+            "title": "James odpowiedział, jaki jest Krum",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "rose-zeller"
+            ],
+            "status": "ODPOWIEDZIANE",
+            "summary": "Na pytanie Dennisa James opisał Kruma jako skrytego, ale serdecznego. Nie zadawać od początku tego samego pytania; można odnieść się do odpowiedzi lub zapytać o nowy konkret.",
+            "sources": [
+              "C14-M0696",
+              "C14-M0697"
+            ],
+            "pending": "Brak oczekującej odpowiedzi na to pytanie.",
+            "return_condition": "Nowe pytanie o konkretną sytuację lub inicjatywa gracza.",
+            "as_of": "C14-M0697"
+          },
+          {
+            "id": "rozmowa-wojna-odlozona",
+            "title": "Rozmowa o wojnie została odłożona",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "laura-madley",
+              "rose-zeller",
+              "euan-abercrombie"
+            ],
+            "status": "ODŁOŻONE",
+            "summary": "James przyjął uwagę, żeby skupić się na teraźniejszości, i przeszedł do Nowego Roku. Lęk nie został magicznie usunięty; bez nowej przyczyny nie powtarzać tej samej rundy pocieszania.",
+            "sources": [
+              "C14-M0700",
+              "C14-M0701",
+              "C14-M0702",
+              "C14-M0703"
+            ],
+            "pending": "Nie ustalono przyszłego przebiegu wojny ani bezpieczeństwa uczniów.",
+            "return_condition": "Nowe zdarzenie, informacja lub powrót gracza do tematu.",
+            "as_of": "C14-M0703"
+          },
+          {
+            "id": "rozmowa-sylwester-plan",
+            "title": "Wieczór sylwestrowy pozostaje planem",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "laura-madley",
+              "rose-zeller"
+            ],
+            "status": "PLAN",
+            "summary": "Padły propozycje gier, życzeń i zaproszenia innych. Laura przypomniała o pozwoleniu, Eleanor zaproponowała zapytanie Sprout. Nie uzyskano jeszcze zgody ani nie zorganizowano spotkania.",
+            "sources": [
+              "C14-M0704"
+            ],
+            "pending": "Decyzje uczestników i ewentualne uzyskanie pozwolenia.",
+            "return_condition": "Dalsze ustalenia lub wykonanie planu.",
+            "as_of": "C14-M0704"
+          }
+        ],
+        "beliefs": [
+          {
+            "id": "przekonanie-malcolm-powrot",
+            "title": "Malcolm nie rozstrzygnął, czy wierzy w powrót",
+            "characters": [
+              "malcolm-baddock"
+            ],
+            "owner": "malcolm-baddock",
+            "kind": "WŁASNE_PRZEKONANIE",
+            "claim": "Powrót Sam-Wiesz-Kogo pozostaje dla Malcolma nierozstrzygnięty.",
+            "expressed_certainty": "Nie wiem.",
+            "world_status": "NIEZWERYFIKOWANE",
+            "lifecycle": "AKTUALNE_W_OSTATNIM_ŹRÓDLE",
+            "basis": "Na pytanie Grahama, czy wierzy ojcu, Malcolm odpowiada „Nie wiem”. Jego niepewność nie zmienia faktów świata.",
+            "sources": [
+              "C14-M0700"
+            ],
+            "known_to": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "laura-madley",
+              "rose-zeller",
+              "euan-abercrombie"
+            ],
+            "valid_from": "C14-M0700",
+            "changed_by": null,
+            "summary": "Nie przedstawiać Malcolma ani jako zdecydowanego zwolennika ojca, ani jako już przekonanego przez Jamesa. Zmiana stanowiska wymaga późniejszej podstawy.",
+            "as_of": "C14-M0700"
+          },
+          {
+            "id": "relacja-malcolm-opinia-ojca",
+            "title": "Malcolm przytacza opinię ojca",
+            "characters": [
+              "malcolm-baddock"
+            ],
+            "owner": "malcolm-baddock",
+            "kind": "RELACJA_CUDZEJ_OPINII",
+            "claim": "Ojciec Malcolma twierdzi, że Potter wyolbrzymia sprawę — według wypowiedzi Malcolma.",
+            "expressed_certainty": "Przytoczenie; Malcolm nie potwierdza własnej zgody.",
+            "world_status": "NIEZWERYFIKOWANE",
+            "lifecycle": "AKTUALNE_W_OSTATNIM_ŹRÓDLE",
+            "basis": "Jedynym odczytanym źródłem stanowiska ojca jest relacja syna. Cytowana opinia nie ustanawia prawdy o Potterze.",
+            "sources": [
+              "C14-M0700"
+            ],
+            "known_to": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "laura-madley",
+              "rose-zeller",
+              "euan-abercrombie"
+            ],
+            "valid_from": "C14-M0700",
+            "changed_by": null,
+            "summary": "Rozdzielić prawdziwość relacji, opinię ojca i stanowisko Malcolma. Nie przypisywać tej opinii całej grupie.",
+            "as_of": "C14-M0700"
+          }
+        ],
+        "voice": [
+          {
+            "id": "glos-malcolm-baddock-1",
+            "title": "Malcolm Baddock — niepewność",
+            "characters": [
+              "malcolm-baddock"
+            ],
+            "context": "niepewność",
+            "quote": "Nie wiem",
+            "sources": [
+              "C14-M0700"
+            ],
+            "signals": [
+              "Potrafi zawahać się i nie mieć gotowego stanowiska."
+            ],
+            "limits": [
+              "Nie robić z niepewności stałej cechy każdej wypowiedzi."
+            ],
+            "status": "PRÓBKA_KAMPANII",
+            "summary": "Potrafi zawahać się i nie mieć gotowego stanowiska.",
+            "period": "C14",
+            "as_of": "C14-M0700"
+          }
+        ]
       }
     },
     {
@@ -27279,7 +28224,150 @@
       "mention_count": 128,
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/graham-pritchard.md",
-        "blob_sha": "7463f6edd85e4a399f3aa9e7960e1305ac70cd19"
+        "blob_sha": "2290576c422dfb4a9c7d461ef439d3e1438cf86e"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [
+          {
+            "id": "rozmowa-krum-charakter",
+            "title": "James odpowiedział, jaki jest Krum",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "rose-zeller"
+            ],
+            "status": "ODPOWIEDZIANE",
+            "summary": "Na pytanie Dennisa James opisał Kruma jako skrytego, ale serdecznego. Nie zadawać od początku tego samego pytania; można odnieść się do odpowiedzi lub zapytać o nowy konkret.",
+            "sources": [
+              "C14-M0696",
+              "C14-M0697"
+            ],
+            "pending": "Brak oczekującej odpowiedzi na to pytanie.",
+            "return_condition": "Nowe pytanie o konkretną sytuację lub inicjatywa gracza.",
+            "as_of": "C14-M0697"
+          },
+          {
+            "id": "rozmowa-wojna-odlozona",
+            "title": "Rozmowa o wojnie została odłożona",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "laura-madley",
+              "rose-zeller",
+              "euan-abercrombie"
+            ],
+            "status": "ODŁOŻONE",
+            "summary": "James przyjął uwagę, żeby skupić się na teraźniejszości, i przeszedł do Nowego Roku. Lęk nie został magicznie usunięty; bez nowej przyczyny nie powtarzać tej samej rundy pocieszania.",
+            "sources": [
+              "C14-M0700",
+              "C14-M0701",
+              "C14-M0702",
+              "C14-M0703"
+            ],
+            "pending": "Nie ustalono przyszłego przebiegu wojny ani bezpieczeństwa uczniów.",
+            "return_condition": "Nowe zdarzenie, informacja lub powrót gracza do tematu.",
+            "as_of": "C14-M0703"
+          },
+          {
+            "id": "rozmowa-sylwester-plan",
+            "title": "Wieczór sylwestrowy pozostaje planem",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "laura-madley",
+              "rose-zeller"
+            ],
+            "status": "PLAN",
+            "summary": "Padły propozycje gier, życzeń i zaproszenia innych. Laura przypomniała o pozwoleniu, Eleanor zaproponowała zapytanie Sprout. Nie uzyskano jeszcze zgody ani nie zorganizowano spotkania.",
+            "sources": [
+              "C14-M0704"
+            ],
+            "pending": "Decyzje uczestników i ewentualne uzyskanie pozwolenia.",
+            "return_condition": "Dalsze ustalenia lub wykonanie planu.",
+            "as_of": "C14-M0704"
+          },
+          {
+            "id": "rozmowa-zostajesz-na-nowy-rok",
+            "title": "Graham czeka na odpowiedź Jamesa",
+            "characters": [
+              "graham-pritchard",
+              "james-brown"
+            ],
+            "status": "OTWARTE",
+            "summary": "Ostatnie pytanie dotyczy pozostania Jamesa w Hogwarcie na Nowy Rok. Odpowiedź należy do gracza. Nie dopisywać jej z wcześniejszych planów ani sugestii interfejsu.",
+            "sources": [
+              "C14-M0704"
+            ],
+            "pending": "Odpowiedź lub działanie Jamesa.",
+            "return_condition": "Nie ponawiaj automatycznie pytania; daj graczowi turę.",
+            "as_of": "C14-M0704"
+          }
+        ],
+        "beliefs": [],
+        "voice": [
+          {
+            "id": "glos-graham-pritchard-1",
+            "title": "Graham Pritchard — osobista obawa",
+            "characters": [
+              "graham-pritchard"
+            ],
+            "context": "osobista obawa",
+            "quote": "Chcę skończyć Hogwart, wrócić do domu i zobaczyć, jak Amelia dorasta.",
+            "sources": [
+              "C14-M0700"
+            ],
+            "signals": [
+              "Ma własny cel związany z domem i Amelią.",
+              "Nie sprowadza rozmowy wyłącznie do Jamesa."
+            ],
+            "limits": [
+              "Nie powtarzać zwierzenia po każdej wzmiance o przyszłości."
+            ],
+            "status": "PRÓBKA_KAMPANII",
+            "summary": "Ma własny cel związany z domem i Amelią. Nie sprowadza rozmowy wyłącznie do Jamesa.",
+            "period": "C14",
+            "as_of": "C14-M0700"
+          },
+          {
+            "id": "glos-graham-pritchard-2",
+            "title": "Graham Pritchard — zwykła propozycja",
+            "characters": [
+              "graham-pritchard"
+            ],
+            "context": "zwykła propozycja",
+            "quote": "A może urządzimy sobie wieczór z grami?",
+            "sources": [
+              "C14-M0704"
+            ],
+            "signals": [
+              "Potrafi zaproponować zwyczajne wspólne zajęcie."
+            ],
+            "limits": [
+              "Propozycja nie oznacza uzyskanego pozwolenia."
+            ],
+            "status": "PRÓBKA_KAMPANII",
+            "summary": "Potrafi zaproponować zwyczajne wspólne zajęcie.",
+            "period": "C14",
+            "as_of": "C14-M0704"
+          }
+        ]
       }
     },
     {
@@ -27369,6 +28457,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/fred-weasley.md",
         "blob_sha": "466f04fbe04fbf318576bc1f314ced9b9edd1d28"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -27451,6 +28549,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/george-weasley.md",
         "blob_sha": "1b40d3421d294d950dc03f7befc18c6fb47e1477"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -27577,6 +28685,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/cedric-diggory.md",
         "blob_sha": "1bfab5d2434d2fed132347b527ec406fed07ef03"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -27645,6 +28763,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/cho-chang.md",
         "blob_sha": "4eb48eebb5e8be8e95752a5958fec4ed9c8cd1bd"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -27725,6 +28853,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/fleur-delacour.md",
         "blob_sha": "e25b6c1e10abaa72f5ec9f2db1ad0d28f4280f3b"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -27766,6 +28904,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/gabrielle-delacour.md",
         "blob_sha": "563ba9edea736be38dcfa4eab5e64c1adb68c157"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -27801,6 +28949,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/roger-davies.md",
         "blob_sha": "191700769c0478b12abb77c44706f88d99dc6170"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -27844,6 +29002,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/olympe-maxime.md",
         "blob_sha": "7bbb64763f6c7a5c8f9a24f4f5cb6891d4d06885"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -27889,6 +29057,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/igor-karkaroff.md",
         "blob_sha": "6e4943bbdcbf38339e8d54e3afcea17b70c19271"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -27937,6 +29115,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/ludo-bagman.md",
         "blob_sha": "1443b14603eaa2866534c739e7e907c0a417456e"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -27982,6 +29170,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/barty-crouch-senior.md",
         "blob_sha": "9ca17de99ffef20d8ef7f715b1e3f8cd6985c4d5"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -28023,6 +29221,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/korneliusz-fudge.md",
         "blob_sha": "c5097f767e71cd109f692e1eedc8f67212193dea"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -28120,6 +29328,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/rubeus-hagrid.md",
         "blob_sha": "022dec1940835f2c3715ec738df1203a926c35e0"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -28173,6 +29391,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/syriusz-black.md",
         "blob_sha": "c4526af6f5baaa9664b83b76f80c3cb5af92faf4"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -28213,6 +29441,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/remus-lupin.md",
         "blob_sha": "e36454ed2b22d5baaba82128c77d46a3d125c640"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -28243,6 +29481,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/nimfadora-tonks.md",
         "blob_sha": "3c816a71fb2ec8c9aa55a60f822b86b0647c4898"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -28277,6 +29525,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/rita-skeeter.md",
         "blob_sha": "3bb4b2396a1a2be44f3876febf14c518684b9519"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -28329,6 +29587,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/peter-pettigrew-parszywek.md",
         "blob_sha": "f0a6b4cc3396f17e7d1d23db6ddd79184da09610"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -28418,6 +29686,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/voldemort-tom-riddle.md",
         "blob_sha": "646a139295c9c630de812ebaca2031cb65998b8f"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -28471,6 +29749,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/gilderoy-lockhart.md",
         "blob_sha": "2d92d200c0713ccb1e395f051ac4738748778e05"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -28515,6 +29803,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/tom-dziurawy-kociol.md",
         "blob_sha": "3f991c73baf4ff7f853cfda7d7a9eb7f96341b36"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -28549,6 +29847,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/terry-boot.md",
         "blob_sha": "7e26c4c011ece462867e4ca0eaf19019eea4e864"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -28581,6 +29889,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/michael-corner.md",
         "blob_sha": "be017fc076af5687392c135e8d5ca6a6716fcddc"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -28612,6 +29930,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/anthony-goldstein.md",
         "blob_sha": "254d43704ada189c95f56331a637faa0b6b8b5ab"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -28665,6 +29993,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/argus-filch.md",
         "blob_sha": "8c3baf427e2eef28726b82433c6d95bed467fbf7"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -28704,6 +30042,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/charlie-weasley.md",
         "blob_sha": "3d27b94be4675ab2b2ca04f6fd36dd0632e62fcd"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -28739,6 +30087,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/percy-weasley.md",
         "blob_sha": "9a7f88385bf682001f1d018ca18fb15ab6fed9dd"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -28770,6 +30128,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/septima-vector.md",
         "blob_sha": "a7c5f5e9b5ef9ffea557416b22c0f9b0b318aabe"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -28804,6 +30172,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/sybilla-trelawney.md",
         "blob_sha": "08359cfaa11211599c41540d11b8459b3e1c3761"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -28834,6 +30212,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/penelope-clearwater.md",
         "blob_sha": "4b217571e40c1f7c21087c10fc64caed81f4e9a3"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -28872,6 +30260,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/lucjusz-malfoy.md",
         "blob_sha": "f4d929fa413a30712a2ad2763841243564bcac50"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -28902,6 +30300,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/dudley-dursley.md",
         "blob_sha": "8fc4791f283d2e862865c74f4f01aba411d6f656"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -28964,6 +30372,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/salazar-slytherin.md",
         "blob_sha": "69227a7d1a1518e12d960d184f41e467f435d6d0"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -28994,6 +30412,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/phineas-nigellus-black.md",
         "blob_sha": "886ac78e77448cf82af4379383fdeadbfb335fc1"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29024,6 +30452,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/arcturus-black.md",
         "blob_sha": "7e12bba2081c1296fa83fe0f9e8373b3d19d355f"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29065,6 +30503,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/ojciec-jamesa.md",
         "blob_sha": "2ddb558021088f1eae920832017ca9bf15a1dc1b"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29104,6 +30552,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/matka-jamesa.md",
         "blob_sha": "1a64ef506a8ac3f16b67d729dbe1e40ab951764e"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29143,6 +30601,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/mlodsza-siostra-jamesa.md",
         "blob_sha": "74a3684e61bf5c11745fed0f843a7c6c0e26855e"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29175,6 +30643,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/hedwiga.md",
         "blob_sha": "ee28b18ce140489fe6f60fc5063a477bcacf77da"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29217,6 +30695,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/krzywolap.md",
         "blob_sha": "391ee0383b9941a42f04108228c55b489825f5fa"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29254,6 +30742,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/fawkes.md",
         "blob_sha": "42744f0db95d0c4ee96bfa4c72b68aae72d1b136"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29288,6 +30786,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/skrzatka-domu-c9.md",
         "blob_sha": "98808a54551a135c5fca298f7ee98ca393ad607c"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29320,6 +30828,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/skrzat-zglaszajacy-goscia-c11.md",
         "blob_sha": "49da3b02784a0266a30505a874988202c461e164"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29352,6 +30870,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/skrzaty-obslugujace-posilek-c11.md",
         "blob_sha": "184a4498bd700f20b8f3522f1e0d73ca4d386058"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29384,6 +30912,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/goblin-obslugujacy-skarbiec-c2.md",
         "blob_sha": "a55933252a1fc40ac8329a1a64a403aefc44bea3"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29416,6 +30954,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/sprzedawca-sprzetu-muzycznego-c2.md",
         "blob_sha": "37451055d513d533de70b02db6957fcfb0dfafbe"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29448,6 +30996,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/antykwariusz-c2.md",
         "blob_sha": "191633164c2c4e385ff69488cda45a9f07269214"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29480,6 +31038,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/jubiler-z-hatton-garden-c9.md",
         "blob_sha": "aa3b1e2a28f1b07fc19b3f492723624078e56198"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29512,6 +31080,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/kierowca-wizyty-u-grangerow-c9.md",
         "blob_sha": "97233051cc85aa44c006d016b070e92af8f63f58"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29544,6 +31122,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/kierowca-powrotu-c11.md",
         "blob_sha": "1525012a5426cbd4c577625bc6b883cf183b4e7a"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29576,6 +31164,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/kierowca-odwozacy-hermione-c12.md",
         "blob_sha": "b7e9aac05dc8ee05eb011536dbbceee079227b3a"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29608,6 +31206,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/trzy-pierwszoroczne-dziewczyny-odprawa-c2.md",
         "blob_sha": "509175a14fa12a99848b3729f01c1bd13521f6b3"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29640,6 +31248,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/dwie-krukonki-w-przedziale-luny-c9.md",
         "blob_sha": "9ca5ae6ddd4d89ea36e9dd4501f33dc8633a408f"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29670,6 +31288,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/mlody-duch-od-gramofonu-c1.md",
         "blob_sha": "8e0ff27f9c0e3936ead46b7681219c200d6eeb66"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29702,6 +31330,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/restauratorka-organizujaca-catering-c2.md",
         "blob_sha": "bb228b6e51d6d6d91e0528b7e4f4d22381307bde"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29734,6 +31372,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/kwiaciarka-c9.md",
         "blob_sha": "01fe9de5d820753a5c5a6702acc34ddf319b80d5"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29764,6 +31412,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/starszy-krukon-informator-draco.md",
         "blob_sha": "26a59b599f1d1241e362298b427dc26fea6a560a"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29794,6 +31452,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/ojciec-rona-wzmianka-o-wakacjach.md",
         "blob_sha": "35b4478fc02ad18cb66fb9470d3fed96500b7aad"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29830,6 +31498,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/rodzice-harryego-wspomnienie.md",
         "blob_sha": "ab21b8b7929196ac1d801356389d75c490cde272"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29853,6 +31531,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/ernie-macmillan.md",
         "blob_sha": "6dbe14f90adb395e0a19d9e8ab0f9fe5add3bfc8"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29873,6 +31561,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/hannah-abbott.md",
         "blob_sha": "e78309e367c9ad72491ac4df2dacd4a2762a7ea1"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29893,6 +31591,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/susan-bones.md",
         "blob_sha": "af7f4f374d299de2cb397dfd2347f549314957a6"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29915,6 +31623,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/justin-finch-fletchley.md",
         "blob_sha": "b2e174ae8fe37fe40fe30dceac3c26d2f4816022"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29958,6 +31676,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/zacharias-smith.md",
         "blob_sha": "1fb9c13d6c56dc7a51408a65a8bfb598ba67a67d"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -29991,6 +31719,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/marietta-edgecombe.md",
         "blob_sha": "8959614e2bb0c184aa3c5a2acb5922115e74156a"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -30012,6 +31750,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/lee-jordan.md",
         "blob_sha": "134ce753a64634561766150d70dd395815f91815"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -30033,6 +31781,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/angelina-johnson.md",
         "blob_sha": "c0576e3c0eccddd42da395432fcb2877bab228d2"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -30066,6 +31824,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/dobby.md",
         "blob_sha": "979f01972d2937af2a08ad56f8f34f9e60129e3c"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -30105,6 +31873,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/maurycy-portret.md",
         "blob_sha": "0f6e9e2dd73904bca160d030772f2eb393b6216e"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -30137,6 +31915,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/ambrozy-portret.md",
         "blob_sha": "059db636877715869325a750417fedd565a7b187"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -30227,6 +32015,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/colin-creevey.md",
         "blob_sha": "e77ea7ed8f8cd62356d96ccfe99c65a68619be09"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -30257,6 +32055,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/xenophilius-lovegood.md",
         "blob_sha": "e96b8dc14fbedcacf1694eb01eab150e7722361f"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -30466,6 +32274,120 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/eleanor-branstone.md",
         "blob_sha": "2ae81dc859a0b6cf5350bb3cc3ac1b51073428bc"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [
+          {
+            "id": "rozmowa-krum-charakter",
+            "title": "James odpowiedział, jaki jest Krum",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "rose-zeller"
+            ],
+            "status": "ODPOWIEDZIANE",
+            "summary": "Na pytanie Dennisa James opisał Kruma jako skrytego, ale serdecznego. Nie zadawać od początku tego samego pytania; można odnieść się do odpowiedzi lub zapytać o nowy konkret.",
+            "sources": [
+              "C14-M0696",
+              "C14-M0697"
+            ],
+            "pending": "Brak oczekującej odpowiedzi na to pytanie.",
+            "return_condition": "Nowe pytanie o konkretną sytuację lub inicjatywa gracza.",
+            "as_of": "C14-M0697"
+          },
+          {
+            "id": "rozmowa-wojna-odlozona",
+            "title": "Rozmowa o wojnie została odłożona",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "laura-madley",
+              "rose-zeller",
+              "euan-abercrombie"
+            ],
+            "status": "ODŁOŻONE",
+            "summary": "James przyjął uwagę, żeby skupić się na teraźniejszości, i przeszedł do Nowego Roku. Lęk nie został magicznie usunięty; bez nowej przyczyny nie powtarzać tej samej rundy pocieszania.",
+            "sources": [
+              "C14-M0700",
+              "C14-M0701",
+              "C14-M0702",
+              "C14-M0703"
+            ],
+            "pending": "Nie ustalono przyszłego przebiegu wojny ani bezpieczeństwa uczniów.",
+            "return_condition": "Nowe zdarzenie, informacja lub powrót gracza do tematu.",
+            "as_of": "C14-M0703"
+          },
+          {
+            "id": "rozmowa-sylwester-plan",
+            "title": "Wieczór sylwestrowy pozostaje planem",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "laura-madley",
+              "rose-zeller"
+            ],
+            "status": "PLAN",
+            "summary": "Padły propozycje gier, życzeń i zaproszenia innych. Laura przypomniała o pozwoleniu, Eleanor zaproponowała zapytanie Sprout. Nie uzyskano jeszcze zgody ani nie zorganizowano spotkania.",
+            "sources": [
+              "C14-M0704"
+            ],
+            "pending": "Decyzje uczestników i ewentualne uzyskanie pozwolenia.",
+            "return_condition": "Dalsze ustalenia lub wykonanie planu.",
+            "as_of": "C14-M0704"
+          }
+        ],
+        "beliefs": [
+          {
+            "id": "przekonanie-eleanor-hermiona",
+            "title": "Eleanor opiera ocenę bezpieczeństwa na relacji Jamesa",
+            "characters": [
+              "eleanor-branstone"
+            ],
+            "owner": "eleanor-branstone",
+            "kind": "WŁASNE_PRZEKONANIE",
+            "claim": "Hermiona jest teraz bezpieczna, w zakresie znanym Eleanor z opowieści Jamesa.",
+            "expressed_certainty": "przynajmniej z tego, co nam opowiadałeś",
+            "world_status": "NIEZWERYFIKOWANE",
+            "lifecycle": "AKTUALNE_W_OSTATNIM_ŹRÓDLE",
+            "basis": "Eleanor sama ogranicza zakres oceny. Nie jest to bezpośrednia obserwacja Hermiony ani gwarancja przyszłości.",
+            "sources": [
+              "C14-M0702"
+            ],
+            "known_to": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "laura-madley",
+              "rose-zeller",
+              "euan-abercrombie"
+            ],
+            "valid_from": "C14-M0702",
+            "changed_by": null,
+            "summary": "Nie nadawać Eleanor wiedzy o bieżących prywatnych działaniach Hermiony. Zachować źródło i zastrzeżenie jej wypowiedzi.",
+            "as_of": "C14-M0702"
+          }
+        ],
+        "voice": []
       }
     },
     {
@@ -30643,6 +32565,65 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/laura-madley.md",
         "blob_sha": "c38ad4e629930b94afe3a54cd8fe53a46b4cdcbb"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [
+          {
+            "id": "rozmowa-wojna-odlozona",
+            "title": "Rozmowa o wojnie została odłożona",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "laura-madley",
+              "rose-zeller",
+              "euan-abercrombie"
+            ],
+            "status": "ODŁOŻONE",
+            "summary": "James przyjął uwagę, żeby skupić się na teraźniejszości, i przeszedł do Nowego Roku. Lęk nie został magicznie usunięty; bez nowej przyczyny nie powtarzać tej samej rundy pocieszania.",
+            "sources": [
+              "C14-M0700",
+              "C14-M0701",
+              "C14-M0702",
+              "C14-M0703"
+            ],
+            "pending": "Nie ustalono przyszłego przebiegu wojny ani bezpieczeństwa uczniów.",
+            "return_condition": "Nowe zdarzenie, informacja lub powrót gracza do tematu.",
+            "as_of": "C14-M0703"
+          },
+          {
+            "id": "rozmowa-sylwester-plan",
+            "title": "Wieczór sylwestrowy pozostaje planem",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "laura-madley",
+              "rose-zeller"
+            ],
+            "status": "PLAN",
+            "summary": "Padły propozycje gier, życzeń i zaproszenia innych. Laura przypomniała o pozwoleniu, Eleanor zaproponowała zapytanie Sprout. Nie uzyskano jeszcze zgody ani nie zorganizowano spotkania.",
+            "sources": [
+              "C14-M0704"
+            ],
+            "pending": "Decyzje uczestników i ewentualne uzyskanie pozwolenia.",
+            "return_condition": "Dalsze ustalenia lub wykonanie planu.",
+            "as_of": "C14-M0704"
+          }
+        ],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -30820,6 +32801,87 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/dennis-creevey.md",
         "blob_sha": "cbe41019829b62cf991c99b0a88819e8f11add14"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [
+          {
+            "id": "rozmowa-krum-charakter",
+            "title": "James odpowiedział, jaki jest Krum",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "rose-zeller"
+            ],
+            "status": "ODPOWIEDZIANE",
+            "summary": "Na pytanie Dennisa James opisał Kruma jako skrytego, ale serdecznego. Nie zadawać od początku tego samego pytania; można odnieść się do odpowiedzi lub zapytać o nowy konkret.",
+            "sources": [
+              "C14-M0696",
+              "C14-M0697"
+            ],
+            "pending": "Brak oczekującej odpowiedzi na to pytanie.",
+            "return_condition": "Nowe pytanie o konkretną sytuację lub inicjatywa gracza.",
+            "as_of": "C14-M0697"
+          },
+          {
+            "id": "rozmowa-wojna-odlozona",
+            "title": "Rozmowa o wojnie została odłożona",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "laura-madley",
+              "rose-zeller",
+              "euan-abercrombie"
+            ],
+            "status": "ODŁOŻONE",
+            "summary": "James przyjął uwagę, żeby skupić się na teraźniejszości, i przeszedł do Nowego Roku. Lęk nie został magicznie usunięty; bez nowej przyczyny nie powtarzać tej samej rundy pocieszania.",
+            "sources": [
+              "C14-M0700",
+              "C14-M0701",
+              "C14-M0702",
+              "C14-M0703"
+            ],
+            "pending": "Nie ustalono przyszłego przebiegu wojny ani bezpieczeństwa uczniów.",
+            "return_condition": "Nowe zdarzenie, informacja lub powrót gracza do tematu.",
+            "as_of": "C14-M0703"
+          },
+          {
+            "id": "rozmowa-sylwester-plan",
+            "title": "Wieczór sylwestrowy pozostaje planem",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "laura-madley",
+              "rose-zeller"
+            ],
+            "status": "PLAN",
+            "summary": "Padły propozycje gier, życzeń i zaproszenia innych. Laura przypomniała o pozwoleniu, Eleanor zaproponowała zapytanie Sprout. Nie uzyskano jeszcze zgody ani nie zorganizowano spotkania.",
+            "sources": [
+              "C14-M0704"
+            ],
+            "pending": "Decyzje uczestników i ewentualne uzyskanie pozwolenia.",
+            "return_condition": "Dalsze ustalenia lub wykonanie planu.",
+            "as_of": "C14-M0704"
+          }
+        ],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -30944,6 +33006,43 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/euan-abercrombie.md",
         "blob_sha": "f43ff48fffe485802624bd8a1b82e4689eca8d70"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [
+          {
+            "id": "rozmowa-wojna-odlozona",
+            "title": "Rozmowa o wojnie została odłożona",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "laura-madley",
+              "rose-zeller",
+              "euan-abercrombie"
+            ],
+            "status": "ODŁOŻONE",
+            "summary": "James przyjął uwagę, żeby skupić się na teraźniejszości, i przeszedł do Nowego Roku. Lęk nie został magicznie usunięty; bez nowej przyczyny nie powtarzać tej samej rundy pocieszania.",
+            "sources": [
+              "C14-M0700",
+              "C14-M0701",
+              "C14-M0702",
+              "C14-M0703"
+            ],
+            "pending": "Nie ustalono przyszłego przebiegu wojny ani bezpieczeństwa uczniów.",
+            "return_condition": "Nowe zdarzenie, informacja lub powrót gracza do tematu.",
+            "as_of": "C14-M0703"
+          }
+        ],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -31116,7 +33215,111 @@
       "mention_count": 91,
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/orla-quirke.md",
-        "blob_sha": "91237823b4324950d2b2fe58cb5acb6780713b91"
+        "blob_sha": "d94ad2d53d77d3fec098164737118f2132ba76e7"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [
+          {
+            "id": "rozmowa-krum-charakter",
+            "title": "James odpowiedział, jaki jest Krum",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "rose-zeller"
+            ],
+            "status": "ODPOWIEDZIANE",
+            "summary": "Na pytanie Dennisa James opisał Kruma jako skrytego, ale serdecznego. Nie zadawać od początku tego samego pytania; można odnieść się do odpowiedzi lub zapytać o nowy konkret.",
+            "sources": [
+              "C14-M0696",
+              "C14-M0697"
+            ],
+            "pending": "Brak oczekującej odpowiedzi na to pytanie.",
+            "return_condition": "Nowe pytanie o konkretną sytuację lub inicjatywa gracza.",
+            "as_of": "C14-M0697"
+          },
+          {
+            "id": "rozmowa-wojna-odlozona",
+            "title": "Rozmowa o wojnie została odłożona",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "laura-madley",
+              "rose-zeller",
+              "euan-abercrombie"
+            ],
+            "status": "ODŁOŻONE",
+            "summary": "James przyjął uwagę, żeby skupić się na teraźniejszości, i przeszedł do Nowego Roku. Lęk nie został magicznie usunięty; bez nowej przyczyny nie powtarzać tej samej rundy pocieszania.",
+            "sources": [
+              "C14-M0700",
+              "C14-M0701",
+              "C14-M0702",
+              "C14-M0703"
+            ],
+            "pending": "Nie ustalono przyszłego przebiegu wojny ani bezpieczeństwa uczniów.",
+            "return_condition": "Nowe zdarzenie, informacja lub powrót gracza do tematu.",
+            "as_of": "C14-M0703"
+          },
+          {
+            "id": "rozmowa-sylwester-plan",
+            "title": "Wieczór sylwestrowy pozostaje planem",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "laura-madley",
+              "rose-zeller"
+            ],
+            "status": "PLAN",
+            "summary": "Padły propozycje gier, życzeń i zaproszenia innych. Laura przypomniała o pozwoleniu, Eleanor zaproponowała zapytanie Sprout. Nie uzyskano jeszcze zgody ani nie zorganizowano spotkania.",
+            "sources": [
+              "C14-M0704"
+            ],
+            "pending": "Decyzje uczestników i ewentualne uzyskanie pozwolenia.",
+            "return_condition": "Dalsze ustalenia lub wykonanie planu.",
+            "as_of": "C14-M0704"
+          }
+        ],
+        "beliefs": [],
+        "voice": [
+          {
+            "id": "glos-orla-quirke-1",
+            "title": "Orla Quirke — sprowadzenie rozmowy do konkretu",
+            "characters": [
+              "orla-quirke"
+            ],
+            "context": "sprowadzenie rozmowy do konkretu",
+            "quote": "Siedzisz z Jamesem już od kilku dni",
+            "sources": [
+              "C14-M0692"
+            ],
+            "signals": [
+              "Zwraca uwagę na znany fakt zamiast wzmacniać sensację."
+            ],
+            "limits": [
+              "Nie robić z niej komentatorki każdego zdania pozostałych."
+            ],
+            "status": "PRÓBKA_KAMPANII",
+            "summary": "Zwraca uwagę na znany fakt zamiast wzmacniać sensację.",
+            "period": "C14",
+            "as_of": "C14-M0692"
+          }
+        ]
       }
     },
     {
@@ -31226,6 +33429,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/stewart-ackerley.md",
         "blob_sha": "6136478a6baeda5b43824b573b3c5490cd30b647"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -31331,6 +33544,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/owen-cauldwell.md",
         "blob_sha": "0d66fde7e8c7d6c86433bd5da0a953dbea257a03"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -31458,6 +33681,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/kevin-whitby.md",
         "blob_sha": "a4799184389b214f71e5d166a94a22b0e008ebff"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -31652,6 +33885,87 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/rose-zeller.md",
         "blob_sha": "e5aa6a996c7238dd40db1e11caa053457ce56fa6"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [
+          {
+            "id": "rozmowa-krum-charakter",
+            "title": "James odpowiedział, jaki jest Krum",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "rose-zeller"
+            ],
+            "status": "ODPOWIEDZIANE",
+            "summary": "Na pytanie Dennisa James opisał Kruma jako skrytego, ale serdecznego. Nie zadawać od początku tego samego pytania; można odnieść się do odpowiedzi lub zapytać o nowy konkret.",
+            "sources": [
+              "C14-M0696",
+              "C14-M0697"
+            ],
+            "pending": "Brak oczekującej odpowiedzi na to pytanie.",
+            "return_condition": "Nowe pytanie o konkretną sytuację lub inicjatywa gracza.",
+            "as_of": "C14-M0697"
+          },
+          {
+            "id": "rozmowa-wojna-odlozona",
+            "title": "Rozmowa o wojnie została odłożona",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "laura-madley",
+              "rose-zeller",
+              "euan-abercrombie"
+            ],
+            "status": "ODŁOŻONE",
+            "summary": "James przyjął uwagę, żeby skupić się na teraźniejszości, i przeszedł do Nowego Roku. Lęk nie został magicznie usunięty; bez nowej przyczyny nie powtarzać tej samej rundy pocieszania.",
+            "sources": [
+              "C14-M0700",
+              "C14-M0701",
+              "C14-M0702",
+              "C14-M0703"
+            ],
+            "pending": "Nie ustalono przyszłego przebiegu wojny ani bezpieczeństwa uczniów.",
+            "return_condition": "Nowe zdarzenie, informacja lub powrót gracza do tematu.",
+            "as_of": "C14-M0703"
+          },
+          {
+            "id": "rozmowa-sylwester-plan",
+            "title": "Wieczór sylwestrowy pozostaje planem",
+            "characters": [
+              "james-brown",
+              "graham-pritchard",
+              "malcolm-baddock",
+              "orla-quirke",
+              "dennis-creevey",
+              "eleanor-branstone",
+              "laura-madley",
+              "rose-zeller"
+            ],
+            "status": "PLAN",
+            "summary": "Padły propozycje gier, życzeń i zaproszenia innych. Laura przypomniała o pozwoleniu, Eleanor zaproponowała zapytanie Sprout. Nie uzyskano jeszcze zgody ani nie zorganizowano spotkania.",
+            "sources": [
+              "C14-M0704"
+            ],
+            "pending": "Decyzje uczestników i ewentualne uzyskanie pozwolenia.",
+            "return_condition": "Dalsze ustalenia lub wykonanie planu.",
+            "as_of": "C14-M0704"
+          }
+        ],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -31700,6 +34014,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/amelia-pritchard.md",
         "blob_sha": "7b2375602952e6803ebef520c638f8a95f882680"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -31751,6 +34075,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/merriweather.md",
         "blob_sha": "5f5beaf0c21985276d63ae6f7dd0d886fb8710c8"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     },
     {
@@ -31789,6 +34123,16 @@
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/edgar-whitlock.md",
         "blob_sha": "4cc237dc01e6e7ca43eee593481ad89f72101708"
+      },
+      "reaction_state": {
+        "source": {
+          "path": "06_PAMIEC_POSTACI/model_reakcji.json",
+          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+        },
+        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "conversation": [],
+        "beliefs": [],
+        "voice": []
       }
     }
   ]

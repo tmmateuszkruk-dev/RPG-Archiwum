@@ -37,3 +37,12 @@ Bieżącą scenę wyznacza [08_CURRENT.md](08_CURRENT.md) oraz późniejsze wiad
 - Rozdziel brak faktu, starą kopię, brak odczytu i niezastosowanie faktu w odpowiedzi. Nie ogłaszaj naprawy pamięci po samym dopisaniu reguły. Błąd narratora prostuj, bez wymyślania amnezji postaci. Nie obiecuj automatycznej synchronizacji plików, przeglądarki i innych czatów.
 
 Przebieg konkretnych zdarzeń, zakres dawnych korekt i ich ID pozostają w archiwum, [rejestrze korekt](09_REJESTR_KOREKT.md) i kartach. Historyczne instrukcje nie określają obecnej sceny.
+
+## Ustalenia rozmów, przekonania i próbki głosu
+
+Korzystaj z [modelu reakcji](../06_PAMIEC_POSTACI/model_reakcji.json) i [znaczenia jego pól](../06_PAMIEC_POSTACI/MODEL_REAKCJI.md). Pochodne karty udostępniają wpisy przez `reaction_state`. Sprawdzaj wersję tego źródła również przy niezmienionym cutoff.
+
+- Zachowuj, co w rozmowie odpowiedziano, przyjęto, odłożono i czego jeszcze oczekuje rozmówca. Nie otwieraj od początku załatwionej sprawy bez nowej przyczyny. Odłożony lęk nie musi zniknąć, a wypowiedziany plan nie został jeszcze wykonany.
+- Rozróżniaj fakt świata, własne przekonanie, relację o cudzej opinii i niewiedzę. „Ojciec mówi...” nie oznacza zgody syna. Utrzymuj mylne przekonanie do uzasadnionej zmiany wiedzy konkretnej osoby; nie naprawiaj go samą wiedzą narratora i nie przerabiaj dawnych błędów narratora na celową omylność postaci.
+- Próbki kalibrują głos właściwej postaci i etapu, bez kopiowania kwestii. Przykład kampanii nie jest dowodem kanoniczności. Stosuj profil, wiek i późniejsze korekty.
+- Na organizacyjną prośbę „sprawdź scenę” podaj zwięźle faktycznie odczytane źródła, istotne ustalenia, wynik kontroli i konkretną lukę lub poprawkę. Nie rozwijaj fabuły, nie ujawniaj niezamówionych sekretów i nie przypisuj nowych odczytów wcześniejszej odpowiedzi.

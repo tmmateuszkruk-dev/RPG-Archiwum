@@ -1,0 +1,163 @@
+{
+  "date": "2026-11-01",
+  "skill_version": "1.1.0",
+  "source_base_commit": "cfaf3860156640293b8a7a5736e0d319b6592db8",
+  "skill_main_sha256": "0902764e813e988087be8616372967f777287902fec4ea38876afccc09977e86",
+  "method": "Dwa świeże konteksty wykonawcze, po cztery odrębne sytuacje. Wykonawcy otrzymali polecenia i źródła, bez kryteriów oceny. Osobna ocena odpowiedzi względem kryteriów po ich wygenerowaniu.",
+  "scope": "Kontrola konkretnych zachowań; nie gwarancja wszystkich przyszłych scen ani automatycznego wyboru wtyczki przez ChatGPT.",
+  "results": [
+    {
+      "id": "znany-zwyczaj",
+      "response": "Hermiona uśmiechnęła się pod nosem. Przesunęła dłoń odrobinę, dostosowując ją do ułożenia jego głowy, i dalej powoli masowała skórę opuszkami palców.\n\nSkill",
+      "sources_read": [
+        "Prowadź RPG/SKILL.md — procedura każdej odpowiedzi, role i oznaczenie użycia",
+        "Prowadź RPG/references/characters.md — charakter, wiek, wiedza i sprawczość",
+        "Prowadź RPG/references/narration.md — czułość, rytm, dialog i usuwanie powtórzeń",
+        "Prowadź RPG/references/reaction-memory.md — status rozmowy, przekonania i próbki głosu",
+        "RPG-Archiwum/02_PLIKI_AKTYWNE/10_ZASADY_I_CIAGLOSC.md — role, źródła, wiedza i narracja",
+        "RPG-Archiwum/02_PLIKI_AKTYWNE/09_REJESTR_KOREKT.md — kontrola korekt dotyczących scen",
+        "07_SPRAWDZIANY/przypadki.json — znany-zwyczaj: setup, C8-M0739, C8-M0740, user",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/james-brown.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/hermiona-granger.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/model_reakcji.json — glos-hermiona-granger-3"
+      ],
+      "evaluation": "PASS"
+    },
+    {
+      "id": "noszenie-i-swiadkowie",
+      "response": "— Dobry wieczór — odparła Gruba Dama. — Hasło, panno Granger?\n\nGinny przywitała ich krótkim machnięciem dłoni i przesunęła się, robiąc miejsce przed portretem. Hermiona nadal obejmowała Jamesa za szyję.\n\n— Postaw mnie tutaj, proszę — powiedziała do niego.\n\nSkill",
+      "sources_read": [
+        "Prowadź RPG/SKILL.md — procedura każdej odpowiedzi, role i oznaczenie użycia",
+        "Prowadź RPG/references/characters.md — charakter, wiek, wiedza i sprawczość",
+        "Prowadź RPG/references/narration.md — czułość, rytm, dialog i usuwanie powtórzeń",
+        "Prowadź RPG/references/reaction-memory.md — status rozmowy, przekonania i próbki głosu",
+        "RPG-Archiwum/02_PLIKI_AKTYWNE/10_ZASADY_I_CIAGLOSC.md — role, źródła, wiedza i narracja",
+        "RPG-Archiwum/02_PLIKI_AKTYWNE/09_REJESTR_KOREKT.md — kontrola korekt dotyczących scen",
+        "07_SPRAWDZIANY/przypadki.json — noszenie-i-swiadkowie: setup, C13-M0718, C14-M0314, user",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/james-brown.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/hermiona-granger.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/ginny-weasley.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/gruba-dama.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/02_PLIKI_AKTYWNE/04_KTO_CO_WIE.md — rozpoznawany zwyczaj noszenia i ograniczenia wiedzy świadków",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/model_reakcji.json — glos-ginny-weasley-1, glos-gruba-dama-1"
+      ],
+      "evaluation": "PASS"
+    },
+    {
+      "id": "ustalenia-rozmowy",
+      "response": "— To świetnie — powiedział Graham. — Przyda się kilka kompletów gier, żebyśmy nie musieli wszyscy czekać na jedną partię.\n\n— Po śniadaniu zapytam profesor Sprout o salę i o to, do której możemy zostać — zdecydowała Eleanor.\n\nLaura skinęła głową.\n\n— Pójdę z tobą.\n\nSkill",
+      "sources_read": [
+        "Prowadź RPG/SKILL.md — procedura każdej odpowiedzi, role i oznaczenie użycia",
+        "Prowadź RPG/references/characters.md — charakter, wiek, wiedza i sprawczość",
+        "Prowadź RPG/references/narration.md — czułość, rytm, dialog i usuwanie powtórzeń",
+        "Prowadź RPG/references/reaction-memory.md — status rozmowy, przekonania i próbki głosu",
+        "RPG-Archiwum/02_PLIKI_AKTYWNE/10_ZASADY_I_CIAGLOSC.md — role, źródła, wiedza i narracja",
+        "RPG-Archiwum/02_PLIKI_AKTYWNE/09_REJESTR_KOREKT.md — kontrola korekt dotyczących scen",
+        "07_SPRAWDZIANY/przypadki.json — ustalenia-rozmowy: setup, C14-M0700–C14-M0704, user",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/james-brown.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/graham-pritchard.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/malcolm-baddock.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/orla-quirke.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/dennis-creevey.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/euan-abercrombie.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/eleanor-branstone.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/laura-madley.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/rose-zeller.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/02_PLIKI_AKTYWNE/08_CURRENT.md — uczestnicy, miejsce, niezrealizowane plany i otwarte pytanie",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/model_reakcji.json — rozmowa-wojna-odlozona, rozmowa-sylwester-plan, rozmowa-zostajesz-na-nowy-rok, glos-graham-pritchard-2"
+      ],
+      "evaluation": "PASS"
+    },
+    {
+      "id": "cudza-opinia",
+      "response": "Malcolm skinął głową, wciąż patrząc na talerz.\n\n— Chciałbym, żeby ojciec miał rację. Wtedy nie byłoby żadnej wojny. — Podniósł wzrok na Jamesa. — Ale po prostu nie wiem, komu wierzyć.\n\nSkill",
+      "sources_read": [
+        "Prowadź RPG/SKILL.md — procedura każdej odpowiedzi, role i oznaczenie użycia",
+        "Prowadź RPG/references/characters.md — charakter, wiek, wiedza i sprawczość",
+        "Prowadź RPG/references/narration.md — czułość, rytm, dialog i usuwanie powtórzeń",
+        "Prowadź RPG/references/reaction-memory.md — status rozmowy, przekonania i próbki głosu",
+        "RPG-Archiwum/02_PLIKI_AKTYWNE/10_ZASADY_I_CIAGLOSC.md — role, źródła, wiedza i narracja",
+        "RPG-Archiwum/02_PLIKI_AKTYWNE/09_REJESTR_KOREKT.md — kontrola korekt dotyczących scen",
+        "07_SPRAWDZIANY/przypadki.json — cudza-opinia: setup, C14-M0700, user; bez późniejszych wydarzeń innych wariantów",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/james-brown.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/graham-pritchard.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/malcolm-baddock.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/orla-quirke.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/dennis-creevey.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/euan-abercrombie.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/eleanor-branstone.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/laura-madley.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/rose-zeller.md — profil i wiedza ograniczone do momentu danej sceny",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/model_reakcji.json — przekonanie-malcolm-powrot, relacja-malcolm-opinia-ojca, glos-malcolm-baddock-1; tylko stan C14-M0700"
+      ],
+      "evaluation": "PASS"
+    },
+    {
+      "id": "wiedza-za-drzwiami",
+      "response": "Hermiona wsunęła książkę pod ramię i dopasowała krok do jego tempa.\n\n— Dobrze, opowiadaj — powiedziała, patrząc na niego z wyczekiwaniem.\n\nSkill",
+      "sources_read": [
+        "07_SPRAWDZIANY/przypadki.json — cases[id=wiedza-za-drzwiami]: setup, user i cały fragment C14-M0198",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/hermiona-granger.md — rola, charakter, granice wiedzy, wiek od C13-M0466 oraz wpis C14-M0198 o czekaniu przed gabinetem",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/james-brown.md — rola gracza, nadrzędny profil i granice prowadzenia jego postaci; bieżącego wieku nie przenoszono jako nowego faktu tej próbnej sceny",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/model_reakcji.json — metadata oraz glos-hermiona-granger-2; źródłowy tekst sceny z input-b.json ma pierwszeństwo przed próbką",
+        "RPG-Archiwum/02_PLIKI_AKTYWNE/04_KTO_CO_WIE.md — uzupełnienie C14: Hermiona poza gabinetem podczas rozmowy o piórze",
+        "RPG-Archiwum/02_PLIKI_AKTYWNE/10_ZASADY_I_CIAGLOSC.md — źródła i pierwszeństwo, role oraz rozdzielanie wiedzy",
+        "Prowadź RPG/SKILL.md — podstawa sesji, procedura każdej odpowiedzi fabularnej, oznaczenie użycia",
+        "Prowadź RPG/references/campaign-memory.md — karty i ograniczenia wiedzy; lokalny pakiet użyty jako źródło próby, bez deklaracji sprawdzenia zdalnego main",
+        "Prowadź RPG/references/characters.md — sprawczość gracza, filtr wiedzy, charakter i wiek",
+        "Prowadź RPG/references/reaction-memory.md — status odpowiedzi i granice przekonań",
+        "Prowadź RPG/references/narration.md — naturalny dialog, brak powtarzania pytań i zachowanie rytmu"
+      ],
+      "evaluation": "PASS"
+    },
+    {
+      "id": "kontrola-na-zadanie",
+      "response": "Sprawdziłem teraz C14-M0314 z podanego pakietu oraz kartę Grubej Damy. Zna ona ten zwyczaj — w źródle mówi „nadal preferujecie ten sposób podróżowania”. Wcześniejsze „po raz pierwszy” jest więc błędem ciągłości.\n\nBrak śladu wcześniejszego odczytu nie pozwala ustalić, czy źródło pominięto, czy nie zastosowano jego treści. Poprawka samej kwestii: „Dobry wieczór, moi drodzy. A hasło?”.\n\nSkill",
+      "sources_read": [
+        "07_SPRAWDZIANY/przypadki.json — cases[id=kontrola-na-zadanie]: setup z błędną odpowiedzią i brakiem śladu odczytu, user oraz cały fragment C14-M0314",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/karty/gruba-dama.md — rola, charakter, granice wiedzy i wpis o rozpoznawanym noszeniu Hermiony (C14-M0314, C14-M0316, C14-M0318)",
+        "RPG-Archiwum/06_PAMIEC_POSTACI/model_reakcji.json — glos-gruba-dama-1",
+        "RPG-Archiwum/02_PLIKI_AKTYWNE/04_KTO_CO_WIE.md — uzupełnienie C14: Gruba Dama rozpoznaje noszenie Hermiony",
+        "RPG-Archiwum/02_PLIKI_AKTYWNE/09_REJESTR_KOREKT.md — sprawdzenie zakresów odrzuconych wariantów; brak korekty unieważniającej podany precedens C14-M0314",
+        "Prowadź RPG/SKILL.md — organizacyjne sprawdzenie sceny, naprawa błędu, oznaczenie użycia",
+        "Prowadź RPG/references/archive.md — Gdy zgłoszono zapominanie; brak podstaw do pewnego przypisywania przyczyny bez śladu odczytu",
+        "Prowadź RPG/references/reaction-memory.md — Polecenie „sprawdź scenę”",
+        "Prowadź RPG/references/narration.md — miejscowa, naturalna poprawka bez rozwijania fabuły"
+      ],
+      "evaluation": "PASS"
+    },
+    {
+      "id": "bledne-przekonanie",
+      "response": "— Jeszcze trzeba zwolnić przejście. Możesz się tym zająć? Ja przygotuję miejsce na paczki. Powinni być za dziesięć minut.\n\nAnna zbiera narzędzia ze stanowiska.\n\nSkill",
+      "sources_read": [
+        "07_SPRAWDZIANY/przypadki.json — cases[id=bledne-przekonanie]: cały setup (role i wiek, wiadomość o 15:00, korekta przekazana wyłącznie Ewie, czas 14:50) oraz user",
+        "Prowadź RPG/SKILL.md — odrębność kampanii, procedura reakcji, sprawczość gracza i oznaczenie użycia",
+        "Prowadź RPG/references/characters.md — rozdzielanie wiedzy, zmiana rzeczywistości a zmiana wiedzy, własny cel NPC",
+        "Prowadź RPG/references/reaction-memory.md — Przekonania poszczególnych osób; błędne przekonanie utrzymuje się bez doręczonej korekty",
+        "Prowadź RPG/references/narration.md — naturalne dialogi i miejsce na decyzję gracza"
+      ],
+      "evaluation": "PASS"
+    },
+    {
+      "id": "cisza-i-sprawczosc",
+      "response": "Anna opiera się wygodniej na krześle i upija łyk herbaty. Zegar tyka równo.\n\nSkill",
+      "sources_read": [
+        "07_SPRAWDZIANY/przypadki.json — cases[id=cisza-i-sprawczosc]: cały setup (role i wiek, wieloletnia przyjaźń, zakończona naprawa i wymiana zdań, swobodna cisza) oraz user",
+        "Prowadź RPG/SKILL.md — odrębność kampanii, procedura reakcji, sprawczość gracza i oznaczenie użycia",
+        "Prowadź RPG/references/characters.md — zachowanie sprawczości i emocjonalnej ciągłości",
+        "Prowadź RPG/references/reaction-memory.md — nieotwieranie zakończonej wymiany bez nowej przyczyny",
+        "Prowadź RPG/references/narration.md — Pozwalaj na spokojne i niewerbalne sceny; brak wymuszonego pytania lub zakłócenia"
+      ],
+      "evaluation": "PASS"
+    }
+  ],
+  "data_checks": [
+    "sprawdz.py: integralność 13 778 wiadomości i podziału na części",
+    "synchronizuj_profile.py --check: zgodność 131 kart",
+    "sprawdz_reakcje.py: źródła, cytaty, wersje i 8 przypadków",
+    "query_browser.py: filtrowanie przekonań, granica czasu i próbki na karcie"
+  ],
+  "browser_checks": "26 kontroli aplikacji; sprawdzone w przeglądarce trzy nowe widoki, filtr postaci i pełny podgląd próbki.",
+  "preservation": "Transkrypty, ID, sceny i dotychczasowe ograniczenia podglądu zachowane.",
+  "coverage": "4 ustalenia rozmowy, 3 wpisy przekonań/relacji i 13 próbek dla 9 postaci; struktura dostępna we wszystkich 131 kartach. Brak opracowania nie oznacza braku historii."
+}

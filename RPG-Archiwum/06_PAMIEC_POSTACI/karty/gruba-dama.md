@@ -12,3 +12,7 @@ Granice wiedzy: Nie słyszy przez ściany, nie zna prywatnych rozmów gabinetowy
 - Uczestniczy w przygotowaniu muzyki portretów. Gruba Dama nazwana Adelajdą; Maurycy jest skrzypkiem, Ambroży rozmawia z nią przy przekazaniu nut. Źródła: C13-M0406
 - Urodzinowy wstęp Jamesa do pokoju wspólnego Gryffindoru jest jednorazowy i pod opieką Hermiony; bez stałego hasła i wejścia do dormitorium. Źródła: C13-M0536, C13-M0676
 - Przy portrecie widzi ponownie Jamesa niosącego Hermionę i rozpoznaje zwyczaj. Komentuje odbiór kufra i odprowadzanie. Nie zna ich prywatnego popołudnia. Źródła: C14-M0314, C14-M0316, C14-M0318
+
+## Przykłady głosu
+
+Sprawdzone krótkie próbki z kontekstem, źródłem i ograniczeniami: [model_reakcji.json](../model_reakcji.json), wpisy glos-gruba-dama-1. Kalibrują sposób reagowania; nie kopiować kwestii ani traktować próbki kampanii jako dowodu kanoniczności.

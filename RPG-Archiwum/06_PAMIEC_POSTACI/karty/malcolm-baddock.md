@@ -14,3 +14,7 @@ Granice wiedzy: Zna zadanie, nie wszystkie emocjonalne motywy Jamesa.
 - Przygotowano notes dla Luny o niezwykłych spostrzeżeniach. James prosi o osobiste wręczenie po powrocie. Notes zachowany, pod koniec u Rose; Luna nie dostała go jeszcze. Źródła: C14-M0496, C14-M0667, C14-M0684, C14-M0690
 - Wigilijna bitwa na śnieżki odbyła się bez zaklęć. James staranował fort i później odpadł; czerwoni wygrali 2:1. To wspólne doświadczenie, nie pierwsze spotkanie przy następnym posiłku. Źródła: C14-M0549, C14-M0555, C14-M0571, C14-M0579, C14-M0583, C14-M0584
 - 28 XII słyszą rozmowę o Krumie, Cedryku i obawach przed wojną. Zapewnienie Jamesa, że młodsi nie będą musieli walczyć, nie jest gwarancją przyszłości. Potem planują Sylwestra; Graham pyta Jamesa o pozostanie na Nowy Rok, odpowiedzi jeszcze nie ma. Źródła: C14-M0695, C14-M0697, C14-M0699, C14-M0700, C14-M0701, C14-M0702, C14-M0703, C14-M0704
+
+## Przykłady głosu
+
+Sprawdzone krótkie próbki z kontekstem, źródłem i ograniczeniami: [model_reakcji.json](../model_reakcji.json), wpisy glos-malcolm-baddock-1. Kalibrują sposób reagowania; nie kopiować kwestii ani traktować próbki kampanii jako dowodu kanoniczności.

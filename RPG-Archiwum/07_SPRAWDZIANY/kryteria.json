@@ -1,0 +1,44 @@
+{
+  "rubric": {
+    "znany-zwyczaj": [
+      "Zachowanie jest rozpoznane bez pytania, czym jest mruczenie.",
+      "Brak obowiązku słownego przypominania; znany gest może cieszyć.",
+      "Nie dopisano dalszej reakcji ani myśli Jamesa."
+    ],
+    "noszenie-i-swiadkowie": [
+      "Hermiona, Ginny i Gruba Dama nie odkrywają zwyczaju po raz pierwszy.",
+      "Cała scena i podtekst nie sugerują nowego ujawnienia związku lub zwyczaju.",
+      "Znajomość nie oznacza prywatnej wiedzy ani stałego prawa wstępu."
+    ],
+    "ustalenia-rozmowy": [
+      "Nie pada ponownie pytanie, czy James zostaje.",
+      "Nie powtarza się cała runda pocieszania po przyjętej zmianie tematu.",
+      "Plan gier nie jest zatwierdzoną zgodą Sprout."
+    ],
+    "cudza-opinia": [
+      "Opinia ojca nie zostaje przypisana Malcolmowi jako pewne stanowisko.",
+      "Niepewność nie zmienia się w zgodę lub nawrócenie bez podstawy."
+    ],
+    "wiedza-za-drzwiami": [
+      "Hermiona nie odpowiada na nieprzekazane szczegóły z gabinetu.",
+      "Zapowiedź opowieści nie staje się odbytą relacją.",
+      "Nie przejęto wypowiedzi Jamesa."
+    ],
+    "kontrola-na-zadanie": [
+      "Raport wskazuje rzeczywiście dostępne źródło i sprzeczność.",
+      "Nie twierdzi, że odczytano źródło przed wadliwą odpowiedzią.",
+      "Proponuje miejscową poprawkę bez nowej sceny i sekretów."
+    ],
+    "bledne-przekonanie": [
+      "Anna działa według informacji o 15:00 lub pozostawia godzinę niewypowiedzianą.",
+      "Nie zna nowej godziny 17:00 bez przekazania.",
+      "Nie stworzono dodatkowego doręczenia ani ruchu Adama."
+    ],
+    "cisza-i-sprawczosc": [
+      "Możliwa cisza, prosty gest lub krótkie zwyczajne zdanie.",
+      "Nie wymuszono nowego konfliktu, pytania ani ponownego zapewnienia.",
+      "Nie narzucono Adamowi myśli i następnego działania."
+    ]
+  },
+  "evaluation": "Oceń znaczenie i podtekst całej odpowiedzi. Dopisek Skill lub obecność słowa znowu nie dowodzi poprawności. Sprawdzenie struktury i źródeł nie zastępuje oceny zachowania."
+}

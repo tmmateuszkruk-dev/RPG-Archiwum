@@ -15,3 +15,7 @@ Granice wiedzy: Nie ma potwierdzonego wyznania miłości Hermionie ani romansu. 
 - Hermiona potwierdziła miłość do Jamesa i odmówiła pozorowania zerwania oraz zastraszania Rona. Relacja pary trwa. Źródła: C13-M0214, C13-M0232, C13-M0236, C13-M0240
 - Wspólny prezent urodzinowy: album Nasze lata w Hogwarcie; Colin pomagał zebrać zdjęcia. Źródła: C13-M0684
 - Zachowuje wcześniejszą znajomość Pokoju Życzeń. Zdziwienie w późniejszej narracji jest rozbieżnością, nie utratą pamięci. Źródła: C13-M0116, C13-M0948
+
+## Przykłady głosu
+
+Sprawdzone krótkie próbki z kontekstem, źródłem i ograniczeniami: [model_reakcji.json](../model_reakcji.json), wpisy glos-ron-weasley-1. Kalibrują sposób reagowania; nie kopiować kwestii ani traktować próbki kampanii jako dowodu kanoniczności.

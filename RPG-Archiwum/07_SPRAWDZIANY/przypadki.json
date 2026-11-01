@@ -1,0 +1,115 @@
+{
+  "purpose": "Materiał warsztatowy, nie wydarzenia kampanii. Każdy przypadek to odrębna kontynuacja próbna.",
+  "cases": [
+    {
+      "id": "znany-zwyczaj",
+      "campaign": "hogwarts-james-hermiona",
+      "setup": "Osobna próbna kontynuacja zwykłej spokojnej sceny z Jamesem i Hermioną. Trwa masaż skóry głowy; gracz prowadzi Jamesa. Źródło określa ich dotychczasową znajomość tego zachowania.",
+      "sources": [
+        {
+          "id": "C8-M0739",
+          "text": "ja czując jej dotyk momentalnie się rozluźniłem i zacząłem mruczeć"
+        },
+        {
+          "id": "C8-M0740",
+          "text": "Hermiona spojrzała w dół i od razu się uśmiechnęła.\n\n— O, wróciło mruczenie.\n\nNie przestała. Przeciwnie, przesunęła palce trochę głębiej we włosy Jamesa i zaczęła powoli masować skórę głowy opuszkami.\n\n— Czyli najwyraźniej znalazłam właściwy przycisk.\n\nPo chwili oparła się wygodniej na jednej dłoni, nadal bawiąc się jego włosami drugą.\n\n— Wiesz, że kiedy tak robisz, strasznie trudno traktować cię jak tego groźnego Ślizgona, którym próbujesz być przy śniadaniu?"
+        }
+      ],
+      "user": "Przysuwam głowę odrobinę bliżej jej dłoni i znowu cicho mruczę."
+    },
+    {
+      "id": "noszenie-i-swiadkowie",
+      "campaign": "hogwarts-james-hermiona",
+      "setup": "Osobna próbna kontynuacja po przytoczonych wydarzeniach, w szkolnej kampanii. James niesie Hermionę przed portret; Ginny jest na korytarzu. Żadna osoba nie ma dodatkowej wiedzy o prywatnym dniu pary.",
+      "sources": [
+        {
+          "id": "C13-M0718",
+          "text": "Hermiona zamyśliła się na moment, po czym przytaknęła z lekkim uśmiechem.\n\n— Właściwie masz rację. Po pierwszym tygodniu znałeś mnie głównie z lekcji. A ja przecież nie chodziłam po Hogwarcie z tabliczką „Uwaga, jestem strasznie uparta”.\n\nGinny parsknęła śmiechem.\n\n— Hermiono, nie potrzebujesz takiej tabliczki.\n\n— Ginny!\n\n— Co? Przecież wszyscy cię lubimy również za tę twoją upartość!\n\nHermiona przewróciła oczami, ale nie potrafiła powstrzymać uśmiechu.\n\n— W każdym razie — wróciła do Jamesa — wtedy mogłeś najwyżej zauważyć, że nie boję się odpowiadać nauczycielom i lubię mieć rację. Dopiero później miałeś okazję przekonać się, jak trudno czasami zmienić moje zdanie.\n\n— Potwierdzam — odezwał się Harry z fotela. — Zwłaszcza kiedy uważa, że chodzi o coś ważnego.\n\n— Bo zazwyczaj chodzi o coś ważnego! — odpowiedziała natychmiast Hermiona.\n\nHarry spojrzał na Ginny, a oboje wybuchnęli śmiechem.\n\nHermiona otworzyła usta, gotowa zaprotestować, lecz po chwili sama się roześmiała.\n\n— Och, dobrze! Właśnie udowodniłam waszą rację. Zadowoleni?\n\nParvati pokiwała głową z przesadną powagą.\n\n— Niezwykle.\n\nHermiona pokręciła głową, a następnie spojrzała na Jamesa. Ujęła jego dłoń i ścisnęła ją delikatnie.\n\n— Wiesz, kochanie, chyba dobrze się stało, że poznawaliśmy się stopniowo. Ty miałeś czas odkryć, jaka potrafię być uparta, a ja, jak bardzo ty potrafisz być nieznośny.\n\nNa jej twarzy pojawił się przekorny uśmiech.\n\n— I mimo tego wszystkiego jakoś nadal chcemy ze sobą być.\n\n— „Jakoś”? — powtórzyła Ginny, unosząc brew. — Hermiono, on dzisiaj nosił cię po połowie zamku. Chyba można już uznać, że całkiem nieźle wam idzie.\n\nHermiona zarumieniła się i spojrzała na przyjaciółkę.\n\n— Ginny, czy ty zamierzasz przypominać mi o tym przez resztę życia?\n\n— Nie wiem. Zobaczymy, czy jutro też przyjdziesz na śniadanie na barana.\n\nRon zaśmiał się krótko znad swojego talerzyka, a Neville pokręcił głową z rozbawieniem.\n\nHermiona westchnęła teatralnie, po czym zerknęła na Jamesa.\n\n— Widzisz, co narobiłeś? Teraz nawet zwykłe zejście na śniadanie będzie dla nich rozczarowaniem.\n\nJednak zamiast kontynuować żarty, odwróciła się do stolika z prezentami.\n\n— No dobrze. Skoro już wszyscy dowiedzieli się, jak wyglądały początki naszego związku, czy mogę wreszcie dokończyć rozpakowywanie prezentów?\n\n— Oczywiście! — Ginny natychmiast podała jej kolejną paczkę. — Chociaż muszę przyznać, że ta historia była prawie równie dobra jak niespodzianka.\n\nHermiona ponownie spojrzała na Jamesa z ciepłym uśmiechem, po czym zabrała się za rozwiązywanie wstążki."
+        },
+        {
+          "id": "C14-M0314",
+          "text": "Hermiona zachichotała, słysząc zgodę Jamesa, i wygodniej objęła go za szyję.\n\n— Jeden — powtórzyła z przesadną powagą. — Chociaż coś mi mówi, że oboje mamy poważny problem z liczeniem pocałunków.\n\nPrzytuliła policzek do jego ramienia. Kiedy na schodach minęły ich dwie młodsze Gryfonki, które zaczęły chichotać i szeptać między sobą, Hermiona przewróciła oczami.\n\n— Och, cudownie… Jutro pewnie pół Gryffindoru będzie opowiadało, że James Brown znowu nosił mnie po zamku.\n\nZerknęła na niego i parsknęła śmiechem.\n\n— Właściwie to już chyba nikogo nie zdziwi. Robiłeś to tyle razy, że powinni się przyzwyczaić.\n\nPo kilku minutach dotarli na siódme piętro, przed znajomy portret Grubej Damy.\n\nPortretowa dama przerwała sobie nucenie świątecznej melodii i przyjrzała się nadchodzącej parze.\n\n— Ach, panna Granger i pan Brown. Widzę, że nadal preferujecie ten sposób podróżowania.\n\nHermiona zarumieniła się i zachichotała.\n\n— Dobry wieczór. Proszę nie zaczynać…\n\n— Ja? — Gruba Dama uniosła brwi z niewinną miną. — Przecież niczego nie powiedziałam!\n\n— Właśnie pani powiedziała! — zaprotestowała Hermiona, śmiejąc się.\n\nDama na portrecie uśmiechnęła się pod nosem.\n\n— Cóż, skoro już skończyliście się przekomarzać, może usłyszę hasło?\n\nHermiona podała je, a portret odchylił się, odsłaniając przejście do pokoju wspólnego.\n\nZza otworu dochodziły głosy kilku Gryfonów zajętych przygotowaniami do świątecznych wyjazdów.\n\nHermiona zerknęła na Jamesa.\n\n— Kochanie, teraz naprawdę musisz mnie na chwilę odstawić. Muszę wejść do dormitorium po kufer, a schody dziewcząt raczej nie docenią twoich rycerskich zamiarów.\n\nUśmiechnęła się przekornie i musnęła jego policzek pocałunkiem.\n\n— I nie myśl, że zapomniałam o tym jednym pocałunku na pożegnanie. Jeszcze go nie wykorzystałeś!\n\nWciąż obejmowała go za szyję, czekając, aż postawi ją na ziemi."
+        }
+      ],
+      "user": "Zatrzymuję się przed portretem, nadal trzymając Hermionę na rękach. — Dobry wieczór."
+    },
+    {
+      "id": "ustalenia-rozmowy",
+      "campaign": "hogwarts-james-hermiona",
+      "setup": "Koniec C14, Wielka Sala, rano 28 grudnia 1995. Występują postacie wymienione w źródłach. James należy do gracza.",
+      "sources": [
+        {
+          "id": "C14-M0700",
+          "text": "Przy stole zapadła cisza.\n\nDennis Creevey zacisnął palce na kubku. Euan Abercrombie, który dotąd przysłuchiwał się rozmowie, spojrzał niespokojnie w stronę stołu nauczycielskiego.\n\n— Colin też tak mówi — odezwał się Dennis. — Że jeśli Harry ma rację, to wszyscy powinniśmy się przygotować.\n\n— A jak niby mamy się przygotować? — zapytał Euan. — Przecież jesteśmy jeszcze w szkole.\n\nOrla Quirke odłożyła łyżeczkę.\n\n— Przede wszystkim nie powinniśmy udawać, że nic się nie dzieje. To, że Ministerstwo czegoś nie przyznaje, nie oznacza, że problem znika.\n\nMalcolm skrzywił się lekko.\n\n— Mówicie o wojnie, jakby miała zacząć się jutro. Mój ojciec twierdzi, że Potter wyolbrzymia całą sprawę.\n\n— A ty mu wierzysz? — zapytał Graham.\n\nMalcolm zawahał się.\n\n— Nie wiem — przyznał w końcu. — Ale jeśli Sam-Wiesz-Kto naprawdę wrócił, to chyba nie ma się z czego cieszyć, prawda?\n\nEleanor przysunęła się nieco bliżej Rose, która siedziała wyjątkowo cicho.\n\n— Ja pamiętam, co stało się z Cedrykiem — powiedziała. — I nie chcę, żeby spotkało to kogokolwiek innego.\n\nLaura zerknęła na kilkoro uczniów siedzących dalej przy stole.\n\n— Może rozmawiajmy trochę ciszej. Nie chciałabym, żeby ktoś usłyszał tylko słowo „wojna” i zaczął rozpowiadać, że planujemy coś przeciwko Ministerstwu.\n\nDennis wypuścił powietrze przez nos.\n\n— To absurdalne, że musimy uważać nawet na zwykłą rozmowę.\n\nPrzez chwilę słychać było jedynie brzęk naczyń i odległe rozmowy innych uczniów.\n\nW końcu Graham spojrzał na Jamesa. Nie uśmiechał się już.\n\n— Brown, ty jesteś na piątym roku. Znasz Harry'ego i rozmawiałeś z nim o tym wszystkim. — Zawahał się. — Ja nie chcę walczyć na żadnej wojnie. Chcę skończyć Hogwart, wrócić do domu i zobaczyć, jak Amelia dorasta.\n\nMalcolm, który jeszcze przed chwilą zamierzał coś powiedzieć, spuścił wzrok na swój talerz.\n\nGraham odezwał się ponownie, znacznie ciszej:\n\n— Myślisz, że naprawdę może dojść do tego, że wojna dotrze aż tutaj? Do Hogwartu?"
+        },
+        {
+          "id": "C14-M0701",
+          "text": "-Tak.... Rozumiem was....nikt nie chcę umierać tak wcześnie....a tym bardziej walczyć tylko poto żeby umrzeć....ale myślę że was to ominie...wy nie umrzecie i niebędziecie musieli walczyć....ale ja.... Harry Hermiona....Westchnąłem......\nHermiona...."
+        },
+        {
+          "id": "C14-M0702",
+          "text": "Graham przez dłuższą chwilę patrzył na Jamesa. Zniknął gdzieś jego zwyczajny, pogodny uśmiech.\n\n— Brown… — odezwał się cicho. — Nie mów tak, jakbyś już wiedział, że będziesz musiał iść na wojnę.\n\nEleanor spuściła wzrok. Rose siedziała nieruchomo, ściskając w dłoniach brzeg rękawa.\n\n— Nie możesz nam obiecać, że nic nam się nie stanie — powiedziała Orla, tym razem bez swojej zwyczajowej uszczypliwości. — Ale my też nie możemy z góry zakładać, że ty, Harry czy Hermiona…\n\nUrwała, nie kończąc zdania.\n\nMalcolm odsunął talerz. Po raz pierwszy od początku śniadania zupełnie stracił ochotę na żarty.\n\n— Przecież wy macie dopiero po piętnaście, szesnaście lat — mruknął. — To chyba dorośli powinni się tym zajmować.\n\n— Powinni — odpowiedziała cicho Laura.\n\nEleanor spojrzała ponownie na Jamesa. Usłyszała, jak wymówił imię Hermiony, i przez chwilę zastanawiała się, co powiedzieć.\n\n— James… wiem, że ją kochasz. Wszyscy chyba już to zauważyliśmy.\n\nUśmiechnęła się blado.\n\n— Ale Hermiona jest teraz bezpieczna, przynajmniej z tego, co nam opowiadałeś. Nie odbieraj sobie dzisiejszego dnia, martwiąc się o wszystko, co dopiero może się wydarzyć.\n\nGraham pokiwał głową.\n\n— I nie próbuj brać odpowiedzialności za wszystkich. Nawet za nas.\n\nPrzez chwilę nikt się nie odzywał. Wysoko pod zaczarowanym sufitem przeleciała ostatnia z porannych sów.\n\nW końcu Rose podniosła głowę.\n\n— James? — zapytała nieśmiało. — A kiedy Hermiona wróci… będziesz mógł ją po prostu przytulić, prawda?\n\nEleanor zerknęła na dziewczynkę, ale jej nie uciszyła.\n\n— Bo… — Rose zawahała się. — Chyba bardzo tego potrzebujesz.\n\nMalcolm tym razem nie powiedział ani słowa."
+        },
+        {
+          "id": "C14-M0703",
+          "text": "tak, i macie rację na razie jest teraz a teraz zaraz nowy rok itd..."
+        },
+        {
+          "id": "C14-M0704",
+          "text": "Eleanor uśmiechnęła się z wyraźną ulgą.\n\n— Właśnie. Jeszcze trzy dni i Sylwester. Może uda nam się wymyślić coś przyjemnego.\n\n— Sylwester! — Malcolm natychmiast się ożywił. — No, nareszcie rozmawiamy o czymś ciekawszym!\n\n— Wiesz, Malcolm, nie musisz komentować każdej zmiany tematu — zauważyła Orla.\n\n— A ty nie musisz komentować każdego mojego komentarza.\n\nGraham roześmiał się i sięgnął po herbatę.\n\n— A może urządzimy sobie wieczór z grami? Szachy, eksplodujący dureń, coś do jedzenia…\n\n— Byle nie szachy z Jamesem! — zaprotestował Malcolm. — Już raz się przekonałem, jak to się kończy.\n\n— Możesz zagrać ze mną — zaproponowała Orla.\n\n— To wcale nie brzmi bezpieczniej.\n\nDennis parsknął śmiechem.\n\nRose, która dotąd siedziała cicho, odłożyła serwetkę.\n\n— A o północy moglibyśmy złożyć sobie życzenia. W domu zawsze tak robimy.\n\n— Tylko najpierw musielibyśmy dostać pozwolenie na siedzenie tak późno — przypomniała Laura.\n\nEleanor skinęła głową.\n\n— Możemy zapytać profesor Sprout. Może nauczyciele i tak coś przygotowują na powitanie nowego roku.\n\nMalcolm pochylił się nad stołem.\n\n— A gdyby były fajerwerki…\n\n— Żadnych własnych eksperymentów — uprzedził Graham.\n\n— Niczego jeszcze nie zaproponowałem!\n\n— Znam tę minę.\n\nŚmiech powrócił do stołu. Nawet Rose, która przed chwilą była wyraźnie przejęta rozmową o wojnie, zaczęła z ożywieniem opowiadać o noworocznych zwyczajach w swoim domu.\n\nPo chwili Eleanor spojrzała na Jamesa.\n\n— Wiesz, moglibyśmy też zaprosić innych uczniów, którzy zostali na święta. Oczywiście bez zakładania żadnego stowarzyszenia — dodała z lekkim uśmiechem.\n\n— I bez wybierania prezesa! — zawołał Graham, zanim Malcolm zdążył otworzyć usta.\n\nMalcolm westchnął teatralnie.\n\n— Wy naprawdę odbieracie mi wszystkie przyjemności.\n\nZa oknami Wielkiej Sali śnieg padał coraz gęściej. Przy stole ponownie zrobiło się gwarno, a rozmowa o nadchodzącym Sylwestrze zaczęła nabierać konkretnych kształtów.\n\n— James — odezwał się Graham, spoglądając na niego ponad kubkiem — a ty zostajesz w Hogwarcie również na Nowy Rok?\n\nJeśli chcesz, mogę:\n\nOpowiedz o rozmowie z Harrym i jego perspek"
+        }
+      ],
+      "user": "— Tak, zostaję. Wieczór z grami brzmi dobrze. — Sięgam po herbatę."
+    },
+    {
+      "id": "cudza-opinia",
+      "campaign": "hogwarts-james-hermiona",
+      "setup": "Osobna próbna kontynuacja bezpośrednio po wypowiedziach przy stole w podanym źródle.",
+      "sources": [
+        {
+          "id": "C14-M0700",
+          "text": "Przy stole zapadła cisza.\n\nDennis Creevey zacisnął palce na kubku. Euan Abercrombie, który dotąd przysłuchiwał się rozmowie, spojrzał niespokojnie w stronę stołu nauczycielskiego.\n\n— Colin też tak mówi — odezwał się Dennis. — Że jeśli Harry ma rację, to wszyscy powinniśmy się przygotować.\n\n— A jak niby mamy się przygotować? — zapytał Euan. — Przecież jesteśmy jeszcze w szkole.\n\nOrla Quirke odłożyła łyżeczkę.\n\n— Przede wszystkim nie powinniśmy udawać, że nic się nie dzieje. To, że Ministerstwo czegoś nie przyznaje, nie oznacza, że problem znika.\n\nMalcolm skrzywił się lekko.\n\n— Mówicie o wojnie, jakby miała zacząć się jutro. Mój ojciec twierdzi, że Potter wyolbrzymia całą sprawę.\n\n— A ty mu wierzysz? — zapytał Graham.\n\nMalcolm zawahał się.\n\n— Nie wiem — przyznał w końcu. — Ale jeśli Sam-Wiesz-Kto naprawdę wrócił, to chyba nie ma się z czego cieszyć, prawda?\n\nEleanor przysunęła się nieco bliżej Rose, która siedziała wyjątkowo cicho.\n\n— Ja pamiętam, co stało się z Cedrykiem — powiedziała. — I nie chcę, żeby spotkało to kogokolwiek innego.\n\nLaura zerknęła na kilkoro uczniów siedzących dalej przy stole.\n\n— Może rozmawiajmy trochę ciszej. Nie chciałabym, żeby ktoś usłyszał tylko słowo „wojna” i zaczął rozpowiadać, że planujemy coś przeciwko Ministerstwu.\n\nDennis wypuścił powietrze przez nos.\n\n— To absurdalne, że musimy uważać nawet na zwykłą rozmowę.\n\nPrzez chwilę słychać było jedynie brzęk naczyń i odległe rozmowy innych uczniów.\n\nW końcu Graham spojrzał na Jamesa. Nie uśmiechał się już.\n\n— Brown, ty jesteś na piątym roku. Znasz Harry'ego i rozmawiałeś z nim o tym wszystkim. — Zawahał się. — Ja nie chcę walczyć na żadnej wojnie. Chcę skończyć Hogwart, wrócić do domu i zobaczyć, jak Amelia dorasta.\n\nMalcolm, który jeszcze przed chwilą zamierzał coś powiedzieć, spuścił wzrok na swój talerz.\n\nGraham odezwał się ponownie, znacznie ciszej:\n\n— Myślisz, że naprawdę może dojść do tego, że wojna dotrze aż tutaj? Do Hogwartu?"
+        }
+      ],
+      "user": "Patrzę na Malcolma. — Rozumiem. Trudno ocenić, kiedy słyszy się tak różne rzeczy."
+    },
+    {
+      "id": "wiedza-za-drzwiami",
+      "campaign": "hogwarts-james-hermiona",
+      "setup": "Osobna próbna scena po wyjściu Jamesa od Snape’a. Hermiona czekała na korytarzu. Nie przekazano jej treści rozmowy z gabinetu. Poniższy fragment ustala jej sytuację i głos.",
+      "sources": [
+        {
+          "id": "C14-M0198",
+          "text": "Snape odpowiedział jedynie krótkim skinieniem głowy. Gdy James opuścił gabinet, profesor natychmiast wrócił do swoich dokumentów.\n\nCiężkie drewniane drzwi zamknęły się za Jamesem.\n\nNa korytarzu panował półmrok. Pochodnie rzucały migotliwe światło na wilgotne, kamienne ściany lochów.\n\nHermiona siedziała na szerokim parapecie w pobliskiej wnęce, z otwartą książką na kolanach. Na dźwięk otwieranych drzwi natychmiast podniosła głowę.\n\n— O, jesteś!\n\nZamknęła książkę, zaznaczywszy wcześniej stronę zakładką, i zeskoczyła z parapetu.\n\n— Już zaczynałam się zastanawiać, ile jeszcze będzie cię wypytywał.\n\nPodeszła bliżej, przyglądając mu się z zaciekawieniem.\n\n— I jak poszło? — zapytała. — Mam nadzieję, że nie skończyło się kolejnym szlabanem.\n\nPo chwili uśmiechnęła się lekko.\n\n— Chociaż skoro profesor Snape nie wyszedł za tobą, żeby ogłosić kolejną katastrofę, uznam to za dobry znak.\n\nPrzypomniała sobie coś i zmarszczyła brwi.\n\n— A właśnie, czy powiedział ci coś konkretnego o sprawie tego pióra?"
+        }
+      ],
+      "user": "— Opowiem ci po drodze. — Ruszam powoli w stronę schodów."
+    },
+    {
+      "id": "kontrola-na-zadanie",
+      "campaign": "hogwarts-james-hermiona",
+      "setup": "Poprzednia próbna odpowiedź narratora brzmiała: „Gruba Dama uniosła brwi: — Po raz pierwszy widzę was w takim układzie, panno Granger!”. Nie ma śladu wcześniejszego odczytu źródeł w tej próbnej rozmowie. Dostępny jest poniższy pakiet źródłowy.",
+      "sources": [
+        {
+          "id": "C14-M0314",
+          "text": "Hermiona zachichotała, słysząc zgodę Jamesa, i wygodniej objęła go za szyję.\n\n— Jeden — powtórzyła z przesadną powagą. — Chociaż coś mi mówi, że oboje mamy poważny problem z liczeniem pocałunków.\n\nPrzytuliła policzek do jego ramienia. Kiedy na schodach minęły ich dwie młodsze Gryfonki, które zaczęły chichotać i szeptać między sobą, Hermiona przewróciła oczami.\n\n— Och, cudownie… Jutro pewnie pół Gryffindoru będzie opowiadało, że James Brown znowu nosił mnie po zamku.\n\nZerknęła na niego i parsknęła śmiechem.\n\n— Właściwie to już chyba nikogo nie zdziwi. Robiłeś to tyle razy, że powinni się przyzwyczaić.\n\nPo kilku minutach dotarli na siódme piętro, przed znajomy portret Grubej Damy.\n\nPortretowa dama przerwała sobie nucenie świątecznej melodii i przyjrzała się nadchodzącej parze.\n\n— Ach, panna Granger i pan Brown. Widzę, że nadal preferujecie ten sposób podróżowania.\n\nHermiona zarumieniła się i zachichotała.\n\n— Dobry wieczór. Proszę nie zaczynać…\n\n— Ja? — Gruba Dama uniosła brwi z niewinną miną. — Przecież niczego nie powiedziałam!\n\n— Właśnie pani powiedziała! — zaprotestowała Hermiona, śmiejąc się.\n\nDama na portrecie uśmiechnęła się pod nosem.\n\n— Cóż, skoro już skończyliście się przekomarzać, może usłyszę hasło?\n\nHermiona podała je, a portret odchylił się, odsłaniając przejście do pokoju wspólnego.\n\nZza otworu dochodziły głosy kilku Gryfonów zajętych przygotowaniami do świątecznych wyjazdów.\n\nHermiona zerknęła na Jamesa.\n\n— Kochanie, teraz naprawdę musisz mnie na chwilę odstawić. Muszę wejść do dormitorium po kufer, a schody dziewcząt raczej nie docenią twoich rycerskich zamiarów.\n\nUśmiechnęła się przekornie i musnęła jego policzek pocałunkiem.\n\n— I nie myśl, że zapomniałam o tym jednym pocałunku na pożegnanie. Jeszcze go nie wykorzystałeś!\n\nWciąż obejmowała go za szyję, czekając, aż postawi ją na ziemi."
+        }
+      ],
+      "user": "OOC: sprawdź scenę. Chodzi mi o pamięć Grubej Damy."
+    },
+    {
+      "id": "bledne-przekonanie",
+      "campaign": "warsztat-przyklad-odrebny",
+      "setup": "Odrębna fikcyjna scena warsztatowa, poza Hogwarts. Adam (gracz, 33 lata), Anna (NPC, 35 lat) i Ewa (NPC, 34 lata). Rano Anna usłyszała od Adama: „Dostawa będzie o piętnastej”. Potem Adam dostał wiadomość o przesunięciu dostawy na siedemnastą i powiedział o tym tylko Ewie. Anna była w drugim pomieszczeniu i nie dostała korekty. Jest 14:50; Anna przygotowuje stanowisko do odbioru. Te ustalenia są źródłem tej odrębnej sceny.",
+      "sources": [],
+      "user": "Wracam do Anny i pytam: — Co jeszcze zostało do zrobienia?"
+    },
+    {
+      "id": "cisza-i-sprawczosc",
+      "campaign": "warsztat-przyklad-odrebny",
+      "setup": "Odrębna fikcyjna scena warsztatowa. Adam (gracz, 33 lata) i Anna (NPC, 35 lat), od lat przyjaciele. Właśnie zakończyli naprawę zegara i usiedli przy stole z herbatą. Anna wcześniej powiedziała „Dobrze poszło”, Adam przytaknął. Nie ma nierozstrzygniętego pytania ani konfliktu. Cisza jest swobodna.",
+      "sources": [],
+      "user": "Przez chwilę w milczeniu patrzę na naprawiony zegar."
+    }
+  ]
+}

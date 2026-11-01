@@ -46,3 +46,11 @@ Granice wiedzy: Nie zna automatycznie podsłuchu C9, pełnego zgłoszenia pióra
 - James deklaruje zaufanie i smutek. Obowiązujące M0278 zachowuje wyjazd Hermiony, jej troskę i frustrację; nie oznacza wyboru Rona jako partnera. Rozmowa o wspólnej przyszłości nie jest zaręczynami. Źródła: C14-M0238, C14-M0240, C14-M0275, C14-M0278
 - M0276 zostało odrzucone; obowiązuje M0278. Troska o Jamesa, emocjonalna frustracja i przyjaźń z Weasleyami współistnieją; decyzja o wyjeździe zostaje. To korekta narracji, nie wiedza postaci o OOC. Źródła: C14-M0277, C14-M0278
 - 22 XII wspólne popołudnie w Pokoju Życzeń, potem odprowadzenie z kufrem i pożegnanie przy bramie. Hermiona odchodzi z grupą pod nadzorem; obiecuje pisać i przekazać pozdrowienia, co samo w sobie nie potwierdza ich doręczenia. Źródła: C14-M0288, C14-M0306, C14-M0314, C14-M0320, C14-M0326
+
+## Rozpoznawane sytuacje — uzupełnienie
+
+- Była już noszona przez Jamesa przy innych; wie, że Ginny zna zwyczaj, bo odpowiadała na jej komentarz. Znajomość sytuacji nie wymusza stałej emocji ani obojętności. Źródła: C13-M0718, C14-M0314
+
+## Przykłady głosu
+
+Sprawdzone krótkie próbki z kontekstem, źródłem i ograniczeniami: [model_reakcji.json](../model_reakcji.json), wpisy glos-hermiona-granger-1, glos-hermiona-granger-2, glos-hermiona-granger-3. Kalibrują sposób reagowania; nie kopiować kwestii ani traktować próbki kampanii jako dowodu kanoniczności.

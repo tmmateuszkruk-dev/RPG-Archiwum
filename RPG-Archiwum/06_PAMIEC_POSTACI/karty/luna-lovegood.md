@@ -12,3 +12,7 @@ Granice wiedzy: Nie zna snu Jamesa o ślubie z nią, całej tragedii rodzinnej a
 - Słyszała jego obawy dotyczące Rona i straty, wzmiankę o zmarłej siostrze oraz ograniczoną relację o Draco. Początkowo pożyczoną szatę później otrzymała na własność. Źródła: C5-M0565, C5-M0620, C8-M0625, C8-M0650
 - Wprost nazwała więź przyjaźnią. Prowadziła własną korespondencję z Jamesem; zna tylko otrzymane przez siebie listy. Źródła: C9-M0231, C9-M0254, C12-M0197, C12-M0206
 - List Luny 25 XII podtrzymuje przyjaźń; spędza święta z ojcem w domu. Chce opowiedzieć historię osobiście. Nie potwierdza otrzymania notesu ani motyla. Źródła: C14-M0684
+
+## Przykłady głosu
+
+Sprawdzone krótkie próbki z kontekstem, źródłem i ograniczeniami: [model_reakcji.json](../model_reakcji.json), wpisy glos-luna-lovegood-1. Kalibrują sposób reagowania; nie kopiować kwestii ani traktować próbki kampanii jako dowodu kanoniczności.

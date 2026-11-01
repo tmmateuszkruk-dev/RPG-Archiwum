@@ -24,8 +24,19 @@ def synchronize(root, check=False):
     memory_dir = root / '06_PAMIEC_POSTACI'
     path = memory_dir / 'pamiec_postaci.json'
     data = json.loads(path.read_text(encoding='utf-8'))
+    reaction_path = memory_dir / 'model_reakcji.json'
+    reaction = json.loads(reaction_path.read_text(encoding='utf-8'))
+    reaction_source = {'path': '06_PAMIEC_POSTACI/model_reakcji.json', 'blob_sha': blob_sha(reaction_path.read_bytes())}
+    if reaction['metadata']['cutoff'] != data['metadata']['cutoff']:
+        raise ValueError('Model reakcji i pamięć mają różne granice historii')
     versions = {}
     for card in data['cards']:
+        card['reaction_state'] = {
+            'source': reaction_source,
+            'coverage': reaction['metadata']['coverage'],
+            **{kind: [entry for entry in reaction[kind] if card['id'] in entry['characters']]
+               for kind in ['conversation', 'beliefs', 'voice']},
+        }
         rel = f"06_PAMIEC_POSTACI/karty/{card['id']}.md"
         raw = (root / rel).read_bytes()
         versions[rel] = blob_sha(raw)
@@ -44,6 +55,7 @@ def synchronize(root, check=False):
     revision = hashlib.sha256(json.dumps(data['cards'], ensure_ascii=False, sort_keys=True).encode()).hexdigest()
     data['metadata']['content_revision'] = revision
     data['metadata']['card_source_blobs'] = versions
+    data['metadata']['reaction_source'] = reaction_source
     data['metadata']['bytes'] = data['metadata']['source_bytes']
     outputs = {path: data, memory_dir / 'metryka.json': data['metadata']}
     index_path = memory_dir / 'indeks_wzmianek.json'

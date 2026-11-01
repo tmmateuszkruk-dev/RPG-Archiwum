@@ -15,3 +15,7 @@ Granice wiedzy: Nie przypisywać pełnego motywu emocjonalnego ani wiedzy wszyst
 - Wigilijna bitwa na śnieżki odbyła się bez zaklęć. James staranował fort i później odpadł; czerwoni wygrali 2:1. To wspólne doświadczenie, nie pierwsze spotkanie przy następnym posiłku. Źródła: C14-M0549, C14-M0555, C14-M0571, C14-M0579, C14-M0583, C14-M0584
 - 28 XII słyszą rozmowę o Krumie, Cedryku i obawach przed wojną. Zapewnienie Jamesa, że młodsi nie będą musieli walczyć, nie jest gwarancją przyszłości. Potem planują Sylwestra; Graham pyta Jamesa o pozostanie na Nowy Rok, odpowiedzi jeszcze nie ma. Źródła: C14-M0695, C14-M0697, C14-M0699, C14-M0700, C14-M0701, C14-M0702, C14-M0703, C14-M0704
 - 23 XII nad ranem Graham przypomina, że on i Malcolm należeli do siatki ostrzegającej przed Hermioną. Opowiada o trzech mrugnięciach i dawnym fałszywym alarmie Malcolma; zobowiązuje się zachować tajemnicę. Detale tej relacji wymagają porównania z pierwotną sceną, nie zastępują jej. Źródła: C14-M0346, C14-M0348, C14-M0352
+
+## Przykłady głosu
+
+Sprawdzone krótkie próbki z kontekstem, źródłem i ograniczeniami: [model_reakcji.json](../model_reakcji.json), wpisy glos-graham-pritchard-1, glos-graham-pritchard-2. Kalibrują sposób reagowania; nie kopiować kwestii ani traktować próbki kampanii jako dowodu kanoniczności.

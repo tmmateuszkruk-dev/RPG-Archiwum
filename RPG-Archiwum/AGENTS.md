@@ -23,3 +23,5 @@ Sprawdź `python scripts/sprawdz.py`. Nie usuwaj historii i nie publikuj repozyt
 
 
 Wycofana gałąź C12-M0922–C12-M0949 nie daje wiedzy NPC. Repozytorium ma podfolder RPG-Archiwum; ścieżki RAW muszą go zawierać.
+
+Pamięć przebiegu rozmów, przekonania i próbki głosu: `06_PAMIEC_POSTACI/model_reakcji.json`; znaczenie pól w `06_PAMIEC_POSTACI/MODEL_REAKCJI.md`. Czytaj odpowiednie wpisy wraz z kartą; ich wersja jest niezależna od cutoff. Puste listy nie dowodzą braku historii. Po zmianie uruchom również `python scripts/sprawdz_reakcje.py`. `07_SPRAWDZIANY` nie jest archiwum wydarzeń i nie daje postaciom wiedzy.

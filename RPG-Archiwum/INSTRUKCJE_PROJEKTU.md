@@ -29,3 +29,5 @@ Nie wczytuj całego repozytorium przy każdej odpowiedzi. Podczas aktualizacji z
 
 Duże części: `03_INDEKS/INDEKS_DUZYCH_CZESCI.md`; małe: `03_INDEKS/INDEKS_MALYCH_CZESCI.md`. Pamięć: `06_PAMIEC_POSTACI/`.
 Starszy zestaw C1–C13 poza `wersja_do_udostepniania` jest zachowany historycznie.
+
+Pamięć przebiegu rozmów, osobne przekonania oraz próbki głosu: `06_PAMIEC_POSTACI/model_reakcji.json`. Sprawdzaj wersję razem z kartą; brak opracowanego wpisu nie oznacza braku historii. Na prośbę „sprawdź scenę” podaj zwięzły raport źródeł, ustaleń i potrzebnej poprawki. Przykłady w `07_SPRAWDZIANY` są warsztatowe i nie wchodzą do historii.

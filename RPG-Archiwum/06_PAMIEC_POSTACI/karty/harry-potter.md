@@ -19,3 +19,7 @@ Granice wiedzy: Nie słyszał prywatnych pomysłów wieloryba/ośmiornicy ani ro
 - Na pierwszym treningu propozycja nazwy Cho prowadzi do przyjęcia Gwardii Dumbledore’a zaproponowanej przez Ginny. Ćwiczą Expelliarmus. Źródła: C13-M0948
 - Hermiona wytrzymała uderzenie tarczą i rozbroiła Jamesa; późniejsza próba fizycznego przejęcia różdżki skutkuje zakazem nieuzgodnionych ataków fizycznych od Harry’ego. Źródła: C13-M0964, C13-M0965, C13-M0966
 - Wspólne latanie jest propozycją zaakceptowaną przez Jamesa; nie rozegrano jeszcze lotu. Źródła: C13-M0929, C13-M0936
+
+## Przykłady głosu
+
+Sprawdzone krótkie próbki z kontekstem, źródłem i ograniczeniami: [model_reakcji.json](../model_reakcji.json), wpisy glos-harry-potter-1. Kalibrują sposób reagowania; nie kopiować kwestii ani traktować próbki kampanii jako dowodu kanoniczności.

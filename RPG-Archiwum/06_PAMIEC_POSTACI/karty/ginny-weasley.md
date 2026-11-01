@@ -15,3 +15,11 @@ Granice wiedzy: Nie zna szeptanych sekretów, treści listów Jamesa do Luny ani
 - Ginny dała także ciemnozielony notes i pióro. Źródła: C13-M0720
 - Na przyjęciu: pocałunek w policzek za zgodą, uścisk i taniec. Nie jest to potwierdzenie związku. Źródła: C13-M0742, C13-M0776, C13-M0826
 - Na pierwszym treningu propozycja nazwy Cho prowadzi do przyjęcia Gwardii Dumbledore’a zaproponowanej przez Ginny. Ćwiczą Expelliarmus. Źródła: C13-M0948
+
+## Rozpoznawane sytuacje — uzupełnienie
+
+- Zna noszenie Hermiony przez Jamesa i sama komentowała ten zwyczaj na urodzinach. Hermiona słyszała ten komentarz. Nie przedstawiać Ginny jako dopiero odkrywającej sam zwyczaj; nie zna automatycznie późniejszych epizodów. Źródła: C13-M0672, C13-M0718
+
+## Przykłady głosu
+
+Sprawdzone krótkie próbki z kontekstem, źródłem i ograniczeniami: [model_reakcji.json](../model_reakcji.json), wpisy glos-ginny-weasley-1, glos-ginny-weasley-2. Kalibrują sposób reagowania; nie kopiować kwestii ani traktować próbki kampanii jako dowodu kanoniczności.
