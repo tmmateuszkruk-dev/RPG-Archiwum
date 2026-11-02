@@ -15,17 +15,17 @@
   ],
   "messages": 13778,
   "bytes": 8670160,
-  "content_revision": "1f1be0e6f5f54aa329e942b0193ddf2875469de539e234b23cacbdfe649e3c04",
+  "content_revision": "e2d5e270c90eae7789c1c25a92a5687cd1748e4e35fddac2ee68b1d9e6f91e9c",
   "card_source_blobs": {
     "06_PAMIEC_POSTACI/karty/james-brown.md": "b5114f9dfe5e8d41b0a9387dbb4cf3313b9661bc",
-    "06_PAMIEC_POSTACI/karty/hermiona-granger.md": "c11c02a75ab4a84183db3a67b136c2d652159776",
+    "06_PAMIEC_POSTACI/karty/hermiona-granger.md": "c43f820f674ad77ef78d6cd71822bfc96011ef02",
     "06_PAMIEC_POSTACI/karty/theodore-nott.md": "6f5f099571ca96f93980e203c093d03bb71b6610",
     "06_PAMIEC_POSTACI/karty/draco-malfoy.md": "a0f7a40cecd8270eb22ad408ee1532895f32912f",
     "06_PAMIEC_POSTACI/karty/pansy-parkinson.md": "0fbedbddeef5281d60e4fce1a2c061a8dbcbddff",
-    "06_PAMIEC_POSTACI/karty/harry-potter.md": "b2364fd9c9d76a0f4e304e6e6319d445e0031ac9",
-    "06_PAMIEC_POSTACI/karty/ron-weasley.md": "c6455a179fa80662a87a491b6513694f055da5e4",
-    "06_PAMIEC_POSTACI/karty/ginny-weasley.md": "42585d7477355403eb83116028c7656db6a666e3",
-    "06_PAMIEC_POSTACI/karty/luna-lovegood.md": "a8326ef17e4975acc14c510e4815925932aeb4cc",
+    "06_PAMIEC_POSTACI/karty/harry-potter.md": "9c8b26b1752059e0da2d3feeae18a272d2fb921a",
+    "06_PAMIEC_POSTACI/karty/ron-weasley.md": "2cd169f27c8ed5e95d238a3688c499ad1e1c79db",
+    "06_PAMIEC_POSTACI/karty/ginny-weasley.md": "a1fb7312354fc73644274c1438e602ce608d7715",
+    "06_PAMIEC_POSTACI/karty/luna-lovegood.md": "b62c07bc15635ec01c2114893c1baa1ccd4f2b13",
     "06_PAMIEC_POSTACI/karty/viktor-krum.md": "9bf4baf7e2c49ec8798f89271228c97f3f0a5690",
     "06_PAMIEC_POSTACI/karty/elodie-moreau.md": "388ac4be866c0b9fc5f7e93f3217ebca1104f3e1",
     "06_PAMIEC_POSTACI/karty/aleksiej.md": "7e832d0243cf5077738a6c80efc0d898e53be4ec",
@@ -151,6 +151,6 @@
   },
   "reaction_source": {
     "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-    "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+    "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
   }
 }

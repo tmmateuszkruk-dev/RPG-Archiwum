@@ -16,3 +16,5 @@ Granice wiedzy: Nie zna snu Jamesa o ślubie z nią, całej tragedii rodzinnej a
 ## Przykłady głosu
 
 Sprawdzone krótkie próbki z kontekstem, źródłem i ograniczeniami: [model_reakcji.json](../model_reakcji.json), wpisy glos-luna-lovegood-1. Kalibrują sposób reagowania; nie kopiować kwestii ani traktować próbki kampanii jako dowodu kanoniczności.
+
+Wzorce kanonicznego głosu: `book_references` w odpowiednich wpisach [modelu reakcji](../model_reakcji.json). Cytaty książkowe mają osobne źródła, etap życia i kontekst; nie są wydarzeniami tej kampanii.

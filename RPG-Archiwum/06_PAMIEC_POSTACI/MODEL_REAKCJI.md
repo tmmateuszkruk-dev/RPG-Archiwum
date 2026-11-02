@@ -15,3 +15,15 @@ Zachowuj istniejące identyfikatory. Dodaj źródło każdej zmiany, jej moment 
 Przy nowej części sprawdź aktualność dotychczasowych wpisów i zmień metrykę razem z bazą; nie podnoś samego cutoff bez przeglądu zmian. Odśwież profile poleceniami `python scripts/synchronizuj_profile.py` i `python scripts/synchronizuj_profile.py --check`, następnie `python scripts/sprawdz_reakcje.py`. Odśwież i opublikuj prywatną przeglądarkę osobno. Nie obiecuj automatycznej synchronizacji czatów.
 
 Sprawdziany w `07_SPRAWDZIANY` służą ocenie narracji. Ich polecenia i odpowiedzi próbne nie są historią kampanii. Na żądanie „sprawdź scenę” krótko oddziel odczytane źródła, istotne ustalenia, wynik kontroli i lukę lub poprawkę. Odczytu wykonanego podczas kontroli nie przypisuj wstecz poprzedniej odpowiedzi. Nie ujawniaj ukrytego toku rozumowania ani niezamówionych sekretów.
+
+## Książkowe wzorce głosu
+
+Opcjonalna lista `voice[].book_references` zawiera odrębne, krótkie cytaty z książek. Wersja 2 dodaje 6 przykładów dla Hermiony, Rona, Harry’ego, Ginny i Luny. Pozostałe próbki pozostają oznaczone jako kampania; pusta lista nie dowodzi braku wypowiedzi w kanonie. Przy postaci sprawdzaj wszystkie jej wpisy głosu.
+
+Każdy wzorzec ma autora, tytuł i tom (`work`), język, dosłowne urywki (`fragments`), odsyłacz i sekcję oficjalnej publikacji (`source`), zakres weryfikacji, etap życia, kontekst, interpretację i ograniczenia. Cytaty zweryfikowano w oficjalnych przytoczeniach na HarryPotter.com, bez odczytu pełnych książek. Nie dopisano niezweryfikowanych numerów stron, rozdziałów ani polskiego wydania. Angielski oryginał nie jest cytatem z polskiego przekładu; polska analiza jest własnym omówieniem.
+
+Wzorzec książkowy jest punktem odniesienia dla charakteru i sposobu reagowania. Próbka kampanii zachowuje własny status, a dodany cytat nie potwierdza jej kanoniczności. `sources`, `period` i `as_of` nadal dotyczą wyłącznie próbki kampanii. Rok szkolny w `book_references.stage` jest osobnym wymiarem: ani filtr części archiwum, ani data sprawdzenia nie rozstrzygają dopasowania wzorca do sceny. Przy `--at` sprawdź etap książkowy osobno. Cytat nie jest zdarzeniem kampanii ani wiadomością otrzymaną przez NPC.
+
+Dobieraj pasujący wiek, emocję i relację; nie odmładzaj postaci przez dawną próbkę i nie importuj wiedzy z przyszłych tomów. Nie kopiuj kwestii do scen ani nie rób z każdego bohatera autora ciętej riposty. Znana sytuacja, zwyczajna odpowiedź lub cisza nadal mogą wystarczyć. W razie różnicy między książką a filmem oznacz medium i stosuj uzgodniony kanon książkowy, z zachowaniem jawnych odstępstw kampanii.
+
+Walidator sprawdza strukturę i spójność zapisanych danych, a nie ponownie treść witryn. Potwierdzenie cytatu w źródle jest osobnym krokiem redakcyjnym. Zapisuj tylko krótkie fragmenty potrzebne do analizy; nie buduj zbioru długich ustępów.

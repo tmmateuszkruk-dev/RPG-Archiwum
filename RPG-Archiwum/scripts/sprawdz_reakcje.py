@@ -2,6 +2,8 @@
 """Sprawdza źródła i integralność modelu reakcji; nie ocenia jakości narracji."""
 from pathlib import Path
 import hashlib,json,re
+from collections import defaultdict
+from urllib.parse import urlparse
 
 ROOT=Path(__file__).resolve().parents[1]
 def blob(raw):
@@ -20,6 +22,8 @@ def validate(root=ROOT):
     assert model['metadata']['characters']==len(cards)
     order=lambda s:tuple(map(int,re.findall(r'\d+',s)))
     seen=set()
+    book_ids=set()
+    book_fragments=defaultdict(set)
     for kind in ['conversation','beliefs','voice']:
         for entry in model[kind]:
             assert entry['id'] not in seen,entry['id'];seen.add(entry['id'])
@@ -30,6 +34,20 @@ def validate(root=ROOT):
             if kind=='voice':
                 assert entry['quote'] in messages[entry['sources'][0]],entry['id']
                 assert entry['status']=='PRÓBKA_KAMPANII' and entry['context'] and entry['limits']
+                for sample in entry.get('book_references',[]):
+                    assert sample['id'] not in book_ids,sample['id'];book_ids.add(sample['id'])
+                    assert sample['kind']=='CYTAT_KSIĄŻKOWY'
+                    assert sample['character'] in entry['characters']
+                    assert sample['language'] and sample['stage'] and sample['context'] and sample['analysis'] and sample['limits']
+                    assert sample['work']['author'] and sample['work']['title'] and sample['work']['volume']>0
+                    assert sample['fragments'] and all(isinstance(q,str) and q.strip() for q in sample['fragments'])
+                    assert sample['translation_note'] and sample['verification']['method']
+                    assert re.fullmatch(r'\d{4}-\d{2}-\d{2}',sample['verification']['verified_on'])
+                    assert sample['source']['title'] and sample['source']['section']
+                    for url in [sample['source']['url']]+sample['source'].get('additional_urls',[]):
+                        parsed=urlparse(url)
+                        assert parsed.scheme=='https' and parsed.hostname=='www.harrypotter.com' and parsed.path.startswith('/features/'),url
+                    book_fragments[sample['work']['title']].update(sample['fragments'])
             elif kind=='beliefs':
                 assert entry['owner'] in entry['characters'] and set(entry['known_to'])<=set(cards)
                 assert entry['kind'] in ['WŁASNE_PRZEKONANIE','RELACJA_CUDZEJ_OPINII']
@@ -49,6 +67,9 @@ def validate(root=ROOT):
     for case in cases:
         for source in case['sources']:
             assert source['text'] in messages[source['id']],(case['id'],source['id'])
-    print(f'OK: {len(cards)} kart, {len(seen)} wpisów reakcji, {len(cases)} przypadków; źródła i wersje zgodne. Ocena zachowania jest osobna.')
+    # This project's small quotation budget is a guard against accidental bulk imports.
+    # It does not replace editorial source verification or assess permissions.
+    assert all(sum(map(len,quotes))<90 for quotes in book_fragments.values())
+    print(f'OK: {len(cards)} kart, {len(seen)} wpisów reakcji, {len(book_ids)} wzorców książkowych, {len(cases)} przypadków; wersje zgodne. Cytaty internetowe sprawdzane osobno.')
 
 if __name__=='__main__':validate()

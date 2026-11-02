@@ -16,17 +16,17 @@
     ],
     "messages": 13778,
     "bytes": 8670160,
-    "content_revision": "1f1be0e6f5f54aa329e942b0193ddf2875469de539e234b23cacbdfe649e3c04",
+    "content_revision": "e2d5e270c90eae7789c1c25a92a5687cd1748e4e35fddac2ee68b1d9e6f91e9c",
     "card_source_blobs": {
       "06_PAMIEC_POSTACI/karty/james-brown.md": "b5114f9dfe5e8d41b0a9387dbb4cf3313b9661bc",
-      "06_PAMIEC_POSTACI/karty/hermiona-granger.md": "c11c02a75ab4a84183db3a67b136c2d652159776",
+      "06_PAMIEC_POSTACI/karty/hermiona-granger.md": "c43f820f674ad77ef78d6cd71822bfc96011ef02",
       "06_PAMIEC_POSTACI/karty/theodore-nott.md": "6f5f099571ca96f93980e203c093d03bb71b6610",
       "06_PAMIEC_POSTACI/karty/draco-malfoy.md": "a0f7a40cecd8270eb22ad408ee1532895f32912f",
       "06_PAMIEC_POSTACI/karty/pansy-parkinson.md": "0fbedbddeef5281d60e4fce1a2c061a8dbcbddff",
-      "06_PAMIEC_POSTACI/karty/harry-potter.md": "b2364fd9c9d76a0f4e304e6e6319d445e0031ac9",
-      "06_PAMIEC_POSTACI/karty/ron-weasley.md": "c6455a179fa80662a87a491b6513694f055da5e4",
-      "06_PAMIEC_POSTACI/karty/ginny-weasley.md": "42585d7477355403eb83116028c7656db6a666e3",
-      "06_PAMIEC_POSTACI/karty/luna-lovegood.md": "a8326ef17e4975acc14c510e4815925932aeb4cc",
+      "06_PAMIEC_POSTACI/karty/harry-potter.md": "9c8b26b1752059e0da2d3feeae18a272d2fb921a",
+      "06_PAMIEC_POSTACI/karty/ron-weasley.md": "2cd169f27c8ed5e95d238a3688c499ad1e1c79db",
+      "06_PAMIEC_POSTACI/karty/ginny-weasley.md": "a1fb7312354fc73644274c1438e602ce608d7715",
+      "06_PAMIEC_POSTACI/karty/luna-lovegood.md": "b62c07bc15635ec01c2114893c1baa1ccd4f2b13",
       "06_PAMIEC_POSTACI/karty/viktor-krum.md": "9bf4baf7e2c49ec8798f89271228c97f3f0a5690",
       "06_PAMIEC_POSTACI/karty/elodie-moreau.md": "388ac4be866c0b9fc5f7e93f3217ebca1104f3e1",
       "06_PAMIEC_POSTACI/karty/aleksiej.md": "7e832d0243cf5077738a6c80efc0d898e53be4ec",
@@ -152,7 +152,7 @@
     },
     "reaction_source": {
       "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-      "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+      "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
     }
   },
   "cards": [
@@ -6457,9 +6457,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [
           {
             "id": "rozmowa-krum-charakter",
@@ -13442,14 +13442,14 @@
       "mention_count": 6307,
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/hermiona-granger.md",
-        "blob_sha": "c11c02a75ab4a84183db3a67b136c2d652159776"
+        "blob_sha": "c43f820f674ad77ef78d6cd71822bfc96011ef02"
       },
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": [
@@ -13475,7 +13475,85 @@
             "status": "PRÓBKA_KAMPANII",
             "summary": "Potrafi jasno się sprzeciwić, zachowując bliskość. Odróżnia przekonanie Jamesa od wiedzy o Ginny.",
             "period": "C14",
-            "as_of": "C14-M0228"
+            "as_of": "C14-M0228",
+            "book_references": [
+              {
+                "id": "kanon-hermiona-sprzeciw",
+                "character": "hermiona-granger",
+                "kind": "CYTAT_KSIĄŻKOWY",
+                "work": {
+                  "author": "J.K. Rowling",
+                  "title": "Harry Potter and the Goblet of Fire",
+                  "volume": 4
+                },
+                "language": "en",
+                "fragments": [
+                  "Oh, well spotted"
+                ],
+                "translation_note": "Oryginał angielski przytoczony na oficjalnej stronie. Polski opis jest analizą, nie cytatem z polskiego przekładu.",
+                "source": {
+                  "url": "https://www.harrypotter.com/features/ron-and-hermiones-top-ten-wittiest-tiffs",
+                  "title": "Ron and Hermione's top ten wittiest tiffs",
+                  "section": "5: When Ron discovered Hermione was a girl…",
+                  "additional_urls": []
+                },
+                "verification": {
+                  "method": "Sprawdzenie cytatu i otoczenia w oficjalnej publikacji fragmentu; bez odczytu pełnej książki.",
+                  "verified_on": "2026-11-02",
+                  "chapter": null,
+                  "page": null,
+                  "edition": null
+                },
+                "stage": "IV rok Hermiony; rozmowa związana z Balem Bożonarodzeniowym.",
+                "context": "Ron spóźnionym spostrzeżeniem prowokuje krótką, cierpką odpowiedź Hermiony.",
+                "analysis": [
+                  "Interpretacja: potrafi odpowiedzieć zwięźle i uszczypliwie, gdy czuje się traktowana protekcjonalnie.",
+                  "Nie musi najpierw objaśniać rozmówcy wszystkich swoich emocji."
+                ],
+                "limits": [
+                  "Nie zmieniaj każdej odpowiedzi w sarkazm. To reakcja na konkretną niezręczność, nie stały ton wobec bliskich.",
+                  "Książkowa relacja z Ronem nie zastępuje relacji ustalonej w kampanii."
+                ]
+              },
+              {
+                "id": "kanon-hermiona-troska",
+                "character": "hermiona-granger",
+                "kind": "CYTAT_KSIĄŻKOWY",
+                "work": {
+                  "author": "J.K. Rowling",
+                  "title": "Harry Potter and the Philosopher's Stone",
+                  "volume": 1
+                },
+                "language": "en",
+                "fragments": [
+                  "oh Harry – be careful!"
+                ],
+                "translation_note": "Oryginał angielski przytoczony na oficjalnej stronie. Polski opis jest analizą, nie cytatem z polskiego przekładu.",
+                "source": {
+                  "url": "https://www.harrypotter.com/features/hermiones-best-moments",
+                  "title": "Ranked: Hermione Granger's most impressive moments",
+                  "section": "7. Setting up SPEW — cytat podpisany nazwą pierwszego tomu",
+                  "additional_urls": []
+                },
+                "verification": {
+                  "method": "Sprawdzenie cytatu i otoczenia w oficjalnej publikacji fragmentu; bez odczytu pełnej książki.",
+                  "verified_on": "2026-11-02",
+                  "chapter": null,
+                  "page": null,
+                  "edition": null
+                },
+                "stage": "I rok Hermiony; wcześniejszy etap niż bieżąca kampania.",
+                "context": "Końcowy fragment wypowiedzi o przyjaźni i odwadze, zwrócony do zagrożonego Harry’ego.",
+                "analysis": [
+                  "Interpretacja: troska może skrócić wypowiedź do bezpośredniej prośby.",
+                  "Dbałość o wiedzę nie wyklucza silnej, spontanicznej reakcji na los przyjaciela."
+                ],
+                "limits": [
+                  "Nie odmładzaj obecnej Hermiony do pierwszego roku. Porównaj z aktualną kartą i doświadczeniami.",
+                  "To fragment dłuższej wypowiedzi, nie dowód, że Hermiona zawsze mówi krótko."
+                ]
+              }
+            ]
           },
           {
             "id": "glos-hermiona-granger-2",
@@ -13499,7 +13577,8 @@
             "status": "PRÓBKA_KAMPANII",
             "summary": "Ma własne zajęcie podczas czekania. Praktyczny konkret może oddać jej charakter.",
             "period": "C14",
-            "as_of": "C14-M0198"
+            "as_of": "C14-M0198",
+            "book_references": []
           },
           {
             "id": "glos-hermiona-granger-3",
@@ -13522,7 +13601,8 @@
             "status": "PRÓBKA_KAMPANII",
             "summary": "Rozpoznaje zachowanie Jamesa jako znane.",
             "period": "C8",
-            "as_of": "C8-M0740"
+            "as_of": "C8-M0740",
+            "book_references": []
           }
         ]
       }
@@ -14782,9 +14862,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -16203,9 +16283,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -17168,9 +17248,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -18764,14 +18844,14 @@
       "mention_count": 1414,
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/harry-potter.md",
-        "blob_sha": "b2364fd9c9d76a0f4e304e6e6319d445e0031ac9"
+        "blob_sha": "9c8b26b1752059e0da2d3feeae18a272d2fb921a"
       },
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": [
@@ -18795,7 +18875,50 @@
             "status": "PRÓBKA_KAMPANII",
             "summary": "Krótka, bezpośrednia interwencja osoby prowadzącej zajęcia.",
             "period": "C13",
-            "as_of": "C13-M0966"
+            "as_of": "C13-M0966",
+            "book_references": [
+              {
+                "id": "kanon-harry-granica",
+                "character": "harry-potter",
+                "kind": "CYTAT_KSIĄŻKOWY",
+                "work": {
+                  "author": "J.K. Rowling",
+                  "title": "Harry Potter and the Goblet of Fire",
+                  "volume": 4
+                },
+                "language": "en",
+                "fragments": [
+                  "Yeah, you can have a word",
+                  "Goodbye."
+                ],
+                "translation_note": "Oryginał angielski przytoczony na oficjalnej stronie. Polski opis jest analizą, nie cytatem z polskiego przekładu.",
+                "source": {
+                  "url": "https://www.harrypotter.com/features/ten-satisfying-moments-when-wizarding-folk-got-their-comeuppance",
+                  "title": "Ten satisfying moments when wizarding folk got their comeuppance",
+                  "section": "That time Harry was sassy with Rita Skeeter...",
+                  "additional_urls": [
+                    "https://www.harrypotter.com/features/sassy-comebacks-harry-potter"
+                  ]
+                },
+                "verification": {
+                  "method": "Sprawdzenie cytatu i otoczenia w oficjalnej publikacji fragmentu; bez odczytu pełnej książki.",
+                  "verified_on": "2026-11-02",
+                  "chapter": null,
+                  "page": null,
+                  "edition": null
+                },
+                "stage": "IV rok Harry’ego; po pierwszym zadaniu Turnieju Trójmagicznego.",
+                "context": "Rita zabiega o komentarz po starciu ze smokiem. Harry ucina kontakt. Dwa urywki tej samej kwestii rozdziela w źródle narracja.",
+                "analysis": [
+                  "Interpretacja: złość i niechęć do rozmówcy mogą ujawnić się przez krótki dowcip słowny, a potem zakończenie rozmowy.",
+                  "Zwięzłość może być postawieniem granicy, nie zaproszeniem do kolejnych pytań."
+                ],
+                "limits": [
+                  "Nie przenoś wrogości wobec Rity na każdego rozmówcę.",
+                  "Nie sklejaj oddzielnych urywków w rzekomy ciągły cytat."
+                ]
+              }
+            ]
           }
         ]
       }
@@ -20237,14 +20360,14 @@
       "mention_count": 1318,
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/ron-weasley.md",
-        "blob_sha": "c6455a179fa80662a87a491b6513694f055da5e4"
+        "blob_sha": "2cd169f27c8ed5e95d238a3688c499ad1e1c79db"
       },
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": [
@@ -20268,7 +20391,47 @@
             "status": "PRÓBKA_KAMPANII",
             "summary": "Reaguje konkretnie na naruszenie zasad ćwiczenia.",
             "period": "C13",
-            "as_of": "C13-M0966"
+            "as_of": "C13-M0966",
+            "book_references": [
+              {
+                "id": "kanon-ron-zart",
+                "character": "ron-weasley",
+                "kind": "CYTAT_KSIĄŻKOWY",
+                "work": {
+                  "author": "J.K. Rowling",
+                  "title": "Harry Potter and the Prisoner of Azkaban",
+                  "volume": 3
+                },
+                "language": "en",
+                "fragments": [
+                  "Oh, yeah, I borrowed it for a bit of bedtime reading"
+                ],
+                "translation_note": "Oryginał angielski przytoczony na oficjalnej stronie. Polski opis jest analizą, nie cytatem z polskiego przekładu.",
+                "source": {
+                  "url": "https://www.harrypotter.com/features/rons-funniest-one-liners-and-greatest-comebacks",
+                  "title": "Ron’s funniest one-liners and greatest comebacks",
+                  "section": "When he tried to out-Hermione Hermione",
+                  "additional_urls": []
+                },
+                "verification": {
+                  "method": "Sprawdzenie cytatu i otoczenia w oficjalnej publikacji fragmentu; bez odczytu pełnej książki.",
+                  "verified_on": "2026-11-02",
+                  "chapter": null,
+                  "page": null,
+                  "edition": null
+                },
+                "stage": "III rok Rona; szkolna rozmowa z przyjaciółmi.",
+                "context": "Hermiona szuka wymagającego podręcznika; Ron rzuca cicho żart o własnej lekturze.",
+                "analysis": [
+                  "Interpretacja: używa zwyczajnego języka i kontrastu między sytuacją a nieprawdopodobnym wyjaśnieniem.",
+                  "Sposób podania ma znaczenie: żart pada cicho, nie jako występ dla całego otoczenia."
+                ],
+                "limits": [
+                  "Nie rób z Rona wyłącznie komicznego komentatora ani osoby niezdolnej do powagi.",
+                  "Nie odtwarzaj III roku jako aktualnego wieku."
+                ]
+              }
+            ]
           }
         ]
       }
@@ -20970,14 +21133,14 @@
       "mention_count": 575,
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/ginny-weasley.md",
-        "blob_sha": "42585d7477355403eb83116028c7656db6a666e3"
+        "blob_sha": "a1fb7312354fc73644274c1438e602ce608d7715"
       },
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": [
@@ -21002,7 +21165,47 @@
             "status": "PRÓBKA_KAMPANII",
             "summary": "Żart ma konkretną podstawę w znanym wydarzeniu.",
             "period": "C13",
-            "as_of": "C13-M0718"
+            "as_of": "C13-M0718",
+            "book_references": [
+              {
+                "id": "kanon-ginny-pamiec",
+                "character": "ginny-weasley",
+                "kind": "CYTAT_KSIĄŻKOWY",
+                "work": {
+                  "author": "J.K. Rowling",
+                  "title": "Harry Potter and the Order of the Phoenix",
+                  "volume": 5
+                },
+                "language": "en",
+                "fragments": [
+                  "Lucky you"
+                ],
+                "translation_note": "Oryginał angielski przytoczony na oficjalnej stronie. Polski opis jest analizą, nie cytatem z polskiego przekładu.",
+                "source": {
+                  "url": "https://www.harrypotter.com/features/seven-times-ginny-was-sassiest-witch-around",
+                  "title": "Seven times Ginny Weasley was the sassiest witch around",
+                  "section": "That time she reminded Harry that he wasn’t the only one who’d faced Voldemort …",
+                  "additional_urls": []
+                },
+                "verification": {
+                  "method": "Sprawdzenie cytatu i otoczenia w oficjalnej publikacji fragmentu; bez odczytu pełnej książki.",
+                  "verified_on": "2026-11-02",
+                  "chapter": null,
+                  "page": null,
+                  "edition": null
+                },
+                "stage": "IV rok Ginny, V rok Harry’ego; rozmowa o doświadczeniu opętania.",
+                "context": "Harry przyznaje, że zapomniał o jej doświadczeniu. Ginny odpowiada chłodno i bardzo krótko.",
+                "analysis": [
+                  "Interpretacja: krótka uwaga może nieść ciężar znanej przeszłości bez opowiadania jej od początku.",
+                  "Ginny potrafi postawić granicę i upomnieć się o własne doświadczenie."
+                ],
+                "limits": [
+                  "Nie traktuj tego jako beztroskiego żartu ani nakazu ciągłego przywoływania traumy.",
+                  "Wspomnienie z książki wymaga zgodności z chronologią tej kampanii; sama próbka nie nadaje wiedzy świadkom."
+                ]
+              }
+            ]
           },
           {
             "id": "glos-ginny-weasley-2",
@@ -21024,7 +21227,8 @@
             "status": "PRÓBKA_KAMPANII",
             "summary": "Proponuje własne rozwiązanie z zaczepnym podtekstem.",
             "period": "C13",
-            "as_of": "C13-M0948"
+            "as_of": "C13-M0948",
+            "book_references": []
           }
         ]
       }
@@ -21412,14 +21616,14 @@
       "mention_count": 311,
       "card_source": {
         "path": "06_PAMIEC_POSTACI/karty/luna-lovegood.md",
-        "blob_sha": "a8326ef17e4975acc14c510e4815925932aeb4cc"
+        "blob_sha": "b62c07bc15635ec01c2114893c1baa1ccd4f2b13"
       },
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": [
@@ -21444,7 +21648,47 @@
             "status": "PRÓBKA_KAMPANII",
             "summary": "Spokojny, nieoczywisty humor po konkretnym wyjaśnieniu źródła informacji.",
             "period": "C5",
-            "as_of": "C5-M0578"
+            "as_of": "C5-M0578",
+            "book_references": [
+              {
+                "id": "kanon-luna-uspokojenie",
+                "character": "luna-lovegood",
+                "kind": "CYTAT_KSIĄŻKOWY",
+                "work": {
+                  "author": "J.K. Rowling",
+                  "title": "Harry Potter and the Order of the Phoenix",
+                  "volume": 5
+                },
+                "language": "en",
+                "fragments": [
+                  "You’re not going mad or anything. I can see them, too."
+                ],
+                "translation_note": "Oryginał angielski przytoczony na oficjalnej stronie. Polski opis jest analizą, nie cytatem z polskiego przekładu.",
+                "source": {
+                  "url": "https://www.harrypotter.com/features/stray-thoughts-when-characters-see-thestrals",
+                  "title": "Stray thoughts: when did characters first start seeing Thestrals?",
+                  "section": "Początkowy cytat o rozmowie przy powozach",
+                  "additional_urls": []
+                },
+                "verification": {
+                  "method": "Sprawdzenie cytatu i otoczenia w oficjalnej publikacji fragmentu; bez odczytu pełnej książki.",
+                  "verified_on": "2026-11-02",
+                  "chapter": null,
+                  "page": null,
+                  "edition": null
+                },
+                "stage": "IV rok Luny, początek V roku Harry’ego.",
+                "context": "Przy powozach Luna uspokaja Harry’ego, potwierdzając, że także widzi testrale.",
+                "analysis": [
+                  "Interpretacja: może bezpośrednio zauważyć czyjś niepokój i spokojnie podać konkretną informację.",
+                  "Jej odmienność nie wymaga zagadki, metafory ani wzmianki o niezwykłym stworzeniu w każdej odpowiedzi."
+                ],
+                "limits": [
+                  "To obserwacja dostępna Lunie w tej sytuacji, nie wszechwiedza o emocjach i sekretach innych.",
+                  "Przykład szkolnej Luny nie ustala wieku ani małżeńskiej relacji w odrębnej kampanii."
+                ]
+              }
+            ]
           }
         ]
       }
@@ -21767,9 +22011,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -22040,9 +22284,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -22090,9 +22334,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -22621,9 +22865,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -22989,9 +23233,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -23397,9 +23641,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -23621,9 +23865,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -23941,9 +24185,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -24206,9 +24450,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -24681,9 +24925,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -25134,9 +25378,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -25209,9 +25453,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -25282,9 +25526,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -25427,9 +25671,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -25554,9 +25798,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -25629,9 +25873,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -25682,9 +25926,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -25796,9 +26040,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -25908,9 +26152,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -25989,9 +26233,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -26043,9 +26287,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -26099,9 +26343,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -26146,9 +26390,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -26350,9 +26594,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": [
@@ -26378,7 +26622,8 @@
             "status": "PRÓBKA_KAMPANII",
             "summary": "Rozpoznaje powtarzającą się sytuację. Zachowuje zainteresowanie wejściem i hasłem.",
             "period": "C14",
-            "as_of": "C14-M0314"
+            "as_of": "C14-M0314",
+            "book_references": []
           }
         ]
       }
@@ -26629,9 +26874,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -26739,9 +26984,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -26801,9 +27046,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -26856,9 +27101,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -26898,9 +27143,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -26965,9 +27210,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -27134,9 +27379,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -27182,9 +27427,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -27269,9 +27514,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -27317,9 +27562,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -27428,9 +27673,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -27534,9 +27779,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -27805,9 +28050,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [
           {
             "id": "rozmowa-krum-charakter",
@@ -27967,7 +28212,8 @@
             "status": "PRÓBKA_KAMPANII",
             "summary": "Potrafi zawahać się i nie mieć gotowego stanowiska.",
             "period": "C14",
-            "as_of": "C14-M0700"
+            "as_of": "C14-M0700",
+            "book_references": []
           }
         ]
       }
@@ -28229,9 +28475,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [
           {
             "id": "rozmowa-krum-charakter",
@@ -28343,7 +28589,8 @@
             "status": "PRÓBKA_KAMPANII",
             "summary": "Ma własny cel związany z domem i Amelią. Nie sprowadza rozmowy wyłącznie do Jamesa.",
             "period": "C14",
-            "as_of": "C14-M0700"
+            "as_of": "C14-M0700",
+            "book_references": []
           },
           {
             "id": "glos-graham-pritchard-2",
@@ -28365,7 +28612,8 @@
             "status": "PRÓBKA_KAMPANII",
             "summary": "Potrafi zaproponować zwyczajne wspólne zajęcie.",
             "period": "C14",
-            "as_of": "C14-M0704"
+            "as_of": "C14-M0704",
+            "book_references": []
           }
         ]
       }
@@ -28461,9 +28709,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -28553,9 +28801,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -28689,9 +28937,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -28767,9 +29015,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -28857,9 +29105,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -28908,9 +29156,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -28953,9 +29201,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -29006,9 +29254,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -29061,9 +29309,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -29119,9 +29367,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -29174,9 +29422,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -29225,9 +29473,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -29332,9 +29580,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -29395,9 +29643,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -29445,9 +29693,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -29485,9 +29733,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -29529,9 +29777,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -29591,9 +29839,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -29690,9 +29938,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -29753,9 +30001,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -29807,9 +30055,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -29851,9 +30099,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -29893,9 +30141,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -29934,9 +30182,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -29997,9 +30245,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -30046,9 +30294,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -30091,9 +30339,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -30132,9 +30380,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -30176,9 +30424,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -30216,9 +30464,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -30264,9 +30512,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -30304,9 +30552,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -30376,9 +30624,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -30416,9 +30664,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -30456,9 +30704,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -30507,9 +30755,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -30556,9 +30804,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -30605,9 +30853,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -30647,9 +30895,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -30699,9 +30947,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -30746,9 +30994,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -30790,9 +31038,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -30832,9 +31080,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -30874,9 +31122,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -30916,9 +31164,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -30958,9 +31206,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31000,9 +31248,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31042,9 +31290,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31084,9 +31332,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31126,9 +31374,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31168,9 +31416,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31210,9 +31458,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31252,9 +31500,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31292,9 +31540,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31334,9 +31582,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31376,9 +31624,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31416,9 +31664,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31456,9 +31704,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31502,9 +31750,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31535,9 +31783,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31565,9 +31813,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31595,9 +31843,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31627,9 +31875,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31680,9 +31928,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31723,9 +31971,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31754,9 +32002,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31785,9 +32033,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31828,9 +32076,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31877,9 +32125,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -31919,9 +32167,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -32019,9 +32267,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -32059,9 +32307,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -32278,9 +32526,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [
           {
             "id": "rozmowa-krum-charakter",
@@ -32569,9 +32817,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [
           {
             "id": "rozmowa-wojna-odlozona",
@@ -32805,9 +33053,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [
           {
             "id": "rozmowa-krum-charakter",
@@ -33010,9 +33258,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [
           {
             "id": "rozmowa-wojna-odlozona",
@@ -33220,9 +33468,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [
           {
             "id": "rozmowa-krum-charakter",
@@ -33317,7 +33565,8 @@
             "status": "PRÓBKA_KAMPANII",
             "summary": "Zwraca uwagę na znany fakt zamiast wzmacniać sensację.",
             "period": "C14",
-            "as_of": "C14-M0692"
+            "as_of": "C14-M0692",
+            "book_references": []
           }
         ]
       }
@@ -33433,9 +33682,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -33548,9 +33797,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -33685,9 +33934,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -33889,9 +34138,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [
           {
             "id": "rozmowa-krum-charakter",
@@ -34018,9 +34267,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -34079,9 +34328,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
@@ -34127,9 +34376,9 @@
       "reaction_state": {
         "source": {
           "path": "06_PAMIEC_POSTACI/model_reakcji.json",
-          "blob_sha": "b5dd832eef4fc41dff6818b13aa915cf4f1d02fc"
+          "blob_sha": "a0a731a19e52bbc9cc079b822b29c1bf0c246f4d"
         },
-        "coverage": "Opracowane wpisy z podanych scen. Brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki są przykładami kampanii, nie niezależną weryfikacją kanonu.",
+        "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
         "conversation": [],
         "beliefs": [],
         "voice": []
