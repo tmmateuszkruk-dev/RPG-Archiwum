@@ -3,7 +3,7 @@
   "default_branch": "main",
   "base_path": "RPG-Archiwum",
   "raw_base": "https://raw.githubusercontent.com/tmmateuszkruk-dev/RPG-Archiwum/refs/heads/main/RPG-Archiwum/",
-  "state": "C14-M0704",
+  "state": "C15-M1350",
   "paths": {
     "current": "02_PLIKI_AKTYWNE/08_CURRENT.md",
     "rules": "02_PLIKI_AKTYWNE/10_ZASADY_I_CIAGLOSC.md",
@@ -14,6 +14,9 @@
     "memory_metadata": "06_PAMIEC_POSTACI/metryka.json",
     "reaction_model": "06_PAMIEC_POSTACI/model_reakcji.json",
     "reaction_model_guide": "06_PAMIEC_POSTACI/MODEL_REAKCJI.md",
-    "behavior_checks": "07_SPRAWDZIANY"
+    "behavior_checks": "07_SPRAWDZIANY",
+    "c15_mapping": "03_INDEKS/MAPOWANIE_C15.json",
+    "c15_notes": "04_BAZA_PELNA/AKTUALIZACJA_C15.md",
+    "c15_index": "06_PAMIEC_POSTACI/INDEKS_WZMIANEK_C15.json"
   }
 }

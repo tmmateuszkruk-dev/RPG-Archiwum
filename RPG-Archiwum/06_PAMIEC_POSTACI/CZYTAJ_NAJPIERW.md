@@ -1,3 +1,7 @@
+# Pamięć C1–C15 — zaktualizowana
+
+Stan: C15-M1350, 21 VI 1996, godz. 17:43. Wszystkie historyczne 131 kart zachowano. Karty 20 istotnych postaci i uporządkowana pamięć JSON zawierają nowe potwierdzone fakty, a model reakcji uwzględnia zamknięcie starego pytania Grahama i otwarte pytanie Malcolma. Późniejsza korekta daty urodzin Jamesa na 1 stycznia i jego wieku 17 lat pozostaje nadrzędna. Indeks wzmianek C1–C14 ma 13778 wiadomości; nowe 1350 wiadomości w osobnym indeksie C15. Zbieżność imienia nie oznacza obecności ani wiedzy. Strona archiwum wymaga osobnego opublikowania.
+
 # Pamięć C1–C14
 
 131 kart; stan C14-M0704. Zachowano starsze fakty. C14 ma 704 wiadomości i 0 luk eksportu; sprawdź korekty i źródło, szczególnie odrzucone M0276.

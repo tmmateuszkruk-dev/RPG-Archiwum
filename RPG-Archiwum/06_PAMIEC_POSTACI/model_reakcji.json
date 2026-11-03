@@ -2,9 +2,9 @@
   "metadata": {
     "schema_version": 2,
     "campaign": "hogwarts-james-hermiona",
-    "cutoff": "C14-M0704",
+    "cutoff": "C15-M1350",
     "source_commit": "cfaf3860156640293b8a7a5736e0d319b6592db8",
-    "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci.",
+    "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci. Przyrost C15: rozstrzygnięcie odpowiedzi Grahamowi, plan Sylwestra niepotwierdzony, otwarta propozycja regularnej grupy.",
     "characters": 131,
     "player": "james-brown"
   },
@@ -70,14 +70,15 @@
         "laura-madley",
         "rose-zeller"
       ],
-      "status": "PLAN",
-      "summary": "Padły propozycje gier, życzeń i zaproszenia innych. Laura przypomniała o pozwoleniu, Eleanor zaproponowała zapytanie Sprout. Nie uzyskano jeszcze zgody ani nie zorganizowano spotkania.",
+      "status": "NIEPOTWIERDZONE",
+      "summary": "Spotkanie sylwestrowe pozostaje planem, bez widocznej zgody Sprout i wykonanej sceny.",
       "sources": [
-        "C14-M0704"
+        "C14-M0704",
+        "C15-M0004"
       ],
       "pending": "Decyzje uczestników i ewentualne uzyskanie pozwolenia.",
       "return_condition": "Dalsze ustalenia lub wykonanie planu.",
-      "as_of": "C14-M0704"
+      "as_of": "C15-M0004"
     },
     {
       "id": "rozmowa-zostajesz-na-nowy-rok",
@@ -86,14 +87,37 @@
         "graham-pritchard",
         "james-brown"
       ],
-      "status": "OTWARTE",
-      "summary": "Ostatnie pytanie dotyczy pozostania Jamesa w Hogwarcie na Nowy Rok. Odpowiedź należy do gracza. Nie dopisywać jej z wcześniejszych planów ani sugestii interfejsu.",
+      "status": "ODPOWIEDZIANE",
+      "summary": "James odpowiedział Grahamowi, że pozostaje w Hogwarcie na Nowy Rok. To nie ustala wykonania przyjęcia sylwestrowego.",
       "sources": [
-        "C14-M0704"
+        "C14-M0704",
+        "C15-M0003",
+        "C15-M0004"
       ],
-      "pending": "Odpowiedź lub działanie Jamesa.",
+      "pending": "Brak oczekującej odpowiedzi",
       "return_condition": "Nie ponawiaj automatycznie pytania; daj graczowi turę.",
-      "as_of": "C14-M0704"
+      "as_of": "C15-M0004"
+    },
+    {
+      "id": "regularne-spotkania-C15",
+      "title": "Propozycja Malcolma: regularne spotkania między domami",
+      "characters": [
+        "james-brown",
+        "hermiona-granger",
+        "malcolm-baddock",
+        "orla-quirke",
+        "dennis-creevey",
+        "eleanor-branstone"
+      ],
+      "status": "OTWARTE",
+      "summary": "Malcolm chce spotkań przy szachach i nauce, Orla woli mały początek, Eleanor otwartość na domy, Hermiona sugeruje zgodę nauczyciela. James zgodził się wysłuchać planu, nie odpowiedział jeszcze na pytanie o uczestnictwo.",
+      "sources": [
+        "C15-M1349",
+        "C15-M1350"
+      ],
+      "pending": "Odpowiedź lub decyzja Jamesa, wyłącznie użytkownika; brak sali, zgody i harmonogramu.",
+      "return_condition": "Dalsza rozmowa z inicjatywy gracza lub rzeczywistych NPC.",
+      "as_of": "C15-M1350"
     }
   ],
   "beliefs": [
