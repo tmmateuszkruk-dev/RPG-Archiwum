@@ -1,3 +1,11 @@
+# NAJNOWSZY PRZYROST — C15-M1350
+
+Bieżący podział: 161 małych fragmentów po maksymalnie 100 wiadomości w 03_INDEKS/INDEKS_MALYCH_CZESCI.md. Starsze 76 fragmentów po 200 pozostaje historycznych.
+
+Pełne uzupełnienie C15: [AKTUALIZACJA_C15](AKTUALIZACJA_C15.md); bieżący CURRENT w 02_PLIKI_AKTYWNE/08_CURRENT.md. Treści poniższe zachowane historycznie, o ile nowa część lub późniejsza korekta nie zmienia konkretnego punktu.
+
+---
+
 # Indeks malych części — C1–C14
 
 13778 wiadomości, bez luk eksportu C14. Wersja do udostępniania; jawne pominięcia nie są brakami eksportu.

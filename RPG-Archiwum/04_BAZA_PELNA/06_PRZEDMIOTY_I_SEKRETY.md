@@ -1,3 +1,11 @@
+# NAJNOWSZY PRZYROST — C15-M1350
+
+Srebrna róża z walcem i mapa nieba **wręczone Hermionie 12 I**; motyl i notes **wręczone Lunie 13 I**. Starsze wzmianki o ich nieprzekazaniu są historyczne. C15-M0073–M0074, M0385–M0396.
+
+Pełne uzupełnienie C15: [AKTUALIZACJA_C15](AKTUALIZACJA_C15.md); bieżący CURRENT w 02_PLIKI_AKTYWNE/08_CURRENT.md. Treści poniższe zachowane historycznie, o ile nowa część lub późniejsza korekta nie zmienia konkretnego punktu.
+
+---
+
 # Uzupełnienie po odzyskaniu 89 odpowiedzi C14
 
 - Umbridge sprawdziła własne przybory Jamesa i oddała je do pisania, zachowała podpisane wyjaśnienia. Jej czarne pióro pozostało nieużyte i zostało schowane. Źródła: C14-M0124, C14-M0126, C14-M0130, C14-M0134.

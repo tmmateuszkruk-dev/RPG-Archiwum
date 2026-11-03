@@ -1,3 +1,11 @@
+# NAJNOWSZY PRZYROST — C15-M1350
+
+C15-M0341–M0342: wycofano nieuzasadnione ukończenie Durmstrangu przez Jamesa. C15-M0391–M0392: w scenie z Luną reszta grupy dołącza do stołu. C15-M0579–M0580: poprawiona reakcja Rona zastępuje starszą. C15-M0657–M0658: związek nie trwa dwóch miesięcy, lecz od 25 XII 1994. Nadrzędna korekta wieku Jamesa 17 lat / 1 I pozostaje. C15-M1349–M1350: gracz nie przyjął jeszcze propozycji Malcolma.
+
+Pełne uzupełnienie C15: [AKTUALIZACJA_C15](AKTUALIZACJA_C15.md); bieżący CURRENT w 02_PLIKI_AKTYWNE/08_CURRENT.md. Treści poniższe zachowane historycznie, o ile nowa część lub późniejsza korekta nie zmienia konkretnego punktu.
+
+---
+
 # Uzupełnienie po odzyskaniu 89 odpowiedzi C14
 
 - M0278 jednoznacznie unieważnia tylko M0276, odpowiedź na M0275. Archiwum przechowuje oba teksty; do pamięci zdarzeń trafia zamiennik. Wcześniejsza decyzja Hermiony o wyjeździe pozostaje. Źródła: C14-M0275, C14-M0276, C14-M0277, C14-M0278.

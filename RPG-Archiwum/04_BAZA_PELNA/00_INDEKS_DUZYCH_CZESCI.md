@@ -1,3 +1,11 @@
+# NAJNOWSZY PRZYROST — C15-M1350
+
+Najnowsze 15 dużych części w 03_INDEKS/INDEKS_DUZYCH_CZESCI.md; nowa C15 liczy 1350 wiadomości. Stare dane poniżej są historyczne.
+
+Pełne uzupełnienie C15: [AKTUALIZACJA_C15](AKTUALIZACJA_C15.md); bieżący CURRENT w 02_PLIKI_AKTYWNE/08_CURRENT.md. Treści poniższe zachowane historycznie, o ile nowa część lub późniejsza korekta nie zmienia konkretnego punktu.
+
+---
+
 # Indeks duzych części — C1–C14
 
 13778 wiadomości, bez luk eksportu C14. Wersja do udostępniania; jawne pominięcia nie są brakami eksportu.

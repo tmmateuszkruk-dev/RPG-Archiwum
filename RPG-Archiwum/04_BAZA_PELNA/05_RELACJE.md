@@ -1,3 +1,11 @@
+# NAJNOWSZY PRZYROST — C15-M1350
+
+Związek James–Hermiona trwa od 25 XII 1994 ponad rok; randka 27 IV zrealizowana. Nowa bójka z Draco w końcu lutego jest faktem C15 (w odróżnieniu od wcześniejszej C13 bez ciosu). Luna spotkała Grahama, Harry stracił Syriusza. C15-M0427–M0430, M0657–M0658, M0761–M0898, M0996–M1010.
+
+Pełne uzupełnienie C15: [AKTUALIZACJA_C15](AKTUALIZACJA_C15.md); bieżący CURRENT w 02_PLIKI_AKTYWNE/08_CURRENT.md. Treści poniższe zachowane historycznie, o ile nowa część lub późniejsza korekta nie zmienia konkretnego punktu.
+
+---
+
 # Uzupełnienie po odzyskaniu 89 odpowiedzi C14
 
 - Hermiona pamięta obiecaną randkę; ma pomysł i część przygotowań, ale nie ustala terminu. Przedświąteczne popołudnie nie zostało nazwane wykonaniem tej obietnicy. Źródła: C14-M0168, C14-M0222, C14-M0238, C14-M0240, C14-M0288, C14-M0306.

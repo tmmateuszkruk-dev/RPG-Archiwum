@@ -1,3 +1,11 @@
+# NAJNOWSZY PRZYROST — C15-M1350
+
+Chronologia C15: prezenty 12–13 I, wywiad 14 II, bójka z Draco 29 II, korekta związku 2 III, randka 27 IV, Departament Tajemnic 20 VI, rzeczywisty sen 20/21 VI, pytanie Malcolma 21 VI. Źródła C15-M0073–M0074, M0385–M0396, M0419–M0420, M0427–M0490, M0658, M0761–M0898, M0920–M1080, M1350.
+
+Pełne uzupełnienie C15: [AKTUALIZACJA_C15](AKTUALIZACJA_C15.md); bieżący CURRENT w 02_PLIKI_AKTYWNE/08_CURRENT.md. Treści poniższe zachowane historycznie, o ile nowa część lub późniejsza korekta nie zmienia konkretnego punktu.
+
+---
+
 # Uzupełnienie po odzyskaniu 89 odpowiedzi C14
 
 - Listopad: pokaz karmienia testrala i pytanie o lot; Hagrid proponuje lot w przyszłości, bez odbycia go na lekcji. Źródła: C14-M0096, C14-M0102.

@@ -1,3 +1,11 @@
+# NAJNOWSZY PRZYROST — C15-M1350
+
+Indeks aktualnego C15 znajduje się na początku 03_INDEKS/INDEKS_SCEN.md; szczegółowe mapowanie wszystkich 675 tur w 03_INDEKS/MAPOWANIE_C15.json. Stare sceny C1–C14 zachowano, obecny koniec to C15-M1350.
+
+Pełne uzupełnienie C15: [AKTUALIZACJA_C15](AKTUALIZACJA_C15.md); bieżący CURRENT w 02_PLIKI_AKTYWNE/08_CURRENT.md. Treści poniższe zachowane historycznie, o ile nowa część lub późniejsza korekta nie zmienia konkretnego punktu.
+
+---
+
 # Indeks scen C14
 
 Luki: [rejestr](../03_INDEKS/LUKI_C14.json). Cofnięte M0064–M0074 nie są kanonem; M0078 to obowiązująca odpowiedź.

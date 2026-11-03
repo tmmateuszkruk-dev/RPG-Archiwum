@@ -1,3 +1,11 @@
+# NAJNOWSZY PRZYROST — C15-M1350
+
+Bieżący profil Jamesa: **17 lat, urodziny 1 stycznia**, na podstawie późniejszej nadrzędnej korekty GitHub. Hermiona 16 lat, Draco autonomiczny i rywalizujący. Harry przeżywa śmierć Syriusza; młodsza grupa inicjuje własny plan. Najnowsze karty C15 w 06_PAMIEC_POSTACI/karty.
+
+Pełne uzupełnienie C15: [AKTUALIZACJA_C15](AKTUALIZACJA_C15.md); bieżący CURRENT w 02_PLIKI_AKTYWNE/08_CURRENT.md. Treści poniższe zachowane historycznie, o ile nowa część lub późniejsza korekta nie zmienia konkretnego punktu.
+
+---
+
 # Nadrzędna korekta bieżąca — James Brown
 
 - **Data urodzenia Jamesa:** 1 stycznia.

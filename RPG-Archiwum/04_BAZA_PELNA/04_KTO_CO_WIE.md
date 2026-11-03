@@ -1,3 +1,11 @@
+# NAJNOWSZY PRZYROST — C15-M1350
+
+Hermiona osobiście odebrała prezenty 12 I, Luna poznała Grahama i dostała motyla oraz notes 13 I. James nie uczestniczył w wywiadzie Rity 14 II. Uczestnicy walk w Departamencie Tajemnic poznają tylko własne fragmenty zdarzenia. C15-M0073–M0074, M0385–M0396, M0419–M0420, M0920–M1010.
+
+Pełne uzupełnienie C15: [AKTUALIZACJA_C15](AKTUALIZACJA_C15.md); bieżący CURRENT w 02_PLIKI_AKTYWNE/08_CURRENT.md. Treści poniższe zachowane historycznie, o ile nowa część lub późniejsza korekta nie zmienia konkretnego punktu.
+
+---
+
 # Uzupełnienie po odzyskaniu 89 odpowiedzi C14
 
 - James słyszy od Umbridge wersję o Imperiusie Lucjusza i brak potwierdzenia Veritaserum. Hermiona nie uczestniczy w szlabanie, więc nie zna automatycznie tych słów. Źródła: C14-M0150, C14-M0152, C14-M0158.

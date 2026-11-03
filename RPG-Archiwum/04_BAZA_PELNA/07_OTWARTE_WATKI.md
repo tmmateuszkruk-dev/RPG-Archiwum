@@ -1,3 +1,11 @@
+# NAJNOWSZY PRZYROST — C15-M1350
+
+Teraz oczekiwana odpowiedź Jamesa na propozycję Malcolma C15-M1350, bez ustalonej zgody nauczyciela czy harmonogramu. Skutki Ministerstwa i śmierci Syriusza nadal wpływają na postaci. Wykonane: wręczenia prezentów, spotkanie Luny z Grahamem, randka 27 IV; nie odgrywać ich od nowa.
+
+Pełne uzupełnienie C15: [AKTUALIZACJA_C15](AKTUALIZACJA_C15.md); bieżący CURRENT w 02_PLIKI_AKTYWNE/08_CURRENT.md. Treści poniższe zachowane historycznie, o ile nowa część lub późniejsza korekta nie zmienia konkretnego punktu.
+
+---
+
 # Uzupełnienie po odzyskaniu 89 odpowiedzi C14
 
 - Propozycja przyszłego lotu na testralu od Hagrida pozostaje propozycją. Randka przygotowywana przez Hermionę nadal bez daty i potwierdzonej realizacji. Źródła: C14-M0102, C14-M0168, C14-M0240, C14-M0304.
