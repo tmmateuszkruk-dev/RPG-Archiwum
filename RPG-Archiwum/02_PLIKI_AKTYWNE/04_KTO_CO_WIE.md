@@ -1,3 +1,16 @@
+# Kto co wie — przyrost C15
+
+- Hermiona osobiście widziała i otrzymała dwa prezenty od Jamesa 12 I. Wcześniejsze ich nieprzekazanie jest już historyczne; nie jest dowodem wiedzy innych przed tą chwilą. C15-M0073–M0074.
+- Luna 13 I poznała Grahama, otrzymała motyla i wspólny notes, a o Amelii dowiedziała się w zakresie opowieści Grahama. Nie zna z tego snów Jamesa ani szczegółów prywatnych rozmów. C15-M0385–M0396.
+- Wywiad z Ritą Skeeter 14 II znają bezpośredni uczestnicy, nie obecny gdzie indziej James. Późniejsza publikacja to inna droga zdobycia wiedzy. C15-M0419–M0420.
+- Draco, Pansy, Hermiona, Harry i McGonagall mają różne perspektywy nowej bójki w lutym; Snape słyszy informacje w ramach swoich działań. Nie przenosić poufnych motywów Jamesa na wszystkich świadków. C15-M0421–M0450.
+- W Departamencie Tajemnic uczestnicy widzą tylko własne fragmenty walki. Zgon Syriusza jest faktem, lecz nie każdy uczeń wie od razu, co się stało. Fudge widzi Voldemorta, nie oznacza to automatycznej znajomości każdej wymiany zdań. C15-M0920–M1010.
+- Pomfrey zna własne badania i rzeczywisty sen Jamesa, ale nie staje się posiadaczką wszystkich jego sekretów. C15-M1030–M1080.
+- Publiczna wypowiedź Jamesa o liczbie pokonanych przez Hermionę śmierciożerców nie stanowi niezależnego dowodu. C15-M1335–M1336.
+- 21 VI obecni przy rozmowie słyszą plan Malcolma; James nie odpowiedział jeszcze, czy w nim uczestniczy. C15-M1349–M1350.
+
+---
+
 # Uzupełnienie po odzyskaniu 89 odpowiedzi C14
 
 - James słyszy od Umbridge wersję o Imperiusie Lucjusza i brak potwierdzenia Veritaserum. Hermiona nie uczestniczy w szlabanie, więc nie zna automatycznie tych słów. Źródła: C14-M0150, C14-M0152, C14-M0158.

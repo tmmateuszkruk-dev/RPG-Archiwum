@@ -1,3 +1,13 @@
+# Otwarte wątki — C15-M1350
+
+- **Teraz kolej na Jamesa:** Malcolm pyta 21 VI o uczestnictwo w planowanych regularnych spotkaniach w kolejnym roku. Zgoda na przedstawienie pomysłu nie jest odpowiedzią na zaproszenie. Sala, pozwolenie nauczyciela i harmonogram nieustalone. C15-M1349–M1350.
+- Skutki walki w Departamencie Tajemnic: śmierć Syriusza i żałoba Harry'ego; reakcja Ministerstwa na publiczne pojawienie się Voldemorta; dalszy los uczestników — nie dopisuj rozstrzygnięć bez scen. C15-M0920–M1080.
+- Wyniki SUM-ów i wynik zakładu Hermiony z Jamesem: nie ma rozstrzygnięcia potwierdzonego C15, nie dopisuj ocen. C15-M0899–M0920.
+- Dawna sprawa krwawego pióra nie staje się zamknięta tylko przez upływ czasu.
+- **Zrealizowane, już nieotwarte:** odpowiedź Grahamowi o Nowym Roku; wręczenie Hermionie prezentów, Lunie motyla i notesu; spotkanie Luny z Grahamem; obiecana randka 27 IV. C15-M0003–M0004, M0073–M0074, M0385–M0396, M0761–M0898.
+
+---
+
 # Uzupełnienie po odzyskaniu 89 odpowiedzi C14
 
 - Propozycja przyszłego lotu na testralu od Hagrida pozostaje propozycją. Randka przygotowywana przez Hermionę nadal bez daty i potwierdzonej realizacji. Źródła: C14-M0102, C14-M0168, C14-M0240, C14-M0304.

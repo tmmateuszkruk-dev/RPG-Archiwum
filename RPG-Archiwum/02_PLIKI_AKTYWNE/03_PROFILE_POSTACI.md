@@ -1,3 +1,13 @@
+# Profile — C15 (przyrost, nie cofnięcie wieku)
+
+- James Brown: urodziny 1 stycznia, **17 lat**, zgodnie z nadrzędną nowszą korektą użytkownika w aktualnej karcie. V rok Slytherinu. Nadal ćwiczy i miewa trudności ze snem; rzeczywisty sen po Departamencie Tajemnic nie stanowi diagnozy wyleczenia. James należy wyłącznie do użytkownika. C15-M1079–M1080.
+- Hermiona Granger: 16 lat, prefektka Gryffindoru, z Jamesem od 25 XII 1994; organizuje własną randkę 27 IV i troszczy się o przyjaciół. Samodzielna także podczas niezgody na zachowanie Jamesa wobec Draco. C15-M0421–M0430, M0657–M0658, M0761–M0898.
+- Draco Malfoy: nowa bójka w lutym, w której po zatrzymaniu jego zaklęcia James go uderzył; nadal dumny, uprzedzony i konfliktowy. C15-M0421–M0430.
+- Harry: kieruje GD, w czerwcu traci Syriusza; Ron, Ginny, Neville i Luna mają własne doświadczenia Departamentu Tajemnic. Nie są wszechwiedzącą zbiorową postacią. C15-M0920–M1010.
+- Malcolm Baddock, Orla Quirke, Dennis Creevey, Eleanor Branstone: pod koniec C15 proponują różne warianty wspólnych spotkań; ich propozycja nie oznacza już uzyskanej zgody Jamesa. C15-M1350.
+
+---
+
 # Nadrzędna korekta bieżąca — James Brown
 
 - **Data urodzenia Jamesa:** 1 stycznia.

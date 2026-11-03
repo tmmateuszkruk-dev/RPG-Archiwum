@@ -1,3 +1,9 @@
+# BIEŻĄCY STAN C15 — C15-M1350
+
+21 VI 1996, piątek, około 17:43, Wielka Sala. Malcolm przedstawił plan regularnych spotkań grupy na kolejny rok i zapytał Jamesa o udział. James jeszcze nie odpowiedział. Najpierw czytaj 08_CURRENT, 09_REJESTR_KOREKT, 04_KTO_CO_WIE i 10_ZASADY_I_CIAGLOSC, potem indywidualne karty. Późniejsza korekta GitHub: James ma 17 lat, urodziny 1 stycznia; nie zastępuj jej starszym opisem. C15: 675 tur, 1350 wiadomości; łącznie C1–C15 15128. Nowa wersja po 100 wiadomości w archiwum. Historię ślubu z Luną traktuj jako odrębną kampanię.
+
+---
+
 # Pliki aktywne C14
 
 Punkt: C14-M0704, 28 XII 1995, śniadanie, pytanie Grahama o Nowy Rok. Kolej na gracza.

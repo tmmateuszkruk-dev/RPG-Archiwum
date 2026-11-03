@@ -1,3 +1,22 @@
+# Chronologia — C15 (przyrost po C14)
+
+- 28 XII 1995: James mówi Grahamowi, że zostaje na Nowy Rok. Brak zgody Sprout na planowaną uroczystość i brak potwierdzonego rozegrania jej w pierwotnym kształcie. C15-M0003–M0004.
+- 12 I 1996: powrót Hermiony i pozostałych po świętach; w Pokoju Życzeń dostaje od Jamesa srebrną broszkę-różę z Walcem nr 2 i mapę nieba z datą 25 XII 1994. C15-M0006–M0074.
+- 13 I: Luna otrzymuje motyla, poznaje Grahama i świąteczną grupę; grupa wręcza jej notes. C15-M0385–M0396.
+- 16 I: doniesienia o ucieczce śmierciożerców z Azkabanu. C15-M0396–M0410.
+- 14 II: wywiad Harry'ego z Ritą Skeeter w Hogsmeade, z Hermioną i Luną (scena poza Jamesem). C15-M0419–M0420.
+- Koniec lutego, 29 II: konflikt Draco–James; zaklęcie Draco zatrzymane tarczą, potem cios Jamesa w szczękę. McGonagall i Snape zajmują się odpowiedzialnością obu. C15-M0421–M0490.
+- 2 III: korekta czasu trwania związku — od 25 XII 1994, ponad rok i dwa miesiące, nie dwa miesiące. C15-M0657–M0658.
+- Marzec: Umbridge usuwa Trelawney, wprowadzenie Firenze. C15-M0723–M0726.
+- Kwiecień: zdemaskowanie GD i odejście Dumbledore'a z Hogwartu. C15-M0727–M0750.
+- 27 IV: obiecana randka przygotowana przez Hermionę rzeczywiście się odbywa. C15-M0761–M0898.
+- 19/20 VI: atak na Hagrida, obrażenia McGonagall, dalsze wydarzenia w Hogwarcie. C15-M0899–M0920.
+- 20 VI: lot testralami do Londynu, walka w Departamencie Tajemnic, śmierć Syriusza za zasłoną, Voldemort widziany przez Fudge'a. C15-M0920–M1010.
+- Noc 20/21 VI: powrót, kontrole Pomfrey, rzeczywisty sen Jamesa w skrzydle szpitalnym; brak wyleczenia potwierdzonego. C15-M1020–M1080.
+- 21 VI, około 17:43: Malcolm pyta o chęć udziału Jamesa w regularnych spotkaniach grupy w kolejnym roku. Następny ruch Jamesa oczekiwany. C15-M1349–M1350.
+
+---
+
 # Uzupełnienie po odzyskaniu 89 odpowiedzi C14
 
 - Listopad: pokaz karmienia testrala i pytanie o lot; Hagrid proponuje lot w przyszłości, bez odbycia go na lekcji. Źródła: C14-M0096, C14-M0102.

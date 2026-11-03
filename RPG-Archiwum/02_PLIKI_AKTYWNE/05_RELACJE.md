@@ -1,3 +1,13 @@
+# Relacje — przyrost C15
+
+- James i Hermiona są parą od 25 XII 1994, **ponad rok**, nie dwa miesiące. Randka z jej inicjatywy odbyła się 27 IV; nie ma zaręczyn ani ślubu. Wspólna nauka i więź z Jamesem nie znoszą jej przyjaźni z Harrym i Ronem. C15-M0657–M0658, M0761–M0898.
+- James–Draco: nowa poważna bójka pod koniec lutego, zakończona interwencją nauczycieli. Wcześniejszy C13 nie zostaje zmieniony na bójkę, a obecna bójka nie jest anulowana przez dawną korektę. C15-M0421–M0450.
+- Luna poznała osobiście Grahama i grupę 13 I, odebrała prezenty; spotkanie nie oznacza romansu. C15-M0385–M0396.
+- Harry przeżywa śmierć Syriusza; jego relacja z innymi nie wraca automatycznie do stanu sprzed tej straty. C15-M0996–M1010.
+- Młodsza grupa inicjuje możliwość regularnych spotkań w kolejnym roku. Malcolm chce cykliczności, Orla stopniowego startu, Eleanor zapraszania różnych domów; James jeszcze nie wybrał. C15-M1349–M1350.
+
+---
+
 # Uzupełnienie po odzyskaniu 89 odpowiedzi C14
 
 - Hermiona pamięta obiecaną randkę; ma pomysł i część przygotowań, ale nie ustala terminu. Przedświąteczne popołudnie nie zostało nazwane wykonaniem tej obietnicy. Źródła: C14-M0168, C14-M0222, C14-M0238, C14-M0240, C14-M0288, C14-M0306.

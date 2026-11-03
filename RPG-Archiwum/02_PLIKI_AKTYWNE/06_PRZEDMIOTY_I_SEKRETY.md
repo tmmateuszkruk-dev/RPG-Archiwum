@@ -1,3 +1,13 @@
+# Przedmioty — status po C15
+
+- Srebrna broszka-róża z odtwarzanym Walcem nr 2 Szostakowicza i mapa nieba nad Hogwartem z datą 25 XII 1994: kupione w C14, **wręczone Hermionie i przyjęte 12 I 1996**. C14-M0468–M0481; C15-M0073–M0074.
+- Srebrny kolczyk-motyl: kupiony w C14, **wręczony Lunie 13 I**. Drugi kolczyk-klucz trafił wcześniej do Amelii przez Grahama. Nie powstaje nowy trzeci kolczyk. C14-M0486–M0522; C15-M0385–M0390.
+- Notes „Na rzeczy, których inni nie zauważają”: **wręczony Lunie przez młodszych uczniów 13 I**; nie jest dalej przechowywany przez Rose na później. C14-M0496–M0690; C15-M0395–M0396.
+- Na randkę 27 IV James zabrał przygotowane róże; nie twórz nowej, nieudokumentowanej transakcji ani nie dopisuj dalszego losu kwiatów. C15-M0761–M0898.
+- Zaklęcia użyte w Departamencie Tajemnic są faktami konkretnych scen, nie automatycznymi nowymi stałymi zdolnościami Jamesa. C15-M0920–M1010.
+
+---
+
 # Uzupełnienie po odzyskaniu 89 odpowiedzi C14
 
 - Umbridge sprawdziła własne przybory Jamesa i oddała je do pisania, zachowała podpisane wyjaśnienia. Jej czarne pióro pozostało nieużyte i zostało schowane. Źródła: C14-M0124, C14-M0126, C14-M0130, C14-M0134.
