@@ -56,3 +56,14 @@ Granice wiedzy: Nie zna automatycznie podsłuchu C9, pełnego zgłoszenia pióra
 Sprawdzone krótkie próbki z kontekstem, źródłem i ograniczeniami: [model_reakcji.json](../model_reakcji.json), wpisy glos-hermiona-granger-1, glos-hermiona-granger-2, glos-hermiona-granger-3. Kalibrują sposób reagowania; nie kopiować kwestii ani traktować próbki kampanii jako dowodu kanoniczności.
 
 Wzorce kanonicznego głosu: `book_references` w odpowiednich wpisach [modelu reakcji](../model_reakcji.json). Cytaty książkowe mają osobne źródła, etap życia i kontekst; nie są wydarzeniami tej kampanii.
+
+
+## Uzupełnienie C15 — stan po 21 czerwca 1996
+
+- 12 I otrzymała broszkę-różę z walcem i mapę nieba od Jamesa; oba prezenty nie są już niewręczone. Źródła C15-M0073–M0074.
+- 14 II uczestniczyła z Harrym, Luną i Ritą Skeeter w wywiadzie do Żonglera; James nie był świadkiem tej prywatnej rozmowy. Źródła C15-M0419–M0420.
+- Podczas nowej bójki Jamesa z Draco próbowała powstrzymać eskalację; nie odbiera jej to niezależności. Źródła C15-M0421–M0430.
+- 2 III poprawiono błędne dwa miesiące związku: jest z Jamesem od 25 XII 1994, **ponad rok**. Źródła C15-M0657–M0658.
+- 27 IV zorganizowała i rzeczywiście zrealizowała obiecaną wcześniej randkę; bez zaręczyn. Źródła C15-M0761–M0898.
+- Uczestniczyła w wyprawie do Ministerstwa; w skrzydle szpitalnym widziała Jamesa podczas rzeczywistego snu. Źródła C15-M0920–M1080.
+- 21 VI popiera pomysł grupowej nauki, ale uważa, że potrzebna jest zgoda nauczyciela na salę; nie odpowiada w imieniu Jamesa. Źródło C15-M1350.

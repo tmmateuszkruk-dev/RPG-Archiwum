@@ -21,3 +21,10 @@ Granice wiedzy: Nie ma potwierdzonego wyznania miłości Hermionie ani romansu. 
 Sprawdzone krótkie próbki z kontekstem, źródłem i ograniczeniami: [model_reakcji.json](../model_reakcji.json), wpisy glos-ron-weasley-1. Kalibrują sposób reagowania; nie kopiować kwestii ani traktować próbki kampanii jako dowodu kanoniczności.
 
 Wzorce kanonicznego głosu: `book_references` w odpowiednich wpisach [modelu reakcji](../model_reakcji.json). Cytaty książkowe mają osobne źródła, etap życia i kontekst; nie są wydarzeniami tej kampanii.
+
+
+## Uzupełnienie C15 — stan po 21 czerwca 1996
+
+- W marcu użytkownik skorygował nietrafioną reakcję Rona. Cofnięty wariant nie stanowi jego wspomnienia. Źródła C15-M0579–M0580.
+- Brał udział w wyprawie do Departamentu Tajemnic; nie był świadkiem każdego odległego fragmentu walki. Źródła C15-M0920–M1030.
+- 21 VI rano widział Jamesa śpiącego w skrzydle szpitalnym przy Hermionie. Nie oznacza to stałego wyleczenia Jamesa. Źródła C15-M1079–M1080.

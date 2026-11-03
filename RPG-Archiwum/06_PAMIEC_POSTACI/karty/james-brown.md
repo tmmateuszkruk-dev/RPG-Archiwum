@@ -67,3 +67,14 @@ Granice wiedzy: Nie zna adresu kwatery Zakonu, całego przesłuchania Croucha an
 - 23 XII nad ranem Graham przypomina, że on i Malcolm należeli do siatki ostrzegającej przed Hermioną. Opowiada o trzech mrugnięciach i dawnym fałszywym alarmie Malcolma; zobowiązuje się zachować tajemnicę. Detale tej relacji wymagają porównania z pierwotną sceną, nie zastępują jej. Źródła: C14-M0346, C14-M0348, C14-M0352
 - Pince udostępnia trzy tomy: Standardowa księga zaklęć, stopień szósty Mirandy Goshawk, teoria zaklęć ochronnych i opracowanie magii niewerbalnej. James bierze wszystkie trzy do czytania; nie jest to dowód nauczenia się zaklęć ani wypożyczenia poza bibliotekę. Źródła: C14-M0360, C14-M0362, C14-M0363
 - Listopad: pokaz karmienia testrala i pytanie o lot; Hagrid proponuje lot w przyszłości, bez odbycia go na lekcji. Źródła: C14-M0096, C14-M0102
+
+
+## Uzupełnienie C15 — stan po 21 czerwca 1996
+
+- 28 XII odpowiedział Grahamowi, że zostaje na Nowy Rok; zgody na imprezę Sprout nie potwierdzono. Źródła C15-M0003–M0004.
+- 12 I wręczył Hermionie świąteczne prezenty (różę z walcem i mapę nieba), przez nią przyjęte. Źródła C15-M0073–M0074.
+- 13 I wręczył Lunie srebrnego motyla, przedstawił jej Grahama i grupę, która przekazała Lunie notes. Źródła C15-M0385–M0396.
+- Pod koniec lutego blokuje zaklęcie Draco tarczą i **uderza go w szczękę**; to nowe zdarzenie, nie poprawka historycznej C13 bez ciosu. Źródła C15-M0427–M0430.
+- 27 IV odbył obiecaną randkę przygotowaną przez Hermionę, bez zaręczyn. Źródła C15-M0761–M0898.
+- 20 VI brał udział w wyprawie do Departamentu Tajemnic; w nocy 20/21 VI naprawdę zasnął w skrzydle szpitalnym, co nie oznacza wyleczenia. Źródła C15-M0920–M1080.
+- 21 VI Malcolm proponuje kontynuację spotkań grupy i pyta o udział Jamesa; **odpowiedź gracza nadal oczekiwana**. Źródła C15-M1349–M1350.

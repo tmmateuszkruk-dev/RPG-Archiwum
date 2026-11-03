@@ -15,3 +15,9 @@ Granice wiedzy: Nie zna planu prefektury tylko dlatego, że znał go Nott. Wycof
 - Konfrontacja przed eliksirami zakończyła się przeprosinami Draco. Obowiązuje wersja bez nazwiska Granger w przeprosinach; nie doszło do uderzenia. Źródła: C13-M0258, C13-M0274, C13-M0278
 - W poprawionej scenie po dekrecie 24 nie zwraca się do Hermiony nazwiskiem Granger. Losowanie OOC nie jest wiedzą postaci. Źródła: C13-M0948
 - Rozmowa o proteście od M0064 do M0074 została cofnięta. Obowiązuje M0078: Draco nie współczuje Weasleyom, Pansy wspiera go, Nott nie jest rzecznikiem Jamesa. Źródła: C14-M0076, C14-M0078
+
+
+## Uzupełnienie C15 — stan po 21 czerwca 1996
+
+- W nowym konflikcie pod koniec lutego Draco rzucił zaklęcie na Jamesa; James zatrzymał je tarczą i **uderzył Draco w szczękę**. Draco pamięta rzeczywisty cios. Źródła C15-M0421–M0430.
+- McGonagall i Snape zajmowali się sprawą, bez zamiany Draco w przyjaciela Jamesa. Nie kasuje to wcześniejszych wydarzeń C13. Źródła C15-M0430–M0450.

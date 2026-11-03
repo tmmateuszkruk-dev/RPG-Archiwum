@@ -25,3 +25,10 @@ Granice wiedzy: Nie słyszał prywatnych pomysłów wieloryba/ośmiornicy ani ro
 Sprawdzone krótkie próbki z kontekstem, źródłem i ograniczeniami: [model_reakcji.json](../model_reakcji.json), wpisy glos-harry-potter-1. Kalibrują sposób reagowania; nie kopiować kwestii ani traktować próbki kampanii jako dowodu kanoniczności.
 
 Wzorce kanonicznego głosu: `book_references` w odpowiednich wpisach [modelu reakcji](../model_reakcji.json). Cytaty książkowe mają osobne źródła, etap życia i kontekst; nie są wydarzeniami tej kampanii.
+
+
+## Uzupełnienie C15 — stan po 21 czerwca 1996
+
+- 14 II udzielił Ricie Skeeter wywiadu organizowanego z pomocą Hermiony i Luny do Żonglera; James nie uczestniczył w tej rozmowie. Źródła C15-M0419–M0420.
+- Kierował Gwardią Dumbledore'a i doświadczył konsekwencji jej ujawnienia w kwietniu. Źródła C15-M0727–M0750.
+- 20 VI uczestniczył w wyprawie do Departamentu Tajemnic i stracił Syriusza za zasłoną; zachować jego żałobę i własną perspektywę. Źródła C15-M0920–M1010.
