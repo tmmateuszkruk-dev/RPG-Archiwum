@@ -16,3 +16,9 @@ Granice wiedzy: Wiedza tylko ze scen z własnym udziałem lub przekazanych infor
 ## Przykłady głosu
 
 Sprawdzone krótkie próbki z kontekstem, źródłem i ograniczeniami: [model_reakcji.json](../model_reakcji.json), wpisy glos-orla-quirke-1. Kalibrują sposób reagowania; nie kopiować kwestii ani traktować próbki kampanii jako dowodu kanoniczności.
+
+
+## Uzupełnienie C15 — pamięć po 21 czerwca 1996
+
+- 13 I uczestniczyła przy wspólnym stole w poznaniu Luny. Źródła C15-M0389–M0396.
+- 21 VI popiera dalsze spotkania uczniów różnych domów, ale woli zacząć od niewielkich spotkań, zamiast narzucać oficjalny cotygodniowy plan. Źródło C15-M1350.

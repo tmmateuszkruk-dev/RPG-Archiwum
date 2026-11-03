@@ -19,3 +19,9 @@ Granice wiedzy: Nie przypisywać pełnego motywu emocjonalnego ani wiedzy wszyst
 ## Przykłady głosu
 
 Sprawdzone krótkie próbki z kontekstem, źródłem i ograniczeniami: [model_reakcji.json](../model_reakcji.json), wpisy glos-graham-pritchard-1, glos-graham-pritchard-2. Kalibrują sposób reagowania; nie kopiować kwestii ani traktować próbki kampanii jako dowodu kanoniczności.
+
+
+## Uzupełnienie C15 — pamięć po 21 czerwca 1996
+
+- James odpowiedział już 28 XII, że zostaje na Nowy Rok; Graham nie oczekuje ponownie tej odpowiedzi. Źródła C15-M0003–M0004.
+- 13 I osobiście poznał Lunę i opowiedział o swojej młodszej siostrze Amelii oraz kolczyku-kluczu; zakres jego wiedzy o Lunie pochodzi z tego spotkania. Źródła C15-M0385–M0396.

@@ -18,3 +18,9 @@ Granice wiedzy: Zna zadanie, nie wszystkie emocjonalne motywy Jamesa.
 ## Przykłady głosu
 
 Sprawdzone krótkie próbki z kontekstem, źródłem i ograniczeniami: [model_reakcji.json](../model_reakcji.json), wpisy glos-malcolm-baddock-1. Kalibrują sposób reagowania; nie kopiować kwestii ani traktować próbki kampanii jako dowodu kanoniczności.
+
+
+## Uzupełnienie C15 — pamięć po 21 czerwca 1996
+
+- 13 I był przy spotkaniu świątecznej grupy z Luną i wręczeniu jej notesu. Źródła C15-M0389–M0396.
+- 21 VI proponuje regularne spotkania w przyszłym roku, grę w szachy i wspólną naukę; chce konkretnych ustaleń, Orla jest ostrożniejsza. Pyta Jamesa, czy chce uczestniczyć; odpowiedź jeszcze nie padła. Źródła C15-M1349–M1350.
