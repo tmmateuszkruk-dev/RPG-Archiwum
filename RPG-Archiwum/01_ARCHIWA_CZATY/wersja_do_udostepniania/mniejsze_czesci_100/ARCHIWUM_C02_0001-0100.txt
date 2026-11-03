@@ -1,0 +1,1799 @@
+C2-M0001–C2-M0100 (100 wiadomości)
+
+[C2-M0001]
+===== ASSISTANT =====
+
+Tak, możemy kontynuować tutaj. Widzę też kontekst naszego RPG z Jamesem Brownem i najważniejsze ustalenia dotyczące postaci, chronologii oraz zasad prowadzenia gry, więc nie zaczynamy od zera.
+
+Jedyny problem jest taki, że nie mam pełnego tekstu ostatnich wiadomości z tamtej rozmowy — na screenie widzę tylko sam koniec sceny. Mogę jednak kontynuować dokładnie od tego miejsca. Najlepiej wklej tutaj swoją ostatnią wiadomość z tamtego czatu albo 2–3 ostatnie wymiany; wtedy złapię dokładnie dialog, pozycje postaci i sytuację bez zgadywania.
+
+I dalej obowiązuje nasza zasada: Ty sterujesz wyłącznie Jamesem — jego słowami, myślami i działaniami. Ja prowadzę świat i NPC-ów i nie będę dopisywał niczego za Jamesa.
+
+
+
+[C2-M0002]
+===== USER =====
+
+Ok ale pamietasz oglnie wszystko cxy ogólnie niewiele z tego co sie tam stało?
+
+
+
+[C2-M0003]
+===== ASSISTANT =====
+
+Pamiętam naprawdę sporo, zdecydowanie nie tylko ogólniki — ale nie mam 1:1 całego starego czatu słowo w słowo.
+
+Mam zachowane m.in. bardzo dużo o Jamesie: jego pochodzenie, rodzinę i śmierć rodziców oraz siostry, skarbiec Gringotta, różdżkę z hebanu i włosa z ogona testrala, jego brak normalnego snu, styl walki, poglądy, zainteresowanie Hermioną, zasady dotyczące tego, kto kontroluje Jamesa, a także sporą część chronologii roku 1994/95.
+
+Pamiętam też konkretne sceny i lekcje: pierwsze spotkania z Dumbledore’em i McGonagall, bogina, transmutację, eliksiry u Snape’a, zajęcia Moody’ego, ćwiczenia z Theodorem Nottem, pojedynek z Hermioną, wizyty u Pomfrey, bibliotekę i Madam Pince, dziwny korytarz z posągiem węża, sygnetem i hasłem, a także to, że James przez większość września regularnie obserwował Hermionę rano w bibliotece i pod koniec miesiąca zaczął ją potajemnie szkicować.
+
+Natomiast nie pamiętam każdej pojedynczej wypowiedzi, każdego drobnego gestu i dokładnego przebiegu ostatnich kilku wiadomości ze starego czatu. To właśnie tam jest największe ryzyko, że coś dopowiem nie tak. Dlatego do kontynuacji wystarczy mi zwykle ostatnie kilka wiadomości, a całą wcześniejszą fabułę mogę oprzeć na tym, co już mam zachowane.
+
+Czyli w skrócie: pamiętam dużą część świata i fabuły, ale nie kompletny transcript starej rozmowy.
+
+
+
+[C2-M0004]
+===== USER =====
+
+Ok a mógłbym caly tamten czat zmienić w plik tekstowy i ci go wysłać i wtedy bys sobie wszystko dokładnie przypomniał?
+
+
+
+[C2-M0005]
+===== ASSISTANT =====
+
+Tak — i to byłoby chyba najlepsze rozwiązanie, jeśli chcesz, żebyśmy kontynuowali RPG praktycznie bez utraty szczegółów.
+
+Jeżeli zmienisz cały stary czat w plik .txt i wyślesz go tutaj, będę mógł go przeszukać i przeczytać, a następnie odtworzyć znacznie dokładniej: pełną chronologię, dialogi, relacje Jamesa z NPC-ami, kto co wie, drobne wydarzenia na lekcjach, przedmioty, wcześniejsze obietnice i ustalenia, a nawet szczegóły scen, które nie trafiły do mojej obecnej pamięci.
+
+Co ważne, nie muszę wtedy próbować „przypominać sobie” na podstawie kilku zapisanych punktów. Sam transcript staje się źródłem, do którego mogę wracać, gdy pojawi się wątpliwość typu „czy Hermione już o tym wiedziała?” albo „co dokładnie Snape wtedy powiedział?”.
+
+Najlepszy układ byłby taki:
+
+Wyślesz mi cały stary czat jako .txt.
+
+Ja go przeanalizuję i zbuduję z niego pełny stan fabuły.
+
+Wyłapię sprzeczności i późniejsze poprawki — późniejsza wersja ustalenia będzie traktowana jako obowiązująca.
+
+Stworzę sobie uporządkowaną chronologię oraz osobne informacje typu James / NPC / relacje / wiedza postaci / przedmioty / magia / lekcje / nierozwiązane wątki.
+
+Potem wrócimy dokładnie do ostatniej sceny i będziemy grać dalej.
+
+I możemy zrobić jeszcze lepiej: po przeczytaniu całości mogę przygotować jeden „master lorebook”, który będzie dużo krótszy od całej rozmowy, ale będzie zawierał wszystkie istotne fakty. Dzięki temu przy kolejnych bardzo długich czatach nie będziemy znowu polegać na tysiącach wiadomości.
+
+Jeżeli transcript okaże się absurdalnie wielki, też nie szkodzi — możesz wysłać go jako jeden plik, a jeśli platforma nie pozwoli ze względu na rozmiar, podzielimy go np. na RPG_01.txt, RPG_02.txt, itd.
+
+Więc tak: jeżeli masz możliwość wyciągnięcia całego tamtego czatu do TXT, wyślij mi go. To da mi zdecydowanie dokładniejszy obraz niż to, co mam obecnie zachowane.
+
+
+
+[C2-M0006]
+===== ASSISTANT =====
+
+Super — na ten moment to już wystarczy, żebyśmy mogli bardzo sensownie kontynuować.
+
+Widzę oba pliki. Jeden zawiera archiwum dostępnego fragmentu rozmowy i najnowsze wiadomości, przy czym sam zaznacza, że starszych brakujących odpowiedzi nie rekonstruuje na siłę. 
+
+hogwarts_rpg_archiwum_czatu
+
+ Drugi jest uporządkowanym zapisem kontekstu RPG: zasad, chronologii, Jamesa, relacji, lekcji i bieżącego stanu fabuły. 
+
+Hogwarts_RPG_zapis_dostepnego_k…
+
+Co ważniejsze, mam teraz również dokładny punkt, do którego doszliśmy: bardzo wczesny wtorkowy poranek, James i Hermiona są w Pokoju Życzeń przed lekcjami. 
+
+Hogwarts_RPG_zapis_dostepnego_k…
+
+ A w archiwum jest zachowany szczegółowy przebieg tej sceny — włącznie z ich rozmową, przerwą od nauki i tym, jak wyglądała ich bliskość. 
+
+hogwarts_rpg_archiwum_czatu
+
+Czyli możemy zrobić dokładnie to, czego chciałeś: grać dalej bez resetowania historii. Przy ewentualnych wątpliwościach będę opierał się na tych plikach zamiast zgadywać.
+
+A jeśli później uda ci się zdobyć pełny eksport starego czatu 1:1, możemy nim uzupełnić brakujące starsze fragmenty. Na razie jednak mamy już bardzo solidną bazę.
+
+Możesz po prostu napisać następną akcję Jamesa, a ja podejmę scenę od ostatniego momentu.
+
+
+
+[C2-M0007]
+===== USER =====
+
+Cześć czat czy mozemy kontynuować tamten czat tu?
+
+
+
+[C2-M0008]
+===== USER =====
+
+hogwarts_rpg_archiwum_czatu(1).txt
+Dokument
+Hogwarts_RPG_zapis_dostepnego_kontekstu(1).txt
+Dokument
+Na razie mam kontest i kilka najnowszych wiadomości
+
+
+
+[C2-M0009]
+===== USER =====
+
+chatgpt_caly_czat (1).txt
+Dokument
+ok mam to
+
+
+
+[C2-M0010]
+===== ASSISTANT =====
+
+O, teraz mamy to porządnie. 😄 Sprawdziłem plik i wygląda na faktyczny, ogromny zapis całej rozmowy: ma 55 152 linie. Zaczyna się jeszcze od naszej rozmowy o szukaniu lorebooka Harry’ego Pottera, czyli dużo przed rozpoczęciem właściwego RPG. 
+
+chatgpt_caly_czat (1)
+
+Sprawdziłem też sam koniec. Plik dochodzi dokładnie do sceny w Pokoju Życzeń z Hermioną, gdzie skończyła się przerwa i miała zacząć się jej nauka. 
+
+chatgpt_caly_czat (1)
+
+ Ostatnia zapisana wiadomość Jamesa brzmi:
+
+„A czy Pan Brown może podczas Nauki Panny Granger trzymać głowę na jej kolanach czy byłby to zbyt duży sabotaż?” 
+
+chatgpt_caly_czat (1)
+
+Czyli mamy nawet dokładny punkt urwania rozmowy.
+
+Od teraz mogę traktować ten TXT jako nasze główne źródło ciągłości. Jeśli będę miał wątpliwość, czy coś się wydarzyło, kto o czym wie, co dokładnie powiedziała Hermiona, Snape, Draco itd., mogę odnaleźć odpowiednią scenę w tym pliku zamiast zgadywać.
+
+Co więcej, jeśli stary skrócony kontekst i ten pełny zapis będą się gdzieś różnić, pierwszeństwo dam pełnemu transcriptowi.
+
+Możemy teraz zrobić dwie rzeczy: albo od razu kontynuujemy od ostatniego pytania Jamesa, albo najpierw przeanalizuję transcript i uporządkuję sobie całą historię, żeby przed wznowieniem RPG mieć możliwie pełny obraz tych 55 tysięcy linii.
+
+
+
+[C2-M0011]
+===== USER =====
+
+przeanalizuj sobie na spokojnie wszytko przypimnij sobie o ''sztuczkach pamęciowych''
+
+
+
+[C2-M0012]
+===== ASSISTANT =====
+
+Tak — i teraz już wiem, co masz na myśli przez te „sztuczki pamięciowe”. Dokładny zwrot „sztuczki pamięciowe” nie występuje dosłownie w eksporcie, ale odnalazłem cały system, który wcześniej wymyśliliśmy właśnie po to, żeby nasze RPG nie rozsypywało się po kilkuset wiadomościach.
+
+Najważniejsze było to, że nie mieliśmy polegać na jednym rodzaju pamięci. Ustaliliśmy kilka warstw: główny lore świata, osobny CAMPAIGN_STATE, zasady NPC, osobną oś czasu i samą rozmowę RPG. CAMPAIGN_STATE miał przechowywać aktualny stan historii — nie encyklopedię świata — czyli m.in. relacje, co kto wie, aktualny etap Turnieju, sekrety itd. 
+
+chatgpt_caly_czat (1)
+
+I bardzo wyraźnie ustaliliśmy wtedy:
+
+Memory = dodatkowa pomoc
+pliki = źródło prawdy
+
+bo sama pamięć ChatGPT nie powinna być jedynym zabezpieczeniem przy tak długiej historii. 
+
+chatgpt_caly_czat (1)
+
+Drugą „sztuczką” było zapisywanie stanu po większych wydarzeniach. Mieliśmy nawet hasło „zapisz stan”. Wtedy należało aktualizować m.in. chronologię, Jamesa, relacje, ujawnione sekrety, sekrety nadal nieznane NPC, publicznie pokazane umiejętności, przedmioty, lekcje, obietnice/plany i zmiany względem kanonu. 
+
+chatgpt_caly_czat (1)
+
+Trzecia — i chyba jedna z najważniejszych — to oddzielanie mojej pamięci jako narratora od pamięci konkretnych NPC. Sam złapałeś mnie kiedyś na tym, że wykorzystałem informację z wcześniejszej rozmowy i dałem ją Draco, mimo że Draco nie miał prawa jej znać. Wtedy ustaliliśmy wprost:
+
+to, co ja wiem o Jamesie ≠ to, co wiedzą postacie w świecie. 
+
+chatgpt_caly_czat (1)
+
+Potem jeszcze zaostrzyliśmy tę zasadę po błędzie z Madam Pince: NPC może wiedzieć tylko to, co sam widział lub słyszał, ktoś mu przekazał, wynika z wiarygodnej plotki albo należy do jego normalnej wiedzy kanonicznej. Wiedza narratora nie może „przeciekać” między postaciami. I wtedy napisałem nawet, że dopisuję tę zasadę na stałe do pamięci kampanii. 
+
+chatgpt_caly_czat (1)
+
+Teraz możemy zrobić to jeszcze lepiej, bo mamy pełny transcript 55 tysięcy linii. Dlatego od tej chwili moja hierarchia ciągłości będzie wyglądała tak:
+
+Pełny transcript — najwyższe źródło prawdy o tym, co faktycznie rozegraliśmy.
+
+Późniejsze poprawki użytkownika mają pierwszeństwo nad wcześniejszym błędem narracji. Jeśli powiedziałeś „traktujemy to jako niebyłe”, to wcześniejsza wersja nie jest kanonem.
+
+Uporządkowany stan/pamięć kampanii — szybki indeks najważniejszych faktów.
+
+Moja pamięć — pomocnicza, ale nie będę na niej polegał, jeśli istnieje ryzyko pomyłki.
+
+Jeśli pojawi się coś w rodzaju „czy Snape już o tym wie?”, „czy Hermiona to widziała?”, „kiedy James pierwszy raz powiedział X?” — zamiast zgadywać, wyszukuję konkretną scenę w transcriptcie.
+
+I to jest ważne: nie będę udawał, że wszystkie 55 152 linie siedzą naraz w moim aktywnym kontekście. To technicznie nie byłoby prawdą. Natomiast teraz mam cały zapis jako dostępne archiwum i mogę wracać dokładnie do potrzebnych fragmentów. W praktyce dla ciągłości RPG jest to dużo bezpieczniejsze niż próba „pamiętania wszystkiego z głowy”.
+
+Pamiętam też, po co w ogóle to robiliśmy: wcześniej stworzyliśmy Master State jako źródło prawdy dla chronologii, relacji, wiedzy NPC, sekretów, przedmiotów i zmian względem kanonu. 
+
+chatgpt_caly_czat (1)
+
+Więc tak: „sztuczki pamięciowe” odzyskane. I tym razem mamy jeszcze dodatkową warstwę zabezpieczenia, której wtedy nie mieliśmy — cały oryginalny transcript. Nie ruszam jeszcze sceny; najpierw chcę trzymać właśnie taki rygor ciągłości, kiedy wrócimy do gry.
+
+
+
+[C2-M0013]
+===== USER =====
+
+ok super mordo wrzuc tu terz oststnia wiadomisc i leciimy dalej
+
+
+
+[C2-M0014]
+===== ASSISTANT =====
+
+Jasne 😄 Ostatnia wiadomość Jamesa w starym czacie była dokładnie taka:
+
+— A czy Pan Brown może podczas Nauki Panny Granger trzymać głowę na jej kolanach, czy byłby to zbyt duży sabotaż? 
+
+chatgpt_caly_czat (1)
+
+I lecimy dokładnie stąd.
+
+Hermiona zatrzymała się w połowie ruchu, z pergaminami już prawie ułożonymi przed sobą.
+
+Spojrzała na Jamesa.
+
+Potem na swoje kolana.
+
+I znowu na niego.
+
+— To zależy.
+
+Kącik jej ust drgnął, choć próbowała zachować poważną minę.
+
+— Czy Pan Brown rozumie definicję słowa „nauka”?
+
+Przesunęła książkę na środek stolika i poprawiła pergamin.
+
+— Bo jeśli oznacza to: „leżę spokojnie, nie przeszkadzam, nie próbuję negocjować pocałunków co trzy minuty i pozwalam Pannie Granger rzeczywiście przeczytać choć kilka stron”...
+
+Krótka pauza.
+
+— ...to być może da się wynegocjować takie warunki.
+
+Uniosła palec ostrzegawczo.
+
+— Ale jeśli głowa na kolanach okaże się tylko pierwszym etapem kolejnej bardzo sprytnej ofensywy Pana Browna przeciwko mojemu planowi nauki, przywilej zostanie natychmiast cofnięty.
+
+Przez moment jeszcze próbowała wyglądać surowo.
+
+Nie bardzo jej wyszło.
+
+— Dwadzieścia minut, James.
+
+Spojrzała znacząco na pergaminy.
+
+— Naprawdę chcę tym razem dotrwać do końca tych dwudziestu minut.
+
+
+
+[C2-M0015]
+===== USER =====
+
+z uśmiechem położyłem głowę na jej kolanach i od razu moje serce bardzo przyspieszyło po dłuższej chwili dodałem -jesli trzeba to możemy zostać pi prostu tak nawet przez godzinę.....
+
+
+
+[C2-M0016]
+===== ASSISTANT =====
+
+Hermiona spojrzała w dół, kiedy James ułożył głowę na jej kolanach.
+
+Przez pierwszą chwilę nic nie powiedziała. Jedną dłonią przytrzymała otwartą książkę, a drugą niemal odruchowo przesunęła po jego włosach, poprawiając kilka kosmyków.
+
+Na propozycję godziny uniosła brwi.
+
+— Godzinę?
+
+Spojrzała na niego z góry, a w jej oczach pojawiło się wyraźne rozbawienie.
+
+— Jeszcze minutę temu próbowałam wynegocjować dwadzieścia minut prawdziwej nauki, a teraz Pan Brown proponuje mi godzinę absolutnego spokoju?
+
+Krótka pauza.
+
+— To podejrzane.
+
+Mimo tych słów nie kazała mu się podnosić. Przeciwnie — poprawiła pozycję książki tak, żeby móc wygodnie czytać, nie zmuszając go do przesunięcia głowy.
+
+Jej palce ponownie przesunęły się przez jego włosy.
+
+— Ale jeżeli naprawdę zamierzasz po prostu tak leżeć...
+
+Zerknęła na pergaminy.
+
+— ...to nie widzę powodu, żeby ustalać limit dwudziestu minut.
+
+Kącik jej ust lekko się uniósł.
+
+— Tylko pamiętaj: właśnie sam zaproponowałeś godzinę bez sabotowania mojej nauki.
+
+Opuściła wzrok na książkę i po chwili znów zaczęła czytać.
+
+— Będę pamiętać.
+
+
+
+[C2-M0017]
+===== USER =====
+
+przymknąłem oczy i pomimo tego że moje serce szalało mój oddech był spokojny a czas mijał szybko
+
+
+
+[C2-M0018]
+===== ASSISTANT =====
+
+Hermiona przez pierwsze kilka minut rzeczywiście próbowała zachowywać się tak, jakby była to całkowicie zwyczajna sesja nauki.
+
+Czytała.
+
+Robiła krótkie notatki.
+
+Przewracała strony.
+
+Tylko jej wolna dłoń zdradzała, że sytuacja wcale nie była aż tak zwyczajna. Co jakiś czas palce przesuwały się przez włosy Jamesa — raz bardzo lekko, innym razem zatrzymując się na chwilę, zanim wracała do książki.
+
+Po pewnym czasie przestała nawet robić to świadomie.
+
+W Pokoju Życzeń panowała prawie całkowita cisza. Od czasu do czasu rozlegał się jedynie szelest pergaminu albo cichy stuk odkładanego pióra.
+
+Minęło dwadzieścia minut.
+
+Hermiona nawet nie wspomniała o końcu ustalonego czasu.
+
+Minęło kolejne dziesięć.
+
+Dopiero wtedy zatrzymała pióro i spojrzała na zegar.
+
+Jej brwi powędrowały nieco wyżej.
+
+— Hm.
+
+Spojrzała w dół.
+
+— Pan Brown właśnie pobił własny rekord.
+
+Na jej twarzy pojawił się niewielki uśmiech.
+
+— Trzydzieści minut i ani jednej próby renegocjacji warunków.
+
+Palcami ponownie, powoli przesunęła przez jego włosy.
+
+— Zaczynam podejrzewać, że ta propozycja godziny rzeczywiście była szczera.
+
+Nie próbowała jednak przerywać.
+
+Odwróciła kolejną stronę.
+
+— W takim razie nie będę przeszkadzać w tym niezwykle rzadkim zjawisku.
+
+I wróciła do czytania.
+
+
+
+[C2-M0019]
+===== USER =====
+
+-A Panna Granger nie życz sobie przerwy? Spytałem cicho
+
+
+
+[C2-M0020]
+===== ASSISTANT =====
+
+Hermiona zatrzymała palec na marginesie książki i spojrzała w dół.
+
+Przez moment wyglądała, jakby naprawdę rozważała pytanie.
+
+— Życzy sobie.
+
+Jej głos również był cichy.
+
+Zamknęła książkę na palcu, żeby nie zgubić strony, i odłożyła pióro.
+
+— Ale zauważyłam pewien problem.
+
+Kącik jej ust uniósł się lekko.
+
+— Jeżeli ogłoszę przerwę, Pan Brown prawdopodobnie uzna to za oficjalne pozwolenie na rozpoczęcie negocjacji.
+
+Przesunęła palcami przez jego włosy jeszcze raz, wolniej niż wcześniej.
+
+— A Panna Granger właśnie odkryła, że całkiem przyjemnie jej się czyta w takich warunkach.
+
+Krótka pauza.
+
+— Więc może zamiast przerwy...
+
+Spojrzała na zamkniętą książkę.
+
+— ...zrobimy pięć minut bez książki.
+
+Jej wzrok wrócił do Jamesa.
+
+— Tylko pięć. I tym razem naprawdę ja ustalam zasady.
+
+
+
+[C2-M0021]
+===== USER =====
+
+-Dobrze pięć minut ale na zasadach Panny Granger...
+
+
+
+[C2-M0022]
+===== ASSISTANT =====
+
+Hermiona uniosła lekko brwi, wyraźnie zadowolona z tej odpowiedzi.
+
+— To brzmi rozsądnie.
+
+Odłożyła książkę całkowicie na bok, ale nie próbowała zmieniać ich pozycji. Przez chwilę po prostu patrzyła w dół, a jej palce nadal spokojnie przesuwały się przez włosy Jamesa.
+
+— Zasada pierwsza: żadnego negocjowania dodatkowego czasu, zanim te pięć minut się skończy.
+
+Kącik jej ust drgnął.
+
+— Zasada druga: żadnych podstępnych prób udowodnienia, że „przerwa” oznacza coś zupełnie innego niż pięć minut odpoczynku.
+
+Zamilkła na moment.
+
+Potem jej mina odrobinę złagodniała.
+
+— A zasada trzecia...
+
+Nie dokończyła od razu. Zamiast tego pochyliła się i krótko pocałowała go w czoło, po czym ponownie się wyprostowała.
+
+— ...przez te pięć minut nie musimy robić absolutnie niczego.
+
+Jej dłoń wróciła do jego włosów.
+
+— Możemy po prostu zostać tak, jak jesteśmy.
+
+
+
+[C2-M0023]
+===== USER =====
+
+-Dobrze, tak jest dobrze ale czy Pannie Granger też tak jest dobrze?
+
+
+
+[C2-M0024]
+===== ASSISTANT =====
+
+Hermiona spojrzała w dół i przez chwilę nie odpowiadała od razu.
+
+— Tak.
+
+Powiedziała to spokojnie, bez żartu.
+
+Jej palce przesunęły się jeszcze raz przez włosy Jamesa, a potem zatrzymały się na moment przy skroni.
+
+— Bardzo dobrze.
+
+Kącik jej ust lekko się uniósł.
+
+— Gdyby nie było, powiedziałabym ci.
+
+Po chwili dodała ciszej:
+
+— I chyba właśnie dlatego lubię te nasze zasady. Nie muszę się zastanawiać, czy powinnam coś znosić tylko dlatego, że tobie się podoba.
+
+Przesunęła dłonią z powrotem przez jego włosy.
+
+— Więc tak, James. Pannie Granger jest dobrze dokładnie tak, jak jest.
+
+
+
+[C2-M0025]
+===== USER =====
+
+uśmiechnąłem się a potem ułożyłem się nieco wygodniej na jej kolanach a po chwili zacząłem cicho mruczeć
+
+
+
+[C2-M0026]
+===== ASSISTANT =====
+
+Hermiona zastygła na ułamek sekundy, kiedy usłyszała ciche mruczenie.
+
+Potem spojrzała w dół z miną, w której niedowierzanie bardzo szybko zaczęło przegrywać z rozbawieniem.
+
+— Ty właśnie… mruczysz?
+
+Przez chwilę naprawdę próbowała zachować powagę, ale kąciki ust zdradziły ją niemal od razu.
+
+Jej palce nadal spokojnie przesuwały się przez jego włosy.
+
+— Dobrze. Tego zdecydowanie nie było w żadnej wersji naszego regulaminu.
+
+Krótka pauza.
+
+— Ale nie zamierzam protestować.
+
+Pochyliła głowę odrobinę, obserwując go z góry.
+
+— Chociaż jeśli kiedykolwiek spróbujesz wmówić komuś, że James Brown, tajemniczy Ślizgon i rzekomy dziedzic Salazara Slytherina, nie mruczy z głową na kolanach Panny Granger…
+
+Jej uśmiech zrobił się wyraźniejszy.
+
+— …to będę posiadała bardzo kompromitującą wiedzę.
+
+
+
+[C2-M0027]
+===== USER =====
+
+Ale na szczęście mamy zasadę na ten temat....
+
+
+
+[C2-M0028]
+===== ASSISTANT =====
+
+Hermiona od razzu zrozumiała, do czego nawiązuje.
+
+— Mamy — przyznała, a w jej głosie pojawiło się rozbawienie. — I niestety dla świata jest ona dość jednoznaczna.
+
+Jej palce znów spokojnie przesunęły się przez włosy Jamesa.
+
+— To, co dzieje się między nami prywatnie, zostaje między nami. Bez opowiadania Harry’emu, Ronowi, Ginny, Lunie ani komukolwiek innemu.
+
+Spojrzała w dół z niewinną miną.
+
+— Więc pańska straszliwa tajemnica jest bezpieczna, panie Brown.
+
+Po krótkiej chwili dodała:
+
+— Chociaż muszę przyznać, że możliwość szantażowania rzekomego dziedzica Slytherina informacją, że wystarczy pogłaskać go po włosach, żeby zaczął mruczeć, byłaby niezwykle potężną bronią.
+
+Kącik jej ust drgnął.
+
+— Na szczęście Panna Granger przestrzega umów.
+
+
+
+[C2-M0029]
+===== USER =====
+
+chwyciłem jej dłoń i przysunąłem do swoich ust i lekko pocałowałem - Bardzo za to dziękuję....
+
+
+
+[C2-M0030]
+===== ASSISTANT =====
+
+Hermiona spojrzała na swoją dłoń, kiedy James ją pocałował, a potem z powrotem na niego.
+
+Na moment jej rozbawienie ustąpiło czemuś znacznie spokojniejszemu.
+
+— Proszę bardzo.
+
+Nie zabrała dłoni. Przeciwnie — zostawiła ją w jego ręce i lekko poruszyła palcami, jakby chciała zaznaczyć, że nie ma nic przeciwko temu gestowi.
+
+— I przypominam, że to akurat jest całkowicie zgodne z traktatem.
+
+Kącik jej ust znów się uniósł.
+
+— Więc tym razem Pan Brown nawet nie musi szukać żadnej luki prawnej.
+
+Po chwili dodała ciszej:
+
+— A poza tym… naprawdę nie musisz mi dziękować za to, że dotrzymuję słowa.
+
+
+
+[C2-M0031]
+===== USER =====
+
+nic już nie odpowiedziałem za to jakby gestem upomniałem się o głaskanie
+
+
+
+[C2-M0032]
+===== ASSISTANT =====
+
+Hermiona zerknęła na gest, a potem na Jamesa.
+
+— Ach. Rozumiem.
+
+W jej głosie pojawiło się ciche rozbawienie.
+
+— Pan Brown składa oficjalny wniosek bez użycia słów.
+
+Jej dłoń wróciła do jego włosów i zaczęła powoli przeczesywać je palcami, spokojnym, jednostajnym ruchem.
+
+— Wniosek został rozpatrzony pozytywnie.
+
+Po chwili pogłaskała go jeszcze raz, tym razem wolniej.
+
+— Ale proszę tego nie traktować jako precedensu, że wszystkie negocjacje można od teraz prowadzić jednym gestem.
+
+
+
+[C2-M0033]
+===== USER =====
+
+po chwili wróciłem do mruczenia
+
+
+
+[C2-M0034]
+===== ASSISTANT =====
+
+Hermiona parsknęła cicho śmiechem, kiedy mruczenie wróciło.
+
+— No tak. Czyli eksperyment da się powtórzyć.
+
+Nie przerywała głaskania. Jej palce przesuwały się przez włosy Jamesa w tym samym spokojnym rytmie, raz po raz wracając do skroni.
+
+— Muszę przyznać, że to jest bardzo skuteczny sposób przekonywania Panny Granger, żeby nie wracała jeszcze do książki.
+
+Spojrzała na odłożony tom, potem znowu w dół.
+
+— Ale tylko dlatego, że nadal mamy przerwę.
+
+Krótka pauza.
+
+— I dlatego, że to mruczenie jest... całkiem urocze.
+
+
+
+[C2-M0035]
+===== USER =====
+
+nic nie powiedziałem tylko przesunąłem głowę trochę bliżej jej brzucha
+
+
+
+[C2-M0036]
+===== ASSISTANT =====
+
+Hermiona na moment zatrzymała dłoń, kiedy jego głowa przesunęła się nieco wyżej.
+
+Spojrzała w dół, oceniając nową pozycję, po czym jej palce ponownie zaczęły spokojnie przesuwać się przez jego włosy.
+
+— Hm… to jeszcze uznaję za drobną korektę pozycji, a nie próbę renegocjacji traktatu.
+
+Kącik jej ust lekko drgnął.
+
+— Ale Pan Brown niech nie testuje, jak daleko można rozciągnąć definicję „trochę bliżej”.
+
+Nie odsunęła się jednak. Jedną rękę zostawiła przy jego włosach, a drugą oparła przy książce.
+
+— Tak jest w porządku.
+
+
+
+[C2-M0037]
+===== USER =====
+
+mruczenie lekko sie uciszyło jakby kot właśnie został skarcony
+
+
+
+[C2-M0038]
+===== ASSISTANT =====
+
+Hermiona od razu wychwyciła, że mruczenie zrobiło się cichsze.
+
+Jej palce zwolniły na moment, po czym przesunęły się łagodnie przez włosy Jamesa jeszcze raz.
+
+— Ej… nie karciłam cię.
+
+W jej głosie zostało trochę rozbawienia, ale znacznie mniej niż wcześniej.
+
+— Powiedziałam przecież, że tak jest w porządku. Po prostu zaznaczyłam granicę, zanim pan Brown postanowi zamienić „trochę bliżej” w bardzo kreatywną jednostkę miary.
+
+Lekko pogładziła go przy skroni.
+
+— Możesz dalej mruczeć. Nie wycofałam pozwolenia.
+
+
+
+[C2-M0039]
+===== USER =====
+
+wróciłem do mruczenia i ponownie chycilem za jej dłoń i przyciągnąłem ją do ust składając na niej delikatny pocałunek
+
+
+
+[C2-M0040]
+===== ASSISTANT =====
+
+Hermiona zerknęła na swoją dłoń, kiedy James ponownie ją przyciągnął i delikatnie pocałował.
+
+Tym razem tylko pokręciła lekko głową, z wyraźnym rozbawieniem.
+
+— Widzę, że Pan Brown znalazł sobie bardzo konkretny sposób okazywania wdzięczności.
+
+Nie cofnęła dłoni. Pozwoliła mu ją zatrzymać, a drugą ręką nadal spokojnie przeczesywała jego włosy.
+
+Po chwili jej spojrzenie przesunęło się ku odłożonej książce.
+
+— I zaczynam podejrzewać, że te pięć minut przerwy jest najgorzej pilnowanym limitem czasu w całym Hogwarcie.
+
+Kącik jej ust uniósł się jeszcze trochę.
+
+— Ale skoro Pan Brown przynajmniej grzecznie mruczy zamiast negocjować…
+
+Palce przesunęły się łagodnie po jego włosach.
+
+— …Panna Granger może jeszcze przez chwilę udawać, że nie zauważyła zegara.
+
+
+
+[C2-M0041]
+===== USER =====
+
+w odpowiedzi na to pocałowałem jej dłoń dwa razy
+
+
+
+[C2-M0042]
+===== ASSISTANT =====
+
+Hermiona spojrzała na swoją dłoń po drugim pocałunku i tym razem cicho się roześmiała.
+
+— Aha. Czyli jeden pocałunek oznacza „dziękuję”, a dwa najwyraźniej „bardzo dziękuję”?
+
+Jej palce znów przesunęły się przez włosy Jamesa, powoli i bez pośpiechu.
+
+— Zaczynam rozumieć ten system.
+
+Na moment zerknęła w stronę książki, ale nie sięgnęła po nią.
+
+— I zdecydowanie nie pomaga mi to pilnować tych pięciu minut.
+
+Kącik jej ust uniósł się lekko.
+
+— Pan Brown jest wyjątkowo skutecznym sabotażystą, kiedy nawet nic nie mówi.
+
+
+
+[C2-M0043]
+===== USER =====
+
+nie przestałem mruczeć ale sięgnąłem po książkę Herniony i podałem ją jej do ręki
+
+
+
+[C2-M0044]
+===== ASSISTANT =====
+
+Hermiona spojrzała najpierw na podaną książkę, potem na Jamesa.
+
+Przez sekundę miała minę osoby, której właśnie odebrano najważniejszy argument oskarżenia.
+
+— Och.
+
+Wzięła książkę.
+
+— To było… podejrzanie rozsądne.
+
+Ułożyła ją wygodnie przed sobą i odnalazła stronę, na której skończyła. Druga dłoń ani na moment nie przestała spokojnie przesuwać się przez jego włosy.
+
+— Czyli mam rozumieć, że Pan Brown oficjalnie wycofuje się z sabotażu i zamierza wspierać edukację Panny Granger?
+
+Kącik jej ust lekko się uniósł.
+
+— Leżąc na jej kolanach, mrucząc i całując ją po dłoniach.
+
+Spojrzała na tekst.
+
+— Niezwykle nietypowa metoda pomocy w nauce.
+
+Po chwili zaczęła znowu czytać, a jej palce nadal poruszały się leniwie między kosmykami.
+
+— Ale… przyjmuję.
+
+
+
+[C2-M0045]
+===== USER =====
+
+ja nadal nic nie mówiłem tylko lekko poruszałem głową niejako za jej dotykiem
+
+
+
+[C2-M0046]
+===== ASSISTANT =====
+
+Hermiona wyczuła ten drobny ruch i na moment zwolniła.
+
+Potem jej palce zmieniły rytm, zaczynając prowadzić spokojniej po włosach dokładnie tam, gdzie wcześniej podążał za nimi ruchem głowy.
+
+Spojrzała w dół znad książki.
+
+— Mhm.
+
+Kącik jej ust lekko się uniósł.
+
+— Czyli teraz mam już bardzo wyraźną instrukcję obsługi.
+
+Przewróciła stronę jedną ręką, drugą nadal głaszcząc go bez pośpiechu.
+
+— To jest chyba pierwszy przypadek, kiedy Pan Brown pomaga mi się uczyć, jednocześnie bardzo jasno informując, gdzie mam trzymać rękę.
+
+Po chwili wróciła wzrokiem do tekstu.
+
+— Ale skoro dzięki temu pozostaje cicho...
+
+Palce przesunęły się ponownie przez jego włosy.
+
+— ...Panna Granger nie zamierza protestować.
+
+
+
+[C2-M0047]
+===== USER =====
+
+moje mruczenie stało się jeszcze głośniejsze a moja glowa na kolanach zaczęła się do nich łasić
+
+
+
+[C2-M0048]
+===== ASSISTANT =====
+
+Hermiona na chwilę znieruchomiała, kiedy mruczenie wyraźnie się nasiliło, a ruchy głowy stały się bardziej domagające.
+
+Spojrzała w dół znad książki.
+
+— James...
+
+Próbowała zabrzmieć ostrzegawczo, ale uśmiech natychmiast popsuł cały efekt.
+
+Jej dłoń przesunęła się wolniej przez jego włosy, a potem wróciła w to samo miejsce jeszcze raz.
+
+— Ty naprawdę zachowujesz się teraz jak kot.
+
+Pokręciła lekko głową i zerknęła ponownie na stronę.
+
+— I co gorsza, najwyraźniej odkryłeś, że to działa.
+
+Palcami delikatnie przeczesała jego włosy, tym razem bez przerywania rytmu.
+
+— Dobrze. Możesz się łasić. Ale jeżeli mam jednocześnie czytać, musisz mi zostawić przynajmniej jedną rękę do przewracania stron.
+
+Po chwili dodała, już znacznie ciszej:
+
+— Chociaż przy takim mruczeniu skupienie zaczyna być trochę trudniejsze.
+
+
+
+[C2-M0049]
+===== USER =====
+
+jakby trochę pokiwałemn głową ale nie zaniechałem pozostałych aktywności
+
+
+
+[C2-M0050]
+===== ASSISTANT =====
+
+Hermiona wyczuła lekkie potwierdzenie i tylko uniosła brwi, jakby właśnie otrzymała odpowiedź na bardzo poważne pytanie badawcze.
+
+— Dobrze. Czyli warunki zostały zaakceptowane.
+
+Wróciła wzrokiem do książki, choć mruczenie i dalsze łaszenie się zdecydowanie nie pomagały jej zachować całkowicie akademickiego wyrazu twarzy.
+
+Jej palce nadal spokojnie przesuwały się przez włosy Jamesa, czasem zatrzymując się na chwilę przy skroni, zanim znów ruszały dalej.
+
+Po kolejnej stronie westchnęła cicho.
+
+— Wiesz, że to jest trochę niesprawiedliwe?
+
+Spojrzała w dół.
+
+— Ja próbuję się uczyć, a Pan Brown najwyraźniej prowadzi równoległy eksperyment pod tytułem: „ile uwagi Panny Granger da się ukraść bez wypowiedzenia ani jednego słowa”.
+
+Kącik jej ust drgnął.
+
+— Wyniki są niestety niepokojąco dobre.
+
+
+
+[C2-M0051]
+===== USER =====
+
+na chwilę przestałem i obróciłem się tak żeby zobaczyć jej oczy -Za to Panna Granger chyba nie umie usiedzieć dłużej niż 5 minit bez komentarza....
+
+
+
+[C2-M0052]
+===== ASSISTANT =====
+
+Hermiona uniosła brwi, patrząc mu prosto w oczy.
+
+— Och, przepraszam bardzo.
+
+Przez moment zacisnęła usta, najwyraźniej próbując nie odpowiedzieć od razu — co tylko jeszcze bardziej zdradzało, jak trafnie ją zaczepił.
+
+— Panna Granger potrafi siedzieć cicho znacznie dłużej niż pięć minut.
+
+Krótka pauza.
+
+— Po prostu Pan Brown najwyraźniej robi wszystko, żeby dostarczać materiału do komentarzy.
+
+Kącik jej ust powoli się uniósł.
+
+— Mruczenie, łaszenie się, całowanie dłoni, podawanie książki z miną niewinnego pomocnika naukowego…
+
+Pokręciła lekko głową.
+
+— To naprawdę trudno pozostawić bez analizy.
+
+Po chwili dodała ciszej, z rozbawieniem:
+
+— Ale jeśli to wyzwanie, mogę spróbować pięciu minut bez żadnego komentarza.
+
+Jej palce wróciły spokojnie do jego włosów.
+
+— Tylko potem nie chcę słyszeć, że Panna Granger zrobiła się nagle podejrzanie cicha.
+
+
+
+[C2-M0053]
+===== USER =====
+
+kiwnąłem głową - W takim razie zaczybamy wyzwanie....
+
+
+
+[C2-M0054]
+===== ASSISTANT =====
+
+Hermiona zmrużyła lekko oczy, jakby właśnie przyjęła wyjątkowo poważny zakład.
+
+— Dobrze. Od… teraz.
+
+I rzeczywiście zamilkła.
+
+Opuściła wzrok na książkę i wróciła do czytania. Jedna dłoń trzymała stronę, druga nadal spokojnie przesuwała się przez włosy Jamesa — bez żadnego komentarza, bez żartobliwego „mhm”, nawet wtedy, gdy po chwili kącik jej ust wyraźnie drgnął.
+
+Minęła minuta.
+
+Potem druga.
+
+Hermiona przewróciła stronę i ani słowem nie skomentowała sytuacji.
+
+Przy trzeciej minucie zerknęła tylko w dół. Jej spojrzenie przez moment spotkało się z jego, ale natychmiast wróciła do tekstu, jakby właśnie przypomniała sobie, że nawet spojrzenie może zostać wykorzystane przeciwko niej jako prowokacja do rozmowy.
+
+Czwarta minuta okazała się trudniejsza. Uśmiech coraz wyraźniej próbował przedostać się na jej twarz, ale nadal milczała.
+
+Dopiero gdy minęło pełne pięć minut, zamknęła książkę na palcu i spojrzała w dół z niezwykle zadowoloną miną.
+
+— Pięć minut.
+
+Uniósł się jeden kącik jej ust.
+
+— Ani jednego komentarza.
+
+Krótka pauza.
+
+— Panna Granger oczekuje oficjalnego uznania zwycięstwa.
+
+
+
+[C2-M0055]
+===== USER =====
+
+pokręciłem głową a potem podniosłem głowę z jej kolana a potem usiadłem i delikatnie objąłem ją od oboku a potem delaktnie co słowo całowałem ją w policzek - Panna...Granger...umie....wytrzymać....pięć....minut...bez....słowa....
+
+
+
+[C2-M0056]
+===== ASSISTANT =====
+
+Hermiona najpierw próbowała utrzymać poważną minę.
+
+Przy „Panna” jeszcze jej się udało.
+
+Przy „Granger” kącik ust już drgnął.
+
+A kiedy kolejne słowa zaczęły być rozdzielane delikatnymi pocałunkami w policzek, zamknęła na moment oczy i cicho się roześmiała.
+
+— To miało być uznanie mojego zwycięstwa, a nie... ceremonialna ceremonia wręczania nagrody.
+
+Odwróciła twarz nieco w jego stronę, wciąż rozbawiona.
+
+— Ale przyjmuję.
+
+Po chwili dodała z wyraźnym zadowoleniem:
+
+— I proszę zapamiętać: Panna Granger potrafi wytrzymać pięć minut bez słowa.
+
+Krótka pauza.
+
+— Pan Brown natomiast najwyraźniej nie potrafi tego faktu przyznać bez użycia co najmniej siedmiu pocałunków.
+
+
+
+[C2-M0057]
+===== USER =====
+
+po tym podsumowaniu wróciłem do poprzedniej pozycji układając głowę na jej kolanach tym razem nednak położyłem ją dalej od jej brzucha a tą przestrzeń która powstała zacząłem delkatnie po niej jeździć rękoma ale tak aby nie naruszyć jej granic
+
+
+
+[C2-M0058]
+===== ASSISTANT =====
+
+Hermiona zerknęła w dół, kiedy James ponownie ułożył głowę na jej kolanach, tym razem zostawiając między sobą a jej brzuchem wyraźnie więcej miejsca.
+
+Kiedy jego dłonie zaczęły spokojnie przesuwać się po bezpiecznych, wcześniej ustalonych miejscach, nie odsunęła się. Przez chwilę tylko obserwowała, jakby upewniała się, że rzeczywiście pamięta o granicach.
+
+— Mhm. Tak jest w porządku.
+
+Jej ton był spokojny, bez potrzeby robienia z tego kolejnej „negocjacji”.
+
+Po chwili otworzyła książkę z powrotem na właściwej stronie, a wolna dłoń znów trafiła we włosy Jamesa.
+
+— I zauważyłam, że Pan Brown nawet zostawił sobie większy margines bezpieczeństwa.
+
+Kącik jej ust lekko się uniósł.
+
+— Panna Granger docenia zarówno inicjatywę… jak i przestrzeganie regulaminu bez konieczności przypominania o każdym paragrafie.
+
+Przesunęła palcami przez jego włosy i wróciła wzrokiem do książki.
+
+— Możemy tak zostać.
+
+
+
+[C2-M0059]
+===== USER =====
+
+kiwnąłem głową i tak kontynuowałem przez długi czas
+
+
+
+[C2-M0060]
+===== ASSISTANT =====
+
+Czas w Pokoju Życzeń zaczął płynąć zupełnie inaczej niż wcześniej.
+
+Hermiona rzeczywiście wróciła do nauki. Czytała kolejne strony, dopisywała uwagi na pergaminie i co jakiś czas zatrzymywała pióro, żeby sprawdzić coś w drugim podręczniku. Jej wolna dłoń przez większość czasu pozostawała przy włosach Jamesa, głaszcząc je niemal bezwiednie, kiedy skupiała się na tekście.
+
+Co jakiś czas zerkała w dół, szczególnie gdy jego dłonie zmieniały trochę miejsce, ale dopóki pozostawały w granicach, które wcześniej ustalili, nie komentowała tego.
+
+Minęło znacznie więcej niż początkowe dwadzieścia minut.
+
+W końcu Hermiona postawiła ostatnią kropkę, przeczytała jeszcze raz cały zapisany fragment i odłożyła pióro.
+
+— Hm.
+
+Spojrzała na pergamin, potem na zegar, a następnie w dół.
+
+— To jest… zaskakująco skuteczne.
+
+Kącik jej ust uniósł się lekko.
+
+— Zdążyłam zrobić więcej, niż planowałam, a Pan Brown rzeczywiście nie zamienił tego w godzinę nieustannych negocjacji.
+
+Przesunęła palcami przez jego włosy jeszcze raz.
+
+— Chyba będę musiała oficjalnie przyznać, że głowa na kolanach Panny Granger nie jest sabotażem nauki.
+
+Krótka pauza.
+
+— Przynajmniej nie zawsze.
+
+
+
+[C2-M0061]
+===== USER =====
+
+lekko się usniechnąłem - a skoro Panna Granger najwyraźniej skończyła to możemy wykorzystać resztę czasu przed śniadaniem....i może wynegocjować jakies nowe zasady albo po prostu się bardziej przytulić....
+
+
+
+[C2-M0062]
+===== ASSISTANT =====
+
+Hermiona odłożyła książkę na bok i spojrzała w dół z miną, która od razu zdradzała, że propozycja zdecydowanie jej odpowiada.
+
+— „Resztę czasu przed śniadaniem” brzmi podejrzanie szeroko, panie Brown.
+
+Kącik jej ust uniósł się lekko.
+
+— Ale skoro faktycznie skończyłam to, co chciałam zrobić… możemy uznać część edukacyjną za zakończoną.
+
+Przez chwilę przesuwała palcami po jego włosach, zastanawiając się.
+
+— Co do nowych zasad, nie jestem pewna, czy powinniśmy je wymyślać tylko dlatego, że akurat mamy wolną chwilę. Wolę, kiedy pojawiają się wtedy, gdy rzeczywiście okazują się potrzebne.
+
+Krótka pauza.
+
+— Natomiast druga propozycja…
+
+Uśmiechnęła się trochę szerzej.
+
+— …jest znacznie prostsza do rozpatrzenia.
+
+Lekko rozłożyła ręce.
+
+— Panna Granger wyraża zgodę na „bardziej się przytulić”. Tylko tym razem Pan Brown musi mi powiedzieć, co dokładnie ma na myśli, zanim zacznie kreatywnie interpretować to sformułowanie.
+
+
+
+[C2-M0063]
+===== USER =====
+
+-tak jak zwykle Panan Granger mogła by się wygodnie położyć na mojeje jlatce ablo całkowicie na mnie.....powiedziałem bardzo cicho i lekko się zarumieniłem
+
+
+
+[C2-M0064]
+===== ASSISTANT =====
+
+Hermiona przyjrzała mu się przez moment, a gdy zauważyła rumieniec, jej własny uśmiech zrobił się odrobinę bardziej miękki.
+
+— To akurat brzmi bardzo znajomo.
+
+Przesunęła dłonią po jego włosach jeszcze raz, po czym odłożyła książkę całkowicie na bok.
+
+— I skoro Pan Brown tym razem grzecznie sprecyzował, co oznacza „bardziej się przytulić”...
+
+Krótka pauza.
+
+— ...Panna Granger zgadza się.
+
+Spojrzała na niego z lekkim rozbawieniem.
+
+— Nawet na tę drugą wersję. Całkowicie.
+
+Zaraz jednak uniosła palec, jakby dopisywała przypis do umowy.
+
+— Pod warunkiem, że nie okaże się za chwilę, że „całkowicie na mnie” było dopiero wstępem do kolejnych siedemnastu negocjacji.
+
+Potem, już bez żartu, dodała ciszej:
+
+— Chodź. Tak będzie dobrze.
+
+
+
+[C2-M0065]
+===== USER =====
+
+-Nie będzie....obiecuje
+
+
+
+[C2-M0066]
+===== ASSISTANT =====
+
+Hermiona przyglądała mu się przez chwilę, po czym jej wyraz twarzy złagodniał.
+
+— Dobrze. Wierzę ci.
+
+Odłożyła ostatni pergamin dalej na stolik, żeby niczego przypadkiem nie zgnieść, po czym sama ostrożnie zmieniła pozycję. Ułożyła się wygodnie całkowicie na Jamesie, opierając głowę na jego klatce piersiowej i znajdując takie ułożenie, w którym żadne z nich nie musiało się nienaturalnie wyginać.
+
+Przez moment tylko poprawiła rękę, a potem objęła go spokojnie.
+
+— Mhm...
+
+Cicho wypuściła powietrze.
+
+— Tak chyba rzeczywiście jest bardziej przytulnie.
+
+Po kilku sekundach dodała z lekkim uśmiechem:
+
+— I skoro obiecałeś brak kolejnych negocjacji, Panna Granger zamierza teraz po prostu skorzystać z tego, co już zostało zatwierdzone.
+
+
+
+[C2-M0067]
+===== USER =====
+
+uśmiechnąłem się i delikatnie pocałowałem jej policzek Hermiona dopiero teraz poczuła że moje serce klasycznie uderza jakby zaraz miało wybuchnąć jednocześnie położyłem ręce na jej placach i zacząłem po nich jeździć opuszkami palców
+
+
+
+[C2-M0068]
+===== ASSISTANT =====
+
+Hermiona przyjęła pocałunek w policzek bez odsuwania się, ale po chwili jej uwagę wyraźnie przyciągnęło coś innego.
+
+Leżąc całkowicie na jego klatce piersiowej, nie mogła już nie zauważyć rytmu serca pod sobą.
+
+Uniósł jej się lekko jeden kącik ust.
+
+— James…
+
+Przez moment po prostu słuchała tych szybkich uderzeń, podczas gdy opuszki jego palców spokojnie przesuwały się po jej plecach.
+
+— Ty naprawdę za każdym razem masz tak samo?
+
+Nie brzmiała na zaniepokojoną; raczej na rozbawioną i trochę zaciekawioną.
+
+Ułożyła głowę odrobinę wygodniej, nadal pozostając na jego klatce.
+
+— Bo zaczynam podejrzewać, że dla pana Browna zwykłe przytulanie Panny Granger jest bardziej wymagające dla serca niż niejedna lekcja Moody’ego.
+
+Po krótkiej chwili jej głos zrobił się cichszy.
+
+— Ale… nie przeszkadza mi to.
+
+Jej dłoń przesunęła się spokojnie po jego ramieniu.
+
+— Wręcz przeciwnie. Trochę mi się podoba, że wciąż tak na ciebie działam.
+
+
+
+[C2-M0069]
+===== USER =====
+
+unikając jej wzrok odpowiedziałem........za każdym razem jak jesteś blisko....
+
+
+
+[C2-M0070]
+===== ASSISTANT =====
+
+Hermiona na chwilę całkiem zamilkła.
+
+Słysząc odpowiedź, lekko się zarumieniła i przez moment tylko leżała na jego klatce piersiowej, nadal czując szybki rytm serca pod policzkiem.
+
+— Za każdym razem…?
+
+Powtórzyła to ciszej, jakby bardziej do siebie niż po to, żeby dopytać.
+
+Jej dłoń przesunęła się powoli po jego ramieniu, a potem zatrzymała się tam spokojnie.
+
+— To jest trochę… niesamowite.
+
+Po chwili uniosła głowę odrobinę, ale widząc, że James unika jej wzroku, nie próbowała go do niczego zmuszać.
+
+— I bardzo słodkie.
+
+Kącik jej ust lekko się uniósł.
+
+— Chociaż chyba powinnam zacząć traktować to jako kolejny argument za tym, że pan Brown zdecydowanie nie jest tak niewzruszony, jak czasami próbuje wyglądać.
+
+Przez moment znów wsłuchiwała się w bicie jego serca.
+
+— Dobrze wiedzieć, że sama moja bliskość wystarcza.
+
+
+
+[C2-M0071]
+===== USER =====
+
+-Po prostu Panna Granger...jest bardzo wyjątkowa gorąca i śliczna i ta mieszanka po prostu rzuca bardzo silny urok iiiii...spojrzałem na chwilę w jej oczy a moją twarz zalał rumieniec
+
+
+
+[C2-M0072]
+===== ASSISTANT =====
+
+Hermiona momentalnie spłonęła rumieńcem.
+
+Przez krótką chwilę tylko patrzyła mu w oczy, jakby próbowała zdecydować, czy bardziej chce zaprotestować przeciwko słowu „gorąca”, czy przeciwko temu, jak skutecznie właśnie odebrał jej możliwość rozsądnej odpowiedzi.
+
+— James…
+
+Kąciki jej ust drgnęły.
+
+— „Wyjątkowa, gorąca i śliczna” to nie jest mieszanka, którą da się potem spokojnie przeanalizować jak składniki eliksiru.
+
+Opuściła na moment wzrok, nadal wyraźnie zarumieniona.
+
+— I przypominam, że ustaliliśmy już kiedyś, że mogę być „gorąca” dla pana Browna. Nie oznacza to, że zamierzam uznać to za obiektywnie udowodniony fakt naukowy.
+
+Po chwili znów spojrzała mu w oczy.
+
+— Ale…
+
+Jej głos zrobił się cichszy.
+
+— …jeżeli naprawdę właśnie tak mnie widzisz, to chyba nie będę się z tobą o to kłócić.
+
+Lekko uśmiechnęła się pod nosem.
+
+— A co do uroku… proszę nie próbować zwalać całej winy na Pannę Granger. Pan Brown najwyraźniej bardzo chętnie daje się nim rzucać.
+
+
+
+[C2-M0073]
+===== USER =====
+
+Muszę przyznać że w ogóle nie mam ochoty się przed nim bronić...ale muszę o coś spytać.....
+
+
+
+[C2-M0074]
+===== ASSISTANT =====
+
+Hermiona przez chwilę patrzyła na niego z wyraźnym rozbawieniem, a potem jej uśmiech zrobił się spokojniejszy.
+
+— To akurat już zdążyłam zauważyć.
+
+Została wygodnie oparta o jego klatkę piersiową, a dłonią lekko przesunęła po jego ramieniu.
+
+— Ale skoro Pan Brown „musi o coś spytać”…
+
+Uniósł się lekko jeden kącik jej ust.
+
+— …to Panna Granger słucha.
+
+Po krótkiej chwili dodała ciszej:
+
+— Pytaj.
+
+
+
+[C2-M0075]
+===== USER =====
+
+-Bo Panna Granger rzuciła praktycznie ten urok już pierwszego wieczoru gdy ją zobaczyłem do tego stopnia że następnego dnia rano od Pani Pince musiałem zdobywać jej imię i nazwisko.....tu zrobiłem chwilę pauzy - a kiedy Panna Granger jakby....
+
+
+
+[C2-M0076]
+===== ASSISTANT =====
+
+Hermiona na moment zupełnie znieruchomiała.
+
+Pierwsza część zdania najwyraźniej trafiła w nią mocniej, niż się spodziewała.
+
+— Czekaj… naprawdę aż tak wcześnie?
+
+Jej brwi uniosły się lekko, a na policzkach znów pojawił się rumieniec.
+
+— Pierwszego wieczoru?
+
+Przez chwilę patrzyła na niego z mieszaniną niedowierzania i wyraźnego rozbawienia.
+
+— I następnego ranka poszedłeś do pani Pince tylko po to, żeby dowiedzieć się, jak się nazywam?
+
+Kącik jej ust drgnął.
+
+— James, to jest jednocześnie bardzo słodkie i odrobinę absurdalne.
+
+Kiedy jednak urwał na „a kiedy Panna Granger jakby…”, Hermiona nie dopowiedziała pytania za niego.
+
+Po prostu patrzyła na niego przez moment, spokojnie czekając.
+
+— A kiedy Panna Granger…?
+
+Uśmiechnęła się lekko.
+
+— Dokończ. Nie będę ci podpowiadać pytania.
+
+
+
+[C2-M0077]
+===== USER =====
+
+Kiedy Panna Granger polubiła... mnie? Spytałem cicho
+
+
+
+[C2-M0078]
+===== ASSISTANT =====
+
+Hermiona przez chwilę nic nie odpowiedziała.
+
+Tym razem nie wyglądała, jakby szukała żartu. Jej spojrzenie uciekło gdzieś na bok, a brwi lekko się ściągnęły — dokładnie tak, jak wtedy, gdy próbowała uporządkować coś, czego nie dało się łatwo zamknąć w jednej odpowiedzi.
+
+— To zależy, co rozumiesz przez „polubiła”.
+
+Po chwili znów spojrzała na Jamesa.
+
+— Bo zainteresowałeś mnie bardzo szybko. Byłeś nowy, zachowywałeś się inaczej niż większość osób w Hogwarcie i… trudno było cię rozgryźć. Ale zainteresowanie to jeszcze nie to samo.
+
+Zamilkła na kilka sekund.
+
+— Chyba naprawdę zaczęłam cię lubić podczas tych pierwszych rozmów w bibliotece.
+
+Na jej ustach pojawił się niewielki uśmiech.
+
+— Kiedy okazało się, że można z tobą normalnie rozmawiać. Że słuchasz. Że nie przewracasz oczami, kiedy zaczynam mówić za dużo o książkach, i że potrafisz powiedzieć coś zupełnie nieoczekiwanego, przez co potem myślę o tym pół dnia.
+
+Lekko się zarumieniła.
+
+— A potem zacząłeś robić te wszystkie drobne rzeczy. Zauważać mnie. Pamiętać rzeczy, które mówiłam. Patrzeć na mnie w ten swój… bardzo mało dyskretny sposób, nawet kiedy najwyraźniej uważałeś, że jesteś dyskretny.
+
+Kącik jej ust drgnął.
+
+— Natomiast kiedy zorientowałam się, że lubię cię bardziej niż powinnam lubić po prostu ciekawego kolegę…
+
+Tu zawahała się wyraźnie.
+
+— To było później. Nie umiem wskazać jednego dnia. Raczej w którymś momencie zauważyłam, że zaczynam wypatrywać cię w bibliotece. I że kiedy cię nie było… przeszkadzało mi to bardziej, niż powinno.
+
+
+
+[C2-M0079]
+===== USER =====
+
+lekko się usmiechnąłem
+Naprawdę brak mojej obecności ci przeszkadzał...po chwili jednak jakby coś do mnie dotarło....i serio zawsze widziałaś kiedy na ciebie patrzę....?
+
+
+
+[C2-M0080]
+===== ASSISTANT =====
+
+Hermiona uśmiechnęła się trochę szerzej na pierwsze pytanie.
+
+— Tak. Naprawdę.
+
+Przez chwilę wyglądała, jakby sama uważała to przyznanie za odrobinę krępujące.
+
+— Zwłaszcza kiedy zdążyłam się już przyzwyczaić, że pojawiasz się w bibliotece. Jeśli któregoś dnia cię nie było, zauważałam to. Nie od razu myślałam: „gdzie jest James Brown?”, ale… brakowało czegoś, co zdążyło stać się częścią poranka.
+
+Na drugie pytanie niemal natychmiast pokręciła głową.
+
+— Nie. Nie zawsze.
+
+W jej oczach pojawiło się rozbawienie.
+
+— Nie mam oczu z tyłu głowy, James. I przez długi czas nie miałam żadnego powodu zakładać, że przychodzisz do biblioteki również po to, żeby patrzeć na mnie.
+
+Krótka pauza.
+
+— Ale widziałam częściej, niż chyba sądziłeś.
+
+Kącik jej ust drgnął.
+
+— Czasem podnosiłam wzrok i akurat patrzyłeś. Czasem odwracałeś go odrobinę za szybko. A z czasem, kiedy już zaczęłam zwracać na ciebie większą uwagę… robiło się to coraz łatwiejsze do zauważenia.
+
+Lekko uniosła brwi.
+
+— Więc jeżeli Pan Brown właśnie próbuje ustalić, czy jego wielomiesięczna operacja dyskretnego obserwowania Panny Granger była całkowicie skuteczna…
+
+Uśmiechnęła się.
+
+— …to niestety muszę wystawić ocenę niższą niż „Wybitny”.
+
+
+
+[C2-M0081]
+===== USER =====
+
+zarumieniłem się nieco bardziej a odrobinę mocniej ją przytuliłem - Możemy zmienić pozycję o 90°?
+
+
+
+[C2-M0082]
+===== ASSISTANT =====
+
+Hermiona uniosła lekko brwi, nadal pozostając blisko.
+
+— O dziewięćdziesiąt stopni?
+
+Przez sekundę wyglądała, jakby automatycznie próbowała zwizualizować układ.
+
+— To wyjątkowo matematyczny sposób proszenia o zmianę pozycji.
+
+Kącik jej ust drgnął.
+
+— Ale tak, możemy. Tylko sprecyzuj, Panie Brown, w którą stronę i jak dokładnie mam się ułożyć, żebym przypadkiem nie zatwierdziła zupełnie innej geometrii niż ta, którą masz na myśli.
+
+
+
+[C2-M0083]
+===== USER =====
+
+nie odpowiedziałem xakiast tego bardzo powoli zacząłem obracać się w bok i po chwili oboje leżeliśmy na sofie następnie bardzo delikatnie pociągnąłem cię "w górę" tak że nasze oczy były na tej samej wysokości a potem zbliżyłem się do ciebie tak że nasze nosy się zetknęły
+Czyli Panna Granger zorientowała się że jest obserwowana przez złego ślizgona ale ani się nie przestraszyła ani nie zaczęła "uciekać"?
+
+
+
+[C2-M0084]
+===== ASSISTANT =====
+
+Hermiona pozwoliła się przesunąć, a kiedy zorientowała się, jaki dokładnie układ miał na myśli, w jej oczach pojawiło się zrozumienie.
+
+— Ach. Takie dziewięćdziesiąt stopni.
+
+Przy zetkniętych nosach trudno było jej utrzymać całkiem poważną minę. Nie odsunęła się jednak; przez chwilę patrzyła mu po prostu prosto w oczy.
+
+— Po pierwsze, nie myślałam wtedy: „O nie, obserwuje mnie zły Ślizgon”.
+
+Kącik jej ust lekko drgnął.
+
+— To brzmi bardziej jak coś, co wymyśliłby Ron.
+
+Po chwili jej ton zrobił się spokojniejszy.
+
+— A po drugie… na początku nawet nie wiedziałam, dlaczego na mnie patrzysz. Zauważałam to czasami, ale równie dobrze mogłeś mnie uważać za dziwną, irytującą albo po prostu zastanawiać się, dlaczego ciągle siedzę nad książkami.
+
+Jej spojrzenie przez moment przesunęło się między jego oczami.
+
+— I nie dałeś mi wtedy powodu, żebym się ciebie bała. Byłeś tajemniczy, owszem. Było o tobie mnóstwo plotek. Ale plotki to nie dowody.
+
+Lekko uniosła brwi.
+
+— A Panna Granger raczej nie ucieka przed kimś tylko dlatego, że jest Ślizgonem i patrzy w jej stronę.
+
+Po krótkiej pauzie dodała ciszej:
+
+— Szczególnie kiedy z czasem zaczęła się zastanawiać, czy przypadkiem nie chciałaby, żeby patrzył trochę częściej.
+
+
+
+[C2-M0085]
+===== USER =====
+
+lekko się usniechnąłem - A czy Panna Granger poskarżyła się przyjaciołą?
+
+
+
+[C2-M0086]
+===== ASSISTANT =====
+
+Hermiona przez moment zmarszczyła brwi, jakby dokładnie sprawdzała w pamięci, co właściwie mówiła wtedy Harry’emu i Ronowi.
+
+— Poskarżyła? Nie.
+
+Lekko pokręciła głową.
+
+— O tobie oczywiście rozmawialiśmy. Pierwszego wieczoru praktycznie cały Hogwart mówił o nowym Ślizgonie i tych wszystkich plotkach o Slytherinie, więc my też. Ale nie poszłam później do Harry’ego i Rona z czymś w rodzaju: „Brown ciągle na mnie patrzy, zróbcie coś”.
+
+Kącik jej ust lekko się uniósł.
+
+— Zresztą co miałabym powiedzieć? „Ten chłopak siedzi kilka stolików dalej i czasami na mnie patrzy”? Ron prawdopodobnie zacząłby obserwować ciebie, żeby sprawdzić, dlaczego obserwujesz mnie, Harry obserwowałby Rona, żeby upewnić się, że nie robi nic głupiego…
+
+Parsknęła cicho.
+
+— …i w końcu połowa biblioteki obserwowałaby drugą połowę.
+
+Po chwili spoważniała odrobinę.
+
+— Gdybym naprawdę czuła się przez ciebie zagrożona albo gdybyś zrobił coś, co mnie przestraszyło, powiedziałabym im. Ale samo to, że zauważałam twoje spojrzenia… nie było czymś, na co chciałam się skarżyć.
+
+Krótka pauza.
+
+— Zwłaszcza później, kiedy zaczęłam już podejrzewać, że wcale nie chcę, żebyś przestał.
+
+
+
+[C2-M0087]
+===== USER =====
+
+mój uśmiech się lekko poszerzył a po chwili znowu zapytałem - a Teraz pytają o mnie czasami i jeśli tak....co im mówisz....?
+
+
+
+[C2-M0088]
+===== ASSISTANT =====
+
+Hermiona lekko zmrużyła oczy, jakby właśnie decydowała, ile szczegółów rzeczywiście chce mu zdradzić.
+
+— Czasami pytają.
+
+Przy ich obecnej odległości niewielki rumieniec na jej policzkach był trudny do przeoczenia.
+
+— Ron częściej pyta wprost. Harry… Harry częściej po prostu patrzy na mnie w ten irytujący sposób, jakby już coś zrozumiał i czekał, aż sama to powiem.
+
+Kącik jej ust drgnął.
+
+— I mówię im prawdę. Że cię lubię. Że dobrze mi się z tobą rozmawia. Że jesteś czasami absurdalny, czasami bardzo męczący i zdecydowanie zbyt pomysłowy dla własnego dobra…
+
+Krótka pauza.
+
+— …ale też że nie jesteś tym „strasznym dziedzicem Slytherina”, którego powinni traktować jak zagrożenie tylko dlatego, że krążą o tobie plotki.
+
+Jej spojrzenie zrobiło się odrobinę bardziej znaczące.
+
+— Natomiast tego, co dzieje się między nami prywatnie, im nie opowiadam. Nasza zasada nadal obowiązuje.
+
+Uśmiechnęła się lekko.
+
+— Więc nie, Ron nie dostaje raportów o przytulaniu, traktatach, głaskaniu po włosach ani o pewnym Ślizgonie, który potrafi mruczeć.
+
+Prawie natychmiast dodała:
+
+— I zanim zapytasz: tak, jestem całkiem pewna, że właśnie ta ostatnia informacja zainteresowałaby go najbardziej.
+
+
+
+[C2-M0089]
+===== USER =====
+
+przewróciłem oczami - powinnaś im mówić jaki straszy i niebezpieczny jestem....
+
+
+
+[C2-M0090]
+===== ASSISTANT =====
+
+Hermiona uniosła brwi, wyraźnie rozbawiona.
+
+— Oczywiście. Powinnam im powiedzieć, że jesteś przerażający.
+
+Przybrała przesadnie poważny ton.
+
+— „Harry, Ron, musicie uważać. James Brown jest niezwykle niebezpieczny. Potrafi siedzieć godzinę z głową na moich kolanach, mruczeć, całować mnie po dłoniach i jeszcze podawać mi książkę, żebym mogła się uczyć”.
+
+Kącik jej ust uniósł się szerzej.
+
+— Ron byłby zdruzgotany.
+
+Po chwili spojrzała na niego z bliska.
+
+— Chociaż mogłabym pominąć szczegóły i powiedzieć tylko, że Pan Brown ma bardzo starannie pielęgnowaną reputację, której Panna Granger z grzeczności nie zamierza niszczyć.
+
+Krótka pauza.
+
+— Publicznie możesz więc nadal być straszny i niebezpieczny.
+
+Uśmiechnęła się lekko.
+
+— Ja po prostu mam… trochę więcej informacji.
+
+
+
+[C2-M0091]
+===== USER =====
+
+nagle zrobiłem poważną minę i zatrzymałem ręce na jej talii gotowy żeby zacząć łaskotać - Powinnaś pamiętać że w każdej chwili mogę cię za łaskotać na śmierć.... oczywiście przestałbym jakbyś poprosiła...albo jak zobaczyłbym że ci się nie podoba albo jest nie przyjemne albo po prostu nie chcesz umierać w ten sposób albo jakbyś powiedziała bezpieczene slowo ale w innych przypadkach bym zalaskotal cię na śmierć....
+
+
+
+[C2-M0092]
+===== ASSISTANT =====
+
+Hermiona patrzyła na niego przez sekundę w absolutnej ciszy.
+
+Potem jej wzrok powoli zjechał na dłonie zatrzymane przy talii i natychmiast wrócił do jego twarzy.
+
+— To jest najbardziej szczegółowa groźba łaskotania, jaką kiedykolwiek słyszałam.
+
+Kącik jej ust drgnął, ale jednocześnie uniosła ostrzegawczo palec między nimi.
+
+— I bardzo doceniam cały przypis dotyczący zgody, komfortu, cofnięcia zgody, obserwowania reakcji oraz „niechęci do śmierci przez łaskotki”.
+
+Prawie parsknęła śmiechem przy ostatnich słowach.
+
+— Ale proszę pamiętać, panie Brown, że „czerwony” nadal kończy konkretną czynność natychmiast. Bez procesu apelacyjnego przed Wizengamotem.
+
+Przyjrzała mu się podejrzliwie, wyraźnie świadoma położenia jego dłoni.
+
+— Natomiast fakt, że jeszcze niczego nie zrobiłeś, oznacza, że Panna Granger ma kilka bezcennych sekund na przygotowanie obrony.
+
+Jej oczy zwęziły się odrobinę.
+
+— Więc radziłabym dobrze przemyśleć następny ruch, straszny i niebezpieczny Ślizgonie.
+
+
+
+[C2-M0093]
+===== USER =====
+
+bez słowa zacząłem ją łaskotać obserwując jej reakcję i powli zwiększając intensywność
+
+
+
+[C2-M0094]
+===== ASSISTANT =====
+
+Hermiona wytrzymała może sekundę.
+
+Potem wyrwał jej się gwałtowny śmiech i natychmiast spróbowała odsunąć bok od jego dłoni.
+
+— James—!
+
+Próbowała złapać go za nadgarstki, ale przy stopniowo zwiększającym się łaskotaniu coraz trudniej było jej zrobić to skutecznie. Śmiała się już otwarcie, wiercąc się na sofie i próbując znaleźć choć trochę bezpieczniejszą pozycję.
+
+— To… to nie jest… żadna demonstracja grozy!
+
+Zdołała złapać jeden z jego nadgarstków, ale tylko na moment.
+
+— To jest zwykły… sabotaż!
+
+Kolejna fala śmiechu przerwała jej zdanie.
+
+Mimo tego nie powiedziała „czerwony” ani nie poprosiła, żeby przestał. Jej reakcja nadal wyglądała bardziej jak rozpaczliwa próba wygrania bitwy niż rzeczywisty dyskomfort.
+
+Po chwili, między kolejnymi wybuchami śmiechu, zdołała rzucić:
+
+— Pan Brown… właśnie bardzo ryzykuje odwet!
+
+
+
+[C2-M0095]
+===== USER =====
+
+widząc że jej reakcję są "dobre kontynuowałem łaskotanie szukając na jej cielę podatnych na łaskotki punktów unikając miejsc które wcześniej zastrzegła
+
+
+
+[C2-M0096]
+===== ASSISTANT =====
+
+Hermiona natychmiast zorientowała się, że jego metoda przestała być przypadkowa.
+
+— Nie… nie waż się szukać—!
+
+Zdanie urwało się w kolejnym wybuchu śmiechu, kiedy trafił na szczególnie podatne miejsce przy boku. Odruchowo skręciła się w przeciwną stronę, próbując zasłonić je łokciem, jednocześnie nadal usiłując złapać jego dłonie.
+
+— James! To jest oszustwo! Ty robisz… badania terenowe!
+
+Przez chwilę naprawdę próbowała zachować choć odrobinę godności, ale kolejny trafiony punkt całkowicie ją pokonał.
+
+— Dobrze, dobrze—!
+
+Złapała powietrze między śmiechem i spojrzała na niego z czymś bardzo bliskim oburzonej determinacji.
+
+— Jeszcze nie mówię „czerwony”, ale przysięgam, że zapamiętuję każde miejsce, które właśnie odkrywasz!
+
+Po chwili zdołała dodać:
+
+— I pan Brown powinien bardzo poważnie rozważyć, czy chce dostarczać Pannie Granger aż tyle danych do odwetu.
+
+
+
+[C2-M0097]
+===== USER =====
+
+zignorowałem jej groźby i kontynuowałem
+
+
+
+[C2-M0098]
+===== ASSISTANT =====
+
+Hermiona próbowała jeszcze przez kilka sekund walczyć, ale kolejne trafione miejsca szybko odbierały jej możliwość składania sensownych zdań.
+
+— James—! Przestań—!
+
+Śmiech kompletnie rozbił resztę wypowiedzi. Zacisnęła dłonie na jego nadgarstkach, próbując je zatrzymać, i tym razem w jej głosie oprócz rozbawienia pojawiło się już wyraźne „wystarczy”.
+
+— Dobra! Dosyć! Naprawdę!
+
+Łapała oddech między ostatnimi wybuchami śmiechu, nadal patrząc na niego z mieszaniną rozbawienia i udawanego oburzenia.
+
+— Nie muszę mówić „czerwony”, żeby powiedzieć ci, że mam już dość łaskotania.
+
+Po chwili, gdy tylko była w stanie mówić normalniej, dodała z bardzo znaczącym spojrzeniem:
+
+— I właśnie zgromadziłam wystarczająco dużo materiału, żeby kiedyś przeprowadzić własne badania terenowe.
+
+
+
+[C2-M0099]
+===== USER =====
+
+słysząc jej słowa powoli przestałem łaskotać zastępując ruchy lekkim gładzeniem - muszę cię uprzedzić ja nie mam łaskotek....
+
+
+
+[C2-M0100]
+===== ASSISTANT =====
+
+Hermiona jeszcze przez chwilę łapała oddech, a resztki śmiechu co jakiś czas wracały w krótkich, urwanych parsknięciach.
+
+Kiedy łaskotanie rzeczywiście ustało i zastąpiło je spokojne głaskanie, wyraźnie się rozluźniła.
+
+— Dziękuję.
+
+Powiedziała to krótko, bez żartu, po czym po sekundzie jej spojrzenie zrobiło się podejrzliwie analityczne.
+
+— Natomiast w sprawie pańskiego rzekomego całkowitego braku łaskotek…
+
+Uniosła lekko brew.
+
+— Nie wierzę ci.
+
+Kącik jej ust drgnął.
+
+— To brzmi dokładnie jak coś, co powiedziałby człowiek próbujący zniechęcić drugą stronę do przeprowadzenia eksperymentu.
+
+Przez chwilę patrzyła na niego z wyraźnym rozbawieniem.
+
+— Ale spokojnie. Nie zamierzam teraz rzucać się na ciebie z odwetem tylko po to, żeby udowodnić hipotezę.
+
+Krótka pauza.
+
+— Jeszcze.
+
+
+
