@@ -13,3 +13,8 @@ Granice wiedzy: Nie zna pełnego znaczenia lilii; nie zauważył potajemnego pob
 - Obejrzał ślady pióra Jamesa i Harry’ego; otrzymał polecenie dokumentacji. Nie przeprowadzono tu automatycznego zwolnienia Umbridge. Źródła: C12-M0979, C12-M1021
 - Ostatni szlaban u Umbridge odbył się bez krwawego pióra. Snape ma wyjaśnienia Jamesa oraz dokumentację dawnego pióra; sprawa pozostaje otwarta. Zapowiedź listu do Ministerstwa była blefem, co James ujawnił Snape’owi. Źródła: C14-M0184, C14-M0185, C14-M0186, C14-M0191, C14-M0192, C14-M0194
 - Sprawa pióra pozostaje nierozstrzygnięta. Snape zaleca dokumentowanie nadużyć i zgłoszenie ponownego użycia; nie nakazuje milczenia ani nie ogłasza skutecznego postępowania Ministerstwa. Źródła: C14-M0188, C14-M0190, C14-M0196, C14-M0222
+
+
+## Uzupełnienie C15 — pamięć po 21 czerwca 1996
+
+- 29 II zajmował się lutowym starciem Draco z Jamesem; zachowuje surowość i odróżnia obronę tarczą od uderzenia przeciwnika. Źródła C15-M0449–M0490.

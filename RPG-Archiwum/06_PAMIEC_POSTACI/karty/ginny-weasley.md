@@ -25,3 +25,9 @@ Granice wiedzy: Nie zna szeptanych sekretów, treści listów Jamesa do Luny ani
 Sprawdzone krótkie próbki z kontekstem, źródłem i ograniczeniami: [model_reakcji.json](../model_reakcji.json), wpisy glos-ginny-weasley-1, glos-ginny-weasley-2. Kalibrują sposób reagowania; nie kopiować kwestii ani traktować próbki kampanii jako dowodu kanoniczności.
 
 Wzorce kanonicznego głosu: `book_references` w odpowiednich wpisach [modelu reakcji](../model_reakcji.json). Cytaty książkowe mają osobne źródła, etap życia i kontekst; nie są wydarzeniami tej kampanii.
+
+
+## Uzupełnienie C15 — pamięć po 21 czerwca 1996
+
+- 20 VI była uczestniczką wyprawy do Departamentu Tajemnic. Nie zna automatycznie wszystkich rozmów i fragmentów starcia. Źródła C15-M0920–M1010.
+- 21 VI rano przebywała w skrzydle szpitalnym z innymi uczestnikami; widziała obecność Jamesa i Hermiony. Źródła C15-M1079–M1080.

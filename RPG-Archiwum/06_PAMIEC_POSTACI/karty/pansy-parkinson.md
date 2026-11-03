@@ -13,3 +13,8 @@ Granice wiedzy: Nie widziała chwytu Draco i nie zna prywatnych scen pary; hipot
 - Partnerka balowa Draco; nie ustanowiono zaręczyn. W V roku została prefektką. Źródła: C2-M1595, C12-M0233, C12-M0236
 - Konfrontacja przed eliksirami zakończyła się przeprosinami Draco. Obowiązuje wersja bez nazwiska Granger w przeprosinach; nie doszło do uderzenia. Źródła: C13-M0258, C13-M0274, C13-M0278
 - Rozmowa o proteście od M0064 do M0074 została cofnięta. Obowiązuje M0078: Draco nie współczuje Weasleyom, Pansy wspiera go, Nott nie jest rzecznikiem Jamesa. Źródła: C14-M0076, C14-M0078
+
+
+## Uzupełnienie C15 — pamięć po 21 czerwca 1996
+
+- Pod koniec lutego była obecna przy nowej konfrontacji Draco z Jamesem i zareagowała po ciosie. Pozostała lojalna wobec Draco, nie była neutralną mediatorką. Źródła C15-M0421–M0430.
