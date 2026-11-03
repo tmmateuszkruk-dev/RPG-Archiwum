@@ -1,0 +1,2349 @@
+C1-M0101–C1-M0200 (100 wiadomości; podział C1–C15 po 100)
+
+[C1-M0101]
+===== USER =====
+
+— Panie Profesorze, pozwoli Pan że o coś spytam za nim odpowiem na pana pytania...?
+
+
+
+[C1-M0102]
+===== ASSISTANT =====
+
+Snape zatrzymał pióro nad pergaminem.
+
+Przez moment patrzył na Jamesa bez słowa, jakby oceniał, czy pytanie będzie rzeczywiście warte przerwania rozmowy.
+
+— Możesz.
+
+Odłożył pióro na biurko.
+
+— Ale radzę wykorzystać tę możliwość rozsądnie, Brown.
+
+Jego ton pozostał chłodny, choć nie brzmiał zniecierpliwienie.
+
+— Słucham.
+
+
+
+[C1-M0103]
+===== USER =====
+
+— Czy po tym jak zweryfikuje Pan mój stan wiedzy...moje zdanie będzie miało wpływ na to do którego roczniku trafię?
+
+
+
+[C1-M0104]
+===== ASSISTANT =====
+
+Snape przez moment milczał. Pytanie najwyraźniej uznał za znacznie rozsądniejsze od tego, czego się spodziewał.
+
+— Do pewnego stopnia.
+
+Splótł dłonie na biurku.
+
+— Nie możesz po prostu oznajmić, że wolisz piąty czy szósty rok i oczekiwać, że szkoła zmieni twoją klasyfikację. Formalny rocznik zależy od kilku rzeczy, nie wyłącznie od tego, ile zaklęć potrafisz wykonać.
+
+Jego spojrzenie stało się bardziej rzeczowe.
+
+— Ale jeśli rzeczywiście wykażesz, że program czwartego roku jest dla ciebie dalece niewystarczający, twoje zdanie zostanie wzięte pod uwagę.
+
+Snape uniósł lekko brew.
+
+— Szczególnie jeżeli potrafisz również rozsądnie uzasadnić, dlaczego konkretne rozwiązanie byłoby dla ciebie lepsze.
+
+Przesunął pergamin nieco na bok.
+
+— Możliwości jest więcej niż jedna. Możesz pozostać formalnie na czwartym roku i uczęszczać na wybrane zajęcia ze starszymi uczniami. Można również przygotować ci indywidualny zakres materiału. Pełne przeniesienie do innego rocznika byłoby decyzją znacznie poważniejszą i nie należałoby wyłącznie do mnie.
+
+Krótka pauza.
+
+— Dyrektor, profesor McGonagall oraz nauczyciele poszczególnych przedmiotów mieliby w tej sprawie coś do powiedzenia.
+
+Snape przyjrzał się Jamesowi uważniej.
+
+— Pytasz z czystej ciekawości...
+
+Jego oczy zwęziły się nieznacznie.
+
+— ...czy już wiesz, do którego rocznika chciałbyś trafić?
+
+
+
+[C1-M0105]
+===== USER =====
+
+w moich oczach pojawiła się iskra a na policzkach przemknął szybki rumieniec
+— Szanowny Panie profesorze niestety wiem i nie wiem ale chyba Pana zawiodę bo moja decyzja nie jest kierowana rozsądkiem co gorsza powiedział bym że to impuls...
+Spojrzałem na Snape'a
+
+
+
+[C1-M0106]
+===== ASSISTANT =====
+
+Snape przez dłuższą chwilę nic nie mówił.
+
+Jego spojrzenie zatrzymało się na krótkim rumieńcu, potem na iskrze w oczach Jamesa. Nie wyglądał na człowieka, który przeoczyłby tak nagłą zmianę zachowania — ale również nie wyglądał na kogoś, kto zamierzał ułatwić rozmówcy sytuację, nazywając ją za niego.
+
+— Impuls — powtórzył w końcu.
+
+Wypowiedział to słowo z takim chłodem, jakby właśnie położono przed nim składnik eliksiru o podejrzanej jakości.
+
+— To rzeczywiście wyjątkowo słaba podstawa do podejmowania decyzji dotyczących edukacji.
+
+Krótka cisza.
+
+Snape lekko przechylił głowę.
+
+— Z drugiej strony...
+
+Jego spojrzenie stało się bardziej przenikliwe.
+
+— ...fakt, że potrafisz to przyznać, stawia cię przynajmniej o krok przed większością ludzi podejmujących decyzje pod wpływem impulsu, którzy następnie poświęcają ogromną ilość energii na udowadnianie, że kierowali się rozsądkiem.*
+
+Sięgnął po pióro, lecz jeszcze nie zaczął pisać.
+
+— Nie jestem rozczarowany, Brown. Na rozczarowanie trzeba najpierw mieć oczekiwania.
+
+Suchość tego zdania była niemal podręcznikowo snape'owska.
+
+— Natomiast jestem teraz ciekaw.
+
+Snape oparł łokcie o biurko.
+
+— Powiedziałeś, że „wiesz i nie wiesz”. To oznacza, że istnieje rocznik, który z jakiegoś powodu zaczął cię interesować, ale sam zdajesz sobie sprawę, że powód nie ma wiele wspólnego z poziomem nauczania.
+
+Jego oczy zwęziły się minimalnie.
+
+— Więc zanim sprawdzimy, czy w ogóle masz luksus dokonywania takiego wyboru...
+
+— Który rocznik?
+
+
+
+[C1-M0107]
+===== USER =====
+
+— Czwarty....
+
+
+
+[C1-M0108]
+===== ASSISTANT =====
+
+Snape nie odpowiedział od razu.
+
+Przez moment wyglądał wręcz, jakby spodziewał się czegoś zupełnie innego.
+
+— Czwarty.
+
+Jego wzrok przesunął się po twarzy Jamesa, zatrzymując się na niej odrobinę dłużej.
+
+— Czyli dokładnie ten rocznik, do którego zostałeś wstępnie przypisany.
+
+Na ustach profesora pojawił się ledwie zauważalny cień ironii.
+
+— Niezwykle wygodny impuls.
+
+Snape odłożył pióro.
+
+— Gdybyś powiedział „szósty”, mógłbym przynajmniej uznać, że kieruje tobą ambicja. Gdybyś powiedział „piąty”, być może chodziłoby o poziom materiału.
+
+Krótka pauza.
+
+— Ale czwarty?
+
+Jego spojrzenie stało się chłodniejsze, bardziej analityczne niż oskarżycielskie.
+
+— Skoro sam twierdzisz, że twoja wiedza może znacząco wykraczać poza ten poziom, a mimo to chcesz na nim pozostać, powód najwyraźniej leży gdzie indziej.
+
+Snape nie próbował jednak zgadywać.
+
+— Nie potrzebuję znać wszystkich twoich prywatnych motywów, Brown. Potrzebuję jedynie wiedzieć, czy ten impuls jest na tyle silny, że świadomie wybierasz mniej wymagający program, jeśli okaże się, że rzeczywiście jesteś ponad nim.
+
+Przechylił głowę lekko.
+
+— Bo jeśli odpowiedź brzmi „tak”, wtedy będziemy rozmawiać o pozostawieniu cię formalnie na czwartym roku i podniesieniu poziomu wybranych zajęć.
+
+Pióro znów znalazło się w jego dłoni.
+
+— To rozwiązanie byłoby znacznie rozsądniejsze niż przesuwanie całego rocznika tylko dlatego, że umiesz więcej z jednego czy dwóch przedmiotów.
+
+Snape spojrzał Jamesowi prosto w oczy.
+
+— Więc?
+
+— Chcesz zostać na czwartym roku nawet wtedy, jeśli okaże się, że akademicko mógłbyś być wyżej?
+
+
+
+[C1-M0109]
+===== USER =====
+
+— Tu ponownie muszę przyznać że na tą chwilę tak....ale czy ta decyzja na dłuższą metę okaże się właściwą tego nie wiem...
+
+
+
+[C1-M0110]
+===== ASSISTANT =====
+
+Snape przyjął odpowiedź bez natychmiastowego komentarza. Przez chwilę obracał pióro między palcami, jakby porządkował w głowie to, co właśnie usłyszał.
+
+— To akurat brzmi rozsądniej.
+
+Uniósł wzrok.
+
+— Decyzja nie musi być wieczna tylko dlatego, że podejmujesz ją dzisiaj. Jeśli za kilka tygodni okaże się, że czwarty rok cię ogranicza, można do sprawy wrócić.
+
+Na moment jego spojrzenie stało się bardziej surowe.
+
+— Ale nie będę co trzy dni przebudowywał twojego planu zajęć dlatego, że zmienił ci się nastrój.
+
+Snape przesunął pergamin bliżej siebie i zapisał krótką notatkę.
+
+— Na razie więc zostajesz formalnie na czwartym roku. Jeśli potwierdzisz poziom, o którym mówisz, będziemy kombinować z trudniejszym materiałem tam, gdzie będzie to miało sens.
+
+Odłożył pióro.
+
+— A teraz wróćmy do rzeczy, na podstawie których mogę faktycznie coś ocenić.
+
+Spojrzał na Jamesa uważnie.
+
+— Felix Felicis.
+
+— Etapy przygotowania. Krytyczne momenty. Oznaki, że eliksir rozwija się prawidłowo.
+
+Krótka pauza.
+
+— I tym razem możesz mówić szczegółowo. Mam czas.
+
+
+
+[C1-M0111]
+===== USER =====
+
+kiwnąłem głową i zacząłem opowiadać praktycznie bez końca o etapach przygotowania, krytycznych momentach i oznakach że jest przygotowywany prawidłowo na koniec dodałem jeszcze informacje że do każdego eliksiru dodaje niewielką ilość własnego składniku
+
+
+
+[C1-M0112]
+===== ASSISTANT =====
+
+Snape pozwolił Jamesowi mówić.
+
+Na początku słuchał z typowym dla siebie chłodnym sceptycyzmem, ale z każdą kolejną minutą coraz rzadziej zerkał na pergamin. Kilka razy przerwał krótkim, precyzyjnym pytaniem — nie po to, by naprowadzić, lecz sprawdzić, czy James rzeczywiście rozumie proces, czy tylko nauczył się ciągu instrukcji na pamięć.
+
+Za każdym razem odpowiedź prowadziła do następnego szczegółu. Temperatury. Kolejności. Momentów, w których pozornie niewielka zmiana mogła zniszczyć cały proces. Oznak właściwej konsystencji i barwy. Tego, kiedy należało przestać ingerować w miksturę i pozwolić jej pracować.
+
+W końcu Snape przestał cokolwiek notować.
+
+Po prostu słuchał.
+
+Kiedy James skończył i mimochodem wspomniał o własnym składniku dodawanym do każdego eliksiru, Snape uniósł wzrok.
+
+— Chwileczkę.
+
+Jego głos pozostał spokojny, ale zainteresowanie było natychmiastowe.
+
+— „Własnego składnika”.
+
+Odłożył pióro.
+
+— To nie jest określenie, którego używa ktoś, kto przypadkiem wrzuca do kociołka dodatkowy liść mięty.
+
+Snape pochylił się nieco nad biurkiem.
+
+— Dodajesz go do każdego eliksiru?
+
+Krótka pauza.
+
+— Niezależnie od receptury?
+
+W jego spojrzeniu nie było już ani śladu pobłażania.
+
+— Co to za składnik, Brown?
+
+
+
+[C1-M0113]
+===== USER =====
+
+(czat masz to w pamięci ten własny składnik nie pamiętam jak to nazwałem w poprzedniej rozmowie)
+
+
+
+[C1-M0114]
+===== ASSISTANT =====
+
+Sprawdziłem wcześniejszy kontekst, ale dokładna nazwa tego składnika nie została zachowana w pamięci. Mam tylko ustalenie z obecnej sceny, że James dodaje do każdego eliksiru niewielką ilość własnego, charakterystycznego składnika — ale nazwy nie chcę zgadywać, żeby nie wprowadzić fałszywego kanonu.
+
+Jeśli przypomnisz sobie choć kawałek nazwy albo czym ten składnik był, mogę spróbować go odtworzyć i wtedy dopiszemy go od razu do stałego Master State, żeby już więcej nie zginął.
+
+
+
+[C1-M0115]
+===== USER =====
+
+(to chyba był jakiś kwiat albo płatki kwiatu)
+
+
+
+[C1-M0116]
+===== ASSISTANT =====
+
+Tak, to już brzmi znajomo, ale nie znalazłem w odzyskanym kontekście dokładnej nazwy. Pamięć potwierdza tylko bieżący wątek z eliksirami i poziomem Jamesa, nie sam kwiat.
+
+Nie chcę wymyślać nazwy i potem udawać, że była ustalona wcześniej.
+
+Możemy jednak odtworzyć to sensownie. Jeśli pamiętasz, że to były płatki jakiegoś kwiatu, to najbardziej prawdopodobne jest, że ten składnik miał być czymś charakterystycznym dla Jamesa — mała ilość dodawana do każdego eliksiru, prawdopodobnie bez rozwalania bazowej receptury.
+
+Jeśli chcesz, mogę Ci teraz podać kilka pasujących magicznych kwiatów/składników z uniwersum Harry’ego Pottera i może po nazwie od razu rozpoznasz ten właściwy.
+
+
+
+[C1-M0117]
+===== USER =====
+
+zmarszczyłem brwi
+— Nieznaczna, to też zależy od tego jak podatny jest eliksir...ale Nieznaczna ilość płatków lili wodnej...
+To taki gest na cześć.....tu nie dokończyłem
+
+
+
+[C1-M0118]
+===== ASSISTANT =====
+
+Snape nie przerwał od razu.
+
+Jego spojrzenie zatrzymało się na Jamesie dokładnie w chwili, gdy zdanie urwało się w pół słowa. Nie wyglądał na kogoś, kto nie zauważył tej zmiany tonu.
+
+— Lilia wodna — powtórzył cicho.
+
+Przez moment bardziej analizował samą informację niż niedokończone zdanie.
+
+— Nietypowy wybór. Nie absurdalny, ale nietypowy.
+
+Oparł palce o blat biurka.
+
+— Przy niewielkich ilościach w części receptur nie zrobi większej różnicy. W innych może zmienić równowagę eliksiru bardziej, niż się wydaje.
+
+Krótka pauza.
+
+— Skoro twierdzisz, że dobierasz ilość do podatności mikstury, zakładam, że nie robisz tego mechanicznie.
+
+Jego spojrzenie wróciło do twarzy Jamesa.
+
+— A więc nie jest to technika.
+
+Jeszcze krótsza pauza.
+
+— To rytuał.
+
+Snape nie dopowiedział „dla kogo”. Nie próbował też wyciągać odpowiedzi siłą.
+
+— Jeżeli jest osobisty, nie musisz kończyć zdania.
+
+Po chwili dodał chłodniej:
+
+— Interesuje mnie tylko jedno: czy kiedykolwiek ten gest sprawił, że świadomie pogorszyłeś eliksir albo zwiększyłeś ryzyko jego niestabilności?
+
+
+
+[C1-M0119]
+===== USER =====
+
+podkręciłem głową
+— Jak nie byłem pewien jaką ilość dobrać to po prostu sprawdzałem w księgach podatność eliksiru....i też nie robiłem tak od początku....
+
+
+
+[C1-M0120]
+===== ASSISTANT =====
+
+Snape przyjął odpowiedź bez komentarza przez kilka sekund.
+
+— Czyli nie dodajesz płatków bezmyślnie — powiedział w końcu. — Najpierw oceniasz, czy eliksir w ogóle toleruje taką modyfikację, a jeśli masz wątpliwości, sprawdzasz źródła.
+
+Brzmiało to bardziej jak podsumowanie niż pytanie.
+
+— To już rozsądniejsze.
+
+Jego spojrzenie na moment zatrzymało się na Jamesie, szczególnie przy ostatnim zdaniu.
+
+— I nie robiłeś tego od początku.
+
+Snape nie naciskał od razu. Zamiast tego sięgnął po pióro i zanotował coś krótko na pergaminie.
+
+— Czyli zwyczaj pojawił się później.
+
+Odłożył pióro.
+
+— Zakładam, że z konkretnego powodu.
+
+Krótka cisza.
+
+— Nie musisz mi mówić jakiego, jeśli nie ma to wpływu na bezpieczeństwo pracy.
+
+Potem ton profesora wrócił do bardziej rzeczowego.
+
+— Natomiast jeżeli zamierzasz robić to również na moich zajęciach, obowiązuje jedna zasada: najpierw wykonujesz recepturę zgodnie z poleceniem. Własne modyfikacje tylko wtedy, kiedy je zatwierdzę albo kiedy dostaniesz zadanie, które na nie pozwala.
+
+Uniósł lekko brew.
+
+— Nie dlatego, że nie wierzę w twoją wiedzę. Dlatego, że jeśli każdy uczeń zacznie dodawać do eliksirów osobiste symbole, będę miał w klasie więcej katastrof niż kociołków.
+
+Po chwili dodał spokojniej:
+
+— A teraz antidota.
+
+Snape przesunął przed siebie świeży pergamin.
+
+— Wyobraź sobie zatrucie nieznaną substancją. Masz tylko objawy, kilka minut i ograniczony zestaw składników. Od czego zaczynasz?*
+
+
+
+[C1-M0121]
+===== USER =====
+
+— To zależy jakie objawy?
+
+
+
+[C1-M0122]
+===== ASSISTANT =====
+
+Snape uniósł lekko brew.
+
+— Właśnie dlatego podałem ci przypadek, a nie odpowiedź.
+
+Przesunął palcem po pergaminie.
+
+— Pacjent ma przyspieszony oddech, drżenie dłoni, rozszerzone źrenice, gwałtownie rosnącą temperaturę ciała i zaczyna tracić orientację. Nie ma widocznych oparzeń ani ran. Nie wiesz, co połknął.
+
+Jego spojrzenie pozostało utkwione w Jamesie.
+
+— Masz przy sobie podstawowe składniki antidotyczne, bezoar, kilka neutralizatorów i dostęp do kociołka.
+
+Krótka pauza.
+
+— Co robisz najpierw?
+
+Snape odchylił się minimalnie w fotelu.
+
+— I nie interesuje mnie nazwa gotowego antidotum. Chcę wiedzieć, jak myślisz.
+
+
+
+[C1-M0123]
+===== USER =====
+
+zacząłem przedstawiać mój tok myślenia chociaż zaznaczyłem że w pierwszej kolejności próbował bym magi a nie antidotum ponieważ przygotowanie bardzo skomplikowanego antidotum trochę zajmuje a w tym czasie osoba zatruta może już umrzeć
+
+
+
+[C1-M0124]
+===== ASSISTANT =====
+
+Snape słuchał bez przerywania, a kiedy James zaznaczył, że w pierwszej kolejności próbowałby magii, a dopiero potem skomplikowanego antidotum, jego spojrzenie wyraźnie się wyostrzyło.
+
+— Dobrze.
+
+Nie zabrzmiało to jak pochwała rzucona od niechcenia. Raczej jak potwierdzenie, że odpowiedź trafiła w punkt, którego Snape rzeczywiście szukał.
+
+— Wreszcie ktoś, kto nie traktuje antidotum jak zaklęcia wypowiadanego nad kociołkiem.
+
+Oparł pióro o pergamin.
+
+— Jeśli trucizna działa szybko, twoim pierwszym zadaniem nie jest „wyleczyć wszystko”. Jest nim kupić czas.
+
+Przez chwilę patrzył na Jamesa uważnie.
+
+— Magia może ustabilizować część objawów, spowolnić pogarszanie się stanu albo ograniczyć dalsze działanie substancji. Dopiero potem można pozwolić sobie na luksus warzenia czegoś bardziej precyzyjnego.
+
+Snape zrobił krótką notatkę.
+
+— To rozsądne.
+
+Po chwili dodał chłodniej:
+
+— Oczywiście pod warunkiem, że nie zaczynasz rzucać zaklęć na oślep. Niewłaściwa magia potrafi zmienić zatrucie w znacznie bardziej skomplikowany problem.
+
+Uniósł wzrok.
+
+— Więc załóżmy, że masz kilka minut. Pacjent nadal jest przytomny, ale jego stan szybko się pogarsza.
+
+— Jakiego rodzaju magii używasz najpierw i co dokładnie próbujesz osiągnąć?
+
+
+
+[C1-M0125]
+===== USER =====
+
+to znowu zacząłem odpowiedź na początku zaznaczyłem że można by spróbować "zamrozić" pacjenta pod warunkiem że nie ma gorączki aby zatrzymać rozprzestrzenianie się trucizny i potem spokojnie rzucać zaklęcia skanujące jeśli jednak na gorączkę można użyć zajęcia usuwającego wszytko inne niż krew bo to działa natychmiastowo ale ma swoje minusy raz że jest bardzo trudne a dwa że ustawa też dobre rzeczy co za tym idzie jeśli pacjent jest słaby to może zginąć a ostatni sposób to kolejne łagodzenie najniebezpieczniejszych objawów
+
+
+
+[C1-M0126]
+===== ASSISTANT =====
+
+Snape nie przerywał od razu. Im dłużej James mówił, tym mniej w jego twarzy pozostawało zwykłego nauczycielskiego chłodu, a więcej czystej koncentracji.
+
+Kiedy padło słowo o „zamrożeniu” pacjenta, profesor uniósł lekko brew.
+
+— Ryzykowne — powiedział krótko. — Ale rozumiem tok myślenia. Spowolnić metabolizm, ograniczyć krążenie trucizny, kupić czas.
+
+Przy gorączce jego wyraz twarzy zmienił się jednak wyraźniej.
+
+— A to drugie zaklęcie...
+
+Snape odłożył pióro.
+
+— Usuwające z organizmu wszystko poza krwią.
+
+W gabinecie zrobiło się cicho.
+
+— To nie jest metoda, którą nazwałbym leczeniem. To kontrolowana katastrofa.
+
+Nie brzmiał jednak, jakby ją odrzucał bez zastanowienia. Wręcz przeciwnie — analizował ją.
+
+— Jeżeli rzeczywiście działa natychmiastowo, usunie nie tylko truciznę, ale również substancje, bez których organizm może przestać funkcjonować niemal natychmiast. Elektrolity, składniki odżywcze, część naturalnych substancji ochronnych...
+
+Snape zmrużył oczy.
+
+— A więc sam przyznajesz, że uratowanie pacjenta w ten sposób wymagałoby natychmiastowej dalszej stabilizacji.
+
+Krótka pauza.
+
+— Co oznacza, że to rozwiązanie ostatniej szansy. Nie pierwszego wyboru.
+
+Dopiero przy trzecim wariancie skinął głową bardziej zdecydowanie.
+
+— Łagodzenie najgroźniejszych objawów, utrzymywanie pacjenta przy życiu, identyfikacja toksyny i dopiero wtedy antidotum.
+
+Snape przez chwilę patrzył na Jamesa bez słowa.
+
+— To jest odpowiedź, której spodziewałbym się po uzdrowicielu z doświadczeniem, nie po uczniu.
+
+Przesunął pergamin na bok.
+
+— I jednocześnie właśnie powiedziałeś mi coś znacznie ciekawszego niż Felix Felicis.
+
+Jego spojrzenie stało się niemal przeszywające.
+
+— Kto nauczył cię tego zaklęcia usuwającego wszystko poza krwią?
+
+Krótka cisza.
+
+— I ile razy widziałeś je użyte na żywej osobie?*
+
+
+
+[C1-M0127]
+===== USER =====
+
+— Moja matka....i użyłem go raz ale jak się później okazało użyłem go na już nieżyjącej osobie....
+
+
+
+[C1-M0128]
+===== ASSISTANT =====
+
+Snape znieruchomiał.
+
+Nie drgnął gwałtownie, nie zmienił pozycji. Po prostu przez kilka sekund patrzył na Jamesa w zupełnym milczeniu.
+
+— Rozumiem.
+
+Ton miał nadal opanowany, ale zniknęła z niego wcześniejsza ironia.
+
+— Czyli nie masz doświadczenia z zastosowaniem tego zaklęcia na żywym pacjencie.
+
+Nie zabrzmiało to jak zarzut. Raczej jak bardzo precyzyjne ustalenie faktu.
+
+Snape oparł dłonie płasko o biurko.
+
+— To istotna różnica.
+
+Jego spojrzenie na moment opadło na pergamin, lecz niczego nie zapisał.
+
+— Na ciele, które już nie funkcjonuje, możesz obserwować efekt zaklęcia. Nie dowiesz się jednak, jak organizm zareaguje na gwałtowną utratę wszystkiego, co zaklęcie usuwa.
+
+Krótka pauza.
+
+— Więc dopóki nie zobaczę bardzo przekonujących dowodów, że potrafisz kontrolować je z chirurgiczną precyzją, nie próbuj go używać na żywej osobie bez absolutnej konieczności.
+
+Snape znów spojrzał Jamesowi prosto w oczy.
+
+— A twoja matka nauczyła cię go jako części nauki uzdrawiania...
+
+Urwał na moment.
+
+— ...czy dlatego, że spodziewała się, że kiedyś możesz znaleźć się w sytuacji, w której standardowe metody nie wystarczą?*
+
+
+
+[C1-M0129]
+===== USER =====
+
+— Moja matka tak jak ojciec uczyła mnie wszystkiego co sama umiała...nie wiem czy oboje mieli jakiś konkretny powód...
+
+
+
+[C1-M0130]
+===== ASSISTANT =====
+
+Snape milczał przez kilka sekund. Tym razem nie wyglądał, jakby szukał sprzeczności w odpowiedzi.
+
+— To wiele wyjaśnia.
+
+Jego spojrzenie opadło na pergamin. Napisał kilka krótkich słów, po czym ponownie uniósł wzrok.
+
+— Edukacja domowa prowadzona przez dwoje bardzo kompetentnych czarodziejów może stworzyć ucznia o niezwykle szerokiej wiedzy.
+
+Krótka pauza.
+
+— Może również stworzyć ucznia, który zna rzeczy znacznie wcześniej, niż powinien mieć okazję ich praktycznie stosować.
+
+Nie zabrzmiało to jak krytyka rodziców Jamesa. Raczej chłodna ocena konsekwencji.
+
+— Jeżeli oboje rzeczywiście przekazywali ci wszystko, co sami umieli, będę musiał ustalić nie tylko ile wiesz, ale również czego nauczyłeś się praktycznie, a co znasz wyłącznie z teorii.
+
+Snape przesunął pergamin na bok.
+
+— Eliksiry wystarczą mi na dziś. Twój poziom jest wyraźnie powyżej standardowego programu czwartego roku.
+
+Powiedział to tak rzeczowo, jakby stwierdzał temperaturę w pomieszczeniu.
+
+— Nie oznacza to jeszcze, że pozwolę ci robić na lekcjach, co zechcesz.
+
+Na moment pojawił się znajomy cień ironii.
+
+— Wręcz przeciwnie.
+
+Sięgnął po kolejny arkusz.
+
+— Teraz chcę zobaczyć, czy ten sam wzorzec powtarza się w innych dziedzinach.
+
+Spojrzał na Jamesa uważnie.
+
+— Obrona przed Czarną Magią.
+
+— Powiedz mi, czego uczył cię ojciec. Nie interesuje mnie lista zaklęć. Chcę wiedzieć, jak rozumiesz obronę. Co robisz, kiedy przeciwnik jest silniejszy, szybszy albo wie o tobie więcej, niż ty o nim?
+
+
+
+[C1-M0131]
+===== USER =====
+
+— muszę Pana zmartwić ale od wielu lat nie spotkałem takiego przeciwnika....gdybym jednak takiego spotkał najprawdopodobniej sprobował bym utworzyć jakaś zasłone dymną albo spróbował go chociaż na chwilę go oślepić i wtedy uciec... Bo jeżeli spotkał bym takiego przeciwnika oznaczało by że moim przeciwnikiem jest sam Grindelwald albo inny historyczny czarodziej albo mój ojciec wstał z grobu....
+
+
+
+[C1-M0132]
+===== ASSISTANT =====
+
+Snape patrzył na Jamesa przez kilka sekund bez najmniejszego śladu rozbawienia.
+
+— Skromność nadal nie wydaje się pańską najmocniejszą stroną, Brown.
+
+Jednak nie brzmiało to jak zwykła nagana. Bardziej jak sucha obserwacja.
+
+— Mimo to sama odpowiedź jest rozsądna.
+
+Przesunął palcem po krawędzi pergaminu.
+
+— Jeżeli trafiasz na przeciwnika, którego nie możesz pokonać bezpośrednio, celem przestaje być zwycięstwo. Celem jest przeżycie.
+
+Snape uniósł lekko brew.
+
+— Zasłona, ograniczenie widoczności, dezorientacja, zerwanie kontaktu i ucieczka. Znacznie bardziej użyteczne niż idiotyczne stanie w miejscu i próba udowodnienia, że ma się mocniejszą różdżkę.
+
+Po chwili jego spojrzenie stało się ostrzejsze.
+
+— Natomiast bardziej interesuje mnie pierwsza część pana odpowiedzi.
+
+— „Od wielu lat nie spotkałem takiego przeciwnika”.
+
+Snape odłożył pióro.
+
+— To oznacza jedno z dwóch. Albo rzeczywiście jesteś tak dobry, jak twierdzisz...
+
+Krótka pauza.
+
+— ...albo miałeś dotąd wyjątkowo ograniczone pojęcie o tym, jak wygląda prawdziwie niebezpieczny przeciwnik.
+
+Nie czekał jednak długo.
+
+— Sprawdzimy to.
+
+Wstał zza biurka i jednym ruchem różdżki odsunął krzesło stojące przy bocznej ścianie, zostawiając więcej wolnej przestrzeni pośrodku gabinetu.
+
+— Bez pojedynku.
+
+Spojrzał na Jamesa znacząco.
+
+— Nie zamierzam demolować własnego gabinetu tylko po to, żeby zaspokoić pańską ciekawość.
+
+Wskazał wolną przestrzeń.
+
+— Chcę zobaczyć reakcję. Obronę, zmianę pozycji, sposób prowadzenia różdżki i to, czy potrafi pan dostosować się do czegoś, czego się nie spodziewa.
+
+Snape stanął kilka kroków od biurka.
+
+— Ja rzucam zaklęcie. Pan reaguje.
+
+Jego twarz pozostawała całkowicie spokojna.
+
+— Nie będę uprzedzał jakie.
+
+Uniósł różdżkę.
+
+— Gotowy?*
+
+
+
+[C1-M0133]
+===== USER =====
+
+— Gotów
+
+
+
+[C1-M0134]
+===== ASSISTANT =====
+
+Snape nie dał żadnego odliczania.
+
+Ledwie James skończył mówić, profesor wykonał krótki, niemal oszczędny ruch różdżką.
+
+— Impedimenta.
+
+Zaklęcie pomknęło prosto w stronę Jamesa.
+
+Nie było szczególnie widowiskowe ani przesadnie potężne — za to szybkie. Snape najwyraźniej celowo wybrał coś, co pozwoli mu ocenić pierwszą, instynktowną reakcję, zamiast sprawdzać siłę przeciw sile.
+
+Sam profesor pozostał nieruchomy z uniesioną różdżką, obserwując każdy ruch Jamesa.
+
+
+
+[C1-M0135]
+===== USER =====
+
+sparowałem zaklęcie precyzyjnym ruchem różdżką odpowiednio się do tego ustawiając jednocześnie wyszeptałem jakaś inkantacje
+
+
+
+[C1-M0136]
+===== ASSISTANT =====
+
+Zaklęcie Snape’a uderzyło w ruch różdżki Jamesa i zostało odprowadzone na bok. Smuga magii przecięła powietrze, po czym zgasła przy kamiennej ścianie.
+
+Snape nie poruszył się z miejsca, ale jego oczy natychmiast zwęziły się nieco.
+
+— Dobra pozycja.
+
+Nie brzmiało to jak pochwała, raczej jak odnotowanie faktu.
+
+— Precyzyjne przekierowanie zamiast próby zatrzymania zaklęcia siłą.
+
+Jego wzrok zatrzymał się jednak na ustach Jamesa.
+
+— I inkantacja.
+
+Snape opuścił różdżkę o kilka centymetrów.
+
+— Nie była potrzebna do samego sparowania Impedimenta.
+
+Krótka cisza.
+
+— Co pan właśnie rzucił, Brown?
+
+
+
+[C1-M0137]
+===== USER =====
+
+— jeśli mam być szczery, nie jestem pewien mój ojciec zawsze rzucał tą frazę w jakimś słowiańskim języku....nie jestem nawet pewien czy to jest zaklecie...ale z tego co sprawdzałem to raczej nie...
+
+
+
+[C1-M0138]
+===== ASSISTANT =====
+
+Snape nie odpowiedział od razu.
+
+Przez chwilę patrzył na Jamesa w sposób, który sugerował, że właśnie usłyszał coś znacznie ciekawszego niż zwykłą inkantację.
+
+— Czyli powtarza pan frazę, której znaczenia pan nie zna...
+
+Krótka pauza.
+
+— ...i robi to odruchowo podczas obrony.
+
+Nie zabrzmiało to jak kpina. Raczej jak bardzo chłodna analiza nawyku.
+
+Snape opuścił różdżkę jeszcze odrobinę.
+
+— Jeżeli nie powoduje ona zauważalnego efektu magicznego, istnieje kilka możliwości. Może być elementem koncentracji. Komendą zapamiętaną z treningu. Sposobem narzucania rytmu ruchowi różdżki.
+
+Jego spojrzenie stało się bardziej przenikliwe.
+
+— Albo czymś, czego po prostu jeszcze pan nie rozpoznał.
+
+Snape zrobił krok bliżej.
+
+— Proszę powtórzyć dokładnie tę frazę.
+
+— Bez zaklęcia. Bez ruchu różdżki.
+
+Po chwili dodał:
+
+— Tak, jak mówił ją pański ojciec, jeśli pan pamięta. Nie próbuj jej poprawiać ani tłumaczyć.
+
+Na jego twarzy pojawił się ledwie dostrzegalny cień zainteresowania.
+
+— Zobaczymy najpierw, czy rzeczywiście jest to język słowiański... czy tylko coś, co panu tak brzmi.
+
+
+
+[C1-M0139]
+===== USER =====
+
+Сдохни, сукин сын.
+
+
+
+[C1-M0140]
+===== ASSISTANT =====
+
+Snape znieruchomiał na ułamek sekundy.
+
+Nie dlatego, że fraza uruchomiła jakąś magię. Nic się nie stało. Żadnego błysku, drgnięcia powietrza ani zmiany w otoczeniu.
+
+Za to profesor najwyraźniej rozpoznał język.
+
+— Rosyjski — powiedział sucho.
+
+Przez moment patrzył na Jamesa z miną tak nieruchomą, że trudno było stwierdzić, czy bardziej go to rozbawiło, czy zirytowało.
+
+— I nie. To zdecydowanie nie jest zaklęcie.
+
+Krótka pauza.
+
+— Pański ojciec nauczył pana podczas pojedynku mówić przeciwnikowi mniej więcej: „Zdychaj, sukinsynu.”
+
+Snape powoli uniósł jedną brew.
+
+— Jakże... subtelna metoda koncentracji.
+
+Jego wzrok przesunął się na różdżkę Jamesa.
+
+— To wyjaśnia, dlaczego nie znalazł pan tej „inkantacji” w żadnej księdze zaklęć.
+
+Po chwili w jego głosie pojawiła się ledwie wyczuwalna ironia.
+
+— Zakładam, że pański ojciec nie uznał za konieczne wspomnieć, co właściwie każe panu powtarzać?
+
+
+
+[C1-M0141]
+===== USER =====
+
+lekko się usmiechnąłem
+— Źle się zrozumieliśmy Panie profesorze...mój ojciec nie kazał mi tego powtarzać jak byłem dużo młodszy to po prostu podpatrzyłem to od niego....teraz rozumiem czemu tak się śmiał jak za pierwszym razem użyłem tego zwrotu....
+
+
+
+[C1-M0142]
+===== ASSISTANT =====
+
+Przez krótką chwilę Snape patrzył na Jamesa w absolutnej ciszy.
+
+Potem jego spojrzenie zwęziło się odrobinę.
+
+— To istotna różnica.
+
+Na moment odwrócił wzrok, jakby próbował zdecydować, czy bardziej interesuje go sam zwrot, czy fakt, że kilkuletni James użył go bez świadomości znaczenia.
+
+— Pański ojciec najwyraźniej miał dość specyficzne poczucie humoru.
+
+Krótka pauza.
+
+— I jeszcze bardziej specyficzne słownictwo podczas pojedynków.
+
+Snape ponownie spojrzał na Jamesa.
+
+— Ale skoro nie jest to zaklęcie ani element świadomej techniki, nie będę brał tej frazy pod uwagę przy ocenie pana umiejętności.
+
+Na jego twarzy pojawił się ledwie zauważalny cień ironii.
+
+— Chociaż radziłbym nie używać jej na lekcjach, dopóki nie jest pan całkowicie pewien, że nauczyciel nie zna rosyjskiego.
+
+Uniósł różdżkę ponownie.
+
+— Wracając do spraw istotniejszych.
+
+Jego ton znów stał się chłodny i rzeczowy.
+
+— Pierwsza reakcja była dobra. Teraz sprawdzimy, czy potrafi pan utrzymać kontrolę, kiedy atak nie jest pojedynczy.
+
+Snape zrobił pół kroku w bok.
+
+— Tym razem nie będę używał jednego zaklęcia.
+
+Jego różdżka poruszyła się krótko.
+
+— Proszę się bronić.
+
+
+
+[C1-M0143]
+===== ASSISTANT =====
+
+Snape nie dał Jamesowi więcej czasu niż poprzednio.
+
+Pierwszy ruch różdżki był krótki i niemal niezauważalny.
+
+— Expelliarmus.
+
+Zaklęcie pomknęło prosto w stronę dłoni Jamesa.
+
+Ale zanim zdążyło jeszcze dotrzeć do celu, Snape już wykonał drugi ruch.
+
+— Impedimenta.
+
+Druga smuga poszła niżej, pod nieco innym kątem, wymuszając inną reakcję niż zwykłe sparowanie pierwszego ataku.
+
+I wtedy, bez żadnego ostrzeżenia, Snape skierował różdżkę w bok.
+
+Jedno z ciężkich krzeseł stojących przy ścianie poderwało się i przesunęło gwałtownie w poprzek pomieszczenia, nie lecąc bezpośrednio w Jamesa, ale odcinając mu najwygodniejszą drogę zejścia z linii zaklęć.
+
+Profesor nie próbował go przytłoczyć siłą.
+
+Sprawdzał, jak szybko James potrafi przestać reagować na pojedyncze zaklęcie, a zacząć postrzegać całe otoczenie jako część starcia.
+
+Snape nie powiedział ani słowa więcej.
+
+Stał kilka metrów dalej z uniesioną różdżką, gotowy wykonać następny ruch w zależności od tego, co zrobi James.
+
+
+
+[C1-M0144]
+===== USER =====
+
+szybko przeanalizowałem sytuację a następnie przebrałem pozycję która mogła wydać się trochę niestabilna a nstępnie machnąłem różdżką za jednym razem odbijac zaklęcia w stronę krzesła
+
+
+
+[C1-M0145]
+===== ASSISTANT =====
+
+Snape zauważył zmianę pozycji natychmiast.
+
+Na pierwszy rzut oka wyglądała niepewnie — środek ciężkości przesunięty, ustawienie dalekie od podręcznikowego. Ale zanim zdążył skomentować, James wykonał jeden szybki, płynny ruch różdżką.
+
+Expelliarmus i Impedimenta zmieniły tor.
+
+Pierwsze zaklęcie uderzyło w przesuwane krzesło, wyrywając je z ruchu i obracając gwałtownie. Drugie trafiło niemal natychmiast potem, posyłając mebel ciężko na kamienną podłogę.
+
+ŁUP.
+
+Przez gabinet przetoczył się głuchy huk.
+
+Snape nie zaatakował ponownie.
+
+Jego wzrok przesunął się od przewróconego krzesła do ustawienia nóg Jamesa, potem do różdżki.
+
+— Hm.
+
+Profesor opuścił własną różdżkę odrobinę.
+
+— Pozycja wyglądała fatalnie.
+
+Krótka pauza.
+
+— Ale nie była przypadkowa.
+
+Snape podszedł kilka kroków bliżej przewróconego krzesła.
+
+— Zamiast próbować rozwiązać trzy problemy osobno, wykorzystałeś dwa z nich do usunięcia trzeciego.
+
+Spojrzał na Jamesa.
+
+— I zrobiłeś to jednym ruchem.
+
+Nie było w jego tonie zachwytu. Snape najwyraźniej nie zamierzał rozdawać komplementów łatwo. Ale tym razem aprobata była wyraźna.
+
+— To interesujące.
+
+Machnięciem różdżki postawił krzesło z powrotem pod ścianą.
+
+— Większość uczniów próbuje utrzymać idealną postawę nawet wtedy, gdy sytuacja przestała być idealna. Ty poświęciłeś stabilność dla kąta odbicia.
+
+Jego oczy zwęziły się lekko.
+
+— Ryzykowne. Gdybyś źle ocenił trajektorię pierwszego zaklęcia, drugie trafiłoby cię, zanim odzyskałbyś równowagę.
+
+Chwila ciszy.
+
+— Ale nie oceniłeś źle.
+
+Snape ponownie uniósł różdżkę, tym razem jednak nie zaatakował.
+
+— Kto nauczył cię tak walczyć?
+
+— Ojciec?
+
+
+
+[C1-M0146]
+===== USER =====
+
+Oboje z moich rodziców dawali coś od siebie...ale ja osobiście i niezbyt skromnie powiedział bym że połączyłem ich nauki i wypracowałem własny styl...
+
+
+
+[C1-M0147]
+===== ASSISTANT =====
+
+Snape przyjrzał mu się przez dłuższą chwilę.
+
+— To akurat brzmi wiarygodnie.
+
+Opuścił różdżkę całkowicie.
+
+— Styl, który właśnie pokazałeś, nie wygląda jak coś przepisane z podręcznika. Jest zbyt... pragmatyczny.
+
+Jego spojrzenie przesunęło się na miejsce, gdzie przed chwilą stało krzesło.
+
+— Nie przywiązujesz się do jednej pozycji, jednego schematu obrony ani do idei, że każde zagrożenie trzeba zatrzymać bezpośrednio. Wykorzystujesz to, co znajduje się wokół.
+
+Krótka pauza.
+
+— To jest zaleta.
+
+Po chwili dodał chłodniej:
+
+— I potencjalna wada. Własny styl bardzo łatwo zamienia się w zestaw nawyków, których przeciwnik może się nauczyć.
+
+Snape spojrzał Jamesowi prosto w oczy.
+
+— Jeśli naprawdę połączyłeś nauki obojga rodziców, będę chciał zobaczyć, co robisz, kiedy ktoś celowo odbiera ci możliwość walki w sposób, który preferujesz.
+
+Odłożył różdżkę na biurko.
+
+— Na dziś jednak wystarczy.
+
+Sięgnął po pergamin z notatkami.
+
+— Eliksiry: znacznie powyżej standardu czwartego roku. Obrona: również. Przynajmniej na podstawie tego, co zobaczyłem.
+
+Uniósł brew.
+
+— Nie oznacza to, że przetestowałem pana wszystko.
+
+— Oznacza jedynie, że pańskie wcześniejsze stwierdzenia przestały brzmieć jak przechwałki.
+
+
+
+[C1-M0148]
+===== ASSISTANT =====
+
+Snape przyjął skinienie głowy i przez moment jeszcze przeglądał swoje notatki.
+
+— W takim razie na dziś wystarczy.
+
+Przesunął jeden z pergaminów na bok, a drugi złożył na pół.
+
+— Formalnie zostajesz na czwartym roku. Przynajmniej na razie.
+
+Uniósł wzrok.
+
+— Na eliksirach nie będę tracił czasu na sprawdzanie, czy potrafisz wykonać rzeczy, które już opanowałeś. Dostaniesz trudniejsze zadania, kiedy uznam to za właściwe.
+
+Krótka pauza.
+
+— Z obroną będzie trudniej, ponieważ nie ja prowadzę te zajęcia. Przekażę jednak profesorowi Moody’emu, że twój poziom wymaga osobnej oceny.
+
+Snape sięgnął po czysty arkusz i zaczął pisać.
+
+— Transmutacja, zaklęcia, zielarstwo i pozostałe przedmioty ocenią ich nauczyciele. Nie będę wypowiadał się za nich na podstawie dwóch dziedzin.
+
+Po chwili przesunął pergamin przez biurko w stronę Jamesa.
+
+— Tymczasowy plan. Jutro rano powinieneś dostać pełną wersję.
+
+Na kartce znajdowały się zajęcia przypisane czwartemu rocznikowi oraz kilka krótkich adnotacji Snape’a.
+
+Profesor oparł się o fotel.
+
+— I jeszcze jedna rzecz, Brown.
+
+Jego spojrzenie stało się ostrzejsze.
+
+— To, że potrafisz więcej od większości uczniów z twojego rocznika, nie daje ci prawa traktować ich jak przeszkody.
+
+— W Hogwarcie bardzo szybko przekonasz się, że wiedza i skuteczność nie zawsze idą w parze z rozsądkiem.
+
+Na moment pojawił się ledwo dostrzegalny cień ironii.
+
+— I sądząc po naszym dzisiejszym spotkaniu, może to dotyczyć również pana.
+
+Snape wskazał drzwi.
+
+— Możesz odejść. Prefekt powinien być jeszcze w pokoju wspólnym Slytherinu. Jeśli nie znasz drogi, zapytaj któregoś z duchów. Jak widzę, radzisz sobie z nimi całkiem dobrze.*
+
+
+
+[C1-M0149]
+===== USER =====
+
+Oczywiście Panie profesorze nigdy nawet o tym nie pomyślałem żeby traktować uczniów jak przeszkody.... Jeszcze raz kiwnąłem głową a potem opuściłem gabinet kierując się przez lochy wypatrywałem jakiegoś ducha albo obrazu aby spytać gdzie jest pokój wspólny Slytherin'u
+
+
+
+[C1-M0150]
+===== ASSISTANT =====
+
+Chłód lochów szybko zastąpił ciepło gabinetu Snape’a. Korytarze były teraz znacznie cichsze niż wcześniej; większość uczniów zdążyła już opuścić Wielką Salę i kierowała się do swoich dormitoriów.
+
+James minął kilka nieruchomych portretów — jeden z nich przedstawiał starszego czarodzieja śpiącego tak głęboko, że nawet chrapał — ale zanim zdążył kogokolwiek obudzić, przez kamienną ścianę po jego lewej stronie bezszelestnie wypłynęła znajoma srebrzysta sylwetka.
+
+Krwawy Baron.
+
+Duch zatrzymał się, gdy zauważył Jamesa.
+
+— Znalazłeś profesora.
+
+Nie było to pytanie.
+
+Baron spojrzał na pergamin trzymany przez Jamesa, po czym przesunął wzrok w kierunku dalszego korytarza.
+
+— Teraz szukasz swojego domu.
+
+Uniósł dłoń i wskazał drogę prowadzącą głębiej w lochy.
+
+— Idź prosto. Przy rozwidleniu w lewo, potem w dół po schodach. Szukaj pustej kamiennej ściany.
+
+Przez moment na jego twarzy pojawiło się coś niezwykle subtelnego — niemal cień rozbawienia.
+
+— Tak. Pustej.
+
+Duch ruszył wolno obok Jamesa przez kilka metrów.
+
+— Wejście do pokoju wspólnego Slytherinu nie ma klamki ani drzwi widocznych dla przypadkowego przechodnia. Potrzebne jest hasło.
+
+Baron zatrzymał się.
+
+— A ponieważ to twój pierwszy wieczór, rozsądniej będzie, jeśli nie będziesz krzyczał losowych słów do ściany.
+
+Z głębi korytarza dobiegły głosy. Kilku uczniów Slytherinu wracało właśnie z uczty.
+
+Wśród nich James bez trudu rozpoznał Draco Malfoya, Pansy Parkinson i Theodore’a Notta.
+
+Draco zauważył go niemal natychmiast.
+
+— Brown!
+
+Podszedł bliżej, a jego wzrok zatrzymał się na pergaminie w ręku Jamesa.
+
+— Jednak przeżyłeś.
+
+Pansy spojrzała znacząco na Draco.
+
+— Mówiłam, że Snape go nie zabije.
+
+— Nie powiedziałem, że zabije.
+
+Theodore przeszedł obok nich spokojnie.
+
+— Powiedziałeś „jeśli wrócisz w jednym kawałku”.
+
+Draco zignorował go z godnością.
+
+Bloody Baron bez słowa przesunął się przez najbliższą ścianę i zniknął.
+
+Draco spojrzał na Jamesa.
+
+— Szukasz pokoju wspólnego?
+
+Ruchem głowy wskazał kierunek, z którego właśnie przyszli.
+
+— Chodź. I zapamiętaj hasło. Nie mam zamiaru za każdym razem wyciągać cię z korytarza.
+
+
+
+[C1-M0151]
+===== USER =====
+
+bez słowa poszedłem za nimi
+
+
+
+[C1-M0152]
+===== ASSISTANT =====
+
+James ruszył za grupą bez słowa.
+
+Im dalej schodzili w lochy, tym wyraźniej zmieniał się charakter zamku. Kamienne ściany były chłodniejsze, światło pochodni rzadsze, a zza niektórych wąskich okien znajdujących się niemal na poziomie podłogi przebijała ciemna, zielonkawa poświata jeziora.
+
+Draco szedł kilka kroków przed Jamesem, rozmawiając półgłosem z Pansy.
+
+— Więc? — zapytała w końcu. — Czego chciał Snape?
+
+Draco obejrzał się przez ramię na Jamesa.
+
+— Zaraz się dowiemy.
+
+Theodore westchnął.
+
+— Albo się nie dowiemy.
+
+— Nott, masz niezwykły talent do psucia rozmów.
+
+— Dziękuję.
+
+Po kolejnym zakręcie grupa dotarła do pozornie zwyczajnej, wilgotnej kamiennej ściany. Stało tam już kilku Ślizgonów wracających z uczty.
+
+Jeden ze starszych uczniów — prefekt — zatrzymał się przed ścianą i wypowiedział cicho hasło. James mógł je bez problemu usłyszeć.
+
+Fragment kamienia przesunął się bezszelestnie, odsłaniając ukryte przejście.
+
+Draco obejrzał się na Jamesa.
+
+— Zapamiętaj. Hasła czasem się zmieniają, więc jeśli któregoś dnia ściana postanowi cię ignorować, nie oznacza to od razu, że Hogwart cię wyrzucił.
+
+Przeszli do środka.
+
+Pokój wspólny Slytherinu rozciągał się pod jeziorem. Był długi i niski, z kamiennymi ścianami oraz ciężkimi, ciemnymi meblami. Zielonkawe światło wpadające przez grube okna nadawało wszystkiemu chłodny, niemal podwodny odcień. Od czasu do czasu za szybą przesuwał się niewyraźny cień czegoś pływającego w jeziorze.
+
+Kilkunastu uczniów siedziało jeszcze przy kominku albo na kanapach. Gdy James wszedł, część rozmów ucichła na sekundę.
+
+Nie wszystkie.
+
+Starszy Ślizgon grający z kolegą w czarodziejskie szachy ledwie podniósł wzrok. Dwie dziewczyny siedzące przy kominku zaczęły za to natychmiast szeptać.
+
+Draco rozłożył lekko ręce.
+
+— Pokój wspólny Slytherinu.
+
+Pansy usiadła na jednej z kanap.
+
+— Przyzwyczaisz się do światła.
+
+Theodore bez słowa skierował się w stronę fotela z książką.
+
+Draco natomiast pozostał przy Jamesie.
+
+— Dormitoria są dalej. Twoje rzeczy powinny już tam być, jeśli skrzaty zrobiły swoje.
+
+Jego wzrok przesunął się na pergamin od Snape’a.
+
+— No dobrze, Brown.
+
+Lekki półuśmiech.
+
+— Teraz możesz zaspokoić moją ciekawość.
+
+— Co Snape z tobą robił przez cały ten czas?
+
+
+
+[C1-M0153]
+===== USER =====
+
+— Szanowny Pan Profesor Snape...sprawdzal moje umiejętności....
+
+
+
+[C1-M0154]
+===== ASSISTANT =====
+
+Draco przez moment patrzył na Jamesa, po czym kącik jego ust uniósł się wyżej.
+
+— „Szanowny Pan Profesor Snape” — powtórzył z lekkim rozbawieniem. — Jeśli będziesz tak do niego mówił na lekcjach, może nawet nie odejmie nam punktów przez pierwsze pięć minut.
+
+Pansy parsknęła cicho.
+
+— Sprawdzał ci umiejętności? Tak od razu?
+
+Theodore oderwał wzrok od książki.
+
+— To akurat ma sens. Jest uczniem transferowym.
+
+Draco zignorował oczywistość tej uwagi.
+
+— Jak dokładnie?
+
+Jego wzrok padł na tymczasowy plan zajęć w dłoni Jamesa.
+
+— Eliksiry? Zaklęcia? Kazał ci coś uwarzyć?
+
+Pansy spojrzała z zainteresowaniem.
+
+— I co zdecydował? Zostajesz z nami?
+
+To pytanie wyraźnie zainteresowało również kilka osób siedzących niedaleko. Nie odwrócili się demonstracyjnie, ale rozmowa przy najbliższej kanapie zauważalnie przycichła.
+
+Draco oparł ramię o kamienną framugę przejścia.
+
+— Bo jeśli wyszedłeś stamtąd po takiej rozmowie z planem czwartego roku, zakładam, że przynajmniej formalnie tak.
+
+
+
+[C1-M0155]
+===== USER =====
+
+— Długo by gadać o sposobie tego sprawdzenia ale tak na tą chwilę zostaje z wami....rozejrzałem się po pokoju wspólnym
+
+
+
+[C1-M0156]
+===== ASSISTANT =====
+
+Na słowa Jamesa Draco uniósł lekko brew, ale nie dopytywał od razu.
+
+— „Na tę chwilę” — powtórzył. — Brzmi, jakby Snape zostawił sobie furtkę.
+
+Pansy spojrzała na pergamin w jego dłoni.
+
+— Albo jakby Brown sam nie był pewien, czy chce zostać na czwartym roku.
+
+Theodore przewrócił stronę książki.
+
+— To jego sprawa.
+
+Pokój wspólny powoli odzyskiwał wcześniejszy gwar. Zielonkawa poświata jeziora przesuwała się po kamiennych ścianach, gdy coś dużego przepłynęło za jednym z grubych okien. W kominku palił się niski ogień, kontrastując z chłodnym światłem wpadającym spod powierzchni Czarnego Jeziora.
+
+James mógł dostrzec kilka grup uczniów. Starsi Ślizgoni zajmowali miejsca bliżej kominka, młodsi siedzieli na kanapach albo przy niewielkich stolikach. Na ścianach wisiały srebrno-zielone dekoracje, a nad jednym z łuków wyrzeźbiony był wąż.
+
+Niektórzy nadal spoglądali w jego stronę, lecz ciekawość zaczynała powoli przegrywać ze zmęczeniem po pierwszym dniu.
+
+Draco zauważył rozglądanie się Jamesa.
+
+— Pierwszy raz wygląda trochę jak grobowiec — powiedział. — Po kilku dniach przestajesz to zauważać.
+
+Pansy odwróciła się ku jednemu z okien.
+
+— Dopóki coś nie podpłynie prosto do szyby.
+
+— To akurat najlepsza część — odparł Draco.
+
+Theodore zamknął książkę na palcu, zaznaczając stronę.
+
+— Jeśli chcesz wiedzieć, gdzie co jest, dormitoria chłopców są przez tamto przejście. Łazienki dalej po lewej. Rano wszyscy i tak wychodzą stąd mniej więcej razem, więc raczej się nie zgubisz.
+
+Draco zerknął na Jamesa.
+
+— Raczej.
+
+Po chwili dodał, już bardziej swobodnie:
+
+— A skoro zostajesz z nami, Brown... jutro przekonamy się, czy Snape naprawdę miał powód, żeby tak długo cię trzymać w gabinecie.
+
+
+
+[C1-M0157]
+===== USER =====
+
+— To bedzie ciekawy rok.... powiedźcie mi jeszcze jak wygląda sprawa z przebywaniem poza pokojem wspólnym w nocy?
+
+
+
+[C1-M0158]
+===== ASSISTANT =====
+
+Draco spojrzał na Jamesa z wyraźnie większym zainteresowaniem.
+
+— Oficjalnie? — zapytał. — Po ciszy nocnej masz siedzieć tutaj albo w dormitorium.
+
+Pansy uniosła brew.
+
+— „Oficjalnie” jest tutaj dość ważnym słowem.
+
+Draco posłał jej krótkie spojrzenie.
+
+— Prefekci patrolują korytarze. Nauczyciele też czasem wychodzą, zwłaszcza jeśli coś się dzieje. Jeśli złapią cię bez dobrego powodu, możesz stracić punkty dla domu albo dostać szlaban.
+
+Theodore odezwał się znad książki:
+
+— A jeśli trafisz na Filcha, dobry powód prawdopodobnie i tak go nie zainteresuje.
+
+Draco skinął głową.
+
+— Dokładnie.
+
+Po chwili zmierzył Jamesa wzrokiem.
+
+— Są wyjątki. Szlaban, wezwanie przez profesora, czasem konkretne pozwolenie. Prefekci oczywiście mają więcej swobody, kiedy wykonują swoje obowiązki.
+
+Pansy uśmiechnęła się lekko.
+
+— A pozostali uczniowie mają tyle swobody, ile potrafią sobie zapewnić, nie dając się złapać.
+
+Draco parsknął.
+
+— Nie słuchaj jej. Przynajmniej nie pierwszego wieczoru.
+
+Theodore zamknął książkę.
+
+— Zamek nocą jest też bardziej problematyczny niż za dnia. Niektóre przejścia są zamykane, obrazy potrafią narobić hałasu, duchy mogą cię zauważyć, a schody nadal robią, co chcą.
+
+Draco wskazał lekko Jamesa.
+
+— Więc jeśli pytasz, czy wolno ci chodzić po Hogwarcie w środku nocy: nie.
+
+Na jego twarzy pojawił się znajomy półuśmiech.
+
+— Jeśli pytasz, czy uczniowie mimo to czasem chodzą...
+
+Wzruszył ramionami.
+
+— To już zupełnie inne pytanie.
+
+
+
+[C1-M0159]
+===== USER =====
+
+— Szlaban? Nie wiedziałem że jesteśmy w przedszkolu....
+
+
+
+[C1-M0160]
+===== ASSISTANT =====
+
+Pansy prychnęła śmiechem.
+
+— O, to poczekaj, aż zobaczysz, jak Filch traktuje spóźnienie o pięć minut.
+
+Draco oparł się wygodniej o framugę.
+
+— Szlaban tutaj nie oznacza stania w kącie, Brown. Czasem kończy się na przepisywaniu starych dokumentów, a czasem nauczyciel znajduje coś znacznie mniej przyjemnego.
+
+Theodore uniósł wzrok znad książki.
+
+— Zależy, komu podpadniesz.
+
+— Dokładnie — powiedział Draco. — McGonagall da ci coś użytecznego. Snape sprawi, że będziesz żałował, że w ogóle nauczyłeś się chodzić. A Filch…
+
+Pansy weszła mu w słowo:
+
+— Filch najchętniej zamknąłby wszystkich uczniów w lochach i wyrzucił klucz.
+
+Draco uśmiechnął się krzywo.
+
+— Czyli właściwie niewiele różniłoby się od naszego pokoju wspólnego.
+
+Kilku siedzących obok Ślizgonów zaśmiało się cicho.
+
+Theodore zamknął książkę.
+
+— Jeśli naprawdę planujesz nocne wycieczki, najważniejsze nie jest to, czy szlaban jest dziecinny.
+
+Spojrzał na Jamesa spokojnie.
+
+— Tylko czy jesteś wystarczająco dobry, żeby nie dać się złapać.
+
+
+
+[C1-M0161]
+===== USER =====
+
+— a jak zostać prefektem?
+
+
+
+[C1-M0162]
+===== ASSISTANT =====
+
+Draco spojrzał na Jamesa tak, jakby pytanie było bardziej interesujące, niż się spodziewał.
+
+— Prefektem? — powtórzył. — Tego się raczej nie „załatwia”.
+
+Theodore odłożył książkę na kolana.
+
+— Prefektów wybiera szkoła. Zwykle na piątym roku. Po jednym chłopaku i jednej dziewczynie z każdego domu.
+
+Pansy wzruszyła ramionami.
+
+— Liczą się oceny, zachowanie, to czy nauczyciele ci ufają… i pewnie jeszcze kilka rzeczy, których nigdy oficjalnie nie powiedzą.
+
+Draco uśmiechnął się krzywo.
+
+— Czyli jeśli planujesz zostać prefektem tylko po to, żeby legalnie włóczyć się po zamku nocą, radziłbym nie mówić tego Snape’owi.
+
+Theodore parsknął cicho.
+
+— Zwłaszcza po dzisiejszej rozmowie o różdżce jako „przestrodze”.
+
+Draco spojrzał na Jamesa.
+
+— Ale jeśli naprawdę zostaniesz z nami na czwartym roku, to najwcześniej temat pojawi się w przyszłym roku.
+
+Po chwili uniósł brew.
+
+— Chociaż patrząc na to, jak szybko zdążyłeś zwrócić na siebie uwagę nauczycieli… kto wie. Możesz sobie zacząć budować reputację już teraz.
+
+
+
+[C1-M0163]
+===== USER =====
+
+chwilę się zastanawiałem a potem kiwnąłem głową - Dzięki, skierowałem się w stronę dormitorium jak rozpoznam swój pokój
+
+
+
+[C1-M0164]
+===== ASSISTANT =====
+
+Draco odwrócił się jeszcze w stronę Jamesa, zanim ten zniknął za przejściem prowadzącym do dormitoriów.
+
+— Czwarty rok chłopców, drugie drzwi po prawej — powiedział. — Twoje łóżko powinno już być przygotowane.
+
+Pansy dorzuciła z kanapy:
+
+— Jeśli skrzaty niczego nie pomyliły.
+
+— Nie pomyliły — mruknął Theodore.
+
+Draco wskazał korytarz.
+
+— Poznasz po kufrze. I pewnie po nazwisku, jeśli ktoś uznał, że nowy uczeń potrzebuje dodatkowej instrukcji obsługi.
+
+Kamienny korytarz prowadzący do dormitoriów był jeszcze chłodniejszy niż pokój wspólny. Po kilku krokach James minął pierwsze drzwi, a za kolejnymi znalazł pomieszczenie przeznaczone dla chłopców z jego rocznika.
+
+W środku stało kilka łóżek z ciemnozielonymi kotarami. Przy części z nich leżały już kufry i osobiste rzeczy należące do Draco, Crabbe’a, Goyle’a, Theodore’a i innych chłopców.
+
+Jedno łóżko wyglądało wyraźnie na przygotowane niedawno.
+
+Obok niego stał bagaż Jamesa, starannie ustawiony przy drewnianej skrzyni. Na niewielkiej metalowej plakietce przy ramie łóżka widniało po prostu:
+
+J. BROWN
+
+Za grubymi szybami dormitorium przesuwała się ciemna woda jeziora, rzucając po suficie powolne, zielonkawe refleksy.
+
+
+
+[C1-M0165]
+===== USER =====
+
+bez słowa podszedłem do bagażu i z jednej kieszeni wyjąłem zdjęcie mojej rodziny i ustawiłem na szawce obok łóżka a potem położyłem się na łóżku i zamknąłem oczy przechodząc w tryb czuwania
+
+
+
+[C1-M0166]
+===== ASSISTANT =====
+
+Dormitorium stopniowo cichło.
+
+James leżał nieruchomo z zamkniętymi oczami, ale nie spał. Oddech pozostawał równy, ciało odpoczywało, podczas gdy świadomość nie odpływała ani na moment.
+
+Zdjęcie ustawione na szafce obok łóżka poruszyło się lekko w swoim magicznym kadrze. Dwie dorosłe sylwetki i młodsza dziewczynka spoglądały z fotografii, zamrożone w chwili należącej do zupełnie innego czasu.
+
+Po kilkunastu minutach drzwi dormitorium otworzyły się.
+
+Najpierw wszedł Theodore Nott, nadal z książką pod pachą. Za nim pojawili się Draco, Crabbe i Goyle.
+
+— Nie śpi? — szepnął Crabbe, zerkając w stronę łóżka Jamesa.
+
+Draco spojrzał na zasłonięte oczy nowego współlokatora.
+
+— Wygląda, jakby spał.
+
+Theodore zaczął zdejmować szkolną szatę.
+
+— W takim razie może zrób coś niezwykłego i nie budź go.
+
+Draco już miał odpowiedzieć, gdy jego wzrok przypadkiem padł na fotografię stojącą obok łóżka Jamesa.
+
+Zatrzymał się.
+
+Nie podszedł bliżej.
+
+— To jego rodzina? — zapytał ciszej.
+
+Theodore rzucił krótkie spojrzenie.
+
+— Prawdopodobnie.
+
+Draco przez moment obserwował fotografię, ale tym razem nie było w nim wcześniejszej zaczepności.
+
+— W plotkach nic o nich nie mówili.
+
+— Plotki rzadko zawierają rzeczy, które naprawdę mają znaczenie — odpowiedział Theodore.
+
+Draco spojrzał jeszcze raz na Jamesa, po czym odwrócił się i zaczął przygotowywać własne łóżko.
+
+Po kilku minutach rozmowy ucichły.
+
+Jedna po drugiej kotary wokół łóżek zostały zasunięte.
+
+Światło zgasło.
+
+Pozostała jedynie zielonkawa poświata przenikająca przez wodę Czarnego Jeziora.
+
+Minęła godzina.
+
+Potem kolejna.
+
+James nadal czuwał.
+
+Mógł słyszeć spokojne oddechy śpiących współlokatorów, odległe skrzypnięcia starego zamku i głuchy szum wody za grubymi szybami.
+
+A gdzieś znacznie dalej, w korytarzach nad lochami, zegar Hogwartu wybił północ.
+
+Pierwsza noc Jamesa Browna w Hogwarcie dopiero się zaczynała.
+
+
+
+[C1-M0167]
+===== USER =====
+
+w pewnym momencie otworzyłem oczy a zegar pokazywał piątą rano wstałem z łóżka poszedłem do łazienki zgłoliłem zarost umyłem zęby i wziąłem prysznic a potem założyłem mundurek czyli czarną szate z zieloną podszewką i herbem Slytherinu szarą kamizelkę, białą koszule czarne spodnie oraz krawata w zielono-srebrne pasy spojrzałem w lustro i jeszcze poprawiłem krawat i później wyszeldm z łazienki i po chwili znalazłem się w pokoju wspólnym Slytherinu a nstępnie przygotowałem sobie dużą czarną kawę bez cukru i usiadłem na fotelu przy kominku i powoli zacząłem popijać
+
+
+
+[C1-M0168]
+===== ASSISTANT =====
+
+O piątej rano pokój wspólny Slytherinu wyglądał zupełnie inaczej niż poprzedniego wieczoru.
+
+Nie było rozmów, śmiechu ani przesuwanych krzeseł. Ogień w kominku dogasał, pozostawiając jedynie czerwone smugi pomiędzy ciemnymi kawałkami drewna. Za grubymi szybami Czarne Jezioro było niemal całkowicie czarne; od czasu do czasu w oddali przesuwał się niewyraźny cień jakiegoś stworzenia.
+
+James siedział sam w fotelu, już kompletnie ubrany, z poprawionym zielono-srebrnym krawatem. Para unosiła się znad dużej filiżanki czarnej kawy.
+
+Przez dłuższy czas nic nie zakłócało ciszy poza cichym trzaskiem kominka.
+
+Dopiero po kilku minutach z korytarza prowadzącego do dormitoriów dobiegły kroki.
+
+Theodore Nott pojawił się w przejściu, jeszcze bez szkolnej szaty, z lekko potarganymi włosami. Zatrzymał się, gdy zobaczył Jamesa siedzącego przy kominku.
+
+Przez moment milczał.
+
+— Jest piąta rano.
+
+Spojrzał na kawę.
+
+— I ty już jesteś ubrany.
+
+Theodore podszedł do stolika i nalał sobie wody.
+
+— Nie mogłeś spać?
+
+Nie zabrzmiało to szczególnie wścibsko. Raczej jak zwykłe pytanie kogoś, kto nie spodziewał się spotkać współlokatora o tej porze.
+
+
+
+[C1-M0169]
+===== USER =====
+
+— Ja nigdy nie śpię....
+
+
+
+[C1-M0170]
+===== ASSISTANT =====
+
+Theodore zatrzymał szklankę w połowie drogi do ust.
+
+Przez chwilę patrzył na Jamesa tak, jakby próbował ustalić, czy właśnie usłyszał żart.
+
+— Nigdy?
+
+Nie było w jego głosie kpiny. Bardziej ostrożne niedowierzanie.
+
+Spojrzał na ciemne okna wychodzące na jezioro, potem z powrotem na Jamesa.
+
+— Wczoraj wyglądałeś, jakbyś spał.
+
+Usiadł na fotelu naprzeciwko, nadal trzymając wodę.
+
+— Leżałeś z zamkniętymi oczami przez kilka godzin.
+
+Krótka pauza.
+
+— Więc albo właśnie dowiaduję się, że Brown potrafi spać z otwartym umysłem...
+
+Kącik jego ust drgnął minimalnie.
+
+— ...albo powinieneś wyjaśnić, co dokładnie znaczy „nigdy nie śpię”.
+
+Z korytarza prowadzącego do dormitoriów nadal nie dochodziły żadne inne odgłosy. Reszta Slytherinu najwyraźniej jeszcze spała.
+
+Theodore nie wyglądał na przestraszonego ani szczególnie podekscytowanego. Po prostu czekał na odpowiedź, tym razem wyraźnie naprawdę zainteresowany.
+
+
+
+[C1-M0171]
+===== USER =====
+
+Po prostu nie śpię ale tak leżałem z zamkniętymi oczami a jak weszliście do pokoju słyszałem waszą wymianę zdań...
+
+
+
+[C1-M0172]
+===== ASSISTANT =====
+
+Theodore zastygł na moment ze szklanką w dłoni.
+
+— Czyli słyszałeś nas.
+
+Nie wyglądał na szczególnie zakłopotanego, ale przez sekundę wyraźnie odtwarzał sobie w głowie nocną rozmowę.
+
+— Świetnie.
+
+Kącik jego ust drgnął.
+
+— W takim razie przynajmniej nie powiedzieliśmy niczego, czego nie powiedzielibyśmy ci w twarz.
+
+Upił łyk wody i usiadł wygodniej.
+
+— Ale bardziej interesuje mnie ta pierwsza część.
+
+Spojrzał na Jamesa uważnie.
+
+— Mówisz „nie śpię” tak, jak ktoś inny powiedziałby „nie piję herbaty”.
+
+Krótka cisza.
+
+— Od jak dawna?
+
+Theodore nie naciskał tonem. Nie wyglądał też na kogoś, kto zamierza zaraz pobiec z tą informacją do całego domu. Był po prostu autentycznie zaciekawiony.
+
+Po chwili dodał:
+
+— I zanim zapytasz: nie, nie zamierzam budzić Malfoya tylko po to, żeby mu powiedzieć, że nowy współlokator przez całą noc słuchał, jak gada.
+
+Spojrzał na czarną kawę Jamesa.
+
+— Chociaż jego mina byłaby pewnie warta zobaczenia.
+
+
+
+[C1-M0173]
+===== USER =====
+
+To już będzie 10 lat....
+
+
+
+[C1-M0174]
+===== ASSISTANT =====
+
+Theodore znieruchomiał.
+
+— Dziesięć lat?
+
+Teraz w jego głosie nie było już zwykłej ciekawości. Patrzył na Jamesa znacznie uważniej, jakby próbował zrozumieć, czy usłyszał to dosłownie.
+
+— Brown, to nie brzmi jak „mam lekki sen”.
+
+Odstawił szklankę na stolik.
+
+— Chcesz powiedzieć, że przez dziesięć lat ani razu naprawdę nie zasnąłeś?
+
+Jego spojrzenie przesunęło się na filiżankę kawy.
+
+— I nadal funkcjonujesz normalnie?
+
+Przez chwilę milczał.
+
+— To magia? Jakiś efekt uboczny? Rodzinna cecha?
+
+Theodore nie wyglądał na przestraszonego. Bardziej na kogoś, kto właśnie dostał do rozwiązania problem znacznie ciekawszy niż poranny plan zajęć.
+
+Po chwili dodał ciszej:
+
+— Czy po prostu nauczyłeś się tak odpoczywać?
+
+
+
+[C1-M0175]
+===== USER =====
+
+Nie jestem pewien, odpoczywam ale nie tak bardzo jak kiedyś....gdy jeszcze spałem...
+
+
+
+[C1-M0176]
+===== ASSISTANT =====
+
+Theodore przez chwilę nic nie mówił.
+
+Jego wcześniejsza ciekawość trochę przygasła, ustępując miejsca bardziej ostrożnemu namysłowi.
+
+— Czyli to nie jest tak, że po prostu znalazłeś lepszy sposób niż sen.
+
+Spojrzał na Jamesa uważnie.
+
+— Po prostu nauczyłeś się funkcjonować bez niego.
+
+Na moment jego wzrok przesunął się na czarną kawę.
+
+— I odpoczynek nadal jest gorszy.
+
+Theodore oparł się głębiej w fotelu.
+
+— Dziesięć lat to... długo.
+
+Nie pytał od razu dlaczego. Wyraźnie zauważył, że temat może mieć drugie dno.
+
+Po chwili powiedział tylko:
+
+— Jeśli kiedyś zaczniesz wyglądać, jakbyś miał się przewrócić, to uprzedzam, że nie będę cię dźwigał do skrzydła szpitalnego.
+
+Kącik jego ust drgnął lekko.
+
+— Malfoy jest bliżej twojego łóżka. Niech on ma ten zaszczyt.
+
+Z korytarza prowadzącego do dormitoriów dobiegł cichy trzask drzwi.
+
+Theodore spojrzał w tamtą stronę.
+
+— A skoro o nim mowa...
+
+Po chwili w przejściu pojawił się Draco, jeszcze wyraźnie zaspany. Zatrzymał się, kiedy zobaczył Jamesa już w pełnym mundurku z kawą w dłoni oraz Theodore’a siedzącego naprzeciwko.
+
+— Co wy robicie o tej porze? — mruknął.
+
+Theodore zerknął na Jamesa.
+
+— Brown właśnie wyjaśniał mi, że najwyraźniej nie potrzebuje snu.
+
+Draco przestał ziewać.
+
+
+
+[C1-M0177]
+===== USER =====
+
+— mógłbym zapytać o to samo....czemu wstaliśvie tak wcześnie?
+
+
+
+[C1-M0178]
+===== ASSISTANT =====
+
+Draco zmrużył oczy, jeszcze wyraźnie nie do końca przytomny.
+
+— Ja? — mruknął. — Bo Nott najwyraźniej postanowił urządzić sobie poranny spacer po dormitorium i obudził połowę pokoju.
+
+Theodore spojrzał na niego bez cienia skruchy.
+
+— Otworzyłem drzwi.
+
+— Głośno.
+
+— Drzwi nie mają ustawienia „delikatny Malfoy”.
+
+Draco przewrócił oczami i podszedł bliżej kominka.
+
+— Poza tym i tak miałem wstać wcześniej. Pierwszy pełny dzień zajęć, nowe plany, całe to zamieszanie z Turniejem...
+
+Spojrzał na Jamesa, już nieco bardziej przytomnie.
+
+— I najwyraźniej nowy współlokator, który o piątej rano siedzi w pełnym mundurku i pije kawę, jakby to było zupełnie normalne.
+
+Theodore uniósł szklankę.
+
+— W jego obronie: dla niego chyba jest.
+
+Draco zerknął na filiżankę.
+
+— Duża. Czarna. Bez cukru?
+
+Pokręcił głową.
+
+— Brown, zaczynam podejrzewać, że jesteś w środku czterdziestoletnim urzędnikiem Ministerstwa.
+
+Theodore parsknął cicho.
+
+— To by wyjaśniało krawat poprawiany o piątej rano.
+
+
+
+[C1-M0179]
+===== USER =====
+
+— czasami też pije z mlekiem śmietnaką cynamonem i dużą ilością cukru....ale w środku chyba jestem po prostu po części martwy...
+(Czat tak btw czy na pewno zachowujesz charaktery postaci?)
+
+
+
+[C1-M0180]
+===== ASSISTANT =====
+
+(Nie w 100% — i dobrze, że o to pytasz. Zacząłem trochę za bardzo wygładzać postacie pod Jamesa. Najbardziej widać to u Draco: za szybko przeszedł z oceniania nowego ucznia do niemal koleżeńskich żartów. Powinien być bardziej wyniosły, statusowy, konkurencyjny i ostrożny; zainteresowanie Jamesem może mieć, nawet duże, ale nie powinno automatycznie oznaczać sympatii. Theodore'a z kolei zacząłem używać zbyt często jako dowcipnego komentatora — przy nim lepiej zachować większy dystans i oszczędność, zamiast dopisywać mu mocno określoną osobowość tam, gdzie kanon daje mało materiału.
+
+Snape'a, McGonagall, Harry'ego, Rona i Hermionę trzymaliśmy dotąd znacznie bliżej ich własnych charakterów, choć też będę pilnował, żeby nikt nie stawał się milszy, bardziej zainteresowany Jamesem ani bardziej zgodny z nim tylko dlatego, że jest protagonistą.
+
+Od teraz zaostrzam zasadę: kanoniczny charakter ma pierwszeństwo przed wygodą fabuły. Draco może Jamesa szanować i jednocześnie być zazdrosny, arogancki czy próbować ustalać hierarchię. Hermiona może być zainteresowana, ale również krytyczna. Ron może go nie lubić. Snape może doceniać talent i nadal być Snape'em. I NPC nie będą krążyć cały czas wokół Jamesa, jeśli nie mają ku temu powodu.
+
+A teraz wracamy do sceny.)
+
+Draco, który właśnie sięgał po dzbanek, zatrzymał rękę przy słowach „po części martwy”.
+
+Jego mina stężała odrobinę.
+
+— Masz naprawdę osobliwy sposób mówienia o sobie, Brown.
+
+Nie zabrzmiało to już jak wcześniejszy żart. Draco przyjrzał mu się przez moment, po czym nalał sobie napoju.
+
+— I zdecydowanie zbyt dużo dramatyzmu jak na piątą rano.
+
+Theodore nie skomentował. Tym razem tylko obserwował Jamesa przez sekundę, po czym spuścił wzrok na swoją szklankę.
+
+Draco usiadł w fotelu nieco dalej.
+
+— Natomiast wersja z cukrem i śmietanką brzmi przynajmniej jak coś, co pije człowiek.
+
+Zerknął na czarną kawę Jamesa.
+
+— To wygląda jak coś, czym Snape czyści kociołki.
+
+
+
+[C1-M0181]
+===== USER =====
+
+— Nie tylko wygląda ale i też tak smakuje....
+
+
+
+[C1-M0182]
+===== ASSISTANT =====
+
+Draco spojrzał na Jamesa przez sekundę, potem na filiżankę.
+
+— W takim razie nie rozumiem, po co to pijesz.
+
+Theodore wzruszył ramionami.
+
+— Ludzie robią wiele rzeczy, których nie lubią, tylko dlatego, że działają.
+
+Draco prychnął.
+
+— To zabrzmiało podejrzanie rozsądnie jak na tę porę.
+
+W pokoju wspólnym zaczęły pojawiać się pierwsze oznaki życia. Gdzieś w korytarzu dormitoriów skrzypnęły drzwi, po chwili dało się usłyszeć czyjeś kroki i stłumione narzekanie.
+
+Draco spojrzał w stronę przejścia, potem znów na Jamesa.
+
+— Skoro już siedzisz gotowy od świtu, Brown, to przynajmniej dziś się nie spóźnisz.
+
+Krótka pauza.
+
+— Chyba że Hogwart postanowi się z tobą nie zgodzić. Schody mają paskudny charakter.
+
+Theodore uniósł lekko brew.
+
+— To nie schody mają charakter. To uczniowie mają złudzenie, że zamek powinien im ułatwiać życie.
+
+Draco rzucił mu chłodne spojrzenie.
+
+— I dlatego właśnie nikt cię nie pytał.
+
+Po chwili wrócił wzrokiem do Jamesa.
+
+— Masz już właściwy plan zajęć czy nadal ten tymczasowy od Snape’a?
+
+
+
+[C1-M0183]
+===== USER =====
+
+— Tymczasowy, o której zaczyna się śniadanie?
+
+
+
+[C1-M0184]
+===== ASSISTANT =====
+
+(Mała rzecz dla spójności: kanon nie podaje sztywnej godziny rozpoczęcia śniadania; wiadomo natomiast, że odbywa się ono przed pierwszymi zajęciami około 9:00. Dla naszego RPG przyjmijmy więc, że śniadanie jest dostępne mniej więcej od 7:30, a uczniowie schodzą na nie w różnym czasie. 
+Harry Potter Lexicon
+)
+
+Draco spojrzał w stronę zegara.
+
+— Jeszcze masz mnóstwo czasu. Około wpół do ósmej zaczynają się schodzić pierwsi, a przed dziewiątą i tak wszyscy muszą zdążyć na zajęcia.
+
+Theodore zerknął na Jamesa znad szklanki.
+
+— Czyli przed tobą jeszcze jakieś dwie godziny siedzenia tutaj i udawania, że ta kawa jest jadalna.
+
+Draco prychnął.
+
+— Albo możesz zwiedzić kawałek zamku, skoro najwyraźniej nie potrzebujesz snu.
+
+Po sekundzie dodał nieco chłodniej:
+
+— Chociaż jeśli zgubisz się przed pierwszą lekcją, nie zamierzam tłumaczyć Snape’owi, dlaczego nowy Ślizgon zniknął po jednej nocy.
+
+W pokoju wspólnym nadal było niemal pusto. Z dormitoriów dochodziły tylko pojedyncze odgłosy budzących się uczniów, a za oknami Czarnego Jeziora powoli zaczynało robić się jaśniej.
+
+
+
+[C1-M0185]
+===== USER =====
+
+wypiłem kawę do końca a potem poprawiłem krawat — Jak się zgubię to zapytam jakiegoś ducha powiedziałem i wstałem z fotela kierując się do wyjścia z pokoju wspólnego
+
+
+
+[C1-M0186]
+===== ASSISTANT =====
+
+Kamienna ściana rozsunęła się przed Jamesem, odsłaniając chłodny korytarz lochów. O tej porze zamek był niemal zupełnie cichy.
+
+Za plecami dobiegł jeszcze głos Draco:
+
+— Jeśli wrócisz po śniadaniu i stwierdzisz, że duch wysłał cię na wieżę astronomiczną, sam jesteś sobie winien.
+
+Theodore nic nie dodał.
+
+Przejście zamknęło się za Jamesem i pokój wspólny zniknął za pozornie zwyczajną ścianą.
+
+Lochy wyglądały inaczej niż wieczorem. Nie było tłumu uczniów, odgłosów kroków ani rozmów. Tylko pochodnie, chłodne kamienie i echo własnych ruchów.
+
+James minął salę eliksirów, potem rozwidlenie prowadzące ku schodom na wyższe poziomy zamku.
+
+Przez pierwsze kilka minut nie spotkał nikogo.
+
+Aż z sufitu przed nim powoli przeniknęła srebrzysta sylwetka.
+
+Krwawy Baron.
+
+Duch opadł kilka centymetrów nad posadzkę i zatrzymał się, rozpoznając Jamesa.
+
+— Znowu Brown.
+
+Jego głos był niski i spokojny.
+
+Baron spojrzał na pusty korytarz, potem na całkowicie ubranego Jamesa.
+
+— Jest bardzo wcześnie.
+
+Krótka pauza.
+
+— Tym razem również czegoś szukasz?*
+
+
+
+[C1-M0187]
+===== USER =====
+
+Dzień dobry, po prostu zwiedzam...
+
+
+
+[C1-M0188]
+===== ASSISTANT =====
+
+Krwawy Baron przez chwilę patrzył na Jamesa, jakby samo słowo „zwiedzam” o tej porze było czymś wartym odnotowania.
+
+— Rozsądniej niż błądzić bez celu.
+
+Duch przesunął się powoli wzdłuż korytarza, niemal bezszelestnie.
+
+— O tej porze zamek jest spokojniejszy. Łatwiej zobaczyć jego układ, zanim uczniowie zaczną wypełniać schody i korytarze.
+
+Spojrzał na Jamesa z ukosa.
+
+— Ale nie zakładaj, że wszystko, co znajdziesz rano, będzie równie łatwo dostępne wieczorem. Hogwarts ma swoje kaprysy.
+
+Przez moment Baron milczał, po czym wskazał w stronę schodów prowadzących wyżej.
+
+— Jeśli chcesz tylko poznać drogę, główne schody doprowadzą cię do Wielkiej Sali, biblioteki i większości sal lekcyjnych.
+
+Krótka pauza.
+
+— Jeśli chcesz zobaczyć coś ciekawszego...
+
+Jego wzrok przesunął się ku ciemniejszemu odgałęzieniu korytarza.
+
+— ...to zależy, jak bardzo lubisz miejsca, do których większość uczniów nie zagląda bez powodu.
+
+
+
+[C1-M0189]
+===== USER =====
+
+— to zależy ale chyba pierwszego dnia będę unikać takich miejsc ale w przyszłości....kto wie
+
+
+
+[C1-M0190]
+===== ASSISTANT =====
+
+Krwawy Baron skinął powoli głową.
+
+— Rozsądne.
+
+Nie próbował go przekonywać. Przez chwilę tylko unosił się w chłodnym półmroku korytarza, po czym spojrzał w stronę schodów prowadzących ku wyższym piętrom.
+
+— Hogwarts nagradza ciekawość.
+
+Krótka pauza.
+
+— I czasem za nią karze.
+
+To powiedziawszy, przesunął się w bok, jakby uznał rozmowę za zakończoną.
+
+— Jeśli chcesz poznać zamek, zacznij od miejsc, do których rzeczywiście będziesz musiał trafić. Wielka Sala. Biblioteka. Skrzydło szpitalne. Sale lekcyjne.
+
+Jego srebrzysta sylwetka zaczęła przenikać przez kamienną ścianę.
+
+— Tajemnice nie uciekną.
+
+Po chwili zniknął całkowicie.
+
+James został sam na pustym korytarzu. Przed nim schody prowadziły ku głównym częściom zamku, a z wyższych pięter zaczynały dochodzić pierwsze odgłosy budzącego się Hogwartu — odległe kroki, skrzypienie drzwi i pojedyncze głosy uczniów.
+
+Do śniadania wciąż pozostawało sporo czasu.
+
+
+
+[C1-M0191]
+===== USER =====
+
+*postanowiłem skierować się w stronę skrzydła szpitalnego po drodze kłaniając się i pozdrawiając duchy i portrety*
+
+
+
+[C1-M0192]
+===== ASSISTANT =====
+
+Droga do skrzydła szpitalnego zajęła trochę więcej czasu, niż mogłoby się wydawać.
+
+Hogwart o świcie był znacznie łatwiejszy do poznawania niż w czasie przerw między lekcjami. Korytarze pozostawały niemal puste, dzięki czemu James mógł spokojnie zapamiętywać zakręty, schody i charakterystyczne elementy otoczenia.
+
+Jego zwyczaj pozdrawiania portretów szybko zaczął wywoływać reakcje.
+
+— Dzień dobry, młody człowieku — odpowiedziała zaspanym głosem starsza czarownica w ogromnym kapeluszu, poprawiając okulary na nosie.
+
+Kilka obrazów dalej rycerz w porysowanej zbroi odpowiedział Jamesowi przesadnie głębokim ukłonem.
+
+— Nareszcie uczeń posiadający maniery!
+
+— Jest szósta rano, przestań krzyczeć — warknął czarodziej z sąsiedniego portretu, nie otwierając nawet oczu.
+
+Rycerz wyglądał na urażonego.
+
+— Maniery nigdy nie śpią!
+
+James ruszył dalej.
+
+Na jednym z kolejnych korytarzy przez ścianę wynurzył się Prawie Bezgłowy Nick. Duch zatrzymał się, gdy James skłonił mu się na powitanie.
+
+— Och!
+
+Nick natychmiast odpowiedział eleganckim ukłonem, przytrzymując głowę, żeby podczas ruchu nie przechyliła się niebezpiecznie.
+
+— Dzień dobry! Sir Nicholas de Mimsy-Porpington, do usług.
+
+Przyjrzał się zielono-srebrnym barwom Jamesa.
+
+— Ty musisz być tym nowym uczniem Slytherinu.
+
+Na jego twarzy pojawił się uprzejmy, choć wyraźnie zaciekawiony uśmiech.
+
+— Plotki mają w Hogwarcie niezwykłą przewagę nad oficjalnymi przedstawieniami.
+
+Nie zatrzymywał go jednak pytaniami.
+
+Kiedy James wspomniał kierunek swojej wędrówki, Nick wskazał dalszy korytarz.
+
+— Skrzydło szpitalne znajdziesz dalej tędy. Trudno je przeoczyć.
+
+Ukłonił się ponownie.
+
+— Mam tylko nadzieję, że pierwszego ranka idziesz tam jako turysta, nie pacjent.
+
+Kilka minut później James dotarł do właściwego miejsca.
+
+Drzwi skrzydła szpitalnego były uchylone.
+
+W środku stały rzędy schludnie pościelonych łóżek oddzielonych białymi parawanami. Pomieszczenie pachniało ziołami, środkami leczniczymi i czymś ostrym, czego James nie potrafił od razu zidentyfikować.
+
+Większość łóżek była pusta.
+
+Gdzieś w głębi pomieszczenia rozległ się brzęk szkła.
+
+Po chwili zza jednego z parawanów wyszła Madam Pomfrey, niosąc tacę z fiolkami.
+
+Zatrzymała się, gdy zauważyła ucznia stojącego przy wejściu.
+
+Jej wzrok błyskawicznie przesunął się po Jamesie, jakby zawodowy odruch kazał jej w ciągu sekundy ocenić, czy krwawi, kuleje albo zaraz zemdleje.
+
+— Nie wyglądasz na rannego.
+
+Postawiła tacę na pobliskim stoliku.
+
+— Co cię sprowadza do skrzydła szpitalnego o tej porze?
+
+
+
+[C1-M0193]
+===== USER =====
+
+wszedłem do środka
+— Dzień dobry, jestem nowy i korzystam z czasu i trochę zwiedzam....
+
+
+
+[C1-M0194]
+===== ASSISTANT =====
+
+Madam Pomfrey przyjrzała się Jamesowi jeszcze przez moment, jakby upewniała się, że „zwiedzanie” nie jest tylko bardziej eleganckim określeniem na ukrywanie urazu.
+
+— W takim razie masz szczęście. Wolę uczniów, którzy odwiedzają mnie zanim zrobią sobie krzywdę, niż tych, których później trzeba tu wnosić.
+
+Jej ton był rzeczowy, niemal surowy, ale nie nieprzyjazny.
+
+— Poppy Pomfrey. Pielęgniarka szkolna.
+
+Skinęła krótko głową w stronę rzędów łóżek.
+
+— To skrzydło szpitalne. Jeśli coś ci się stanie, przychodzisz tutaj. Nie próbujesz „przeczekać”, nie pozwalasz kolegom eksperymentować na sobie i zdecydowanie nie diagnozujesz się na podstawie książki znalezionej w bibliotece.
+
+Wzięła z powrotem tacę z fiolkami.
+
+— Uczniowie mają zadziwiający talent do uznawania złamań, zatruć i uroków za drobnostki.
+
+Jej spojrzenie zatrzymało się na Jamesie.
+
+— Skoro jesteś nowy, zapamiętaj jeszcze jedno: jeśli będziesz potrzebował pomocy w nocy, drzwi również nie są dekoracją. Masz wejść i mnie obudzić.
+
+Po chwili uniosła brew.
+
+— A teraz, skoro naprawdę tylko zwiedzasz… jest coś konkretnego, o co chciałeś zapytać, czy planujesz obejrzeć każde łóżko po kolei?*
+
+
+
+[C1-M0195]
+===== USER =====
+
+— James Brown słuchałem tego co mówi a potem zapytałem
+— Z jakich przyczyn najprędzej tu trafię?
+
+
+
+[C1-M0196]
+===== ASSISTANT =====
+
+Madam Pomfrey powtórzyła nazwisko w myślach, jakby porządkowała je razem z resztą nowych uczniów.
+
+— Brown. Dobrze.
+
+Na pytanie Jamesa westchnęła krótko i oparła dłoń o krawędź stolika.
+
+— Najczęściej? Z bardzo przyziemnych powodów, jak na szkołę magii.
+
+Zaczęła odliczać na palcach.
+
+— Nieudane zaklęcia. Eksperymenty z eliksirami. Upadki ze schodów. Quidditch. Ugryzienia i zadrapania przez stworzenia, których ktoś „na pewno umiał dotknąć”. Klątwy rzucone dla żartu. I uczniowie próbujący udowodnić coś sobie nawzajem.
+
+Jej wzrok zatrzymał się na Jamesie odrobinę dłużej.
+
+— To ostatnie jest szczególnie popularne wśród tych, którzy są przekonani, że wiedzą więcej niż reszta.
+
+Nie powiedziała tego oskarżycielsko. Bardziej jak ktoś, kto widział ten schemat setki razy.
+
+— Do tego dochodzą rzeczy zwyczajnie nieprzewidywalne. Zamek. Zajęcia. Turnieje. Nauczyciele mają czasem bardzo ambitne pomysły na „praktykę”.
+
+Uniósł się jeden kącik jej ust.
+
+— Więc jeśli pytasz, z jakiego powodu ty najprędzej tu trafisz...
+
+Pomfrey przyjrzała mu się rzeczowo.
+
+— Obstawiałabym nadmierną pewność siebie albo próbę sprawdzenia czegoś, czego rozsądniej byłoby nie sprawdzać samemu.
+
+Po chwili dodała:
+
+— Chociaż byłabym bardzo zadowolona, gdybyś postanowił mnie rozczarować.
+
+
+
+[C1-M0197]
+===== USER =====
+
+lekko się usmiechnąłem
+— Nie mogę tego obiecać ale muszę Panią zmartwić że jeśli ktoś mnie zaatakuje to niestety ale odeśle go do Pani...
+
+
+
+[C1-M0198]
+===== ASSISTANT =====
+
+Uśmiech na twarzy Madam Pomfrey zniknął niemal natychmiast.
+
+— Proszę bardzo uważać, jak pan to formułuje, panie Brown.
+
+Odłożyła fiolkę, którą właśnie trzymała, i spojrzała na Jamesa znacznie surowiej.
+
+— Obrona to jedno. Próba „odesłania kogoś do mnie” to coś zupełnie innego.
+
+Jej ton nie był przestraszony ani oburzony. Brzmiała raczej jak ktoś, kto od lat składał uczniów po ich własnych głupich decyzjach.
+
+— Jeśli ktoś pana zaatakuje, ma pan prawo się bronić. Najlepiej tak, żeby zatrzymać zagrożenie i nie stworzyć mi dwóch pacjentów zamiast jednego.
+
+Krótka pauza.
+
+— Nie interesuje mnie, kto zaczął, kiedy obaj leżą potem z połamanymi kośćmi.
+
+Pomfrey zmierzyła Jamesa wzrokiem.
+
+— A jeśli naprawdę jest pan tak dobry, jak najwyraźniej pan uważa, tym bardziej powinien pan potrafić zakończyć konflikt bez robienia komuś trwałej krzywdy.
+
+Po chwili jej głos trochę złagodniał.
+
+— To jest znacznie lepszy dowód umiejętności niż wysłanie kogoś tutaj na noszach.
+
+Wzięła tacę z powrotem.
+
+— Ale doceniam przynajmniej, że ostrzegł mnie pan z wyprzedzeniem. Będę wiedziała, kogo szukać, jeśli pewnego dnia ktoś wpadnie tu przez drzwi z pańskim nazwiskiem na ustach.*
+
+
+
+[C1-M0199]
+===== USER =====
+
+— Dziękuję za rozmowę, mam jeszcze trochę czasu więc lecę dalej
+Powiedziałem i kiwnąłem głową a potem wyszedłem kierując się do biblioteki
+
+
+
+[C1-M0200]
+===== ASSISTANT =====
+
+Droga do biblioteki prowadziła Jamesa przez coraz jaśniejsze korytarze. Hogwart powoli budził się do życia — gdzieś w oddali trzasnęły drzwi, z góry dobiegły pierwsze kroki uczniów, a część portretów zaczynała już prowadzić poranne rozmowy.
+
+Przed samą biblioteką było jednak nadal cicho.
+
+Ciężkie drzwi pozostawały zamknięte, choć spod nich przebijała cienka smuga światła. Najwyraźniej ktoś był już w środku.
+
+Na ścianie obok wisiał portret wychudzonego czarodzieja w okularach, który obserwował Jamesa znad otwartej książki.
+
+— Za wcześnie — powiedział, zanim James zdążył o cokolwiek zapytać.
+
+Przewrócił stronę.
+
+— Madam Pince nie lubi uczniów przed biblioteką jeszcze bardziej niż nie lubi ich w bibliotece.
+
+Jakby na potwierdzenie jego słów zza drzwi dobiegł stłumiony dźwięk przesuwanej drabiny, potem stuk kilku odkładanych książek.
+
+Portret nachylił się odrobinę w stronę Jamesa.
+
+— Jeśli jednak jesteś dostatecznie nierozsądny, żeby zapukać...
+
+Urwał i poprawił okulary.
+
+— ...uprzedzam, że niczego nie widziałem.
+
+W tej samej chwili za drzwiami rozległy się szybkie, zdecydowane kroki.
+
+
+
