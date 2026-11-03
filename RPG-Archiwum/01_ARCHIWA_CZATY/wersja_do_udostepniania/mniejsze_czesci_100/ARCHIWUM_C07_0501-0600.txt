@@ -1,0 +1,1558 @@
+C7-M0501–C7-M0600 (100 wiadomości)
+
+[C7-M0501]
+===== USER =====
+
+-Dokladnie a przede nami jeszcze....4 lata? Czy 3?
+
+
+[C7-M0502]
+===== ASSISTANT =====
+
+Hermiona zmarszczyła lekko brwi i policzyła niemal odruchowo.
+
+— Trzy — odpowiedziała. — Kończymy właśnie czwarty rok. Zostaje piąty, szósty i siódmy. Siódmy jest ostatnim rokiem Hogwartu. 
+Harry Potter
++1
+
+Ginny spojrzała na Jamesa.
+
+— Chyba że planujesz specjalnie oblać któryś rok, żeby dłużej dręczyć Rona.
+
+Ron natychmiast prychnął.
+
+— Nie dawaj mu pomysłów.
+
+Hermiona zerknęła na Jamesa z lekkim uśmiechem.
+
+— Czyli jeszcze trzy lata wspólnych śniadań. Powinniście chyba zacząć ćwiczyć cierpliwość.
+
+
+[C7-M0503]
+===== USER =====
+
+-Myśle że nie będzie tak źle...
+
+
+[C7-M0504]
+===== ASSISTANT =====
+
+Hermiona spojrzała na Jamesa z lekkim uśmiechem.
+
+— Też tak myślę — odpowiedziała spokojnie. — Zwłaszcza jeśli wszyscy przestaniecie traktować każde śniadanie jak ćwiczenie z odporności psychicznej.
+
+Harry parsknął.
+
+— Ambitne założenie.
+
+Ginny pokiwała głową.
+
+— Bardzo ambitne.
+
+Ron zerknął na Jamesa, po czym wzruszył ramionami.
+
+— Trzy lata da się przeżyć.
+
+Hermiona natychmiast podchwyciła:
+
+— Widzisz? To już prawie optymizm.
+
+Ron prychnął.
+
+— Nie przesadzaj.
+
+Hermiona uśmiechnęła się pod nosem i wróciła do śniadania.
+
+— Małe kroki. Tak właśnie będziemy to robić.
+
+
+[C7-M0505]
+===== USER =====
+
+dalsza część sniadania minęła szybko i spokojnie potem skierowaliśmy się na pierwszą lekcję ja trzymałem się blisko Hermiony
+
+
+[C7-M0506]
+===== ASSISTANT =====
+
+Po śniadaniu strumień uczniów rozlał się po korytarzach. James i Hermiona zeszli razem w stronę lochów — piątkową pierwszą lekcją nadal były Eliksiry u Snape’a.
+
+Hermiona przez większość drogi trzymała się obok niego. Harry i Ron szli kilka kroków dalej, Ginny odłączyła wcześniej do własnego rocznika. Im niżej schodzili, tym chłodniejsze i ciemniejsze robiły się korytarze.
+
+Przed pracownią czekało już kilku Gryfonów i Ślizgonów. Draco stał z Pansy i Nottem; kiedy zauważył bordowo-złoty krawat Jamesa oraz to, jak blisko Hermiony się trzyma, rzucił im krótkie spojrzenie, ale tym razem niczego nie skomentował.
+
+Hermiona zerknęła na Jamesa.
+
+— Ostatni normalny dzień lekcji przed całym jutrzejszym szaleństwem — mruknęła. — Dziwnie to brzmi.
+
+Drzwi pracowni otworzyły się.
+
+Snape stał już przy swoim biurku.
+
+— Do środka. Jeżeli którykolwiek z państwa uznał, że koniec roku zwalnia go z punktualności albo umiejętności czytania instrukcji, dzisiejsza lekcja szybko wyprowadzi go z błędu.
+
+Uczniowie zaczęli zajmować miejsca. Hermiona skierowała się do swojego stanowiska i, zanim wyjęła przybory, rzuciła Jamesowi krótkie spojrzenie z lekkim uśmiechem.
+
+
+[C7-M0507]
+===== USER =====
+
+ja oczywiście zająłem wolne miejsce obok niej
+
+
+[C7-M0508]
+===== ASSISTANT =====
+
+Hermiona uniosła lekko brwi, gdy James bez wahania usiadł obok niej.
+
+— Oczywiście — mruknęła pod nosem, ale kącik jej ust od razu drgnął.
+
+Przesunęła swoje rzeczy odrobinę, robiąc mu więcej miejsca przy wspólnym blacie.
+
+Snape tymczasem przeszedł przed klasą i jednym ruchem różdżki sprawił, że na tablicy pojawiła się długa instrukcja.
+
+— Dzisiaj nie będę państwu przypominał podstaw, które powinniście znać od miesięcy. Ostatni dzień zajęć nie jest świętem narodowej niekompetencji.
+
+Kilka osób jęknęło cicho.
+
+Snape spojrzał po klasie.
+
+— Przygotujecie eliksir wieloskładnikowy wymagający dwóch oddzielnych etapów stabilizacji. Jeżeli którykolwiek z nich wykonacie zbyt wcześnie, efekt końcowy będzie bezużyteczny. Jeżeli zbyt późno — będzie równie bezużyteczny, tylko bardziej efektownie.
+
+Jego wzrok zatrzymał się na Jamesie odrobinę dłużej.
+
+— Pan Brown otrzyma wariant z innymi proporcjami składników. Jak zwykle. Nie widzę powodu, by ostatniego dnia nagle ułatwiać panu życie.
+
+Hermiona zerknęła na Jamesa z boku.
+
+— Oczywiście, że dostałeś trudniejszy — szepnęła. — Snape chyba naprawdę uznał to już za tradycję.
+
+
+[C7-M0509]
+===== USER =====
+
+w odpowiedzi tylko kiwnąłem głową
+
+
+[C7-M0510]
+===== ASSISTANT =====
+
+Hermiona od razu wróciła do instrukcji i zaczęła rozkładać składniki na swoim stanowisku, już całkowicie skupiona.
+
+Snape przeszedł między stołami, rozdając kilku uczniom dodatkowe kartki. Kiedy dotarł do Jamesa, położył przed nim osobny pergamin.
+
+— Pańska wersja — rzucił krótko. — Inne proporcje, inny punkt pierwszej stabilizacji. Reszta zasad bez zmian.
+
+Hermiona zerknęła na kartkę Jamesa tylko na moment, ale nie próbowała zaglądać mu przez ramię ani podpowiadać bez pytania.
+
+— Powodzenia — szepnęła cicho, po czym wróciła do własnego kociołka.
+
+W sali szybko rozległy się znajome dźwięki: krojenie składników, stuk szkła, szuranie moździerzy i pierwsze bulgotanie podgrzewanych wywarów.
+
+Snape zatrzymał się przy biurku.
+
+— Zaczynacie.
+
+
+[C7-M0511]
+===== USER =====
+
+przystąpiłem do zadania i wykonałem je szybko ale dokładnie Czyli tak jak zwykle.
+
+
+[C7-M0512]
+===== ASSISTANT =====
+
+Eliksir powstawał bez większych niespodzianek. James trzymał tempo wyraźnie szybsze od większości klasy, ale kolejne etapy nadal wykonywał precyzyjnie — także oba momenty stabilizacji w zmienionym wariancie.
+
+Snape pojawił się przy jego stanowisku, kiedy wywar był już praktycznie gotowy. Przez kilka sekund obserwował powierzchnię eliksiru, potem przesunął wzrokiem po przygotowanych składnikach i pergaminie z instrukcją.
+
+— Hm.
+
+Tyle na początek.
+
+Nachylił się odrobinę nad kociołkiem.
+
+— Właściwa konsystencja. Stabilizacja utrzymana. I, ku mojemu rozczarowaniu, żadnej katastrofy na pożegnanie roku.
+
+Wyprostował się.
+
+— Proszę pobrać próbkę i podpisać fiolkę.
+
+Potem ruszył dalej, natychmiast zatrzymując się przy innym stanowisku.
+
+— Longbottom. Jeżeli pański eliksir zaczyna produkować własną pianę, to nie jest oznaka ambicji.
+
+Hermiona, nadal zajęta własnym kociołkiem, rzuciła Jamesowi krótkie spojrzenie.
+
+— Szybko — szepnęła. — Nawet jak na ciebie.
+
+
+[C7-M0513]
+===== USER =====
+
+na koniec dodałem dokaldnie dwa płatki Lili wodnej
+
+
+[C7-M0514]
+===== ASSISTANT =====
+
+Dwa płatki lilii wodnej opadły na powierzchnię gotowego eliksiru i po chwili zaczęły powoli nasiąkać miksturą. Nie doszło do żadnej gwałtownej reakcji — jedynie odcień przesunął się minimalnie, a nad kociołkiem pojawiła się ledwie wyczuwalna roślinna nuta.
+
+Snape, przechodząc między stanowiskami, zauważył to niemal od razu. Zatrzymał się obok Jamesa, spojrzał najpierw na eliksir, potem na pozostałe płatki.
+
+— Dwa — stwierdził tylko.
+
+Przesunął różdżką nad powierzchnią mikstury, sprawdzając jej stabilność. Po kilku sekundach opuścił rękę.
+
+— W granicach tolerancji tej receptury. — Jego wzrok przesunął się na Jamesa. — Widzę, że nawet ostatniego dnia nie zamierza pan porzucać swoich zwyczajów.
+
+Nie pytał jednak o ich znaczenie. Ten temat mieli już dawno za sobą.
+
+Hermiona, która kończyła właśnie własny eliksir, zerknęła na dwa płatki i od razu je rozpoznała. Nie skomentowała tego; po prostu na moment przeniosła wzrok na Jamesa, a potem wróciła do swojego kociołka.
+
+Snape wskazał fiolkę.
+
+— Teraz próbka, Brown. Zanim postanowi pan dodać do niej jeszcze ogród botaniczny.
+
+
+[C7-M0515]
+===== USER =====
+
+pobrałem próbkę i opisałem ją postawiłem ma skraju lawki i spojrzałem na Hermionę i czy sobie radzi
+
+
+[C7-M0516]
+===== ASSISTANT =====
+
+Hermiona radziła sobie bez problemu, choć w przeciwieństwie do Jamesa nie próbowała kończyć wszystkiego możliwie szybko. Miała już za sobą pierwszy etap stabilizacji i właśnie kontrolowała drugi, co kilka sekund zerkając między powierzchnię eliksiru a własne notatki.
+
+Po chwili zauważyła, że James na nią patrzy.
+
+— Radzę sobie — szepnęła bez odrywania ręki od łyżki. — I nie waż się teraz mówić, że skończyłeś wcześniej.
+
+Kącik jej ust lekko drgnął.
+
+Jeszcze kilka spokojnych obrotów, zmniejszyła płomień i odczekała dokładnie tyle, ile wymagała receptura. Dopiero wtedy zdjęła kociołek z ognia.
+
+Snape pojawił się przy jej stanowisku chwilę później. Obejrzał miksturę, rzucił krótkie spojrzenie na pergamin i powiedział:
+
+— Prawidłowo, Granger. Proszę pobrać próbkę.
+
+Hermiona skinęła głową, sięgnęła po fiolkę i dopiero wtedy spojrzała z powrotem na Jamesa.
+
+— Widzisz? Bez ratunku ze strony wielkiego eksperta od lilii wodnych.
+
+
+[C7-M0517]
+===== USER =====
+
+-Gratulacje Panno Granger...jedno zastrzeżenie wiesz że to mogło wybuchnąć?
+
+
+[C7-M0518]
+===== ASSISTANT =====
+
+Hermiona uniosła brwi i spojrzała najpierw na Jamesa, potem na swój kociołek.
+
+— Mogło? — powtórzyła cicho. — Przy tym etapie?
+
+Zmrużyła lekko oczy, wyraźnie odtwarzając w głowie kolejne kroki receptury.
+
+— Jeżeli zrobiłabym stabilizację za późno albo źle utrzymała temperaturę, mogłabym dostać gwałtowną reakcję. Ale zrobiłam jedno i drugie poprawnie.
+
+Spojrzała na niego podejrzliwie.
+
+— Więc albo właśnie próbujesz mnie przestraszyć… albo zauważyłeś coś, czego ja nie zauważyłam.
+
+Kącik jej ust drgnął.
+
+— I jeśli to pierwsze, panie Brown, proszę pamiętać, że siedzę obok pana z pełnym zestawem składników do eliksirów.
+
+
+[C7-M0519]
+===== USER =====
+
+To pierwsze puscilem jej oczko
+
+
+[C7-M0520]
+===== ASSISTANT =====
+
+Hermiona zmrużyła oczy, ale po sekundzie parsknęła cicho.
+
+— Wiedziałam.
+
+Pokręciła głową i zakorkowała swoją fiolkę.
+
+— Naprawdę nie możesz się powstrzymać choć przez jedną lekcję?
+
+Spojrzała na niego z ukosa, wyraźnie rozbawiona.
+
+— I nie, puszczenie oczka nie sprawia, że ten żart staje się lepszy.
+
+Z przodu sali odezwał się Snape:
+
+— Jeżeli państwo Brown i Granger zakończyli już swój prywatny festiwal błyskotliwości, być może zechcą pozwolić reszcie klasy dokończyć pracę w ciszy.
+
+Hermiona od razu odwróciła wzrok w stronę własnego stanowiska, ale jej usta nadal lekko drgały.
+
+
+[C7-M0521]
+===== USER =====
+
+-Przepraszam właśnie trochę za bardzo wkręciłem się w debatę z Bardzo inteligentną i niespotykanie piękną Panną Granger na temat moich zwyczajów przy ważeniu eliksirów...
+
+
+[C7-M0522]
+===== ASSISTANT =====
+
+Hermiona momentalnie zarumieniła się mocniej i wbiła wzrok w fiolkę, jakby nagle stała się niezwykle interesująca.
+
+Snape natomiast patrzył na Jamesa przez kilka długich sekund w całkowitej ciszy.
+
+— Fascynujące — powiedział w końcu chłodno. — Nie przypominam sobie jednak, żebym wpisał do programu czwartego roku debatę nad urodą panny Granger.
+
+Kilka osób w klasie zachichotało.
+
+Hermiona zakryła na moment usta dłonią, próbując nie parsknąć.
+
+Snape kontynuował:
+
+— A pańskie „zwyczaje przy ważeniu eliksirów” również nie wymagają publicznego seminarium.
+
+Spojrzał na Hermionę.
+
+— Panno Granger, próbka na skraj stołu.
+
+Potem znowu na Jamesa.
+
+— Panie Brown… skoro skończył pan wcześniej, proponuję wykorzystać pozostały czas na coś, co nie powoduje zaczerwienienia pańskiej partnerki przy stanowisku.
+
+
+[C7-M0523]
+===== USER =====
+
+-oczywsiscie....powiedziałem a potem zacząłem uprzątać stanowisko
+
+
+[C7-M0524]
+===== ASSISTANT =====
+
+Hermiona zerknęła na Jamesa, kiedy zaczął porządkować stanowisko, i dopiero po chwili pozwoliła sobie na cichy uśmiech.
+
+— Bardzo rozsądnie — mruknęła pod nosem. — Jeszcze chwila i Snape kazałby ci napisać esej o dyscyplinie.
+
+Sama również zaczęła odkładać narzędzia i zabezpieczać składniki, choć robiła to znacznie wolniej, bo wciąż kończyła opis próbki.
+
+W sali stopniowo robiło się ciszej. Kolejni uczniowie kończyli pracę, a Snape przechodził między stanowiskami, zbierając podpisane fiolki i rzucając krótkie, zwykle niezbyt entuzjastyczne komentarze.
+
+Po kilku minutach stanął przy swoim biurku.
+
+— Czas.
+
+Kilka osób przyspieszyło gwałtownie pakowanie.
+
+Snape spojrzał po klasie.
+
+— To wszystko. I radzę pamiętać, że fakt, iż rok szkolny praktycznie się kończy, nie oznacza, że państwa zdolność do powodowania katastrof również przechodzi na wakacje.
+
+Ron prychnął coś pod nosem, ale tym razem na tyle cicho, że Snape nie zareagował.
+
+Hermiona zamknęła torbę i spojrzała na Jamesa.
+
+— Jedna lekcja mniej.
+
+
+[C7-M0525]
+===== USER =====
+
+kiwnąłem głową a potem pomogłem spokować jej rzeczy i ruszyłem z nią na następną lekcję
+
+
+[C7-M0526]
+===== ASSISTANT =====
+
+Hermiona pozwoliła Jamesowi pomóc przy pakowaniu, choć przy zamykaniu torby rzuciła mu krótkie, rozbawione spojrzenie.
+
+— Wiesz, że jak tak dalej pójdzie, naprawdę się przyzwyczaję — mruknęła.
+
+Razem opuścili lochy wraz z resztą klasy. Na korytarzu szybko zrobiło się głośniej; uczniowie rozchodzili się w różnych kierunkach, a rozmowy coraz częściej schodziły na jutrzejsze trzecie zadanie.
+
+Kolejną lekcją była Obrona przed Czarną Magią u Moody’ego.
+
+Hermiona szła obok Jamesa, poprawiając pasek torby na ramieniu.
+
+— Ciekawe, co wymyślił na ostatnie zajęcia — powiedziała. — Przy Moodym „spokojna lekcja na zakończenie roku” chyba nie istnieje.
+
+Kiedy dotarli pod salę, drzwi były już otwarte. Moody stał przy swoim biurku, a jego magiczne oko obracało się niespokojnie po pomieszczeniu.
+
+Ławki nie stały w zwykłym układzie. Większość odsunięto pod ściany, pozostawiając szeroki pas wolnej przestrzeni na środku.
+
+Moody zauważył wchodzących.
+
+— Granger. Brown. Do środka.
+
+Jego zwykłe oko przesunęło się po klasie.
+
+— Dzisiaj sprawdzimy, czy przez rok nauczyliście się czegoś więcej niż poprawnego trzymania różdżki.
+
+
+[C7-M0527]
+===== USER =====
+
+przewróciłem oczami
+
+
+[C7-M0528]
+===== ASSISTANT =====
+
+Moody’s magiczne oko zatrzymało się na Jamesie niemal natychmiast.
+
+— Brown — warknął. — Jeśli ma pan coś do powiedzenia o planie lekcji, proszę się podzielić z klasą. Oszczędzimy sobie zgadywania.
+
+Hermiona zerknęła na Jamesa z boku i zacisnęła usta, wyraźnie powstrzymując uśmiech.
+
+Moody stuknął kosturem o podłogę.
+
+— Na środek. Wszyscy.
+
+Uczniowie zaczęli ustawiać się przy wolnej przestrzeni, a Moody kontynuował:
+
+— Dziś nie interesuje mnie elegancja. Interesuje mnie reakcja. Rozpoznanie zagrożenia, osłona, ruch i decyzja pod presją.
+
+Jego spojrzenie przesunęło się po klasie.
+
+— Czyli dokładnie te rzeczy, o których większość z was przypomina sobie dopiero wtedy, gdy coś już leci w waszą stronę.
+
+
+[C7-M0529]
+===== USER =====
+
+Albo w ogólne sobie nie przypomina....
+
+
+[C7-M0530]
+===== ASSISTANT =====
+
+Moody prychnął krótko.
+
+— Właśnie.
+
+Jego magiczne oko obróciło się w stronę kilku uczniów stojących dalej.
+
+— I ci, którzy „w ogóle sobie nie przypominają”, zwykle jako pierwsi dowiadują się, dlaczego to był błąd.
+
+Hermiona rzuciła Jamesowi krótkie spojrzenie z ledwie widocznym uśmiechem.
+
+— Tym razem trudno się z tobą nie zgodzić — szepnęła.
+
+Moody uniósł różdżkę.
+
+— Dobrze. Pary. Szybko. Nie będę czekał, aż dobierzecie się według sympatii.
+
+W klasie od razu zrobiło się więcej ruchu. Harry odsunął się od Rona o krok, kilku Ślizgonów zaczęło zajmować wolne miejsca przy ścianach, a Moody obserwował wszystko z wyraźnym zniecierpliwieniem.
+
+
+[C7-M0531]
+===== USER =====
+
+Nie według symati, czyli idę do Rona?
+
+
+[C7-M0532]
+===== ASSISTANT =====
+
+Moody spojrzał na Jamesa jednym okiem, podczas gdy magiczne obracało się gdzieś za jego plecy.
+
+— Nie. — Krótka pauza. — „Nie według sympatii” nie znaczy „wybierz osobę, z którą najchętniej urządziłbyś pokazową katastrofę”.
+
+Kilka osób parsknęło śmiechem.
+
+Ron od razu skrzywił się.
+
+— Bardzo zabawne.
+
+Hermiona zamknęła na moment oczy, jakby właśnie dokładnie takiej odpowiedzi się spodziewała.
+
+Moody stuknął kosturem o podłogę.
+
+— To ja dobiorę pary. Dzięki temu nikt nie będzie miał wymówki, że wybrał sobie wygodnego przeciwnika.
+
+Jego spojrzenie przesunęło się po klasie.
+
+— Brown… z Granger. Weasley z Nottem. Potter z Malfoyem.
+
+Draco od razu uniósł brew.
+
+— Oczywiście.
+
+Ron mruknął coś pod nosem, ale ruszył na wyznaczone miejsce.
+
+Hermiona spojrzała na Jamesa z boku.
+
+— No proszę. Jednak nie Ron.
+
+
+[C7-M0533]
+===== USER =====
+
+-Czyli jednak według symati
+...
+
+
+[C7-M0534]
+===== ASSISTANT =====
+
+Hermiona parsknęła cicho.
+
+— Nie przesadzaj.
+
+Moody natomiast odwrócił głowę w stronę Jamesa.
+
+— Brown, gdybym dobierał was według sympatii, połowa tej klasy już próbowałaby się ze mną targować.
+
+Jego magiczne oko na moment zatrzymało się na Ronie i Notcie, potem na Harrym i Draco.
+
+— A druga połowa składałaby skargi.
+
+Draco prychnął pod nosem.
+
+Ron rzucił mu krótkie spojrzenie.
+
+Moody stuknął kosturem o podłogę.
+
+— Macie partnerów. Koniec dyskusji. Brown i Granger, na pozycje.
+
+
+[C7-M0535]
+===== USER =====
+
+rzuciłem ciszej do Hermiony -Zobaczymy cxy nasze treningi przynoszą efekty....powiedziałem a potem zająłem pozycję -Jakie zasady?
+
+
+[C7-M0536]
+===== ASSISTANT =====
+
+Hermiona zajęła miejsce naprzeciwko niego i odpowiedziała równie cicho:
+
+— Właśnie się przekonamy.
+
+Moody poczekał, aż wszystkie pary się ustawią, po czym podniósł głos.
+
+— Zasady są proste. Nie jest to pojedynek do pierwszego trafienia.
+
+Przeszedł kilka kroków wzdłuż wolnej przestrzeni.
+
+— Jedna osoba zaczyna jako napastnik, druga jako broniący. Napastnik ma trzydzieści sekund, żeby zmusić przeciwnika do utraty różdżki, przewrócić go, unieruchomić albo wyprowadzić w sytuację, w której dalsza obrona byłaby bezsensowna.
+
+Jego magiczne oko przesunęło się po klasie.
+
+— Broniący może robić dokładnie to samo, jeśli znajdzie okazję. Nie oczekuję, że będzie stał jak manekin i grzecznie czekał na kolejne zaklęcie.
+
+Hermiona uniosła lekko brew.
+
+Moody dodał:
+
+— Zakaz klątw niewybaczalnych. Zakaz zaklęć, których skutków nie potraficie odwrócić. Żadnego celowego łamania kości, oślepiania ani innych idiotyzmów, przez które Pomfrey będzie mnie ścigać po zamku.
+
+Krótka pauza.
+
+— Możecie używać otoczenia, zwodów, transmutacji, tarcz, uników i własnej głowy. Jeśli ktoś zgubi różdżkę, ćwiczenie się nie kończy automatycznie.
+
+Na te słowa Hermiona spojrzała na Jamesa trochę uważniej.
+
+Moody wykrzywił usta.
+
+— Tak, Brown. To ostatnie powiedziałem między innymi z myślą o panu.
+
+Kilka osób zachichotało.
+
+— Pierwsza runda: Granger atakuje. Brown się broni. Trzydzieści sekund. Na mój znak.
+
+
+[C7-M0537]
+===== USER =====
+
+lekko się usmiechnąłem
+
+
+[C7-M0538]
+===== ASSISTANT =====
+
+Hermiona zauważyła uśmiech Jamesa i sama odpowiedziała krótkim, skupionym spojrzeniem.
+
+— Nie licz na taryfę ulgową — rzuciła cicho.
+
+Ustawiła stopy pewniej niż kilka miesięcy wcześniej, różdżkę trzymając już bez żadnego nerwowego napięcia.
+
+Moody uniósł rękę.
+
+— Gotowi...
+
+Krótka pauza.
+
+— Teraz!
+
+Hermiona ruszyła natychmiast, bez wcześniejszego ostrzeżenia.
+
+— Expelliarmus!
+
+Ale zaklęcie było tylko początkiem. Niemal w tej samej chwili zeszła pół kroku w bok i drugim ruchem różdżki poderwała z podłogi jeden z drewnianych bloczków treningowych, posyłając go nisko w bok od Jamesa — nie bezpośrednio w niego, tylko tak, by wymusić uwagę na dwóch kierunkach naraz.
+
+Moody obserwował bez mrugnięcia.
+
+— Lepiej, Granger. Nie dawaj mu jednej rzeczy do rozwiązania naraz.
+
+
+[C7-M0539]
+===== USER =====
+
+jej Expelliarmus zablokowałem Protego jednak bloczku nie zdołałem odbić więc uderzył mnie w okolice żeber
+
+
+[C7-M0540]
+===== ASSISTANT =====
+
+Bloczek trafił Jamesa w bok z głuchym uderzeniem.
+
+Hermiona zauważyła trafienie natychmiast, ale nie przerwała. Zamiast tego wykorzystała krótką chwilę, w której jego uwaga musiała podzielić się między ból a dalszą obronę.
+
+— Incarcerous!
+
+Liny wystrzeliły w stronę Jamesa pod kątem, nie prosto z przodu — dokładnie tak, żeby trudniej było odpowiedzieć jednym prostym ruchem tarczy.
+
+Moody aż stuknął kosturem o podłogę.
+
+— Właśnie tak! Trafienie nie kończy walki! Wykorzystuj moment!
+
+Hermiona przesunęła się jeszcze o krok, nie stojąc w miejscu jak wcześniej na pierwszych wspólnych ćwiczeniach.
+
+— Mówiłam, że nie będzie taryfy ulgowej — rzuciła, tym razem z wyraźną satysfakcją.
+
+
+[C7-M0541]
+===== USER =====
+
+postawiłem 3 tarczę blokując jej Incarcerous a potem spróbowałem wykorzystać Patent z jedych z pierwszych lekcji rzucałem mówić poważnym tonem po rosyjsku i wymachiwać różdżką jakbym rzucał armagedn na koniec inkantacji końcówka różdżki się zaświeciła
+
+
+[C7-M0542]
+===== ASSISTANT =====
+
+Hermiona rozpoznała ten patent niemal natychmiast.
+
+Jej oczy na moment zwęziły się, kiedy rosyjska fraza zaczęła brzmieć coraz bardziej złowrogo, a ruch różdżki zrobił się przesadnie widowiskowy. Pamiętała bardzo dobrze, jak na jednej z pierwszych lekcji Theodore dał się na dokładnie to nabrać.
+
+Tym razem nie cofnęła się gwałtownie.
+
+Zamiast tego zeszła szybko w bok, nie spuszczając końcówki różdżki Jamesa z oczu, i ustawiła własną do obrony — gotowa zareagować na prawdziwe zaklęcie ukryte w rosyjskiej frazie, ale bez oddawania mu inicjatywy tylko dlatego, że przedstawienie wyglądało groźnie.
+
+Kiedy końcówka różdżki Jamesa rozbłysła, Hermiona rzuciła krótko:
+
+— Pamiętam ten numer.
+
+Moody roześmiał się szorstko.
+
+— Dobrze, Granger! Pierwszy raz Brown użył tego na Notcie i kupił sobie jego reakcję w całości. Ty już wiesz, że hałas nie mówi ci, co naprawdę leci!
+
+Magiczne oko profesora utkwiło jednak w świecącej końcówce różdżki.
+
+— Ale nie ignoruj jej! Blef może osłaniać prawdziwy atak!
+
+Hermiona nie ignorowała. Nadal przesuwała się bokiem, różdżkę miała gotową, obserwując, co właściwie James przemycił pod rosyjską inkantacją.
+
+
+[C7-M0543]
+===== USER =====
+
+Rzeczywiście z końcówki różdżki wystrzeliło obscuro
+
+
+[C7-M0544]
+===== ASSISTANT =====
+
+Ciemna smuga Obscuro wystrzeliła spod całego rosyjskiego przedstawienia.
+
+Hermiona zareagowała od razu.
+
+— Protego!
+
+Tarcza pojawiła się przed nią niemal w ostatniej chwili. Zaklęcie uderzyło w nią i rozprysło się ciemnym błyskiem, ale siła trafienia zmusiła Hermionę do krótkiego cofnięcia stopy.
+
+Nie straciła jednak rytmu.
+
+— Sprytne — rzuciła już bez uśmiechu, całkowicie skupiona. — Nadal sprytne.
+
+Moody stuknął kosturem o podłogę.
+
+— Lepiej! Granger nie kupiła całej zmyłki, ale Brown i tak ukrył prawdziwy atak pod czymś, co wyglądało jak blef.
+
+Hermiona natychmiast wykorzystała moment po zderzeniu zaklęcia z tarczą.
+
+— Impedimenta!
+
+Zaklęcie pomknęło w stronę Jamesa pod lekkim kątem, a ona sama przesunęła się jeszcze dalej w bok, nie zostając na jednej linii.
+
+
+[C7-M0545]
+===== USER =====
+
+ustawiłem kolejną tarczę a potem wymieniłem inkantacje a całe pole trningowe pokryło w się gęstym dymem a ja zacząłem biec w jej stronę
+
+
+[C7-M0546]
+===== ASSISTANT =====
+
+Dym rozlał się po całym polu niemal natychmiast, pochłaniając sylwetki obojga.
+
+Hermiona straciła Jamesa z oczu.
+
+Ale nie zaczęła rzucać zaklęciami na ślepo.
+
+Usłyszała szybkie kroki zbliżające się przez dym i natychmiast zeszła z miejsca, w którym stała — najpierw krok w bok, potem kolejny po skosie. Różdżkę trzymała wysoko, gotową do obrony.
+
+— O nie, znam już ten pomysł — rzuciła w gęstą szarość.
+
+Moody nie próbował rozpraszać dymu.
+
+— Dobrze! — ryknął gdzieś spoza zasłony. — Nie widzisz przeciwnika? To przestań polegać wyłącznie na oczach!
+
+Hermiona usłyszała kroki coraz bliżej.
+
+Zamiast próbować zgadywać dokładną pozycję Jamesa, wykonała gwałtowny obrót i postawiła przed sobą szerokie:
+
+— Protego!
+
+Półprzezroczysta bariera rozbłysła w dymie dokładnie w chwili, gdy odgłos biegu był już bardzo blisko.
+
+Hermiona napięła się, gotowa na to, co James zamierzał zrobić po wejściu na krótki dystans.
+
+
+[C7-M0547]
+===== USER =====
+
+po chwili uderzyłem głową w jej tarcze i po tym cofnąłem się o dwa kroki a potem zrobiłem w okol jej tarczy własną tarcze
+
+
+[C7-M0548]
+===== ASSISTANT =====
+
+Głuche łup poniosło się nawet przez dym, gdy czoło Jamesa spotkało się z tarczą Hermiony.
+
+Hermiona drgnęła.
+
+— James?!
+
+Nie zdążyła jednak zrobić nic więcej. Po dwóch krokach Jamesa w tył wokół jej własnego Protego zamknęła się druga bariera. Przez moment wyglądało to niemal absurdalnie: Hermiona wewnątrz swojej tarczy, a całość otoczona kolejną, należącą do Jamesa.
+
+Jej oczy rozszerzyły się tylko na sekundę.
+
+— Och, nie. Znowu klatka.
+
+Tę sztuczkę znała już aż za dobrze.
+
+Moody ryknął zza dymu:
+
+— Granger! Nie podziwiaj konstrukcji! Jesteś zamknięta — wydostań się!
+
+Hermiona natychmiast opuściła własne Protego, żeby nie marnować siły na dublowanie osłony. Odwróciła różdżkę ku zewnętrznej barierze Jamesa.
+
+— Finite!
+
+Zaklęcie uderzyło w osłonę. Jej powierzchnia zafalowała i na moment zrobiła się wyraźnie cieńsza, ale nie zniknęła całkowicie.
+
+Hermiona zacisnęła szczękę.
+
+— Dobrze… czyli mocniej niż ostatnio.
+
+Zamiast powtarzać bezmyślnie to samo zaklęcie, przesunęła się przy samej krawędzi bariery, szybko szukając najsłabszego fragmentu konstrukcji, podczas gdy dym wciąż ograniczał widoczność.
+
+Moody zaś parsknął:
+
+— I to są miesiące treningu! Pierwszym razem Granger zastanawiałaby się, co Brown właśnie zrobił. Teraz od razu próbuje to rozebrać.
+
+
+[C7-M0549]
+===== USER =====
+
+ja zrobiłem jeszcze krok w tył i znowu zniknąłem w dymie
+
+
+[C7-M0550]
+===== ASSISTANT =====
+
+Dym zamknął się za Jamesem niemal natychmiast i jego sylwetka zniknęła Hermionie z oczu.
+
+— Świetnie — mruknęła pod nosem. — Znowu mam zgadywać, skąd wyskoczysz.
+
+Nie rzuciła jednak zaklęcia na oślep. Skupiła się na barierze, którą wciąż miała wokół siebie.
+
+— Finite!
+
+Tym razem uderzyła dokładnie w miejsce, które wcześniej zafalowało najsłabiej. Osłona zatrzęsła się mocniej, a jej powierzchnia zaczęła miejscami pękać światłem.
+
+Moody ryknął przez salę:
+
+— Dobrze, Granger! Najpierw ograniczenie, potem przeciwnik!
+
+Hermiona natychmiast dołożyła drugie zaklęcie w ten sam punkt i bariera w końcu puściła z krótkim trzaskiem.
+
+Nie wybiegła od razu.
+
+Zatrzymała się na granicy rozproszonej osłony, nasłuchując kroków w dymie, różdżkę trzymając wysoko.
+
+— Teraz dopiero zaczyna się zabawa — rzuciła cicho.
+
+Moody stuknął kosturem o podłogę.
+
+— Dwadzieścia sekund!
+
+
+[C7-M0551]
+===== USER =====
+
+wtem nagle poczuła szarpnięcie za biodra przycisnąłem ją do siebie i jedną ręką przystawiłem jej różdżkę do główy a drugą objąłem w talii -W normalneij walce w tej chwili umierasz...a mi jest bardzo smutno
+
+
+[C7-M0552]
+===== ASSISTANT =====
+
+Hermiona zesztywniała na ułamek sekundy, czując różdżkę przy głowie. Nie próbowała wykonywać gwałtownego ruchu — przy takim ustawieniu oznaczałoby to tylko niepotrzebne ryzyko.
+
+Po jego słowach wypuściła powietrze nosem.
+
+— Tak, wiem — odpowiedziała cicho. — I możesz przestać brzmieć tak, jakbyś właśnie pisał moją mowę pogrzebową.
+
+Z zewnątrz dymu natychmiast huknął głos Moody’ego:
+
+— STOP!
+
+Kostur uderzył o podłogę i zasłona dymna zaczęła się rozpraszać.
+
+Moody wszedł kilka kroków w ich stronę, magiczne oko już wcześniej śledziło pozycję obojga.
+
+— Koniec rundy. Brown uzyskał pozycję, z której przy prawdziwym starciu Granger miałaby bardzo mało czasu na jakąkolwiek sensowną reakcję.
+
+Potem spojrzał na Hermionę.
+
+— Dobrze poradziła sobie pani z osłoną. Źle zrobiła pani jedną rzecz: po wydostaniu się zatrzymała się pani i zaczęła nasłuchiwać w miejscu, którego przeciwnik spodziewał się, że będzie pani bronić.
+
+Hermiona skrzywiła się lekko.
+
+— Tak. Zauważyłam.
+
+Moody przeniósł wzrok na Jamesa.
+
+— A pan wykorzystał dym, wcześniejsze zamknięcie jej w barierze i fakt, że wiedział pan dokładnie, gdzie będzie, kiedy osłona puści.
+
+Hermiona odwróciła głowę na tyle, na ile pozwalało jej ustawienie, i rzuciła Jamesowi spojrzenie z boku.
+
+— I nadal uważam, że dramatyczne „a mi jest bardzo smutno” było zupełnie zbędne.
+
+
+[C7-M0553]
+===== USER =====
+
+-Było by mi bardzo smutno....delikatnie pocałowałem jej czoło i zabrałem różdżkę od jej głowy -
+
+
+[C7-M0554]
+===== ASSISTANT =====
+
+Hermiona od razu zmiękła w wyrazie twarzy, choć rumieniec pojawił się jej na policzkach niemal natychmiast.
+
+— Wiem — odpowiedziała ciszej.
+
+Kiedy różdżka zniknęła znad jej głowy, odsunęła się tylko tyle, ile wymagało zakończenie ćwiczenia, i poprawiła własny chwyt.
+
+Moody prychnął.
+
+— Bardzo wzruszające. Teraz może państwo odłożą na bok tragedię romantyczną i posłuchają analizy.
+
+Hermiona przewróciła oczami, ale uśmiech nadal nie całkiem zniknął.
+
+Moody wskazał laską najpierw ją, potem miejsce w dymie, z którego James podszedł.
+
+— Granger: dobra reakcja na barierę, dobra decyzja z jej rozebraniem, za długa chwila bez ruchu po wyjściu. Brown wykorzystał dokładnie tę przerwę.
+
+Potem jego magiczne oko przesunęło się na Jamesa.
+
+— Brown: skutecznie połączył pan zasłonę, presję i podejście na krótki dystans. Ale następnym razem proszę pamiętać, że w prawdziwej walce przeciwnik może nie stać tak grzecznie po przełamaniu osłony.
+
+Hermiona spojrzała na Jamesa z boku.
+
+— Następnym razem nie będę.
+
+
+[C7-M0555]
+===== USER =====
+
+-Wiadomo...
+
+
+[C7-M0556]
+===== ASSISTANT =====
+
+Hermiona uniosła lekko brew.
+
+— Dobrze, że się zgadzamy.
+
+Moody stuknął kosturem o podłogę.
+
+— Zamiana.
+
+Hermiona od razu cofnęła się kilka kroków i zajęła pozycję naprzeciwko Jamesa. Tym razem wyglądała już mniej rozbawiona, bardziej skupiona.
+
+— Teraz ty atakujesz, ja się bronię — powiedziała.
+
+Moody rozejrzał się po parach.
+
+— I żadnego powtarzania dokładnie tych samych numerów. Jeżeli nauczyliście się czegoś przez ten rok, pokażcie, że potraficie się dostosować.
+
+Jego magiczne oko zatrzymało się na Jamesie.
+
+— Brown. Trzydzieści sekund. Na mój znak.
+
+
+[C7-M0557]
+===== USER =====
+
+od razu ustawiłem się i wycelowałem w Hermionę
+
+
+[C7-M0558]
+===== ASSISTANT =====
+
+Hermiona natychmiast skupiła wzrok na Jamesie, różdżkę trzymając nisko, ale gotową do błyskawicznego ruchu. Po poprzedniej rundzie nie wyglądała już na kogoś, kto zamierza czekać na pierwszy oczywisty atak.
+
+Moody uniósł rękę.
+
+— Gotowi...
+
+Krótka pauza.
+
+— Teraz!
+
+Hermiona od razu zeszła pół kroku w bok, nie ustawiając się idealnie naprzeciwko linii różdżki Jamesa. Nie rzuciła jeszcze żadnego zaklęcia.
+
+Czekała na jego pierwszy ruch.
+
+
+[C7-M0559]
+===== USER =====
+
+*machnąłem różdżką i wyszeptale inkantacje i w sali pojawił się szybki błysk a ja zacząłem po prostu iść w jej stronę
+
+
+[C7-M0560]
+===== ASSISTANT =====
+
+Nagły błysk rozciął salę i na moment odbił się od kamiennych ścian.
+
+Hermiona odruchowo zmrużyła oczy i uniosła przedramię, ale nie rzuciła od razu Protego. Po poprzednich miesiącach treningów najwyraźniej nie zamierzała reagować pełną obroną na każdy efekt, który wyglądał groźnie.
+
+Kiedy zobaczyła, że James po prostu zaczyna iść w jej stronę, cofnęła się po skosie, utrzymując dystans.
+
+— Nie — mruknęła pod nosem. — Tym razem nie podejdziesz sobie tak łatwo.
+
+Różdżkę skierowała nisko, bardziej w stronę jego nóg niż tułowia.
+
+— Impedimenta!
+
+Zaklęcie pomknęło nisko, mając przede wszystkim przerwać jego spokojne podejście.
+
+Moody obserwował uważnie.
+
+— Dobrze, Granger! Nie walcz z przedstawieniem. Walcz z tym, co przeciwnik naprawdę robi.
+
+
+[C7-M0561]
+===== USER =====
+
+zaklęcie po prostu przekraczało przez postać która szła w jej kierunku
+
+
+[C7-M0562]
+===== ASSISTANT =====
+
+Impedimenta przeleciało przez sylwetkę bez najmniejszego oporu.
+
+Hermiona zamarła tylko na ułamek sekundy.
+
+Postać idąca w jej stronę nawet nie drgnęła po trafieniu.
+
+— Iluzja… — wyrzuciła natychmiast.
+
+Nie zmarnowała jednak czasu na dalsze atakowanie fałszywego celu. Zamiast tego odskoczyła w bok i gwałtownie rozejrzała się po sali, próbując odnaleźć prawdziwego Jamesa poza linią, na której przed chwilą skupiła całą uwagę.
+
+Moody aż parsknął z uznaniem.
+
+— Dobrze! Właśnie dlatego nie przywiązujecie się do pierwszej rzeczy, którą widzicie!
+
+Hermiona ścisnęła mocniej różdżkę.
+
+— Sprytne… bardzo sprytne.
+
+Fałszywa sylwetka nadal szła spokojnie naprzód, odciągając wzrok dokładnie tam, gdzie James chciał go odciągnąć.
+
+
+[C7-M0563]
+===== USER =====
+
+po raz kolejny znalazłem się za jej plecami ale tym razem przycisnąłem różdżkę do jej pleców - Tutaj... bardzo słaba reakcja.... powinnaś rozejrzeć się w każdą stronę a najlepiej osłonić się dokoła powiedziałem a potem delaktnie pocałowałem jej policzek
+
+
+[C7-M0564]
+===== ASSISTANT =====
+
+Hermiona zesztywniała na moment, kiedy poczuła różdżkę przy plecach.
+
+— Wiem — odpowiedziała szybko, bardziej zirytowana na siebie niż na niego. — Za długo szukałam wzrokiem zamiast od razu zabezpieczyć martwy kąt.
+
+Po pocałunku w policzek odwróciła głowę i posłała Jamesowi spojrzenie, w którym mieszały się rozbawienie i ambicja.
+
+— I nie przyzwyczajaj się. Następnym razem nie dostaniesz dwóch podejść od tyłu pod rząd.
+
+Moody stuknął kosturem o podłogę.
+
+— STOP!
+
+Iluzoryczna sylwetka przestała mieć znaczenie, a profesor ruszył w ich stronę.
+
+— Granger, Brown ma rację w jednej rzeczy. Kiedy odkryła pani, że cel jest fałszywy, zaczęła pani szukać przeciwnika jak ktoś, kto zgubił książkę w bibliotece.
+
+Hermiona skrzywiła się.
+
+— Rozumiem.
+
+— Nie. — Moody wskazał laską przestrzeń wokół niej. — Ma pani założyć, że przeciwnik wykorzysta dokładnie tę sekundę dezorientacji. Bariera dookoła, natychmiastowa zmiana pozycji albo działanie obszarowe. Cokolwiek, byle nie stanie i obracanie głową.
+
+Potem jego magiczne oko zatrzymało się na Jamesie.
+
+— A Brown dobrze wykorzystał to, że iluzja nie musiała zrobić nic więcej niż ukraść pani uwagę na dwie sekundy.
+
+Hermiona spojrzała znów na Jamesa.
+
+— Dwie sekundy — mruknęła. — Zapamiętam.
+
+
+[C7-M0565]
+===== USER =====
+
+zabrałem różdżkę z jej pleców i szepnąłem jej na ucho -Slicznie pachniesz....
+
+
+[C7-M0566]
+===== ASSISTANT =====
+
+Hermiona momentalnie zrobiła się czerwona na policzkach i przez sekundę wyraźnie zgubiła przygotowaną ripostę.
+
+— James… — syknęła cicho, ale bez prawdziwej złości.
+
+Odwróciła głowę odrobinę w jego stronę.
+
+— Naprawdę wybierasz środek lekcji Moody’ego na takie komentarze?
+
+Kącik jej ust jednak zdradził ją natychmiast.
+
+Moody, stojący kilka kroków dalej, stuknął kosturem o podłogę.
+
+— Brown. Granger. Jeżeli zakończyliście już analizę zapachów, wracamy do obrony przed czarną magią.
+
+Hermiona zamknęła oczy na moment.
+
+— Wiedziałam, że to usłyszy.
+
+
+[C7-M0567]
+===== USER =====
+
+ponownie szepnąłem na jej ucho
+Moody to dziad....
+
+
+[C7-M0568]
+===== ASSISTANT =====
+
+Hermiona zacisnęła usta, próbując nie parsknąć.
+
+— James… — szepnęła, a jej ramiona lekko drgnęły od tłumionego śmiechu. — Nie mów tego tak blisko mnie, bo zaraz się roześmieję.
+
+Rzuciła szybkie spojrzenie w stronę Moody’ego, potem z powrotem na Jamesa.
+
+— I jeśli sam to usłyszy, ja cię nie ratuję.
+
+Moody spojrzał na nich podejrzliwie z kilku kroków dalej, ale najwyraźniej nie wychwycił samego szeptu.
+
+— Czy państwo mają jeszcze coś niezwykle ważnego do omówienia?
+
+Hermiona od razu wyprostowała się.
+
+— Nie, profesorze.
+
+
+[C7-M0569]
+===== USER =====
+
+-W zasadzie to tak....ale chyba później to omówimy...
+
+
+[C7-M0570]
+===== ASSISTANT =====
+
+Hermiona odwróciła głowę i spojrzała na Jamesa z wyraźnym rozbawieniem.
+
+— To zabrzmiało wyjątkowo podejrzanie.
+
+Moody zmrużył zwykłe oko.
+
+— Świetnie. W takim razie omówicie to później.
+
+Stuknął kosturem o podłogę.
+
+— Teraz oboje na bok. Następna para.
+
+Hermiona ruszyła w stronę ściany razem z resztą uczniów kończących swoją turę i po chwili, już ciszej, rzuciła do Jamesa:
+
+— I tak, zamierzam później zapytać, co dokładnie było takie „ważne”.
+
+
+[C7-M0571]
+===== USER =====
+
+-Nic...po prostu nie chciałem przyznać mu racji...
+
+
+[C7-M0572]
+===== ASSISTANT =====
+
+Hermiona spojrzała na Jamesa i przez chwilę nic nie mówiła.
+
+Potem parsknęła cicho.
+
+— Oczywiście, że nie.
+
+Pokręciła głową z rozbawieniem.
+
+— Nie mogłeś po prostu pozwolić mu wygrać jednej wymiany zdań?
+
+Z przodu sali Moody właśnie ustawiał kolejną parę i rzucał ostre uwagi komuś, kto źle stanął.
+
+Hermiona zerknęła w jego stronę, a potem z powrotem na Jamesa.
+
+— Wiesz, że on i tak pewnie uznał, że wygrał.
+
+
+[C7-M0573]
+===== USER =====
+
+Wiem...ale nie lubię go ..... coś tam niby umie ale jest dziwny...
+
+
+[C7-M0574]
+===== ASSISTANT =====
+
+Hermiona zerknęła w stronę Moody’ego, który właśnie poprawiał ustawienie kolejnej pary, po czym ściszyła głos.
+
+— „Dziwny” to akurat dość łagodne określenie.
+
+Kącik jej ust drgnął.
+
+— Ale niestety naprawdę sporo umie. I jeszcze gorsze jest to, że czasami jego metody faktycznie działają.
+
+Spojrzała z powrotem na Jamesa.
+
+— Chociaż przyznaję, że sposób, w jaki potrafi patrzeć na człowieka tym okiem przez pół sali, jest… niepokojący.
+
+Po chwili dodała ciszej:
+
+— Więc możesz go nie lubić. Tylko może nie nazywaj go „dziadem” wtedy, kiedy stoi pięć metrów od nas.
+
+
+[C7-M0575]
+===== USER =====
+
+chwyciłem ją za rękę i kiwnąłem głową a potem skupiłem się na obserwacji kolejnych par
+
+
+[C7-M0576]
+===== ASSISTANT =====
+
+Hermiona splotła palce z dłonią Jamesa i bez słowa lekko ją ścisnęła. Sama również skupiła się już na środku sali.
+
+Moody ustawił kolejną parę.
+
+— Weasley. Nott. Na środek.
+
+Ron ruszył pierwszy, wyraźnie niezadowolony z partnera. Theodore wyglądał znacznie spokojniej; stanął naprzeciwko niego z różdżką opuszczoną tylko odrobinę.
+
+— Weasley atakuje. Nott się broni. Trzydzieści sekund. Teraz!
+
+— Expelliarmus! — Ron zaczął bez kombinowania.
+
+Theodore odbił zaklęcie tarczą i natychmiast przesunął się w bok.
+
+Ron nie zatrzymał się jednak na jednym uroku. Posłał następny, tym razem próbując wymusić ruch, a kiedy Nott ponownie osłonił się, Ron kopnął leżący przy krawędzi pola drewniany bloczek tak, żeby ten potoczył się Theodore’owi pod nogi.
+
+Nott musiał uskoczyć.
+
+Moody stuknął laską.
+
+— Lepiej, Weasley! Wreszcie coś poza rzucaniem zaklęć prosto przed siebie!
+
+Ron wyglądał na niemal urażonego tym „komplementem”.
+
+Hermiona obserwowała uważnie.
+
+— Ron jest lepszy, kiedy przestaje próbować robić wszystko podręcznikowo — powiedziała cicho. — Problem w tym, że zwykle przypomina sobie o tym dopiero w połowie ćwiczenia.
+
+Na środku Theodore właśnie wykorzystał moment po kolejnym ataku Rona.
+
+— Impedimenta!
+
+Ron zdołał zejść z linii zaklęcia, ale zrobił to za późno, żeby zachować idealną pozycję.
+
+Moody natychmiast ryknął:
+
+— I właśnie dlatego nie stoicie na jednej osi jak dwa słupy ogrodzeniowe!
+
+
+[C7-M0577]
+===== USER =====
+
+kiwnąlem głową i nadal obserwowałem
+
+
+[C7-M0578]
+===== ASSISTANT =====
+
+Ron spróbował odzyskać ustawienie jeszcze jednym szybkim krokiem, ale Theodore tym razem nie dał mu czasu. Zmienił kąt i posłał kolejne zaklęcie nisko, zmuszając Rona do uskoku zamiast kontrataku.
+
+— Stop! — warknął Moody po chwili.
+
+Obaj opuścili różdżki.
+
+— Weasley, lepiej niż na początku roku. Nadal za długo próbujesz odzyskać kontrolę siłą, kiedy wystarczyłoby zmienić pozycję. Nott — za ostrożnie na początku, potem dobrze wykorzystana przewaga.
+
+Ron mruknął coś pod nosem i zszedł z pola.
+
+Theodore wrócił na bok znacznie spokojniej.
+
+Hermiona nie skomentowała wyniku. Stała obok Jamesa i obserwowała już następną parę.
+
+Moody rozejrzał się po klasie.
+
+— Potter. Malfoy. Teraz wy.
+
+Draco od razu ruszył na środek.
+
+Harry stanął naprzeciwko niego z różdżką gotową do ruchu.
+
+Moody skrzywił usta.
+
+— I zanim któremuś z was przyjdzie do głowy zamienić ćwiczenie w prywatne porachunki: nie.
+
+Draco uniósł brew.
+
+— Nawet nie zdążyłem nic powiedzieć.
+
+— Właśnie dlatego powiedziałem to teraz.
+
+Kilka osób parsknęło śmiechem. Hermiona również uśmiechnęła się pod nosem, ale nie odrywała wzroku od środka sali.
+
+
+[C7-M0579]
+===== USER =====
+
+-Człowiek z blizną i człowiek bez blizny...powiedziałem do Hermiony
+
+
+[C7-M0580]
+===== ASSISTANT =====
+
+Hermiona odwróciła głowę w stronę Jamesa i przez moment patrzyła na niego bez słowa.
+
+Potem parsknęła cicho.
+
+— Niesamowicie precyzyjna klasyfikacja.
+
+Spojrzała znów na Harry’ego i Draco stojących naprzeciwko siebie.
+
+— Chociaż podejrzewam, że Malfoy bardziej doceniłby jakąś… dostojniejszą kategorię.
+
+Kącik jej ust drgnął.
+
+— „Człowiek z blizną i człowiek z przesadnym ego” byłoby chyba bliżej prawdy.
+
+Na środku sali Moody właśnie unosił rękę, przygotowując ich do startu.
+
+
+[C7-M0581]
+===== USER =====
+
+-Nie mów tak Draco małe'go
+
+
+[C7-M0582]
+===== ASSISTANT =====
+
+Hermiona spojrzała na Jamesa z rozbawieniem.
+
+— „Draco małego”? — powtórzyła cicho. — Tego określenia akurat naprawdę nie radziłabym używać przy nim.
+
+Kącik jej ust uniósł się wyżej.
+
+— Jego ego mogłoby tego nie przeżyć.
+
+Na środku sali Draco właśnie poprawił chwyt na różdżce i rzucił Harry’emu chłodne spojrzenie, zupełnie nieświadomy tej uwagi.
+
+Hermiona dodała jeszcze ciszej:
+
+— I podejrzewam, że wtedy mielibyśmy jednak tę „misję stabilizacyjną”, o której mówiłeś przy śniadaniu.
+
+
+[C7-M0583]
+===== USER =====
+
+pokręciłem głową - racja....powiedziałem i skupiłem się na ich zadaniu
+
+
+[C7-M0584]
+===== ASSISTANT =====
+
+Hermiona skinęła lekko głową i również przeniosła uwagę na środek sali.
+
+Moody opuścił rękę.
+
+— Teraz!
+
+Draco ruszył pierwszy.
+
+— Expelliarmus!
+
+Harry zbił zaklęcie szybkim Protego i natychmiast przeszedł w bok, nie zostając na jednej linii. Draco spróbował wykorzystać moment i posłał drugie zaklęcie niemal bez przerwy, ale Harry tym razem nie blokował — po prostu uskoczył.
+
+— Lepiej, Potter! — ryknął Moody. — Nie każdą rzecz trzeba zatrzymywać tarczą!
+
+Draco skrzywił się i zmienił rytm. Zamiast kolejnego ataku prosto w Harry’ego poderwał z boku jeden z drewnianych krążków i posłał go wysoko, zmuszając Pottera do podzielenia uwagi.
+
+Harry zauważył to w porę. Odbił krążek zaklęciem, ale Draco wykorzystał dokładnie tę chwilę.
+
+— Impedimenta!
+
+Harry dostał zaklęciem w bok. Zachwiał się i zwolnił na moment, lecz nie wypuścił różdżki.
+
+Moody uderzył kosturem o podłogę.
+
+— Właśnie! Malfoy, wreszcie atakujesz decyzję przeciwnika, a nie tylko jego klatkę piersiową!
+
+Draco wyglądał na bardzo zadowolonego z siebie.
+
+Hermiona mruknęła cicho:
+
+— Teraz przez tydzień będzie nie do zniesienia.
+
+
+[C7-M0585]
+===== USER =====
+
+-naszczęście będziemy z nim tylko przez dwa dni....a skoro już przy tym...masz jakieś plany na początek wakacji?
+
+
+[C7-M0586]
+===== ASSISTANT =====
+
+Hermiona nadal obserwowała Harry’ego i Draco, ale pytanie wyraźnie odciągnęło część jej uwagi od ćwiczenia.
+
+— Na sam początek? — zastanowiła się chwilę. — Chcę wrócić do domu i pobyć z rodzicami. Przez cały rok właściwie się nie widzieliśmy poza listami.
+
+Lekko poruszyła splecionymi z Jamesem palcami.
+
+— A dalej jeszcze niczego nie ustaliłam na sztywno. Chciałabym trochę odpocząć, poczytać rzeczy, które nie są zadane na lekcje… — kącik jej ust drgnął. — I oczywiście zobaczyć się z Harrym i Ronem, jeśli będzie okazja.
+
+Po chwili spojrzała już bezpośrednio na Jamesa.
+
+— A ty pytasz tak zupełnie niewinnie… czy właśnie próbujesz dowiedzieć się, gdzie wcisnąć siebie w mój początek wakacji?
+
+
+[C7-M0587]
+===== USER =====
+
+pokiwałem głową - chciałem zapytać o Twój adres i czy mogę wpadać bez zapowiedzi....
+
+
+[C7-M0588]
+===== ASSISTANT =====
+
+Hermiona odwróciła do niego głowę trochę szybciej.
+
+— Adres? Tak, mogę ci go dać. — Po sekundzie uniosła jednak palec. — Ale „wpadać bez zapowiedzi” to już zupełnie inna część pytania.
+
+Spojrzała na niego znacząco.
+
+— James, to jest dom moich rodziców. Nie mogę po prostu ogłosić im, że od tej chwili pewien Ślizgon może materializować się pod drzwiami, kiedy tylko ma ochotę.
+
+Kącik jej ust drgnął.
+
+— Zwłaszcza że nadal masz ich właściwie dopiero poznać. Rozmawialiśmy przecież o tym, że odwiedzisz mnie latem i spotkasz się z nimi.
+
+Ścisnęła lekko jego dłoń.
+
+— Dam ci adres. Ustalimy pierwszy dzień, porozmawiam wcześniej z rodzicami… a potem zobaczymy, jak bardzo przeżyją pierwsze spotkanie z tobą.
+
+Przyjrzała mu się podejrzliwie.
+
+— I dopiero potem możemy negocjować twoje „bez zapowiedzi”.
+
+
+[C7-M0589]
+===== USER =====
+
+pokiwałem głową -no czyli po jutrze zakończenie to po po jutrze mam się stawić...?
+
+
+[C7-M0590]
+===== ASSISTANT =====
+
+Hermiona zamrugała, po czym spojrzała na Jamesa tak, jakby właśnie odkryła lukę w swoim własnym planie.
+
+— Chwileczkę. — Policzyła szybko w głowie. — Czyli według ciebie: pojutrze kończymy rok, wracam do domu, a następnego dnia ty już stoisz pod drzwiami?
+
+Parsknęła śmiechem i pokręciła głową.
+
+— Nie. Daj mi chociaż jeden dzień, żebym zdążyła wrócić, rozpakować się i powiedzieć rodzicom: „Swoją drogą, jutro przyjdzie James”.
+
+Spojrzała na niego z rozbawieniem.
+
+— Ale niedługo potem? Tak. Możemy ustalić konkretny dzień jeszcze przed wyjazdem z Hogwartu.
+
+
+[C7-M0591]
+===== USER =====
+
+-Dobrze...
+
+
+[C7-M0592]
+===== ASSISTANT =====
+
+Hermiona uśmiechnęła się lekko.
+
+— Dobrze.
+
+Ścisnęła jego dłoń jeszcze raz, po czym znów spojrzała na środek sali.
+
+Moody właśnie przerwał wymianę Harry’ego z Draco ostrym:
+
+— Stop!
+
+Draco cofnął różdżkę, a Harry od razu rozluźnił postawę.
+
+— Malfoy, dobry pomysł z odciągnięciem uwagi, ale za bardzo się zachwyciłeś, kiedy zadziałał — burknął Moody. — Potter, następnym razem nie patrz za lecącym przedmiotem dłużej, niż musisz. Przeciwnik właśnie na to czeka.
+
+Hermiona obserwowała ich uważnie, wciąż trzymając Jamesa za rękę.
+
+
+[C7-M0593]
+===== USER =====
+
+trochę mocniej scisnąłem jej rękę -O czyim istnieniu jeszcze wiedzą twoi rodzice?
+
+
+[C7-M0594]
+===== ASSISTANT =====
+
+Hermiona zerknęła na ich splecione dłonie, a potem na Jamesa.
+
+— Harry’ego i Rona na pewno. Piszę o nich rodzicom od kilku lat, więc ich nazwiska znają bardzo dobrze. O tobie też wiedzieli jeszcze przed balem — z moich listów.
+
+Zmarszczyła lekko brwi, próbując sobie przypomnieć.
+
+— O innych osobach pewnie też czasem wspominałam, ale nie będę udawała, że pamiętam każde nazwisko, które kiedykolwiek znalazło się w liście. To nie znaczy, że na przykład znają Ginny, Neville’a czy Malfoya tak, jak znają z moich opowieści Harry’ego i Rona.
+
+Po chwili uśmiechnęła się lekko.
+
+— Ty jesteś trochę innym przypadkiem. O tobie zaczęłam pisać… znacznie bardziej szczegółowo.
+
+
+[C7-M0595]
+===== USER =====
+
+kiwnąłem głową i skupiłem się na kolejnej parze
+
+
+[C7-M0596]
+===== ASSISTANT =====
+
+Hermiona również przeniosła wzrok na środek sali, nie puszczając dłoni Jamesa.
+
+Moody odesłał Harry’ego i Draco na bok, po czym wskazał laską dwójkę kolejnych uczniów.
+
+— Wy. Na środek. I tym razem chcę zobaczyć ruch, nie dwóch ludzi stojących naprzeciwko siebie i wymieniających zaklęcia jak uprzejmości przy stole.
+
+Para zajęła miejsca.
+
+— Start!
+
+Pierwsze zaklęcie przecięło powietrze niemal natychmiast, ale obrońca uskoczył zamiast stawiać tarczę. Drugie poszło nisko, zmuszając go do cofnięcia się, a chwilę później drewniany stołek stojący przy ścianie poderwał się i poleciał przez pole ćwiczeń.
+
+Moody obserwował wszystko bez mrugnięcia.
+
+— Lepiej! Korzystajcie z sali! Przeciwnik nie istnieje w pustej przestrzeni!
+
+Hermiona przyglądała się uważnie, śledząc przede wszystkim ustawienie nóg i kąty, z których padały zaklęcia.
+
+
+[C7-M0597]
+===== USER =====
+
+widząc jej skupienie nie mogłem się powstrzymać i zacząłem całować jej policzki
+
+
+[C7-M0598]
+===== ASSISTANT =====
+
+Hermiona najpierw próbowała dalej śledzić pojedynek, ale po drugim pocałunku kącik jej ust wyraźnie drgnął.
+
+— James… — szepnęła ostrzegawczo, choć bez prawdziwej złości.
+
+Przez chwilę jeszcze patrzyła na środek sali, po czym odwróciła głowę trochę w jego stronę.
+
+— Naprawdę? Teraz?
+
+Na środku kolejna para właśnie wymieniała zaklęcia, a Moody krążył przy nich jak sęp, poprawiając ustawienie i warcząc uwagi.
+
+Hermiona ściszyła głos jeszcze bardziej.
+
+— Próbuję patrzeć, co robią źle.
+
+Mimo tego uśmiech nie znikał jej z twarzy.
+
+
+[C7-M0599]
+===== USER =====
+
+-Absolutnie wszystko....koniec tematu....powiedziałem i delaktnie pocałowałem jej nos
+
+
+[C7-M0600]
+===== ASSISTANT =====
+
+Hermiona zmrużyła oczy, ale uśmiech od razu ją zdradził.
+
+— „Koniec tematu”, tak? — mruknęła cicho.
+
+Przez sekundę wyglądała, jakby miała coś jeszcze odpowiedzieć, po czym tylko pokręciła głową i wróciła wzrokiem do ćwiczeń.
+
+— Jesteś niemożliwy.
+
+Moody akurat odwrócił się w ich stronę, więc Hermiona natychmiast przybrała niewinnie skupioną minę.
+
+— Granger — burknął. — Skoro tak pilnie analizujesz błędy innych, mam nadzieję, że pamiętasz własne z ostatniej rundy.
+
+— Pamiętam, profesorze — odpowiedziała od razu.
+
+Dopiero kiedy znów spojrzał na ćwiczącą parę, Hermiona rzuciła Jamesowi krótkie, rozbawione spojrzenie.
+
+

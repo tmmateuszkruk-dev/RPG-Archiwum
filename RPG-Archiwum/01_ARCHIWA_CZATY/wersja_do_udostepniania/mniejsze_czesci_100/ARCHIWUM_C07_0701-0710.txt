@@ -1,0 +1,151 @@
+C7-M0701–C7-M0710 (10 wiadomości)
+
+[C7-M0701]
+===== USER =====
+
+-Przed chwilą powiedziałaś że będę miał go uciszać
+...
+
+
+[C7-M0702]
+===== ASSISTANT =====
+
+Jasne, mordo — Part 7 możemy zaczynać. Zrobiłem pełny przegląd warstwy ciągłości: CURRENT, zasady, cały rejestr korekt, macierz wiedzy NPC, timeline, profile, relacje, przedmioty/sekrety, otwarte wątki, indeks scen, mapowanie obu wersji C5, kontrolę archiwum oraz cały lorebook C1–C6. Sprawdziłem też zgodność JSON-a z lorebookiem — kontrola bazy potwierdza, że zawierają tę samą treść. Baza obejmuje łącznie 8136 wiadomości, a walidacja potwierdza kompletność zakresów C5/C6 oraz zgodność ostatniej wiadomości użytkownika z CURRENT. KONTROLA_ARCHIWUM
+
+Jedno ograniczenie zaznaczam uczciwie: na obecnej powierzchni projektu nie jest osobno wystawiony pełny 01_ARCHIWUM_CZAT_6.txt. Dokumentacja bazy potwierdza jednak, że C6 miał 436 wiadomości, został w całości odczytany podczas budowy bazy i zweryfikowany z dwóch części aż do C6-M0436. Nie będę więc twierdził, że właśnie przeczytałem osobny plik C6 1:1; jego treść mam odtworzoną przez zweryfikowane opracowanie, indeks i źródłowe odsyłacze. 00_INDEKS_MNIEJSZYCH_CZESCI
+
+Najważniejsze „sztuczki pamięciowe” mam zapięte: Ty masz stuprocentową kontrolę nad Jamesem; nie dopisuję mu nawet drobnej reakcji, myśli czy następnego ruchu. Wiedza narratora nie przechodzi magicznie do NPC. Późniejsza jawna korekta przebija starszą wersję tylko w swoim zakresie. Odrzucona/błędna odpowiedź nie staje się kanonem. Charakter NPC-ów pozostaje samodzielny — zwłaszcza Hermiona nie zamienia się w bezustannie rozsądną opiekunkę, Draco w podwładnego, Nott w maszynkę do suchych żartów, a Ron w jednocechowego antagonistę. 11_LOREBOOK_HOGWARTS_C1-C6
+
+Punkt startowy jest jednoznaczny: sobota, 25 lutego 1995, wieczór po kolacji, zimowy ogród Pokoju Życzeń stworzony przez Hermionę. Są tam tylko James i Hermiona. Oboje są bardzo blisko na miękkim legowisku; Hermiona ma dłoń przy jego policzku, twarze są skierowane ku sobie. Nie wolno mi samemu zmieniać pozycji Jamesa. C6-M0428 jest technicznym wtrąceniem i absolutnie nie cofa sceny. 11_LOREBOOK_HOGWARTS_C1-C6
+
+I przede wszystkim ostatnia wiadomość Jamesa jest zachowana dosłownie:
+
+— Tak to ptzez Ciebie....jest mi bardzo przyjemnie i tak.....umm... jesteśmy sami i jesteśmy blisko i to wszystko jest tak elektryzujące...i jeszcze ty jesteś tak......nieziemsko cudowna....i pachniesz tak pięknie....spojrzałem jej w oczy a mój wzrok stał się lekko nieobecny
+
+Po tym nie istnieje jeszcze żadna reakcja Hermiony. To właśnie od niej zaczyna się Part 7. 11_LOREBOOK_HOGWARTS_C1-C6
+
+Hermiona przez krótką chwilę nic nie odpowiedziała.
+
+Patrzyła mu prosto w oczy, a wcześniejsza troska w jej spojrzeniu nie zniknęła całkowicie — ale kiedy usłyszała jego odpowiedź, kąciki jej ust powoli uniosły się w niewielkim, ciepłym uśmiechu.
+
+Rumieniec pojawił się na jej policzkach wyraźniej.
+
+— Och…
+
+Jej dłoń nadal spoczywała przy jego policzku.
+
+— Czyli pytam, czy wszystko z tobą w porządku, a w odpowiedzi dowiaduję się, że problem polega na tym, że jestem nieziemsko cudowna i za ładnie pachnę?
+
+W jej głosie pojawiła się znajoma nuta rozbawienia, ale zaraz złagodniała. Przez moment jeszcze obserwowała jego lekko nieobecne spojrzenie.
+
+— Dobrze… — powiedziała ciszej. — Skoro mówisz, że jest ci przyjemnie, to ci wierzę.
+
+Palce przy jego policzku poruszyły się ledwie zauważalnie w spokojnym, czułym geście.
+
+— Ale jeżeli to „elektryzujące” zmieni się w coś, co przestanie być przyjemne, po prostu mi powiedz. Bez prób udowadniania, że wszystko jest dobrze.
+
+Na moment umilkła, po czym jej uśmiech znów zrobił się trochę bardziej zaczepny.
+
+— I swoją drogą… bardzo sprytnie, panie Brown.
+
+— Zdołałeś odpowiedzieć na moje pytanie i jednocześnie sprawić, że teraz to ja mam problem ze skupieniem się.
+
+
+[C7-M0703]
+===== ASSISTANT =====
+
+Hermiona uniosła brwi.
+
+— Tak. Uciszać.
+
+Zrobiła krótką pauzę.
+
+— Nie wypowiadać mu wojny, nie organizować pojedynku między stołami i nie zamieniać obiadu w pokaz odstraszania strategicznego.
+
+Kącik jej ust drgnął.
+
+— Wiesz… takie zwykłe, cywilizowane „Malfoy, daj spokój” też się liczy.
+
+
+[C7-M0704]
+===== USER =====
+
+pokręciłem głową - No tak zapomniałem że moja najukochańsza Hermiona lubi tylko takie miękkie uciszanie....powiedziałem gdy byliśmy już przed wielką salą
+
+
+[C7-M0705]
+===== ASSISTANT =====
+
+Hermiona prychnęła cicho i spojrzała na niego spod uniesionych brwi.
+
+— „Miękkie uciszanie” brzmi bardzo źle w twoim wykonaniu.
+
+Na moment zatrzymała się przy wejściu do Wielkiej Sali.
+
+— Wolę po prostu takie, po którym nikt nie ląduje w Skrzydle Szpitalnym i nie trzeba tłumaczyć McGonagall, że „sytuacja wymknęła się spod kontroli”.
+
+Kącik jej ust drgnął.
+
+— To chyba rozsądne wymaganie, prawda?
+
+
+[C7-M0706]
+===== USER =====
+
+Racja...powiedziałem zrezygnowany
+
+
+[C7-M0707]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego przez moment, a potem jej wyraz twarzy złagodniał.
+
+— Nie rób takiej miny. — ścisnęła lekko jego dłoń. — To nie jest zakaz zabawy, tylko zakaz robienia z obiadu pola bitwy.
+
+Ruszyła z nim przez próg Wielkiej Sali.
+
+Przy stole Ślizgonów kilka głów odwróciło się niemal od razu. Pansy zauważyła ich pierwsza; Nott zerknął znad talerza, a Draco uniósł brwi, kiedy zobaczył Hermionę idącą właśnie w ich stronę.
+
+Hermiona nachyliła się minimalnie ku Jamesowi.
+
+— No dobrze. Zaczynamy eksperyment społeczny.
+
+
+[C7-M0708]
+===== USER =====
+
+po chwili byliśmy już przy stole - Nott, Pansy Draco....powiedziałem cicho
+
+
+[C7-M0709]
+===== ASSISTANT =====
+
+Nott pierwszy podniósł wzrok znad talerza.
+
+— Brown.
+
+Pansy zerknęła od razu na Hermionę, potem na ich splecione dłonie i uniosła brew z cieniem rozbawienia.
+
+— Granger.
+
+Draco odłożył sztućce odrobinę wolniej. Jego spojrzenie zatrzymało się na Hermionie, potem na zielono-srebrnym krawacie pod jej kołnierzykiem i wreszcie wróciło do Jamesa.
+
+— Widzę, że dziś mamy gościa.
+
+Hermiona odpowiedziała mu spokojnie:
+
+— Tak. Przeżyjesz.
+
+Pansy parsknęła cicho, a Nott tylko przesunął się odrobinę, robiąc więcej miejsca przy stole.
+
+Draco zmrużył oczy, ale nie wyglądał, jakby zamierzał od razu rozpoczynać awanturę.
+
+— Nie powiedziałem, że nie. Jeszcze.
+
+
+[C7-M0710]
+===== USER =====
+
+Rzuciłem Pansy zimne spojrzenie
+
+
