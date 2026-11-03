@@ -1,3 +1,9 @@
+# Stan po C15 — czytaj najpierw
+
+Obowiązujący punkt C15-M1350, 21 VI 1996, 17:43, Wielka Sala. Nowa część 15 ma 1350 wiadomości; 15 części obejmuje 15128 wiadomości. Uzupełnienie faktów: AKTUALIZACJA_C15.md. Stare części zachowane, nowe indeksy w 03_INDEKS, karty w 06_PAMIEC_POSTACI. Odpowiedź Jamesa na propozycję regularnych spotkań jeszcze nie padła. James ma 17 lat, urodziny 1 stycznia, według późniejszej korekty użytkownika.
+
+---
+
 # Aktualizacja C14
 
 Stan C14-M0704, kolej na gracza. 89 luk eksportu. Aktualne indeksy: ../03_INDEKS.

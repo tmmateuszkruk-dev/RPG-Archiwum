@@ -1,3 +1,17 @@
+# Zasady po C15-M1350
+
+1. Obowiązujący początek: 21 VI 1996, godzina około 17:43, Wielka Sala. James ma odpowiedzieć na zaproszenie Malcolma; **nie odpowiadaj za gracza**.
+2. Datę urodzenia Jamesa 1 stycznia i wiek 17 lat zaczerpnięto z późniejszej nadrzędnej korekty GitHub; wcześniejsze sprzeczne zapisy wieku zachowaj tylko jako historię.
+3. C15 to 675 tur / 1350 wiadomości z mapowaniem TURN i KEY. C1–C15: 15128 wiadomości. Ujednolicone części i nowy podział 161 fragmentów po maksymalnie 100 mają te same identyfikatory źródłowe.
+4. Pamięć NPC zawsze ma konkretne źródło; szczegóły Ministerstwa i wywiadu w Hogsmeade nie są automatycznie znane nieobecnym.
+5. Jawne korekty OOC zastępują wyłącznie objęty nimi zakres. Stare warianty i opowieści NPC nie są bezwarunkową prawdą.
+6. Zachowaj autonomię Hermiony, Draco, Rona, Harry'ego i młodszych; rozmowy o przyszłym ślubie Jamesa i Hermiony nie są zaręczynami.
+7. Śmierć Syriusza jest rozegranym faktem. Randka 27 IV, wręczenie prezentów i osobiste poznanie Grahama przez Lunę zostały wykonane; nie przywracaj ich jako otwartych wątków.
+8. Gdy potrzebna szczegółowa scena, szukaj przez INDEKS_SCEN i MAPOWANIE_C15, nie czytaj wszystkich 15 części za każdym razem.
+9. Prywatna strona i biblioteka nie synchronizują się z GitHubem automatycznie.
+
+---
+
 # Obowiązujące zasady prowadzenia kampanii
 
 Bieżącą scenę wyznacza [08_CURRENT.md](08_CURRENT.md) oraz późniejsze wiadomości rozmowy. Ten dokument zawiera reguły, nie historyczne punkty startowe. Dawne brzmienie zachowano w [historii instrukcji](../05_HISTORIA_BAZY/instrukcje_przed_uporzadkowaniem_2026-10-27/10_ZASADY_PELNE.md).

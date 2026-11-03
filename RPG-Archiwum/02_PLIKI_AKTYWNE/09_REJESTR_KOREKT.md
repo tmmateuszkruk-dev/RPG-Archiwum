@@ -1,3 +1,17 @@
+# Przyrost korekt — C15
+
+- **C15-M0001–M0004:** wznowienie po C14 nie jest ponownym zagraniem ostatniej sceny; James odpowiada Grahamowi, że zostaje na Nowy Rok. Nie dopisuj zgody Sprout ani wykonanego przyjęcia.
+- **C15-M0341–M0342:** niewłaściwe przypisanie Jamesowi edukacji w Durmstrangu zostaje odrzucone po korekcie użytkownika; wątki związane z Durmstrangiem rodziny nie są dowodem, że James tam uczęszczał.
+- **C15-M0391–M0392:** podczas poznawania Luny pozostali członkowie zimowej grupy dosiedli się do stołu; to korekta lokalnego ustawienia, nie globalny retcon.
+- **C15-M0579–M0580:** zmieniona scena Rona zastępuje wcześniejszy wariant tylko w swoim zakresie; odrzucone reakcje nie stają się pamięcią Rona.
+- **C15-M0657–M0658:** błędne „dwa miesiące” związku poprawiono na **ponad rok i dwa miesiące**; bal 25 XII 1994 pozostaje początkiem.
+- **C15-M1335–M1336:** twierdzenia Jamesa o liczbie śmierciożerców pokonanych przez Hermionę są jego wypowiedziami, a nie zweryfikowanym obiektywnie bilansem.
+- **James 17 lat, urodziny 1 stycznia:** późniejsza jawna korekta w istniejącym profilu GitHub ma pierwszeństwo przed historycznymi stwierdzeniami w załącznikach C14. Nie nadpisuj jej starszą wersją.
+- **C15-M1349–M1350:** pozwolenie Jamesa na przedstawienie pomysłu nie jest zgodą na udział w przyszłorocznych spotkaniach. Kolej na gracza.
+- Nie wciągaj wskazówek interfejsu, etykiety „Skill”, komentarzy OOC i anulowanych odpowiedzi do faktów RPG.
+
+---
+
 # Uzupełnienie po odzyskaniu 89 odpowiedzi C14
 
 - M0278 jednoznacznie unieważnia tylko M0276, odpowiedź na M0275. Archiwum przechowuje oba teksty; do pamięci zdarzeń trafia zamiennik. Wcześniejsza decyzja Hermiony o wyjeździe pozostaje. Źródła: C14-M0275, C14-M0276, C14-M0277, C14-M0278.
