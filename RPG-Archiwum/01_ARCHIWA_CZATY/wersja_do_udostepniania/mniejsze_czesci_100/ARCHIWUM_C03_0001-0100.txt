@@ -1,0 +1,2068 @@
+C3-M0001–C3-M0100 (100 wiadomości)
+
+[C3-M0001]
+===== USER =====
+
+Cześć czat tu bedizmy kontynuować nasze RPG ale daj mi jeszcze chwilę i w międzyczasie powidz mi czy oplaca się przejść na Pro i jak by to wplynrlo na nasze RPG
+
+
+
+[C3-M0002]
+===== ASSISTANT =====
+
+Tak — ale w naszym przypadku Pro ma sens głównie jako ulepszenie jakości i limitów, a nie jako magiczne lekarstwo na zapominanie fabuły.
+
+Na dziś OpenAI ma dwa poziomy Pro: 100 USD/mies. z limitami ok. 5× wyższymi niż Plus oraz 200 USD/mies. z limitami ok. 20× wyższymi niż Plus. Plus kosztuje 20 USD/mies. 
+OpenAI Help Center
++1
+
+Dla naszego RPG najważniejsza różnica wygląda tak:
+
+	Plus	Pro
+GPT-5.6 Sol	✅	✅
+Poziom rozumowania Medium/High	✅	✅
+Extra High	❌	✅
+GPT-5.6 Sol Pro	❌	✅
+Limity intensywnego używania	niższe	5× / 20× większe
+Pamięć między rozmowami	✅	✅
+
+GPT-5.6 Sol Pro jest obecnie najmocniejszym wariantem GPT-5.6 w ChatGPT i OpenAI opisuje go jako przeznaczony m.in. do trudnych zadań oraz długotrwałych workflowów. 
+OpenAI Help Center
++1
+
+Co realnie zauważyłbyś w RPG
+
+1. Lepsze pilnowanie skomplikowanej logiki sceny.
+Przy kilkunastu NPC-ach, wiedzy typu „Hermiona wie A, Draco wie tylko B, Snape widział C”, wcześniejszych wydarzeniach i kanonicznych charakterach — tryb Pro powinien być lepszy w analizowaniu wszystkiego naraz. To jest dokładnie ten rodzaj problemu, gdzie mocniejsze rozumowanie ma sens.
+
+2. Mniejsza szansa na głupie sprzeczności.
+Np. postać nagle wie coś, czego nie słyszała, ktoś zmienia charakter pod fabułę albo wydarzenie sprzed kilkunastu scen zostaje źle zinterpretowane. Nie znaczy to, że błędy znikną całkowicie, ale mocniejszy model daje mi więcej „mocy obliczeniowej” na kontrolę ciągłości.
+
+3. Możemy robić znacznie więcej długich sesji.
+To może być dla Ciebie istotniejsze niż sam model. Przy bardzo intensywnym RPG Plus może w końcu uderzyć w limit rozumowania. Pro daje dużo większy zapas. 
+OpenAI Help Center
+
+4. Tryb Pro nie musi być używany przy każdej odpowiedzi.
+Na przykład zwykłe:
+
+James wszedł do Wielkiej Sali…
+
+nie potrzebuje najmocniejszego modelu świata. Natomiast przed dużą sceną moglibyśmy używać Pro do przeanalizowania stanu świata, relacji, wiedzy NPC-ów i ostatnich wydarzeń, a potem prowadzić scenę.
+
+Ale jest jedna bardzo ważna rzecz
+
+Pro nie oznacza nieskończonej pamięci rozmowy.
+
+Nie kupujesz za te 100/200 USD funkcji typu:
+
+„ChatGPT będzie pamiętał literalnie wszystkie 20 000 wiadomości naszego RPG zawsze i bezbłędnie.”
+
+Plus i Pro mają pamięć oraz możliwość korzystania z wcześniejszego kontekstu. OpenAI w 2026 r. dodatkowo poprawiało odzyskiwanie szczegółów z wcześniejszych rozmów zarówno dla Plus, jak i Pro. 
+OpenAI Help Center
++1
+
+Dlatego największy problem naszego RPG — ogromna ilość ustaleń o Jamesie, chronologia, kto co wie, relacje i drobne fakty z dawnych scen — najlepiej rozwiązać kombinacją:
+
+Pro + dobrze prowadzony „stan świata RPG”.
+
+Czyli trzymamy oddzielnie skondensowany zapis kanonu: chronologia, James, NPC, relacje, sekrety, wiedza poszczególnych postaci, otwarte wątki itd. Wtedy nawet jeśli rozmowa urośnie absurdalnie, mogę się do niego odnosić zamiast próbować rekonstruować wszystko z tysięcy wiadomości.
+
+Czy JA na Twoim miejscu kupiłbym Pro tylko dla naszego RPG?
+
+Jeżeli Plus nie dobija Ci do limitów, zostałbym na Plusie na razie.
+
+Jeżeli jednak nasze sesje mają wyglądać tak jak dotychczas — bardzo długie, z dużą liczbą szczegółów i rygorystycznym pilnowaniem tego, kto co wie, kto czego nie wie, kanonicznych charakterów i wydarzeń sprzed wielu scen — wtedy Pro 100 USD jest wariantem, który rzeczywiście może mieć dla Ciebie sens. Nie sądzę natomiast, żeby samo RPG uzasadniało Pro 200 USD, chyba że naprawdę będziemy walić ogromną liczbę wiadomości dziennie i regularnie trafiać w limity. 
+OpenAI Help Center
+
+I najważniejsze: nawet po przejściu na Pro nadal prowadziłbym nasz osobny system ciągłości RPG. Pro poprawi jakość prowadzenia, ale ten system jest tym, co najbardziej zabezpieczy historię przed sytuacją w stylu „czat, zapomniałeś połowy fabuły”. 😄
+
+
+
+[C3-M0003]
+===== USER =====
+
+Ok a są czasem jakieś promocnej zebym nie musial płacić 800zł
+
+
+
+[C3-M0004]
+===== ASSISTANT =====
+
+Tak, promocje czasem się pojawiają, ale na ten moment nie znalazłem stałej promocji na ChatGPT Pro. OpenAI prowadzi okazjonalne akcje promocyjne, triale i kody polecające, ale dostępność zależy od konta, regionu i konkretnej kampanii. 
+OpenAI Help Center
++1
+
+Najważniejsze jest jednak coś innego: nie musisz brać Pro za 200 USD, czyli tego wychodzącego w okolicach 800 zł. Obecnie istnieje też Pro za 100 USD miesięcznie, z niższymi limitami niż wariant za 200 USD, ale nadal z dostępem do funkcji Pro i modeli Pro. 
+OpenAI Help Center
+
+Czyli przy dzisiejszym kursie samo 100 USD to ok. 374 zł; końcowa kwota może się różnić przez VAT/sposób rozliczenia. To już jest dużo bardziej rozsądne do naszego RPG niż płacenie ~800 zł.
+
+Niestety obecnie nie ma też tańszego rozliczenia rocznego — OpenAI podaje, że Plus i Pro są rozliczane miesięcznie i nie ma rocznej subskrypcji ze zniżką. 
+OpenAI Help Center
+
+Jest teraz promocja studencka: 4 miesiące Plus za darmo, ale aktualna edycja 2026 jest ograniczona do studentów kwalifikujących się uczelni w USA, więc w Polsce raczej Ci nie pomoże. 
+OpenAI Help Center
+
+W Twoim przypadku zrobiłbym więc tak: najpierw ewentualnie przetestowałbym Pro za 100 USD przez jeden miesiąc podczas naszego RPG. Po miesiącu łatwo ocenisz, czy różnica w trzymaniu ciągłości, jakości NPC-ów i limitach faktycznie jest warta tych ~400+ zł. Jeśli nie — wracasz na Plus. OpenAI pozwala zmieniać poziom Pro lub anulować go w dowolnym momencie. 
+OpenAI Help Center
+
+Jeżeli chcesz, mogę też sprawdzić czy na Twoim konkretnym koncie ChatGPT jest teraz jakaś indywidualna oferta/promocja na upgrade i gdzie ją znaleźć.
+
+
+
+[C3-M0005]
+===== USER =====
+
+ok to wrzuc tu oststnia wiadmosci histori i lecimy dalej
+
+
+
+[C3-M0006]
+===== ASSISTANT =====
+
+Jasne — analiza potwierdziła, że to jest dokładny punkt, w którym urwała się historia. Twoja ostatnia wiadomość brzmiała:
+
+— Rozumiem... — powiedziałem cicho i przez chwilę po prostu puściłem jej talię i po prostu byłem blisko. chatgpt_caly_czat2
+
+I lecimy dokładnie stąd, bez cofania sceny.
+
+Hermiona zauważyła niemal natychmiast, że dłonie Jamesa zniknęły z jej talii.
+
+Przez moment nic nie powiedziała.
+
+Nie odsunęła się jednak. Jej własna dłoń nadal spoczywała lekko przy jego karku, a druga przesunęła się spokojnie na jego ramię.
+
+— Hej...
+
+Powiedziała bardzo cicho.
+
+— Nie musiałeś odsuwać rąk dlatego, że powiedziałam „nie przesuwajmy ciągle granicy”.
+
+Jej spojrzenie pozostało na nim, spokojne i uważne.
+
+— Przecież powiedziałam chwilę temu, że to delikatne głaskanie mi odpowiada.
+
+Zrobiła krótką pauzę.
+
+— Chodziło mi tylko o to, że nie musimy za każdym razem zastanawiać się: „co następnego?”. Nie że mamy przestać robić rzeczy, które już obojgu nam się podobają.
+
+Palcami bardzo lekko pogładziła jego kark.
+
+— Możemy czasem po prostu być blisko.
+
+Kącik jej ust uniósł się odrobinę.
+
+— Bez eksperymentów. Bez negocjowania kolejnego paragrafu. Bez sprawdzania, czy da się wywołać jeszcze silniejszą reakcję.
+
+Przysunęła się do niego minimalnie, sama zmniejszając odległość, którą pozostawił.
+
+— Tak jak teraz.
+
+Przez kilka sekund po prostu została przy nim w ciszy.
+
+— I to też jest bardzo przyjemne, James.
+
+
+
+[C3-M0007]
+===== USER =====
+
+po chwili moje ręce wrócił na jej taliie i powli po niej jeździły jednocześnie przysunąłem usta bliżej jej zostaiwajac bardzo niewlką przestrzeń
+
+
+
+[C3-M0008]
+===== ASSISTANT =====
+
+Hermiona wyczuła powrót jego dłoni na talię i tym razem nie napięła się ani nie zerknęła kontrolnie w dół. Ruch był dokładnie taki, jaki przed chwilą uznała za przyjemny — powolny, delikatny i bez próby przesuwania ustalonej granicy.
+
+Kiedy natomiast jego twarz znalazła się bardzo blisko, jej spojrzenie na moment opadło ku jego ustom.
+
+Potem wróciło do oczu.
+
+Przez kilka sekund nie zamknęła tej ostatniej odległości. Jakby doskonale zauważyła, że James celowo zostawił jej wybór.
+
+Kącik jej ust lekko się uniósł.
+
+— Właśnie o tym mówiłam... — szepnęła.
+
+Jej palce przesunęły się łagodnie po jego karku.
+
+— Nie musimy się spieszyć.
+
+Ale sama również się nie cofnęła. Przeciwnie — przysunęła twarz jeszcze odrobinę, tak że pomiędzy ich ustami została już ledwie zauważalna przestrzeń.
+
+Przez chwilę trwała dokładnie tak, czując spokojne ruchy jego dłoni na swojej talii.
+
+A potem to Hermiona zamknęła ostatnią odległość.
+
+Pocałowała go miękko i spokojnie, bez pośpiechu, pozostając przy jego ustach przez kilka dłuższych sekund. Gdy w końcu odsunęła się zaledwie odrobinę, ich twarze nadal pozostały bardzo blisko.
+
+— Tak... — powiedziała niemal szeptem. — Dokładnie tak jest dobrze.
+
+
+
+[C3-M0009]
+===== USER =====
+
+po jej słowach znowu połączyłem nasze usta nadal delikatnie ale tym razem na trochę dłużej
+
+
+
+[C3-M0010]
+===== ASSISTANT =====
+
+Hermiona odpowiedziała na pocałunek od razu, spokojnie i bez pośpiechu.
+
+Jej dłoń przesunęła się nieco wyżej po karku Jamesa, zatrzymując się tam lekko, kiedy pocałunek trwał dłużej niż poprzedni.
+
+Nie próbowała go pogłębiać ani przyspieszać. Po prostu została blisko, odwzajemniając go przez kilka spokojnych chwil.
+
+Kiedy w końcu odsunęła się odrobinę, jej policzki były wyraźnie zarumienione, ale nie cofnęła się dalej.
+
+— Mhm...
+
+Przez moment wyglądała, jakby układała myśli.
+
+— Dłużej... ale nadal bez kombinowania.
+
+Kącik jej ust drgnął.
+
+— Pan Brown najwyraźniej jednak potrafi zastosować się do instrukcji bez natychmiastowego szukania luk.
+
+Jej palce znów przesunęły się lekko po jego karku.
+
+— I tak też mi się podoba.
+
+
+
+[C3-M0011]
+===== USER =====
+
+znowu mnie przeszły dreszcze i zacząłem mocniej drżeć otworzyłem na chwilę oczy -Mowilem ci już że do twarzy ci w czerwonym?
+
+
+
+[C3-M0012]
+===== ASSISTANT =====
+
+Hermiona przez ułamek sekundy tylko na niego patrzyła, po czym — zupełnie wbrew własnym interesom — zarumieniła się jeszcze mocniej.
+
+— James...
+
+Przymknęła oczy i pokręciła lekko głową, ale uśmiechu nie zdołała ukryć.
+
+— Tak. Mówiłeś.
+
+Jej palce nadal spoczywały przy jego karku. Kiedy wyczuła, że jego drżenie znowu wyraźnie się nasiliło, przesunęła po nim dłonią trochę spokojniej, bez odsuwania się.
+
+— I zaczynam podejrzewać, że przypominasz mi o tym specjalnie, bo doskonale wiesz, jaki będzie efekt.
+
+Spojrzała mu ponownie w oczy, nadal mocno zaczerwieniona.
+
+— Co jest wyjątkowo podstępne, skoro potem właśnie ten efekt tak bardzo ci się podoba.
+
+Kącik jej ust drgnął.
+
+— A poza tym...
+
+Zawahała się na moment.
+
+— ...chyba nie jesteś teraz w najlepszej pozycji do komentowania mojego rumieńca, skoro sam drżysz tak mocno, że czuję to bez najmniejszego problemu.
+
+
+
+[C3-M0013]
+===== USER =====
+
+gdy ponownie przyjechała po moim karku przeszedł mnie gwałtowny dreszcz a ja sam lekko wygialem w stronę jej dotyku a na jej slowa tym razem to ja się zarumieniłem i ponownie zbliżyłem sowje usta do jen zostaiwajac jej docyzje połączenia ich
+
+
+
+[C3-M0014]
+===== ASSISTANT =====
+
+Hermiona poczuła ten gwałtowny dreszcz praktycznie od razu. Kiedy James lekko podążył karkiem za jej dłonią, jej spojrzenie na moment zrobiło się bardziej miękkie.
+
+A gdy zobaczyła, że tym razem to on się zarumienił, kącik jej ust uniósł się prawie natychmiast.
+
+— Ach... czyli jednak działa w obie strony — szepnęła z cichym rozbawieniem.
+
+Nie cofnęła dłoni z jego karku. Zamiast tego przesunęła opuszkami palców jeszcze raz, bardzo lekko, jakby już doskonale wiedziała, jak silnie na niego działa ten gest.
+
+Kiedy jego usta zatrzymały się tuż przed jej własnymi, Hermiona zauważyła również coś jeszcze — że znowu pozostawił tę ostatnią odległość jej.
+
+Przez krótką chwilę tylko patrzyła mu w oczy.
+
+Potem jej wzrok opadł ku jego ustom.
+
+— Mhm...
+
+Przysunęła się sama.
+
+Tym razem pocałowała go bez tego krótkiego zawahania z wcześniejszych prób. Nadal delikatnie, ale spokojnie i pewnie, zostając blisko przez dłuższą chwilę.
+
+Jej dłoń pozostała przy jego karku, a palce wykonały jeszcze jeden powolny ruch dokładnie w trakcie pocałunku.
+
+Dopiero potem odsunęła usta ledwie o kilka centymetrów.
+
+Jej policzki nadal były czerwone.
+
+— To chyba trochę niesprawiedliwe — powiedziała cicho.
+
+Kącik jej ust drgnął.
+
+— Ty zostawiasz decyzję mnie... a potem drżysz tak, że bardzo trudno jest Pannie Granger udawać, że nie widzi, jak bardzo zależy ci na odpowiedzi.
+
+
+
+[C3-M0015]
+===== USER =====
+
+gdy ponownie przyjechała po moim karku reakcja mojego ciała była jeszcze bardziej gwałtowna przeszył mnie dreszcze przyjemności i lekko się wzdrygnąłem jednocześnie złapałem ją w tali aby nie stracić równowagi przerywając pieszczote gdy pocalubek sie zaczął odwzajemniłemn go ale gdy poraz kolejny przejechała po moim karku trochę mocniej scisnąłem jej talię
+Słysząc jej słowa lekko się usniechnąłem ale na mojej twarzy było widać że jestm w innym świecie i po raz kolejny zbliżyłem usta do jej zostawiając centymetr
+
+
+
+[C3-M0016]
+===== ASSISTANT =====
+
+Hermiona poczuła mocniejsze ściśnięcie w talii dokładnie w chwili, w której jego ciało zareagowało na dotyk przy karku. Na moment przerwała ruch palców i zamiast tego oparła dłoń stabilniej na jego ramieniu, jakby odruchowo pomagając mu złapać równowagę.
+
+Spojrzała mu w twarz uważniej.
+
+— James...?
+
+Nie zabrzmiało to jak upomnienie. Raczej krótkie sprawdzenie, czy wszystko jest w porządku.
+
+Kiedy jednak zobaczyła jego wyraz twarzy i ten lekki, nieobecny uśmiech, sama zarumieniła się jeszcze odrobinę.
+
+— Chyba naprawdę znalazłam wyjątkowo skuteczne miejsce — szepnęła.
+
+Jej spojrzenie na moment przesunęło się ku jego dłoni na jej talii.
+
+— Tylko troszeczkę lżej, dobrze? — dodała spokojnie. — Wiem, że to było odruchowe.
+
+Nie odsunęła się.
+
+A kiedy James po raz kolejny zatrzymał usta ledwie centymetr od jej własnych, Hermiona przez kilka sekund tylko patrzyła mu w oczy.
+
+Tym razem nie przesunęła dłoni po jego karku.
+
+Jakby świadomie dawała mu chwilę, żeby dojść do siebie po poprzedniej reakcji.
+
+Kącik jej ust uniósł się.
+
+— Znowu zostawiasz mi tę ostatnią odległość...
+
+Powiedziała to niemal szeptem.
+
+Po czym sama ją zamknęła.
+
+Pocałowała go delikatnie, spokojniej niż przed chwilą, a wolną dłonią nadal stabilnie trzymała go przy ramieniu. Kiedy po kilku sekundach odsunęła się tylko minimalnie, ich twarze wciąż pozostawały bardzo blisko.
+
+— I chyba zaczynam lubić, że pytasz mnie w ten sposób.
+
+
+
+[C3-M0017]
+===== USER =====
+
+na jej prośbę nieco rozluźniłem chwyt na jej talli a gdy nasze usta się zaliczyły wydałem lekki pomruk
+tym razem gdy przerwała pocałunek moje usta jeszcze przez chwilę podążały za jej ustami
+
+
+
+[C3-M0018]
+===== ASSISTANT =====
+
+Hermiona wyczuła, że jego chwyt na talii od razu stał się lżejszy, i napięcie, które na moment pojawiło się w jej postawie, zniknęło niemal natychmiast.
+
+Kiedy z jego gardła wyrwał się ten cichy pomruk, jej policzki znów lekko poczerwieniały.
+
+A gdy po przerwaniu pocałunku jego usta jeszcze przez chwilę podążyły za jej własnymi, Hermiona zatrzymała się zamiast odsuwać dalej.
+
+Przez sekundę patrzyła na niego z bardzo bliska.
+
+— Mhm...
+
+Kącik jej ust drgnął.
+
+— Chyba Pan Brown nie dostał jeszcze informacji, że pocałunek już się skończył.
+
+Nie powiedziała tego jednak jak zarzutu.
+
+Wręcz przeciwnie.
+
+Przysunęła się z powrotem o tę niewielką odległość i musnęła jego usta jeszcze raz — krótko, miękko, prawie jak dopowiedzenie poprzedniego pocałunku.
+
+Potem została blisko, opierając czoło lekko o jego.
+
+— Lepiej? — szepnęła.
+
+Jej dłoń nadal spoczywała przy jego ramieniu, tym razem bez drażnienia karku, jakby świadomie nie chciała ponownie wywołać tak gwałtownej reakcji.
+
+Przez chwilę obserwowała jego twarz, nadal odrobinę zarumieniona.
+
+— I... dziękuję, że od razu poluzowałeś uścisk.
+
+Jej głos zrobił się nieco spokojniejszy.
+
+— Właśnie o to mi chodziło wcześniej. Nie muszę robić z każdej granicy wielkiej rozmowy. Mogę po prostu powiedzieć „trochę lżej”, a ty reagujesz.
+
+Kącik jej ust ponownie się uniósł.
+
+— To bardzo ułatwia bycie blisko ciebie.
+
+
+
+[C3-M0019]
+===== USER =====
+
+-Lepiej....powiedziałem bardzo cicho a potem jedną dłoń położyłem na jej policzku i zacząłem delikatnie gładzić go kciukiem -Nie musisz dziękować nie chce żebyś odczuwała dyskomfort....na jej ostatnie pytanie odpowiedziałem zadziornie
+-Czyli bycie blisko mnie jest trudne?
+Podniosłem brew i znowu zbliżyłem się do jej ust tym razem w taki sposób że nasze nosy się zetknęły
+
+
+
+[C3-M0020]
+===== ASSISTANT =====
+
+Hermiona przez moment tylko na niego patrzyła, czując powolny ruch kciuka na swoim policzku. Przy zetknięciu nosów kącik jej ust natychmiast drgnął.
+
+— Och, proszę nie przekręcać moich słów, panie Brown.
+
+Uniosła lekko brew, choć przy tak małej odległości próba przybrania surowej miny nie była szczególnie przekonująca.
+
+— Powiedziałam, że łatwiej jest być blisko ciebie, kiedy mogę po prostu powiedzieć, czego chcę, a ty tego słuchasz.
+
+Na chwilę spojrzała mu prosto w oczy.
+
+— To nie znaczy, że bycie blisko ciebie jest trudne.
+
+Krótka pauza.
+
+— Ty jesteś trudny.
+
+Na jej twarzy pojawił się zadziorny uśmiech.
+
+— To zasadnicza różnica.
+
+Nie odsunęła nosa od jego nosa. Przeciwnie, lekko poruszyła głową, niemal zaczepnie ocierając się nim o jego.
+
+— Ciągle negocjujesz. Prowokujesz. Zadajesz pytania, na które doskonale znasz odpowiedź, tylko dlatego, że chcesz usłyszeć ją ode mnie...
+
+Jej spojrzenie na sekundę opadło ku jego ustom.
+
+— ...a potem robisz dokładnie to.
+
+Znów spojrzała mu w oczy.
+
+— Zbliżasz się tak, żeby zostawić mi ostatni centymetr i udajesz, że wcale nie próbujesz wpłynąć na decyzję Panny Granger.
+
+Nie zamknęła jednak tej odległości od razu. Tym razem zostawiła go przez kilka sekund dokładnie tak — nos przy nosie, usta bardzo blisko.
+
+— Więc nie. — szepnęła. — Bliskość z tobą nie jest trudna.
+
+Kącik jej ust uniósł się nieco wyżej.
+
+— Zachowanie przy tobie rozsądku czasami jest.
+
+
+
+[C3-M0021]
+===== USER =====
+
+tym razem to ja po jej słowach zamknąłem ostatnią przestrzeń i tym razem mimo że pocałunek był bardzo delikatny nie chciałem go kończyć
+
+
+
+[C3-M0022]
+===== ASSISTANT =====
+
+Hermiona odpowiedziała na pocałunek bez wahania.
+
+Nie próbowała go skracać. Została blisko, odwzajemniając go równie delikatnie, a jej dłoń przesunęła się z jego ramienia z powrotem ku karkowi — tym razem jednak zatrzymała się tam spokojnie, bez drażnienia miejsca, które wcześniej wywoływało u niego tak silne dreszcze.
+
+Po kilku dłuższych chwilach jej palce lekko zacisnęły się na materiale przy jego ramieniu.
+
+Nie odsuwała się gwałtownie.
+
+Kiedy w końcu przerwała pocałunek, zrobiła to bardzo powoli, zostając tak blisko, że ich czoła niemal się stykały.
+
+Przez moment tylko oddychała spokojnie, wyraźnie zarumieniona.
+
+— Mhm...
+
+Kącik jej ust drgnął.
+
+— I to właśnie miałam na myśli.
+
+Jej spojrzenie na sekundę uciekło ku jego ustom, po czym wróciło do oczu.
+
+— Bardzo trudno zachowywać się rozsądnie, kiedy Pan Brown najwyraźniej postanawia, że nie chce kończyć pocałunku.
+
+Nie brzmiała jednak, jakby miała do niego pretensję.
+
+Przeciwnie — uśmiechnęła się odrobinę szerzej.
+
+— Ale... nie miałam ochoty, żebyś kończył go dużo wcześniej.
+
+
+
+[C3-M0023]
+===== USER =====
+
+-To Panna Granger zabiera mi cały rozsądek....i niemalże nie mogę jej nie pieścić....powiedziałem cicho nadal mając zamknięte oczy po pocałunku
+
+
+
+[C3-M0024]
+===== ASSISTANT =====
+
+Hermiona uśmiechnęła się bardzo lekko, nadal pozostając blisko. Na jego słowa policzki znowu zrobiły jej się odrobinę bardziej czerwone.
+
+— „Niemalże” brzmi tutaj wyjątkowo podejrzanie.
+
+Jej głos był cichy, ale wyraźnie rozbawiony.
+
+Przez chwilę nie próbowała go prowokować kolejnym dotykiem. Zamiast tego po prostu została przy nim, z dłonią spokojnie opartą przy jego karku.
+
+— Ale chyba rozumiem, co masz na myśli.
+
+Przesunęła kciukiem bardzo lekko po materiale przy jego ramieniu.
+
+— I nie przeszkadza mi, że chcesz mnie dotykać, przytulać czy całować, kiedy jesteśmy tak blisko.
+
+Krótka pauza.
+
+— Dopóki nadal pamiętasz, że ten cały „brak rozsądku” nie zwalnia pana Browna z myślenia.
+
+Kącik jej ust drgnął.
+
+— Bo gdyby Panna Granger naprawdę zabierała ci cały rozsądek, musiałaby chyba zacząć ograniczać własną moc.
+
+Po chwili przysunęła twarz nieco bliżej i musnęła go krótko w policzek.
+
+— A tego akurat nie planuję.
+
+
+
+[C3-M0025]
+===== USER =====
+
+Nie planujesz zabrać mi całego rozsądku czy ograniczać swojej mocy?
+
+
+
+[C3-M0026]
+===== ASSISTANT =====
+
+Hermiona uniosła brew i przez chwilę patrzyła na niego z miną kogoś, kto właśnie usłyszał pytanie sformułowane zdecydowanie zbyt sprytnie.
+
+— Ograniczać swojej mocy.
+
+Kącik jej ust uniósł się odrobinę.
+
+— Zabierania ci całego rozsądku też nie mam w planach.
+
+Krótka pauza.
+
+— Przynajmniej nie celowo.
+
+Przysunęła się odrobinę bliżej, nadal z tym samym cichym rozbawieniem.
+
+— Jeżeli Pan Brown sam postanawia tracić przy Pannie Granger połowę zdolności logicznego myślenia, to chyba nie mogę brać za to pełnej odpowiedzialności.
+
+Jej palce przesunęły się lekko po jego karku.
+
+— Ale swojej „mocy” ograniczać nie zamierzam.
+
+Spojrzała mu prosto w oczy.
+
+— Skoro najwyraźniej tak bardzo ci się podoba.
+
+
+
+[C3-M0027]
+===== USER =====
+
+Jest bardzo.....nie odpowiedziałem tylko po raz kolejny pocałowałem jej usta jednocześnie bardzo ostrożnie uważając na jej suknię wziąłem ją na ręce i poniosłem tak by jej usta były odrobinę wyżej od moich i kontynuowałem pocałunek bardzo delkatnym
+
+
+
+[C3-M0028]
+===== ASSISTANT =====
+
+Hermiona wydała z siebie krótkie, zaskoczone „mm—”, kiedy nagle poczuła, że traci grunt pod stopami.
+
+Jej ręce odruchowo objęły Jamesa za ramiona, bardziej dla równowagi niż z protestu. Przez pierwszą sekundę otworzyła szerzej oczy, wyraźnie zaskoczona zmianą pozycji.
+
+Ale kiedy zauważyła, jak ostrożnie prowadzi ruch i jak pilnuje, żeby nie zahaczyć ani nie przygnieść sukni, napięcie szybko z niej zeszło.
+
+Nie przerwała pocałunku.
+
+Odwzajemniała go nadal spokojnie i delikatnie, choć teraz musiała lekko pochylić głowę w dół, bo znalazła się odrobinę wyżej.
+
+Dopiero po dłuższej chwili odsunęła usta na tyle, żeby zaczerpnąć oddechu.
+
+— James...
+
+Spojrzała najpierw w dół, jakby dopiero teraz w pełni rejestrowała, że rzeczywiście znajduje się na jego rękach, potem z powrotem na jego twarz.
+
+Jej policzki były mocno czerwone.
+
+— Ty naprawdę masz niezwykły talent do przechodzenia od „bardzo spokojnego pocałunku” do sytuacji, której absolutnie się nie spodziewałam.
+
+Kącik jej ust drgnął.
+
+Jedna z jej dłoni przesunęła się odrobinę wyżej na jego ramieniu.
+
+— Ale dziękuję, że uważasz na suknię.
+
+Po krótkiej pauzie spojrzała na niego z lekko uniesioną brwią.
+
+— I zanim Pan Brown uzna, że skoro Panna Granger nie protestuje, może teraz zacząć spacerować z nią po całej sali...
+
+Jej uśmiech zrobił się wyraźniejszy.
+
+— ...możesz mnie jeszcze chwilę tak trzymać.
+
+
+
+[C3-M0029]
+===== USER =====
+
+-Czyli Hermiona nie zgodzi się na noszenie po wielkiej sali?
+
+
+
+[C3-M0030]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego z góry, wciąż trzymając ręce na jego ramionach.
+
+— Po Wielkiej Sali?
+
+Uniosła brwi, a potem zerknęła krótko na otoczenie, jakby już wyobraziła sobie reakcje uczniów.
+
+— James, jeśli zaczniesz mnie teraz nosić między stołami, Pansy będzie miała temat na miesiąc, Ron prawdopodobnie się zakrztusi, a Malfoy dostanie dokładnie tyle materiału do komentarzy, ile tylko zdoła unieść.
+
+Kącik jej ust drgnął.
+
+— Więc nie. Nie zgadzam się na uroczysty pochód przez Wielką Salę na rękach Pana Browna.
+
+Po chwili dodała jednak ciszej:
+
+— Tutaj możesz mnie jeszcze chwilę potrzymać.
+
+Przyjrzała mu się z bliska, wyraźnie rozbawiona.
+
+— I zanim zapytasz: nie, „tylko jeden mały spacer dookoła stołu” też się nie liczy.
+
+
+
+[C3-M0031]
+===== USER =====
+
+-Rozumiem,.ale mam nadzieję że Panna Granger wie że nie interesuję mnie zdanie innych?
+
+
+
+[C3-M0032]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego z bliska, nadal znajdując się na jego rękach.
+
+— Och, tego akurat jestem całkiem świadoma.
+
+Kącik jej ust lekko się uniósł.
+
+— Czasami aż za bardzo.
+
+Przez chwilę przyglądała mu się z rozbawieniem, po czym jej ton zrobił się spokojniejszy.
+
+— Ale to, że ciebie nie interesuje zdanie innych, nie znaczy, że mnie też nie musi.
+
+Lekko ścisnęła jego ramię.
+
+— Nie dlatego, że wstydzę się ciebie.
+
+Krótka pauza.
+
+— Po prostu nie mam ochoty, żeby każda rzecz między nami natychmiast stawała się widowiskiem dla całej szkoły.
+
+Jej spojrzenie złagodniało.
+
+— Jest różnica między „nie przejmuję się tym, co ludzie pomyślą” a „celowo daję im przedstawienie”.
+
+Kącik jej ust znowu drgnął.
+
+— A noszenie Panny Granger na rękach przez Wielką Salę zdecydowanie zalicza się do tej drugiej kategorii.
+
+Po chwili pochyliła się odrobinę bliżej.
+
+— Więc możesz nie interesować się ich zdaniem.
+
+— Ale czasami będziesz musiał zainteresować się moim.
+
+
+
+[C3-M0033]
+===== USER =====
+
+pocałowałem delikatnie jej brodę - akurat zdaniem Hermiony przejmuje się bardzo...powiedziałem cicho i po chwili odstawiałem ją na zimę ponownie uważając na jej suknię i gdy stała już na ziemi poprawiłem ją w kilku miejscach
+
+
+
+[C3-M0034]
+===== ASSISTANT =====
+
+Hermiona przyjęła delikatny pocałunek w brodę z lekkim uśmiechem.
+
+— To akurat zauważyłam.
+
+Kiedy James zaczął ostrożnie odstawiać ją na ziemię, automatycznie oparła dłonie na jego ramionach, dopóki znów nie poczuła pewnie podłogi pod stopami.
+
+Gdy tylko stanęła, spojrzała w dół na suknię.
+
+A potem na jego dłonie, kiedy zaczął poprawiać materiał w miejscach, które lekko przesunęły się podczas podnoszenia.
+
+Przez chwilę nic nie mówiła.
+
+— Wiesz...
+
+Uniosła lekko brew, obserwując tę niemal przesadną dokładność.
+
+— większość ludzi po prostu postawiłaby mnie na ziemi.
+
+Kącik jej ust drgnął.
+
+— Pan Brown najwyraźniej oferuje usługę razem z pełną kontrolą stanu sukni po transporcie.
+
+Pozwoliła mu skończyć, po czym sama wygładziła jeszcze jeden niewielki fragment materiału przy boku.
+
+— Ale dziękuję.
+
+Spojrzała na niego uważniej.
+
+— I nie za suknię.
+
+Jej głos zrobił się trochę cichszy.
+
+— Za to, że kiedy mówię ci, że coś jest dla mnie ważne, rzeczywiście to bierzesz pod uwagę. Nawet jeśli sam kompletnie nie przejmowałbyś się opinią połowy Hogwartu.
+
+Przez moment na jej twarzy utrzymał się ten spokojny uśmiech.
+
+Potem spojrzała na niego od góry do dołu i uniosła brew jeszcze wyżej.
+
+— Natomiast skoro już urządziłeś mi kontrolę stroju...
+
+Wyciągnęła dłonie i poprawiła niewielkie zagięcie jego szaty.
+
+— ...Panna Granger nie zamierza pozwolić, żeby jej partner wyglądał gorzej.
+
+
+
+[C3-M0035]
+===== USER =====
+
+uśmiechnąłem się a gdy skończyła jeszcze raz objąłem ją i przytuliłem nadstawiając usta do jej ucha -Dziekuje...
+
+
+
+[C3-M0036]
+===== ASSISTANT =====
+
+Hermiona od razu odwzajemniła objęcie.
+
+Przez moment po prostu została blisko, a kiedy usłyszała ciche „dziękuję” tuż przy uchu, jej uśmiech zrobił się wyraźnie łagodniejszy.
+
+— Nie ma za co... — odpowiedziała równie cicho.
+
+Jedną dłonią przesunęła lekko po jego plecach, drugą zostawiając na ramieniu.
+
+— Chociaż zaczynam podejrzewać, że Pan Brown dziękuje mi dzisiaj za rzeczy, za które naprawdę nie musi.
+
+Krótka pauza.
+
+— Za to, że mówię, czego chcę. Za to, że jestem blisko. Za poprawienie szaty...
+
+Kącik jej ust drgnął.
+
+— Jeszcze chwila i podziękujesz mi za oddychanie w twoim towarzystwie.
+
+Nie odsunęła się jednak. Została w objęciu, a potem dodała ciszej, już bez żartu:
+
+— Ale... jeśli naprawdę chcesz wiedzieć, to ja też się cieszę, że tu z tobą jestem. Bardzo.
+
+
+
+[C3-M0037]
+===== USER =====
+
+moja jedna rękę poszła w stronę jej głowy jakbym chciał ją pogłaskać ale zatrzymałem się bo nie chciałem zepsuć jej fryzury
+
+
+
+[C3-M0038]
+===== ASSISTANT =====
+
+Hermiona zauważyła ten zatrzymany w połowie ruch niemal od razu. Jej spojrzenie powędrowało najpierw ku dłoni Jamesa, a potem wróciło do jego twarzy.
+
+Przez moment wyglądała, jakby dokładnie wiedziała, dlaczego się zatrzymał.
+
+Kącik jej ust uniósł się lekko.
+
+— Och... teraz Pan Brown nagle przypomniał sobie o fryzurze?
+
+Powiedziała to cicho i wyraźnie zaczepnie.
+
+— Rano nie miałeś podobnych skrupułów. Przez dobre dziesięć minut masowałeś mi głowę tak, że sama nie chciałam, żebyś przestawał... chatgpt_caly_czat2
+
+Jej uśmiech zrobił się odrobinę szerszy.
+
+— Chociaż wtedy rzeczywiście miałeś tę przewagę, że przed śniadaniem sam poprawiłeś mi później włosy... razem z krawatem i połową mundurka. chatgpt_caly_czat2
+
+Hermiona ostrożnie dotknęła własnej balowej fryzury. Tym razem jej włosy były wygładzone Sleekeazy'm i starannie zebrane z tyłu w węzeł, nad którym spędziła znacznie więcej czasu niż podczas zwykłego poranka. chatgpt_caly_czat2
+
+— Więc... doceniam powściągliwość.
+
+Po chwili sama sięgnęła po zatrzymaną dłoń Jamesa i delikatnie skierowała ją bardziej ku bokowi głowy, z dala od upiętego węzła.
+
+— Tutaj możesz.
+
+Spojrzała mu w oczy.
+
+— Tylko żadnego pełnego „porannego masażu głowy”, bo tym razem naprawienie szkód zajęłoby Pannie Granger trochę więcej niż minutę.
+
+Krótka pauza.
+
+— A szkoda byłoby przez to całkiem rezygnować z głaskania.
+
+
+
+[C3-M0039]
+===== USER =====
+
+(Nie no czat coś źle logicznie tu wychodzi bo ona mówi jakby to było w dniu Balu rano)
+
+
+
+[C3-M0040]
+===== ASSISTANT =====
+
+Tak — masz rację. To była moja pomyłka chronologiczna. Scena z Pokoju Życzeń, w której przez około dziesięć minut masowałeś Hermionie głowę, nie wydarzyła się rano w dniu Balu. W tamtej scenie, wychodząc na śniadanie, Hermiona mówi wręcz: „Do balu nadal udajemy odrobinę rozsądku”, więc Bal był wtedy jeszcze przyszłością. chatgpt_caly_czat2
+
+Teraz jesteśmy już podczas samego Balu. Dzisiejsza fryzura Hermiony jest specjalnie przygotowana na tę okazję: włosy ma wygładzone, lśniące i zebrane z tyłu w staranny węzeł; później powiedziała Jamesowi, że użyła Sleekeazy’ego i że dziewczyny z dormitorium pomagały jej dobrać sposób upięcia. chatgpt_caly_czat2
+
+Czyli tamtą moją odpowiedź traktujemy jako niebyłą. Poprawna reakcja na Twoją akcję:
+
+Hermiona zauważyła dłoń zmierzającą w stronę jej głowy — i również moment, w którym James zatrzymał ją w połowie ruchu.
+
+Jej spojrzenie przesunęło się na jego rękę, a potem wróciło do jego twarzy.
+
+Przez sekundę wyglądała na lekko zaskoczoną.
+
+Potem zerknęła odruchowo ku własnym starannie upiętym włosom i zrozumiała.
+
+Kącik jej ust uniósł się.
+
+— Och...
+
+Powiedziała cicho, wyraźnie rozbawiona.
+
+— Pan Brown właśnie powstrzymał się przed pogłaskaniem Panny Granger, żeby nie zepsuć jej fryzury?
+
+Uniosła lekko brew.
+
+— Muszę przyznać, że to jest imponujący poziom samokontroli.
+
+Nie było w tym jednak kpiny. Hermiona doskonale pamiętała, ile czasu zajęło jej przygotowanie włosów na dzisiejszy wieczór.
+
+Po chwili sama lekko pochyliła głowę w jego stronę.
+
+— Możesz dotknąć tutaj.
+
+Wskazała palcem okolice skroni, gdzie kilka drobniejszych pasm pozostawało luźniejszych i nie stanowiło części właściwego upięcia.
+
+— Tylko proszę nie rozmontowywać węzła. Spędziłam nad nim zdecydowanie zbyt dużo czasu.
+
+Kącik jej ust drgnął mocniej.
+
+— Przynajmniej dopóki Bal jeszcze trwa.
+
+
+
+[C3-M0041]
+===== USER =====
+
+położyłem dłonie na jej policzkach i zacząłem masować bardzo delikatnie kciukami jej skronie - Czyli mam rozumieć ze Panna Granger chcę później spędzić ze mną też czas po balu....?
+
+
+
+[C3-M0042]
+===== ASSISTANT =====
+
+Hermiona przymknęła oczy niemal odruchowo, kiedy kciuki Jamesa zaczęły bardzo delikatnie masować jej skronie. Po całym wieczorze, muzyce, rozmowach i emocjach ten spokojny dotyk wyraźnie jej odpowiadał.
+
+Na pytanie jednak otworzyła oczy i spojrzała na niego z bliska.
+
+— James...
+
+Kącik jej ust uniósł się.
+
+— Przecież Pan Brown doskonale zna odpowiedź na to pytanie.
+
+Pozwoliła mu dalej masować skronie.
+
+— Już wcześniej powiedziałam, że na twój Bal po Balu pójdę, jeśli nie okaże się katastrofą organizacyjną. A dzisiaj powiedziałam ci jeszcze wyraźniej, że nie mam nic przeciwko spędzeniu z tobą bardzo dużej części tej nocy. chatgpt_caly_czat2
+
+Uniosła lekko brew.
+
+— Więc jeśli właśnie próbujesz wydobyć ze mnie trzecią oficjalną deklarację...
+
+Jej dłonie przesunęły się spokojnie na jego przedramiona.
+
+— ...to tak.
+
+Krótka pauza.
+
+— Panna Granger chce spędzić z Panem Brownem czas również po oficjalnym balu.
+
+Rumieniec wrócił jej na policzki, ale tym razem nie odwróciła wzroku.
+
+— I, skoro już jesteśmy bardzo precyzyjni...
+
+Kącik jej ust drgnął mocniej.
+
+— nie idę tam wyłącznie dlatego, że podoba mi się pomysł dodatkowej imprezy.
+
+— Organizator też ma pewien wpływ na moją decyzję.
+
+
+
+[C3-M0043]
+===== USER =====
+
+zarumieniłem się jeszcze bardziej i lekko speszyłem -Miło mi że tak mówisz ale nie o to pytałem.... chłodziło mi już czas po wszystkich balach....
+
+
+
+[C3-M0044]
+===== ASSISTANT =====
+
+Hermiona przez sekundę patrzyła na niego bez słowa.
+
+Potem znaczenie doprecyzowania najwyraźniej do niej dotarło.
+
+— Och.
+
+Jej własny rumieniec natychmiast zrobił się wyraźniejszy.
+
+— Po wszystkim wszystkim.
+
+Kącik jej ust drgnął, a spojrzenie na moment uciekło w bok. Tym razem to ona wyglądała na lekko speszoną.
+
+— Dobrze. Przyznaję, że odpowiedziałam na znacznie łatwiejsze pytanie.
+
+Wróciła wzrokiem do Jamesa, nadal pozwalając mu spokojnie masować swoje skronie.
+
+— Nie planowałam tego aż tak dokładnie. Bal, potem Bal po Balu... a co będzie później, zależy przecież od tego, która będzie godzina, czy będę jeszcze przytomna i czy w ogóle będziemy mieli gdzie spokojnie usiąść bez łamania dziesięciu szkolnych zasad naraz.
+
+Krótka pauza.
+
+Jej dłonie lekko zacisnęły się na jego przedramionach.
+
+— Ale jeśli pytasz, czy chciałabym jeszcze pobyć z tobą, kiedy oba bale już się skończą...
+
+Uśmiechnęła się nieco bardziej nieśmiało.
+
+— Tak.
+
+Po chwili szybko dodała:
+
+— Nie interpretuj tego jako zgody na jakiś kolejny tajny „Bal po Balu po Balu”.
+
+Uniosła brew.
+
+— Myślałam raczej o czymś znacznie spokojniejszym.
+
+Jej głos zrobił się trochę cichszy.
+
+— Bez tłumu. Bez muzyki. Bez całej szkoły patrzącej na nas.
+
+Przez moment patrzyła mu prosto w oczy.
+
+— Po prostu jeszcze trochę czasu z tobą.
+
+
+
+[C3-M0045]
+===== USER =====
+
+pokiwałem głową i kontynuowałem masowanie po jej skroniach jednocześnie cały czas drżałem ale nic już nie powiedziałem zamiast tego połączyłem nasze usta w jeszcze delikatniejszym pocałunku niż zwykle
+
+
+
+[C3-M0046]
+===== ASSISTANT =====
+
+Hermiona poczuła drżenie jeszcze zanim ich usta się zetknęły.
+
+Nie skomentowała go.
+
+Tym razem po prostu zamknęła oczy i odwzajemniła pocałunek równie delikatnie, bez pośpiechu. Jej dłonie przesunęły się z jego przedramion nieco wyżej, zatrzymując spokojnie na ramionach, jakby chciała jedynie zostać blisko i niczego nie przyspieszać.
+
+Przez kilka chwil nie było ani żartów, ani negocjacji.
+
+Tylko pocałunek.
+
+Kiedy w końcu odsunęła usta odrobinę, nie cofnęła się naprawdę. Została tuż przy nim, z policzkami nadal lekko zaróżowionymi.
+
+— Mhm...
+
+Otworzyła oczy i przyjrzała mu się uważnie.
+
+— Ten był inny.
+
+Nie brzmiało to jak pytanie.
+
+Jej kciuk przesunął się bardzo lekko po jego ramieniu.
+
+— Jeszcze delikatniejszy niż poprzednie.
+
+Krótka pauza.
+
+— I nadal drżysz.
+
+W jej głosie nie było rozbawienia. Raczej ciepła obserwacja.
+
+Po chwili przysunęła czoło bliżej jego czoła.
+
+— Nie musisz nic mówić.
+
+Jej uśmiech był niewielki.
+
+— Możemy po prostu zostać tak przez chwilę.
+
+
+
+[C3-M0047]
+===== USER =====
+
+(ok czat przeanalizuj sobię jeszcze raz cały skryp RPG który wysłałem w pliku przypmij sobie wszystko chyba że już to zrobiłeś?)
+
+
+
+[C3-M0048]
+===== ASSISTANT =====
+
+Tak. Wcześniej zrobiłem już pełną analizę, ale teraz — po tej wpadce z „dzisiejszym rankiem” — ponownie zsynchronizowałem się z oboma dużymi plikami RPG, zamiast polegać wyłącznie na skróconej pamięci.
+
+I ważne: nie będę udawał, że trzymam kilkadziesiąt tysięcy linii słowo w słowo jednocześnie w aktywnym kontekście. Mam jednak odtworzony stan kampanii, a pełne transcript-y pozostają najwyższym źródłem prawdy. Dokładnie taki system wcześniej ustaliliśmy: transcript → późniejsze poprawki/retcony → stan kampanii/pamięć pomocnicza. Wiedza narratora ma być też oddzielona od wiedzy konkretnych NPC-ów. chatgpt_caly_czat2
+
+Po ponownym sprawdzeniu mam znowu spięte m.in.:
+
+Jamesa od początku kampanii: przybycie 1 września 1994, Slytherin, plotki o ostatnim potomku Salazara, rodzina, skarbiec, różdżka, trening rodziców, czuwanie, bogin, poglądy, umiejętności oraz wszystkie ważniejsze lekcje i demonstracje. Zasada nadal brzmi: ja nie dopisuję Jamesowi własnych myśli, słów ani działań, a NPC pozostają niezależni i kanoniczni. chatgpt_caly_czat1
+
+Retcony: najważniejszy ostatnio — gdy zginęła rodzina, James miał 5 lat, a jego młodsza siostra 4 lata. To definitywnie zastępuje wcześniejsze „około 4 lat”. chatgpt_caly_czat2
+
+Całą linię Hermiony: pierwsze zainteresowanie, wrześniowa biblioteka, obserwowanie jej, szkic, późniejsze rozmowy, zaproszenie po pierwszym zadaniu, ukrywanie relacji przed innymi, Pokój Życzeń, negocjowane granice bliskości, okres ponad trzech tygodni ograniczenia fizycznej bliskości przed Balem oraz dzisiejszy Bal. chatgpt_caly_czat2
+
+Chronologię tamtego „poranka”: scena głaskania/masowania głowy Hermiony i poprawiania jej włosów oraz krawata była wcześniej, przed Balem, a nie rano 25 grudnia. Wprost przy wyjściu Hermiona mówiła wtedy: „Do balu nadal udajemy odrobinę rozsądku”. chatgpt_caly_czat2 To właśnie był fakt, który przed chwilą pomieszałem i którego już nie będę traktował jako wydarzenia z dzisiejszego ranka.
+
+Bal po Balu: to nie jest już luźny pomysł. Pokój Życzeń został przygotowany, istnieją zaproszenia i kontrola dostępu, liczba gości została ograniczona, ustalono zasady bezpieczeństwa, a Dumbledore oficjalnie wyraził zgodę. chatgpt_caly_czat2
+
+Wiedzę innych postaci: przykładowo jeszcze po pierwszym zadaniu Draco, Pansy i Theodore nie wiedzieli, że James i Hermiona są razem; Hermiona świadomie zachowywała dyskrecję przy Gryffindorze i Slytherinie. chatgpt_caly_czat1 Później oczywiście stan ich wiedzy zmieniał się wraz z kolejnymi publicznymi wydarzeniami — szczególnie teraz podczas Balu.
+
+Nierozwiązane i poboczne wątki: posąg węża, sygnet i runy, skarbiec/Gringotts, szkolne zgody, wcześniejsze eliksiry i eksperymenty, relacje ze Snape’em, Moodym, McGonagall, Dumbledore’em, Theodore’em, Draco, Pansy, Harrym, Ronem, Krumem, Élodie itd. Te rzeczy nie znikają tylko dlatego, że obecnie gramy romansową scenę na Balu.
+
+I złapałem też jedną rzecz, o której warto pamiętać: nasze archiwa zawierają czasem stare odpowiedzi asystenta, które później sam poprawiłeś. Nie będę więc mechanicznie traktował każdej starszej linijki jako kanonu. Przykładowo stary wiek Jamesa został później jawnie zastąpiony wersją 5/4 lata — obowiązuje nowsza. Tak samo jeśli powiedziałeś wcześniej „to traktujemy jako niebyłe”, taka scena nie powinna wrócić tylnymi drzwiami.
+
+Czyli nie trzeba resetować obecnej sceny. Jesteśmy dalej na Balu: po rozmowie o tym, że Hermiona chciałaby zostać z Jamesem również po zakończeniu obu bali, James nadal drżał, nic nie odpowiedział i pocałował ją jeszcze delikatniej niż zwykle. Hermiona odwzajemniła pocałunek, zauważyła jego drżenie i powiedziała, że nie musi nic mówić i mogą po prostu chwilę tak zostać.
+
+Od tego punktu możemy normalnie grać dalej. Przy szczególe typu „kiedy dokładnie to było?”, „czy Draco już o tym wie?”, „czy Hermiona już to słyszała?” będę znacznie częściej sprawdzał transcript zamiast zgadywać, szczególnie jeśli odpowiedź może zmienić reakcję NPC-a.
+
+
+
+[C3-M0049]
+===== USER =====
+
+Ok usuń z tego Informacje o posąg węża, sygnet i runy. Bo są one ze startej historii.
+
+
+
+[C3-M0050]
+===== ASSISTANT =====
+
+Jasne. Od teraz posąg węża, sygnet, runy oraz cały związany z nimi wątek traktujemy jako pozostałość starej historii i nie są kanonem obecnego RPG.
+
+Nie będę ich uwzględniał w chronologii, przedmiotach Jamesa, wiedzy NPC-ów ani nierozwiązanych wątkach. Jeśli pojawią się gdzieś w starym transcripcie, mam je ignorować jako materiał z wcześniejszej wersji historii.
+
+
+
+[C3-M0051]
+===== USER =====
+
+-Hermiono już mówiliśmy że to drżenie raczej mi nie minie do końca....lekko się usniechnąłem i pocałowałem jej policzek - i że to twoja wina.... więc możemy już wrócić na salę... właściwie co my mieliśmy teraz zrobić?
+
+
+
+[C3-M0052]
+===== ASSISTANT =====
+
+Hermiona po pocałunku w policzek uśmiechnęła się i lekko pokręciła głową.
+
+— Tak, tak. Oczywiście. Drżenie jest trwałe i oczywiście jest winą Panny Granger.
+
+Powiedziała to z udawaną rezygnacją, po czym przez sekundę naprawdę zastanowiła się nad jego pytaniem.
+
+— Właściwie… zanim wszystko trochę zboczyło z planu, tańczyliśmy.
+
+Jej mina złagodniała.
+
+— Potem rozmowa przy stole zrobiła się dużo poważniejsza, chciałeś wyjść, żeby nikt nie widział, więc przyszliśmy tutaj. Mieliśmy tylko znaleźć spokojniejsze miejsce i wrócić, kiedy będziesz gotowy. Nie wychodziliśmy przecież z balu na dobre. chatgpt_caly_czat2
+
+Kącik jej ust uniósł się.
+
+— Czyli, jeśli dobrze pamiętam harmonogram kierownika Panny Granger…
+
+Uniosła lekko brew.
+
+— …następny punkt programu brzmi: wrócić na salę i znowu trochę potańczyć.
+
+Po chwili spojrzała mu prosto w oczy.
+
+— Chociaż tym razem proponuję spróbować rzeczy niezwykle ambitnej.
+
+Krótka pauza.
+
+— Pamiętać, że poza nami istnieje jeszcze Bal Bożonarodzeniowy.
+
+Jej uśmiech natychmiast zdradził, że sama nie jest szczególnie przekonana, czy im się to uda.
+
+
+
+[C3-M0053]
+===== USER =====
+
+pokiwałem głową a potem lekko się od niej odsunąłem i po prostu chciałem jej rękę i zacząłem prowadzić do wielkiej sali jendak co chwilę na nią spoglądałem a na mojej twarzy pojawił się wyraz który pokazywał że na czymś bardzo mocno rozmyślam
+
+
+
+[C3-M0054]
+===== ASSISTANT =====
+
+Hermiona szła obok niego, pozwalając się prowadzić za rękę z powrotem w stronę Wielkiej Sali.
+
+Przez pierwsze kilka kroków nic nie mówiła.
+
+Dopiero kiedy zauważyła kolejne spojrzenie Jamesa i ten sam skupiony wyraz jego twarzy, jej własny uśmiech odrobinę zbladł — nie ze strachu, raczej z ciekawości.
+
+Spojrzała na niego z boku.
+
+— Dobrze…
+
+Ścisnęła lekko jego dłoń.
+
+— Znam już tę minę.
+
+Kącik jej ust drgnął.
+
+— Pan Brown właśnie bardzo intensywnie nad czymś myśli.
+
+Jeszcze przez moment szła w ciszy, nie próbując zgadywać za niego.
+
+— I sądząc po tym, jak często na mnie patrzysz, mam podejrzenie, że to „coś” ma ze mną jakiś związek.
+
+Uniosła lekko brew.
+
+— Chcesz mi powiedzieć, czy mam grzecznie poczekać, aż skończysz układać to sobie w głowie?
+
+
+
+[C3-M0055]
+===== USER =====
+
+wziąłem głęboki oddech a potem zatrzymałem się i złapałem też za jej drugą rękę i popatrzyłem jej w oczy -Hermiono....
+
+
+
+[C3-M0056]
+===== ASSISTANT =====
+
+Hermiona zatrzymała się razem z nim.
+
+Kiedy poczuła, że James bierze również jej drugą dłoń, od razu skupiła na nim całą uwagę. Zniknęło wcześniejsze rozbawienie; została tylko spokojna, uważna mina.
+
+— Mhm?
+
+Patrzyła mu prosto w oczy, nie próbując wyrwać dłoni ani pospieszać go.
+
+Po chwili ścisnęła lekko jego palce.
+
+— Słucham, James.
+
+
+
+[C3-M0057]
+===== USER =====
+
+nagle przyklęknąłem na jedno kolano i z pełną powagą nadal patrząc jej w oczy powiedziałem -Powiedz mi proszę ile ty masz wzrostu
+
+
+
+[C3-M0058]
+===== ASSISTANT =====
+
+Hermiona zamarła.
+
+Przez krótką, bardzo wyraźną chwilę patrzyła na Jamesa klęczącego przed nią z takim napięciem na twarzy, jakby spodziewała się pytania zdolnego zmienić całe ich życie.
+
+A potem usłyszała pytanie.
+
+Zamrugała.
+
+Raz.
+
+Drugi.
+
+— …co?
+
+Spojrzała na niego, potem na jego kolano, następnie ponownie prosto w jego oczy.
+
+— James, ty przyklęknąłeś przede mną na jedno kolano, patrzyłeś na mnie przez pół korytarza, jakbyś podejmował najważniejszą decyzję swojego życia…
+
+Kącik jej ust zaczął niebezpiecznie drgać.
+
+— …żeby zapytać mnie o wzrost?
+
+Przez moment najwyraźniej walczyła sama ze sobą, aż w końcu parsknęła śmiechem.
+
+— Około stu sześćdziesięciu pięciu centymetrów! — odpowiedziała, wciąż patrząc na niego z niedowierzaniem. — Mniej więcej. Nie mierzę się co tydzień.
+
+Ścisnęła obie jego dłonie.
+
+— A teraz, panie Brown…
+
+Uniosła brwi.
+
+— bardzo chciałabym wiedzieć, dlaczego do uzyskania tej informacji konieczne było klękanie.
+
+
+
+[C3-M0059]
+===== USER =====
+
+gdy ona zaczęła się śmiać ja też wybuchnąłem śmiechem -Bo bardzo lubię gdy zie śmiejesz...powiedziałem i wstałem z kolana
+
+
+
+[C3-M0060]
+===== ASSISTANT =====
+
+Hermiona śmiała się jeszcze przez chwilę, a kiedy James wstał, pokręciła głową z niedowierzaniem.
+
+— To było okropne.
+
+Uśmiech zupełnie przeczył jej słowom.
+
+— Przez moment naprawdę myślałam, że zamierzasz powiedzieć coś strasznie poważnego.
+
+Spojrzała na niego z bliska, nadal trzymając jego dłoń.
+
+— A ty po prostu postanowiłeś urządzić całe przedstawienie, żeby zapytać mnie o wzrost.
+
+Krótka pauza.
+
+— Tylko dlatego, że chciałeś mnie rozśmieszyć.
+
+Jej uśmiech złagodniał.
+
+— …i niestety zadziałało.
+
+Po chwili lekko ścisnęła jego palce i dodała z uniesioną brwią:
+
+— Ale uprzedzam. Jeśli następnym razem przyklękniesz przede mną w ten sposób, Panna Granger będzie już podejrzewała, że zaraz zapytasz o rozmiar buta.
+
+
+
+[C3-M0061]
+===== USER =====
+
+puściłem jej jedną dłoń i znowu ruszyliśmy w stronę wejścia do wielkiej sali -Jesli mam być szczery...to następnym razem... będą to już oświadczyny...powiedziałem cicho
+
+
+
+[C3-M0062]
+===== ASSISTANT =====
+
+Hermiona zrobiła jeszcze dwa kroki, zanim sens jego słów naprawdę do niej dotarł.
+
+Zatrzymała się.
+
+Powoli odwróciła głowę w stronę Jamesa.
+
+— …następnym razem?
+
+Jej policzki momentalnie zrobiły się wyraźnie bardziej czerwone niż przed chwilą.
+
+Przez kilka sekund po prostu na niego patrzyła, jakby próbowała zdecydować, czy właśnie znowu ją nabiera.
+
+— James, uprzedzam, że po numerze ze wzrostem moja zdolność oceniania, kiedy jesteś poważny, została bardzo poważnie uszkodzona.
+
+Ale uśmiech tym razem pojawił się znacznie wolniej.
+
+— I mam nadzieję, że przez „następnym razem” masz na myśli… kiedyś. W przyszłości. Bardzo zdecydowanie nie podczas czwartego roku w Hogwarcie.
+
+Lekko ścisnęła jego dłoń.
+
+— Bo jeśli właśnie zaplanowałeś oświadczyny między Balem Bożonarodzeniowym a drugim zadaniem Turnieju, to Panna Granger będzie zmuszona ponownie przejąć funkcję rozsądnego wpływu.
+
+Po chwili jednak spojrzała przed siebie, nadal mocno zarumieniona.
+
+— Ale…
+
+Krótka pauza.
+
+— …nie powiedziałam, że sama myśl o tym, że kiedyś mógłbyś zapytać naprawdę, jest nieprzyjemna.
+
+I natychmiast ruszyła dalej w stronę Wielkiej Sali, jakby bardzo liczyła na to, że ruch choć trochę ukryje jej rumieniec.
+
+
+
+[C3-M0063]
+===== USER =====
+
+lekko się usniechnąłem i jeszcze na chwilę przed wejściem do wielkiej sali mocno ją przytuliłem
+
+
+
+[C3-M0064]
+===== ASSISTANT =====
+
+Hermiona bez wahania odwzajemniła uścisk, obejmując go mocno i na moment opierając policzek o jego ramię.
+
+— To jeszcze mieści się w kategorii „chwila przed powrotem na salę” — mruknęła cicho.
+
+Przez kilka sekund po prostu została blisko, nie spiesząc się z odsunięciem.
+
+— I zanim zaczniesz kombinować… nie, nie zamierzam komentować jeszcze raz tych „następnych oświadczyn”.
+
+Kącik jej ust drgnął.
+
+— Przynajmniej nie tutaj.
+
+Po chwili odsunęła się tylko trochę, nadal trzymając go za rękę.
+
+— Chodź. Zanim wszyscy w środku uznają, że zniknęliśmy na dobre.
+
+
+
+[C3-M0065]
+===== USER =====
+
+pokiwałem głową
+
+
+
+[C3-M0066]
+===== ASSISTANT =====
+
+Hermiona poprawiła jeszcze odruchowo suknię przy biodrze i zerknęła na drzwi Wielkiej Sali.
+
+— Dobrze. Wracamy jak gdyby nigdy nic.
+
+Kącik jej ust natychmiast drgnął.
+
+— Co oczywiście jest całkowicie wiarygodne po tym, jak zniknęliśmy razem na dłuższą chwilę.
+
+Gdy drzwi się otworzyły, muzyka i gwar rozmów uderzyły w nich od razu znacznie głośniej niż na korytarzu. Na parkiecie znów tańczyło sporo par, a przy stolikach część uczniów rozmawiała i jadła.
+
+Hermiona ścisnęła lekko jego dłoń.
+
+— Taniec? — zapytała cicho, spoglądając na parkiet. — Chyba właśnie na tym skończyliśmy nasz niezwykle profesjonalny „grafik”.
+
+
+
+[C3-M0067]
+===== USER =====
+
+uśmiechnąłem się a potem poprowadziłem na parkiet a już po chwili chwyciłem ją jedną ręką w tali a drugą złączyłem z jej
+
+
+
+[C3-M0068]
+===== ASSISTANT =====
+
+Hermiona od razu dopasowała się do ustawienia, pozwalając dłoni Jamesa spocząć na swojej talii, a drugą ręką pewnie odwzajemniła chwyt.
+
+Muzyka była spokojna, ale miała wyraźniejszy rytm niż poprzedni wolny utwór. Po kilku pierwszych krokach Hermiona uśmiechnęła się lekko.
+
+— Mhm. To jednak zdecydowanie bardziej przypomina bal niż stanie na korytarzu i dyskutowanie o przyszłych oświadczynach.
+
+Jej rumieniec wrócił natychmiast przy ostatnich słowach, ale tym razem nie odwróciła wzroku.
+
+— I uprzedzam, panie Brown… jeśli teraz znowu zapomnimy zauważyć, że utwór się skończył, to tym razem wina będzie po połowie.
+
+Ścisnęła lekko jego dłoń i pozwoliła się dalej prowadzić, wyraźnie swobodniej niż na początku wieczoru.
+
+
+
+[C3-M0069]
+===== USER =====
+
+pokręciłem głową i skupiłem się na tańcu nadal po mimo drżenia pewnie ją prowadziłem dopiero po 5 następnych utworach widząc na jej twarzy rumieńce lekko się usniechnąłem i gdy skończył się utwór spytałem -chwial przerwy na rozmowy?
+
+
+
+[C3-M0070]
+===== ASSISTANT =====
+
+Hermiona zatrzymała się wraz z końcem utworu i przez moment jeszcze została blisko, łapiąc oddech po kilku kolejnych tańcach.
+
+— Tak — odpowiedziała z uśmiechem. — Chwila przerwy brzmi rozsądnie.
+
+Jej policzki nadal były lekko zaróżowione, a kiedy spojrzała na Jamesa, w oczach miała wyraźne rozbawienie.
+
+— I zanim coś powiesz: tak, tym razem sama przyznaję, że naprawdę potrzebuję kilku minut bez obracania się po parkiecie.
+
+Ścisnęła lekko jego dłoń.
+
+— Możemy usiąść albo podejść do kogoś i porozmawiać. W końcu obiecałam pilnować, żebyśmy czasem rzeczywiście uczestniczyli w balu, a nie tylko tańczyli we własnym świecie.
+
+
+
+[C3-M0071]
+===== USER =====
+
+-mam zaległą rozmowę z krumem i jak wcześniej ustaliliśmy możemy iść razem albo możesz isc do swoich z Gryffindoru i pochwalić się mną...
+
+
+
+[C3-M0072]
+===== ASSISTANT =====
+
+Hermiona spojrzała najpierw w stronę stołów Gryffindoru, a potem z powrotem na Jamesa.
+
+— Nie próbuj mnie tak łatwo oddelegować — powiedziała z lekkim uśmiechem. — Już wcześniej powiedziałam, że chętnie pójdę z tobą do Viktora.
+
+Uniosła brew.
+
+— Zwłaszcza że chcę osobiście dopilnować, jak dokładnie zamierzasz się mną „chwalić”.
+
+Kącik jej ust drgnął.
+
+— Harry i Ron przeżyją jeszcze kilka minut bez mojego raportu o panu Brownie.
+
+Ścisnęła lekko jego dłoń i rozejrzała się po sali, najwyraźniej próbując wypatrzyć Kruma.
+
+— Chodź. Jestem bardzo ciekawa tej twojej zaległej rozmowy.
+
+
+
+[C3-M0073]
+===== USER =====
+
+ja od razu zauważyłem Kruma ale dałem znaleźć go Hermionie i później dałem też się jej poprowadzić
+
+
+
+[C3-M0074]
+===== ASSISTANT =====
+
+Hermiona rozejrzała się po Wielkiej Sali uważnie, najpierw omiatając wzrokiem stoliki, potem obrzeża parkietu.
+
+Po kilku sekundach jej spojrzenie zatrzymało się w jednym miejscu.
+
+— Jest.
+
+Lekko pociągnęła Jamesa za dłoń i tym razem to ona przejęła prowadzenie.
+
+Viktor stał nieco z boku, niedaleko grupy uczniów Durmstrangu. Nie wyglądał, jakby był w środku szczególnie ważnej rozmowy; słuchał czegoś półuchem, z kielichem w dłoni.
+
+Kiedy Hermiona zaczęła prowadzić Jamesa właśnie w jego stronę, Krum zauważył ich jeszcze zanim zdążyli podejść.
+
+Jego wzrok najpierw trafił na Hermionę.
+
+Potem na Jamesa.
+
+A na końcu — na ich połączone dłonie.
+
+Kącik jego ust poruszył się minimalnie.
+
+— Brown — odezwał się swoim ciężkim akcentem, kiedy znaleźli się dostatecznie blisko. — Granger.
+
+Spojrzał jeszcze raz między nimi.
+
+— Widzę, że „siła wyższa” nadal działa.
+
+
+
+[C3-M0075]
+===== USER =====
+
+lekko się zarumieniłem jak widać ale Dobrze sie złożyło by gdybym był bardziej sobą i odwlekał zaproszenje to pewnie byś mnie ubiegł...A Hermiona by się zgodziła a wtedy musiał bym cię zabić...ale ostatecznie ruszyłem Tylko wargami tak żeby tylko on widział "ja wygrałem" puściłem mu ockzo
+
+
+
+[C3-M0076]
+===== ASSISTANT =====
+
+Krum przez sekundę patrzył na Jamesa bez słowa. Najpierw na jego rumieniec, potem na ledwie widoczny ruch warg.
+
+Zrozumiał.
+
+Kącik jego ust drgnął w czymś bardzo bliskim krótkiego, rozbawionego uśmiechu.
+
+— Miałeś szczęście, Brown — odpowiedział spokojnie. — Ale chyba nie aż takie, jak myślisz.
+
+Jego spojrzenie przesunęło się na Hermionę.
+
+— Granger nie jest pucharem. Nie możesz powiedzieć, że „wygrałeś”, jeśli ona sama zdecydowała, z kim chce być.
+
+Hermiona nie mogła wiedzieć, co James bezgłośnie powiedział Krumowi, ale część o zabijaniu usłyszała doskonale. Od razu spojrzała na niego z uniesioną brwią.
+
+— I dla porządku — wtrąciła — po pierwsze, nie masz pojęcia, czy zgodziłabym się pójść z Viktorem.
+
+Krum zerknął na nią, ale nie przerwał.
+
+— Po drugie: bardzo się cieszę, że jednak zaprosiłeś mnie odpowiednio wcześnie, ale naprawdę nie musimy z tego powodu tworzyć alternatywnej wersji wieczoru, w której mordujesz reprezentanta Durmstrangu.
+
+Krum parsknął krótko pod nosem.
+
+— To byłby bardzo zły sposób zakończenia balu.
+
+Hermiona rzuciła mu krótkie spojrzenie, po czym wróciła wzrokiem do Jamesa.
+
+— I zanim zaczniesz protestować: tak, wiem, że żartowałeś.
+
+Dopiero wtedy jej mina trochę złagodniała.
+
+— Ale nadal podoba mi się znacznie bardziej wersja, w której po prostu zaprosiłeś mnie pierwszy.
+
+
+
+[C3-M0077]
+===== USER =====
+
+-Po pierwsze oczywiście że byś się zgodziła a po drugie żartowałem? Spytałem podnosząc brew
+
+
+
+[C3-M0078]
+===== ASSISTANT =====
+
+Hermiona zatrzymała na Jamesie spojrzenie i powoli uniosła obie brwi.
+
+— Po pierwsze: nie mów mi, na co na pewno bym się zgodziła, panie Brown.
+
+Kącik jej ust jednak drgnął.
+
+— Viktor byłby… całkiem rozsądnym kandydatem. Gdyby zapytał mnie wcześniej, możliwe, że bym się zgodziła. Ale to nadal nie daje ci prawa do przepisywania za mnie alternatywnej historii.
+
+Krum spojrzał między nimi, wyraźnie rozbawiony tym, że właśnie stał się przedmiotem hipotetycznej dyskusji.
+
+— A po drugie…
+
+Hermiona zmrużyła lekko oczy na jego uniesioną brew.
+
+— Tak. Bardzo mocno liczę na to, że żartowałeś.
+
+Krum parsknął krótko.
+
+— Ja też.
+
+Hermiona zerknęła na niego, potem znów na Jamesa.
+
+— Bo jeśli odpowiedź brzmi „nie”, to nasza rozmowa właśnie przeszła z „zabawnego scenariusza, w którym James jest zazdrosny” do „muszę wyjaśnić Jamesowi, dlaczego nie wolno mordować ludzi za zapraszanie mnie na bal”.
+
+Jej brew uniosła się jeszcze wyżej.
+
+— I naprawdę wolałabym pierwszą wersję.
+
+
+
+[C3-M0079]
+===== USER =====
+
+-Powiedzmy że żartowałem ale wytłumacz siedmiolatków w mojej głowie dlaczego nie mógłbym tego zrobić?
+
+
+
+[C3-M0080]
+===== ASSISTANT =====
+
+Hermiona zamknęła oczy na sekundę, jakby naprawdę układała odpowiedź dla niezwykle upartej grupy siedmiolatków.
+
+— Dobrze. Wersja dla siedmiolatków w głowie pana Browna.
+
+Uniosła palec.
+
+— Viktor zaprasza Hermionę na bal. Viktor nie robi nic złego. Hermiona może powiedzieć „tak” albo „nie”. James może być zazdrosny. James nie może zabić Viktora, ponieważ zazdrość nie zamienia człowieka w przedmiot, o który wolno walczyć do śmierci.
+
+Krum pokiwał głową z przesadną powagą.
+
+— Jak dotąd bardzo dobra lekcja.
+
+Hermiona zignorowała go.
+
+— Po drugie: gdybyś go zabił, ja nie pomyślałabym: „och, jakie romantyczne, musiał mnie naprawdę bardzo kochać”. Pomyślałabym raczej: „James właśnie zamordował niewinnego człowieka, bo ten ośmielił się mnie zaprosić”.
+
+Spojrzała Jamesowi prosto w oczy.
+
+— I byłabym wściekła.
+
+Krótka pauza.
+
+— Po trzecie: Azkaban bardzo utrudnia wspólne chodzenie na bale.
+
+Krum parsknął śmiechem.
+
+Hermiona również nie wytrzymała i uśmiechnęła się szerzej.
+
+— I po czwarte, najważniejsze: jeśli mnie kochasz, to musisz również szanować fakt, że ja wybieram, z kim chcę być.
+
+Ścisnęła lekko jego dłoń.
+
+— A akurat dzisiaj wybrałam ciebie.
+
+Krum spojrzał na Jamesa i dodał spokojnie:
+
+— Siedmiolatki mogą więc uznać sprawę za zamkniętą. Ja żyję. Ty masz Granger za partnerkę. Wszyscy wygrywają.
+
+Hermiona natychmiast zerknęła na niego.
+
+— Viktor.
+
+— Tak?
+
+— Właśnie tłumaczyłam mu, że mnie się nie „ma”.
+
+Krum skinął głową.
+
+— Słusznie. Wycofuję sformułowanie.
+
+Hermiona wróciła wzrokiem do Jamesa z miną mówiącą bardzo wyraźnie: właśnie o to chodziło.
+
+
+
+[C3-M0081]
+===== USER =====
+
+spojrzałem na Hermionę i uśmiechnąłem się i pocałowałem ją w policzek -masz rację....potem spojrzałem na Kruma i powiedziałem po rosyjsku - Zabił bym cię albo bardzo dotkliwie zranił...i przepraszam ale nie mógłbym się powstrzymać...i nie mów jej tego...
+
+
+
+[C3-M0082]
+===== ASSISTANT =====
+
+Krumowi zniknął uśmiech.
+
+Przez moment patrzył na Jamesa znacznie poważniej. Rosyjski najwyraźniej zrozumiał wystarczająco dobrze, żeby wychwycić sens wypowiedzi.
+
+Odpowiedział mu równie cicho, tak żeby Hermiona nie mogła rozróżnić słów:
+
+— Nie będę jej teraz tego powtarzał. Ale nie dlatego, że uważam to za rozsądne.
+
+Jego spojrzenie stwardniało.
+
+— Jeśli mówisz mi, że naprawdę skrzywdziłbyś człowieka tylko dlatego, że ona wybrałaby jego… to właśnie nie szanujesz wyboru, o którym przed chwilą mówiła.
+
+Krótka pauza.
+
+— Możesz mnie nie lubić. Możesz być zazdrosny. Możesz nawet chcieć mnie uderzyć. Ale jeśli kiedyś naprawdę spróbujesz mnie zabić, Brown, będę się bronił.
+
+Hermiona obserwowała ich obu z coraz większą podejrzliwością. Nie znała treści cichej wymiany, ale zmiana wyrazu twarzy Kruma była aż nazbyt widoczna.
+
+— Dobrze… — odezwała się powoli. — Nie rozumiem rosyjskiego, ale sądząc po twarzy Viktora, to zdecydowanie nie było „bardzo miło cię poznać”.
+
+Krum zerknął na nią, potem ponownie na Jamesa. Nie zdradził treści rozmowy.
+
+— Brown ma… bardzo silne opinie.
+
+Hermiona natychmiast zmrużyła oczy.
+
+— To akurat wiedziałam jeszcze przed dzisiejszym wieczorem.
+
+
+
+[C3-M0083]
+===== USER =====
+
+westchnąłem i kontynuowałem po rosyjsku - Wiem, że mam problem...i wiem że mamy raczej przyjazne stosunki...ale wiem że nic by to noe zmieniło...w przeszłości straciłem ludzi których kochałem i teraz....mam paranoję w tym temacie...i tak naprawdę tylko ona mogłaby mnie przed tym powstrzymać...spojrzałem na Hermionę
+
+
+
+[C3-M0084]
+===== ASSISTANT =====
+
+Krum słuchał bez przerywania. Tym razem nie było w nim ani śladu wcześniejszego rozbawienia.
+
+Jego spojrzenie na moment przesunęło się tam, gdzie spojrzał James — na Hermionę — a potem wróciło do niego.
+
+Odpowiedział po rosyjsku, cicho i spokojnie:
+
+— Rozumiem, skąd to może się brać. To nie znaczy, że to jest w porządku.
+
+Na chwilę zacisnął szczękę.
+
+— I jeśli mówisz, że tylko ona mogłaby cię powstrzymać, to właśnie jest część problemu. Nie powinno być jej obowiązkiem zatrzymywać cię przed skrzywdzeniem kogoś.
+
+Krótka pauza.
+
+— Możesz mieć paranoję. Możesz się bać, że znowu kogoś stracisz. Ale jeśli naprawdę ją szanujesz, to musisz nauczyć się zatrzymywać sam, zanim ona będzie musiała to robić za ciebie.
+
+Hermiona tymczasem obserwowała ich coraz uważniej. Nie rozumiała słów, ale po tym, jak James na nią spojrzał, a Krum odpowiedział z taką powagą, jej wcześniejsze rozbawienie całkiem zniknęło.
+
+— James…
+
+Lekko ścisnęła jego dłoń.
+
+— Nie wiem, co właśnie powiedziałeś Viktorowi.
+
+Spojrzała najpierw na Kruma, potem znowu na Jamesa.
+
+— Ale jeśli rozmowa jest o mnie i obaj nagle wyglądacie, jakbyście omawiali coś bardzo poważnego, to zaczynam czuć się trochę dziwnie, stojąc obok i nie rozumiejąc ani słowa.
+
+Krum niczego za Jamesa nie ujawnił. Tylko spojrzał na niego, zostawiając decyzję o odpowiedzi jemu.
+
+
+
+[C3-M0085]
+===== USER =====
+
+bez słowa przytuliłem Hermionę a potem lekko się odsunąłem i spojrzałem na Kruma wystawiając rękę w jego stronę - Dobrze ci poszło na otwarciu.
+
+
+
+[C3-M0086]
+===== ASSISTANT =====
+
+Krum spojrzał na wyciągniętą dłoń Jamesa, a potem uścisnął ją krótko i pewnie.
+
+— Dzięki — odpowiedział spokojnie. — Mogło być gorzej.
+
+Kącik jego ust drgnął odrobinę, jakby świadomie pozwalał wcześniejszej ciężkiej rozmowie opaść.
+
+— Ty też nie wyglądałeś, jakbyś miał problemy z parkietem.
+
+Hermiona, która jeszcze chwilę wcześniej została objęta przez Jamesa, obserwowała tę zmianę tonu z lekkim zdziwieniem, ale też wyraźną ulgą. Nie próbowała wracać do rosyjskiej wymiany.
+
+— To chyba najbardziej cywilizowane zakończenie tej rozmowy, na jakie mogłam liczyć — mruknęła.
+
+Krum zerknął na nią.
+
+— Nie było aż tak źle.
+
+Hermiona uniosła brew.
+
+— Viktor, obaj przed chwilą rozmawialiście w języku, którego nie rozumiem, z minami sugerującymi co najmniej pojedynek o świcie.
+
+Krum parsknął cicho.
+
+— A teraz nie ma pojedynku.
+
+— Wspaniale. — Hermiona skinęła głową z przesadną powagą. — Wieczór odnosi kolejne sukcesy.
+
+Po chwili spojrzała na Jamesa z lekkim uśmiechem.
+
+— I skoro zaległa rozmowa z Viktorem została oficjalnie odbyta… chyba pozostaje ustalić, czy pan Brown zamierza jeszcze rzeczywiście „chwalić się mną”, czy to była tylko nazwa operacji.
+
+
+
+[C3-M0087]
+===== USER =====
+
+po jej słowach od razu zacząłem teatralnie ale szczerze -Żałuj Viktor że cię ubiegałem. Hermiona jest najpiękniejszą, najmądrzejszą, najbardziej uroczą, jednocześnie najodważniejszą na całym świecie...ona jest po prostu idelana.
+
+
+
+[C3-M0088]
+===== ASSISTANT =====
+
+Krum przez chwilę patrzył na Jamesa, jakby próbował zdecydować, czy odpowiedzieć poważnie, czy pozwolić mu dokończyć cały manifest.
+
+W końcu parsknął cicho.
+
+— Tak, Brown. Teraz już rozumiem, że jesteś zadowolony z wyniku.
+
+Hermiona natomiast zrobiła się czerwona niemal od razu. Przy „najpiękniejszą” jeszcze próbowała zachować spokój. Przy „najmądrzejszą” opuściła wzrok. Przy „najbardziej uroczą” zacisnęła usta, walcząc z uśmiechem.
+
+Ale przy „idealna” spojrzała na Jamesa z wyraźnym protestem.
+
+— Nie jestem idealna.
+
+Krum zerknął na nią, potem znów na Jamesa.
+
+— Tutaj się z nią zgodzę.
+
+Hermiona natychmiast odwróciła głowę w jego stronę.
+
+— Viktor!
+
+Krum pierwszy raz uśmiechnął się wyraźniej.
+
+— Powiedziałaś, że nie jesteś.
+
+— To nie znaczy, że miałeś się tak szybko zgadzać!
+
+Jej oburzenie trwało może sekundę, zanim sama zaczęła się śmiać. Potem pokręciła głową i spojrzała znowu na Jamesa, nadal mocno zarumieniona.
+
+— A ty przestań patrzeć na niego, jakbyś właśnie wygłaszał przemowę zwycięzcy.
+
+Po chwili jej ton złagodniał.
+
+— Ale… dziękuję.
+
+Krótka pauza.
+
+— Za wszystkie pozostałe części. Nawet jeśli są absurdalnie przesadzone.
+
+Krum uniósł kielich odrobinę w stronę Jamesa.
+
+— Przyznam jedno. Jeśli chciałeś się nią pochwalić, zadanie wykonane.
+
+
+
+[C3-M0089]
+===== USER =====
+
+-Ale ja dopiero zaczynam....
+
+
+
+[C3-M0090]
+===== ASSISTANT =====
+
+Hermiona zamknęła oczy na sekundę i westchnęła teatralnie.
+
+— Oczywiście, że dopiero zaczynasz.
+
+Krum spojrzał na nią, potem na Jamesa.
+
+— Mam czas — powiedział sucho. — Chcę zobaczyć, dokąd to zmierza.
+
+Hermiona natychmiast wskazała go palcem.
+
+— Nie zachęcaj go.
+
+Krum wzruszył ramieniem.
+
+— Za późno.
+
+Hermiona pokręciła głową, ale uśmiech już całkiem ją zdradził. Nadal była mocno zarumieniona.
+
+— Dobrze, panie Brown. Skoro to dopiero początek, proszę bardzo.
+
+Uniosła lekko brodę, udając większą pewność siebie, niż sugerowały jej policzki.
+
+— Chętnie usłyszę, co jeszcze znajduje się w oficjalnym katalogu zalet Hermiony Granger.
+
+Krum uniósł kielich odrobinę wyżej.
+
+— Ja również.
+
+Hermiona rzuciła mu spojrzenie.
+
+— Viktor.
+
+— Co? Teraz jestem ciekawy.
+
+
+
+[C3-M0091]
+===== USER =====
+
+Hermiona jest poza tym co już wymieniłem najlepszą czarodziejką na świcie... najlepszą przyjaciółką ze wszystkich na świecie jednocześnie jeste najbardziej inteligentną i jednocześnie posiada największą wiedzę na każdy temat...mówiłem dalej przez kilka kolejnych minut wymieniając kolejne synonimy już wypowiedzianych komplementów
+
+
+
+[C3-M0092]
+===== ASSISTANT =====
+
+Po pierwszej minucie Hermiona jeszcze próbowała odpowiadać pojedynczymi protestami.
+
+— James…
+
+Po drugiej tylko coraz mocniej się czerwieniła.
+
+— Naprawdę nie jestem najlepszą czarodziejką na świecie…
+
+Po kolejnych synonimach „najmądrzejszej”, „najbardziej niezwykłej” i „absolutnie wyjątkowej” najwyraźniej uznała jednak, że walka jest beznadziejna. Zakryła na moment twarz dłonią, śmiejąc się cicho.
+
+Krum stał obok z kielichem w dłoni i słuchał z coraz bardziej widocznym rozbawieniem.
+
+— Brown — odezwał się w końcu. — Myślę, że po trzech minutach zrozumiałem ogólną tezę.
+
+Hermiona opuściła dłoń i spojrzała na Jamesa, nadal kompletnie zarumieniona.
+
+— A ja zaczynam podejrzewać, że znalazłeś około czterdziestu sposobów na powiedzenie dokładnie tego samego.
+
+Kącik jej ust uniósł się jednak miękko.
+
+— I dla porządku: nie mam największej wiedzy na każdy temat. Nie jestem najlepszą czarodziejką na świecie. I zdecydowanie nie jestem idealna.
+
+Zrobiła krótką pauzę.
+
+— Ale chyba już rozumiem, że ty naprawdę tak o mnie myślisz.
+
+Krum skinął powoli głową.
+
+— To akurat trudno było przeoczyć.
+
+Hermiona parsknęła śmiechem, po czym spojrzała na Jamesa trochę łagodniej.
+
+— I… dziękuję. Naprawdę. Nawet jeśli połowę tych tytułów będę musiała oficjalnie odrzucić jako niepoparte dowodami.
+
+
+
+[C3-M0093]
+===== USER =====
+
+posłałem szybkie ciepłe spojrzenie Hermionie a potem wróciłem do Kruma - A gdzie twoja Partnerka? Mieliście umowę tylko na pierwszy taniec?
+
+
+
+[C3-M0094]
+===== ASSISTANT =====
+
+Krum zerknął w stronę stołu Ravenclawu.
+
+— Mandy jest tam. Rozmawia ze swoimi znajomymi.
+
+Wskazał dyskretnie dziewczynę w ciemnoniebieskiej sukni — Mandy Brocklehurst, tę samą, z którą otwierał bal. chatgpt_caly_czat2
+
+Potem spojrzał z powrotem na Jamesa.
+
+— Nie. Nie umawialiśmy się tylko na pierwszy taniec.
+
+Wzruszył lekko ramieniem.
+
+— Ale też nie umawialiśmy się, że będziemy przez cały wieczór chodzić przyklejeni do siebie. Zatańczyliśmy otwarcie, potem jeszcze trochę rozmawialiśmy. Ona chciała pobyć z ludźmi z Ravenclawu, ja ze swoimi.
+
+Kącik jego ust drgnął.
+
+— W przeciwieństwie do niektórych par tutaj potrafimy przebywać pięć metrów od siebie bez kryzysu dyplomatycznego.
+
+Hermiona natychmiast spojrzała na Viktora.
+
+— Czy to było do nas?
+
+Krum popatrzył na nią z absolutnie poważną twarzą.
+
+— Nie podałem nazwisk.
+
+— Oczywiście, że nie.
+
+Hermiona pokręciła głową, ale uśmiechnęła się pod nosem.
+
+
+
+[C3-M0095]
+===== USER =====
+
+-Właśnie bo my umiemy przebywać pięć metrów od siebie...tylko po prostu nie chcemy prawda? Spytałem i spojrzałem na Hermionę
+
+
+
+[C3-M0096]
+===== ASSISTANT =====
+
+Hermiona spojrzała na Jamesa i przez moment próbowała zachować całkowicie poważną minę.
+
+Nie udało jej się.
+
+— Tak — przyznała cicho. — To jest chyba znacznie trafniejsze ujęcie.
+
+Kącik jej ust uniósł się wyżej.
+
+— Technicznie rzecz biorąc, potrafię przejść pięć metrów bez pana Browna.
+
+Krótka pauza.
+
+— Po prostu dzisiaj nie widzę szczególnie dobrego powodu, żeby to robić.
+
+Krum popatrzył na nich oboje, po czym pokręcił głową z ledwo widocznym rozbawieniem.
+
+— Właśnie o tym mówiłem.
+
+Hermiona zerknęła na niego.
+
+— Viktor, nie pomagaj mu.
+
+Po chwili wróciła spojrzeniem do Jamesa i lekko ścisnęła jego dłoń.
+
+— Ale tak. Masz rację. Nie chodzi o to, że nie umiemy być osobno.
+
+Jej uśmiech złagodniał.
+
+— Po prostu bardzo lubię być blisko ciebie.
+
+
+
+[C3-M0097]
+===== USER =====
+
+posłałem jej ciepłe spojrzenie a potem nachyliłem się i zacząłem szeptać na jej ucho - Ok, oficjalna część chwalenia się tobą właśnie dobiegła końca... jeśli mogę cię prosić to chciałbym omówić z Krum'em inny temat na osobności...
+
+
+
+[C3-M0098]
+===== ASSISTANT =====
+
+Hermiona słuchała bez przerywania. Kiedy James skończył, odsunęła głowę odrobinę i spojrzała mu w oczy.
+
+— Jasne. Nie musisz mnie o to prosić, jakbym miała cię pilnować przez cały wieczór.
+
+Kącik jej ust lekko drgnął.
+
+— Pójdę na chwilę do Harry’ego i Rona. I może rzeczywiście wykonam tę twoją wcześniejszą sugestię i trochę się tobą pochwalę.
+
+Ścisnęła lekko jego dłoń, po czym dodała ciszej:
+
+— Tylko nie znikajcie gdzieś na pół godziny, dobrze? Nadal mamy bal.
+
+Krum obserwował tę krótką wymianę bez próby podsłuchiwania. Dopiero kiedy Hermiona odsunęła się o krok, spojrzał pytająco na Jamesa.
+
+— Coś, czego Granger nie powinna słyszeć? — zapytał spokojnie.
+
+
+
+[C3-M0099]
+===== USER =====
+
+-Nie, po prostu chce ci udowodnić że umiem bez niej wytrzymać... przez chwilę...Powiedziałem a potem zająłem miejsce obok niego - Jak pozatym mija ci bal jest tak strasznie jak przypuszczałeś?
+
+
+
+[C3-M0100]
+===== ASSISTANT =====
+
+Krum usiadł wygodniej i rzucił Jamesowi krótkie, boczne spojrzenie.
+
+— Imponujące. Minęło prawie dziesięć sekund.
+
+Kącik jego ust drgnął, po czym spojrzał na parkiet.
+
+— Jest mniej źle, niż myślałem. Pierwszy taniec był najgorszy. Wszyscy patrzą, muzyka jest za głośna, a człowiek musi pamiętać, gdzie stawia nogi.
+
+Uniósł lekko kielich.
+
+— Potem jest łatwiej. Mandy jest w porządku. Nie oczekuje, że będę przez cały wieczór udawał kogoś bardzo rozmownego.
+
+Krótka pauza.
+
+— Jedzenie dobre. Muzyka czasem też. Za dużo ludzi.
+
+Spojrzał ponownie na Jamesa.
+
+— Ale nie jest strasznie. Po prostu nie rozumiem, dlaczego wszyscy przygotowują się do tego przez tygodnie, jakby to było piąte zadanie Turnieju.
+
+Krum zmrużył lekko oczy.
+
+— Ty za to wyglądasz, jakbyś bawił się znacznie lepiej, niż planowałeś.
+
+
+
