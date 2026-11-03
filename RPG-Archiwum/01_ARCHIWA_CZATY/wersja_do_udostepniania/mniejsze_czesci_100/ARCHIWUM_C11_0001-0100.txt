@@ -1,0 +1,1363 @@
+C11-M0001–C11-M0100 (100 wiadomości)
+
+[C11-M0001]
+===== USER =====
+
+czesc lecimy z part11 przeanalizuj i przeczytaj sobie wszytko jesli to nie prblem to wym razem nie masz jednego duzego pliku archiwum tylko duzo malych w bibliotece
+
+
+[C11-M0002]
+===== ASSISTANT =====
+
+Jasne — Part11 możemy zaczynać. Rozbicie archiwum na wiele małych plików nie stanowi problemu.
+
+Mam dostępny komplet 57 części archiwum, obejmujących 10 527 wiadomości od C1-M0001 do C10-M0506. Sprawdziłem ciągłość zakresów: nie ma brakujących ani zdublowanych ID. Przeczytałem też najnowsze obowiązkowe pliki: CURRENT, zasady ciągłości, rejestr korekt i macierz wiedzy NPC. 
+08_CURRENT
+ 
+10_ZASADY_I_CIAGLOSC
+ 
+09_REJESTR_KOREKT
+ 
+04_KTO_CO_WIE
+
+Najważniejsze: Part11 będzie C11. Punkt startowy to C10-M0506, 8 lipca 1995, po 17:00, pokój Hermiony w domu Grangerów. Hermiona siedzi tyłem do Jamesa, podała mu szczotkę i rozpuściła/odpięła włosy; James jeszcze nie przejął szczotki ani nie zaczął czesania. Rodzice są na dole. Następny ruch należy wyłącznie do ciebie jako Jamesa. Otwarte wątki również mam zsynchronizowane z tym stanem. 
+07_OTWARTE_WATKI
+
+I będę działał właśnie tak, jak chciałeś: nie potrzebuję jednego wielkiego 01_ARCHIWUM.... Gdy pojawi się szczegół z dawnej sceny, znajdę właściwy plik ARCHIWUM_0xx_Cx-Mxxxx... i sprawdzę dokładną rozmowę zamiast zgadywać ze streszczenia.
+
+Możesz lecieć z pierwszą akcją Jamesa w C11.
+
+
+[C11-M0003]
+===== USER =====
+
+ok tylko wrzuc jeszcze ostatnia wiadomosc z c10
+
+
+[C11-M0004]
+===== ASSISTANT =====
+
+Jasne — ostatnia wiadomość z C10, czyli C10-M0506, brzmi dokładnie tak: 
+ARCHIWUM_057_C10-M0401_C10-M0506
+
+Hermiona parsknęła cicho i odsunęła się na tyle, żeby spojrzeć na niego z rozbawieniem.
+
+— Tak, zdecydowanie wracamy na ziemię. Zwłaszcza że po spaniu na trawie, kilku godzinach masażu i… wszystkim, co wydarzyło się tutaj, moje włosy chyba poniosły największe straty.
+
+Podeszła do swoich rzeczy, wzięła szczotkę i wróciła, podając ją Jamesowi rączką do przodu.
+
+— Proszę, panie Brown. Skoro już kiedyś udowodniłeś, że naprawdę potrafisz czesać, oddaję się w ręce specjalisty.
+
+Usiadła wygodnie tyłem do niego i ostrożnie odpięła przednie pasma włosów, pozwalając im opaść razem z resztą.
+
+— Tylko bez pośpiechu. Po dzisiejszym dniu możesz tam znaleźć więcej supłów niż włosów.
+
+Po chwili obejrzała się przez ramię z małym uśmiechem.
+
+— I tym razem Panna Granger naprawdę pozwala ci zdecydować, co z nimi zrobisz.
+
+Od tego momentu zaczynamy C11.
+
+
+[C11-M0005]
+===== USER =====
+
+delikatnie chwyciłem ją jedną ręką za głowę a drugą zacząłem spokojnie i powoli rozczesywać jej włosy
+
+
+[C11-M0006]
+===== ASSISTANT =====
+
+Hermiona odruchowo wyprostowała się odrobinę, kiedy poczuła dłoń Jamesa na swojej głowie, ale nie odsunęła się. Zamiast tego pozwoliła mu spokojnie prowadzić szczotkę przez włosy.
+
+Przy pierwszych kilku pociągnięciach dało się wyczuć drobne splątania po całym dniu — szczególnie niżej, przy końcówkach. Hermiona syknęła cicho, gdy szczotka trafiła na jeden z większych supłów.
+
+— Mhm… właśnie o tym mówiłam — mruknęła z rozbawieniem. — Ostrożnie, panie specjalisto. Mam przywiązanie do większości swoich włosów.
+
+Po chwili jej ramiona rozluźniły się. Siedziała spokojnie, pozwalając mu pracować we własnym tempie.
+
+— Wiesz… — odezwała się po paru sekundach. — To jest zaskakująco przyjemne.
+
+Lekko przechyliła głowę pod jego dłonią, tylko tyle, żeby nie utrudniać czesania.
+
+— Ale nadal jestem ciekawa, co właściwie zamierzasz mi zrobić z fryzurą.
+
+
+[C11-M0007]
+===== USER =====
+
+ja nadal spokojnie czesałem jej włosy jednak zacząłem się bardzo rumienić... -a dla mnie zaskakująco bardzo wprowadza to "napięcie"
+
+
+[C11-M0008]
+===== ASSISTANT =====
+
+Hermiona znieruchomiała na ułamek sekundy, a potem bardzo powoli obejrzała się przez ramię.
+
+Najpierw spojrzała na jego twarz, potem na wyraźny rumieniec. Kącik ust drgnął jej natychmiast.
+
+— Och.
+
+Odwróciła się z powrotem, ale teraz sama miała lekko zaróżowione policzki.
+
+— To interesujące — powiedziała, próbując zabrzmieć rzeczowo, choć w głosie wyraźnie czaiło się rozbawienie. — Bo ja tylko siedzę i pozwalam ci rozczesywać włosy.
+
+Po chwili dodała ciszej:
+
+— Więc chyba będziesz musiał mi wyjaśnić, panie Brown, skąd dokładnie bierze się to twoje „napięcie”.
+
+Nie odsunęła się jednak ani nie próbowała przerwać czesania. Przeciwnie — siedziała spokojnie, zostawiając mu dostęp do kolejnych pasm, choć po jej minie było widać, że doskonale zauważyła, jak bardzo się zarumienił.
+
+
+[C11-M0009]
+===== USER =====
+
+pokręciłem głową - Nie wiem, może tylko w moje głowie to jest takie intymne....
+
+
+[C11-M0010]
+===== ASSISTANT =====
+
+Hermiona milczała przez moment, pozwalając szczotce przejść przez kolejne pasmo włosów.
+
+— Nie tylko w twojej — przyznała w końcu ciszej.
+
+Na moment spuściła wzrok, a potem lekko się uśmiechnęła.
+
+— To znaczy… samo czesanie włosów nie brzmi szczególnie niezwykle. Ale kiedy robi to ktoś, komu pozwalasz być tak blisko… komu ufasz na tyle, żeby siedzieć do niego plecami i właściwie niczego nie kontrolować…
+
+Urwała, jakby dopiero po wypowiedzeniu tego zdała sobie sprawę, jak zabrzmiało.
+
+— Tak. Chyba rozumiem, co masz na myśli przez „intymne”.
+
+Po chwili dodała z odrobiną rozbawienia:
+
+— Chociaż ten twój rumieniec sprawia, że zaczynam się zastanawiać, czy dla ciebie zwykła szczotka do włosów nie jest przypadkiem bardziej niebezpieczna niż połowa rzeczy, które spotkały nas w Hogwarcie.
+
+
+[C11-M0011]
+===== USER =====
+
+-Tylko jeśli jest to szczotka Panny Granger 
+....
+
+
+[C11-M0012]
+===== ASSISTANT =====
+
+Hermiona opuściła głowę odrobinę, ale nie na tyle, żeby utrudnić mu dalsze czesanie. Po sekundzie z jej strony dobiegło ciche, rozbawione prychnięcie.
+
+— Ach, oczywiście. Czyli problemem nie jest szczotka. Problemem jestem ja.
+
+Obejrzała się przez ramię na tyle, na ile pozwalała jej pozycja.
+
+— To brzmi podejrzanie jak bardzo sprytna próba zrzucenia całej odpowiedzialności na Pannę Granger.
+
+Na jej policzkach wciąż utrzymywał się lekki rumieniec, ale uśmiech miała już wyraźnie szerszy.
+
+— I najgorsze jest to, że chyba zaczynam rozumieć tę logikę.
+
+
+[C11-M0013]
+===== USER =====
+
+nachyliłem się do jej ucha i bardzo cicho szepnąłem - Po prostu Panna Granger samymy tym że istnieje wywołuje u mnie tak silne "napięcie"..że chciałbym ją..... tak mocno....wyprzytulać...
+
+
+[C11-M0014]
+===== ASSISTANT =====
+
+Hermiona zamarła na moment, wyraźnie zaskoczona tym szeptem.
+
+Rumieniec natychmiast wspiął jej się wyżej na policzki, a potem powoli odwróciła głowę w jego stronę, na tyle, na ile pozwalała jej pozycja.
+
+— Wyprzytulać? — powtórzyła cicho, z niedowierzaniem, ale i rozbawieniem.
+
+Po sekundzie uśmiechnęła się szerzej.
+
+— Przez chwilę naprawdę bałam się, czym skończysz to zdanie.
+
+Znów spojrzała przed siebie, nadal pozwalając mu czesać włosy.
+
+— Ale skoro to jest całe to straszliwe „napięcie”... — mruknęła. — To chyba Panna Granger jest w stanie jakoś z nim żyć.
+
+Po chwili dodała ciszej:
+
+— Zwłaszcza że sama nie ma nic przeciwko bardzo mocnemu wyprzytulaniu.
+
+
+[C11-M0015]
+===== USER =====
+
+zarumieniłem się jeszcze bardziej - Tak naprawdę chciałem powiedzieć coś innego ale już kiedyś mówiliśmy że na to za wcześnie....powiedziałem znów do jej ucha
+
+
+[C11-M0016]
+===== ASSISTANT =====
+
+Hermiona na moment całkiem znieruchomiała. Po jego szeptanych słowach rumieniec, który już miała na policzkach, zrobił się wyraźnie mocniejszy.
+
+Nie odsunęła się jednak. Przez chwilę patrzyła przed siebie, jakby układała odpowiedź, a potem odezwała się równie cicho:
+
+— Wiem.
+
+Przesunęła lekko palcami po własnej spódnicy.
+
+— I pamiętam tę rozmowę. To, że o czymś myślimy albo czegoś kiedyś chcemy, nie znaczy, że musimy się z tym spieszyć.
+
+Po sekundzie kącik jej ust uniósł się odrobinę.
+
+— Poza tym... — dodała z cichym rozbawieniem. — chyba wolę, kiedy mój chłopak robi się czerwony jak burak, niż kiedy udaje, że nic go nie rusza.
+
+Odwróciła głowę tylko trochę, spoglądając na niego kątem oka.
+
+— Możesz mi powiedzieć kiedyś. Kiedy oboje uznamy, że to już nie jest „za wcześnie”. Teraz wystarczy mi wiedzieć, że pamiętasz, gdzie postawiliśmy granicę.
+
+
+[C11-M0017]
+===== USER =====
+
+pokiwałem głową a potem trochę się od niej odsunąłem i kontynuowałem czesanie
+
+
+[C11-M0018]
+===== ASSISTANT =====
+
+Hermiona zauważyła, że odsunął się trochę dalej, ale niczego nie komentowała. Pozwoliła mu dalej spokojnie rozczesywać włosy.
+
+Z każdym kolejnym pociągnięciem szczotki pasma układały się coraz równiej, a wcześniejsze supły stopniowo znikały. Kiedy szczotka przestała już co chwilę zahaczać o splątane końcówki, Hermiona wypuściła cicho powietrze.
+
+— O wiele lepiej…
+
+Przez moment siedziała bez ruchu, wyraźnie korzystając z tej spokojniejszej chwili.
+
+— Wiesz, zaczynam rozumieć, dlaczego ludzie pozwalają komuś innemu czesać swoje włosy. Sama zwykle robię to szybko i mam z głowy.
+
+Lekko poruszyła głową, po czym od razu zatrzymała ją, żeby nie przeszkodzić Jamesowi.
+
+— Tylko nadal nie zdradziłeś najważniejszej części planu.
+
+W jej głosie pojawiło się rozbawienie.
+
+— Co właściwie Panna Granger będzie miała na głowie, kiedy skończysz?
+
+
+[C11-M0019]
+===== USER =====
+
+-Niespodzianka....powiedziałem i po chwili odłożyłem szczotkę i zacząłem układać jej włosy
+Prezentowane upięcie to elegancki, wysoki koc w stylu "messy bun" (artystyczny nieład), zlokalizowany na czubku głowy. Fryzura łączy w sobie klasyczną elegancję z nowoczesną, luźną teksturą. 
+
+Główne cechy fryzury
+
+Konstrukcja koka: Włosy są upięte wysoko, tworząc pełną objętości, puszystą koronę. Pasma nie są gładko przylizane, lecz ułożone w miękkie, przeplatające się fale i zwoje, co nadaje upięciu trójwymiarowości.
+Tekstura i objętość: Włosy u nasady oraz na powierzchni koka są delikatnie uniesione i poluzowane. Widoczne są wyraźne linie pasm, które sugerują wcześniejsze pofalowanie lub podkręcenie włosów przed spięciem.
+Pasemka wokół twarzy: Z przodu i z boku upięcia wypuszczono luźne, dłuższe pasma, które swobodnie opadają wzdłuż linii żuchwy i policzków. Są one podkręcone w miękkie, romantyczne fale, które subtelnie okalają i wysmuklają twarz.
+Wykończenie: Fryzura sprawia wrażenie lekkiej, zwiewnej i robionej z naturalną swobodą, mimo że wymaga precyzyjnego podpięcia wsuwkami, aby zachować swój kształt.
+
+Gdy skończyłem przeszedłem przed nią i kucnąłem - Wiem że to będzie trochę.....z resztą.... wyglądasz bardzo ślicznie...
+
+…
+Pokaż więcej
+
+
+[C11-M0020]
+===== ASSISTANT =====
+
+Hermiona przez moment po prostu na niego patrzyła. Najpierw na twarz Jamesa, potem — jakby dopiero po chwili dotarło do niej, że naprawdę skończył — ostrożnie uniosła dłoń do włosów.
+
+Palcami musnęła jedno z luźniejszych pasm przy policzku, ale nie próbowała poprawiać fryzury.
+
+— „Trochę”… co? — podchwyciła z lekkim uśmiechem jego niedokończone zdanie.
+
+Wstała i podeszła do lustra. Obróciła głowę najpierw w jedną, potem w drugą stronę, przyglądając się wysokiemu, luźnemu kokowi i pasmom pozostawionym wokół twarzy. Jej brwi powędrowały lekko do góry.
+
+— James…
+
+Dotknęła ostrożnie koka, sprawdzając, jak się trzyma.
+
+— Ty naprawdę umiesz to robić.
+
+W lustrze pojawił się coraz szerszy uśmiech.
+
+— Spodziewałam się czegoś znacznie prostszego. Kucyka, może warkocza… a ty urządziłeś mi tutaj fryzurę, w której spokojnie mogłabym gdzieś wyjść.
+
+Odwróciła się w jego stronę, a jej policzki lekko się zaróżowiły po przypomnieniu sobie jego komplementu.
+
+— I dziękuję.
+
+Po krótkiej chwili zmrużyła oczy z rozbawieniem.
+
+— Ale nadal nie odpowiedziałeś. „Wiem, że to będzie trochę…” — powtórzyła jego wcześniejsze słowa. — Trochę co, panie Brown?
+
+
+[C11-M0021]
+===== USER =====
+
+-Po prostu ja ułożyłem ci włosy i po tym cię skomplementowałem.... trochę jskbym mówił to... jakby rozumiesz?
+
+
+[C11-M0022]
+===== ASSISTANT =====
+
+Hermiona przez sekundę patrzyła na niego, a potem nagle zrozumiała. Jej uśmiech zrobił się szerszy.
+
+— Aaa… teraz rozumiem.
+
+Spojrzała jeszcze raz w lustro, potem z powrotem na Jamesa.
+
+— Czyli brzmi to trochę tak, jakbyś powiedział: „Spójrz, jak ślicznie cię uczesałem… jestem naprawdę świetny”.
+
+Parsknęła cicho.
+
+— Trochę podejrzanie samolubny komplement, panie Brown.
+
+Po chwili pokręciła jednak głową.
+
+— Ale nie. Nie odbieram tego w ten sposób.
+
+Delikatnie dotknęła jednego z luźnych pasm przy twarzy.
+
+— Fryzura mi się podoba. A kiedy powiedziałeś, że wyglądam ślicznie… — policzki znów lekko jej się zaróżowiły. — brzmiałeś raczej jak ty, a nie jak ktoś próbujący pochwalić własną pracę.
+
+Zmrużyła oczy z figlarnym uśmiechem.
+
+— Chociaż oczywiście teraz wiem, że skromność również nie należy do największych cnót Slytherinu.
+
+
+[C11-M0023]
+===== USER =====
+
+-Naprawde wyglądasz bardzo ślicznie....i ciężko tego nie zauważyć....
+
+
+[C11-M0024]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego przez chwilę, a jej wcześniejszy figlarny uśmiech nieco złagodniał.
+
+— Wiesz, że możesz mi to mówić częściej, prawda? — odezwała się ciszej.
+
+Potem zerknęła jeszcze raz na swoje odbicie i poprawiła tylko jedno luźne pasmo przy policzku, uważając, żeby nie naruszyć upięcia.
+
+— Bo chyba najgorsze jest to, że za każdym razem, kiedy mówisz coś takiego… naprawdę ci wierzę.
+
+Na jej policzkach znowu pojawił się lekki rumieniec. Po chwili dodała jednak już z bardziej znajomym rozbawieniem:
+
+— Chociaż jeśli będziesz mnie jednocześnie czesał i komplementował, to za jakiś czas mogę nabrać bardzo wygórowanych oczekiwań wobec wizyt u ciebie.
+
+
+[C11-M0025]
+===== USER =====
+
+rozłożyłem ramiona - Chodź tu....
+
+
+[C11-M0026]
+===== ASSISTANT =====
+
+Hermiona spojrzała na rozłożone ramiona Jamesa i jej uśmiech od razu zmiękł.
+
+— No dobrze… skoro tak ładnie prosisz.
+
+Podeszła do niego i objęła go, ostrożnie układając ręce wokół jego pleców tak, żeby nie zahaczyć świeżo upiętymi włosami o nic za sobą. Przez chwilę po prostu została blisko, bez żadnego pośpiechu.
+
+— Tylko uważaj na swoje dzieło — mruknęła z rozbawieniem. — Dopiero co skończyłeś i byłoby trochę tragiczne, gdybyś sam je zniszczył po trzydziestu sekundach.
+
+Po chwili dodała już ciszej:
+
+— Ale przytulanie zdecydowanie zatwierdzam.
+
+
+[C11-M0027]
+===== USER =====
+
+też mocno ją przytuliłem obawiając ręce w okół jej tali a następnie nachyliłem się do jej ucha - Shhhhh....
+
+
+[C11-M0028]
+===== ASSISTANT =====
+
+Hermiona już otwierała usta, jakby chciała coś odpowiedzieć, ale na jego ciche „shhh” zatrzymała się w pół słowa.
+
+Przez sekundę patrzyła na niego z uniesioną brwią.
+
+— Mhm… — wymruczała tylko.
+
+Nie próbowała jednak odzyskać ostatniego słowa. Jej ręce zacisnęły się nieco mocniej wokół niego i po chwili oparła policzek przy jego ramieniu, uważając przy tym na świeżo upięte włosy.
+
+W pokoju zrobiło się cicho. Z dołu dochodziły jedynie przytłumione odgłosy domu.
+
+Hermiona wytrzymała może kilkanaście sekund, zanim odezwała się niemal szeptem:
+
+— Dobrze… tym razem pozwolę ci wygrać z ciszą.
+
+Przytuliła się odrobinę mocniej.
+
+— Ale tylko dlatego, że jest mi tu bardzo dobrze.
+
+
+[C11-M0029]
+===== USER =====
+
+-Dobrze Hermiono.. też będę mówił ci do uszka miłe rzeczy...a ty musisz być cicho i tylko się rumienić....pokiwaj głową jeśli się zgadzasz...
+
+
+[C11-M0030]
+===== ASSISTANT =====
+
+Hermiona uniosła lekko brwi, patrząc na niego z mieszaniną rozbawienia i podejrzliwości.
+
+Przez chwilę wyglądała tak, jakby bardzo chciała coś skomentować — zwłaszcza część o tym, że „musi” się rumienić.
+
+Ostatecznie jednak zacisnęła usta, powstrzymując uśmiech, i powoli pokiwała głową.
+
+Po czym wtuliła się z powrotem w jego ramiona, wyraźnie przyjmując zasady tej małej zabawy.
+
+Tyle że po jej spojrzeniu było jasne, że Panna Granger zamierza bardzo uważnie słuchać, co też James wymyśli.
+
+
+[C11-M0031]
+===== USER =====
+
+na początku bardzo delikatnie chwyciłem ją nieco mocniej a potem wziąłem na ręce - Dobrze....to zacznijmy od tego że jesteś tak urocza że chciałbym tylko csly dzień cię głaskać i całować twoje różowe policzki
+
+
+[C11-M0032]
+===== ASSISTANT =====
+
+Hermiona drgnęła z zaskoczenia, gdy nagle straciła grunt pod nogami. Odruchowo objęła go mocniej, żeby zachować równowagę, po czym spojrzała na niego szeroko otwartymi oczami.
+
+A kiedy usłyszała pierwsze słowa przy swoim uchu, jej policzki niemal natychmiast zrobiły się jeszcze bardziej różowe.
+
+Zgodnie z umową nie powiedziała ani słowa.
+
+Tylko zacisnęła usta, najwyraźniej walcząc z uśmiechem, i posłała mu spojrzenie mówiące bardzo wyraźnie, że określenie „twoje różowe policzki” wcale nie pomaga jej w wykonaniu zadania.
+
+Po chwili schowała twarz bliżej jego ramienia, jakby w ten sposób mogła ukryć rumieniec.
+
+Ale nadal milczała.
+
+
+[C11-M0033]
+===== USER =====
+
+-oo....powiedziałem cicho i poszedłem z nią w stronę łóżka i podałem z nią na nke tak że leżeliśmy obok siebie ale nadlal wtuleni - Oprócz tego moja kochana Hermiono pamiętaj że jesteś taka śliczna że gdybym mógł to cały dzień bym tylko się na ciebie gapił...
+
+
+[C11-M0034]
+===== ASSISTANT =====
+
+Hermiona niemal od razu zrobiła się jeszcze bardziej czerwona.
+
+Leżąc obok niego, nadal wtulona w jego ramiona, przez chwilę patrzyła mu prosto w oczy — najwyraźniej bardzo bliska złamania własnej zgody na tę zabawę i powiedzenia czegoś.
+
+Ale wytrzymała.
+
+Zamiast odpowiedzieć, schowała zarumienioną twarz przy jego ramieniu i mocniej objęła go rękami. Po chwili wychyliła się odrobinę, spojrzała na niego znacząco i bez słowa wskazała palcem na własne policzki, jakby oskarżała go o dokładnie taki efekt, jaki zapowiedział.
+
+Potem znów wtuliła się w niego, nadal uparcie milcząc.
+
+Wyglądało na to, że Panna Granger zamierza dotrzymać umowy — nawet jeśli James bardzo skutecznie utrudniał jej zadanie.
+
+
+[C11-M0035]
+===== USER =====
+
+uśmnechnąłem się i jedną rękę położyłem na jej karku i zacząłem delaktnie po nim jeździć opuszkami a potem znowu zacząłem szeptać do jej ucha tym razem trochę zaczepnie je muskając - Twoje reakcję są tak cudowne że każda za każdym razem zachęca mnie żeby ciągle cię głaskać przytulać całować albo tak jak teraz trochę cię zawstydzać....ale z drugiej strony ściszyłem jeszcze głos - Nie masz się czego wstydzić...bo jesteś po prostu Cudowna powiedziałem i bardzo delikatnie pocałowałem płatek jej ucha
+
+
+[C11-M0036]
+===== ASSISTANT =====
+
+Hermiona zesztywniała na krótką chwilę, kiedy usłyszała ostatnie słowa tak blisko ucha.
+
+Rumieniec, który już miała, tylko się pogłębił.
+
+Przez moment wyglądała tak, jakby naprawdę chciała złamać zasady i natychmiast coś odpowiedzieć, ale zamiast tego zacisnęła usta i została cicho. Jej dłonie mocniej objęły Jamesa, a twarz schowała częściowo przy jego ramieniu.
+
+Po chwili uniosła jednak wzrok i spojrzała na niego z bardzo wyraźnym, niemal oskarżycielskim rozbawieniem.
+
+Najwyraźniej dokładnie wiedziała, że celowo próbuje ją zawstydzić.
+
+Nie powiedziała ani słowa.
+
+Tylko lekko pokręciła głową, uśmiechając się pod nosem, po czym ponownie wtuliła się w niego — nadal uparcie dotrzymując zasad ich zabawy.
+
+
+[C11-M0037]
+===== USER =====
+
+też lekko się usmiechnąłem i kontynuowałem szept - Teraz mała seria komplementów, masz bardzo piękną figurę....westchnąłem rozmarzony i zacząłem trochę intensywniej masować jej krak.... naprawdę wydaje mi się że byłaś pierwowzorem mitologicznych bogiń greckich.... ślicznie się uśmiechasz więc rób to jak najczęściej....masz idealną cerę a twojej piegi są tak..... dają ci tyle uroku ale też dodają takiego pazura.....
+
+
+[C11-M0038]
+===== ASSISTANT =====
+
+Hermiona przy pierwszym komplemencie niemal natychmiast spuściła wzrok, a kiedy padło porównanie do greckich bogiń, bardzo wyraźnie przewróciła oczami — choć uśmiech zdradzał, że wcale jej to nie przeszkadzało.
+
+Przy wzmiance o piegach jej mina zmieniła się jeszcze bardziej. Przez chwilę patrzyła na Jamesa z tym szczególnym wyrazem twarzy, jakby jednocześnie chciała się schować i zaprotestować przeciwko takiej ilości pochwał naraz.
+
+Ale pamiętała zasady.
+
+Nie odezwała się.
+
+Tylko jej policzki zrobiły się jeszcze bardziej czerwone, a ona schowała twarz bliżej niego, próbując ukryć uśmiech. Po paru sekundach wysunęła jedną dłoń i lekko szturchnęła go palcem w ramię — zdecydowanie bardziej w geście „przestań, bo zaraz nie wytrzymam” niż prawdziwego sprzeciwu.
+
+Potem uniosła głowę na tyle, żeby spojrzeć mu w oczy.
+
+I mimo całego zawstydzenia nadal się uśmiechała.
+
+
+[C11-M0039]
+===== USER =====
+
+uśmiechałem się i delaktnie chwyciłem ją za podbródek a kciukiem zacząłem jeździć po jej ustach -No właśnie....a twoje usta są jak spełnianie wszytkich marzeń.....
+
+
+[C11-M0040]
+===== ASSISTANT =====
+
+Hermiona na moment wstrzymała oddech, kiedy kciuk Jamesa przesunął się po jej ustach. Spojrzała mu prosto w oczy i tym razem rumieniec pojawił się na jej twarzy niemal natychmiast.
+
+Ale zgodnie z zasadami — ani słowa.
+
+Tylko jej usta drgnęły pod jego kciukiem w powstrzymywanym uśmiechu, a spojrzenie zrobiło się jednocześnie zawstydzone i rozbawione.
+
+Po chwili lekko zacisnęła palce na jego rękawie, jakby chciała mu w ten sposób odpowiedzieć, skoro mówić nie mogła.
+
+I właśnie to było najgorsze dla jej szans na zachowanie powagi: im bardziej próbowała niczego po sobie nie pokazać, tym wyraźniej było widać, że słowa Jamesa trafiają dokładnie tam, gdzie zamierzał.
+
+
+[C11-M0041]
+===== USER =====
+
+usmiechnąłem się i delaktnie pocałowałem jej nos - Twój nosek też bardzo lubię...
+
+
+[C11-M0042]
+===== ASSISTANT =====
+
+Hermiona zmarszczyła nos odruchowo po pocałunku, a potem spojrzała na niego z rozbawieniem.
+
+Rumieniec wciąż nie chciał zejść jej z policzków.
+
+Przez sekundę wyglądała tak, jakby koniecznie chciała odpowiedzieć czymś w rodzaju „mój nos też dostał własny komplement?”, ale pamiętała zasady.
+
+Zamiast tego tylko lekko uniosła brwi, uśmiechnęła się szerzej i wtuliła z powrotem w Jamesa.
+
+Po chwili bardzo delikatnie stuknęła czubkiem swojego nosa o jego nos.
+
+Nadal ani słowa.
+
+
+[C11-M0043]
+===== USER =====
+
+-Dobrze Panno Granger..... jesteś po prostu idelana...i bardzo cię Kocham
+
+
+[C11-M0044]
+===== ASSISTANT =====
+
+Hermiona na słowo „idealna” uniosła lekko brwi, jakby bardzo chciała się z nim o to pokłócić — ale kiedy chwilę później usłyszała ciche „bardzo cię kocham”, całe to zaczepne spojrzenie po prostu zniknęło.
+
+Policzki znów mocno jej się zaróżowiły.
+
+Przez kilka sekund tylko patrzyła mu w oczy. Potem, nadal pamiętając o zasadach zabawy, nie odpowiedziała ani słowem.
+
+Zamiast tego przytuliła się do niego mocniej. Jedną dłonią przesunęła po jego plecach, a drugą położyła mu na policzku, delikatnie przesuwając po nim kciukiem.
+
+Na jej ustach pojawił się ciepły, trochę zawstydzony uśmiech.
+
+Po chwili bezgłośnie poruszyła wargami, bardzo wyraźnie układając dwa słowa:
+
+„Ja ciebie.”
+
+A zaraz potem wtuliła twarz przy nim, najwyraźniej niezwykle zadowolona z tego, że technicznie rzecz biorąc nadal niczego nie powiedziała.
+
+
+[C11-M0045]
+===== USER =====
+
+nachyliłem się i znowu szeptałem jej do ucha - oooo jestm bardzo dumny z mojeje ukochanej Hermiony....powiedziałem i położyłem ręce na je żebrach -Czy Moja kochana Hermiona życzy sobie trochę łaskotek?
+
+
+[C11-M0046]
+===== ASSISTANT =====
+
+Hermiona od razu spojrzała na niego podejrzliwie, kiedy poczuła jego dłonie na żebrach.
+
+Na pytanie o łaskotki jej oczy zwęziły się jeszcze bardziej. Przez sekundę wyglądała tak, jakby próbowała przewidzieć, jak bardzo James zamierza wykorzystać jej milczenie przeciwko niej.
+
+W końcu bardzo ostrożnie pokiwała głową.
+
+Po chwili jednak uniosła palec przed jego twarzą, pokazując wyraźnie: trochę.
+
+Nadal nie powiedziała ani słowa.
+
+Za to kąciki jej ust już zaczęły zdradzać uśmiech, jakby sama doskonale wiedziała, że właśnie zgodziła się na coś, przy czym zachowanie ciszy może okazać się znacznie trudniejsze niż przy wszystkich wcześniejszych komplementach.
+
+
+[C11-M0047]
+===== USER =====
+
+usmiechnąłem się a potem zacząłem jeździć opuszkami palców po jej żebrach
+
+
+[C11-M0048]
+===== ASSISTANT =====
+
+Hermiona natychmiast drgnęła pod jego palcami.
+
+Najpierw zacisnęła usta tak mocno, jakby za wszelką cenę próbowała utrzymać ustaloną wcześniej ciszę. Wytrzymała może dwie sekundy.
+
+Potem wyrwało jej się krótkie, zduszone parsknięcie śmiechu.
+
+Zwinęła się odruchowo trochę w bok, próbując ochronić żebra, ale jednocześnie nie odsuwała się od Jamesa całkiem. Jej dłonie złapały go za przedramię.
+
+— Mmm—!
+
+Natychmiast zakryła sobie usta jedną ręką, patrząc na niego szeroko otwartymi oczami, jakby właśnie popełniła straszliwe wykroczenie przeciwko zasadom ich gry.
+
+Po chwili jednak kolejne delikatne ruchy opuszków wygrały z jej determinacją i Hermiona zaczęła cicho chichotać, wciskając twarz w jego ramię.
+
+— To się nie liczy… — wydusiła między śmiechem, najwyraźniej oficjalnie porzucając już próbę milczenia. — Łaskotki są oszustwem!
+
+
+[C11-M0049]
+===== USER =====
+
+znowu szepnąłem jej do ucha - Twój śmiech też jest bardzo melodyjny jak dzwoneczki....powiedziałem i zacząłem jeździć bardzo delikatnie po jej żebrach wzdłuż tak jak kiedyś
+(Sprawdź to w archiwach)
+
+
+[C11-M0050]
+===== ASSISTANT =====
+
+Sprawdziłem — to rzeczywiście ten sam motyw co wcześniej: w C8 James przesuwał palcem wzdłuż przestrzeni między żebrami, na co Hermiona reagowała drgnięciem i śmiechem; przy późniejszym, dużo delikatniejszym ruchu ustaliła, że nadal trochę ją łaskocze, ale jednocześnie jest przyjemne. 
+ARCHIWUM_050_C8-M0401_C8-M0600
+ 
+ARCHIWUM_050_C8-M0401_C8-M0600
+
+Hermiona od razu rozpoznała ten ruch.
+
+Kiedy opuszki zaczęły bardzo delikatnie przesuwać się wzdłuż jej żeber, jej bok napiął się odruchowo i wyrwało jej się ciche:
+
+— Mmm—!
+
+Zaraz potem parsknęła krótkim śmiechem i lekko skręciła się w jego ramionach, ale tym razem nie próbowała odsuwać się dalej. Przy tak lekkim dotyku reakcja była dokładnie tą mieszaniną, którą odkryli wcześniej — krótkie drgnięcia i chichot przeplatały się z wyraźnym rozluźnieniem.
+
+— Ty… pamiętasz — wyszeptała, spoglądając na niego z rozbawieniem.
+
+Kolejny ruch wzdłuż żeber znów wywołał cichy chichot. Hermiona zacisnęła na moment oczy.
+
+— Właśnie to… — mruknęła. — To twoje okropnie podstępne „trochę inaczej”…
+
+Uśmiechnęła się szerzej i wtuliła bliżej, nadal lekko drgając przy bardziej wrażliwych miejscach.
+
+— I nadal jest niesprawiedliwe… bo trochę łaskocze, a jednocześnie jest naprawdę przyjemne.
+
+
+[C11-M0051]
+===== USER =====
+
+w odpowiedzi tylko się uśmiechnąłem i kontynuowałem
+
+
+[C11-M0052]
+===== ASSISTANT =====
+
+Hermiona po chwili wyraźnie przestała reagować gwałtownym śmiechem. Przy każdym bardziej czułym miejscu nadal lekko drgała albo wypuszczała krótki chichot, ale przy tym delikatnym tempie coraz bardziej się rozluźniała.
+
+Przymknęła oczy i wtuliła się wygodniej, pozwalając mu kontynuować dokładnie w ten sposób.
+
+— Mhm… właśnie tak — mruknęła cicho, z uśmiechem. — To nadal łaskocze… ale już w ten przyjemny sposób.
+
+Po kolejnym lekkim przesunięciu opuszków po żebrach znów parsknęła cicho i zacisnęła na moment palce na jego ubraniu.
+
+— Naprawdę zapamiętałeś tę metodę…
+
+Otworzyła oczy i spojrzała na niego z bliska.
+
+— Podejrzewam, że jesteś z tego bardzo zadowolony, panie Brown.
+
+
+[C11-M0053]
+===== USER =====
+
+-jestem bardzo zadowolony gdy jest ci przyjemnie znów szepnąłem jej do ucha
+
+
+[C11-M0054]
+===== ASSISTANT =====
+
+Hermiona uśmiechnęła się niemal od razu na ten szept. Przy kolejnym delikatnym przesunięciu palców wzdłuż żeber lekko drgnęła i wypuściła cichy chichot.
+
+— Wiem… — odpowiedziała równie cicho. — I właśnie dlatego pozwalam ci dalej prowadzić te twoje podejrzane eksperymenty.
+
+Przymknęła na chwilę oczy, wtulając się wygodniej. Przy bardziej łaskotliwym miejscu napięła bok, ale zaraz znów się rozluźniła.
+
+— Tylko nie przesadzaj z tym swoim zadowoleniem, panie Brown… — dodała z uśmiechem. — Bo jeszcze uznasz, że odkryłeś jakiś niezawodny sposób na Pannę Granger.
+
+Po sekundzie zerknęła na niego z bliska.
+
+— Chociaż… ten akurat rzeczywiście działa.
+
+
+[C11-M0055]
+===== USER =====
+
+delikatnie położyłem kucika na jej ustach - To, może wracamy już do cichej Hermiony
+
+
+[C11-M0056]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego znad jego kciuka, a w jej oczach natychmiast pojawiło się rozbawienie.
+
+Przez chwilę nic nie zrobiła — jakby specjalnie zastanawiała się, czy Panna Granger rzeczywiście zamierza podporządkować się temu pomysłowi.
+
+W końcu powoli pokiwała głową.
+
+Usta pod jego kciukiem drgnęły jej w uśmiechu, ale zgodnie z propozycją nie powiedziała ani słowa. Zamiast tego wtuliła się wygodniej i popatrzyła na niego wyczekująco.
+
+Po chwili uniosła jeszcze palec i wskazała nim najpierw na siebie, potem na niego, a następnie przyłożyła go do własnych ust w przesadnym geście ciszy.
+
+Najwyraźniej zasady zostały przyjęte.
+
+Tyle że jej zaczepne spojrzenie sugerowało, że tym razem będzie próbowała wytrzymać znacznie dłużej.
+
+
+[C11-M0057]
+===== USER =====
+
+zacząłem delaktnie jeździć kciukiem po jej ustach i po prostu patrzyłem jej w oczy a drugą ręką nadal jeździłem po jej żebrach
+
+
+[C11-M0058]
+===== ASSISTANT =====
+
+Hermiona utrzymała jego spojrzenie, choć przy kolejnym delikatnym ruchu po żebrach jej oczy na moment się przymrużyły.
+
+Kąciki ust drgnęły pod jego kciukiem.
+
+Wyraźnie próbowała nie zepsuć zabawy żadnym słowem, ale co jakiś czas jej bok lekko się napinał, a z gardła wydobywało się ledwie słyszalne, tłumione parsknięcie śmiechu.
+
+Nie odwracała wzroku.
+
+Po kilku sekundach uniosła tylko brwi, jakby bez słów pytała: „I co teraz, panie Brown?”
+
+A potem, nadal milcząc, przesunęła jedną dłoń wyżej na jego ramię i została tak blisko, z wyraźnym uśmiechem, którego mimo całego wysiłku nie potrafiła już ukryć.
+
+
+[C11-M0059]
+===== USER =====
+
+-Teraz chyba musimy już wracać na dół...a ja muszę się już chyba zbierać
+
+
+[C11-M0060]
+===== ASSISTANT =====
+
+Hermiona westchnęła cicho, a po jej minie było widać, że doskonale wie, iż ma rację — choć wcale jej się to nie podoba.
+
+— Niestety… chyba tak.
+
+Przez moment jeszcze została wtulona w niego, jakby próbowała ukraść sobie ostatnich kilka sekund, po czym spojrzała mu w oczy.
+
+— Mama i tata pewnie zaczynają się już zastanawiać, czy w ogóle pamiętamy, że istnieje parter.
+
+Kącik jej ust uniósł się lekko.
+
+— A ty, panie Brown, jesteś tutaj od jedenastej. Jeśli zostaniesz jeszcze trochę, moja pierwsza „dzienna wizyta” u ciebie będzie musiała być chyba odwetem za zajęcie mi całego dnia.
+
+Zerknęła w stronę lustra i bardzo ostrożnie dotknęła świeżo ułożonego koka.
+
+— I zanim zejdziemy… nadal zamierzam pokazać im, co zrobiłeś z moimi włosami. Nie po to siedziałam grzecznie tyle czasu, żeby nikt tego nie zobaczył.
+
+Po chwili jej uśmiech trochę zmiękł.
+
+— Ale nie każę ci jeszcze wychodzić w tej sekundzie. Możemy po prostu zejść na dół razem.
+
+
+[C11-M0061]
+===== USER =====
+
+-Dobrze, ale dwie sprawy zaniosę cię na dół...i po drodze musisz mi szeptać do ucha jakieś miłe rzeczy
+
+
+[C11-M0062]
+===== ASSISTANT =====
+
+Hermiona uniosła brew przy słowie „musisz”, ale niemal natychmiast na jej twarzy pojawił się zaczepny uśmiech.
+
+— Och, muszę, tak?
+
+Przez moment udawała, że poważnie rozważa warunki, po czym objęła go rękami wokół szyi, wyraźnie dając mu znać, że na pierwszą część planu się zgadza.
+
+— Dobrze. Możesz mnie zanieść na dół.
+
+Zerknęła w stronę drzwi.
+
+— Chociaż mina moich rodziców, kiedy zobaczą, że po kilku godzinach wracamy z góry w ten sposób, może być interesująca.
+
+Potem przysunęła usta bliżej jego ucha i ściszyła głos, jakby już zaczynała wywiązywać się z drugiej części umowy.
+
+— A jeśli naprawdę chcesz miłych rzeczy… to mogę ci powiedzieć, że bardzo lubię, kiedy jesteś taki czuły. Że dzisiejszy dzień był naprawdę cudowny…
+
+Lekko się zarumieniła, ale mówiła dalej szeptem:
+
+— …i że mam wyjątkowe szczęście, że właśnie ty jesteś moim chłopakiem.
+
+Odsunęła głowę tylko odrobinę i uśmiechnęła się.
+
+— Resztę dostaniesz po drodze. Nie zamierzam zużyć wszystkich komplementów jeszcze w pokoju.
+
+
+[C11-M0063]
+===== USER =====
+
+wstałem z łóżka a potem wsunąłem rękę pod jej kolana i pod jej łopatki i wziąłem ją na ręce uważając na jej fryzurę
+
+
+[C11-M0064]
+===== ASSISTANT =====
+
+Hermiona odruchowo objęła go mocniej wokół szyi, kiedy znalazła się na jego rękach, a zaraz potem ostrożnie przechyliła głowę, pilnując świeżo ułożonej fryzury.
+
+Spojrzała na niego z bliska z wyraźnym rozbawieniem.
+
+— Dobrze… przyznaję, pan Brown potrafi nawet nosić dziewczynę tak, żeby nie zniszczyć własnego dzieła.
+
+Potem przypomniała sobie drugą część umowy. Przysunęła usta bliżej jego ucha i ściszyła głos.
+
+— Jesteś bardzo troskliwy… bardzo uparty… czasami zdecydowanie zbyt pewny siebie…
+
+Krótka pauza.
+
+— …i nadal jesteś osobą, przy której czuję się naprawdę dobrze.
+
+Na ostatnich słowach lekko się zarumieniła, ale nie przerwała szeptu.
+
+— I bardzo lubię, kiedy patrzysz na mnie tak, jakby cały świat na chwilę przestawał cię interesować.
+
+Po czym zerknęła w stronę drzwi.
+
+— Tylko teraz spróbujmy zejść po schodach bez spektakularnej katastrofy, dobrze?
+
+
+[C11-M0065]
+===== USER =====
+
+słuchałem z jej uśmiech -Dobrze na schodach będziemy uważać...wyprowadziłem ją z pokoju a potem zeszliśmy schodami w dół
+
+
+[C11-M0066]
+===== ASSISTANT =====
+
+Hermiona rzeczywiście dotrzymała słowa.
+
+Gdy tylko wyszli na korytarz i James ruszył w stronę schodów, przysunęła usta bliżej jego ucha, jednocześnie trzymając się go pewnie.
+
+— Podoba mi się, że naprawdę słuchasz, kiedy coś jest dla mnie ważne… — szepnęła. — I że potrafisz być zupełnie inny, niż sugeruje ta cała twoja ślizgońska reputacja.
+
+Przy pierwszych stopniach na moment przerwała, pozwalając mu się skupić, ale niżej znów odezwała się cichutko:
+
+— Lubię też, kiedy się rumienisz. Nawet jeśli potem bardzo próbujesz odwrócić uwagę i sprawić, żebym to ja była bardziej czerwona.
+
+Na jej twarzy pojawił się mały, zadowolony uśmiech.
+
+— I bardzo podoba mi się, jak na mnie patrzysz.
+
+Kiedy znaleźli się już na dole, Hermiona urwała szept.
+
+Z salonu dobiegł głos jej matki, ale po chwili oboje rodzice pojawili się w zasięgu wzroku. Pierwsze spojrzenie naturalnie padło na fakt, że córka ponownie wróciła niesiona na rękach.
+
+Ojciec Hermiony spojrzał na nich przez krótką chwilę, po czym westchnął z udawaną rezygnacją.
+
+— Widzę, że schody znowu okazały się dla naszej córki przeszkodą nie do pokonania.
+
+Hermiona natychmiast zrobiła minę pełną cierpliwości.
+
+— Tato.
+
+Jej matka natomiast niemal od razu zauważyła coś innego.
+
+— Chwileczkę… Hermiono, twoje włosy.
+
+Hermiona uśmiechnęła się i ostrożnie obróciła głowę, prezentując wysoki, luźny kok.
+
+— James mnie uczesał.
+
+Matka uniosła brwi i przyjrzała się fryzurze znacznie uważniej.
+
+— James?
+
+— Mhm.
+
+Ojciec przeniósł spojrzenie z fryzury córki na Jamesa.
+
+— No dobrze. Zaczynam podejrzewać, że lista rzeczy, których pan Brown nie potrafi, może być krótsza od tej drugiej.
+
+Hermiona parsknęła cicho.
+
+— Nie zachęcaj go. I tak jest już z siebie wystarczająco zadowolony.
+
+
+[C11-M0067]
+===== USER =====
+
+ostrożnie odstawiłem ją na ziemię - miałem kiedyś młodszą siostrę... więc musiałem się nauczyć układać różne fryzury
+
+
+[C11-M0068]
+===== ASSISTANT =====
+
+Na moment zrobiło się ciszej.
+
+Matka Hermiony, która jeszcze przed chwilą przyglądała się fryzurze córki z lekkim uśmiechem, spojrzała na Jamesa uważniej. Nie dopytała jednak, co dokładnie znaczyło „miałem kiedyś”.
+
+— Rozumiem — powiedziała tylko łagodnie. — W takim razie miała z ciebie całkiem pożytecznego starszego brata.
+
+Ojciec Hermiony również porzucił wcześniejszy żartobliwy ton. Zerknął jeszcze na kok córki.
+
+— To przynajmniej wyjaśnia, dlaczego zrobiłeś to zdecydowanie lepiej, niż spodziewałbym się po piętnastoletnim chłopaku.
+
+Hermiona spojrzała na Jamesa przez chwilę bez uśmiechu, jakby samo wspomnienie o siostrze zwróciło jej uwagę bardziej niż komplement dotyczący fryzury. Nie zaczęła jednak wypytywać go przy rodzicach.
+
+Zamiast tego podeszła pół kroku bliżej.
+
+— Czyli mam jej trochę zawdzięczać tę fryzurę — powiedziała ciszej.
+
+Potem dotknęła ostrożnie jednego z luźnych pasm przy twarzy i dodała już z delikatnym uśmiechem:
+
+— W takim razie tym bardziej jej nie rozwalę przed końcem dnia.
+
+
+[C11-M0069]
+===== USER =====
+
+lekko się usmiechnąłem
+
+
+[C11-M0070]
+===== ASSISTANT =====
+
+Hermiona odwzajemniła ten lekki uśmiech. Przez moment nic nie mówiła, jakby rozumiała, że przy wspomnieniu o siostrze nie trzeba od razu zasypywać go pytaniami.
+
+Jej matka również nie drążyła tematu. Jeszcze raz obejrzała fryzurę córki i powiedziała tylko:
+
+— W każdym razie bardzo ładnie ją uczesałeś.
+
+Ojciec Hermiony pokiwał głową.
+
+— To akurat trudno podważyć.
+
+Hermiona zerknęła w stronę przedpokoju, gdzie nadal wisiał zostawiony wcześniej czarny płaszcz Jamesa, po czym ponownie spojrzała na niego.
+
+— Skoro naprawdę masz się już zbierać… — zaczęła, a w jej głosie dało się usłyszeć lekką niechęć do tej części planu. — …to chyba powinnam cię przynajmniej odprowadzić do drzwi.
+
+Jej ojciec rzucił z boku:
+
+— O własnych siłach?
+
+Hermiona natychmiast spojrzała na niego.
+
+— Tato.
+
+Matka parsknęła cicho śmiechem.
+
+
+[C11-M0071]
+===== USER =====
+
+lekko posmutniałem zwróciłem się najpierw do jej rodziców lekko się kłaniając - Dziękuję za gościnę...
+
+
+[C11-M0072]
+===== ASSISTANT =====
+
+Matka Hermiony uśmiechnęła się ciepło.
+
+— Cała przyjemność po naszej stronie, James. Naprawdę miło było cię w końcu poznać osobiście.
+
+Ojciec skinął głową.
+
+— I następnym razem nie musisz traktować tego jak oficjalnej wizyty dyplomatycznej. Skoro Hermiona będzie cię odwiedzać, zakładam, że i ciebie jeszcze tutaj zobaczymy.
+
+Hermiona stała obok i przez moment przyglądała się Jamesowi uważniej. Jego zmiana nastroju nie umknęła jej.
+
+— Odprowadzę cię — powiedziała spokojnie.
+
+Podeszła razem z nim w stronę przedpokoju, gdzie czekał jego czarny płaszcz. Tym razem nie żartowała już z wyjścia. Po prostu została blisko, najwyraźniej nie mając zamiaru kończyć tego dnia pośpiesznym pożegnaniem.
+
+
+[C11-M0073]
+===== USER =====
+
+zatrzymałem się i po prostu mocno ją przytuliłem
+
+
+[C11-M0074]
+===== ASSISTANT =====
+
+Hermiona bez wahania objęła go równie mocno, wsuwając ręce wokół jego pleców. Przez chwilę zupełnie przestała zwracać uwagę na fryzurę czy na to, że rodzice są kilka kroków dalej.
+
+Przytuliła się do niego i została tak przez dłuższy moment.
+
+— Hej… — powiedziała bardzo cicho, tylko dla niego. — To nie jest przecież pożegnanie na całe lato.
+
+Jedną dłonią przesunęła uspokajająco po jego plecach.
+
+— Mamy mój adres. Ty dałeś mi swój. Rodzice zgodzili się na odwiedziny… więc teraz pozostaje nam tylko naprawdę z tego korzystać.
+
+Po chwili ścisnęła go jeszcze trochę mocniej.
+
+— I ja też nie mam ochoty, żebyś już szedł.
+
+Jej rodzice tym razem nie dorzucili żadnego żartu. Dali im po prostu chwilę na pożegnanie.
+
+
+[C11-M0075]
+===== USER =====
+
+-To... może jutro wpadniecie albo wpadniesz sama?
+
+
+[C11-M0076]
+===== ASSISTANT =====
+
+Hermiona odsunęła się tylko na tyle, żeby móc spojrzeć mu w twarz.
+
+— Jutro? — powtórzyła, a na jej twarzy od razu pojawił się uśmiech. — Ja bardzo chętnie.
+
+Zerknęła przez ramię na rodziców.
+
+— Sama — dodała po chwili, już bardziej zdecydowanie. — Jeśli nie macie nic przeciwko. Chciałabym najpierw zobaczyć twój dom normalnie, bez robienia z tego rodzinnej wycieczki.
+
+Jej matka wymieniła krótkie spojrzenie z mężem.
+
+— Nie widzę problemu. I tak ustaliliśmy już, że możesz go odwiedzać.
+
+Ojciec skinął głową.
+
+— Pod warunkiem, że wcześniej ustalicie, o której wychodzisz i kiedy wracasz. Tyle.
+
+Hermiona ponownie spojrzała na Jamesa, wyraźnie zadowolona.
+
+— Czyli wygląda na to, że jutro będziesz miał Pannę Granger u siebie.
+
+Po sekundzie uniosła lekko palec.
+
+— Ale nie od świtu, panie Brown. Są wakacje. I zamierzam też czasem widywać własnych rodziców.
+
+
+[C11-M0077]
+===== USER =====
+
+usmiechnąłem się szerszej -To możesz wpadać o której chcesz...i najpóźniej o dwudziestej będziesz z powrotem w domu spytałem ją ale spoglądając na jej ojca
+
+
+[C11-M0078]
+===== ASSISTANT =====
+
+Ojciec Hermiony zauważył to spojrzenie i przez moment wyglądał, jakby właśnie jego pytano o ostateczne zatwierdzenie całej umowy.
+
+— Dwudziesta brzmi rozsądnie — powiedział po chwili. — Jeśli będziemy wiedzieć, o której wychodzi i dokąd jedzie, nie mam z tym problemu.
+
+Matka Hermiony skinęła głową.
+
+— I jeśli plany się zmienią, po prostu dajcie znać. Tyle nam wystarczy.
+
+Hermiona spojrzała najpierw na rodziców, a potem na Jamesa. Uśmiech miała już wyraźnie szerszy.
+
+— Mnie pasuje. A skoro mogę przyjść, kiedy chcę… — zmrużyła lekko oczy. — to nie zdradzę ci jeszcze godziny.
+
+Po chwili dodała z rozbawieniem:
+
+— Zobaczymy, czy pan Brown potrafi przeżyć choć jedno wakacyjne przedpołudnie bez dokładnego harmonogramu Panny Granger.
+
+
+[C11-M0079]
+===== USER =====
+
+zrobiłem smutną minę -Wiesz że to praktycznie tortura...
+
+
+[C11-M0080]
+===== ASSISTANT =====
+
+Hermiona spojrzała na jego smutną minę i natychmiast parsknęła śmiechem.
+
+— Och, biedny James… — powiedziała z przesadnym współczuciem. — Całe kilka godzin niepewności. Nie wiem, jak to przeżyjesz.
+
+Podeszła bliżej i poprawiła lekko jego krawat, wciąż uśmiechając się pod nosem.
+
+— Właśnie dlatego nie podam ci godziny. Chcę zobaczyć, czy kiedy jutro zapukam, naprawdę będziesz zaskoczony.
+
+Jej ojciec obserwował ich przez chwilę z wyraźnym rozbawieniem.
+
+— Jeśli to jest tortura, Brown, to mam wrażenie, że moja córka dopiero zaczyna odkrywać swoje możliwości.
+
+— Tato… — Hermiona rzuciła mu spojrzenie, ale sama zaczęła się śmiać.
+
+Po chwili znów spojrzała na Jamesa.
+
+— Obiecuję tylko jedno: przyjdę. Reszta jest niespodzianką.
+
+
+[C11-M0081]
+===== USER =====
+
+pokiwałem głową - W takim razie do jutra powiedziałem i jeszcze raz bardzo mocno ją przytuliłem
+
+
+[C11-M0082]
+===== ASSISTANT =====
+
+Hermiona odwzajemniła uścisk natychmiast i równie mocno, przez chwilę zupełnie ignorując fakt, że jej rodzice nadal byli obok.
+
+— Do jutra — odpowiedziała cicho przy jego ramieniu.
+
+Przez kilka sekund jeszcze go nie puszczała. Potem odsunęła się tylko odrobinę i spojrzała mu w twarz.
+
+— I pamiętaj: obiecałam, że przyjdę. Więc żadnych dramatycznych wizji, że Panna Granger nagle zniknie po drodze.
+
+Uśmiechnęła się, ale zaraz potem jej mina złagodniała.
+
+— Też będę tęsknić.
+
+Jej matka, stojąca kawałek dalej, tylko wymieniła krótkie spojrzenie z mężem, najwyraźniej świadomie nie przerywając im pożegnania.
+
+Hermiona natomiast nadal trzymała Jamesa za rękę.
+
+— I jutro zobaczę wreszcie ten twój tajemniczy londyński dom… — dodała już z odrobiną ciekawości. — Więc masz kilka godzin, żeby przygotować się psychicznie na bardzo dokładną inspekcję.
+
+
+[C11-M0083]
+===== USER =====
+
+pokiwałem poważnie głową i założyłem płaszcz - Mogę mieć jeszcze jedną prośbę...?
+
+
+[C11-M0084]
+===== ASSISTANT =====
+
+Hermiona od razu uniosła brwi, patrząc na niego z zaciekawieniem.
+
+— Jeszcze jedną? — zapytała z lekkim uśmiechem. — Dobrze. Słucham.
+
+Jej ojciec zerknął na Jamesa znad ramienia córki.
+
+— Po tym wstępie zaczynam podejrzewać, że ta prośba może wymagać oficjalnej zgody komisji rodzinnej.
+
+Hermiona rzuciła mu rozbawione spojrzenie, po czym znów skupiła uwagę na Jamesie.
+
+— No dalej, panie Brown. Co to za prośba?
+
+
+[C11-M0085]
+===== USER =====
+
+nachyliłem się i szepnąłem jej do ucha -Mogłbym prosić aby Panna Granger założyła jutro jakąś ładną sukienkę...?
+
+
+[C11-M0086]
+===== ASSISTANT =====
+
+Hermiona od razu lekko się zarumieniła, kiedy usłyszała prośbę wypowiedzianą tak cicho, tylko do niej.
+
+Spojrzała na niego przez moment z uniesioną brwią.
+
+— Ładną sukienkę…? — powtórzyła równie cichym szeptem.
+
+Kącik jej ust zaczął się unosić.
+
+— Mogłabym.
+
+Przysunęła się odrobinę bliżej, żeby rodzice nie słyszeli tej części rozmowy.
+
+— Ale skoro to ja wybieram sukienkę, nie dostaniesz żadnych dodatkowych wskazówek. Ani koloru. Ani długości. Ani nawet tego, czy już ją kiedyś widziałeś.
+
+Uśmiechnęła się teraz wyraźnie zaczepnie.
+
+— Sam chciałeś niespodziankę z godziną. Teraz będziesz miał dwie.
+
+Po chwili dodała ciszej, z lekkim rumieńcem:
+
+— Ale tak… jutro postaram się wyglądać dla ciebie bardzo ładnie.
+
+
+[C11-M0087]
+===== USER =====
+
+-Zawsze wyglądasz ładnie....
+
+
+[C11-M0088]
+===== ASSISTANT =====
+
+Hermiona spojrzała na niego przez moment, po czym jej zaczepny uśmiech wyraźnie zmiękł.
+
+— Wiem… — odpowiedziała cicho.
+
+Lekko dotknęła palcami jego krawata, jakby poprawiała go jeszcze raz, choć właściwie nie było już czego poprawiać.
+
+— Ale i tak podoba mi się, kiedy to mówisz.
+
+Po chwili na jej policzkach pojawił się delikatny rumieniec.
+
+— I skoro jutro specjalnie prosisz o sukienkę… to chyba postaram się, żebyś miał trochę trudniej z tym swoim ciągłym gapieniem się na mnie.
+
+Kącik jej ust drgnął.
+
+— Tylko pamiętaj, że sam się o to prosiłeś.
+
+
+[C11-M0089]
+===== USER =====
+
+pokiwałem głową i nie chcąc dużej przeciągać jeszcze raz kiwnąłem głową do jej rodziców a potem jeszcze raz przytuliłem Hermionę
+
+
+[C11-M0090]
+===== ASSISTANT =====
+
+Hermiona objęła go od razu, tym razem bez żadnego żartu. Przycisnęła się do niego mocno i na kilka sekund po prostu została w jego ramionach.
+
+— Do jutra — szepnęła mu przy uchu. — I pamiętaj, że obiecałam. Przyjdę.
+
+Po chwili odsunęła się tylko tyle, żeby spojrzeć mu w twarz. Uśmiechnęła się ciepło, choć sama też wyglądała na niezbyt zachwyconą tym, że wizyta właśnie się kończy.
+
+— Więc żadnej smutnej miny. To tylko jedna noc.
+
+Jej matka odpowiedziała na wcześniejsze skinienie Jamesa uśmiechem.
+
+— Do zobaczenia, James.
+
+Ojciec Hermiony również skinął mu głową.
+
+— Bezpiecznej drogi. I najwyraźniej… do zobaczenia wkrótce.
+
+Hermiona została przy Jamesie w przedpokoju, jeszcze przez moment trzymając go za rękę.
+
+
+[C11-M0091]
+===== USER =====
+
+w końcu jednak obróciłem się na pięcie puszczając jej rękę i wyszedłem
+
+
+[C11-M0092]
+===== ASSISTANT =====
+
+Hermiona wyszła za nim jeszcze na próg i zatrzymała się przy otwartych drzwiach.
+
+— James!
+
+Kiedy miał już odejść, pomachała mu lekko dłonią. Na jej twarzy wciąż był uśmiech, choć teraz wyraźnie mieszał się z niechęcią do kończenia wizyty.
+
+— Do jutra! — zawołała. — I żadnego zgadywania, o której przyjdę!
+
+Po sekundzie dodała jeszcze, już z szerszym uśmiechem:
+
+— Ani prób wysyłania skrzatów na zwiad!
+
+Za jej plecami pojawiła się matka, a kawałek dalej ojciec. Oboje również pożegnali go krótkim gestem.
+
+Hermiona została jednak w drzwiach najdłużej. Jedną ręką ostrożnie sprawdziła, czy wykonany przez Jamesa kok nadal się trzyma, a drugą opierała o framugę.
+
+— Dobranoc, panie Brown — powiedziała już ciszej, ale jeszcze na tyle głośno, żeby mógł ją usłyszeć.
+
+I dopiero wtedy czekała, aż rzeczywiście się oddali.
+
+
+[C11-M0093]
+===== USER =====
+
+odmachalem im a potem skiwrowalem się w stronę jakieś większej ulicy i tam złapałem taksówkę i podałem adres docelowy
+
+
+[C11-M0094]
+===== ASSISTANT =====
+
+Taksówkarz przyjął podany adres bez zbędnych pytań, wrzucił bieg i samochód ruszył.
+
+Dom Grangerów stopniowo zniknął za kolejnymi zakrętami. Po kilku minutach spokojniejsze ulice ustąpiły coraz większemu ruchowi Londynu; za szybami przesuwały się szeregi kamienic, skrzyżowania i ludzie korzystający z ciepłego, lipcowego wieczoru.
+
+Kierowca nie próbował nawiązywać rozmowy. Od czasu do czasu tylko spoglądał w lusterko, skupiając się przede wszystkim na drodze.
+
+Po dłuższej jeździe taksówka dotarła w okolice Belgrave Square. Samochód zwolnił, przejechał jeszcze kawałek zgodnie z podanym wcześniej adresem, aż w końcu zatrzymał się przy celu.
+
+Taksówkarz zerknął przez ramię.
+
+— Jesteśmy, młody człowieku.
+
+Licznik zatrzymał się, a silnik nadal cicho pracował.
+
+
+[C11-M0095]
+===== USER =====
+
+spojrzałem na licznik a potem podałem mu odpowiednią kwotę i wyszedłem z taxówki życząc mu dobrego wieczoru a już po chwili wszedłem do środka domu i zatrzymałem się w holu
+
+
+[C11-M0096]
+===== ASSISTANT =====
+
+Drzwi zamknęły się za nim, odcinając od ulicznego szumu Londynu.
+
+W holu panowała niemal zupełna cisza. Po gwarze domu Grangerów — rozmowach, żartach, krokach i głosie Hermiony — różnica była szczególnie wyraźna.
+
+Jasne powierzchnie holu odbijały wieczorne światło, a magia domu działała po swojemu, dyskretnie i bez potrzeby ingerencji. Nigdzie nie było słychać rozmów ani kroków innych osób.
+
+Przez chwilę jedynym wyraźniejszym dźwiękiem pozostawał cichy odgłos zamykających się drzwi i odległy szmer miasta zza murów.
+
+Dom znów był spokojny.
+
+A następnego dnia miała po raz pierwszy przekroczyć jego próg Hermiona Granger.
+
+
+[C11-M0097]
+===== USER =====
+
+westchnąłem a potem skiwrowalem się do sypialni
+
+
+[C11-M0098]
+===== ASSISTANT =====
+
+Cisza domu towarzyszyła mu przez kolejne kondygnacje.
+
+Na trzecim piętrze korytarz prowadzący do prywatnej części posiadłości był już niemal zupełnie odcięty od odgłosów ulicy. Drzwi głównej sypialni czekały na końcu krótkiego przejścia.
+
+Za nimi znajdowało się dobrze znane wnętrze: duże łóżko z baldachimem i szmaragdowymi tkaninami, obok wejście do prywatnej łazienki, a dalej spokojna część piętra z pokojami gościnnymi i pracownią eliksirów.
+
+Po całym dniu spędzonym u Grangerów dom wydawał się wyjątkowo cichy.
+
+I tym razem ta cisza miała potrwać tylko do jutra.
+
+
+[C11-M0099]
+===== USER =====
+
+zdjąłem płaszcz kamizelkę i odwieśiłem go na wieszak a potem zdjąłem buty i podszedłem do łóżka i pozwoliłem sobie po prostu na nie opaść
+
+
+[C11-M0100]
+===== ASSISTANT =====
+
+Materac ugiął się pod jego ciężarem i po chwili dopasował do ułożenia ciała, zgodnie z zaklęciami wbudowanymi w łóżko.
+
+W sypialni znów zapadła cisza. Zdjęty płaszcz i kamizelka wisiały na wieszaku, buty zostały przy łóżku, a bordowo-złoty krawat Hermiony nadal odcinał się na białej koszuli.
+
+Przez wysokie okna wciąż wpadało dużo lipcowego światła — do zachodu słońca pozostawało jeszcze sporo czasu. 
+Suntoday
++1
+
+Po całym dniu pełnym rozmów dom Grangerów został daleko za murami posiadłości. Tutaj nie było teraz nikogo, kto zagadywałby z sąsiedniego pokoju, śmiał się albo droczył.
+
+Tylko spokojna sypialnia i cichy dom — przynajmniej do chwili, kiedy James zdecyduje, co zrobić z resztą wieczoru.
+
+
