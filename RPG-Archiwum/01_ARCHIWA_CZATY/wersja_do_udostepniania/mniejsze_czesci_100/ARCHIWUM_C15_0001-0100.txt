@@ -1,0 +1,1912 @@
+C15-M0001–C15-M0100 (100 lub mniej wiadomości)
+
+[C15-M0001]
+===== USER =====
+
+ok czat zaczynamy Part15 przypomnij sobie wszytko przanlizuj uruchom skill i wrzuc ostatnia widomisc z naaszej historii i pamietaj o githubie
+Wyszukiwanie w sieci
+ $github
+
+[C15-M0002]
+===== ASSISTANT =====
+
+Harry Potter RPG — Part 15
+Kontynuacja kampanii aktywna
+
+Wczytałem aktualne pliki projektu, zasady ciągłości, korekty, relacje, wiedzę postaci oraz ostatni stan fabuły. Sprawdziłem również repozytorium RPG-Archiwum na GitHubie.
+
+Od tej chwili prowadzę Part 15 według naszych ustaleń: Ty kontrolujesz wyłącznie Jamesa Browna, ja prowadzę świat i pozostałe postacie. Zachowuję ich pamięć, charaktery, samodzielność i zgodność z dotychczasową historią.
+
+Jedno zastrzeżenie: na GitHubie potwierdziłem aktualny CURRENT C14-M0704, ale nie znalazłem pełnego transkryptu C14. Dlatego poniżej przywracam potwierdzony koniec sceny, nie udając, że jest to dosłowna kopia całej ostatniej wiadomości.
+
+PART 15 · 28 GRUDNIA 1995 · CZWARTEK, RANO
+
+Hogwart — Wielka Sala
+
+Świąteczne dekoracje wciąż zdobiły Wielką Salę. Za wysokimi oknami rozciągał się zimowy krajobraz, a w kominkach płonął ogień.
+
+Przy wspólnie zajmowanym stole Hufflepuffu siedzieli uczniowie, którzy pozostali w Hogwarcie na święta. Byli wśród nich Graham Pritchard, Malcolm Baddock, Orla Quirke, Dennis Creevey, Eleanor Branstone, Laura Madley, Rose Zeller oraz Euan.
+
+Rozmowa, która wcześniej zeszła na Viktora Kruma, Cedrika Diggory'ego, Voldemorta i możliwość nadchodzącej wojny, stopniowo powróciła do przyjemniejszych tematów.
+
+Zbliżał się przecież Sylwester.
+
+Padły pomysły wspólnego wieczoru, gier, zaproszenia pozostałych uczniów i powitania Nowego Roku o północy. Pozostawała jeszcze kwestia ewentualnej zgody profesor Sprout.
+
+Graham zwrócił się do Jamesa.
+
+— A ty zostajesz w Hogwarcie również na Nowy Rok?
+
+Twoja kolej — James Brown.
+
+[C15-M0003]
+===== USER =====
+
+$Wyszukiwanie w sieci $github
+-tak....powiedziałem z uśmiechem 
+(przesymuluj do jakiegoś ważnego wydarzenia kanonicznego z książki albo z naszego kanonu albo najpóźniej do dnia 12 stycznia czwarta rano)
+
+[C15-M0004]
+===== ASSISTANT =====
+
+28 grudnia 1995 — Wielka Sala
+
+— Tak? No to świetnie! — Graham uśmiechnął się szeroko. — Czyli jednak będziemy mieli kogoś starszego na Sylwestra.
+
+— Nie przesadzaj, Graham — wtrąciła Orla, unosząc brwi. — Brown nie musi pilnować nas przez cały wieczór.
+
+Malcolm parsknął śmiechem.
+
+— Szczególnie że podobno sam potrafi narobić zamieszania.
+
+— Właśnie dlatego dobrze będzie go mieć w pobliżu! — odparł Graham.
+
+Rozmowa potoczyła się dalej. Rose zaczęła wypytywać o gry, Dennis wspomniał o możliwości zrobienia kilku zdjęć, a Eleanor przypomniała, że na jakiekolwiek większe spotkanie potrzebna będzie zgoda nauczycieli.
+
+29–31 grudnia 1995
+
+Ostatnie dni grudnia mijały w Hogwarcie spokojnie.
+
+Zamek pozostawał znacznie cichszy niż podczas roku szkolnego. Na błoniach zalegał śnieg, a nauczyciele korzystali z ostatnich dni względnego spokoju przed powrotem uczniów.
+
+Młodsi uczniowie nadal spędzali razem sporo czasu. Graham i Malcolm kilkakrotnie wracali do pomysłu sylwestrowego spotkania, podczas gdy Orla próbowała przekonać pozostałych, że nie wszystkie zabawy muszą kończyć się hałasem.
+
+Pomysł większej uroczystości pozostał jednak tylko pomysłem. Nie było jeszcze potwierdzonej zgody profesor Sprout.
+
+O północy 31 grudnia szkolne zegary oznajmiły nadejście nowego roku.
+
+Rozpoczął się rok 1996.
+
+1–10 stycznia 1996
+
+Świąteczny spokój stopniowo ustępował przygotowaniom do nowego semestru.
+
+W bibliotece znów przybywało książek przygotowywanych do wydania uczniom. Profesor McGonagall coraz częściej pojawiała się na korytarzach z plikiem pergaminów, a Filch narzekał na konieczność usuwania pozostałości świątecznych dekoracji.
+
+Wielka Sala nadal bywała niemal pusta.
+
+Hermiona, Harry i Weasleyowie pozostawali poza Hogwartem. Nauczyciele nie przekazywali uczniom szczegółów tego, co działo się podczas ich nieobecności.
+
+Tymczasem w świecie czarodziejów napięcie narastało, choć większość mieszkańców zamku nie znała jego rzeczywistej skali.
+
+11 stycznia 1996 — Londyn, późny wieczór
+
+Wydarzenie kanoniczne rozgrywające się poza wiedzą Jamesa.
+
+W domu przy Grimmauld Place 12 doszło do kolejnego starcia dwóch ludzi, którzy nie potrafili zapomnieć swojej szkolnej nienawiści.
+
+Severus Snape przybył z polecenia Dumbledore'a.
+
+Przyniósł wiadomość przeznaczoną dla Harry'ego Pottera: po powrocie do Hogwartu chłopak miał rozpocząć prywatne lekcje oklumencji.
+
+Sirius Black nie zamierzał spokojnie przyjąć wiadomości, że jego chrześniak będzie musiał regularnie spotykać się ze Snape'em.
+
+Wymiana złośliwości szybko przerodziła się w otwartą kłótnię. Obaj mężczyźni sięgnęli po różdżki, a Harry znalazł się pomiędzy nimi.
+
+Do pojedynku ostatecznie nie doszło.
+
+Snape opuścił dom, pozostawiając Harry'emu polecenie stawienia się na pierwszej lekcji po powrocie do szkoły.
+
+Ani James, ani pozostali uczniowie przebywający w Hogwarcie nie zostali o tym poinformowani.
+
+PART 15 · 12 STYCZNIA 1996 · PIĄTEK, 03:55
+
+Hogwart — lochy Slytherinu
+
+W zamku panowała nocna cisza.
+
+Głęboko pod jeziorem, za grubymi murami lochów, zielonkawe światło przenikające przez wysokie okna pokoju wspólnego Ślizgonów ledwie rozpraszało ciemność.
+
+Ogień w kominku dawno przygasł.
+
+W dormitoriach panował spokój. Gdzieś z oddali dobiegło ciche skrzypnięcie starego drewna, a później wszystko ponownie ucichło.
+
+Do czwartej rano pozostało pięć minut.
+
+Niedługo Hogwart miał ponownie zapełnić się uczniami. Wraz z nimi wrócić miały znajome głosy, szkolne obowiązki i konflikty, które świąteczna przerwa jedynie odsunęła na bok.
+
+Na razie jednak zamek spał.
+
+Kolej na Jamesa.
+
+Zatrzymanie: 12 stycznia, 03:55. Kanoniczna data rozmowy Snape'a z Syriuszem jest przybliżona; źródło chronologiczne: Harry Potter Lexicon. W przeskoku nie dopisałem Jamesowi żadnych decyzji, rozmów ani snu.
+
+[C15-M0005]
+===== USER =====
+
+$Wyszukiwanie w sieci $Github
+*otworzyłem oczy wstałem z łóżka i tradycje wykonałem serię ćwiczeń a potem poszedłem do łazienki zgoliłem zarost umyłem zęby i wziąłem prysznic a potem założyłem mundurek czyli czarną szate z zieloną podszewką i herbem Slytherinu szarą kamizelkę, białą koszule czarne spodnie oraz krawata w bordowo-złote pasy spojrzałem w lustro i jeszcze poprawiłem krawat i później wyszedłem z łazienki i po chwili znalazłem się w pokoju wspólnym Slytherinu zrobiłem sobie kawę tym razem małą bardzo mocną czarną a potem usiadłem przy stoliku i zacząłem pić*
+
+[C15-M0006]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 5:00 rano
+Hogwart, pokój wspólny Slytherinu
+
+W pokoju wspólnym panowała niemal zupełna cisza. Zielonkawe światło przenikające przez okna wychodzące na jezioro rzucało delikatne refleksy na kamienne ściany i skórzane fotele.
+
+W kominku żarzyło się jeszcze kilka kawałków drewna. Na stoliku stała niewielka filiżanka bardzo mocnej, czarnej kawy, której aromat rozchodził się po najbliższej części pomieszczenia.
+
+Większość uczniów wciąż spała.
+
+Po kilku minutach od strony schodów prowadzących do dormitoriów rozległy się ciche kroki.
+
+Pojawił się Graham Pritchard, ubrany w ciemnozielony sweter i spodnie od piżamy. Miał potargane włosy i wyglądał na mocno zaspane­go.
+
+Zatrzymał się, zauważając Jamesa przy stoliku.
+
+— Brown? — mruknął, przecierając oczy. — Merlinie, która godzina...
+
+Spojrzał na zegar, a potem na filiżankę.
+
+— Piąta rano i już pijesz kawę? — Pokręcił głową z rozbawieniem. — Ty naprawdę masz dziwne zwyczaje.
+
+Podszedł do kominka, wyciągnął dłonie w stronę resztek ciepła i ziewnął.
+
+— Chciałem tylko zejść po wodę — wyjaśnił. — Malcolm tak chrapie, że obudziłby trolla.
+
+Po chwili zerknął ponownie na Jamesa.
+
+— A tak w ogóle, podobno niedługo wszyscy wracają. Wreszcie będzie tu trochę normalniej.
+
+Graham przysiadł na jednym z foteli przy kominku, nadal nieco zaspany.
+
+[C15-M0007]
+===== USER =====
+
+$Wyszukiwanie w sieci $Github
+kiwnąłem głową -Nie wracasz do spania?
+
+[C15-M0008]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 5:00 rano
+Pokój wspólny Slytherinu
+
+Graham ziewnął szeroko i przeciągnął się w fotelu.
+
+— Wrócę, wrócę — odpowiedział sennie. — Ale skoro już zszedłem, to mogę chwilę posiedzieć.
+
+Spojrzał na kominek, po czym poprawił zsuwający mu się z ramienia sweter.
+
+— Poza tym Malcolm pewnie dalej chrapie. Ostatnio rzuciłem w niego poduszką, a on nawet się nie obudził.
+
+Chłopak zachichotał pod nosem.
+
+— Ale nie martw się, nie zamierzam siedzieć tutaj do śniadania. — Zerknął na kawę Jamesa. — W przeciwieństwie do ciebie zamierzam jeszcze trochę pospać.
+
+Przez chwilę przyglądał się płomieniom, a potem zapytał z dziecięcą ciekawością:
+
+— Ty zawsze tak wcześnie wstajesz, nawet kiedy nie mamy lekcji?
+
+[C15-M0009]
+===== USER =====
+
+tak....a dzisiaj jeszcze jeat szczególna okazja...
+
+[C15-M0010]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 5:00 rano
+Pokój wspólny Slytherinu
+
+Graham uniósł głowę znad oparcia fotela. Senność na moment ustąpiła miejsca ciekawości.
+
+— Szczególna okazja? — powtórzył, marszcząc brwi.
+
+Zerknął na wiszący nad kominkiem kalendarz, jakby próbował sobie coś przypomnieć.
+
+— Dwunasty stycznia... — mruknął do siebie.
+
+Po chwili spojrzał na Jamesa z zaciekawieniem.
+
+— No dobra, Brown, co dzisiaj świętujesz? — zapytał z lekkim uśmiechem.
+
+[C15-M0011]
+===== USER =====
+
+-Hermiona wraca.....powiedziałem nie mogąc powstrzymać uśmiechu
+
+[C15-M0012]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 5:00 rano
+Pokój wspólny Slytherinu
+
+Graham przez chwilę patrzył na Jamesa, po czym na jego twarzy pojawił się szeroki uśmiech.
+
+— Aaaa, no tak! Hermiona! — zaśmiał się cicho. — Teraz rozumiem, dlaczego od rana jesteś taki zadowolony.
+
+Poprawił się w fotelu, podciągając nogi pod siebie.
+
+— W sumie to trochę dziwnie będzie. Przez święta mieliśmy cię prawie cały czas dla siebie, a teraz pewnie znowu będziesz chodził za nią po całym zamku.
+
+Zachichotał, ale zaraz dodał:
+
+— Chociaż fajnie, że wraca. Wiem, że za nią tęskniłeś.
+
+Przez chwilę spoglądał na dogasający kominek.
+
+— Ciekawe, czy spodoba jej się nasz pomysł ze wspólnym stołem — powiedział. — Orla już zapowiedziała, że jak Hermiona przyjdzie, to koniecznie chce z nią porozmawiać.
+
+Graham zerknął ponownie na Jamesa.
+
+— A wiesz chociaż, o której wraca?
+
+[C15-M0013]
+===== USER =====
+
+nie...
+
+[C15-M0014]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 5:05 rano
+Pokój wspólny Slytherinu
+
+— Aha. — Graham pokiwał głową. — Czyli będziesz musiał poczekać.
+
+Przez chwilę przyglądał się Jamesowi z rozbawieniem.
+
+— Założę się, że gdybyś wiedział, o której przyjeżdża, stałbyś pod bramą zamku godzinę wcześniej.
+
+Zaśmiał się cicho, po czym ponownie ziewnął.
+
+— Dobra, ja chyba naprawdę wrócę do łóżka.
+
+Podniósł się z fotela, przeciągnął i ruszył w stronę schodów. Przy pierwszym stopniu odwrócił jeszcze głowę.
+
+— Brown? Mam nadzieję, że znajdziesz też trochę czasu dla nas, kiedy Hermiona wróci.
+
+Uśmiechnął się lekko.
+
+— No, dobranoc. A właściwie dzień dobry.
+
+Zniknął na schodach prowadzących do dormitoriów.
+
+W pokoju wspólnym ponownie zapanowała cisza. W kominku cicho trzaskały ostatnie żarzące się polana, a na stoliku wciąż stała filiżanka mocnej, czarnej kawy.
+
+Za oknami rozciągały się ciemne wody jeziora. Do świtu pozostawało jeszcze sporo czasu.
+
+[C15-M0015]
+===== USER =====
+
+$Wyszukiwanie w sieci $Github
+ja wstałem z fotela dokaldnie poprawiłem włosy i krawat wróciłem jeszcze na chwilę do pokoju zabrałem jeszcze ztamtąd prezent dla Hermiony a potem skierowałem się do głównego wejścia do Hogwartu
+
+[C15-M0016]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 5:15 rano
+Hogwart, główny hol
+
+Kamienne korytarze Hogwartu były niemal zupełnie puste. Pochodnie paliły się spokojnie, a odgłos kroków odbijał się echem od wysokich ścian.
+
+W granatowej szkatułce znajdował się świąteczny prezent dla Hermiony: srebrna broszka w kształcie róży, zaklęta tak, by odtwarzać Walca nr 2 Szostakowicza, oraz mapa gwiaździstego nieba nad Hogwartem z 25 grudnia 1994 roku.
+
+W głównym holu panował chłód. Za wielkimi dębowymi drzwiami wejściowymi wiatr poruszał gałęziami drzew, a błonia nadal spowijała przedświtowa ciemność.
+
+Nie było jeszcze śladu powracających uczniów.
+
+Nagle z bocznego korytarza dobiegło znajome, przeciągłe miauknięcie.
+
+Pani Norris wysunęła się zza zakrętu i zatrzymała niedaleko schodów. Jej żółte oczy skierowały się na Jamesa.
+
+— No proszę, proszę...
+
+Z ciemności wyłonił się Argus Filch, trzymając w dłoni starą latarnię.
+
+Woźny zmrużył oczy.
+
+— Brown? O piątej rano? — burknął, spoglądając na szkolny mundurek i szkatułkę. — Co pan tu robi o tej porze?
+
+Pani Norris usiadła przy jego nodze, nie spuszczając wzroku z Jamesa.
+
+[C15-M0017]
+===== USER =====
+
+czekam.....
+
+[C15-M0018]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 5:15 rano
+Hogwart, główny hol
+
+Filch zmarszczył brwi.
+
+— Czeka pan? — powtórzył podejrzliwie. — O tej godzinie?
+
+Spojrzał na wielkie dębowe drzwi, a potem z powrotem na Jamesa.
+
+— Mam nadzieję, że nie zamierza pan wychodzić na błonia. Jeszcze ciemno jak w lochu, a ja nie mam ochoty szukać uczniów po całym terenie zamku.
+
+Pani Norris otarła się o jego nogawkę.
+
+Filch uniósł latarnię nieco wyżej, przyglądając się granatowej szkatułce.
+
+— Hm. — Jego wzrok znów powędrował ku Jamesowi. — A właściwie na kogo pan tak czeka, Brown?
+
+[C15-M0019]
+===== USER =====
+
+-Na Pannę Granger...
+
+[C15-M0020]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 5:15 rano
+Hogwart, główny hol
+
+Filch spojrzał na Jamesa, a następnie na granatową szkatułkę.
+
+— Ach, panna Granger... — mruknął, jakby wszystko nagle stało się jasne.
+
+Pani Norris przeciągnęła się leniwie u jego stóp.
+
+— No cóż, niech pan sobie czeka, Brown. Byle nie urządzał pan tutaj żadnych hałasów.
+
+Woźny poprawił uchwyt latarni.
+
+— Chociaż nie rozumiem, po co przychodzić tu w środku nocy. Powracający uczniowie mają jeszcze cały dzień przed sobą.
+
+Pokręcił głową i ruszył w kierunku schodów, mrucząc coś o zakochanych nastolatkach.
+
+Pani Norris podążyła za nim, ale jeszcze raz obejrzała się na Jamesa.
+
+Wielki hol ponownie opustoszał. Za dębowymi drzwiami świszczał zimowy wiatr, a wysoko nad schodami stary zegar odmierzał kolejne minuty.
+
+[C15-M0021]
+===== USER =====
+
+ja stałem niemal naprzeciwko drzwi i wpatrywałem się w nie bez słowa
+
+[C15-M0022]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 5:20 rano
+Hogwart, główny hol
+
+Wielkie dębowe drzwi pozostawały zamknięte.
+
+Za nimi panowała ciemność. Od czasu do czasu silniejszy podmuch wiatru uderzał w drewno, wywołując ciche skrzypienie zawiasów.
+
+Minęło kilka minut.
+
+Gdzieś na wyższych piętrach odezwał się zegar. Pochodnie w holu migotały, a kamienna posadzka pozostawała lodowato zimna.
+
+Nagle z zewnątrz dobiegł odległy, głuchy odgłos.
+
+Po chwili rozległ się ponownie.
+
+Nie przypominał kroków ani stukotu kół powozu. Raczej trzask gałęzi obciążonych śniegiem.
+
+W końcu wszystko ucichło.
+
+Z bocznego korytarza dobiegło jeszcze ciche miauknięcie pani Norris, ale ani kotka, ani Filch nie pojawili się ponownie.
+
+Dochodziła 5:30.
+
+Drzwi nadal pozostawały zamknięte, a na błoniach nie było jeszcze widać nikogo powracającego do zamku.
+
+[C15-M0023]
+===== USER =====
+
+stałem spokojnie że skupioną miną a godziny powoli mijały
+
+[C15-M0024]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — główny hol Hogwartu
+
+Minuty zamieniały się w godziny.
+
+O szóstej rano zamek powoli zaczął budzić się do życia. Przez hol przeszedł Filch, który na widok Jamesa tylko pokręcił głową i mruknął coś niezrozumiałego.
+
+O siódmej pojawili się pierwsi uczniowie zmierzający na śniadanie. Niektórzy przystawali na chwilę, zerkając z ciekawością na stojącego naprzeciwko drzwi Ślizgona.
+
+O ósmej wschodzące słońce zaczęło rozświetlać ośnieżone błonia.
+
+Mijały kolejne godziny.
+
+Około jedenastej przez hol przeszła profesor McGonagall. Zauważyła Jamesa, lecz nie zatrzymała się. Miała przy sobie kilka pergaminów i wyraźnie spieszyła się w stronę schodów.
+
+13:40
+
+Na zewnątrz rozległy się odległe głosy.
+
+Po chwili dał się słyszeć stukot kół i znajomy gwar uczniów powracających z przerwy świątecznej.
+
+Wreszcie wielkie dębowe drzwi otworzyły się.
+
+Do holu wtargnęło zimne powietrze, a wraz z nim pierwsza grupa uczniów. Przechodzili przez próg, otrzepując płaszcze ze śniegu i rozmawiając o podróży.
+
+Wśród nich pojawili się Harry Potter, Ron Weasley i Ginny Weasley.
+
+A zaraz za nimi...
+
+Hermiona Granger.
+
+Miała na sobie zimowy płaszcz i szalik w barwach Gryffindoru. Jej brązowe włosy były nieco potargane po podróży, a przez ramię przewiesiła torbę.
+
+Rozmawiała właśnie z Ginny, kiedy nagle spojrzała w głąb holu.
+
+Urwała w pół słowa.
+
+Jej brązowe oczy rozszerzyły się, a twarz natychmiast rozjaśnił uśmiech.
+
+— James!
+
+Ginny obejrzała się i również dostrzegła stojącego przy wejściu chłopaka.
+
+— No proszę — mruknęła z rozbawieniem.
+
+Hermiona już jej nie słuchała.
+
+Ruszyła szybko przez hol, zostawiając Harry'ego i Rona kilka kroków za sobą.
+
+— James! — powtórzyła, tym razem ze śmiechem.
+
+Zatrzymała się tuż przed nim, promieniejąc radością.
+
+— Cześć, ty! — powiedziała ciepło, po czym wyciągnęła do niego obie ręce, wyraźnie chcąc go przytulić.
+
+[C15-M0025]
+===== USER =====
+
+mocno ją przytuliłem i zacząłem atakować jej twarz szybkimi pocałunkami -Ty nieznośna samolubna Gryfonko która skazała mnie na samotność.....
+
+[C15-M0026]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — 13:40
+Hogwart, główny hol
+
+— James! — Hermiona wybuchnęła śmiechem, kiedy kolejne szybkie pocałunki lądowały na jej policzkach, czole i nosie. — Przestań! Przecież zaraz mnie całkiem wycałujesz!
+
+Objęła go mocno za szyję, ale przy jego słowach odsunęła nieco głowę, żeby spojrzeć mu w oczy.
+
+— Samolubna?! — powtórzyła z udawanym oburzeniem. — Och, bardzo ci dziękuję! Ja też tęskniłam, wiesz?
+
+Zmarszczyła nos, choć uśmiech nadal nie schodził jej z twarzy.
+
+— I wcale nie skazałam cię na samotność. Miałeś przecież tych wszystkich młodszych uczniów, o których tyle mi pisałeś!
+
+— No właśnie! — zawołała Ginny z kilku kroków dalej. — Z jego listów wynikało, że świetnie się bawił!
+
+Hermiona zerknęła przez ramię.
+
+— Ginny, nie pomagaj mu!
+
+Ginny zachichotała. Harry uśmiechnął się lekko, natomiast Ron, stojący obok z bagażem, wyglądał na znacznie mniej rozbawionego.
+
+Hermiona ponownie zwróciła się do Jamesa. Jej spojrzenie złagodniało.
+
+— Ale naprawdę się cieszę, że cię widzę — powiedziała ciszej.
+
+Przytuliła go jeszcze raz, po czym sama pocałowała go w usta.
+
+— Tylko następnym razem oszczędź mi tego „samolubna”, dobrze? — dodała z figlarnym błyskiem w oczach. — Bo jeszcze pomyślę, że wcale nie zasłużyłeś na wszystkie pocałunki, które chciałam ci dać po powrocie.
+
+[C15-M0027]
+===== USER =====
+
+nie wytrzymałem dług i znowu wrocilem do pocałunków
+
+[C15-M0028]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — 13:40
+Hogwart, główny hol
+
+— Mmm! James! — Hermiona roześmiała się między pocałunkami, próbując bezskutecznie dokończyć zdanie.
+
+W końcu przestała protestować. Zarzuciła mu ręce na szyję i z uśmiechem zaczęła odwzajemniać pocałunki, od czasu do czasu sama wyciągając się ku jego ustom.
+
+— Ty jesteś niemożliwy! — wymamrotała, kiedy udało jej się na moment oderwać. — Absolutnie niemożliwy!
+
+Policzki miała zaróżowione, a kilka niesfornych kosmyków opadło jej na twarz.
+
+— Hermiono! — dobiegł rozbawiony głos Ginny. — My chyba pójdziemy, bo zaraz zapuścimy tutaj korzenie!
+
+— To idźcie! — odparła Hermiona odruchowo, po czym natychmiast spojrzała przez ramię. — Znaczy... nie, poczekajcie! Mam twoją książkę!
+
+Ginny parsknęła śmiechem.
+
+— Oddasz mi później!
+
+Harry uśmiechnął się pod nosem, a Ron przewrócił oczami.
+
+— No świetnie. Wróciliśmy do Hogwartu jakieś pięć minut temu — mruknął.
+
+— Ron! — rzuciła Hermiona ostrzegawczo, ale zaraz znów odwróciła się do Jamesa.
+
+Uśmiechnęła się szeroko i delikatnie odgarnęła mu włosy znad czoła.
+
+— Dobrze, przyznaję. — Jej głos złagodniał. — Tego mi brakowało.
+
+Po czym sama pocałowała go jeszcze raz, tym razem nieco dłużej.
+
+— Ale teraz pozwolisz mi chociaż zdjąć ten okropnie ciepły szalik? — zapytała ze śmiechem. — Zaraz się ugotuję!
+
+[C15-M0029]
+===== USER =====
+
+-Mogę cię rozebrać jeśli chcesz....powiedziałem ze zbyt dużym entuzjazmem
+
+[C15-M0030]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — 13:45
+Hogwart, główny hol
+
+Hermiona otworzyła szeroko oczy, po czym wybuchnęła śmiechem.
+
+— James Brown! — zawołała, uderzając go lekko dłonią w ramię. — Ja mówiłam o szaliku!
+
+Zerknęła na Ginny, która właśnie zakrywała usta dłonią, próbując powstrzymać śmiech.
+
+— Och, nie patrz tak na mnie! — rzuciła Hermiona, choć sama nie potrafiła przestać się uśmiechać.
+
+— Ja nic nie mówię! — odpowiedziała Ginny niewinnie.
+
+— Jeszcze — mruknął Harry z rozbawieniem.
+
+Ron westchnął ciężko.
+
+— Możemy wreszcie iść? Niektórzy chcieliby coś zjeść.
+
+Hermiona przewróciła oczami.
+
+— To idź, Ron. Nikt cię nie zatrzymuje.
+
+Ponownie spojrzała na Jamesa, a jej uśmiech stał się nieco bardziej figlarny.
+
+— A ty, mój drogi, możesz mi pomóc zdjąć płaszcz — oznajmiła, rozkładając lekko ręce. — Płaszcz. Żeby nie było żadnych nieporozumień!
+
+Po chwili dodała ciszej, ze śmiechem:
+
+— Merlinie, ledwie wróciłam, a ty już zaczynasz...
+
+[C15-M0031]
+===== USER =====
+
+rzeczywiście przeszedzlem za nią i pomogłem jej z płaszczem a potem rozwiązałem jej szalik i złożyłem kilka pocałunków na jej odkrytej teraz szyji
+
+[C15-M0032]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — 13:45
+Hogwart, główny hol
+
+Hermiona posłusznie uniosła ramiona, pozwalając zdjąć sobie płaszcz. Kiedy jednak szalik zsunął się z jej szyi, a James zaczął składać na niej pocałunki, zaskoczona zachichotała i odruchowo przyciągnęła ramiona do siebie.
+
+— James! — Roześmiała się, przekręcając głowę. — Łaskoczesz!
+
+Ginny, która obserwowała wszystko z boku, parsknęła śmiechem.
+
+— Hermiono, chyba naprawdę bardzo za tobą tęsknił.
+
+— Zauważyłam! — odpowiedziała Hermiona, z trudem zachowując powagę.
+
+Ron wymamrotał coś pod nosem, zarzucił torbę na ramię i spojrzał na Harry'ego.
+
+— Chodźmy. Ja naprawdę jestem głodny.
+
+— Zaraz do was dołączę — powiedziała Hermiona, nawet się nie odwracając.
+
+Ginny posłała jej porozumiewawczy uśmiech i ruszyła za chłopakami w stronę Wielkiej Sali.
+
+Hermiona zaczekała, aż oddalą się o kilka kroków, po czym odwróciła się do Jamesa i położyła dłonie na jego ramionach.
+
+— Wiesz, że jesteśmy na środku głównego holu? — zauważyła, uśmiechając się mimo zaróżowionych policzków.
+
+Poprawiła kosmyk włosów, który opadł jej na oczy.
+
+— Chociaż... — Przysunęła się i pocałowała go krótko w usta. — Ja też strasznie za tobą tęskniłam.
+
+Po chwili spojrzała na niego uważniej.
+
+— A tak właściwie... długo na mnie czekałeś?
+
+[C15-M0033]
+===== USER =====
+
+nie odpowiedziałem tylko zamiast tego złapałem ją za policzki połączyłem nasze usta w bardzo długim pocałunku jednocześnie zacząłem szeptać do jej ust 
+Od piątej.....
+
+[C15-M0034]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 13:45
+Hogwart, główny hol
+
+Hermiona odwzajemniła pocałunek, obejmując Jamesa za szyję. Dopiero kiedy dotarły do niej wyszeptane słowa, otworzyła szerzej oczy.
+
+Odsunęła usta zaledwie o kilka centymetrów.
+
+— Od... piątej? — powtórzyła niedowierzająco.
+
+Przez moment patrzyła na niego w milczeniu.
+
+— Piątej rano?!
+
+Jej brwi powędrowały wysoko.
+
+— James, jest prawie druga po południu!
+
+Spojrzała na wielki zegar wiszący nad schodami, jakby chciała się upewnić, że dobrze zrozumiała.
+
+— Ty naprawdę stałeś tutaj przez prawie dziewięć godzin?!
+
+Na jej twarzy mieszały się zdumienie, rozbawienie i wyraźna troska.
+
+— Och, ty wariacie... — westchnęła.
+
+Przesunęła dłonie z jego ramion na policzki i pocałowała go czule.
+
+— To naprawdę słodkie, że tak bardzo chciałeś mnie zobaczyć — przyznała ciszej. — Ale mogłeś przecież przyjść później. Albo chociaż usiąść gdzieś z książką!
+
+Przyjrzała mu się uważnie.
+
+— I tylko mi nie mów, że przez cały ten czas nic nie jadłeś.
+
+Zmarszczyła brwi, po czym dodała z charakterystyczną dla siebie stanowczością:
+
+— Bo jeśli tak, to zaraz idziemy coś zjeść. I nie próbuj mnie zagadać kolejnym pocałunkiem, Brown!
+
+Mimo tych słów na jej ustach wciąż błąkał się szczęśliwy uśmiech.
+
+[C15-M0035]
+===== USER =====
+
+ja znowu mocniej ją do siebie przyciągnąłem i połączyłem nasze usta w bardzo długim pocałunku którego nie chciałem przerywać
+
+[C15-M0036]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 13:50
+Hogwart, główny hol
+
+Hermiona wydała z siebie cichy, zaskoczony pomruk, kiedy James ponownie przyciągnął ją do siebie.
+
+Przez moment próbowała jeszcze coś powiedzieć, ale szybko zrezygnowała. Zamknęła oczy, objęła go za szyję i odwzajemniła długi pocałunek.
+
+Jedna z jej dłoni przesunęła się na jego policzek.
+
+Kiedy wreszcie spróbowała się odsunąć, na jej ustach pojawił się szeroki uśmiech.
+
+— Miałeś mnie nie zagadywać pocałunkami! — przypomniała ze śmiechem. — To nieuczciwe!
+
+Jeszcze przez chwilę pozostała blisko niego, po czym oparła czoło o jego czoło.
+
+— Naprawdę się za tobą stęskniłam — szepnęła.
+
+Nagle z kierunku schodów dobiegło znaczące chrząknięcie.
+
+— Panno Granger.
+
+Hermiona natychmiast odwróciła głowę.
+
+Kilka kroków dalej stała profesor McGonagall, trzymając pod pachą zwój pergaminów. Jej spojrzenie przesunęło się z Hermiony na Jamesa.
+
+— Miło widzieć panią z powrotem w Hogwarcie — powiedziała sucho. — Jednak główny hol służy również do przemieszczania się między piętrami.
+
+Hermiona zaczerwieniła się po uszy.
+
+— P-przepraszam, pani profesor!
+
+Kącik ust McGonagall drgnął niemal niedostrzegalnie.
+
+— Proszę tylko pamiętać, że nie są państwo tutaj sami.
+
+Profesorka ruszyła dalej.
+
+Hermiona odprowadziła ją wzrokiem, a następnie spojrzała na Jamesa.
+
+— No pięknie! — szepnęła, po czym parsknęła śmiechem. — Nie minęło nawet pół godziny od mojego powrotu, a już muszę przepraszać McGonagall!
+
+Poklepała go lekko w pierś.
+
+— I teraz naprawdę chcę coś zjeść. Jestem strasznie głodna po podróży.
+
+Przechyliła głowę i uśmiechnęła się zaczepnie.
+
+— Chyba że zamierzasz mnie tutaj całować aż do kolacji?
+
+[C15-M0037]
+===== USER =====
+
+chciałabym ale nie chcę żeby moja ukochana przyszła żona Hermiona była głodna..powiedziałem i wziąłem ją na ręce i poniosłem w stronę wielkiej Sali
+
+[C15-M0038]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 13:50
+Hogwart, droga do Wielkiej Sali
+
+— James! — Hermiona pisnęła z zaskoczenia, kiedy znalazła się na jego rękach, ale niemal natychmiast roześmiała się i objęła go za szyję.
+
+— Och, oczywiście! Mogłam się domyślić, że tak się to skończy!
+
+Poprawiła się wygodniej w jego ramionach. Po tylu podobnych sytuacjach noszenie przez Jamesa nie było dla niej niczym nowym.
+
+— A co do tej przyszłej żony... — zaczęła, unosząc brwi. — Bardzo pewny siebie jesteś, panie Brown. Nawet mnie jeszcze nie zapytałeś!
+
+Uśmiechnęła się zaczepnie.
+
+— Chociaż muszę przyznać, że przynajmniej pamiętasz o karmieniu swojej potencjalnej przyszłej żony. To już jakiś początek.
+
+Pochyliła się i cmoknęła go w policzek.
+
+Kiedy dotarli do wejścia do Wielkiej Sali, Hermiona zerknęła do środka. Przy stole Gryffindoru siedzieli już Harry, Ron i Ginny.
+
+Ginny dostrzegła ich pierwsza.
+
+— Harry, spójrz! — zawołała, wybuchając śmiechem. — A nie mówiłam?!
+
+Harry odwrócił głowę i uśmiechnął się pod nosem.
+
+Ron natomiast spojrzał na nich znad talerza.
+
+— Serio? Znowu? — mruknął. — Granger, ty jeszcze pamiętasz, jak się chodzi?
+
+Hermiona przewróciła oczami.
+
+— Bardzo zabawne, Ron. Oczywiście, że pamiętam. James już nieraz mnie nosił, więc nie wiem, dlaczego ciągle was to dziwi!
+
+Po czym zwróciła się do Jamesa, lekko ścisnęła jego ramię i uśmiechnęła się.
+
+— A teraz, mój kochany, możesz mnie postawić. Chciałabym zjeść obiad, zanim Ron zdąży zjeść również moją porcję!
+
+— Słyszałem! — oburzył się Ron.
+
+— Wiem! — odparła Hermiona z szerokim uśmiechem.
+
+[C15-M0039]
+===== USER =====
+
+odstawiłem Hermionę na ziemię a potem zająłem miejsce obok niej a potem spojrzałem na Rona gniewnym spojrzeniem..
+-W mojej obecności pamiętaj że Hermiona ma imię....
+
+[C15-M0040]
+===== ASSISTANT =====
+
+[Fragment pominięty w wersji do udostępniania: seksualny kontekst dotyczący osób niepełnoletnich. Dokładny tekst pozostaje w osobnym prywatnym oryginale C15.]
+
+[C15-M0041]
+===== USER =====
+
+Westchnąłem i nic nie odpowiedziałem zamiast tego przysunąłem usta do ucha Hermiony i zacząłem szeptać - A czy był od ciebie pięć metrów?
+
+[C15-M0042]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 13:55
+Wielka Sala, stół Gryffindoru
+
+Hermiona odwróciła lekko głowę, żeby lepiej usłyszeć szept Jamesa.
+
+— Nie, oczywiście, że nie — odpowiedziała równie cicho, zerkając na Rona, który siedział tuż obok.
+
+Po chwili spojrzała ponownie na Jamesa. Zmarszczyła brwi, najwyraźniej rozpoznając, do czego zmierzał.
+
+— James, przecież już o tym rozmawialiśmy. Nawet w liście ci pisałam, że nie zamierzam kazać Ronowi trzymać się pięć metrów ode mnie.
+
+Westchnęła, odsuwając z twarzy niesforny lok.
+
+— Jest moim przyjacielem. A to, że czasami zachowuje się jak kompletny dureń, nie oznacza, że przestanę z nim rozmawiać.
+
+Przez moment przyglądała się Jamesowi, po czym ściszyła głos jeszcze bardziej.
+
+— I nie patrz tak na mnie. Wcale nie bronię jego głupich komentarzy.
+
+Pod stołem odnalazła jego dłoń i splotła z nią palce.
+
+— Dopiero wróciłam, James... — dodała łagodniej, choć wciąż z nutą irytacji. — Naprawdę nie chciałabym spędzić naszego pierwszego wspólnego obiadu na kłótni o Rona.
+
+Ron, zajęty rozmową z Harrym, nie usłyszał ich szeptów.
+
+Hermiona zerknęła na swój talerz, a potem znów na Jamesa.
+
+— Możemy już zjeść? — zapytała, unosząc lekko brwi. — Bo jestem głodna. I nadal bardzo się cieszę, że cię widzę, nawet jeśli potrafisz być okropnie uparty.
+
+[C15-M0043]
+===== USER =====
+
+lekko się uśmiechnąłem i pocałowałem ją w policzek a potem nałożyłem sobie trochę jedzenia i zacząłem jeść
+
+[C15-M0044]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 14:00
+Wielka Sala, stół Gryffindoru
+
+Hermiona uśmiechnęła się, kiedy James pocałował ją w policzek.
+
+— No, nareszcie — mruknęła z zadowoleniem i sama zabrała się za jedzenie.
+
+Pod stołem jej kolano pozostało oparte o nogę Jamesa.
+
+— Czyli jednak potraficie wytrzymać pięć minut bez kłótni — zauważyła Ginny, nakładając sobie kolejną porcję ziemniaków.
+
+— Nie prowokuj — odpowiedział Harry z lekkim uśmiechem.
+
+Ron prychnął, ale tym razem nic nie powiedział. Zamiast tego zajął się swoim talerzem.
+
+Przez kilka minut przy stole panował względny spokój. Hermiona jadła z wyraźnym apetytem, od czasu do czasu zerkając na Jamesa.
+
+— A właśnie! — odezwała się nagle, odkładając widelec. — Przypomniałam sobie coś z twoich listów.
+
+Odwróciła się do niego z ożywieniem.
+
+— Pisałeś o Orli Quirke. Tej dziewczynce, z którą zremisowałeś w szachach. Naprawdę chciałabym ją poznać.
+
+— Zremisowałeś? — Ron podniósł głowę, tym razem autentycznie zainteresowany. — Z drugoklasistką?
+
+— Ron, sam jesteś świetny w szachach. Powinieneś wiedzieć, że wiek nie ma tu aż takiego znaczenia — zauważyła Hermiona.
+
+— Wiem przecież! Po prostu jestem ciekawy.
+
+Hermiona spojrzała na niego podejrzliwie, ale Ron wzruszył ramionami i wrócił do jedzenia.
+
+— W każdym razie — podjęła, zwracając się znów do Jamesa — obiecałam sobie, że zagram z nią, kiedy wrócę.
+
+Uśmiechnęła się.
+
+— I chciałabym też zobaczyć ten wasz wspólny stół. Brzmiało to naprawdę sympatycznie.
+
+[C15-M0045]
+===== USER =====
+
+$Wyszukiwanie w sieci $Github
+Będziesz mieć najprawdopodobniej dzisiaj okazję....
+
+[C15-M0046]
+===== ASSISTANT =====
+
+[Fragment pominięty w wersji do udostępniania: seksualny kontekst dotyczący osób niepełnoletnich. Dokładny tekst pozostaje w osobnym prywatnym oryginale C15.]
+
+[C15-M0047]
+===== USER =====
+
+$Wyszukiwanie w sieci $Github
+ja też ścisnąłem jej dłoń..... -Tylko Troche?
+
+[C15-M0048]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 14:05
+Wielka Sala, stół Gryffindoru
+
+Hermiona zerknęła na Jamesa i zachichotała.
+
+— Och, wiedziałam, że się do tego przyczepisz!
+
+Odłożyła widelec i obróciła się nieco bardziej w jego stronę.
+
+— Dobrze, panie Brown. Dużo czasu. Bardzo dużo. Lepiej?
+
+Uśmiechnęła się szeroko, po czym pochyliła się i pocałowała go w policzek.
+
+— Ale muszę też rozpakować rzeczy i porozmawiać z Ginny. Nie zamierzam przecież spędzić całego semestru na twoich kolanach!
+
+— Och, jaka szkoda! — odezwała się Ginny z udawanym współczuciem.
+
+— Ginny! — Hermiona rzuciła w nią serwetką, chybiając o dobre pół metra.
+
+Obie dziewczyny wybuchnęły śmiechem.
+
+Hermiona ponownie zwróciła się do Jamesa.
+
+— A poza tym... — ściszyła głos, uśmiechając się odrobinę tajemniczo. — Pamiętasz chyba, że obiecałam ci randkę? Nadal zamierzam dotrzymać słowa.
+
+Przesunęła kciukiem po jego dłoni.
+
+— Tylko nie próbuj wyciągnąć ze mnie szczegółów. Jeszcze nie wszystko przygotowałam.
+
+Po chwili dodała z przekornym uśmiechem:
+
+— I jeśli będziesz grzeczny, może nawet dostaniesz dzisiaj więcej niż trochę mojego czasu.
+
+[C15-M0049]
+===== USER =====
+
+$Wyszukiwanie w sieci $Github
+odpowiedziałem szeptem 
+Bardzo się cieszę na samą myśl o tej randce i
+-Będę bardzo grzeczny dla mojej Ukochanej ale dla tego rudego podstępnego..d..... człowieka...nie
+
+[C15-M0050]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 14:10
+Wielka Sala, stół Gryffindoru
+
+Hermiona początkowo uśmiechnęła się szeroko, słysząc pierwszą część szeptu. Jednak przy kolejnych słowach jej uśmiech zniknął, a brwi powędrowały wysoko.
+
+— James! — szepnęła z oburzeniem, choć ledwie powstrzymywała rozbawienie. — Słyszałam, co chciałeś powiedzieć!
+
+Zerknęła na Rona, który właśnie rozmawiał z Harrym i najwyraźniej niczego nie usłyszał.
+
+— I przestań go tak nazywać! — dodała, lekko szturchając Jamesa łokciem. — Możesz go nie lubić, ale jest moim przyjacielem.
+
+Przez chwilę patrzyła na niego z udawaną surowością, aż w końcu westchnęła.
+
+— Merlinie, wy dwaj jesteście czasami nie do zniesienia...
+
+Jednak nie puściła jego dłoni. Przeciwnie, przysunęła się trochę bliżej.
+
+— A jeśli chodzi o randkę... — szepnęła, odzyskując figlarny uśmiech. — Bardzo mi miło, że tak się na nią cieszysz. Ja też.
+
+Pocałowała go krótko w policzek.
+
+— Tylko błagam, nie pokłóć się z Ronem, zanim skończymy obiad. Chciałabym jeszcze dzisiaj trochę się z tobą nacieszyć.
+
+Po chwili zerknęła na jego talerz.
+
+— A ty właściwie jadłeś coś przed moim powrotem? Bo coś mi mówi, że przez te dziewięć godzin pod drzwiami nawet o tym nie pomyślałeś.
+
+[C15-M0051]
+===== USER =====
+
+Nie jadłem.....
+
+[C15-M0052]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 14:10
+Wielka Sala, stół Gryffindoru
+
+Hermiona znieruchomiała z widelcem w dłoni.
+
+— Wiedziałam! — oznajmiła, odkładając sztućce. — Dziewięć godzin czekania, bez śniadania! James!
+
+Spojrzała na jego talerz, po czym przysunęła bliżej półmisek z pieczonymi ziemniakami.
+
+— Mam nadzieję, że przynajmniej teraz porządnie zjesz.
+
+— Brzmisz jak moja mama — zauważył Ron znad swojego talerza.
+
+— Bo najwyraźniej ktoś tutaj musi mieć trochę rozsądku! — odparła Hermiona.
+
+Harry parsknął śmiechem.
+
+— Z tym akurat trudno się kłócić.
+
+Hermiona pokręciła głową, ale kiedy ponownie spojrzała na Jamesa, jej mina złagodniała.
+
+— Wiesz, że nie musisz robić takich rzeczy, żeby pokazać mi, jak bardzo za mną tęsknisz? — powiedziała ciszej, tak żeby tylko on ją usłyszał.
+
+Delikatnie pogładziła kciukiem wierzch jego dłoni.
+
+— Bardzo się cieszę, że na mnie czekałeś. Naprawdę. Ale wolałabym, żeby mój chłopak nie głodował z mojego powodu.
+
+Pochyliła się i pocałowała go w policzek.
+
+— A teraz jedz, uparciuchu — dodała z ciepłym uśmiechem, po czym sama sięgnęła po widelec.
+
+[C15-M0053]
+===== USER =====
+
+usmiechnąłem się i rzeczywiście znowu nałożyłem sobie trochę jedzenia i zacząłem jeść
+
+[C15-M0054]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 14:15
+Wielka Sala, stół Gryffindoru
+
+Hermiona spojrzała z zadowoleniem na talerz Jamesa.
+
+— No i bardzo dobrze — powiedziała, uśmiechając się. — Wiedziałam, że w końcu mnie posłuchasz.
+
+— Zapiszcie datę — mruknął Ron. — Brown posłuchał Hermiony.
+
+— Ronaldzie! — Hermiona rzuciła mu zirytowane spojrzenie.
+
+— Co? Tym razem to był komplement!
+
+Ginny roześmiała się, a Harry pokręcił głową z rozbawieniem.
+
+— Naprawdę niczego się nie nauczyłeś przez te święta, Ron.
+
+— Nauczyłem się, że w naszym domu też można się porządnie najeść, jeśli bliźniacy nie dotrą pierwsi do stołu.
+
+— Och, właśnie! — Ginny odłożyła widelec. — Hermiono, musisz mi potem przypomnieć o tej rzeczy, którą mama kazała nam przekazać McGonagall.
+
+— Dobrze — odpowiedziała Hermiona. — Tylko najpierw chciałabym skończyć obiad.
+
+Przez chwilę cała czwórka zajęła się jedzeniem.
+
+W końcu Hermiona pochyliła się nieco ku Jamesowi.
+
+— A tak właściwie... — zaczęła ciszej. — Co robiłeś przez ostatnie dni? Po twoim liście z Bożego Narodzenia nie dostałam już żadnego nowego.
+
+Spojrzała na niego z zaciekawieniem.
+
+— Nadal spotykałeś się z Grahamem, Orlą i resztą? Jak wam minął Sylwester?
+
+[C15-M0055]
+===== USER =====
+
+-Bardzo tęskniłem....ale tak na przyszłość....sama też możesz napisać....bo jak ja tylko piszę to wydaje mi się że bardzo ci przeszkadzam.....
+
+[C15-M0056]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 14:20
+Wielka Sala, stół Gryffindoru
+
+Hermiona przestała jeść. Spojrzała na Jamesa z lekkim zaskoczeniem.
+
+— James, przecież napisałam do ciebie w Boże Narodzenie — przypomniała, marszcząc brwi.
+
+Już miała wrócić do obiadu, ale zawahała się.
+
+— No dobrze... później rzeczywiście nie pisałam zbyt wiele — przyznała niechętnie. — Było trochę zamieszania z panem Weasleyem, a potem...
+
+Urwała i westchnęła.
+
+— Och, właściwie to nie jest żadna wymówka. Mogłam przecież znaleźć chwilę.
+
+Przez moment przyglądała mu się uważnie.
+
+— Ale dlaczego miałbyś mi przeszkadzać? — zapytała ciszej, wyraźnie dotknięta tą sugestią. — James, ja naprawdę lubię dostawać twoje listy! Zawsze się cieszę, kiedy widzę twoją sowę.
+
+Odruchowo poprawiła włosy za uchem.
+
+— Po prostu... chyba przyzwyczaiłam się, że pierwszy piszesz ty — przyznała z odrobiną zakłopotania. — To trochę niesprawiedliwe z mojej strony.
+
+Sięgnęła pod stół i odnalazła jego dłoń.
+
+— Przepraszam. Następnym razem sama częściej napiszę. Ale ty też nie zakładaj od razu, że mi przeszkadzasz, dobrze?
+
+Uśmiechnęła się nieśmiało.
+
+— Tęskniłam za tobą, głuptasie. Bardzo. I wcale nie tylko wtedy, kiedy przychodził list.
+
+Z drugiej strony stołu dobiegł śmiech Ginny, która właśnie opowiadała coś Harry'emu. Hermiona nawet się nie obejrzała.
+
+— A poza tym — dodała, odzyskując nieco swojej zwykłej przekory — skoro już jesteśmy razem, możesz mi powiedzieć wprost, kiedy coś cię gryzie. Nie muszę przecież wszystkiego sama odgadywać.
+
+Delikatnie ścisnęła jego palce.
+
+[C15-M0057]
+===== USER =====
+
+$Wyszukiwanie w sieci $Github
+Jestem bardzo zazdrosny o Rona ....powiedziałem cicho
+
+[C15-M0058]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 14:20
+Wielka Sala, stół Gryffindoru
+
+Hermiona westchnęła cicho. Przez chwilę patrzyła na Jamesa, nie wypuszczając jego dłoni.
+
+— Wiem, James... — odpowiedziała szeptem. — Przecież już o tym rozmawialiśmy.
+
+Zerknęła na Rona, który właśnie śmiał się z czegoś, co powiedział Harry.
+
+— I wiem, że te święta były dla ciebie trudne. Zwłaszcza kiedy ja byłam tam, a ty zostałeś tutaj.
+
+Przygryzła lekko dolną wargę.
+
+— Ale nie chciałam cię zranić. Pan Weasley trafił do szpitala, Harry bardzo się martwił... Nie mogłam po prostu udawać, że nic się nie stało.
+
+Spojrzała mu prosto w oczy.
+
+— Kocham cię. Naprawdę. I chcę być z tobą. Ale Ron jest moim przyjacielem od pięciu lat, James. Nie przestanę się z nim przyjaźnić.
+
+Powiedziała to spokojnie, choć w jej głosie pojawiła się odrobina stanowczości.
+
+— Zresztą... — dodała po chwili, lekko marszcząc nos. — Czasami sama mam go serdecznie dosyć. Wiesz przecież, jaki potrafi być.
+
+Uśmiechnęła się słabo.
+
+— A z tymi listami rzeczywiście mogłam się bardziej postarać. Przeprosiłam cię i mówiłam poważnie.
+
+Przesunęła kciukiem po jego dłoni.
+
+— Tylko nie chcę, żebyś za każdym razem, kiedy rozmawiam z Ronem, myślał, że wolę jego od ciebie.
+
+Przysunęła się odrobinę bliżej.
+
+— I chciałabym, żebyśmy wreszcie mogli spędzić razem trochę czasu bez kłótni. Tak po prostu, jak przed świętami.
+
+Zawahała się, po czym spytała cicho:
+
+— Nadal jesteś na mnie zły za ten wyjazd?
+
+Harry, Ron i Ginny byli zajęci własną rozmową i nie słyszeli szeptów pary.
+
+[C15-M0059]
+===== USER =====
+
+$Wyszukiwanie w sieci $Github
+-Troche... .a byłaś chociaż metr od niego? spytałem szeptem nocnej ściskając jej dłoń
+
+[C15-M0060]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 14:20
+Wielka Sala, stół Gryffindoru
+
+Hermiona zamrugała, jakby nie była pewna, czy dobrze usłyszała.
+
+— Metr? — powtórzyła szeptem.
+
+Przez chwilę patrzyła na Jamesa z niedowierzaniem, po czym zmarszczyła brwi.
+
+— James, chyba żartujesz!
+
+Zerknęła w stronę Rona, a potem ponownie nachyliła się do Jamesa.
+
+— Nie, nie trzymałam się od niego metr przez całe święta! Przecież siedzieliśmy razem przy stole, rozmawialiśmy... Oczywiście, że czasami był bliżej!
+
+W jej głosie pojawiła się wyraźna irytacja.
+
+— I co miałam zrobić? Odsuwać krzesło za każdym razem, kiedy Ron siadał obok? Albo uciekać, gdy podchodził ze mną porozmawiać?
+
+Westchnęła, odgarniając włosy z twarzy.
+
+— Merlinie, James...
+
+Spojrzała na ich splecione dłonie. Nie zabrała swojej, choć przestała się uśmiechać.
+
+— Rozumiem, że jesteś zazdrosny. Naprawdę. Ale nie zrobiłam nic złego i nie chcę się czuć tak, jakbym musiała się tłumaczyć z każdego kroku.
+
+Na chwilę zamilkła.
+
+— Przecież to ciebie kocham, głuptasie — dodała nieco łagodniej. — Myślałam, że przynajmniej co do tego nie masz już wątpliwości.
+
+Przygryzła wargę, a potem spojrzała mu prosto w oczy.
+
+— Ale powiedz mi coś, James... — zaczęła, po czym urwała i pokręciła głową. — Nie, właściwie nie. Nie chcę się teraz kłócić.
+
+Przesunęła palcami po jego dłoni.
+
+— Po prostu mi zaufaj. Proszę.
+
+[C15-M0061]
+===== USER =====
+
+$Wyszukiwanie w sieci $Github Pokiwałem głową i wróciłem do jedzenia z lekko smutną miną
+
+[C15-M0062]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 14:25
+Wielka Sala, stół Gryffindoru
+
+Hermiona przez chwilę obserwowała Jamesa. Kiedy zauważyła jego przygaszoną minę, sama straciła nieco apetyt.
+
+Westchnęła cicho i wróciła do swojego talerza, ale już po kilku sekundach odłożyła widelec.
+
+— Och, James... — szepnęła.
+
+Przysunęła się trochę bliżej i delikatnie oparła głowę o jego ramię.
+
+— Nie chciałam cię zasmucić.
+
+Przez moment milczała, bawiąc się palcami jego dłoni.
+
+— Tylko czasami strasznie mnie denerwujesz, wiesz? — mruknęła, ale w jej głosie nie było już złości. — Zwłaszcza kiedy zaczynasz z tymi odległościami.
+
+Uniosła głowę i spojrzała na niego.
+
+— Ale nadal cię kocham. Nawet kiedy jesteś okropnie uparty.
+
+Na jej twarzy pojawił się niewielki uśmiech.
+
+— I naprawdę chciałam, żeby dzisiejszy dzień był fajny. Tak bardzo czekałam, aż znowu cię zobaczę...
+
+Pocałowała go delikatnie w policzek.
+
+Tymczasem Ginny roześmiała się z czegoś, co powiedział Harry. Ron właśnie kończył swoją porcję ziemniaków.
+
+Hermiona zerknęła na przyjaciół, a następnie ponownie pochyliła się do ucha Jamesa.
+
+— Wiesz co? — szepnęła. — Po obiedzie chciałabym pobyć z tobą sam na sam. Chociaż przez chwilę, zanim zajmę się kufrem i całą resztą.
+
+Uśmiechnęła się trochę szerzej.
+
+— Brakowało mi przytulania się do ciebie bez konieczności pisania o tym na pergaminie.
+
+Pozostała blisko, nie zabierając swojej dłoni z jego ręki.
+
+[C15-M0063]
+===== USER =====
+
+$Wyszukiwanie w sieci $Github
+kiwnąłem tylko głową lekkim uśmiechem
+
+[C15-M0064]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 14:25
+Wielka Sala, stół Gryffindoru
+
+Hermiona odwzajemniła uśmiech i na chwilę oparła policzek o ramię Jamesa.
+
+— No, i takiego cię wolę — szepnęła, po czym wróciła do swojego obiadu.
+
+Po kilku minutach odłożyła sztućce i sięgnęła po serwetkę.
+
+— Nareszcie! — westchnął Ron, odsuwając pusty talerz. — Myślałem, że nigdy nie skończymy jeść.
+
+— Nikt ci nie kazał na nas czekać — zauważyła Ginny.
+
+— Chciałem być uprzejmy!
+
+Harry parsknął śmiechem.
+
+— To ci dzisiaj wyjątkowo kiepsko wychodzi.
+
+— Dzięki, Harry.
+
+Hermiona przewróciła oczami, ale tym razem również się uśmiechnęła.
+
+— Słuchajcie, ja pójdę później do dormitorium rozpakować rzeczy — oznajmiła. — Ginny, mogłabyś zabrać moją torbę, jeśli będziesz szła na górę?
+
+— Jasne — odpowiedziała Ginny, zerkając na Jamesa z rozbawieniem. — Domyślam się, że masz inne plany.
+
+— Ginny! — Hermiona zarumieniła się lekko. — Chcę po prostu pobyć z Jamesem!
+
+— Przecież nic nie powiedziałam!
+
+Hermiona pokręciła głową, po czym ponownie zwróciła się do Jamesa.
+
+— Chodźmy gdzieś, gdzie będzie trochę ciszej — zaproponowała ciepło. — Mam ci tyle do opowiedzenia.
+
+Po chwili jej oczy błysnęły znajomą przekorą.
+
+— I może wreszcie uda mi się cię przytulić bez komentarza któregoś z tych trzech dowcipnisiów.
+
+— Słyszałem! — odezwał się Harry.
+
+— Miałeś usłyszeć! — odparła Hermiona, śmiejąc się.
+
+Ponownie spojrzała na Jamesa, czekając na jego odpowiedź.
+
+[C15-M0065]
+===== USER =====
+
+ponownie tylko kiwnąlem głową i wstałem z miejsca
+
+[C15-M0066]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 14:30
+Hogwart, Wielka Sala
+
+Hermiona podniosła się zaraz po Jamesie, poprawiając spódnicę i przewieszając przez ramię niewielką torebkę.
+
+— Do zobaczenia później! — rzuciła do przyjaciół.
+
+— Tylko nie zapomnij o tej książce! — przypomniała Ginny.
+
+— Nie zapomnę!
+
+Ron skinął jej głową i wrócił do rozmowy z Harrym.
+
+Kiedy wyszli z Wielkiej Sali, Hermiona odetchnęła z wyraźną ulgą. Na korytarzu było znacznie ciszej.
+
+Przez chwilę szła obok Jamesa, a potem wsunęła dłoń w jego rękę.
+
+— Wreszcie trochę spokoju — mruknęła z uśmiechem.
+
+Zerknęła na niego z ukosa.
+
+— Jesteś dzisiaj jakiś wyjątkowo małomówny.
+
+Nie zabrzmiało to jak wyrzut. Hermiona przyjrzała mu się przez moment, po czym delikatnie ścisnęła jego palce.
+
+— Chciałabym pójść do naszego ulubionego miejsca na siódmym piętrze — powiedziała. — Dawno tam nie byliśmy.
+
+Uśmiechnęła się odrobinę szerzej.
+
+— I tym razem nie mam zamiaru od razu wyciągać podręczników. Możesz to uznać za wyjątkową okazję.
+
+Ruszyła powoli w stronę marmurowych schodów, nadal trzymając Jamesa za rękę.
+
+[C15-M0067]
+===== USER =====
+
+znowu tylko kiwnąłem głową
+
+[C15-M0068]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 14:30
+Hogwart, marmurowe schody
+
+Hermiona zerknęła na Jamesa, a kiedy zobaczyła kolejne kiwnięcie głową, zwolniła i w końcu zatrzymała się na pierwszym stopniu.
+
+— James... — odezwała się, odwracając się do niego. — Ty naprawdę zamierzasz teraz tylko kiwać głową?
+
+Próbowała się uśmiechnąć, ale szybko spoważniała.
+
+— Och, nie lubię, kiedy tak milczysz.
+
+Zeszła z powrotem ze stopnia i stanęła przed nim, nadal trzymając jego dłoń.
+
+— Wiem, że jesteś zazdrosny o Rona. I wiem, że nie wszystko między nami jest teraz idealnie. Ale przecież dopiero co wróciłam...
+
+Przez chwilę przyglądała mu się uważnie.
+
+— Chciałam ci opowiedzieć o świętach, posłuchać, co robiłeś, i wreszcie spędzić z tobą trochę czasu. A teraz mam wrażenie, że boisz się cokolwiek powiedzieć, bo znowu się pokłócimy.
+
+Westchnęła, po czym lekko pociągnęła go za rękę.
+
+— No chodź, głuptasie. — Tym razem uśmiechnęła się cieplej. — Możemy po prostu posiedzieć razem. Nie musimy od razu wszystkiego rozwiązywać.
+
+Po chwili dodała ciszej:
+
+— Ale chciałabym jeszcze dzisiaj usłyszeć twój głos. I to nie tylko wtedy, kiedy będziesz narzekał na Rona.
+
+W jej oczach pojawił się figlarny błysk. Czekała przy schodach, nie puszczając jego dłoni.
+
+[C15-M0069]
+===== USER =====
+
+$Wyszukiwanie w sieci $Github
+przytuliłem ją i szepnąłem jej do ucha - W pokoju życzeń najpierw przyjemna rzecz a potem poważna....
+
+[C15-M0070]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 14:35
+Hogwart, marmurowe schody
+
+Hermiona odwzajemniła uścisk, obejmując Jamesa mocniej za plecy. Kiedy usłyszała jego szept, uśmiechnęła się.
+
+— Najpierw przyjemna, tak? — powtórzyła cicho, a w jej oczach pojawił się figlarny błysk. — Ciekawe, co też wymyśliłeś, panie Brown...
+
+Pocałowała go w policzek, po czym odsunęła głowę, żeby spojrzeć mu w oczy.
+
+— Zgoda. Ale nie myśl sobie, że kilkoma pocałunkami sprawisz, że zapomnę o tej poważnej rozmowie!
+
+Pogroziła mu żartobliwie palcem.
+
+Po chwili jej uśmiech nieco złagodniał.
+
+— Chociaż... — mruknęła i ponownie wtuliła się w niego. — Prawdę mówiąc, najchętniej po prostu przytuliłabym się do ciebie na naszej kanapie. Strasznie mi tego brakowało.
+
+Przez kilka sekund trwała w objęciach Jamesa, nie przejmując się przechodzącymi po schodach uczniami.
+
+Wreszcie odsunęła się odrobinę i wyciągnęła do niego rękę.
+
+— No chodź! — powiedziała z uśmiechem. — Zanim ktoś postanowi nam przeszkodzić.
+
+Ruszyła ku schodom, lecz po chwili obejrzała się przez ramię.
+
+— I mam nadzieję, że Pokój Życzeń pamięta, jak wygodna była tamta kanapa!
+
+[C15-M0071]
+===== USER =====
+
+ruszyłem za nią
+
+[C15-M0072]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 14:45
+Hogwart, siódme piętro
+
+Hermiona prowadziła Jamesa schodami, trzymając go za rękę. Po drodze opowiadała coś o wyjątkowo niewygodnej podróży powrotnej, ale kiedy dotarli na siódme piętro, urwała.
+
+— No dobrze... — mruknęła z uśmiechem, zatrzymując się przed gobelinem przedstawiającym Barnabasza Bzika próbującego nauczyć trolle baletu. — Zobaczymy, czy dostaniemy naszą kanapę.
+
+Przeszła trzykrotnie wzdłuż pustej ściany, wyraźnie skupiona.
+
+Po chwili w kamieniu pojawiły się znajome drzwi.
+
+— Ha! Wiedziałam!
+
+Hermiona nacisnęła klamkę i zajrzała do środka.
+
+Za drzwiami znajdował się przytulny salon, bardzo podobny do tych, w których spędzali razem tyle czasu. W kominku trzaskał ogień, na regałach stały książki, a przed kominkiem czekała duża, miękka kanapa z kilkoma poduszkami i ciepłym kocem.
+
+Przez wysokie okna wpadało zimowe światło. Na niewielkim stoliku stał dzbanek herbaty i dwie filiżanki.
+
+— Och, idealnie! — Hermiona rozpromieniła się.
+
+Weszła do środka, zdjęła buty i odłożyła torebkę na fotel.
+
+Następnie usiadła na kanapie, podwinęła pod siebie nogi i wyciągnęła ręce w stronę Jamesa.
+
+— No chodź tutaj, ty mój nieznośny Ślizgonie!
+
+Uśmiechnęła się szeroko.
+
+— Trzy tygodnie czekałam, żeby znowu móc się do ciebie tak przytulić. I tym razem nie zamierzam pozwolić, żeby jakiś Ronald Weasley mi przeszkadzał!
+
+Poklepała miejsce obok siebie, po czym dodała z udawaną powagą:
+
+— A książki mogą poczekać. Przynajmniej godzinę.
+
+[C15-M0073]
+===== USER =====
+
+$Wyszukiwanie w sieci $Github
+wszedłem za nią i też zdjąłem buty a potem kucnąłem przed nią i wysunąłem pudełko w jej stronę 
+prezent na święta.... chciałem ci vo dać osobiście....
+
+[C15-M0074]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 14:50
+Pokój Życzeń, siódme piętro
+
+Hermiona spojrzała na Jamesa, a potem na granatową szkatułkę, którą trzymał przed nią.
+
+— James... — zaczęła zaskoczona. — Ty naprawdę czekałeś z prezentem aż do mojego powrotu?
+
+Na jej twarzy pojawił się szeroki uśmiech.
+
+— Och, mogłeś mi przecież wysłać go sową!
+
+Mimo tych słów ostrożnie przyjęła szkatułkę. Położyła ją na kolanach i powoli uniosła wieczko.
+
+— Ojej...
+
+W środku spoczywały dwa przedmioty.
+
+Pierwszym była delikatna srebrna broszka w kształcie róży. Hermiona ostrożnie wyjęła ją z miękkiego wyściełania i przyjrzała się misternie wykonanym płatkom.
+
+— Jest śliczna! — powiedziała z zachwytem.
+
+Kiedy odkryła, że broszka została zaczarowana, by odtwarzać Walca nr 2 Szostakowicza, jej oczy rozszerzyły się.
+
+— James! Przecież to nasz walc!
+
+Roześmiała się radośnie, przypominając sobie wieczór, kiedy muzyka rozbrzmiewała na zamkowych korytarzach.
+
+— Naprawdę to pamiętałeś...
+
+Następnie sięgnęła po drugi prezent.
+
+Rozwinęła mapę nieba, przyglądając się przedstawionym na niej gwiazdom. Po chwili zauważyła wygrawerowaną datę.
+
+25 grudnia 1994.
+
+Przesunęła palcami po napisie.
+
+— Niebo nad Hogwartem... dokładnie w Boże Narodzenie, rok temu — powiedziała ciszej.
+
+Przez dłuższą chwilę oglądała mapę, zwracając uwagę na rozmieszczenie gwiazdozbiorów.
+
+— To naprawdę piękny pomysł — przyznała, unosząc wzrok na Jamesa. — I taki... nasz.
+
+Ostrożnie odłożyła oba przedmioty do szkatułki, po czym zsunęła się z kanapy na kolana przed Jamesem.
+
+— Dziękuję — powiedziała z szerokim, trochę wzruszonym uśmiechem.
+
+Objęła go za szyję i mocno przytuliła.
+
+— Kocham cię, ty nieznośny Ślizgonie.
+
+Pocałowała go czule w usta, a potem odsunęła się odrobinę.
+
+— Ale teraz musisz mi powiedzieć, skąd wpadłeś na pomysł z tą broszką! — zażądała z charakterystycznym błyskiem ciekawości w oczach. — I jak udało ci się znaleźć kogoś, kto zaczarował ją akurat tym walcem?
+
+Wciąż obejmowała go za szyję, czekając na odpowiedź.
+
+[C15-M0075]
+===== USER =====
+
+$Wyszukiwanie w sieci $Github
+ja nie odpowiedziałem tylko zamiast tego położyłem się na niej i zacząłem mocno przytulać
+
+[C15-M0076]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 14:55
+Pokój Życzeń, siódme piętro
+
+— Ojej! James! — pisnęła Hermiona, tracąc równowagę i opadając plecami na miękki dywan przed kanapą.
+
+Zaraz jednak wybuchnęła śmiechem.
+
+— Ty naprawdę jesteś niemożliwy!
+
+Objęła go mocno ramionami, przyciągając do siebie. Przez chwilę jeszcze chichotała, ale w końcu przymknęła oczy i wtuliła policzek w jego włosy.
+
+— Och, jak mi tego brakowało... — wymamrotała cicho.
+
+Jedną dłonią zaczęła powoli głaskać go po plecach, a drugą wsunęła w jego włosy.
+
+Przez dłuższą chwilę nic nie mówiła. W kominku spokojnie trzaskał ogień, a na kanapie leżała otwarta granatowa szkatułka z prezentami.
+
+— Wiesz co? — odezwała się w końcu, nie przestając go przytulać. — Chyba właśnie tak mogłabym spędzić całe popołudnie.
+
+Uśmiechnęła się do siebie.
+
+— Chociaż nadal nie odpowiedziałeś na moje pytanie o broszkę, panie Brown.
+
+Zachichotała i pocałowała go w czubek głowy.
+
+— Ale dobrze. Opowiesz mi później.
+
+Ponownie objęła go obiema rękami.
+
+— Teraz po prostu zostań tak ze mną przez chwilę. — Jej głos stał się cichszy. — Naprawdę bardzo za tobą tęskniłam.
+
+[C15-M0077]
+===== USER =====
+
+ja jednak wstałem z ziemi i wziąłem ją na ręce a potem położyłem ją na kanapie i delikatnie pocałowałem jej policzek -Kotku .....
+
+[C15-M0078]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 15:00
+Pokój Życzeń, siódme piętro
+
+Hermiona roześmiała się, kiedy James ponownie wziął ją na ręce.
+
+— James, przecież mogłam sama przejść te dwa kroki! — zaprotestowała żartobliwie, obejmując go za szyję.
+
+Kiedy znalazła się na miękkiej kanapie, poprawiła poduszkę za plecami i uśmiechnęła się pod wpływem pocałunku.
+
+— Hmm? — mruknęła, spoglądając na niego.
+
+Na dźwięk czułego przezwiska jej uśmiech nieco się poszerzył.
+
+— Słucham, kochanie?
+
+Wyciągnęła rękę i delikatnie poprawiła mu bordowo-złoty krawat, który przekrzywił się podczas przytulania.
+
+— Wiesz, że przez całe święta brakowało mi nawet tego twojego okropnego krawata? — przyznała z rozbawieniem.
+
+Po chwili przesunęła dłoń na jego policzek.
+
+— No, mów. — Spojrzała mu w oczy z ciepłym uśmiechem. — Co chciałeś mi powiedzieć?
+
+[C15-M0079]
+===== USER =====
+
+nie jest okropny!!!! zaprotestowałem
+
+[C15-M0080]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 15:00
+Pokój Życzeń
+
+Hermiona wybuchnęła śmiechem.
+
+— Och, James! Przecież żartowałam!
+
+Chwyciła delikatnie za koniec bordowo-złotego krawata i przyjrzała mu się z przesadną powagą.
+
+— No dobrze, przyznaję. Jest bardzo elegancki — oznajmiła, starannie wygładzając materiał. — Chociaż nadal nie rozumiem, dlaczego Ślizgon nosi barwy Gryffindoru.
+
+Spojrzała na niego z figlarnym uśmiechem.
+
+— Może po prostu tak bardzo mnie kochasz, że nawet twój krawat postanowił zmienić dom?
+
+Zachichotała, zadowolona z własnego żartu.
+
+— Ale naprawdę ładnie w nim wyglądasz, głuptasie.
+
+Przyciągnęła go lekko za krawat i cmoknęła w policzek.
+
+— No! Teraz już się nie obrażaj na mój niewinny żart.
+
+[C15-M0081]
+===== USER =====
+
+uśmiechnąłem się i położyłem się nad nią opierając się na łokciach -No więc kochanie.... odnośnie Rona...ja mam rację....
+
+[C15-M0082]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 15:05
+Pokój Życzeń, siódme piętro
+
+Hermiona uniosła brwi, a jej rozbawiony uśmiech powoli ustąpił miejsca niedowierzaniu.
+
+— Och, doprawdy? — powiedziała, patrząc Jamesowi prosto w oczy. — Jakże miło, że mnie o tym poinformowałeś!
+
+Położyła dłonie na jego ramionach.
+
+— James, kocham cię, ale naprawdę potrafisz być nieznośny!
+
+Westchnęła, choć kąciki jej ust nadal lekko drgały.
+
+— Jeżeli chodzi ci o to, że Ron czasami zachowuje się okropnie, to się zgadzam. Sama niejednokrotnie miałam ochotę go udusić!
+
+Zachichotała na wspomnienie niektórych ich kłótni, ale zaraz spoważniała.
+
+— Natomiast jeżeli nadal chodzi ci o ten metr odległości, to nie. Nie masz racji.
+
+Przesunęła dłoń na jego policzek.
+
+— Przecież ja nie zabraniam ci przyjaźnić się z Luną. I nawet nie przyszłoby mi do głowy mierzyć, jak blisko niej siedzisz!
+
+Przyjrzała mu się uważnie.
+
+— Poza tym nie podoba mi się, kiedy próbujesz decydować za mnie, James. Nawet jeśli robisz to dlatego, że jesteś zazdrosny.
+
+Po chwili jej spojrzenie złagodniało.
+
+— Ale skoro jesteś taki przekonany o swojej racji... — uśmiechnęła się odrobinę przekornie. — To słucham, panie Brown. Możesz spróbować mnie przekonać.
+
+[C15-M0083]
+===== USER =====
+
+$Wyszukiwanie w sieci $Github
+Dobrze, kiedy Ron ma urodziny?
+
+[C15-M0084]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 15:05
+Pokój Życzeń, siódme piętro
+
+Hermiona zamrugała, zaskoczona nagłą zmianą tematu.
+
+— Pierwszego marca — odpowiedziała bez wahania. — Dlaczego?
+
+Przez chwilę przyglądała się Jamesowi, próbując zrozumieć, do czego zmierza.
+
+— James, znam Rona od ponad czterech lat. Oczywiście, że pamiętam jego urodziny!
+
+Zmarszczyła lekko brwi, po czym dodała z zaciekawieniem:
+
+— A co jego urodziny mają wspólnego z naszą rozmową?
+
+Nie odsunęła dłoni z jego ramion. Czekała na wyjaśnienie, wyraźnie zaintrygowana tym nieoczekiwanym pytaniem.
+
+[C15-M0085]
+===== USER =====
+
+lekko posmutniałem i schowałem twarzy przy jej szyji - A kiedy ja mam urodziny?
+
+[C15-M0086]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 15:05
+Pokój Życzeń, siódme piętro
+
+Hermiona znieruchomiała.
+
+Jej palce, które jeszcze przed chwilą delikatnie głaskały włosy Jamesa, zatrzymały się.
+
+— Ja... — zaczęła, lecz urwała.
+
+Przez kilka sekund milczała. Zmarszczyła brwi, usiłując sobie przypomnieć, czy kiedykolwiek rozmawiali o konkretnej dacie.
+
+— James... ja nie wiem — przyznała w końcu cichutko.
+
+Zaczerwieniła się z zakłopotania.
+
+— Och, nie patrz tak... — zaczęła odruchowo, ale zaraz przypomniała sobie, że przecież ukrył twarz przy jej szyi.
+
+Westchnęła.
+
+— Merlinie, ale ze mnie idiotka...
+
+Objęła go mocniej i oparła policzek o jego włosy.
+
+— Ty pamiętałeś o moich urodzinach. Urządziłeś mi takie wspaniałe przyjęcie, kupiłeś naszyjnik, a ja nawet nie potrafię powiedzieć, kiedy są twoje.
+
+W jej głosie słychać było autentyczne zawstydzenie.
+
+— Nie pamiętam, żebyś mi mówił... ale przecież mogłam sama zapytać!
+
+Przez chwilę milczała, delikatnie przesuwając dłonią po jego plecach.
+
+— Przepraszam, James.
+
+Pocałowała go we włosy.
+
+— I proszę, nie myśl, że Ron jest dla mnie ważniejszy tylko dlatego, że znam datę jego urodzin.
+
+Przytuliła go jeszcze mocniej.
+
+— Powiesz mi, kiedy się urodziłeś? — zapytała łagodnie. — Chciałabym wiedzieć. Naprawdę.
+
+[C15-M0087]
+===== USER =====
+
+Posmutniałem jeszcze bardziej i na razie nic nie powiedziałem
+
+[C15-M0088]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 15:10
+Pokój Życzeń, siódme piętro
+
+Hermiona poczekała chwilę na odpowiedź. Kiedy ta nie nadeszła, spuściła wzrok na Jamesa, wtulonego w jej szyję.
+
+— Och, James... — szepnęła ze smutkiem.
+
+Przygryzła dolną wargę.
+
+— Naprawdę cię tym zraniłam, prawda?
+
+Nie próbowała odsuwać go od siebie ani nakłaniać do spojrzenia jej w oczy. Zamiast tego objęła go obiema rękami i przytuliła mocniej.
+
+Przez chwilę wpatrywała się w płomienie kominka.
+
+— Wiesz... nawet nie przyszło mi do głowy, że może ci być przykro z tego powodu — przyznała cicho. — To było strasznie głupie z mojej strony.
+
+Zamilkła, a potem pocałowała go delikatnie w skroń.
+
+— Nie musisz mi teraz odpowiadać.
+
+Jej palce zaczęły powoli przeczesywać jego włosy.
+
+— Ale nie chciałabym, żebyś myślał, że mniej mi na tobie zależy. Bo tak nie jest.
+
+Hermiona westchnęła i przytuliła policzek do jego głowy.
+
+— Przepraszam, kochanie...
+
+Tym razem nie próbowała poprawiać mu humoru żartami ani wyciągać kolejnych zapewnień. Pozostała w jego objęciach, pozwalając, by ciszę wypełniało jedynie spokojne trzaskanie drewna w kominku.
+
+[C15-M0089]
+===== USER =====
+
+zmieniłem naszą pozycję tak że ona leżała na mnie i mocniej ją przytuliłem a potem zacząłem szeptać  -Mialem już urodziny.... pierwszego stycznia.
+
+[C15-M0090]
+===== ASSISTANT =====
+
+[Fragment pominięty w wersji do udostępniania: seksualny kontekst dotyczący osób niepełnoletnich. Dokładny tekst pozostaje w osobnym prywatnym oryginale C15.]
+
+[C15-M0091]
+===== USER =====
+
+$Wyszukiwanie w sieci $Github lekko się uśmiechnąłem  Nie jesteś głupia i tak nie mów
+powiedziałem i delikatnie wytarłem jej łzy
+
+[C15-M0092]
+===== ASSISTANT =====
+
+[Fragment pominięty w wersji do udostępniania: seksualny kontekst dotyczący osób niepełnoletnich. Dokładny tekst pozostaje w osobnym prywatnym oryginale C15.]
+
+[C15-M0093]
+===== USER =====
+
+$Wyszukiwanie w sieci $Github
+siedemnaście....i jeżeli chcesz mi to wynagrodzić to po prostu zamknij oczy i nie otwieraj dopóki ci nie powiem...
+
+[C15-M0094]
+===== ASSISTANT =====
+
+[Fragment pominięty w wersji do udostępniania: seksualny kontekst dotyczący osób niepełnoletnich. Dokładny tekst pozostaje w osobnym prywatnym oryginale C15.]
+
+[C15-M0095]
+===== USER =====
+
+ja delikatnie złapałem ją w talii i przesunąłem tak aby nasze usta były na tej samej wysokości i połączyłem je w bardzo długim muskanym pocałunku
+
+[C15-M0096]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 15:20
+Pokój Życzeń, siódme piętro
+
+Hermiona drgnęła lekko z zaskoczenia, kiedy poczuła usta Jamesa na swoich.
+
+— Mmm...
+
+Uśmiechnęła się w pocałunku, nie otwierając oczu. Jej dłonie przesunęły się z jego ramion na kark, a palce delikatnie zanurzyły się w jego włosach.
+
+Odwzajemniała kolejne muśnięcia, od czasu do czasu sama unosząc głowę, żeby dosięgnąć jego ust.
+
+Kiedy po dłuższej chwili pocałunek dobiegł końca, Hermiona nadal miała zamknięte oczy.
+
+— Och... — szepnęła z rozbawieniem. — Jeśli to miał być mój prezent za twoje urodziny, to chyba coś ci się pomyliło. To przecież ja miałam wynagrodzić coś tobie!
+
+Zachichotała cicho.
+
+— Ale nie narzekam.
+
+Przesunęła dłonią po jego policzku.
+
+— Mogę już otworzyć oczy? — zapytała figlarnie. — Czy pan Brown przygotował jeszcze jakąś niespodziankę?
+
+Nie podglądała, czekając na jego odpowiedź.
+
+[C15-M0097]
+===== USER =====
+
+$Wyszukiwanie w sieci $Github
+-Nie otwieraj proszę...powiedziałem i znowu połączyłem nasze usta w bardzo długim pocałunku jednocześnie zacząłem jeździć po jej żebrach tak iak kiedyś
+
+[C15-M0098]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 15:20
+Pokój Życzeń, siódme piętro
+
+— Mhm... dobrze — szepnęła Hermiona, posłusznie pozostawiając oczy zamknięte.
+
+Odwzajemniła pocałunek, obejmując Jamesa za szyję. Jednak gdy poczuła znajome, delikatne ruchy opuszków palców wzdłuż żeber, natychmiast drgnęła.
+
+— Mm...!
+
+Kąciki jej ust uniosły się wbrew jej woli. Spróbowała dalej go całować, lecz po kilku sekundach wyrwał jej się stłumiony chichot.
+
+— J-James! — wymamrotała między pocałunkami.
+
+Odruchowo napięła bok, po czym roześmiała się i schowała twarz przy jego policzku.
+
+— Ty oszuście! — wyszeptała rozbawiona. — Przecież znam tę sztuczkę!
+
+Nie otworzyła oczu. Jedną dłonią odnalazła jego przedramię, ale zamiast odsuwać rękę, jedynie lekko zacisnęła na nim palce.
+
+— Pamiętasz, jak kiedyś próbowałeś znaleźć ten swój kompromis między łaskotaniem a przyjemnością? — zapytała z uśmiechem.
+
+Przy kolejnym muśnięciu znów zachichotała.
+
+— Och, właśnie tak! Tylko delikatnie, dobrze? Bo inaczej nie dam rady cię całować!
+
+Przyciągnęła go bliżej za kark i sama odnalazła jego usta, nadal z zamkniętymi oczami.
+
+Po chwili uśmiechnęła się w pocałunku.
+
+— I żebyś wiedział, panie Brown... — szepnęła figlarnie. — Ja też pamiętam kilka twoich słabych punktów!
+
+Zachichotała, lecz zgodnie z prośbą nadal nie otwierała oczu.
+
+[C15-M0099]
+===== USER =====
+
+znów połączyłem nasze usta w bardzo długim i trochę bardziej intensywny pocałunku -Kotku.... bardzo lubię się z tobą tak.......lekko się zaruminiłem -Byc x tobą tak blisko.....i czuć to jak jesteś gorąca....i te twoje słodkie usta.....i to jak delikatna jest twoja skóra....
+
+[C15-M0100]
+===== ASSISTANT =====
+
+12 stycznia 1996, piątek — około 15:25
+Pokój Życzeń, siódme piętro
+
+Hermiona odwzajemniła długi pocałunek, obejmując Jamesa za kark. Kiedy usłyszała jego wyznanie, na jej policzkach pojawił się coraz wyraźniejszy rumieniec.
+
+— James... — szepnęła, a na jej ustach zagościł zawstydzony uśmiech.
+
+Zaśmiała się cichutko.
+
+— Ty naprawdę potrafisz sprawić, że nie wiem, co powiedzieć. A to wcale nie zdarza mi się często!
+
+Przesunęła palcami po jego włosach i delikatnie pogładziła go po policzku.
+
+— Ja też uwielbiam być tak blisko ciebie — przyznała ciszej. — Kiedy mnie przytulasz, całujesz... kiedy możemy po prostu pobyć razem i nikt nam nie przeszkadza.
+
+Na moment przygryzła wargę.
+
+— I bardzo lubię twoje pocałunki — dodała z nieśmiałym uśmiechem. — Nawet jeśli czasami próbujesz mnie przy tym łaskotać, ty nieznośny chłopaku.
+
+Przysunęła twarz odrobinę bliżej.
+
+— Tylko wiesz co? — szepnęła rozbawiona. — Trochę trudno mi rozmawiać z tobą z zamkniętymi oczami.
+
+Mimo to dotrzymała obietnicy. Nie otworzyła ich, czekając, aż James jej pozwoli.
+

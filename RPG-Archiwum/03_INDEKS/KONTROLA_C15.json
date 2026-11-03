@@ -1,0 +1,93 @@
+{
+  "cutoff": "C15-M1350",
+  "turns": 675,
+  "messages": 1350,
+  "keys_unique": true,
+  "redacted_messages": 109,
+  "small_parts_C15": [
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_0001-0100.txt",
+      "first": "C15-M0001",
+      "last": "C15-M0100",
+      "messages": 100
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_0101-0200.txt",
+      "first": "C15-M0101",
+      "last": "C15-M0200",
+      "messages": 100
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_0201-0300.txt",
+      "first": "C15-M0201",
+      "last": "C15-M0300",
+      "messages": 100
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_0301-0400.txt",
+      "first": "C15-M0301",
+      "last": "C15-M0400",
+      "messages": 100
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_0401-0500.txt",
+      "first": "C15-M0401",
+      "last": "C15-M0500",
+      "messages": 100
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_0501-0600.txt",
+      "first": "C15-M0501",
+      "last": "C15-M0600",
+      "messages": 100
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_0601-0700.txt",
+      "first": "C15-M0601",
+      "last": "C15-M0700",
+      "messages": 100
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_0701-0800.txt",
+      "first": "C15-M0701",
+      "last": "C15-M0800",
+      "messages": 100
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_0801-0900.txt",
+      "first": "C15-M0801",
+      "last": "C15-M0900",
+      "messages": 100
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_0901-1000.txt",
+      "first": "C15-M0901",
+      "last": "C15-M1000",
+      "messages": 100
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_1001-1100.txt",
+      "first": "C15-M1001",
+      "last": "C15-M1100",
+      "messages": 100
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_1101-1200.txt",
+      "first": "C15-M1101",
+      "last": "C15-M1200",
+      "messages": 100
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_1201-1300.txt",
+      "first": "C15-M1201",
+      "last": "C15-M1300",
+      "messages": 100
+    },
+    {
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_1301-1350.txt",
+      "first": "C15-M1301",
+      "last": "C15-M1350",
+      "messages": 50
+    }
+  ]
+}
