@@ -1,0 +1,127 @@
+C14-M0701–C14-M0704 (4 wiadomości)
+
+[C14-M0701]
+===== USER =====
+
+-Tak.... Rozumiem was....nikt nie chcę umierać tak wcześnie....a tym bardziej walczyć tylko poto żeby umrzeć....ale myślę że was to ominie...wy nie umrzecie i niebędziecie musieli walczyć....ale ja.... Harry Hermiona....Westchnąłem......
+Hermiona....
+
+
+[C14-M0702]
+===== ASSISTANT =====
+
+Graham przez dłuższą chwilę patrzył na Jamesa. Zniknął gdzieś jego zwyczajny, pogodny uśmiech.
+
+— Brown… — odezwał się cicho. — Nie mów tak, jakbyś już wiedział, że będziesz musiał iść na wojnę.
+
+Eleanor spuściła wzrok. Rose siedziała nieruchomo, ściskając w dłoniach brzeg rękawa.
+
+— Nie możesz nam obiecać, że nic nam się nie stanie — powiedziała Orla, tym razem bez swojej zwyczajowej uszczypliwości. — Ale my też nie możemy z góry zakładać, że ty, Harry czy Hermiona…
+
+Urwała, nie kończąc zdania.
+
+Malcolm odsunął talerz. Po raz pierwszy od początku śniadania zupełnie stracił ochotę na żarty.
+
+— Przecież wy macie dopiero po piętnaście, szesnaście lat — mruknął. — To chyba dorośli powinni się tym zajmować.
+
+— Powinni — odpowiedziała cicho Laura.
+
+Eleanor spojrzała ponownie na Jamesa. Usłyszała, jak wymówił imię Hermiony, i przez chwilę zastanawiała się, co powiedzieć.
+
+— James… wiem, że ją kochasz. Wszyscy chyba już to zauważyliśmy.
+
+Uśmiechnęła się blado.
+
+— Ale Hermiona jest teraz bezpieczna, przynajmniej z tego, co nam opowiadałeś. Nie odbieraj sobie dzisiejszego dnia, martwiąc się o wszystko, co dopiero może się wydarzyć.
+
+Graham pokiwał głową.
+
+— I nie próbuj brać odpowiedzialności za wszystkich. Nawet za nas.
+
+Przez chwilę nikt się nie odzywał. Wysoko pod zaczarowanym sufitem przeleciała ostatnia z porannych sów.
+
+W końcu Rose podniosła głowę.
+
+— James? — zapytała nieśmiało. — A kiedy Hermiona wróci… będziesz mógł ją po prostu przytulić, prawda?
+
+Eleanor zerknęła na dziewczynkę, ale jej nie uciszyła.
+
+— Bo… — Rose zawahała się. — Chyba bardzo tego potrzebujesz.
+
+Malcolm tym razem nie powiedział ani słowa.
+
+
+[C14-M0703]
+===== USER =====
+
+tak, i macie rację na razie jest teraz a teraz zaraz nowy rok itd...
+
+
+[C14-M0704]
+===== ASSISTANT =====
+
+Eleanor uśmiechnęła się z wyraźną ulgą.
+
+— Właśnie. Jeszcze trzy dni i Sylwester. Może uda nam się wymyślić coś przyjemnego.
+
+— Sylwester! — Malcolm natychmiast się ożywił. — No, nareszcie rozmawiamy o czymś ciekawszym!
+
+— Wiesz, Malcolm, nie musisz komentować każdej zmiany tematu — zauważyła Orla.
+
+— A ty nie musisz komentować każdego mojego komentarza.
+
+Graham roześmiał się i sięgnął po herbatę.
+
+— A może urządzimy sobie wieczór z grami? Szachy, eksplodujący dureń, coś do jedzenia…
+
+— Byle nie szachy z Jamesem! — zaprotestował Malcolm. — Już raz się przekonałem, jak to się kończy.
+
+— Możesz zagrać ze mną — zaproponowała Orla.
+
+— To wcale nie brzmi bezpieczniej.
+
+Dennis parsknął śmiechem.
+
+Rose, która dotąd siedziała cicho, odłożyła serwetkę.
+
+— A o północy moglibyśmy złożyć sobie życzenia. W domu zawsze tak robimy.
+
+— Tylko najpierw musielibyśmy dostać pozwolenie na siedzenie tak późno — przypomniała Laura.
+
+Eleanor skinęła głową.
+
+— Możemy zapytać profesor Sprout. Może nauczyciele i tak coś przygotowują na powitanie nowego roku.
+
+Malcolm pochylił się nad stołem.
+
+— A gdyby były fajerwerki…
+
+— Żadnych własnych eksperymentów — uprzedził Graham.
+
+— Niczego jeszcze nie zaproponowałem!
+
+— Znam tę minę.
+
+Śmiech powrócił do stołu. Nawet Rose, która przed chwilą była wyraźnie przejęta rozmową o wojnie, zaczęła z ożywieniem opowiadać o noworocznych zwyczajach w swoim domu.
+
+Po chwili Eleanor spojrzała na Jamesa.
+
+— Wiesz, moglibyśmy też zaprosić innych uczniów, którzy zostali na święta. Oczywiście bez zakładania żadnego stowarzyszenia — dodała z lekkim uśmiechem.
+
+— I bez wybierania prezesa! — zawołał Graham, zanim Malcolm zdążył otworzyć usta.
+
+Malcolm westchnął teatralnie.
+
+— Wy naprawdę odbieracie mi wszystkie przyjemności.
+
+Za oknami Wielkiej Sali śnieg padał coraz gęściej. Przy stole ponownie zrobiło się gwarno, a rozmowa o nadchodzącym Sylwestrze zaczęła nabierać konkretnych kształtów.
+
+— James — odezwał się Graham, spoglądając na niego ponad kubkiem — a ty zostajesz w Hogwarcie również na Nowy Rok?
+
+Jeśli chcesz, mogę:
+
+Opowiedz o rozmowie z Harrym i jego perspektywie
+Podziel się swoimi planami na czas wojny
+Opowiedz więcej o swoich uczuciach i obawach
+
+
