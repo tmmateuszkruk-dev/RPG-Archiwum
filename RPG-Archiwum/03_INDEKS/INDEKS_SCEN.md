@@ -1,3 +1,24 @@
+# NOWE SCENY C15 — po C14-M0704
+
+| Zakres | Temat |
+|---|---|
+| C15-M0001–M0074 | Odpowiedź o Nowym Roku, powrót Hermiony, prezenty |
+| C15-M0075–M0384 | Styczniowe spotkania i rozwój grupy |
+| C15-M0385–M0396 | Luna, Graham, motyl, notes |
+| C15-M0397–M0420 | Azkaban i wywiad z Ritą |
+| C15-M0421–M0490 | Konflikt Draco–James i jego konsekwencje |
+| C15-M0491–M0658 | Marzec, korekta czasu związku |
+| C15-M0659–M0750 | GD i zmiany władz Hogwartu |
+| C15-M0751–M0898 | Randka 27 IV |
+| C15-M0899–M1010 | Czerwcowa wyprawa do Departamentu Tajemnic |
+| C15-M1011–M1080 | Powrót, badania i sen |
+| C15-M1081–M1348 | 21 VI przed wieczorem |
+| C15-M1349–M1350 | Propozycja Malcolma — kolej na Jamesa |
+
+Szczegóły i korekty: AKTUALIZACJA_C15 w 04_BAZA_PELNA, MAPOWANIE_C15 w 03_INDEKS.
+
+---
+
 # Indeks scen C14
 
 Luki: [rejestr](LUKI_C14.json). Cofnięte M0064–M0074 nie są kanonem; M0078 to obowiązująca odpowiedź.

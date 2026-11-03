@@ -1,7 +1,7 @@
 {
-  "version": "C1-C14",
-  "current_id": "C14-M0704",
-  "messages": 13778,
+  "version": "C1-C15",
+  "current_id": "C15-M1350",
+  "messages": 15128,
   "merged_file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_1-14_SCALONE.txt",
   "merged_sha256": "2ee81d845eb5ea07f3d2815769e98b809c2499b943d1f0021de87af0eaa4bb88",
   "small": [
@@ -744,5 +744,1319 @@
   ],
   "content_note": "Poprawiony eksport C14: 704 wiadomości, 0 luk eksportu; wszystkie ID zachowane. Odrzucone warianty i jawne pominięcia to osobne statusy.",
   "missing_c14": 0,
-  "recovered_c14": 89
+  "recovered_c14": 89,
+  "messages_by_part": {
+    "1": 2389,
+    "2": 1800,
+    "3": 1412,
+    "4": 1333,
+    "5": 766,
+    "6": 436,
+    "7": 710,
+    "8": 757,
+    "9": 418,
+    "10": 506,
+    "11": 409,
+    "12": 1109,
+    "13": 1029,
+    "14": 704,
+    "15": 1350
+  },
+  "small_100": [
+    {
+      "part": 1,
+      "first": "C1-M0001",
+      "last": "C1-M0100",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_0001-0100.txt",
+      "git_blob_sha": "4dbb14e98cc79eed42b364e544196bfba0237cb1"
+    },
+    {
+      "part": 1,
+      "first": "C1-M0101",
+      "last": "C1-M0200",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_0101-0200.txt",
+      "git_blob_sha": "f543478043aa4bbc7988a528554a03d3e6d9e6cb"
+    },
+    {
+      "part": 1,
+      "first": "C1-M0201",
+      "last": "C1-M0300",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_0201-0300.txt",
+      "git_blob_sha": "fcd64b5c38245d78b326a32b0d9775b0787331fb"
+    },
+    {
+      "part": 1,
+      "first": "C1-M0301",
+      "last": "C1-M0400",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_0301-0400.txt",
+      "git_blob_sha": "d44295f00cca7928860928595cd97e4d131d5065"
+    },
+    {
+      "part": 1,
+      "first": "C1-M0401",
+      "last": "C1-M0500",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_0401-0500.txt",
+      "git_blob_sha": "c39ea60114cd80904d50e7fc6a483ddecf79616c"
+    },
+    {
+      "part": 1,
+      "first": "C1-M0501",
+      "last": "C1-M0600",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_0501-0600.txt",
+      "git_blob_sha": "11e484de14738d50f5e7b1ab6ffbbcafaf19d7e9"
+    },
+    {
+      "part": 1,
+      "first": "C1-M0601",
+      "last": "C1-M0700",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_0601-0700.txt",
+      "git_blob_sha": "c03763b277e0b159ff81f0b70d68fa838009c92f"
+    },
+    {
+      "part": 1,
+      "first": "C1-M0701",
+      "last": "C1-M0800",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_0701-0800.txt",
+      "git_blob_sha": "4ebd38904b20389f9570194594d9d1133cfe47cf"
+    },
+    {
+      "part": 1,
+      "first": "C1-M0801",
+      "last": "C1-M0900",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_0801-0900.txt",
+      "git_blob_sha": "3a796c09a08fad29051ca6388e4e661d60eaefdd"
+    },
+    {
+      "part": 1,
+      "first": "C1-M0901",
+      "last": "C1-M1000",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_0901-1000.txt",
+      "git_blob_sha": "d478fb10ac4b33803d9d97530482b33a96609293"
+    },
+    {
+      "part": 1,
+      "first": "C1-M1001",
+      "last": "C1-M1100",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_1001-1100.txt",
+      "git_blob_sha": "c4e343561a8159d9a5e6b19da5d3eac0475ce5e1"
+    },
+    {
+      "part": 1,
+      "first": "C1-M1101",
+      "last": "C1-M1200",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_1101-1200.txt",
+      "git_blob_sha": "628cb959f75404adb92806ba80d90b47cbf8a63a"
+    },
+    {
+      "part": 1,
+      "first": "C1-M1201",
+      "last": "C1-M1300",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_1201-1300.txt",
+      "git_blob_sha": "5c2a8b577c0dcafe79ca00052634da370fb665ce"
+    },
+    {
+      "part": 1,
+      "first": "C1-M1301",
+      "last": "C1-M1400",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_1301-1400.txt",
+      "git_blob_sha": "eb41e569c9ec4b56e0f56eb78ee8579dde000650"
+    },
+    {
+      "part": 1,
+      "first": "C1-M1401",
+      "last": "C1-M1500",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_1401-1500.txt",
+      "git_blob_sha": "707868c7ffb197856604bede3a7f30dd7282fc0c"
+    },
+    {
+      "part": 1,
+      "first": "C1-M1501",
+      "last": "C1-M1600",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_1501-1600.txt",
+      "git_blob_sha": "b56afce336c6e55492da076d4660530e8a1ee04f"
+    },
+    {
+      "part": 1,
+      "first": "C1-M1601",
+      "last": "C1-M1700",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_1601-1700.txt",
+      "git_blob_sha": "13e3aeed311346ea09cdf3afa2c8c040b050f1c8"
+    },
+    {
+      "part": 1,
+      "first": "C1-M1701",
+      "last": "C1-M1800",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_1701-1800.txt",
+      "git_blob_sha": "cbfe300cd972c7c777d739ecf7b328a4b9927527"
+    },
+    {
+      "part": 1,
+      "first": "C1-M1801",
+      "last": "C1-M1900",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_1801-1900.txt",
+      "git_blob_sha": "47de9fbe3fbbe3adfe4816a449e74d378c6eee1c"
+    },
+    {
+      "part": 1,
+      "first": "C1-M1901",
+      "last": "C1-M2000",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_1901-2000.txt",
+      "git_blob_sha": "ff8a1d590c1e23a297f82b1835237e1775f41a53"
+    },
+    {
+      "part": 1,
+      "first": "C1-M2001",
+      "last": "C1-M2100",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_2001-2100.txt",
+      "git_blob_sha": "29f4f34e4ea41adb3bc1798f3249d159f6f86319"
+    },
+    {
+      "part": 1,
+      "first": "C1-M2101",
+      "last": "C1-M2200",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_2101-2200.txt",
+      "git_blob_sha": "b9269d1fa7df3294c6cc317aa341ab67c1c080fe"
+    },
+    {
+      "part": 1,
+      "first": "C1-M2201",
+      "last": "C1-M2300",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_2201-2300.txt",
+      "git_blob_sha": "b209d44664e5addb7d3b574dd7efa6e62f549313"
+    },
+    {
+      "part": 1,
+      "first": "C1-M2301",
+      "last": "C1-M2389",
+      "messages": 89,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C01_2301-2389.txt",
+      "git_blob_sha": "4f3eed94174c09ca206bbb9212df1795ad56554c"
+    },
+    {
+      "part": 2,
+      "first": "C2-M0001",
+      "last": "C2-M0100",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C02_0001-0100.txt",
+      "git_blob_sha": "2f0a0a63cd93cdc21a243b7045957c1845f24ae2"
+    },
+    {
+      "part": 2,
+      "first": "C2-M0101",
+      "last": "C2-M0200",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C02_0101-0200.txt",
+      "git_blob_sha": "bac88b240cb2d6893bdbebc06140213594d6e411"
+    },
+    {
+      "part": 2,
+      "first": "C2-M0201",
+      "last": "C2-M0300",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C02_0201-0300.txt",
+      "git_blob_sha": "6c63544a2151b7df0040a0717e73f6319cc96aa1"
+    },
+    {
+      "part": 2,
+      "first": "C2-M0301",
+      "last": "C2-M0400",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C02_0301-0400.txt",
+      "git_blob_sha": "b23e11416a87efe623b709f2c07a3fa8c9db50e0"
+    },
+    {
+      "part": 2,
+      "first": "C2-M0401",
+      "last": "C2-M0500",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C02_0401-0500.txt",
+      "git_blob_sha": "0d9007dddbcfb05ad35c2526d5d349633e9ed0d6"
+    },
+    {
+      "part": 2,
+      "first": "C2-M0501",
+      "last": "C2-M0600",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C02_0501-0600.txt",
+      "git_blob_sha": "4e7552b7b13f37b6c58b62aa21e99340e73bcfe0"
+    },
+    {
+      "part": 2,
+      "first": "C2-M0601",
+      "last": "C2-M0700",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C02_0601-0700.txt",
+      "git_blob_sha": "33ff8e008f1e4e356bc9f2966082ef2caf58dc49"
+    },
+    {
+      "part": 2,
+      "first": "C2-M0701",
+      "last": "C2-M0800",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C02_0701-0800.txt",
+      "git_blob_sha": "871fb255ffd82dbeab83c13ad4ee0b8e27801fd9"
+    },
+    {
+      "part": 2,
+      "first": "C2-M0801",
+      "last": "C2-M0900",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C02_0801-0900.txt",
+      "git_blob_sha": "a1b14444ba5b494eec91f23af105713b09ddd99f"
+    },
+    {
+      "part": 2,
+      "first": "C2-M0901",
+      "last": "C2-M1000",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C02_0901-1000.txt",
+      "git_blob_sha": "3ee25d8a744b5a595421eebbf2e29d30d92241e0"
+    },
+    {
+      "part": 2,
+      "first": "C2-M1001",
+      "last": "C2-M1100",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C02_1001-1100.txt",
+      "git_blob_sha": "9235c042e0aa70c714ddde546752496ddcf73cd5"
+    },
+    {
+      "part": 2,
+      "first": "C2-M1101",
+      "last": "C2-M1200",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C02_1101-1200.txt",
+      "git_blob_sha": "9b0b53d38b79dffcc085a6a21993d1f3ab254671"
+    },
+    {
+      "part": 2,
+      "first": "C2-M1201",
+      "last": "C2-M1300",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C02_1201-1300.txt",
+      "git_blob_sha": "0e77039206aae886b62bfaaf15987321b6d26bd0"
+    },
+    {
+      "part": 2,
+      "first": "C2-M1301",
+      "last": "C2-M1400",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C02_1301-1400.txt",
+      "git_blob_sha": "62b525e2a3859428427de9952d9e57481bdb0d13"
+    },
+    {
+      "part": 2,
+      "first": "C2-M1401",
+      "last": "C2-M1500",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C02_1401-1500.txt",
+      "git_blob_sha": "97fc6c0780e16b94215e8854ce0dfb816e6c1bef"
+    },
+    {
+      "part": 2,
+      "first": "C2-M1501",
+      "last": "C2-M1600",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C02_1501-1600.txt",
+      "git_blob_sha": "2acd1c68c2f78a6a866027d44fba026ccbd24ef6"
+    },
+    {
+      "part": 2,
+      "first": "C2-M1601",
+      "last": "C2-M1700",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C02_1601-1700.txt",
+      "git_blob_sha": "e17db0e9649f2fd5a98550b7f4e7496df9f64801"
+    },
+    {
+      "part": 2,
+      "first": "C2-M1701",
+      "last": "C2-M1800",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C02_1701-1800.txt",
+      "git_blob_sha": "ac603b60ae57343b075e438c17022c8e389f80a7"
+    },
+    {
+      "part": 3,
+      "first": "C3-M0001",
+      "last": "C3-M0100",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C03_0001-0100.txt",
+      "git_blob_sha": "100814e19601b499afc00d3cfdecb41cea3b7e00"
+    },
+    {
+      "part": 3,
+      "first": "C3-M0101",
+      "last": "C3-M0200",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C03_0101-0200.txt",
+      "git_blob_sha": "cee67a047c49005ed096946b120ac1deb96bd918"
+    },
+    {
+      "part": 3,
+      "first": "C3-M0201",
+      "last": "C3-M0300",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C03_0201-0300.txt",
+      "git_blob_sha": "67ac40672939d75e5c26a2d382cf6310677742c0"
+    },
+    {
+      "part": 3,
+      "first": "C3-M0301",
+      "last": "C3-M0400",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C03_0301-0400.txt",
+      "git_blob_sha": "d502ffbf3f6c6fe9fb6086fbe5b8cb88c1c0ba55"
+    },
+    {
+      "part": 3,
+      "first": "C3-M0401",
+      "last": "C3-M0500",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C03_0401-0500.txt",
+      "git_blob_sha": "26dd59f542167b2c3655dc747ba1b72799801d04"
+    },
+    {
+      "part": 3,
+      "first": "C3-M0501",
+      "last": "C3-M0600",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C03_0501-0600.txt",
+      "git_blob_sha": "c6dd3ddfcb768fa1a57042ccd7f7bf376a21d806"
+    },
+    {
+      "part": 3,
+      "first": "C3-M0601",
+      "last": "C3-M0700",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C03_0601-0700.txt",
+      "git_blob_sha": "bbe1bd8dbcd55d6137952f660d494538265315b3"
+    },
+    {
+      "part": 3,
+      "first": "C3-M0701",
+      "last": "C3-M0800",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C03_0701-0800.txt",
+      "git_blob_sha": "8e438b0f56601230155a1cd179d03b4059b98015"
+    },
+    {
+      "part": 3,
+      "first": "C3-M0801",
+      "last": "C3-M0900",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C03_0801-0900.txt",
+      "git_blob_sha": "23150e9063bba203cdb4528987a1a69757eb6352"
+    },
+    {
+      "part": 3,
+      "first": "C3-M0901",
+      "last": "C3-M1000",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C03_0901-1000.txt",
+      "git_blob_sha": "c5c9aa7bcfc6e9e8da1e1a1b1271098d6fbf1348"
+    },
+    {
+      "part": 3,
+      "first": "C3-M1001",
+      "last": "C3-M1100",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C03_1001-1100.txt",
+      "git_blob_sha": "6ce73b6a2d6b4570e73bff2c5a31353b16239c1b"
+    },
+    {
+      "part": 3,
+      "first": "C3-M1101",
+      "last": "C3-M1200",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C03_1101-1200.txt",
+      "git_blob_sha": "5244f22abc4a2785cad8587a2dea2e4d027e5986"
+    },
+    {
+      "part": 3,
+      "first": "C3-M1201",
+      "last": "C3-M1300",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C03_1201-1300.txt",
+      "git_blob_sha": "d190d496ba222769d7f549457edaeb8e888b5278"
+    },
+    {
+      "part": 3,
+      "first": "C3-M1301",
+      "last": "C3-M1400",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C03_1301-1400.txt",
+      "git_blob_sha": "08aa72078beecc8020f2f9c91a179ec6c7152bd6"
+    },
+    {
+      "part": 3,
+      "first": "C3-M1401",
+      "last": "C3-M1412",
+      "messages": 12,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C03_1401-1412.txt",
+      "git_blob_sha": "4cfa47150d9fb3777a5f3f0195b2a85cbe676cc7"
+    },
+    {
+      "part": 4,
+      "first": "C4-M0001",
+      "last": "C4-M0100",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C04_0001-0100.txt",
+      "git_blob_sha": "428700fc9f61f346a7d7b4f212b41cf516518979"
+    },
+    {
+      "part": 4,
+      "first": "C4-M0101",
+      "last": "C4-M0200",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C04_0101-0200.txt",
+      "git_blob_sha": "3640cfba5171e4550f20ac99debe67850945fd32"
+    },
+    {
+      "part": 4,
+      "first": "C4-M0201",
+      "last": "C4-M0300",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C04_0201-0300.txt",
+      "git_blob_sha": "23456ba48d119275a2236fbc361fb58d39c3ebb1"
+    },
+    {
+      "part": 4,
+      "first": "C4-M0301",
+      "last": "C4-M0400",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C04_0301-0400.txt",
+      "git_blob_sha": "e58b2a298c1794e4f925710c79ac2190d4e5396f"
+    },
+    {
+      "part": 4,
+      "first": "C4-M0401",
+      "last": "C4-M0500",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C04_0401-0500.txt",
+      "git_blob_sha": "aaabd2249edbf479be3eec06fb5ae0c6d63fc6d9"
+    },
+    {
+      "part": 4,
+      "first": "C4-M0501",
+      "last": "C4-M0600",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C04_0501-0600.txt",
+      "git_blob_sha": "88e112ce6032a5052ff221562cf40622cc3faf0b"
+    },
+    {
+      "part": 4,
+      "first": "C4-M0601",
+      "last": "C4-M0700",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C04_0601-0700.txt",
+      "git_blob_sha": "2e45c39b6555a3513ed90dad6a117ab662413030"
+    },
+    {
+      "part": 4,
+      "first": "C4-M0701",
+      "last": "C4-M0800",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C04_0701-0800.txt",
+      "git_blob_sha": "7cffdd4de9a4d7eea27681d94afe00772b8b47f3"
+    },
+    {
+      "part": 4,
+      "first": "C4-M0801",
+      "last": "C4-M0900",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C04_0801-0900.txt",
+      "git_blob_sha": "46adf7e79814b8f435d990eb276353151e2caa8a"
+    },
+    {
+      "part": 4,
+      "first": "C4-M0901",
+      "last": "C4-M1000",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C04_0901-1000.txt",
+      "git_blob_sha": "c3adcd30ec612c7fa1fbf6f26150bcbe3a794fbe"
+    },
+    {
+      "part": 4,
+      "first": "C4-M1001",
+      "last": "C4-M1100",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C04_1001-1100.txt",
+      "git_blob_sha": "5cf874c48fb2bf1dc06f03849d2ab46678973a96"
+    },
+    {
+      "part": 4,
+      "first": "C4-M1101",
+      "last": "C4-M1200",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C04_1101-1200.txt",
+      "git_blob_sha": "45f7620e43c51d9fad716f02c1ed66ee3127f22f"
+    },
+    {
+      "part": 4,
+      "first": "C4-M1201",
+      "last": "C4-M1300",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C04_1201-1300.txt",
+      "git_blob_sha": "7b3d3ea991c63a830487e1450f95b6ce68cc35e4"
+    },
+    {
+      "part": 4,
+      "first": "C4-M1301",
+      "last": "C4-M1333",
+      "messages": 33,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C04_1301-1333.txt",
+      "git_blob_sha": "c43b233b931abf3a9dded5f0e62ee978221bcaa6"
+    },
+    {
+      "part": 5,
+      "first": "C5-M0001",
+      "last": "C5-M0100",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C05_0001-0100.txt",
+      "git_blob_sha": "1bcfd55718bcc17eb1c68b3d00a71b565b28bfeb"
+    },
+    {
+      "part": 5,
+      "first": "C5-M0101",
+      "last": "C5-M0200",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C05_0101-0200.txt",
+      "git_blob_sha": "95817c52f3681b270eca33736fdc377aef262547"
+    },
+    {
+      "part": 5,
+      "first": "C5-M0201",
+      "last": "C5-M0300",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C05_0201-0300.txt",
+      "git_blob_sha": "3d8fc20fe9c4e0b5e374bbe905600fa16e32b75c"
+    },
+    {
+      "part": 5,
+      "first": "C5-M0301",
+      "last": "C5-M0400",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C05_0301-0400.txt",
+      "git_blob_sha": "c9195cf249a44032e3981221a4fdacbff5fcb146"
+    },
+    {
+      "part": 5,
+      "first": "C5-M0401",
+      "last": "C5-M0500",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C05_0401-0500.txt",
+      "git_blob_sha": "98307ca78d640be5584257671cb8695c99882716"
+    },
+    {
+      "part": 5,
+      "first": "C5-M0501",
+      "last": "C5-M0600",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C05_0501-0600.txt",
+      "git_blob_sha": "cc9503eb0a4e4f1fdd46f11cdf6c25c949fbbf0f"
+    },
+    {
+      "part": 5,
+      "first": "C5-M0601",
+      "last": "C5-M0700",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C05_0601-0700.txt",
+      "git_blob_sha": "2d6e22512ad3e368e3d11ffcdf4ffaca2c787dca"
+    },
+    {
+      "part": 5,
+      "first": "C5-M0701",
+      "last": "C5-M0766",
+      "messages": 66,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C05_0701-0766.txt",
+      "git_blob_sha": "fe8c129b4535a314f1bc6aa69a5f21b4358983d1"
+    },
+    {
+      "part": 6,
+      "first": "C6-M0001",
+      "last": "C6-M0100",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C06_0001-0100.txt",
+      "git_blob_sha": "89dd67e984c51e423136c88d5e13d0fd07e0cd4e"
+    },
+    {
+      "part": 6,
+      "first": "C6-M0101",
+      "last": "C6-M0200",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C06_0101-0200.txt",
+      "git_blob_sha": "0c7d4cdea95649ed7945417bd889914949b7c443"
+    },
+    {
+      "part": 6,
+      "first": "C6-M0201",
+      "last": "C6-M0300",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C06_0201-0300.txt",
+      "git_blob_sha": "a99cfd3edf6b700f6a7ae6f2c21f6c4bcaab1bde"
+    },
+    {
+      "part": 6,
+      "first": "C6-M0301",
+      "last": "C6-M0400",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C06_0301-0400.txt",
+      "git_blob_sha": "ca8389d1e5bf11e1a584078ca636e4cc7c13ddcf"
+    },
+    {
+      "part": 6,
+      "first": "C6-M0401",
+      "last": "C6-M0436",
+      "messages": 36,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C06_0401-0436.txt",
+      "git_blob_sha": "50abb6561ced7e5df122d041eac51b2809ed4417"
+    },
+    {
+      "part": 7,
+      "first": "C7-M0001",
+      "last": "C7-M0100",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C07_0001-0100.txt",
+      "git_blob_sha": "e3bb4bbf7e63c90062483453bd386659e396c733"
+    },
+    {
+      "part": 7,
+      "first": "C7-M0101",
+      "last": "C7-M0200",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C07_0101-0200.txt",
+      "git_blob_sha": "1dbfa64e83e1984f13273aa50d942a0bef3b3675"
+    },
+    {
+      "part": 7,
+      "first": "C7-M0201",
+      "last": "C7-M0300",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C07_0201-0300.txt",
+      "git_blob_sha": "8d08cade87a460ce9a1bbefb74f72dc699ea0abb"
+    },
+    {
+      "part": 7,
+      "first": "C7-M0301",
+      "last": "C7-M0400",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C07_0301-0400.txt",
+      "git_blob_sha": "9011f0458a40e6af75a58877acdd4c74ad03f6db"
+    },
+    {
+      "part": 7,
+      "first": "C7-M0401",
+      "last": "C7-M0500",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C07_0401-0500.txt",
+      "git_blob_sha": "94413f104e91a9b94dee7bd644bf284cb73927ab"
+    },
+    {
+      "part": 7,
+      "first": "C7-M0501",
+      "last": "C7-M0600",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C07_0501-0600.txt",
+      "git_blob_sha": "ab20d3f6ab5a3beddc551a3cdd34c8940eef873d"
+    },
+    {
+      "part": 7,
+      "first": "C7-M0601",
+      "last": "C7-M0700",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C07_0601-0700.txt",
+      "git_blob_sha": "b147d2f67b7f4d02631498d5d83dbd630fe511ed"
+    },
+    {
+      "part": 7,
+      "first": "C7-M0701",
+      "last": "C7-M0710",
+      "messages": 10,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C07_0701-0710.txt",
+      "git_blob_sha": "245d2a33398930851beb0ec13978a60aafc44a5c"
+    },
+    {
+      "part": 8,
+      "first": "C8-M0001",
+      "last": "C8-M0100",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C08_0001-0100.txt",
+      "git_blob_sha": "1887d240ef28474eb93694a64d6b9d2080ec686e"
+    },
+    {
+      "part": 8,
+      "first": "C8-M0101",
+      "last": "C8-M0200",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C08_0101-0200.txt",
+      "git_blob_sha": "61a68bc602aa82dbeae9db0621350f9f759a12d0"
+    },
+    {
+      "part": 8,
+      "first": "C8-M0201",
+      "last": "C8-M0300",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C08_0201-0300.txt",
+      "git_blob_sha": "3bdd398bdd8678745650dd7a75f65d88a47a5b7d"
+    },
+    {
+      "part": 8,
+      "first": "C8-M0301",
+      "last": "C8-M0400",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C08_0301-0400.txt",
+      "git_blob_sha": "0d6ea85bc1738ba8f08671d9259215f457384d9a"
+    },
+    {
+      "part": 8,
+      "first": "C8-M0401",
+      "last": "C8-M0500",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C08_0401-0500.txt",
+      "git_blob_sha": "dde0d0b72848f6833cf7514bbea8eb1b208029e8"
+    },
+    {
+      "part": 8,
+      "first": "C8-M0501",
+      "last": "C8-M0600",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C08_0501-0600.txt",
+      "git_blob_sha": "4ca685a3693f362c5fbefdbac06ae9974d871e51"
+    },
+    {
+      "part": 8,
+      "first": "C8-M0601",
+      "last": "C8-M0700",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C08_0601-0700.txt",
+      "git_blob_sha": "1ea46aa51162481fdc4439c0f4b2f7cecef8464f"
+    },
+    {
+      "part": 8,
+      "first": "C8-M0701",
+      "last": "C8-M0757",
+      "messages": 57,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C08_0701-0757.txt",
+      "git_blob_sha": "c111ea3e502b3136c0f12aad84f63a4b41f1460a"
+    },
+    {
+      "part": 9,
+      "first": "C9-M0001",
+      "last": "C9-M0100",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C09_0001-0100.txt",
+      "git_blob_sha": "348880fe982122200f28c22b459b3f6eec549657"
+    },
+    {
+      "part": 9,
+      "first": "C9-M0101",
+      "last": "C9-M0200",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C09_0101-0200.txt",
+      "git_blob_sha": "e2563d2d240a9f38a4921fac63f4b74f559ee10e"
+    },
+    {
+      "part": 9,
+      "first": "C9-M0201",
+      "last": "C9-M0300",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C09_0201-0300.txt",
+      "git_blob_sha": "d346bc65add84b876c0dd4853614cace734ddd59"
+    },
+    {
+      "part": 9,
+      "first": "C9-M0301",
+      "last": "C9-M0400",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C09_0301-0400.txt",
+      "git_blob_sha": "6d032ddb9f21fa98e72f952f525da2fbbe36c9d0"
+    },
+    {
+      "part": 9,
+      "first": "C9-M0401",
+      "last": "C9-M0418",
+      "messages": 18,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C09_0401-0418.txt",
+      "git_blob_sha": "0124dd6f9e9d1dea0873a6d9415b160914a8f8d6"
+    },
+    {
+      "part": 10,
+      "first": "C10-M0001",
+      "last": "C10-M0100",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C10_0001-0100.txt",
+      "git_blob_sha": "667f0ae41e2235fea90e9b569dbf2aebf540bdaf"
+    },
+    {
+      "part": 10,
+      "first": "C10-M0101",
+      "last": "C10-M0200",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C10_0101-0200.txt",
+      "git_blob_sha": "33ea52f947fd72e9dc295b3a297b302bfb37a887"
+    },
+    {
+      "part": 10,
+      "first": "C10-M0201",
+      "last": "C10-M0300",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C10_0201-0300.txt",
+      "git_blob_sha": "1fbf1c4a1c0804bca248414b66dcf43323991580"
+    },
+    {
+      "part": 10,
+      "first": "C10-M0301",
+      "last": "C10-M0400",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C10_0301-0400.txt",
+      "git_blob_sha": "17d44eca3f711fccfd9778f4c7a5c03d1caaba77"
+    },
+    {
+      "part": 10,
+      "first": "C10-M0401",
+      "last": "C10-M0500",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C10_0401-0500.txt",
+      "git_blob_sha": "8b4f14d4e22711a7613c41d143382cf6e105a0d8"
+    },
+    {
+      "part": 10,
+      "first": "C10-M0501",
+      "last": "C10-M0506",
+      "messages": 6,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C10_0501-0506.txt",
+      "git_blob_sha": "81a1d562fe32760702e7c2966c46da2d0afe4823"
+    },
+    {
+      "part": 11,
+      "first": "C11-M0001",
+      "last": "C11-M0100",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C11_0001-0100.txt",
+      "git_blob_sha": "7905dc2ccc936c516ddaf7da3c50e45c83d760eb"
+    },
+    {
+      "part": 11,
+      "first": "C11-M0101",
+      "last": "C11-M0200",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C11_0101-0200.txt",
+      "git_blob_sha": "f11a7cfefea83703de9ecd371e4adc7a5bb53c3e"
+    },
+    {
+      "part": 11,
+      "first": "C11-M0201",
+      "last": "C11-M0300",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C11_0201-0300.txt",
+      "git_blob_sha": "a9720b710e8faaebfe24addfc92d602e709395c2"
+    },
+    {
+      "part": 11,
+      "first": "C11-M0301",
+      "last": "C11-M0400",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C11_0301-0400.txt",
+      "git_blob_sha": "900912cb994e763b2c90316f94b78850d7b1f40b"
+    },
+    {
+      "part": 11,
+      "first": "C11-M0401",
+      "last": "C11-M0409",
+      "messages": 9,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C11_0401-0409.txt",
+      "git_blob_sha": "aa64b5061415dd5b56865ed49cd5498c4348da55"
+    },
+    {
+      "part": 12,
+      "first": "C12-M0001",
+      "last": "C12-M0100",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C12_0001-0100.txt",
+      "git_blob_sha": "cbf76da3ca0830af257a5fda2960432d3adbd2dc"
+    },
+    {
+      "part": 12,
+      "first": "C12-M0101",
+      "last": "C12-M0200",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C12_0101-0200.txt",
+      "git_blob_sha": "7bb6bddedb89f26c714c766e17a05ab3cc8470a2"
+    },
+    {
+      "part": 12,
+      "first": "C12-M0201",
+      "last": "C12-M0300",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C12_0201-0300.txt",
+      "git_blob_sha": "099c6c8003af8b8d31370393b70234f79cac1b52"
+    },
+    {
+      "part": 12,
+      "first": "C12-M0301",
+      "last": "C12-M0400",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C12_0301-0400.txt",
+      "git_blob_sha": "818cac164c7c0931f2253e3d23e69b9b6f647dda"
+    },
+    {
+      "part": 12,
+      "first": "C12-M0401",
+      "last": "C12-M0500",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C12_0401-0500.txt",
+      "git_blob_sha": "07b2439ce0137d9559de1d4b1c02c70473eaa785"
+    },
+    {
+      "part": 12,
+      "first": "C12-M0501",
+      "last": "C12-M0600",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C12_0501-0600.txt",
+      "git_blob_sha": "bec62fabedc732131ac3ee9f54bc6d352c5ea6a2"
+    },
+    {
+      "part": 12,
+      "first": "C12-M0601",
+      "last": "C12-M0700",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C12_0601-0700.txt",
+      "git_blob_sha": "3c9249c877f7822ce330b396025344c39922b1c1"
+    },
+    {
+      "part": 12,
+      "first": "C12-M0701",
+      "last": "C12-M0800",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C12_0701-0800.txt",
+      "git_blob_sha": "dbb62855d45c3458ca7f364f8e56daf134ab995b"
+    },
+    {
+      "part": 12,
+      "first": "C12-M0801",
+      "last": "C12-M0900",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C12_0801-0900.txt",
+      "git_blob_sha": "c8ded5747ace6324ee879cb12cdc26ce9823bc0e"
+    },
+    {
+      "part": 12,
+      "first": "C12-M0901",
+      "last": "C12-M1000",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C12_0901-1000.txt",
+      "git_blob_sha": "843fe49c0323bbd124409fe6b81f16742d234bc1"
+    },
+    {
+      "part": 12,
+      "first": "C12-M1001",
+      "last": "C12-M1100",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C12_1001-1100.txt",
+      "git_blob_sha": "f7d9d8c976912777abb12f76be78bde4f95603ed"
+    },
+    {
+      "part": 12,
+      "first": "C12-M1101",
+      "last": "C12-M1109",
+      "messages": 9,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C12_1101-1109.txt",
+      "git_blob_sha": "ebe82c1beedc8ea90f5c10068fc71f94b5606aef"
+    },
+    {
+      "part": 13,
+      "first": "C13-M0001",
+      "last": "C13-M0100",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C13_0001-0100.txt",
+      "git_blob_sha": "d6d3bb56e19dac407abdefb7df9a973a5d0e0000"
+    },
+    {
+      "part": 13,
+      "first": "C13-M0101",
+      "last": "C13-M0200",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C13_0101-0200.txt",
+      "git_blob_sha": "8b61046edfb4e54542be6476351fbee98c62b259"
+    },
+    {
+      "part": 13,
+      "first": "C13-M0201",
+      "last": "C13-M0300",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C13_0201-0300.txt",
+      "git_blob_sha": "6563295f91bbad132850ee223ae169e938d6c3ed"
+    },
+    {
+      "part": 13,
+      "first": "C13-M0301",
+      "last": "C13-M0400",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C13_0301-0400.txt",
+      "git_blob_sha": "aa627cde2bc356a98119b197b748d1b514099d3a"
+    },
+    {
+      "part": 13,
+      "first": "C13-M0401",
+      "last": "C13-M0500",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C13_0401-0500.txt",
+      "git_blob_sha": "ed496b7c58450623cdebe3d48a1356adc9cfc918"
+    },
+    {
+      "part": 13,
+      "first": "C13-M0501",
+      "last": "C13-M0600",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C13_0501-0600.txt",
+      "git_blob_sha": "017f98a9b7846d0506e3f9cd503c0db7b0440152"
+    },
+    {
+      "part": 13,
+      "first": "C13-M0601",
+      "last": "C13-M0700",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C13_0601-0700.txt",
+      "git_blob_sha": "7728dab9186753bcf4e569773dc0158fa1bddc41"
+    },
+    {
+      "part": 13,
+      "first": "C13-M0701",
+      "last": "C13-M0800",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C13_0701-0800.txt",
+      "git_blob_sha": "ec35a5212ce663531596e57ec8830cbaf14c8f18"
+    },
+    {
+      "part": 13,
+      "first": "C13-M0801",
+      "last": "C13-M0900",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C13_0801-0900.txt",
+      "git_blob_sha": "c85097a1002603540b070c0dc726b85cdafbc78e"
+    },
+    {
+      "part": 13,
+      "first": "C13-M0901",
+      "last": "C13-M1000",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C13_0901-1000.txt",
+      "git_blob_sha": "03124202d9b8744c69659ee3ee477ad93f4ffc93"
+    },
+    {
+      "part": 13,
+      "first": "C13-M1001",
+      "last": "C13-M1029",
+      "messages": 29,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C13_1001-1029.txt",
+      "git_blob_sha": "05925219fd1e964e74c35aed44f1537ab769eeaa"
+    },
+    {
+      "part": 14,
+      "first": "C14-M0001",
+      "last": "C14-M0100",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C14_0001-0100.txt",
+      "git_blob_sha": "5ef89c48982856827d8d348e8c7fb8c46ab73a29"
+    },
+    {
+      "part": 14,
+      "first": "C14-M0101",
+      "last": "C14-M0200",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C14_0101-0200.txt",
+      "git_blob_sha": "cd71aa134b6130e507f3fd1a1bb13e13b43142e3"
+    },
+    {
+      "part": 14,
+      "first": "C14-M0201",
+      "last": "C14-M0300",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C14_0201-0300.txt",
+      "git_blob_sha": "2664f8347fe8f3e775df7fbac9c30eb14e0455f3"
+    },
+    {
+      "part": 14,
+      "first": "C14-M0301",
+      "last": "C14-M0400",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C14_0301-0400.txt",
+      "git_blob_sha": "a7a8719c6d6d870fc3c82973fdc2fa82d89e27c2"
+    },
+    {
+      "part": 14,
+      "first": "C14-M0401",
+      "last": "C14-M0500",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C14_0401-0500.txt",
+      "git_blob_sha": "7fb493a45555c5bd878f541696d7609863a21d25"
+    },
+    {
+      "part": 14,
+      "first": "C14-M0501",
+      "last": "C14-M0600",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C14_0501-0600.txt",
+      "git_blob_sha": "a101a6534c2dc3a2e46934c2676654daaf90648e"
+    },
+    {
+      "part": 14,
+      "first": "C14-M0601",
+      "last": "C14-M0700",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C14_0601-0700.txt",
+      "git_blob_sha": "67b944775b49c762e75ab6864cdcb8ed984151a1"
+    },
+    {
+      "part": 14,
+      "first": "C14-M0701",
+      "last": "C14-M0704",
+      "messages": 4,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C14_0701-0704.txt",
+      "git_blob_sha": "1e15f2da0e54d2fb6304bb507698c1ae901cec5a"
+    },
+    {
+      "part": 15,
+      "first": "C15-M0001",
+      "last": "C15-M0100",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_0001-0100.txt",
+      "git_blob_sha": "26ea4df721cb66ce1bfcd555dc944ff37ff5e5f1"
+    },
+    {
+      "part": 15,
+      "first": "C15-M0101",
+      "last": "C15-M0200",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_0101-0200.txt",
+      "git_blob_sha": "692d827874d21475eebd216afcacf8ed5f2bca78"
+    },
+    {
+      "part": 15,
+      "first": "C15-M0201",
+      "last": "C15-M0300",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_0201-0300.txt",
+      "git_blob_sha": "f21eb6ee85493336529a915b992bd286ecdbae5d"
+    },
+    {
+      "part": 15,
+      "first": "C15-M0301",
+      "last": "C15-M0400",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_0301-0400.txt",
+      "git_blob_sha": "be1a39f5399bc76041f0c2e240526bd9b7a95265"
+    },
+    {
+      "part": 15,
+      "first": "C15-M0401",
+      "last": "C15-M0500",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_0401-0500.txt",
+      "git_blob_sha": "f46e2b3fc1bb1deed74e7e5e0bd68be51c7f1e18"
+    },
+    {
+      "part": 15,
+      "first": "C15-M0501",
+      "last": "C15-M0600",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_0501-0600.txt",
+      "git_blob_sha": "cd0ed310b2f95d1e33c5b3dc6ebb79f8867a540a"
+    },
+    {
+      "part": 15,
+      "first": "C15-M0601",
+      "last": "C15-M0700",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_0601-0700.txt",
+      "git_blob_sha": "00f13d0eaab4aaafe890a204c11c650d8af2a046"
+    },
+    {
+      "part": 15,
+      "first": "C15-M0701",
+      "last": "C15-M0800",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_0701-0800.txt",
+      "git_blob_sha": "2a3b2e60b266fde74a669bd55641ed490e92d6f0"
+    },
+    {
+      "part": 15,
+      "first": "C15-M0801",
+      "last": "C15-M0900",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_0801-0900.txt",
+      "git_blob_sha": "396f323e1399fe29cbd7c224ba1a9fb41eef0d48"
+    },
+    {
+      "part": 15,
+      "first": "C15-M0901",
+      "last": "C15-M1000",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_0901-1000.txt",
+      "git_blob_sha": "e3257133e05c323103c2ae6906ae2edfb81c9f2b"
+    },
+    {
+      "part": 15,
+      "first": "C15-M1001",
+      "last": "C15-M1100",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_1001-1100.txt",
+      "git_blob_sha": "d538b85896801c33af7a102af4c414f877051824"
+    },
+    {
+      "part": 15,
+      "first": "C15-M1101",
+      "last": "C15-M1200",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_1101-1200.txt",
+      "git_blob_sha": "2416116543a99473f6303f23953f1985d2fad0da"
+    },
+    {
+      "part": 15,
+      "first": "C15-M1201",
+      "last": "C15-M1300",
+      "messages": 100,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_1201-1300.txt",
+      "git_blob_sha": "89903d9454bea84ce4c0e423ff2407f9040c4cd6"
+    },
+    {
+      "part": 15,
+      "first": "C15-M1301",
+      "last": "C15-M1350",
+      "messages": 50,
+      "file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/mniejsze_czesci_100/ARCHIWUM_C15_1301-1350.txt",
+      "git_blob_sha": "3ea970f7d991067a269626ca73ea2d712d5cc8b5"
+    }
+  ],
+  "new_small_100_count": 161,
+  "historical_merged_file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_1-14_SCALONE.txt",
+  "merged_through": "C14",
+  "c15_source_file": "01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_15.txt",
+  "c15_mapping": "03_INDEKS/MAPOWANIE_C15.json",
+  "full_merged_rebuild": "scripts/scal_1_15.py",
+  "local_merged_package": "RPG_Archiwum_C1-C15_pakiet.zip"
 }

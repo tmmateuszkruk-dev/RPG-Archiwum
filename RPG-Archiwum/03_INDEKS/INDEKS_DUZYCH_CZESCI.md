@@ -1,3 +1,27 @@
+# BIEŻĄCY INDEKS C1–C15 — 15 części
+
+| Część | Wiadomości | Otwórz |
+|---|---:|---|
+| C1 | 2389 | [archiwum](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_1.txt) |
+| C2 | 1800 | [archiwum](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_2.txt) |
+| C3 | 1412 | [archiwum](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_3.txt) |
+| C4 | 1333 | [archiwum](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_4.txt) |
+| C5 | 766 | [archiwum](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_5.txt) |
+| C6 | 436 | [archiwum](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_6.txt) |
+| C7 | 710 | [archiwum](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_7.txt) |
+| C8 | 757 | [archiwum](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_8.txt) |
+| C9 | 418 | [archiwum](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_9.txt) |
+| C10 | 506 | [archiwum](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_10.txt) |
+| C11 | 409 | [archiwum](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_11.txt) |
+| C12 | 1109 | [archiwum](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_12.txt) |
+| C13 | 1029 | [archiwum](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_13.txt) |
+| C14 | 704 | [archiwum](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_14.txt) |
+| C15 | 1350 | [archiwum](../01_ARCHIWA_CZATY/wersja_do_udostepniania/01_ARCHIWUM_CZAT_15.txt) |
+
+Najnowsze 161 fragmentów w mniejsze_czesci_100; starsze pliki pozostają historyczne.
+
+---
+
 # Indeks duzych części — C1–C14
 
 13778 wiadomości, bez luk eksportu C14. Wersja do udostępniania; jawne pominięcia nie są brakami eksportu.
