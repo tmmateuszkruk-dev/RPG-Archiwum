@@ -21,3 +21,7 @@ Granice wiedzy: Nie zna planu prefektury tylko dlatego, że znał go Nott. Wycof
 
 - W nowym konflikcie pod koniec lutego Draco rzucił zaklęcie na Jamesa; James zatrzymał je tarczą i **uderzył Draco w szczękę**. Draco pamięta rzeczywisty cios. Źródła C15-M0421–M0430.
 - McGonagall i Snape zajmowali się sprawą, bez zamiany Draco w przyjaciela Jamesa. Nie kasuje to wcześniejszych wydarzeń C13. Źródła C15-M0430–M0450.
+
+## Przykłady głosu
+
+Źródłowe wzorce: [model reakcji](../model_reakcji.json), wpisy `glos-draco-malfoy-ksiazka`. Odróżniaj cytat książkowy, omówienie sceny i próbkę kampanii; stosuj etap życia oraz ograniczenia z wpisu.

@@ -11,3 +11,7 @@ Granice wiedzy: Nie zna pełnych uprawnień Notta i prywatnych gróźb bez przek
 - Zna Jamesa z rozmów o szkołach rodziców, pomagała przy imprezie, taniec już wykonany. Dostała tylko częściową informację o roli Notta. Źródła: C1-M1204, C1-M1228, C2-M0445, C2-M0448, C3-M0395, C3-M0401, C3-M0499, C3-M0524
 - Ciepło pożegnali się po roku; korespondowała z Jamesem i została zaproszona. Brak rozegranej późniejszej wizyty. Źródła: C9-M0119, C9-M0126, C12-M0197, C12-M0206
 - List z 28 XII: Élodie chciałaby odwiedzić Anglię, musi uzgodnić podróż z rodzicami; następne wakacje tylko możliwością. Rodzina odwzajemnia pozdrowienia. Źródła: C14-M0694
+
+## Przykłady głosu
+
+Źródłowe wzorce: [model reakcji](../model_reakcji.json), wpisy `glos-elodie-moreau-kampania`. Odróżniaj cytat książkowy, omówienie sceny i próbkę kampanii; stosuj etap życia oraz ograniczenia z wpisu.

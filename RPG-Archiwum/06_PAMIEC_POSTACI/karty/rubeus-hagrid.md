@@ -10,3 +10,7 @@ Granice wiedzy: Nie dopisywać pewnej historii powrotu z misji.
 
 - Obecny przy początku IV roku. C12 ma sprzeczną wzmiankę o pierwszorocznych i nieobecność przy stole; jego aktualna misja wymaga kontekstu, nie automatycznego retconu. Źródła: C1-M0064, C12-M0346, C12-M0420
 - Listopad: pokaz karmienia testrala i pytanie o lot; Hagrid proponuje lot w przyszłości, bez odbycia go na lekcji. Źródła: C14-M0096, C14-M0102
+
+## Przykłady głosu
+
+Źródłowe wzorce: [model reakcji](../model_reakcji.json), wpisy `glos-rubeus-hagrid-ksiazka`. Odróżniaj cytat książkowy, omówienie sceny i próbkę kampanii; stosuj etap życia oraz ograniczenia z wpisu.

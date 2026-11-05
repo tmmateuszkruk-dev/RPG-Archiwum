@@ -9,3 +9,7 @@ Charakter: Pamiętać udział w afterze i odrębność od brata.
 Granice wiedzy: Wiedza Freda nie przechodzi automatycznie na George’a.
 
 - Zaproszony i obecny na afterze; w scenie pociągu żartuje z Fredem. Wspomniany w wakacyjnej grupie. Źródła: C3-M0461, C3-M0462, C9-M0255, C9-M0262, C12-M0296
+
+## Przykłady głosu
+
+Źródłowe wzorce: [model reakcji](../model_reakcji.json), wpisy `glos-george-weasley-ksiazka`. Odróżniaj cytat książkowy, omówienie sceny i próbkę kampanii; stosuj etap życia oraz ograniczenia z wpisu.

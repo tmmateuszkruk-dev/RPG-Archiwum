@@ -9,3 +9,7 @@ Charakter: Zachować zdarzenia Turnieju i siostrzaną więź.
 Granice wiedzy: Znajomość Élodie nie przekazuje prywatnych rozmów tej ostatniej.
 
 - Na balu z Rogerem Daviesem. Nie dotarła do Gabrielle w drugim zadaniu; po wynurzeniu domagała się ratunku siostry. Źródła: C2-M1389, C2-M1544, C2-M1565, C4-M1121, C4-M1191
+
+## Przykłady głosu
+
+Źródłowe wzorce: [model reakcji](../model_reakcji.json), wpisy `glos-fleur-delacour-ksiazka`. Odróżniaj cytat książkowy, omówienie sceny i próbkę kampanii; stosuj etap życia oraz ograniczenia z wpisu.

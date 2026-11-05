@@ -16,3 +16,5 @@ Granice wiedzy: Nie słyszy przez ściany, nie zna prywatnych rozmów gabinetowy
 ## Przykłady głosu
 
 Sprawdzone krótkie próbki z kontekstem, źródłem i ograniczeniami: [model_reakcji.json](../model_reakcji.json), wpisy glos-gruba-dama-1. Kalibrują sposób reagowania; nie kopiować kwestii ani traktować próbki kampanii jako dowodu kanoniczności.
+
+Źródłowe wzorce: [model reakcji](../model_reakcji.json), wpisy `glos-gruba-dama-1`. Odróżniaj cytat książkowy, omówienie sceny i próbkę kampanii; stosuj etap życia oraz ograniczenia z wpisu.

@@ -18,3 +18,7 @@ Granice wiedzy: Nie zna prywatnego celu pozostania Jamesa na IV roku; nie uczest
 
 - Pod koniec lutego interweniowała w sprawie rzucenia zaklęcia przez Draco i ciosu Jamesa; oddziela skuteczną obronę od późniejszego uderzenia. Źródła C15-M0427–M0450.
 - W czerwcu została ranna podczas wydarzeń związanych z atakiem na Hagrida. Nie staje się przez to automatycznym świadkiem późniejszej walki w Departamencie Tajemnic. Źródła C15-M0899–M0920.
+
+## Przykłady głosu
+
+Źródłowe wzorce: [model reakcji](../model_reakcji.json), wpisy `glos-minerva-mcgonagall-ksiazka`. Odróżniaj cytat książkowy, omówienie sceny i próbkę kampanii; stosuj etap życia oraz ograniczenia z wpisu.

@@ -17,3 +17,7 @@ Granice wiedzy: Nie przypisywać mu wiedzy o każdym prywatnym geście ani dokł
 ## Uzupełnienie C15 — pamięć po 21 czerwca 1996
 
 - Po ujawnieniu GD opuścił Hogwart w kwietniu; 20 VI uczestniczył w starciu w Ministerstwie z Voldemortem. Nie przenosi to automatycznie pełnej wiedzy Dumbledore'a do uczniów. Źródła C15-M0727–M0750, C15-M0996–M1010.
+
+## Przykłady głosu
+
+Źródłowe wzorce: [model reakcji](../model_reakcji.json), wpisy `glos-albus-dumbledore-ksiazka`. Odróżniaj cytat książkowy, omówienie sceny i próbkę kampanii; stosuj etap życia oraz ograniczenia z wpisu.

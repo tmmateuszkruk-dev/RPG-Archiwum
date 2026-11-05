@@ -9,3 +9,7 @@ Charakter: Dawne żywe sceny pozostają historią; nie wprowadzać go żywego po
 Granice wiedzy: Nie dopisywać mu znajomości prywatnych rozmów Jamesa.
 
 - Brał udział w Turnieju, tańczył z Cho. Zginął podczas finału 24 VI, jego ciało wróciło z Harrym. Źródła: C1-M1470, C2-M1544, C2-M1565, C4-M1191, C9-M0061, C9-M0063
+
+## Przykłady głosu
+
+Źródłowe wzorce: [model reakcji](../model_reakcji.json), wpisy `glos-cedric-diggory-ksiazka`. Odróżniaj cytat książkowy, omówienie sceny i próbkę kampanii; stosuj etap życia oraz ograniczenia z wpisu.

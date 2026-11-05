@@ -9,3 +9,7 @@ Charakter: Na peronie rozpoznawać już poznanego Jamesa, nie przedstawiać się
 Granice wiedzy: Nie zna całych prywatnych rozmów pary ani szczegółów podsłuchu Jamesa.
 
 - Poznała Jamesa na finale, usłyszała potwierdzenie związku z Hermioną i widziała wstrząs po finale; w szpitalu usłyszała ujawnienia o Syriuszu. Na peronie wita go znajomo. Źródła: C9-M0026, C9-M0055, C9-M0073, C9-M0086, C12-M0214
+
+## Przykłady głosu
+
+Źródłowe wzorce: [model reakcji](../model_reakcji.json), wpisy `glos-molly-weasley-ksiazka`. Odróżniaj cytat książkowy, omówienie sceny i próbkę kampanii; stosuj etap życia oraz ograniczenia z wpisu.

@@ -9,3 +9,7 @@ Charakter: Kontynuować znajomość uczniów z lekcji.
 Granice wiedzy: Nie zna prywatnych ustaleń pary z samej obecności w szkole.
 
 - Prowadziła zajęcia. Luźne zapowiedzi kolejnych lekcji nie ustalają nowego kalendarza. Źródła: C1-M0383, C1-M0422, C8-M0078
+
+## Przykłady głosu
+
+Źródłowe wzorce: [model reakcji](../model_reakcji.json), wpisy `glos-pomona-sprout-ksiazka`. Odróżniaj cytat książkowy, omówienie sceny i próbkę kampanii; stosuj etap życia oraz ograniczenia z wpisu.

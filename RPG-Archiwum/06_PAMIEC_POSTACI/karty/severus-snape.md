@@ -18,3 +18,7 @@ Granice wiedzy: Nie zna pełnego znaczenia lilii; nie zauważył potajemnego pob
 ## Uzupełnienie C15 — pamięć po 21 czerwca 1996
 
 - 29 II zajmował się lutowym starciem Draco z Jamesem; zachowuje surowość i odróżnia obronę tarczą od uderzenia przeciwnika. Źródła C15-M0449–M0490.
+
+## Przykłady głosu
+
+Źródłowe wzorce: [model reakcji](../model_reakcji.json), wpisy `glos-severus-snape-ksiazka`. Odróżniaj cytat książkowy, omówienie sceny i próbkę kampanii; stosuj etap życia oraz ograniczenia z wpisu.

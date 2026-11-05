@@ -15,3 +15,7 @@ Granice wiedzy: Nie zna prywatnej historii pary ani treści listów do Luny.
 ## Uzupełnienie C15 — pamięć po 21 czerwca 1996
 
 - 20 VI uczestniczył w wyprawie do Departamentu Tajemnic i w walce; wie, czego osobiście doświadczył i co usłyszał później, nie każdą scenę z innych pomieszczeń. Źródła C15-M0920–M1010.
+
+## Przykłady głosu
+
+Źródłowe wzorce: [model reakcji](../model_reakcji.json), wpisy `glos-neville-longbottom-ksiazka`. Odróżniaj cytat książkowy, omówienie sceny i próbkę kampanii; stosuj etap życia oraz ograniczenia z wpisu.

@@ -14,3 +14,7 @@ Granice wiedzy: Domysł o Pokoju nie daje wiedzy o wystroju i rozmowach. Nie zna
 - Domyślał się prywatnego używania Pokoju z afteru i znikania pary. Nie widział samego chwytu Draco za kołnierz. W pociągu usłyszał plan rozmowy o prefekturze; to nie przekazuje go Draco. Źródła: C4-M1059, C4-M1061, C8-M0086, C8-M0100, C12-M0233, C12-M0236
 - Nie czyta listu Hermiony. Słyszał o konfrontacji z Draco; nie należy z tego robić naocznego świadka. Poprawiona wypowiedź używa imienia Hermiona. Źródła: C13-M0124, C13-M0322, C13-M0458
 - Rozmowa o proteście od M0064 do M0074 została cofnięta. Obowiązuje M0078: Draco nie współczuje Weasleyom, Pansy wspiera go, Nott nie jest rzecznikiem Jamesa. Źródła: C14-M0076, C14-M0078
+
+## Przykłady głosu
+
+Źródłowe wzorce: [model reakcji](../model_reakcji.json), wpisy `glos-theodore-nott-kampania`. Odróżniaj cytat książkowy, omówienie sceny i próbkę kampanii; stosuj etap życia oraz ograniczenia z wpisu.

@@ -12,3 +12,7 @@ Granice wiedzy: Nie jest jeszcze Wielkim Inkwizytorem. Nie ustalono, że poznał
 - Nie została zwolniona w wyniku zgłoszenia; jej zapowiedziana skarga nie jest potwierdzonym doręczeniem. Źródła: C12-M0953, C12-M1021
 - Podczas listopadowego szlabanu James korzystał z własnych przyborów, złożył pisemne wyjaśnienia i przepisał sto zdań; kara została zakończona. Umbridge przedstawiła wersję o Imperiusie i braku skazania Lucjusza; nie potwierdziła użycia Veritaserum (C14-M0150, C14-M0152). Źródła: C14-M0120, C14-M0121, C14-M0125, C14-M0145, C14-M0146, C14-M0149, C14-M0151, C14-M0154, C14-M0150, C14-M0152
 - James słyszy od Umbridge wersję o Imperiusie Lucjusza i brak potwierdzenia Veritaserum. Hermiona nie uczestniczy w szlabanie, więc nie zna automatycznie tych słów. Źródła: C14-M0150, C14-M0152, C14-M0158
+
+## Przykłady głosu
+
+Źródłowe wzorce: [model reakcji](../model_reakcji.json), wpisy `glos-dolores-umbridge-ksiazka`. Odróżniaj cytat książkowy, omówienie sceny i próbkę kampanii; stosuj etap życia oraz ograniczenia z wpisu.

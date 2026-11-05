@@ -18,3 +18,7 @@ Granice wiedzy: Nie widziała chwytu Draco i nie zna prywatnych scen pary; hipot
 ## Uzupełnienie C15 — pamięć po 21 czerwca 1996
 
 - Pod koniec lutego była obecna przy nowej konfrontacji Draco z Jamesem i zareagowała po ciosie. Pozostała lojalna wobec Draco, nie była neutralną mediatorką. Źródła C15-M0421–M0430.
+
+## Przykłady głosu
+
+Źródłowe wzorce: [model reakcji](../model_reakcji.json), wpisy `glos-pansy-parkinson-ksiazka`. Odróżniaj cytat książkowy, omówienie sceny i próbkę kampanii; stosuj etap życia oraz ograniczenia z wpisu.

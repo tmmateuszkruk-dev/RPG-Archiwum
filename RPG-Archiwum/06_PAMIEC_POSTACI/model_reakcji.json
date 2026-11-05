@@ -1,12 +1,21 @@
 {
   "metadata": {
-    "schema_version": 2,
+    "schema_version": 3,
     "campaign": "hogwarts-james-hermiona",
     "cutoff": "C15-M1350",
     "source_commit": "cfaf3860156640293b8a7a5736e0d319b6592db8",
-    "coverage": "Opracowane wpisy z podanych scen; brak wpisu nie dowodzi braku doświadczenia lub przekonania. Próbki kampanii i odrębne wzorce książkowe mają osobne źródła. Wzorce książkowe opracowano częściowo: 6 przykładów dla 5 postaci. Przyrost C15: rozstrzygnięcie odpowiedzi Grahamowi, plan Sylwestra niepotwierdzony, otwarta propozycja regularnej grupy.",
+    "coverage": "Opracowanie częściowe: głosy 33 postaci. Krótkie cytaty książkowe, oznaczone omówienia scen oraz próbki kampanii mają osobne źródła. Brak wpisu nie dowodzi braku historii, wypowiedzi lub przekonania. Ustalenia rozmów obejmują również rozstrzygnięcia i otwarte sprawy C15.",
     "characters": 131,
-    "player": "james-brown"
+    "player": "james-brown",
+    "voice_coverage": {
+      "voice_records": 37,
+      "characters": 33,
+      "book_references": 29,
+      "book_characters": 28,
+      "book_quotes": 21,
+      "book_scene_summaries": 8,
+      "expanded_characters": 25
+    }
   },
   "conversation": [
     {
@@ -82,7 +91,7 @@
     },
     {
       "id": "rozmowa-zostajesz-na-nowy-rok",
-      "title": "Graham czeka na odpowiedź Jamesa",
+      "title": "James odpowiedział Grahamowi o Nowym Roku",
       "characters": [
         "graham-pritchard",
         "james-brown"
@@ -669,7 +678,44 @@
       "summary": "Rozpoznaje powtarzającą się sytuację. Zachowuje zainteresowanie wejściem i hasłem.",
       "period": "C14",
       "as_of": "C14-M0314",
-      "book_references": []
+      "book_references": [
+        {
+          "id": "kanon-gruba-dama-dodatkowy",
+          "character": "gruba-dama",
+          "kind": "CYTAT_KSIĄŻKOWY",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Half-Blood Prince",
+            "volume": 6
+          },
+          "language": "en",
+          "fragments": [
+            "Precisely"
+          ],
+          "translation_note": "Cytat w angielskim oryginale; polski kontekst i analiza są autorskim omówieniem.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/a-guided-tour-of-hogwarts-portraits",
+            "title": "A guided tour of the Hogwarts portraits",
+            "section": "The Fat Lady",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzenie krótkiego cytatu i kontekstu w oficjalnym przytoczeniu; bez odczytu pełnej książki.",
+            "verified_on": "2026-11-02",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosły portret; święta podczas VI roku Harry’ego.",
+          "context": "Po otrzymaniu hasła osłabiona Gruba Dama potwierdza je krótko i otwiera przejście.",
+          "analysis": [
+            "Rutynowa czynność nie wymaga za każdym razem komentarza ani nowego żartu. Własny stan postaci może skrócić reakcję."
+          ],
+          "limits": [
+            "Nie przenoś późniejszego hasła ani świątecznej niedyspozycji do bieżącej kampanii. Znane noszenie Hermiony nie staje się nowym odkryciem."
+          ]
+        }
+      ]
     },
     {
       "id": "glos-graham-pritchard-1",
@@ -762,6 +808,1312 @@
       "summary": "Zwraca uwagę na znany fakt zamiast wzmacniać sensację.",
       "period": "C14",
       "as_of": "C14-M0692",
+      "book_references": []
+    },
+    {
+      "id": "glos-draco-malfoy-ksiazka",
+      "title": "Draco Malfoy — głos książkowy",
+      "characters": [
+        "draco-malfoy"
+      ],
+      "context": "Malfoy wyjaśnia rozmówcy, czym jest Azkaban, jednocześnie go poniżając.",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Szybka, lekceważąca korekta może służyć pokazaniu przewagi. Własna pozycja i dobór odbiorcy wpływają na jego ton."
+      ],
+      "limits": [
+        "Nie kieruj każdej rozmowy ku obeldze. Współpraca z Jamesem nie usuwa dumy ani wcześniejszych konfliktów."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Szybka, lekceważąca korekta może służyć pokazaniu przewagi. Własna pozycja i dobór odbiorcy wpływają na jego ton.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-draco-malfoy-dodatkowy",
+          "character": "draco-malfoy",
+          "kind": "CYTAT_KSIĄŻKOWY",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Chamber of Secrets",
+            "volume": 2
+          },
+          "language": "en",
+          "fragments": [
+            "if you were any slower, you’d be going backwards"
+          ],
+          "translation_note": "Cytat w angielskim oryginale; polski kontekst i analiza są autorskim omówieniem.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/harry-potter-characters-who-could-have-been-comedians",
+            "title": "The Harry Potter characters who could’ve been comedians",
+            "section": "Draco Malfoy",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzenie krótkiego cytatu i kontekstu w oficjalnym przytoczeniu; bez odczytu pełnej książki.",
+            "verified_on": "2026-11-02",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "II rok Draco; rozmowa z osobą, którą uważa za Goyle’a.",
+          "context": "Malfoy wyjaśnia rozmówcy, czym jest Azkaban, jednocześnie go poniżając.",
+          "analysis": [
+            "Szybka, lekceważąca korekta może służyć pokazaniu przewagi. Własna pozycja i dobór odbiorcy wpływają na jego ton."
+          ],
+          "limits": [
+            "Nie kieruj każdej rozmowy ku obeldze. Współpraca z Jamesem nie usuwa dumy ani wcześniejszych konfliktów."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glos-severus-snape-ksiazka",
+      "title": "Severus Snape — głos książkowy",
+      "characters": [
+        "severus-snape"
+      ],
+      "context": "Po pytaniu, na które Harry nie zna odpowiedzi, Snape podważa znaczenie jego sławy.",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Chłodna uwaga może uderzać celniej niż długi wybuch. Pytanie bywa narzędziem przewagi, a nie zaproszeniem do zwierzeń."
+      ],
+      "limits": [
+        "Nie kopiuj stosunku do Harry’ego na każdego ucznia; zachowaj ustalone doświadczenia z Jamesem. Nie redukuj postaci do jednego szyderstwa."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Chłodna uwaga może uderzać celniej niż długi wybuch. Pytanie bywa narzędziem przewagi, a nie zaproszeniem do zwierzeń.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-severus-snape-dodatkowy",
+          "character": "severus-snape",
+          "kind": "CYTAT_KSIĄŻKOWY",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Philosopher's Stone",
+            "volume": 1
+          },
+          "language": "en",
+          "fragments": [
+            "fame clearly isn’t everything"
+          ],
+          "translation_note": "Cytat w angielskim oryginale; polski kontekst i analiza są autorskim omówieniem.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/best-snape-moments",
+            "title": "Just a few sensational Severus Snape moments",
+            "section": "That time he called out Harry’s lack of Potions knowledge in his first ever lesson",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzenie krótkiego cytatu i kontekstu w oficjalnym przytoczeniu; bez odczytu pełnej książki.",
+            "verified_on": "2026-11-02",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosły nauczyciel; pierwszy rok Harry’ego.",
+          "context": "Po pytaniu, na które Harry nie zna odpowiedzi, Snape podważa znaczenie jego sławy.",
+          "analysis": [
+            "Chłodna uwaga może uderzać celniej niż długi wybuch. Pytanie bywa narzędziem przewagi, a nie zaproszeniem do zwierzeń."
+          ],
+          "limits": [
+            "Nie kopiuj stosunku do Harry’ego na każdego ucznia; zachowaj ustalone doświadczenia z Jamesem. Nie redukuj postaci do jednego szyderstwa."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glos-minerva-mcgonagall-ksiazka",
+      "title": "Minerva McGonagall — głos książkowy",
+      "characters": [
+        "minerva-mcgonagall"
+      ],
+      "context": "W rozmowie dyscyplinarnej McGonagall niespodziewanie proponuje Harry’emu poczęstunek.",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Troska może przybrać praktyczną, oszczędną formę, współistniejąc ze stanowczością. Nie wymaga czułego przemówienia."
+      ],
+      "limits": [
+        "Nie powtarzaj ciastek jako znaku rozpoznawczego. Pomoc nie znosi zasad ani nie oznacza aprobaty każdego zachowania ucznia."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Troska może przybrać praktyczną, oszczędną formę, współistniejąc ze stanowczością. Nie wymaga czułego przemówienia.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-minerva-mcgonagall-dodatkowy",
+          "character": "minerva-mcgonagall",
+          "kind": "CYTAT_KSIĄŻKOWY",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Order of the Phoenix",
+            "volume": 5
+          },
+          "language": "en",
+          "fragments": [
+            "Have a biscuit, Potter."
+          ],
+          "translation_note": "Cytat w angielskim oryginale; polski kontekst i analiza są autorskim omówieniem.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/why-professor-mcgonagall-would-be-the-best-work-mentor-ever",
+            "title": "Why Professor McGonagall would be the best work mentor ever",
+            "section": "She would also know that biscuits make everything better",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzenie krótkiego cytatu i kontekstu w oficjalnym przytoczeniu; bez odczytu pełnej książki.",
+            "verified_on": "2026-11-02",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosła nauczycielka; V rok Harry’ego, po konflikcie z Umbridge.",
+          "context": "W rozmowie dyscyplinarnej McGonagall niespodziewanie proponuje Harry’emu poczęstunek.",
+          "analysis": [
+            "Troska może przybrać praktyczną, oszczędną formę, współistniejąc ze stanowczością. Nie wymaga czułego przemówienia."
+          ],
+          "limits": [
+            "Nie powtarzaj ciastek jako znaku rozpoznawczego. Pomoc nie znosi zasad ani nie oznacza aprobaty każdego zachowania ucznia."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glos-albus-dumbledore-ksiazka",
+      "title": "Albus Dumbledore — głos książkowy",
+      "characters": [
+        "albus-dumbledore"
+      ],
+      "context": "Po spróbowaniu fasolki o nieoczekiwanym smaku Dumbledore reaguje krótkim rozczarowaniem.",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Codzienny drobiazg może wywołać szczery, lekki humor. Nie każda jego wypowiedź jest zagadką lub lekcją życia."
+      ],
+      "limits": [
+        "Nie rób z ekscentryczności obowiązkowego rekwizytu. Ten moment nie potwierdza wszechwiedzy ani swobody łamania granic innych."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Codzienny drobiazg może wywołać szczery, lekki humor. Nie każda jego wypowiedź jest zagadką lub lekcją życia.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-albus-dumbledore-dodatkowy",
+          "character": "albus-dumbledore",
+          "kind": "CYTAT_KSIĄŻKOWY",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Philosopher's Stone",
+            "volume": 1
+          },
+          "language": "en",
+          "fragments": [
+            "Alas! Earwax!"
+          ],
+          "translation_note": "Cytat w angielskim oryginale; polski kontekst i analiza są autorskim omówieniem.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/exploring-the-lighter-side-of-albus-dumbledore",
+            "title": "Exploring the lighter side of Albus Dumbledore",
+            "section": "Yum… earwax",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzenie krótkiego cytatu i kontekstu w oficjalnym przytoczeniu; bez odczytu pełnej książki.",
+            "verified_on": "2026-11-02",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosły dyrektor; koniec pierwszego roku Harry’ego.",
+          "context": "Po spróbowaniu fasolki o nieoczekiwanym smaku Dumbledore reaguje krótkim rozczarowaniem.",
+          "analysis": [
+            "Codzienny drobiazg może wywołać szczery, lekki humor. Nie każda jego wypowiedź jest zagadką lub lekcją życia."
+          ],
+          "limits": [
+            "Nie rób z ekscentryczności obowiązkowego rekwizytu. Ten moment nie potwierdza wszechwiedzy ani swobody łamania granic innych."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glos-neville-longbottom-ksiazka",
+      "title": "Neville Longbottom — głos książkowy",
+      "characters": [
+        "neville-longbottom"
+      ],
+      "context": "Neville próbuje powstrzymać kolegów przed kolejnym złamaniem reguł, mimo własnej niepewności.",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Lęk i stanowcza odmowa mogą występować jednocześnie. Sprzeciw wynika z przekonania, nie z nagłej zamiany w pewnego siebie bohatera."
+      ],
+      "limits": [
+        "Nie utrwalaj jąkania ani nieporadności jako całej osobowości. Późniejszy Neville ma doświadczenia wykraczające poza pierwszy rok."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Lęk i stanowcza odmowa mogą występować jednocześnie. Sprzeciw wynika z przekonania, nie z nagłej zamiany w pewnego siebie bohatera.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-neville-longbottom-dodatkowy",
+          "character": "neville-longbottom",
+          "kind": "CYTAT_KSIĄŻKOWY",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Philosopher's Stone",
+            "volume": 1
+          },
+          "language": "en",
+          "fragments": [
+            "I won’t let you do it"
+          ],
+          "translation_note": "Cytat w angielskim oryginale; polski kontekst i analiza są autorskim omówieniem.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/eight-reasons-why-we-love-neville-longbottom",
+            "title": "Eight reasons why we love Neville Longbottom",
+            "section": "His bravery",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzenie krótkiego cytatu i kontekstu w oficjalnym przytoczeniu; bez odczytu pełnej książki.",
+            "verified_on": "2026-11-02",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "I rok Neville’a; sprzeciw wobec planu przyjaciół.",
+          "context": "Neville próbuje powstrzymać kolegów przed kolejnym złamaniem reguł, mimo własnej niepewności.",
+          "analysis": [
+            "Lęk i stanowcza odmowa mogą występować jednocześnie. Sprzeciw wynika z przekonania, nie z nagłej zamiany w pewnego siebie bohatera."
+          ],
+          "limits": [
+            "Nie utrwalaj jąkania ani nieporadności jako całej osobowości. Późniejszy Neville ma doświadczenia wykraczające poza pierwszy rok."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glos-poppy-pomfrey-ksiazka",
+      "title": "Poppy Pomfrey — głos książkowy",
+      "characters": [
+        "poppy-pomfrey"
+      ],
+      "context": "Pomfrey podczas badania urazu wyraża złość na kolejne zagrożenia sprowadzane do szkoły.",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Opieka trwa równocześnie z narzekaniem. Ostra uwaga może być skierowana przeciw niebezpiecznym warunkom, a nie przeciw pacjentowi."
+      ],
+      "limits": [
+        "Nie wymyślaj diagnozy z tonu wypowiedzi. Pamiętaj wcześniejsze wizyty Jamesa i odróżniaj badanie od moralizowania."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Opieka trwa równocześnie z narzekaniem. Ostra uwaga może być skierowana przeciw niebezpiecznym warunkom, a nie przeciw pacjentowi.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-poppy-pomfrey-dodatkowy",
+          "character": "poppy-pomfrey",
+          "kind": "CYTAT_KSIĄŻKOWY",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Goblet of Fire",
+            "volume": 4
+          },
+          "language": "en",
+          "fragments": [
+            "Last year Dementors"
+          ],
+          "translation_note": "Cytat w angielskim oryginale; polski kontekst i analiza są autorskim omówieniem.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/the-grumpy-hogwarts-staff-members-we-can-kind-of-relate-to",
+            "title": "The grumpy Hogwarts staff members we can kind of relate to",
+            "section": "Madam Pomfrey",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzenie krótkiego cytatu i kontekstu w oficjalnym przytoczeniu; bez odczytu pełnej książki.",
+            "verified_on": "2026-11-02",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosła uzdrowicielka; IV rok Harry’ego, po zadaniu ze smokiem.",
+          "context": "Pomfrey podczas badania urazu wyraża złość na kolejne zagrożenia sprowadzane do szkoły.",
+          "analysis": [
+            "Opieka trwa równocześnie z narzekaniem. Ostra uwaga może być skierowana przeciw niebezpiecznym warunkom, a nie przeciw pacjentowi."
+          ],
+          "limits": [
+            "Nie wymyślaj diagnozy z tonu wypowiedzi. Pamiętaj wcześniejsze wizyty Jamesa i odróżniaj badanie od moralizowania."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glos-irma-pince-ksiazka",
+      "title": "Irma Pince — głos książkowy",
+      "characters": [
+        "irma-pince"
+      ],
+      "context": "Pince zauważa jedzenie czekolady w bibliotece, nakazuje Harry’emu i Ginny wyjść i egzekwuje zakaz.",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Gdy zasób, za który odpowiada, jest zagrożony, przechodzi do konkretnego polecenia i działania. Jej reakcja ma sytuacyjną przyczynę."
+      ],
+      "limits": [
+        "Nie odtwarzaj tej gwałtowności przy każdym wejściu do biblioteki. Zachowaj znajomość stałego czytelnika oraz osobistą rozmowę z kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Gdy zasób, za który odpowiada, jest zagrożony, przechodzi do konkretnego polecenia i działania. Jej reakcja ma sytuacyjną przyczynę.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-irma-pince-dodatkowy",
+          "character": "irma-pince",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Order of the Phoenix",
+            "volume": 5
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Polskie omówienie źródłowe sceny, bez dosłownego cytatu i bez wymyślonej kwestii dialogowej.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/the-most-memorable-moments-in-the-hogwarts-library",
+            "title": "The most memorable moments in the Hogwarts library",
+            "section": "Harry and Ginny ate some chocolate at their peril…",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzenie oficjalnego przytoczenia lub omówienia wskazanej sceny; bez odczytu pełnej książki i bez deklarowania dosłownej kwestii.",
+            "verified_on": "2026-11-02",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosła bibliotekarka; V rok Harry’ego.",
+          "context": "Pince zauważa jedzenie czekolady w bibliotece, nakazuje Harry’emu i Ginny wyjść i egzekwuje zakaz.",
+          "analysis": [
+            "Gdy zasób, za który odpowiada, jest zagrożony, przechodzi do konkretnego polecenia i działania. Jej reakcja ma sytuacyjną przyczynę."
+          ],
+          "limits": [
+            "Nie odtwarzaj tej gwałtowności przy każdym wejściu do biblioteki. Zachowaj znajomość stałego czytelnika oraz osobistą rozmowę z kampanii."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glos-dolores-umbridge-ksiazka",
+      "title": "Dolores Umbridge — głos książkowy",
+      "characters": [
+        "dolores-umbridge"
+      ],
+      "context": "Umbridge z uśmiechem przedstawia McGonagall nowy dekret jako odpowiedź na wcześniejsze podważenie jej decyzji.",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Uprzejma forma i odwołanie do procedury mogą osłaniać osobistą kontrolę oraz odwet. Nacisk nie musi brzmieć jak otwarta groźba."
+      ],
+      "limits": [
+        "Nie dodawaj odruchowego chrząknięcia w każdej kwestii. Wolno jej korzystać wyłącznie z uprawnień obowiązujących w czasie sceny."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Uprzejma forma i odwołanie do procedury mogą osłaniać osobistą kontrolę oraz odwet. Nacisk nie musi brzmieć jak otwarta groźba.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-dolores-umbridge-dodatkowy",
+          "character": "dolores-umbridge",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Order of the Phoenix",
+            "volume": 5
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Polskie omówienie źródłowe sceny, bez dosłownego cytatu i bez wymyślonej kwestii dialogowej.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/5-times-the-number-25-is-mentioned-in-harry-potter",
+            "title": "5 times the number 25 was mentioned in the Harry Potter books",
+            "section": "Educational Decree Number 25",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzenie oficjalnego przytoczenia lub omówienia wskazanej sceny; bez odczytu pełnej książki i bez deklarowania dosłownej kwestii.",
+            "verified_on": "2026-11-02",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosła urzędniczka; V rok Harry’ego, rozszerzanie uprawnień.",
+          "context": "Umbridge z uśmiechem przedstawia McGonagall nowy dekret jako odpowiedź na wcześniejsze podważenie jej decyzji.",
+          "analysis": [
+            "Uprzejma forma i odwołanie do procedury mogą osłaniać osobistą kontrolę oraz odwet. Nacisk nie musi brzmieć jak otwarta groźba."
+          ],
+          "limits": [
+            "Nie dodawaj odruchowego chrząknięcia w każdej kwestii. Wolno jej korzystać wyłącznie z uprawnień obowiązujących w czasie sceny."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glos-barty-crouch-junior-falszywy-moody-ksiazka",
+      "title": "Barty Crouch Junior — fałszywy Moody — głos książkowy",
+      "characters": [
+        "barty-crouch-junior-falszywy-moody"
+      ],
+      "context": "Po przemienieniu Draco w fretkę oszust odpowiada McGonagall jednym słowem, przedstawiając przemoc jako nauczanie.",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Pozorna rzeczowość może służyć usprawiedliwieniu brutalnego działania. To głos odgrywanej roli i konkretnego sprawcy."
+      ],
+      "limits": [
+        "Nie przypisuj tej sceny prawdziwemu Moody’emu. Przed ujawnieniem tożsamości uczniowie mogą znać go jedynie pod przybranym nazwiskiem."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Pozorna rzeczowość może służyć usprawiedliwieniu brutalnego działania. To głos odgrywanej roli i konkretnego sprawcy.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-barty-crouch-junior-falszywy-moody-dodatkowy",
+          "character": "barty-crouch-junior-falszywy-moody",
+          "kind": "CYTAT_KSIĄŻKOWY",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Goblet of Fire",
+            "volume": 4
+          },
+          "language": "en",
+          "fragments": [
+            "Teaching"
+          ],
+          "translation_note": "Cytat w angielskim oryginale; polski kontekst i analiza są autorskim omówieniem.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/professor-mcgonagalls-most-memorable-moments",
+            "title": "Professor McGonagall’s most memorable moments",
+            "section": "When she rescued a certain ferret from punishment…",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzenie krótkiego cytatu i kontekstu w oficjalnym przytoczeniu; bez odczytu pełnej książki.",
+            "verified_on": "2026-11-02",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Crouch Junior pod postacią Moody’ego; IV rok Harry’ego, przed demaskacją.",
+          "context": "Po przemienieniu Draco w fretkę oszust odpowiada McGonagall jednym słowem, przedstawiając przemoc jako nauczanie.",
+          "analysis": [
+            "Pozorna rzeczowość może służyć usprawiedliwieniu brutalnego działania. To głos odgrywanej roli i konkretnego sprawcy."
+          ],
+          "limits": [
+            "Nie przypisuj tej sceny prawdziwemu Moody’emu. Przed ujawnieniem tożsamości uczniowie mogą znać go jedynie pod przybranym nazwiskiem."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glos-alastor-moody-prawdziwy-ksiazka",
+      "title": "Alastor Moody — prawdziwy — głos książkowy",
+      "characters": [
+        "alastor-moody-prawdziwy"
+      ],
+      "context": "Na peronie Moody wprost potwierdza Vernonowi, że ostrzega go przed dalszym złym traktowaniem Harry’ego.",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Krótka, jednoznaczna odpowiedź zamyka próbę rozmycia sensu ostrzeżenia. Ochrona przybiera stanowczą formę."
+      ],
+      "limits": [
+        "Nie dopisuj mu wspomnień z zajęć prowadzonych przez Croucha. Późniejsza rozmowa z Dursleyem nie jest znana postaciom we wcześniejszym momencie."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Krótka, jednoznaczna odpowiedź zamyka próbę rozmycia sensu ostrzeżenia. Ochrona przybiera stanowczą formę.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-alastor-moody-prawdziwy-dodatkowy",
+          "character": "alastor-moody-prawdziwy",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Order of the Phoenix",
+            "volume": 5
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Polskie omówienie źródłowe sceny, bez dosłownego cytatu i bez wymyślonej kwestii dialogowej.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/15-times-harry-potter-ruined-the-dursleys-day",
+            "title": "15 times Harry Potter ruined the Dursleys’ day",
+            "section": "13. That awkward moment at King’s Cross",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzenie oficjalnego przytoczenia lub omówienia wskazanej sceny; bez odczytu pełnej książki i bez deklarowania dosłownej kwestii.",
+            "verified_on": "2026-11-02",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Prawdziwy Moody; dorosły auror, koniec V roku Harry’ego.",
+          "context": "Na peronie Moody wprost potwierdza Vernonowi, że ostrzega go przed dalszym złym traktowaniem Harry’ego.",
+          "analysis": [
+            "Krótka, jednoznaczna odpowiedź zamyka próbę rozmycia sensu ostrzeżenia. Ochrona przybiera stanowczą formę."
+          ],
+          "limits": [
+            "Nie dopisuj mu wspomnień z zajęć prowadzonych przez Croucha. Późniejsza rozmowa z Dursleyem nie jest znana postaciom we wcześniejszym momencie."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glos-viktor-krum-ksiazka",
+      "title": "Viktor Krum — głos książkowy",
+      "characters": [
+        "viktor-krum"
+      ],
+      "context": "Hermiona relacjonuje, że Krum długo próbował zebrać się na rozmowę w bibliotece. Na balu potrafi później rozmawiać z nią żywo.",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Powściągliwość przy obcych nie wyklucza zaangażowania przy osobie, z którą czuje się swobodniej. Milczenie nie musi być wrogością."
+      ],
+      "limits": [
+        "To relacja Hermiony i opis sceny, nie dosłowna kwestia Kruma. Nie importuj książkowego romansu do kampanii ani nie zapisuj akcentu jako karykatury."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Powściągliwość przy obcych nie wyklucza zaangażowania przy osobie, z którą czuje się swobodniej. Milczenie nie musi być wrogością.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-viktor-krum-dodatkowy",
+          "character": "viktor-krum",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Goblet of Fire",
+            "volume": 4
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Polskie omówienie źródłowe sceny, bez dosłownego cytatu i bez wymyślonej kwestii dialogowej.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/why-viktor-krum-was-a-better-boyfriend-than-ron-weasley",
+            "title": "Why Viktor Krum was a better boyfriend than Ron Weasley",
+            "section": "He was a man of few words – but they were all the right ones",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzenie oficjalnego przytoczenia lub omówienia wskazanej sceny; bez odczytu pełnej książki i bez deklarowania dosłownej kwestii.",
+            "verified_on": "2026-11-02",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Uczeń Durmstrangu; rok Turnieju Trójmagicznego.",
+          "context": "Hermiona relacjonuje, że Krum długo próbował zebrać się na rozmowę w bibliotece. Na balu potrafi później rozmawiać z nią żywo.",
+          "analysis": [
+            "Powściągliwość przy obcych nie wyklucza zaangażowania przy osobie, z którą czuje się swobodniej. Milczenie nie musi być wrogością."
+          ],
+          "limits": [
+            "To relacja Hermiony i opis sceny, nie dosłowna kwestia Kruma. Nie importuj książkowego romansu do kampanii ani nie zapisuj akcentu jako karykatury."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glos-pomona-sprout-ksiazka",
+      "title": "Pomona Sprout — głos książkowy",
+      "characters": [
+        "pomona-sprout"
+      ],
+      "context": "W dyskusji o przyszłości Hogwartu Sprout broni pozostawienia szkoły otwartej nawet dla jednego chcącego się uczyć ucznia.",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Jasne stanowisko opiera na konkretnej potrzebie ucznia. Życzliwość może oznaczać upór w ważnej sprawie, nie automatyczną zgodę."
+      ],
+      "limits": [
+        "Późniejszy kontekst nie daje wcześniejszej Sprout wiedzy o przyszłych stratach. Zasady szklarni i wcześniejsze ustalenia nadal obowiązują."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Jasne stanowisko opiera na konkretnej potrzebie ucznia. Życzliwość może oznaczać upór w ważnej sprawie, nie automatyczną zgodę.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-pomona-sprout-dodatkowy",
+          "character": "pomona-sprout",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Half-Blood Prince",
+            "volume": 6
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Polskie omówienie źródłowe sceny, bez dosłownego cytatu i bez wymyślonej kwestii dialogowej.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/how-to-live-like-professor-sprout",
+            "title": "How to live like Professor Sprout",
+            "section": "Akapit o pozostawieniu szkoły otwartej dla uczniów",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzenie oficjalnego przytoczenia lub omówienia wskazanej sceny; bez odczytu pełnej książki i bez deklarowania dosłownej kwestii.",
+            "verified_on": "2026-11-02",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosła nauczycielka; koniec VI roku Harry’ego.",
+          "context": "W dyskusji o przyszłości Hogwartu Sprout broni pozostawienia szkoły otwartej nawet dla jednego chcącego się uczyć ucznia.",
+          "analysis": [
+            "Jasne stanowisko opiera na konkretnej potrzebie ucznia. Życzliwość może oznaczać upór w ważnej sprawie, nie automatyczną zgodę."
+          ],
+          "limits": [
+            "Późniejszy kontekst nie daje wcześniejszej Sprout wiedzy o przyszłych stratach. Zasady szklarni i wcześniejsze ustalenia nadal obowiązują."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glos-filius-flitwick-ksiazka",
+      "title": "Filius Flitwick — głos książkowy",
+      "characters": [
+        "filius-flitwick"
+      ],
+      "context": "Flitwick uprzejmie dziękuje Umbridge za usunięcie fajerwerków, wskazując, że sam nie był pewien zakresu swoich uprawnień.",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Precyzyjna, pozornie skromna uwaga może zawierać ironię i świadomy opór. Ton pozostaje zależny od rozmówcy."
+      ],
+      "limits": [
+        "Nie używaj kpiny jako domyślnej reakcji na uczniów. Późniejszy protest i jego przyczyny trzeba dopasować do daty sceny."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Precyzyjna, pozornie skromna uwaga może zawierać ironię i świadomy opór. Ton pozostaje zależny od rozmówcy.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-filius-flitwick-dodatkowy",
+          "character": "filius-flitwick",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Order of the Phoenix",
+            "volume": 5
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Polskie omówienie źródłowe sceny, bez dosłownego cytatu i bez wymyślonej kwestii dialogowej.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/why-professor-flitwick-was-the-perfect-head-of-ravenclaw",
+            "title": "Why Professor Flitwick was the perfect Head of Ravenclaw",
+            "section": "He was witty…",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzenie oficjalnego przytoczenia lub omówienia wskazanej sceny; bez odczytu pełnej książki i bez deklarowania dosłownej kwestii.",
+            "verified_on": "2026-11-02",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosły nauczyciel; V rok Harry’ego, spór o władzę Umbridge.",
+          "context": "Flitwick uprzejmie dziękuje Umbridge za usunięcie fajerwerków, wskazując, że sam nie był pewien zakresu swoich uprawnień.",
+          "analysis": [
+            "Precyzyjna, pozornie skromna uwaga może zawierać ironię i świadomy opór. Ton pozostaje zależny od rozmówcy."
+          ],
+          "limits": [
+            "Nie używaj kpiny jako domyślnej reakcji na uczniów. Późniejszy protest i jego przyczyny trzeba dopasować do daty sceny."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glos-pansy-parkinson-ksiazka",
+      "title": "Pansy Parkinson — głos książkowy",
+      "characters": [
+        "pansy-parkinson"
+      ],
+      "context": "Pansy po aluzji Draco próbuje doprecyzować, o kogo mu chodzi. Nie dysponuje od razu całym wyjaśnieniem.",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Zainteresowanie i bliskość wobec Draco nie oznaczają pełnej wiedzy o jego planach. Krótkie pytanie może odsłonić niepewność."
+      ],
+      "limits": [
+        "Nie przenoś misji Draco ani relacji z VI roku do wcześniejszej sceny. Współpraca z Jamesem nie czyni Pansy neutralną wobec Gryfonów."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Zainteresowanie i bliskość wobec Draco nie oznaczają pełnej wiedzy o jego planach. Krótkie pytanie może odsłonić niepewność.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-pansy-parkinson-dodatkowy",
+          "character": "pansy-parkinson",
+          "kind": "CYTAT_KSIĄŻKOWY",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Half-Blood Prince",
+            "volume": 6
+          },
+          "language": "en",
+          "fragments": [
+            "Do you mean – Him?"
+          ],
+          "translation_note": "Cytat w angielskim oryginale; polski kontekst i analiza są autorskim omówieniem.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/7-times-harrys-invisibility-cloak-came-in-handy",
+            "title": "7 times Harry’s Invisibility Cloak came in handy",
+            "section": "On the Hogwarts Express",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzenie krótkiego cytatu i kontekstu w oficjalnym przytoczeniu; bez odczytu pełnej książki.",
+            "verified_on": "2026-11-02",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Początek VI roku Pansy; przedział Draco.",
+          "context": "Pansy po aluzji Draco próbuje doprecyzować, o kogo mu chodzi. Nie dysponuje od razu całym wyjaśnieniem.",
+          "analysis": [
+            "Zainteresowanie i bliskość wobec Draco nie oznaczają pełnej wiedzy o jego planach. Krótkie pytanie może odsłonić niepewność."
+          ],
+          "limits": [
+            "Nie przenoś misji Draco ani relacji z VI roku do wcześniejszej sceny. Współpraca z Jamesem nie czyni Pansy neutralną wobec Gryfonów."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glos-fred-weasley-ksiazka",
+      "title": "Fred Weasley — głos książkowy",
+      "characters": [
+        "fred-weasley"
+      ],
+      "context": "Fred obraca decyzję o odejściu ze szkoły w żart o wyrośnięciu z nauki, po czym bliźniacy rzeczywiście działają.",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dowcip może otwierać przedsięwzięcie i przykrywać poważną decyzję. Energia inicjatora nie wymaga przemowy."
+      ],
+      "limits": [
+        "Nie dopisuj George’owi identycznego komentarza ani wspólnego umysłu. Odejście ze szkoły nie nastąpiło w kampanii tylko dlatego, że opisuje je wzorzec."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Dowcip może otwierać przedsięwzięcie i przykrywać poważną decyzję. Energia inicjatora nie wymaga przemowy.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-fred-weasley-dodatkowy",
+          "character": "fred-weasley",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Order of the Phoenix",
+            "volume": 5
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Polskie omówienie źródłowe sceny, bez dosłownego cytatu i bez wymyślonej kwestii dialogowej.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/fred-and-george-weasleys-best-one-liners",
+            "title": "Fred and George Weasley’s best one-liners",
+            "section": "Decyzja o opuszczeniu szkoły",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzenie oficjalnego przytoczenia lub omówienia wskazanej sceny; bez odczytu pełnej książki i bez deklarowania dosłownej kwestii.",
+            "verified_on": "2026-11-02",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "VII rok Freda; V rok Harry’ego, sprzeciw wobec Umbridge.",
+          "context": "Fred obraca decyzję o odejściu ze szkoły w żart o wyrośnięciu z nauki, po czym bliźniacy rzeczywiście działają.",
+          "analysis": [
+            "Dowcip może otwierać przedsięwzięcie i przykrywać poważną decyzję. Energia inicjatora nie wymaga przemowy."
+          ],
+          "limits": [
+            "Nie dopisuj George’owi identycznego komentarza ani wspólnego umysłu. Odejście ze szkoły nie nastąpiło w kampanii tylko dlatego, że opisuje je wzorzec."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glos-george-weasley-ksiazka",
+      "title": "George Weasley — głos książkowy",
+      "characters": [
+        "george-weasley"
+      ],
+      "context": "Po utracie ucha George próbuje rozładować lęk rodziny żartem o odróżnianiu bliźniaków.",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Humor może służyć uspokojeniu bliskich i odzyskaniu wpływu na rozmowę w trudnym momencie."
+      ],
+      "limits": [
+        "Nie przenoś obrażenia do wcześniejszej chronologii. Nie wymagaj żartu przy każdym cierpieniu i nie zamieniaj George’a z Fredem."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Humor może służyć uspokojeniu bliskich i odzyskaniu wpływu na rozmowę w trudnym momencie.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-george-weasley-dodatkowy",
+          "character": "george-weasley",
+          "kind": "CYTAT_KSIĄŻKOWY",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Deathly Hallows",
+            "volume": 7
+          },
+          "language": "en",
+          "fragments": [
+            "You’ll be able to tell us apart now"
+          ],
+          "translation_note": "Cytat w angielskim oryginale; polski kontekst i analiza są autorskim omówieniem.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/fred-and-george-weasleys-best-one-liners",
+            "title": "Fred and George Weasley’s best one-liners",
+            "section": "Żart po obrażeniu podczas ewakuacji Harry’ego",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzenie krótkiego cytatu i kontekstu w oficjalnym przytoczeniu; bez odczytu pełnej książki.",
+            "verified_on": "2026-11-02",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosły George; początek wydarzeń Insygniów Śmierci.",
+          "context": "Po utracie ucha George próbuje rozładować lęk rodziny żartem o odróżnianiu bliźniaków.",
+          "analysis": [
+            "Humor może służyć uspokojeniu bliskich i odzyskaniu wpływu na rozmowę w trudnym momencie."
+          ],
+          "limits": [
+            "Nie przenoś obrażenia do wcześniejszej chronologii. Nie wymagaj żartu przy każdym cierpieniu i nie zamieniaj George’a z Fredem."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glos-rubeus-hagrid-ksiazka",
+      "title": "Rubeus Hagrid — głos książkowy",
+      "characters": [
+        "rubeus-hagrid"
+      ],
+      "context": "Hagrid odpowiada na poniżenie Hermiony, z dumą podkreślając jej umiejętności.",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Wsparcie może polegać na prostym uznaniu konkretnej zalety i okazaniu przynależności, zamiast na abstrakcyjnym pocieszeniu."
+      ],
+      "limits": [
+        "Krótki cytat jest tylko częścią dłuższej wypowiedzi. W polskiej scenie nie naśladuj mechanicznie angielskiej pisowni dialektu."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Wsparcie może polegać na prostym uznaniu konkretnej zalety i okazaniu przynależności, zamiast na abstrakcyjnym pocieszeniu.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-rubeus-hagrid-dodatkowy",
+          "character": "rubeus-hagrid",
+          "kind": "CYTAT_KSIĄŻKOWY",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Chamber of Secrets",
+            "volume": 2
+          },
+          "language": "en",
+          "fragments": [
+            "our Hermione"
+          ],
+          "translation_note": "Cytat w angielskim oryginale; polski kontekst i analiza są autorskim omówieniem.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/every-time-hagrid-made-us-feel-better-about-things",
+            "title": "Every time Hagrid made us feel better about things",
+            "section": "When he helped Ron and comforted Hermione after Malfoy’s insults",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzenie krótkiego cytatu i kontekstu w oficjalnym przytoczeniu; bez odczytu pełnej książki.",
+            "verified_on": "2026-11-02",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosły gajowy; II rok Harry’ego, po obelgach Malfoya.",
+          "context": "Hagrid odpowiada na poniżenie Hermiony, z dumą podkreślając jej umiejętności.",
+          "analysis": [
+            "Wsparcie może polegać na prostym uznaniu konkretnej zalety i okazaniu przynależności, zamiast na abstrakcyjnym pocieszeniu."
+          ],
+          "limits": [
+            "Krótki cytat jest tylko częścią dłuższej wypowiedzi. W polskiej scenie nie naśladuj mechanicznie angielskiej pisowni dialektu."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glos-remus-lupin-ksiazka",
+      "title": "Remus Lupin — głos książkowy",
+      "characters": [
+        "remus-lupin"
+      ],
+      "context": "Lupin spokojnie prostuje przekonanie, że Parszywek jest zwykłym szczurem.",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Zwięzłe sprostowanie faktu może wystarczyć przed dalszym wyjaśnieniem. Spokój nie musi oznaczać długiego, terapeutycznego dialogu."
+      ],
+      "limits": [
+        "Korzystaj tylko z przytoczenia książki, nie z wymyślonych myśli kota dodanych przez redakcję. Wiedza o animagu wymaga właściwego etapu i odbiorcy."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Zwięzłe sprostowanie faktu może wystarczyć przed dalszym wyjaśnieniem. Spokój nie musi oznaczać długiego, terapeutycznego dialogu.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-remus-lupin-dodatkowy",
+          "character": "remus-lupin",
+          "kind": "CYTAT_KSIĄŻKOWY",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "volume": 3
+          },
+          "language": "en",
+          "fragments": [
+            "He’s a wizard."
+          ],
+          "translation_note": "Cytat w angielskim oryginale; polski kontekst i analiza są autorskim omówieniem.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/33-thoughts-crookshanks-must-have-had-during-prisoner-of-azkaban",
+            "title": "33 thoughts Crookshanks must have had during Prisoner of Azkaban",
+            "section": "Przytoczony dialog Lupina o Parszywku",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzenie krótkiego cytatu i kontekstu w oficjalnym przytoczeniu; bez odczytu pełnej książki.",
+            "verified_on": "2026-11-02",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosły Lupin; koniec III roku Harry’ego, Wrzeszcząca Chata.",
+          "context": "Lupin spokojnie prostuje przekonanie, że Parszywek jest zwykłym szczurem.",
+          "analysis": [
+            "Zwięzłe sprostowanie faktu może wystarczyć przed dalszym wyjaśnieniem. Spokój nie musi oznaczać długiego, terapeutycznego dialogu."
+          ],
+          "limits": [
+            "Korzystaj tylko z przytoczenia książki, nie z wymyślonych myśli kota dodanych przez redakcję. Wiedza o animagu wymaga właściwego etapu i odbiorcy."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glos-syriusz-black-ksiazka",
+      "title": "Syriusz Black — głos książkowy",
+      "characters": [
+        "syriusz-black"
+      ],
+      "context": "Syriusz domaga się odłożenia trudnej rozmowy, widząc potrzebę odpoczynku Harry’ego.",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Opiekuńczość może wyrazić się ostrym sprzeciwem wobec nacisku. Postać skupia się na bliskim, nie na podtrzymywaniu rozmowy."
+      ],
+      "limits": [
+        "Nie rób z niego zawsze impulsywnego dowcipnisia ani zawsze łagodnego opiekuna. Pamiętaj ograniczenia życia ukrywającego się zbiega."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Opiekuńczość może wyrazić się ostrym sprzeciwem wobec nacisku. Postać skupia się na bliskim, nie na podtrzymywaniu rozmowy.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-syriusz-black-dodatkowy",
+          "character": "syriusz-black",
+          "kind": "CYTAT_KSIĄŻKOWY",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Goblet of Fire",
+            "volume": 4
+          },
+          "language": "en",
+          "fragments": [
+            "Let him rest."
+          ],
+          "translation_note": "Cytat w angielskim oryginale; polski kontekst i analiza są autorskim omówieniem.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/7-of-our-favourite-sirius-black-moments",
+            "title": "7 of our favourite Sirius Black moments",
+            "section": "His protectiveness of Harry after the final Triwizard task",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzenie krótkiego cytatu i kontekstu w oficjalnym przytoczeniu; bez odczytu pełnej książki.",
+            "verified_on": "2026-11-02",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosły Syriusz; po finale Turnieju Trójmagicznego.",
+          "context": "Syriusz domaga się odłożenia trudnej rozmowy, widząc potrzebę odpoczynku Harry’ego.",
+          "analysis": [
+            "Opiekuńczość może wyrazić się ostrym sprzeciwem wobec nacisku. Postać skupia się na bliskim, nie na podtrzymywaniu rozmowy."
+          ],
+          "limits": [
+            "Nie rób z niego zawsze impulsywnego dowcipnisia ani zawsze łagodnego opiekuna. Pamiętaj ograniczenia życia ukrywającego się zbiega."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glos-molly-weasley-ksiazka",
+      "title": "Molly Weasley — głos książkowy",
+      "characters": [
+        "molly-weasley"
+      ],
+      "context": "Po zdecydowanej deklaracji Fleur Molly milczy, a następnie proponuje rodzinną tiarę na ślub.",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Zmiana nastawienia może ujawnić się praktyczną ofertą po pauzie, bez tłumaczenia każdego uczucia."
+      ],
+      "limits": [
+        "Nie przenoś przyszłego pojednania, zaręczyn ani obrażeń Billa do wcześniejszego czasu. Nie sprowadzaj Molly do krzyku i wydawania posiłków."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Zmiana nastawienia może ujawnić się praktyczną ofertą po pauzie, bez tłumaczenia każdego uczucia.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-molly-weasley-dodatkowy",
+          "character": "molly-weasley",
+          "kind": "CYTAT_KSIĄŻKOWY",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Half-Blood Prince",
+            "volume": 6
+          },
+          "language": "en",
+          "fragments": [
+            "Our Great Auntie Muriel"
+          ],
+          "translation_note": "Cytat w angielskim oryginale; polski kontekst i analiza są autorskim omówieniem.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/mrs-weasleys-defining-moments-from-boggarts-to-bellatrix",
+            "title": "Mrs Weasley’s defining moments from Boggarts to Bellatrix",
+            "section": "Accepting Phlegm",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzenie krótkiego cytatu i kontekstu w oficjalnym przytoczeniu; bez odczytu pełnej książki.",
+            "verified_on": "2026-11-02",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosła Molly; koniec VI roku Harry’ego.",
+          "context": "Po zdecydowanej deklaracji Fleur Molly milczy, a następnie proponuje rodzinną tiarę na ślub.",
+          "analysis": [
+            "Zmiana nastawienia może ujawnić się praktyczną ofertą po pauzie, bez tłumaczenia każdego uczucia."
+          ],
+          "limits": [
+            "Nie przenoś przyszłego pojednania, zaręczyn ani obrażeń Billa do wcześniejszego czasu. Nie sprowadzaj Molly do krzyku i wydawania posiłków."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glos-fleur-delacour-ksiazka",
+      "title": "Fleur Delacour — głos książkowy",
+      "characters": [
+        "fleur-delacour"
+      ],
+      "context": "Fleur przynosi Harry’emu śniadanie i krótko odpowiada na zastrzeżenie Molly, że sama miała to zrobić.",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Pewność siebie może współistnieć z konkretną troską. Nie potrzebuje długiego usprawiedliwienia własnej uprzejmości."
+      ],
+      "limits": [
+        "Nie przenoś relacji domowych z późniejszego tomu do roku Turnieju. Akcent nie jest całą osobowością ani obowiązkiem deformowania polskich słów."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Pewność siebie może współistnieć z konkretną troską. Nie potrzebuje długiego usprawiedliwienia własnej uprzejmości.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-fleur-delacour-dodatkowy",
+          "character": "fleur-delacour",
+          "kind": "CYTAT_KSIĄŻKOWY",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Half-Blood Prince",
+            "volume": 6
+          },
+          "language": "en",
+          "fragments": [
+            "Eet was no trouble"
+          ],
+          "translation_note": "Cytat w angielskim oryginale; polski kontekst i analiza są autorskim omówieniem.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/unsung-heroes-of-harry-potter-stories-fleur-delacour",
+            "title": "Unsung heroes: Fleur Delacour",
+            "section": "Joining the Weasleys",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzenie krótkiego cytatu i kontekstu w oficjalnym przytoczeniu; bez odczytu pełnej książki.",
+            "verified_on": "2026-11-02",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosła Fleur; lato przed VI rokiem Harry’ego.",
+          "context": "Fleur przynosi Harry’emu śniadanie i krótko odpowiada na zastrzeżenie Molly, że sama miała to zrobić.",
+          "analysis": [
+            "Pewność siebie może współistnieć z konkretną troską. Nie potrzebuje długiego usprawiedliwienia własnej uprzejmości."
+          ],
+          "limits": [
+            "Nie przenoś relacji domowych z późniejszego tomu do roku Turnieju. Akcent nie jest całą osobowością ani obowiązkiem deformowania polskich słów."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glos-cedric-diggory-ksiazka",
+      "title": "Cedric Diggory — głos książkowy",
+      "characters": [
+        "cedric-diggory"
+      ],
+      "context": "Choć jest bliżej Pucharu, Cedrik proponuje zwycięstwo Harry’emu po tym, jak ten uratował go w labiryncie.",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Uznanie długu i uczciwość mogą przeważyć nad ambicją. Propozycja wynika z konkretnego czynu, nie z ogólnej bezinteresowności wobec wszystkich."
+      ],
+      "limits": [
+        "Stosuj w retrospekcjach lub zgodnych wariantach kampanii; nie przywracaj zmarłej postaci do bieżącej sceny. Nie zamieniaj uczciwości w brak własnych ambicji."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Uznanie długu i uczciwość mogą przeważyć nad ambicją. Propozycja wynika z konkretnego czynu, nie z ogólnej bezinteresowności wobec wszystkich.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-cedric-diggory-dodatkowy",
+          "character": "cedric-diggory",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Goblet of Fire",
+            "volume": 4
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Polskie omówienie źródłowe sceny, bez dosłownego cytatu i bez wymyślonej kwestii dialogowej.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/the-chapter-that-made-us-fall-in-love-with-cedric-diggory",
+            "title": "The chapter that made us fall in love with... Cedric Diggory",
+            "section": "Why it matters",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzenie oficjalnego przytoczenia lub omówienia wskazanej sceny; bez odczytu pełnej książki i bez deklarowania dosłownej kwestii.",
+            "verified_on": "2026-11-02",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Uczeń ostatnich lat; finał Turnieju, przed śmiercią Cedrika.",
+          "context": "Choć jest bliżej Pucharu, Cedrik proponuje zwycięstwo Harry’emu po tym, jak ten uratował go w labiryncie.",
+          "analysis": [
+            "Uznanie długu i uczciwość mogą przeważyć nad ambicją. Propozycja wynika z konkretnego czynu, nie z ogólnej bezinteresowności wobec wszystkich."
+          ],
+          "limits": [
+            "Stosuj w retrospekcjach lub zgodnych wariantach kampanii; nie przywracaj zmarłej postaci do bieżącej sceny. Nie zamieniaj uczciwości w brak własnych ambicji."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glos-theodore-nott-kampania",
+      "title": "Theodore Nott — głos kampanii",
+      "characters": [
+        "theodore-nott"
+      ],
+      "context": "Skorygowana rozmowa o karze dla Freda; Nott prostuje fakt i wraca do lektury.",
+      "quote": "Nic. Po prostu nie uderzył.",
+      "sources": [
+        "C14-M0078"
+      ],
+      "signals": [
+        "Oszczędne, dosłowne sprostowanie bez automatycznego opowiadania się po stronie Jamesa."
+      ],
+      "limits": [
+        "To próbka kampanii, nie zweryfikowany cytat z powieści. Nie dopisuj Nottowi stale roli obrońcy Jamesa ani cudzych sekretów."
+      ],
+      "status": "PRÓBKA_KAMPANII",
+      "summary": "Oszczędne, dosłowne sprostowanie bez automatycznego opowiadania się po stronie Jamesa.",
+      "period": "C14",
+      "as_of": "C14-M0078",
+      "book_references": []
+    },
+    {
+      "id": "glos-elodie-moreau-kampania",
+      "title": "Élodie Moreau — głos kampanii",
+      "characters": [
+        "elodie-moreau"
+      ],
+      "context": "List o możliwej wizycie w Anglii; Élodie musi uzgodnić wyjazd z rodzicami.",
+      "quote": "Nie mogę jednak jeszcze niczego obiecać.",
+      "sources": [
+        "C14-M0694"
+      ],
+      "signals": [
+        "Ciepła korespondencja może zawierać wyraźną granicę i realne ograniczenie; sympatia nie oznacza obietnicy."
+      ],
+      "limits": [
+        "Postać kampanii: brak książkowego odpowiednika. Styl listu nie wymaga równie rozbudowanych wypowiedzi w rozmowie. Nie zamieniaj planowanej wizyty w odbytą."
+      ],
+      "status": "PRÓBKA_KAMPANII",
+      "summary": "Ciepła korespondencja może zawierać wyraźną granicę i realne ograniczenie; sympatia nie oznacza obietnicy.",
+      "period": "C14",
+      "as_of": "C14-M0694",
       "book_references": []
     }
   ]

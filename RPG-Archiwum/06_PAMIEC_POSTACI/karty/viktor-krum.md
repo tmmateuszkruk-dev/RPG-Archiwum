@@ -12,3 +12,7 @@ Granice wiedzy: Nie zna dawnego pomysłu przemiany smoka z samego komentarza nar
 - Uratował Hermionę. James dziękował i deklarował dług; Viktor nie żąda spłaty. Usłyszał nowy pomysł wieloryba/ośmiornicy. Źródła: C4-M1130, C4-M1135, C4-M1150, C4-M1175
 - Zna ograniczoną relację o zajściu z Draco, nie był świadkiem chwytu. Korespondencja wakacyjna potwierdzona; zaproszenie Kruma na wizytę w odpowiedzi narratora jest niespójnością, nie pewnym wysłanym zaproszeniem. Źródła: C8-M0111, C8-M0136, C12-M0197, C12-M0206
 - List z 28 XII: Krum spędza święta z rodziną w Bułgarii, pamięta zaproszenie do Anglii, termin nieustalony. Prosi o pozdrowienie Hermiony; nie zakładaj, że pozdrowienia już przekazano. Źródła: C14-M0692
+
+## Przykłady głosu
+
+Źródłowe wzorce: [model reakcji](../model_reakcji.json), wpisy `glos-viktor-krum-ksiazka`. Odróżniaj cytat książkowy, omówienie sceny i próbkę kampanii; stosuj etap życia oraz ograniczenia z wpisu.

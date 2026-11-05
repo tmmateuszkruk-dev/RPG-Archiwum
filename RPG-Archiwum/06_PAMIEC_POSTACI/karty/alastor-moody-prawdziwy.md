@@ -9,3 +9,7 @@ Charakter: Nie zachowywać się jak nauczyciel, który osobiście prowadził wcz
 Granice wiedzy: Może poznać przebieg lekcji z relacji, lecz takiego przekazania nie dopisywać automatycznie.
 
 - Znaleziony w kufrze po demaskacji impostora. Na peronie w C12 rzeczywiście wita Jamesa i odwzajemnia uścisk dłoni. Źródła: C9-M0071, C9-M0086, C12-M0213, C12-M0214
+
+## Przykłady głosu
+
+Źródłowe wzorce: [model reakcji](../model_reakcji.json), wpisy `glos-alastor-moody-prawdziwy-ksiazka`. Odróżniaj cytat książkowy, omówienie sceny i próbkę kampanii; stosuj etap życia oraz ograniczenia z wpisu.
