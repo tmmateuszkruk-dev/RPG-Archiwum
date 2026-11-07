@@ -26,3 +26,5 @@ Wzorce kanonicznego głosu: `book_references` w odpowiednich wpisach [modelu rea
 - 13 I przyjęła notes „Na rzeczy, których inni nie zauważają” wykonany przez młodszych. Źródła C15-M0395–M0396.
 - 14 II uczestniczyła w wywiadzie Harry'ego dla Żonglera. Źródła C15-M0419–M0420.
 - 20 VI uczestniczyła w wyprawie do Departamentu Tajemnic, ale nie widziała automatycznie każdego zdarzenia we wszystkich salach. Źródła C15-M0920–M1010.
+
+Dobór sytuacji: sprawdź wszystkie wpisy tej postaci w `model_reakcji.json`, także `glos-luna-lovegood-sytuacja-*`. Oznaczenia `voice_situations` odnoszą się osobno do próbki kampanii i każdego wzorca książkowego. Wybierz przykład pasujący do obecnego celu, odbiorcy, wieku i obciążenia; brak kategorii jest luką źródłową, nie cechą postaci. Cisza nie wymaga puenty.

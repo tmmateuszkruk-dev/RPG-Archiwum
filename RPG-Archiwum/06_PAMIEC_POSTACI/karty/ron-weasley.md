@@ -28,3 +28,5 @@ Wzorce kanonicznego głosu: `book_references` w odpowiednich wpisach [modelu rea
 - W marcu użytkownik skorygował nietrafioną reakcję Rona. Cofnięty wariant nie stanowi jego wspomnienia. Źródła C15-M0579–M0580.
 - Brał udział w wyprawie do Departamentu Tajemnic; nie był świadkiem każdego odległego fragmentu walki. Źródła C15-M0920–M1030.
 - 21 VI rano widział Jamesa śpiącego w skrzydle szpitalnym przy Hermionie. Nie oznacza to stałego wyleczenia Jamesa. Źródła C15-M1079–M1080.
+
+Dobór sytuacji: sprawdź wszystkie wpisy tej postaci w `model_reakcji.json`, także `glos-ron-weasley-sytuacja-*`. Oznaczenia `voice_situations` odnoszą się osobno do próbki kampanii i każdego wzorca książkowego. Wybierz przykład pasujący do obecnego celu, odbiorcy, wieku i obciążenia; brak kategorii jest luką źródłową, nie cechą postaci. Cisza nie wymaga puenty.

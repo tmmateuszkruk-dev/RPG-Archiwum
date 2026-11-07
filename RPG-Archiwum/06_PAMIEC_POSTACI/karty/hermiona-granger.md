@@ -67,3 +67,5 @@ Wzorce kanonicznego głosu: `book_references` w odpowiednich wpisach [modelu rea
 - 27 IV zorganizowała i rzeczywiście zrealizowała obiecaną wcześniej randkę; bez zaręczyn. Źródła C15-M0761–M0898.
 - Uczestniczyła w wyprawie do Ministerstwa; w skrzydle szpitalnym widziała Jamesa podczas rzeczywistego snu. Źródła C15-M0920–M1080.
 - 21 VI popiera pomysł grupowej nauki, ale uważa, że potrzebna jest zgoda nauczyciela na salę; nie odpowiada w imieniu Jamesa. Źródło C15-M1350.
+
+Dobór sytuacji: sprawdź wszystkie wpisy tej postaci w `model_reakcji.json`, także `glos-hermiona-granger-sytuacja-*`. Oznaczenia `voice_situations` odnoszą się osobno do próbki kampanii i każdego wzorca książkowego. Wybierz przykład pasujący do obecnego celu, odbiorcy, wieku i obciążenia; brak kategorii jest luką źródłową, nie cechą postaci. Cisza nie wymaga puenty.

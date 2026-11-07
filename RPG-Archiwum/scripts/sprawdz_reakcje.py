@@ -29,6 +29,14 @@ def validate(root=ROOT):
     seen=set()
     book_ids=set()
     book_fragments=defaultdict(set)
+    modes={'zwykla_rozmowa','humor','sprzeciw','troska','zmeczenie','presja','cisza'}
+    assert model['metadata']['schema_version']==4
+    assert set(model['metadata']['voice_situations'])==modes
+    coverage={cid:dict.fromkeys(modes,0) for cid in {c for e in model['voice'] for c in e['characters']}}
+    def check_modes(sample, allow_empty=False):
+        tags=sample['voice_situations']
+        assert isinstance(tags,list) and len(tags)==len(set(tags)) and set(tags)<=modes,sample['id']
+        assert tags or allow_empty,sample['id']
     for kind in ['conversation','beliefs','voice']:
         for entry in model[kind]:
             assert entry['id'] not in seen,entry['id'];seen.add(entry['id'])
@@ -42,10 +50,16 @@ def validate(root=ROOT):
             assert entry['characters'] and set(entry['characters'])<=set(cards),entry['id']
             assert not any(s.startswith('C12-') and 922<=int(s.split('M')[1])<=949 or s in ['C14-M0276','C14-M0064'] for s in entry['sources']),entry['id']
             if kind=='voice':
+                check_modes(entry,book_only)
+                if book_only:assert entry['voice_situations']==[],entry['id']
+                for cid in entry['characters']:
+                    for mode in entry['voice_situations']:coverage[cid][mode]+=1
                 if not book_only:
                     assert entry['status']=='PRÓBKA_KAMPANII' and entry['quote'] in messages[entry['sources'][0]],entry['id']
                 assert entry['context'] and entry['limits']
                 for sample in entry.get('book_references',[]):
+                    check_modes(sample)
+                    for mode in sample['voice_situations']:coverage[sample['character']][mode]+=1
                     assert sample['id'] not in book_ids,sample['id'];book_ids.add(sample['id'])
                     assert sample['kind'] in ['CYTAT_KSIĄŻKOWY','OMÓWIENIE_SCENY_KSIĄŻKOWEJ']
                     assert sample['character'] in entry['characters']
@@ -70,6 +84,9 @@ def validate(root=ROOT):
             else:
                 assert entry['status'] in ['OTWARTE','ODPOWIEDZIANE','PRZYJĘTE','ODŁOŻONE','PLAN','NIEPOTWIERDZONE','ZASTĄPIONE']
     expected_source={'path':'06_PAMIEC_POSTACI/model_reakcji.json','blob_sha':blob(model_path.read_bytes())}
+    assert coverage==model['metadata']['voice_situation_coverage']
+    vc=model['metadata']['voice_coverage']
+    assert vc['voice_records']==len(model['voice']) and vc['book_references']==len(book_ids)
     assert memory['metadata']['reaction_source']==expected_source
     for cid,card in cards.items():
         assert card['reaction_state']['source']==expected_source,cid

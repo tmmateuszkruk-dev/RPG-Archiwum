@@ -31,3 +31,5 @@ Wzorce kanonicznego głosu: `book_references` w odpowiednich wpisach [modelu rea
 
 - 20 VI była uczestniczką wyprawy do Departamentu Tajemnic. Nie zna automatycznie wszystkich rozmów i fragmentów starcia. Źródła C15-M0920–M1010.
 - 21 VI rano przebywała w skrzydle szpitalnym z innymi uczestnikami; widziała obecność Jamesa i Hermiony. Źródła C15-M1079–M1080.
+
+Dobór sytuacji: sprawdź wszystkie wpisy tej postaci w `model_reakcji.json`, także `glos-ginny-weasley-sytuacja-*`. Oznaczenia `voice_situations` odnoszą się osobno do próbki kampanii i każdego wzorca książkowego. Wybierz przykład pasujący do obecnego celu, odbiorcy, wieku i obciążenia; brak kategorii jest luką źródłową, nie cechą postaci. Cisza nie wymaga puenty.

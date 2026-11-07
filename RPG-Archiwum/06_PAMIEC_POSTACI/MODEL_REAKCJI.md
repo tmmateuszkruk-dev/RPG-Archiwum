@@ -18,7 +18,7 @@ Sprawdziany w `07_SPRAWDZIANY` służą ocenie narracji. Ich polecenia i odpowie
 
 ## Książkowe wzorce głosu
 
-Lista `voice[].book_references` zawiera krótkie cytaty (`CYTAT_KSIĄŻKOWY`) oraz wyraźnie oznaczone autorskie omówienia scen (`OMÓWIENIE_SCENY_KSIĄŻKOWEJ`). Wersja 3 obejmuje 29 wzorców dla 28 postaci: 21 krótkich cytatów i 8 omówień. Łącznie z próbkami kampanii opracowano głosy 33 postaci. Pozostałe próbki pozostają oznaczone jako kampania; pusta lista nie dowodzi braku wypowiedzi w kanonie. Przy postaci sprawdzaj wszystkie jej wpisy głosu.
+Lista `voice[].book_references` zawiera krótkie cytaty (`CYTAT_KSIĄŻKOWY`) oraz wyraźnie oznaczone autorskie omówienia scen (`OMÓWIENIE_SCENY_KSIĄŻKOWEJ`). Wersja 4 obejmuje 60 wzorców dla 28 postaci: 21 krótkich cytatów i 39 omówień. Łącznie z próbkami kampanii opracowano 68 wpisów dla 33 postaci. Dodano 31 sytuacyjnych przykładów dla 12 ważnych postaci. Pozostałe próbki pozostają oznaczone jako kampania; pusta lista nie dowodzi braku wypowiedzi w kanonie. Przy postaci sprawdzaj wszystkie jej wpisy głosu.
 
 Każdy wzorzec ma autora, tytuł i tom (`work`), język, dosłowne urywki (`fragments`; pusta lista dla omówień), odsyłacz i sekcję oficjalnej publikacji (`source`), zakres weryfikacji, etap życia, kontekst, interpretację i ograniczenia. Cytaty sprawdzono w oficjalnych przytoczeniach na HarryPotter.com, a omówienia w oficjalnych opisach lub przytoczeniach scen. Nie oznacza to odczytu pełnych książek. Omówienie nie jest wymyśloną kwestią dialogową; cudza relacja o bohaterze nie jest jego własną wypowiedzią. Nie dopisano niezweryfikowanych numerów stron, rozdziałów ani polskiego wydania. Angielski oryginał nie jest cytatem z polskiego przekładu; polska analiza jest własnym omówieniem.
 
@@ -29,3 +29,13 @@ Dobieraj pasujący wiek, emocję i relację; nie odmładzaj postaci przez dawną
 Walidator sprawdza strukturę i spójność zapisanych danych, a nie ponownie treść witryn. Potwierdzenie cytatu w źródle jest osobnym krokiem redakcyjnym. Zapisuj tylko krótkie fragmenty potrzebne do analizy; nie buduj zbioru długich ustępów.
 
 Dla Notta nie potwierdzono tu bezpośredniej książkowej kwestii; użyto skorygowanej sceny C14-M0078. Élodie jest postacią kampanii — jej list C14-M0694 nie jest materiałem z powieści. Prawdziwy Moody i Crouch w jego roli mają oddzielne wpisy; szkolnych scen z IV roku nie przypisuj prawdziwemu aurorowi. Fred i George zachowują oddzielne wypowiedzi.
+
+## Sytuacja, nie jedna stała maniera
+
+`voice_situations` przy wpisie oznacza wyłącznie jego próbkę kampanii; dla samodzielnego wzorca książkowego ta lista jest pusta. Każdy element `book_references` ma własne oznaczenia. Nigdy nie przypisuj tonu książkowej riposty sąsiedniemu cytatowi kampanii tylko dlatego, że są w jednym rekordzie.
+
+Kategorie: `zwykla_rozmowa`, `humor`, `sprzeciw`, `troska`, `zmeczenie`, `presja`, `cisza`. Mogą współwystępować; opisują sytuację źródłową, nie diagnozę ani stały temperament. `zmeczenie` obejmuje również wyraźnie opisane przeciążenie, którego przyczynę sprawdza się w kontekście. Choroba, strach, żałoba i złość nie są automatycznie zmęczeniem. `troska` może oznaczać praktyczną ochronę bez serdeczności. `cisza` oznacza istotny gest lub milczenie, nie zakaz mówienia.
+
+Przed użyciem wybierz obecną sytuację, rozmówcę, własny cel postaci i jej obciążenie. Sprawdź kartę oraz etap, potem jeden trafny przykład i ewentualnie drugi dla kontrastu. Filtr jest pomocą w znalezieniu źródła, nie poleceniem odegrania sceny. Nie losuj emocji, nie rotuj obowiązkowo kategorii i nie wciskaj żartu do spokojnej rozmowy. Jeśli nic istotnego nie wymaga odpowiedzi, wystarczy obecność lub drobny gest. Braku przykładu nie wypełniaj wymyślonym wspomnieniem ani cytatem.
+
+`metadata.voice_situation_coverage` zlicza oznaczenia źródłowych przykładów osobno dla każdej postaci. Zero oznacza brak opracowania. To nie kompletna mapa emocji obsady. Przeglądarka ma filtr „Sytuacja”, a `query_browser.py` przyjmuje `--kind records --record-kind voice --voice-situation <kategoria>`. W zwróconym rekordzie `voice_matches` wskazuje dokładne pasujące próbki. Pozostałe treści tego rekordu mogą dotyczyć innych sytuacji. Filtry części i `--at` nadal odnoszą się tylko do historii kampanii; wiek i chronologię książki trzeba sprawdzić osobno.

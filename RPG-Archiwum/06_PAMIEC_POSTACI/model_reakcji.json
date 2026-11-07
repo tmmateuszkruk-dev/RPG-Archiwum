@@ -1,21 +1,332 @@
 {
   "metadata": {
-    "schema_version": 3,
+    "schema_version": 4,
     "campaign": "hogwarts-james-hermiona",
     "cutoff": "C15-M1350",
-    "source_commit": "cfaf3860156640293b8a7a5736e0d319b6592db8",
+    "source_commit": "889913d288384e85c9fc11b643e7a3dc5c84366f",
     "coverage": "Opracowanie częściowe: głosy 33 postaci. Krótkie cytaty książkowe, oznaczone omówienia scen oraz próbki kampanii mają osobne źródła. Brak wpisu nie dowodzi braku historii, wypowiedzi lub przekonania. Ustalenia rozmów obejmują również rozstrzygnięcia i otwarte sprawy C15.",
     "characters": 131,
     "player": "james-brown",
     "voice_coverage": {
-      "voice_records": 37,
+      "voice_records": 68,
       "characters": 33,
-      "book_references": 29,
+      "book_references": 60,
       "book_characters": 28,
       "book_quotes": 21,
-      "book_scene_summaries": 8,
-      "expanded_characters": 25
-    }
+      "book_scene_summaries": 39,
+      "expanded_characters": 25,
+      "situationally_expanded_characters": 12,
+      "new_situational_examples": 31
+    },
+    "voice_situations": {
+      "zwykla_rozmowa": "Zwykła rozmowa",
+      "humor": "Humor",
+      "sprzeciw": "Sprzeciw",
+      "troska": "Troska",
+      "zmeczenie": "Zmęczenie / przeciążenie",
+      "presja": "Pod presją",
+      "cisza": "Cisza / gest"
+    },
+    "voice_situation_coverage": {
+      "alastor-moody-prawdziwy": {
+        "zwykla_rozmowa": 0,
+        "humor": 0,
+        "sprzeciw": 1,
+        "troska": 1,
+        "zmeczenie": 0,
+        "presja": 0,
+        "cisza": 0
+      },
+      "albus-dumbledore": {
+        "zwykla_rozmowa": 1,
+        "humor": 2,
+        "sprzeciw": 1,
+        "troska": 0,
+        "zmeczenie": 0,
+        "presja": 1,
+        "cisza": 0
+      },
+      "barty-crouch-junior-falszywy-moody": {
+        "zwykla_rozmowa": 0,
+        "humor": 0,
+        "sprzeciw": 1,
+        "troska": 0,
+        "zmeczenie": 0,
+        "presja": 0,
+        "cisza": 0
+      },
+      "cedric-diggory": {
+        "zwykla_rozmowa": 0,
+        "humor": 0,
+        "sprzeciw": 0,
+        "troska": 1,
+        "zmeczenie": 0,
+        "presja": 0,
+        "cisza": 0
+      },
+      "dolores-umbridge": {
+        "zwykla_rozmowa": 0,
+        "humor": 0,
+        "sprzeciw": 1,
+        "troska": 0,
+        "zmeczenie": 0,
+        "presja": 0,
+        "cisza": 0
+      },
+      "draco-malfoy": {
+        "zwykla_rozmowa": 0,
+        "humor": 1,
+        "sprzeciw": 0,
+        "troska": 0,
+        "zmeczenie": 1,
+        "presja": 2,
+        "cisza": 0
+      },
+      "elodie-moreau": {
+        "zwykla_rozmowa": 1,
+        "humor": 0,
+        "sprzeciw": 1,
+        "troska": 0,
+        "zmeczenie": 0,
+        "presja": 0,
+        "cisza": 0
+      },
+      "filius-flitwick": {
+        "zwykla_rozmowa": 0,
+        "humor": 1,
+        "sprzeciw": 1,
+        "troska": 0,
+        "zmeczenie": 0,
+        "presja": 0,
+        "cisza": 0
+      },
+      "fleur-delacour": {
+        "zwykla_rozmowa": 1,
+        "humor": 0,
+        "sprzeciw": 0,
+        "troska": 1,
+        "zmeczenie": 0,
+        "presja": 0,
+        "cisza": 0
+      },
+      "fred-weasley": {
+        "zwykla_rozmowa": 0,
+        "humor": 1,
+        "sprzeciw": 1,
+        "troska": 0,
+        "zmeczenie": 0,
+        "presja": 0,
+        "cisza": 0
+      },
+      "george-weasley": {
+        "zwykla_rozmowa": 0,
+        "humor": 1,
+        "sprzeciw": 0,
+        "troska": 0,
+        "zmeczenie": 0,
+        "presja": 1,
+        "cisza": 0
+      },
+      "ginny-weasley": {
+        "zwykla_rozmowa": 1,
+        "humor": 2,
+        "sprzeciw": 2,
+        "troska": 0,
+        "zmeczenie": 0,
+        "presja": 0,
+        "cisza": 1
+      },
+      "graham-pritchard": {
+        "zwykla_rozmowa": 1,
+        "humor": 0,
+        "sprzeciw": 0,
+        "troska": 0,
+        "zmeczenie": 0,
+        "presja": 1,
+        "cisza": 0
+      },
+      "gruba-dama": {
+        "zwykla_rozmowa": 1,
+        "humor": 1,
+        "sprzeciw": 0,
+        "troska": 0,
+        "zmeczenie": 0,
+        "presja": 0,
+        "cisza": 0
+      },
+      "harry-potter": {
+        "zwykla_rozmowa": 1,
+        "humor": 0,
+        "sprzeciw": 2,
+        "troska": 2,
+        "zmeczenie": 0,
+        "presja": 2,
+        "cisza": 0
+      },
+      "hermiona-granger": {
+        "zwykla_rozmowa": 2,
+        "humor": 2,
+        "sprzeciw": 3,
+        "troska": 1,
+        "zmeczenie": 1,
+        "presja": 1,
+        "cisza": 0
+      },
+      "irma-pince": {
+        "zwykla_rozmowa": 0,
+        "humor": 0,
+        "sprzeciw": 1,
+        "troska": 0,
+        "zmeczenie": 0,
+        "presja": 0,
+        "cisza": 0
+      },
+      "luna-lovegood": {
+        "zwykla_rozmowa": 1,
+        "humor": 1,
+        "sprzeciw": 0,
+        "troska": 4,
+        "zmeczenie": 0,
+        "presja": 1,
+        "cisza": 2
+      },
+      "malcolm-baddock": {
+        "zwykla_rozmowa": 1,
+        "humor": 0,
+        "sprzeciw": 0,
+        "troska": 0,
+        "zmeczenie": 0,
+        "presja": 0,
+        "cisza": 0
+      },
+      "minerva-mcgonagall": {
+        "zwykla_rozmowa": 0,
+        "humor": 0,
+        "sprzeciw": 1,
+        "troska": 1,
+        "zmeczenie": 0,
+        "presja": 1,
+        "cisza": 0
+      },
+      "molly-weasley": {
+        "zwykla_rozmowa": 0,
+        "humor": 0,
+        "sprzeciw": 0,
+        "troska": 1,
+        "zmeczenie": 0,
+        "presja": 0,
+        "cisza": 1
+      },
+      "neville-longbottom": {
+        "zwykla_rozmowa": 0,
+        "humor": 0,
+        "sprzeciw": 2,
+        "troska": 1,
+        "zmeczenie": 0,
+        "presja": 1,
+        "cisza": 1
+      },
+      "orla-quirke": {
+        "zwykla_rozmowa": 0,
+        "humor": 0,
+        "sprzeciw": 1,
+        "troska": 0,
+        "zmeczenie": 0,
+        "presja": 0,
+        "cisza": 0
+      },
+      "pansy-parkinson": {
+        "zwykla_rozmowa": 1,
+        "humor": 0,
+        "sprzeciw": 0,
+        "troska": 0,
+        "zmeczenie": 0,
+        "presja": 0,
+        "cisza": 0
+      },
+      "pomona-sprout": {
+        "zwykla_rozmowa": 0,
+        "humor": 0,
+        "sprzeciw": 1,
+        "troska": 1,
+        "zmeczenie": 0,
+        "presja": 0,
+        "cisza": 0
+      },
+      "poppy-pomfrey": {
+        "zwykla_rozmowa": 0,
+        "humor": 0,
+        "sprzeciw": 1,
+        "troska": 1,
+        "zmeczenie": 0,
+        "presja": 0,
+        "cisza": 0
+      },
+      "remus-lupin": {
+        "zwykla_rozmowa": 1,
+        "humor": 0,
+        "sprzeciw": 1,
+        "troska": 0,
+        "zmeczenie": 1,
+        "presja": 1,
+        "cisza": 0
+      },
+      "ron-weasley": {
+        "zwykla_rozmowa": 1,
+        "humor": 1,
+        "sprzeciw": 2,
+        "troska": 1,
+        "zmeczenie": 0,
+        "presja": 1,
+        "cisza": 1
+      },
+      "rubeus-hagrid": {
+        "zwykla_rozmowa": 1,
+        "humor": 0,
+        "sprzeciw": 0,
+        "troska": 1,
+        "zmeczenie": 0,
+        "presja": 1,
+        "cisza": 0
+      },
+      "severus-snape": {
+        "zwykla_rozmowa": 0,
+        "humor": 0,
+        "sprzeciw": 1,
+        "troska": 2,
+        "zmeczenie": 0,
+        "presja": 1,
+        "cisza": 1
+      },
+      "syriusz-black": {
+        "zwykla_rozmowa": 0,
+        "humor": 0,
+        "sprzeciw": 1,
+        "troska": 1,
+        "zmeczenie": 0,
+        "presja": 0,
+        "cisza": 0
+      },
+      "theodore-nott": {
+        "zwykla_rozmowa": 0,
+        "humor": 0,
+        "sprzeciw": 1,
+        "troska": 0,
+        "zmeczenie": 0,
+        "presja": 0,
+        "cisza": 1
+      },
+      "viktor-krum": {
+        "zwykla_rozmowa": 1,
+        "humor": 0,
+        "sprzeciw": 0,
+        "troska": 0,
+        "zmeczenie": 0,
+        "presja": 0,
+        "cisza": 0
+      }
+    },
+    "voice_situation_scope": "Oznaczenia dotyczą konkretnych próbek. voice_situations wpisu dotyczy tylko próbki kampanii; wzorce książkowe mają własne oznaczenia. Zero oznacza brak opracowanego przykładu, nie brak zdolności do reakcji. Przeciążenie, niedyspozycja, lęk i złość nie są zamienne."
   },
   "conversation": [
     {
@@ -288,6 +599,10 @@
           "limits": [
             "Nie zmieniaj każdej odpowiedzi w sarkazm. To reakcja na konkretną niezręczność, nie stały ton wobec bliskich.",
             "Książkowa relacja z Ronem nie zastępuje relacji ustalonej w kampanii."
+          ],
+          "voice_situations": [
+            "sprzeciw",
+            "humor"
           ]
         },
         {
@@ -326,8 +641,14 @@
           "limits": [
             "Nie odmładzaj obecnej Hermiony do pierwszego roku. Porównaj z aktualną kartą i doświadczeniami.",
             "To fragment dłuższej wypowiedzi, nie dowód, że Hermiona zawsze mówi krótko."
+          ],
+          "voice_situations": [
+            "troska"
           ]
         }
+      ],
+      "voice_situations": [
+        "sprzeciw"
       ]
     },
     {
@@ -353,7 +674,10 @@
       "summary": "Ma własne zajęcie podczas czekania. Praktyczny konkret może oddać jej charakter.",
       "period": "C14",
       "as_of": "C14-M0198",
-      "book_references": []
+      "book_references": [],
+      "voice_situations": [
+        "zwykla_rozmowa"
+      ]
     },
     {
       "id": "glos-hermiona-granger-3",
@@ -377,7 +701,10 @@
       "summary": "Rozpoznaje zachowanie Jamesa jako znane.",
       "period": "C8",
       "as_of": "C8-M0740",
-      "book_references": []
+      "book_references": [],
+      "voice_situations": [
+        "zwykla_rozmowa"
+      ]
     },
     {
       "id": "glos-ginny-weasley-1",
@@ -438,8 +765,14 @@
           "limits": [
             "Nie traktuj tego jako beztroskiego żartu ani nakazu ciągłego przywoływania traumy.",
             "Wspomnienie z książki wymaga zgodności z chronologią tej kampanii; sama próbka nie nadaje wiedzy świadkom."
+          ],
+          "voice_situations": [
+            "sprzeciw"
           ]
         }
+      ],
+      "voice_situations": [
+        "humor"
       ]
     },
     {
@@ -463,7 +796,10 @@
       "summary": "Proponuje własne rozwiązanie z zaczepnym podtekstem.",
       "period": "C13",
       "as_of": "C13-M0948",
-      "book_references": []
+      "book_references": [],
+      "voice_situations": [
+        "zwykla_rozmowa"
+      ]
     },
     {
       "id": "glos-ron-weasley-1",
@@ -523,8 +859,14 @@
           "limits": [
             "Nie rób z Rona wyłącznie komicznego komentatora ani osoby niezdolnej do powagi.",
             "Nie odtwarzaj III roku jako aktualnego wieku."
+          ],
+          "voice_situations": [
+            "humor"
           ]
         }
+      ],
+      "voice_situations": [
+        "sprzeciw"
       ]
     },
     {
@@ -588,8 +930,15 @@
           "limits": [
             "Nie przenoś wrogości wobec Rity na każdego rozmówcę.",
             "Nie sklejaj oddzielnych urywków w rzekomy ciągły cytat."
+          ],
+          "voice_situations": [
+            "sprzeciw"
           ]
         }
+      ],
+      "voice_situations": [
+        "sprzeciw",
+        "presja"
       ]
     },
     {
@@ -651,8 +1000,14 @@
           "limits": [
             "To obserwacja dostępna Lunie w tej sytuacji, nie wszechwiedza o emocjach i sekretach innych.",
             "Przykład szkolnej Luny nie ustala wieku ani małżeńskiej relacji w odrębnej kampanii."
+          ],
+          "voice_situations": [
+            "troska"
           ]
         }
+      ],
+      "voice_situations": [
+        "humor"
       ]
     },
     {
@@ -713,8 +1068,14 @@
           ],
           "limits": [
             "Nie przenoś późniejszego hasła ani świątecznej niedyspozycji do bieżącej kampanii. Znane noszenie Hermiony nie staje się nowym odkryciem."
+          ],
+          "voice_situations": [
+            "zwykla_rozmowa"
           ]
         }
+      ],
+      "voice_situations": [
+        "humor"
       ]
     },
     {
@@ -739,7 +1100,10 @@
       "summary": "Ma własny cel związany z domem i Amelią. Nie sprowadza rozmowy wyłącznie do Jamesa.",
       "period": "C14",
       "as_of": "C14-M0700",
-      "book_references": []
+      "book_references": [],
+      "voice_situations": [
+        "presja"
+      ]
     },
     {
       "id": "glos-graham-pritchard-2",
@@ -762,7 +1126,10 @@
       "summary": "Potrafi zaproponować zwyczajne wspólne zajęcie.",
       "period": "C14",
       "as_of": "C14-M0704",
-      "book_references": []
+      "book_references": [],
+      "voice_situations": [
+        "zwykla_rozmowa"
+      ]
     },
     {
       "id": "glos-malcolm-baddock-1",
@@ -785,7 +1152,10 @@
       "summary": "Potrafi zawahać się i nie mieć gotowego stanowiska.",
       "period": "C14",
       "as_of": "C14-M0700",
-      "book_references": []
+      "book_references": [],
+      "voice_situations": [
+        "zwykla_rozmowa"
+      ]
     },
     {
       "id": "glos-orla-quirke-1",
@@ -808,7 +1178,10 @@
       "summary": "Zwraca uwagę na znany fakt zamiast wzmacniać sensację.",
       "period": "C14",
       "as_of": "C14-M0692",
-      "book_references": []
+      "book_references": [],
+      "voice_situations": [
+        "sprzeciw"
+      ]
     },
     {
       "id": "glos-draco-malfoy-ksiazka",
@@ -864,9 +1237,13 @@
           ],
           "limits": [
             "Nie kieruj każdej rozmowy ku obeldze. Współpraca z Jamesem nie usuwa dumy ani wcześniejszych konfliktów."
+          ],
+          "voice_situations": [
+            "humor"
           ]
         }
-      ]
+      ],
+      "voice_situations": []
     },
     {
       "id": "glos-severus-snape-ksiazka",
@@ -922,9 +1299,13 @@
           ],
           "limits": [
             "Nie kopiuj stosunku do Harry’ego na każdego ucznia; zachowaj ustalone doświadczenia z Jamesem. Nie redukuj postaci do jednego szyderstwa."
+          ],
+          "voice_situations": [
+            "sprzeciw"
           ]
         }
-      ]
+      ],
+      "voice_situations": []
     },
     {
       "id": "glos-minerva-mcgonagall-ksiazka",
@@ -980,9 +1361,13 @@
           ],
           "limits": [
             "Nie powtarzaj ciastek jako znaku rozpoznawczego. Pomoc nie znosi zasad ani nie oznacza aprobaty każdego zachowania ucznia."
+          ],
+          "voice_situations": [
+            "troska"
           ]
         }
-      ]
+      ],
+      "voice_situations": []
     },
     {
       "id": "glos-albus-dumbledore-ksiazka",
@@ -1038,9 +1423,14 @@
           ],
           "limits": [
             "Nie rób z ekscentryczności obowiązkowego rekwizytu. Ten moment nie potwierdza wszechwiedzy ani swobody łamania granic innych."
+          ],
+          "voice_situations": [
+            "humor",
+            "zwykla_rozmowa"
           ]
         }
-      ]
+      ],
+      "voice_situations": []
     },
     {
       "id": "glos-neville-longbottom-ksiazka",
@@ -1096,9 +1486,13 @@
           ],
           "limits": [
             "Nie utrwalaj jąkania ani nieporadności jako całej osobowości. Późniejszy Neville ma doświadczenia wykraczające poza pierwszy rok."
+          ],
+          "voice_situations": [
+            "sprzeciw"
           ]
         }
-      ]
+      ],
+      "voice_situations": []
     },
     {
       "id": "glos-poppy-pomfrey-ksiazka",
@@ -1154,9 +1548,14 @@
           ],
           "limits": [
             "Nie wymyślaj diagnozy z tonu wypowiedzi. Pamiętaj wcześniejsze wizyty Jamesa i odróżniaj badanie od moralizowania."
+          ],
+          "voice_situations": [
+            "troska",
+            "sprzeciw"
           ]
         }
-      ]
+      ],
+      "voice_situations": []
     },
     {
       "id": "glos-irma-pince-ksiazka",
@@ -1210,9 +1609,13 @@
           ],
           "limits": [
             "Nie odtwarzaj tej gwałtowności przy każdym wejściu do biblioteki. Zachowaj znajomość stałego czytelnika oraz osobistą rozmowę z kampanii."
+          ],
+          "voice_situations": [
+            "sprzeciw"
           ]
         }
-      ]
+      ],
+      "voice_situations": []
     },
     {
       "id": "glos-dolores-umbridge-ksiazka",
@@ -1266,9 +1669,13 @@
           ],
           "limits": [
             "Nie dodawaj odruchowego chrząknięcia w każdej kwestii. Wolno jej korzystać wyłącznie z uprawnień obowiązujących w czasie sceny."
+          ],
+          "voice_situations": [
+            "sprzeciw"
           ]
         }
-      ]
+      ],
+      "voice_situations": []
     },
     {
       "id": "glos-barty-crouch-junior-falszywy-moody-ksiazka",
@@ -1324,9 +1731,13 @@
           ],
           "limits": [
             "Nie przypisuj tej sceny prawdziwemu Moody’emu. Przed ujawnieniem tożsamości uczniowie mogą znać go jedynie pod przybranym nazwiskiem."
+          ],
+          "voice_situations": [
+            "sprzeciw"
           ]
         }
-      ]
+      ],
+      "voice_situations": []
     },
     {
       "id": "glos-alastor-moody-prawdziwy-ksiazka",
@@ -1380,9 +1791,14 @@
           ],
           "limits": [
             "Nie dopisuj mu wspomnień z zajęć prowadzonych przez Croucha. Późniejsza rozmowa z Dursleyem nie jest znana postaciom we wcześniejszym momencie."
+          ],
+          "voice_situations": [
+            "sprzeciw",
+            "troska"
           ]
         }
-      ]
+      ],
+      "voice_situations": []
     },
     {
       "id": "glos-viktor-krum-ksiazka",
@@ -1436,9 +1852,13 @@
           ],
           "limits": [
             "To relacja Hermiony i opis sceny, nie dosłowna kwestia Kruma. Nie importuj książkowego romansu do kampanii ani nie zapisuj akcentu jako karykatury."
+          ],
+          "voice_situations": [
+            "zwykla_rozmowa"
           ]
         }
-      ]
+      ],
+      "voice_situations": []
     },
     {
       "id": "glos-pomona-sprout-ksiazka",
@@ -1492,9 +1912,14 @@
           ],
           "limits": [
             "Późniejszy kontekst nie daje wcześniejszej Sprout wiedzy o przyszłych stratach. Zasady szklarni i wcześniejsze ustalenia nadal obowiązują."
+          ],
+          "voice_situations": [
+            "sprzeciw",
+            "troska"
           ]
         }
-      ]
+      ],
+      "voice_situations": []
     },
     {
       "id": "glos-filius-flitwick-ksiazka",
@@ -1548,9 +1973,14 @@
           ],
           "limits": [
             "Nie używaj kpiny jako domyślnej reakcji na uczniów. Późniejszy protest i jego przyczyny trzeba dopasować do daty sceny."
+          ],
+          "voice_situations": [
+            "sprzeciw",
+            "humor"
           ]
         }
-      ]
+      ],
+      "voice_situations": []
     },
     {
       "id": "glos-pansy-parkinson-ksiazka",
@@ -1606,9 +2036,13 @@
           ],
           "limits": [
             "Nie przenoś misji Draco ani relacji z VI roku do wcześniejszej sceny. Współpraca z Jamesem nie czyni Pansy neutralną wobec Gryfonów."
+          ],
+          "voice_situations": [
+            "zwykla_rozmowa"
           ]
         }
-      ]
+      ],
+      "voice_situations": []
     },
     {
       "id": "glos-fred-weasley-ksiazka",
@@ -1662,9 +2096,14 @@
           ],
           "limits": [
             "Nie dopisuj George’owi identycznego komentarza ani wspólnego umysłu. Odejście ze szkoły nie nastąpiło w kampanii tylko dlatego, że opisuje je wzorzec."
+          ],
+          "voice_situations": [
+            "humor",
+            "sprzeciw"
           ]
         }
-      ]
+      ],
+      "voice_situations": []
     },
     {
       "id": "glos-george-weasley-ksiazka",
@@ -1720,9 +2159,14 @@
           ],
           "limits": [
             "Nie przenoś obrażenia do wcześniejszej chronologii. Nie wymagaj żartu przy każdym cierpieniu i nie zamieniaj George’a z Fredem."
+          ],
+          "voice_situations": [
+            "humor",
+            "presja"
           ]
         }
-      ]
+      ],
+      "voice_situations": []
     },
     {
       "id": "glos-rubeus-hagrid-ksiazka",
@@ -1778,9 +2222,13 @@
           ],
           "limits": [
             "Krótki cytat jest tylko częścią dłuższej wypowiedzi. W polskiej scenie nie naśladuj mechanicznie angielskiej pisowni dialektu."
+          ],
+          "voice_situations": [
+            "troska"
           ]
         }
-      ]
+      ],
+      "voice_situations": []
     },
     {
       "id": "glos-remus-lupin-ksiazka",
@@ -1836,9 +2284,13 @@
           ],
           "limits": [
             "Korzystaj tylko z przytoczenia książki, nie z wymyślonych myśli kota dodanych przez redakcję. Wiedza o animagu wymaga właściwego etapu i odbiorcy."
+          ],
+          "voice_situations": [
+            "sprzeciw"
           ]
         }
-      ]
+      ],
+      "voice_situations": []
     },
     {
       "id": "glos-syriusz-black-ksiazka",
@@ -1894,9 +2346,14 @@
           ],
           "limits": [
             "Nie rób z niego zawsze impulsywnego dowcipnisia ani zawsze łagodnego opiekuna. Pamiętaj ograniczenia życia ukrywającego się zbiega."
+          ],
+          "voice_situations": [
+            "troska",
+            "sprzeciw"
           ]
         }
-      ]
+      ],
+      "voice_situations": []
     },
     {
       "id": "glos-molly-weasley-ksiazka",
@@ -1952,9 +2409,14 @@
           ],
           "limits": [
             "Nie przenoś przyszłego pojednania, zaręczyn ani obrażeń Billa do wcześniejszego czasu. Nie sprowadzaj Molly do krzyku i wydawania posiłków."
+          ],
+          "voice_situations": [
+            "troska",
+            "cisza"
           ]
         }
-      ]
+      ],
+      "voice_situations": []
     },
     {
       "id": "glos-fleur-delacour-ksiazka",
@@ -2010,9 +2472,14 @@
           ],
           "limits": [
             "Nie przenoś relacji domowych z późniejszego tomu do roku Turnieju. Akcent nie jest całą osobowością ani obowiązkiem deformowania polskich słów."
+          ],
+          "voice_situations": [
+            "troska",
+            "zwykla_rozmowa"
           ]
         }
-      ]
+      ],
+      "voice_situations": []
     },
     {
       "id": "glos-cedric-diggory-ksiazka",
@@ -2066,9 +2533,13 @@
           ],
           "limits": [
             "Stosuj w retrospekcjach lub zgodnych wariantach kampanii; nie przywracaj zmarłej postaci do bieżącej sceny. Nie zamieniaj uczciwości w brak własnych ambicji."
+          ],
+          "voice_situations": [
+            "troska"
           ]
         }
-      ]
+      ],
+      "voice_situations": []
     },
     {
       "id": "glos-theodore-nott-kampania",
@@ -2091,7 +2562,11 @@
       "summary": "Oszczędne, dosłowne sprostowanie bez automatycznego opowiadania się po stronie Jamesa.",
       "period": "C14",
       "as_of": "C14-M0078",
-      "book_references": []
+      "book_references": [],
+      "voice_situations": [
+        "sprzeciw",
+        "cisza"
+      ]
     },
     {
       "id": "glos-elodie-moreau-kampania",
@@ -2114,7 +2589,1884 @@
       "summary": "Ciepła korespondencja może zawierać wyraźną granicę i realne ograniczenie; sympatia nie oznacza obietnicy.",
       "period": "C14",
       "as_of": "C14-M0694",
-      "book_references": []
+      "book_references": [],
+      "voice_situations": [
+        "zwykla_rozmowa",
+        "sprzeciw"
+      ]
+    },
+    {
+      "id": "glos-hermiona-granger-sytuacja-diabelskie-sidla",
+      "title": "Hermiona — chwilowa blokada pod presją",
+      "characters": [
+        "hermiona-granger"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-hermiona-granger-sytuacja-diabelskie-sidla",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Hermiona — chwilowa blokada pod presją. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-hermiona-granger-sytuacja-diabelskie-sidla",
+          "character": "hermiona-granger",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Philosopher's Stone",
+            "volume": 1
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/10-of-hermiones-funniest-moments",
+            "title": "10 of Hermione’s funniest moments",
+            "section": "Diabelskie sidła",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "I rok Hermiony.",
+          "context": "Przy diabelskich sidłach szuka drewna, choć potrzebny ogień może wyczarować. Ron ją naprowadza.",
+          "analysis": [
+            "Wiedza nie usuwa chwilowego zablokowania pod presją."
+          ],
+          "limits": [
+            "Nie przenoś szkolnego błędu na każdą późniejszą sytuację."
+          ],
+          "voice_situations": [
+            "presja"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-hermiona-granger-sytuacja-przeciazenie",
+      "title": "Hermiona — przeciążenie nauką",
+      "characters": [
+        "hermiona-granger"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-hermiona-granger-sytuacja-przeciazenie",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Hermiona — przeciążenie nauką. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-hermiona-granger-sytuacja-przeciazenie",
+          "character": "hermiona-granger",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "volume": 3
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/the-chapter-that-made-us-fall-in-love-with-hermione-granger",
+            "title": "The chapter that made us fall in love with... Hermione Granger",
+            "section": "Why it matters",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "III rok Hermiony; zmieniacz czasu i konflikty z przyjaciółmi.",
+          "context": "Nadmiar zajęć i napięcia z przyjaciółmi przeciążają Hermionę; odsyła Harry’ego i wraca do pracy.",
+          "analysis": [
+            "Skrócenie rozmowy ma tu konkretną przyczynę."
+          ],
+          "limits": [
+            "To splot obciążenia i konfliktu, nie reguła: zmęczenie oznacza złość."
+          ],
+          "voice_situations": [
+            "zmeczenie"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-hermiona-granger-sytuacja-zart-fretka",
+      "title": "Hermiona — żart w odpowiedzi na zaczepkę",
+      "characters": [
+        "hermiona-granger"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-hermiona-granger-sytuacja-zart-fretka",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Hermiona — żart w odpowiedzi na zaczepkę. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-hermiona-granger-sytuacja-zart-fretka",
+          "character": "hermiona-granger",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Goblet of Fire",
+            "volume": 4
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/10-of-hermiones-funniest-moments",
+            "title": "10 of Hermione’s funniest moments",
+            "section": "Żart o Moodym i fretce",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "IV rok Hermiony; po scenie z fretką.",
+          "context": "Hermiona zbywa zaczepkę Draco, udając, że widzi za nim Moody’ego.",
+          "analysis": [
+            "Żart odwołuje się do znanego rozmówcom zdarzenia."
+          ],
+          "limits": [
+            "Nie przypisuj sceny szkolnej prawdziwemu Moody’emu."
+          ],
+          "voice_situations": [
+            "humor",
+            "sprzeciw"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-ron-weasley-sytuacja-szachy",
+      "title": "Ron — decyzja pod presją",
+      "characters": [
+        "ron-weasley"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-ron-weasley-sytuacja-szachy",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Ron — decyzja pod presją. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-ron-weasley-sytuacja-szachy",
+          "character": "ron-weasley",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Philosopher's Stone",
+            "volume": 1
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/seven-times-ron-weasley-was-a-brilliant-friend",
+            "title": "Seven times Ron Weasley was a brilliant friend",
+            "section": "Szachowe poświęcenie",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "I rok Rona; kamienne szachy.",
+          "context": "Ron wybiera ruch wymagający własnego poświęcenia i kieruje działaniami przyjaciół.",
+          "analysis": [
+            "Strach współistnieje z decyzją i konkretnymi poleceniami."
+          ],
+          "limits": [
+            "Nie rób z odwagi braku lęku."
+          ],
+          "voice_situations": [
+            "presja"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-ron-weasley-sytuacja-pajaki",
+      "title": "Ron — troska mimo strachu",
+      "characters": [
+        "ron-weasley"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-ron-weasley-sytuacja-pajaki",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Ron — troska mimo strachu. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-ron-weasley-sytuacja-pajaki",
+          "character": "ron-weasley",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Chamber of Secrets",
+            "volume": 2
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/seven-times-ron-weasley-was-a-brilliant-friend",
+            "title": "Seven times Ron Weasley was a brilliant friend",
+            "section": "Pójście za pająkami",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "II rok Rona; Hermiona jest spetryfikowana.",
+          "context": "Widok pustego miejsca Hermiony pomaga Ronowi zdecydować się na pójście za pająkami.",
+          "analysis": [
+            "Skinienie i działanie wystarczają zamiast deklaracji przyjaźni."
+          ],
+          "limits": [
+            "To nie znosi jego arachnofobii."
+          ],
+          "voice_situations": [
+            "troska",
+            "cisza"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-ron-weasley-sytuacja-obrona-hermiony",
+      "title": "Ron — sprzeciw wobec nauczyciela",
+      "characters": [
+        "ron-weasley"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-ron-weasley-sytuacja-obrona-hermiony",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Ron — sprzeciw wobec nauczyciela. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-ron-weasley-sytuacja-obrona-hermiony",
+          "character": "ron-weasley",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "volume": 3
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/seven-times-ron-weasley-was-a-brilliant-friend",
+            "title": "Seven times Ron Weasley was a brilliant friend",
+            "section": "Obrona Hermiony przed Snape’em",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "III rok Rona; lekcja prowadzona przez Snape’a.",
+          "context": "Ron otwarcie protestuje, gdy Snape obraża Hermionę.",
+          "analysis": [
+            "Lojalność może przeważyć nad ostrożnością wobec nauczyciela."
+          ],
+          "limits": [
+            "Nie zmieniaj każdego sprzeciwu w przemowę."
+          ],
+          "voice_situations": [
+            "sprzeciw"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-ron-weasley-sytuacja-pociag",
+      "title": "Ron — zwykła rozmowa w pociągu",
+      "characters": [
+        "ron-weasley"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-ron-weasley-sytuacja-pociag",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Ron — zwykła rozmowa w pociągu. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-ron-weasley-sytuacja-pociag",
+          "character": "ron-weasley",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Philosopher's Stone",
+            "volume": 1
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/an-unofficial-guide-to-making-friends-at-hogwarts",
+            "title": "An unofficial guide to making friends at Hogwarts",
+            "section": "DO: share your sweets on the Hogwarts Express",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Początek I roku Rona.",
+          "context": "Ron rozmawia z Harrym o słodyczach, rodzinie i czarodziejskim świecie.",
+          "analysis": [
+            "Wspólny przedmiot zainteresowania pozwala swobodnie podtrzymać rozmowę."
+          ],
+          "limits": [
+            "Początek znajomości nie jest wzorcem późniejszej wiedzy o Harrym."
+          ],
+          "voice_situations": [
+            "zwykla_rozmowa"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-harry-potter-sytuacja-pociag",
+      "title": "Harry — nawiązywanie znajomości",
+      "characters": [
+        "harry-potter"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-harry-potter-sytuacja-pociag",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Harry — nawiązywanie znajomości. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-harry-potter-sytuacja-pociag",
+          "character": "harry-potter",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Philosopher's Stone",
+            "volume": 1
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/an-unofficial-guide-to-making-friends-at-hogwarts",
+            "title": "An unofficial guide to making friends at Hogwarts",
+            "section": "DO: share your sweets on the Hogwarts Express",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Początek I roku Harry’ego.",
+          "context": "Harry dzieli się słodyczami; rozmowa z Ronem rozwija się wokół prostych codziennych tematów.",
+          "analysis": [
+            "Zainteresowanie rozmówcą nie wymaga błyskotliwej puenty."
+          ],
+          "limits": [
+            "Nie przywracaj nieznajomości świata z I roku w późniejszej scenie."
+          ],
+          "voice_situations": [
+            "zwykla_rozmowa"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-harry-potter-sytuacja-jezioro",
+      "title": "Harry — troska w sytuacji zagrożenia",
+      "characters": [
+        "harry-potter"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-harry-potter-sytuacja-jezioro",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Harry — troska w sytuacji zagrożenia. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-harry-potter-sytuacja-jezioro",
+          "character": "harry-potter",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Goblet of Fire",
+            "volume": 4
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/twelve-of-our-favourite-moments-from-the-triwizard-tournament-tasks",
+            "title": "Twelve of our favourite moments from the Triwizard Tournament tasks",
+            "section": "Drugie zadanie — Gabrielle",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "IV rok Harry’ego; drugie zadanie turnieju.",
+          "context": "Harry ratuje także Gabrielle, zamiast ograniczyć się do własnego zakładnika.",
+          "analysis": [
+            "Troska prowadzi do działania przy niepełnym rozpoznaniu zagrożenia."
+          ],
+          "limits": [
+            "Nie uznawaj jego oceny sytuacji za nieomylną."
+          ],
+          "voice_situations": [
+            "troska",
+            "presja"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-harry-potter-sytuacja-wspolny-puchar",
+      "title": "Harry — uczciwość wobec rywala",
+      "characters": [
+        "harry-potter"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-harry-potter-sytuacja-wspolny-puchar",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Harry — uczciwość wobec rywala. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-harry-potter-sytuacja-wspolny-puchar",
+          "character": "harry-potter",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Goblet of Fire",
+            "volume": 4
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/unsung-heroes-of-harry-potter-stories-cedric-diggory",
+            "title": "Unsung heroes of the Harry Potter stories: Cedric Diggory",
+            "section": "Wspólne zwycięstwo",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "IV rok Harry’ego; labirynt, przed dotknięciem Pucharu.",
+          "context": "Harry proponuje Cedrikowi wspólne sięgnięcie po Puchar.",
+          "analysis": [
+            "Uznanie zasług rywala wyraża konkretną propozycją."
+          ],
+          "limits": [
+            "Nie dopisuj wiedzy o funkcji Pucharu ani późniejszym losie Cedrika."
+          ],
+          "voice_situations": [
+            "troska"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-luna-lovegood-sytuacja-pociag",
+      "title": "Luna — własne zajęcie wśród innych",
+      "characters": [
+        "luna-lovegood"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-luna-lovegood-sytuacja-pociag",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Luna — własne zajęcie wśród innych. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-luna-lovegood-sytuacja-pociag",
+          "character": "luna-lovegood",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Order of the Phoenix",
+            "volume": 5
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/luna-lovegoods-eight-wackiest-moments",
+            "title": "Luna Lovegood’s eight wackiest moments",
+            "section": "Czytanie Żonglera",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "IV rok Luny, początek V roku Harry’ego.",
+          "context": "W pociągu Luna czyta odwróconego Żonglera.",
+          "analysis": [
+            "Własne zajęcie może trwać bez komentowania każdej cudzej czynności."
+          ],
+          "limits": [
+            "Nie dodawaj niezwykłych twierdzeń do każdej wypowiedzi."
+          ],
+          "voice_situations": [
+            "zwykla_rozmowa",
+            "cisza"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-luna-lovegood-sytuacja-po-stracie",
+      "title": "Luna — spokojna obecność przy stracie",
+      "characters": [
+        "luna-lovegood"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-luna-lovegood-sytuacja-po-stracie",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Luna — spokojna obecność przy stracie. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-luna-lovegood-sytuacja-po-stracie",
+          "character": "luna-lovegood",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Order of the Phoenix",
+            "volume": 5
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/the-kindness-of-luna-lovegood",
+            "title": "The kindness of Luna Lovegood",
+            "section": "Rozmowa po śmierci Syriusza",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Koniec IV roku Luny; po śmierci Syriusza.",
+          "context": "Luna rozumie, dlaczego Harry unika uczty, i spokojnie z nim rozmawia.",
+          "analysis": [
+            "Troska nie musi usuwać smutku ani wymuszać zwierzeń."
+          ],
+          "limits": [
+            "Nie przywołuj tego wydarzenia przed jego zajściem w kampanii."
+          ],
+          "voice_situations": [
+            "troska"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-luna-lovegood-sytuacja-ministerstwo",
+      "title": "Luna — praktyczna pomoc pod presją",
+      "characters": [
+        "luna-lovegood"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-luna-lovegood-sytuacja-ministerstwo",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Luna — praktyczna pomoc pod presją. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-luna-lovegood-sytuacja-ministerstwo",
+          "character": "luna-lovegood",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Order of the Phoenix",
+            "volume": 5
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/the-kindness-of-luna-lovegood",
+            "title": "The kindness of Luna Lovegood",
+            "section": "Pomoc Ginny i Ronowi",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Koniec IV roku Luny; Departament Tajemnic.",
+          "context": "Luna pomaga rannym lub oszołomionym przyjaciołom podczas walki w Ministerstwie.",
+          "analysis": [
+            "W niebezpieczeństwie potrafi skoncentrować się na praktycznym zadaniu."
+          ],
+          "limits": [
+            "Spokój nie oznacza znajomości wszystkich zagrożeń."
+          ],
+          "voice_situations": [
+            "presja",
+            "troska"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-luna-lovegood-sytuacja-pogrzeb",
+      "title": "Luna — pomoc bez słów",
+      "characters": [
+        "luna-lovegood"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-luna-lovegood-sytuacja-pogrzeb",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Luna — pomoc bez słów. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-luna-lovegood-sytuacja-pogrzeb",
+          "character": "luna-lovegood",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Half-Blood Prince",
+            "volume": 6
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/the-kindness-of-luna-lovegood",
+            "title": "The kindness of Luna Lovegood",
+            "section": "Pogrzeb Dumbledore’a",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Koniec V roku Luny; pogrzeb Dumbledore’a.",
+          "context": "Luna pomaga poruszonemu Neville’owi usiąść.",
+          "analysis": [
+            "Mały praktyczny gest może nie potrzebować komentarza."
+          ],
+          "limits": [
+            "Późniejsza scena jest wzorcem zachowania, nie wspomnieniem wcześniejszej Luny."
+          ],
+          "voice_situations": [
+            "troska",
+            "cisza"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-ginny-weasley-sytuacja-tatuaz",
+      "title": "Ginny — swobodny żart",
+      "characters": [
+        "ginny-weasley"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-ginny-weasley-sytuacja-tatuaz",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Ginny — swobodny żart. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-ginny-weasley-sytuacja-tatuaz",
+          "character": "ginny-weasley",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Half-Blood Prince",
+            "volume": 6
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/seven-times-ginny-was-sassiest-witch-around",
+            "title": "Seven times Ginny was the sassiest witch around",
+            "section": "Plotki o tatuażach",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "V rok Ginny, VI rok Harry’ego.",
+          "context": "Ginny żartuje z plotek o tatuażach Harry’ego i Rona, zajęta gazetą.",
+          "analysis": [
+            "Lekki żart może współistnieć ze zwykłym zajęciem."
+          ],
+          "limits": [
+            "Nie przenoś późniejszej relacji romantycznej do wcześniejszej kampanii."
+          ],
+          "voice_situations": [
+            "humor"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-ginny-weasley-sytuacja-spojrzenie",
+      "title": "Ginny — granica postawiona spojrzeniem",
+      "characters": [
+        "ginny-weasley"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-ginny-weasley-sytuacja-spojrzenie",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Ginny — granica postawiona spojrzeniem. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-ginny-weasley-sytuacja-spojrzenie",
+          "character": "ginny-weasley",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Half-Blood Prince",
+            "volume": 6
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/seven-times-ginny-was-sassiest-witch-around",
+            "title": "Seven times Ginny was the sassiest witch around",
+            "section": "Spojrzenie skierowane do Freda",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "V rok Ginny; uwagi Freda o jej randkach.",
+          "context": "Ginny odpowiada Fredowi spojrzeniem, po którym ten wycofuje komentarz.",
+          "analysis": [
+            "Sprzeciw nie zawsze potrzebuje riposty."
+          ],
+          "limits": [
+            "Skutek zależy od relacji; spojrzenie nie kontroluje każdego rozmówcy."
+          ],
+          "voice_situations": [
+            "sprzeciw",
+            "cisza"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-draco-malfoy-sytuacja-bezsennosc",
+      "title": "Draco — wyczerpanie pod fasadą",
+      "characters": [
+        "draco-malfoy"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-draco-malfoy-sytuacja-bezsennosc",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Draco — wyczerpanie pod fasadą. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-draco-malfoy-sytuacja-bezsennosc",
+          "character": "draco-malfoy",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Half-Blood Prince",
+            "volume": 6
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/why-draco-malfoy-isnt-a-typical-villain",
+            "title": "Why Draco Malfoy wasn’t a typical villain",
+            "section": "His true character…",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "VI rok Draco; misja narzucona przez Voldemorta.",
+          "context": "Draco wygląda coraz gorzej; presja zadania wiąże się z bezsennością i płaczem w łazience.",
+          "analysis": [
+            "Fasada pewności może się załamać w konkretnym zagrożeniu."
+          ],
+          "limits": [
+            "Nie zamieniaj zwykłego zmęczenia we wcześniejszą wiedzę o tej misji."
+          ],
+          "voice_situations": [
+            "zmeczenie",
+            "presja"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-draco-malfoy-sytuacja-wieza",
+      "title": "Draco — zawahanie przy ostatecznej decyzji",
+      "characters": [
+        "draco-malfoy"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-draco-malfoy-sytuacja-wieza",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Draco — zawahanie przy ostatecznej decyzji. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-draco-malfoy-sytuacja-wieza",
+          "character": "draco-malfoy",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Half-Blood Prince",
+            "volume": 6
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/why-draco-malfoy-isnt-a-typical-villain",
+            "title": "Why Draco Malfoy wasn’t a typical villain",
+            "section": "His true character…",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Koniec VI roku Draco; Wieża Astronomiczna.",
+          "context": "Draco nie potrafi dokonać zabójstwa Dumbledore’a.",
+          "analysis": [
+            "Wcześniejsza brawura nie gwarantuje zdolności wykonania groźby."
+          ],
+          "limits": [
+            "Zawahanie nie dowodzi pełnego odkupienia ani przyjaźni z Harrym."
+          ],
+          "voice_situations": [
+            "presja"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-severus-snape-sytuacja-przeciwzaklecie",
+      "title": "Snape — ochrona bez serdeczności",
+      "characters": [
+        "severus-snape"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-severus-snape-sytuacja-przeciwzaklecie",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Snape — ochrona bez serdeczności. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-severus-snape-sytuacja-przeciwzaklecie",
+          "character": "severus-snape",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Philosopher's Stone",
+            "volume": 1
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/key-moments-when-severus-snapes-actions-were-misunderstood",
+            "title": "Key moments when Severus Snape’s actions were misunderstood",
+            "section": "Mecz quidditcha",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosły nauczyciel; mecz podczas I roku Harry’ego.",
+          "context": "Snape przeciwzaklęciem przeciwdziała atakowi na Harry’ego; obserwująca go Hermiona błędnie ocenia jego rolę.",
+          "analysis": [
+            "Działanie ochronne nie wymaga ciepłego tonu ani wyjaśnienia."
+          ],
+          "limits": [
+            "Oznaczenie troska opisuje ochronę, nie dowód sympatii; świadek nie zna automatycznie motywu."
+          ],
+          "voice_situations": [
+            "troska",
+            "cisza"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-severus-snape-sytuacja-kod",
+      "title": "Snape — dwie warstwy reakcji",
+      "characters": [
+        "severus-snape"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-severus-snape-sytuacja-kod",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Snape — dwie warstwy reakcji. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-severus-snape-sytuacja-kod",
+          "character": "severus-snape",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Order of the Phoenix",
+            "volume": 5
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/key-moments-when-severus-snapes-actions-were-misunderstood",
+            "title": "Key moments when Severus Snape’s actions were misunderstood",
+            "section": "Zakodowana wiadomość o Syriuszu",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosły nauczyciel; gabinet Umbridge, V rok Harry’ego.",
+          "context": "Przy Umbridge Snape pozoruje niezrozumienie wiadomości Harry’ego, następnie sprawdza sytuację i kontaktuje Zakon.",
+          "analysis": [
+            "Publiczna odpowiedź i późniejsze działanie mają różnych odbiorców."
+          ],
+          "limits": [
+            "To konkretny potwierdzony sekret, nie sposób maskowania błędów narratora."
+          ],
+          "voice_situations": [
+            "presja"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-severus-snape-sytuacja-eliksir",
+      "title": "Snape — pomoc mimo niechęci",
+      "characters": [
+        "severus-snape"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-severus-snape-sytuacja-eliksir",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Snape — pomoc mimo niechęci. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-severus-snape-sytuacja-eliksir",
+          "character": "severus-snape",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "volume": 3
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/all-the-times-snape-made-a-good-point",
+            "title": "All the times Snape made a good point",
+            "section": "Eliksir tojadowy",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosły nauczyciel; III rok Harry’ego.",
+          "context": "Snape przygotowuje Lupinowi eliksir tojadowy mimo wzajemnych napięć.",
+          "analysis": [
+            "Kompetentna pomoc może współistnieć z niechęcią."
+          ],
+          "limits": [
+            "Nie zastępuj pomocy wymyśloną serdeczną rozmową."
+          ],
+          "voice_situations": [
+            "troska"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-minerva-mcgonagall-sytuacja-wizytacja",
+      "title": "McGonagall — opanowany sprzeciw",
+      "characters": [
+        "minerva-mcgonagall"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-minerva-mcgonagall-sytuacja-wizytacja",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "McGonagall — opanowany sprzeciw. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-minerva-mcgonagall-sytuacja-wizytacja",
+          "character": "minerva-mcgonagall",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Order of the Phoenix",
+            "volume": 5
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/professor-mcgonagalls-most-memorable-moments",
+            "title": "Professor McGonagall’s most memorable moments",
+            "section": "Umbridge przerywa lekcję",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosła nauczycielka; wizytacja Umbridge w V roku Harry’ego.",
+          "context": "McGonagall odpowiada na przerywanie lekcji chłodnym, rzeczowym pytaniem o cel wizytacji.",
+          "analysis": [
+            "Gniew może ujawnić się w precyzji i kontroli tonu."
+          ],
+          "limits": [
+            "Nie powtarzaj formy pytania przy każdym konflikcie."
+          ],
+          "voice_situations": [
+            "sprzeciw"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-minerva-mcgonagall-sytuacja-obrona",
+      "title": "McGonagall — organizowanie działania",
+      "characters": [
+        "minerva-mcgonagall"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-minerva-mcgonagall-sytuacja-obrona",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "McGonagall — organizowanie działania. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-minerva-mcgonagall-sytuacja-obrona",
+          "character": "minerva-mcgonagall",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Deathly Hallows",
+            "volume": 7
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/chapter-that-made-us-fall-in-love-with-professor-mcgonagall",
+            "title": "The chapter that made us fall in love with... Professor McGonagall",
+            "section": "Obrona szkoły",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosła nauczycielka; przygotowania do bitwy o Hogwart.",
+          "context": "McGonagall koordynuje obronę i ewakuację uczniów.",
+          "analysis": [
+            "Pod presją skupia się na zadaniach zamiast długich wyjaśnień."
+          ],
+          "limits": [
+            "Nie importuj wojennej sytuacji do zwykłej lekcji."
+          ],
+          "voice_situations": [
+            "presja"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-albus-dumbledore-sytuacja-hagrid",
+      "title": "Dumbledore — rozładowanie niezręczności",
+      "characters": [
+        "albus-dumbledore"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-albus-dumbledore-sytuacja-hagrid",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Dumbledore — rozładowanie niezręczności. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-albus-dumbledore-sytuacja-hagrid",
+          "character": "albus-dumbledore",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Goblet of Fire",
+            "volume": 4
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/exploring-the-lighter-side-of-albus-dumbledore",
+            "title": "Exploring the lighter side of Albus Dumbledore",
+            "section": "Uwaga Harry’ego o Ricie Skeeter",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosły dyrektor; IV rok Harry’ego, chatka Hagrida.",
+          "context": "Dumbledore udaje, że nie usłyszał obraźliwego określenia Rity przez Harry’ego.",
+          "analysis": [
+            "Humor pozwala złagodzić niezręczność bez wygłaszania morału."
+          ],
+          "limits": [
+            "Nie traktuj tego jako dowodu rzeczywistego niedosłuchu."
+          ],
+          "voice_situations": [
+            "humor"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-albus-dumbledore-sytuacja-prawda",
+      "title": "Dumbledore — poważna wypowiedź publiczna",
+      "characters": [
+        "albus-dumbledore"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-albus-dumbledore-sytuacja-prawda",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Dumbledore — poważna wypowiedź publiczna. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-albus-dumbledore-sytuacja-prawda",
+          "character": "albus-dumbledore",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Goblet of Fire",
+            "volume": 4
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/unsung-heroes-of-harry-potter-stories-cedric-diggory",
+            "title": "Unsung heroes of the Harry Potter stories: Cedric Diggory",
+            "section": "Mowa po śmierci Cedrika",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosły dyrektor; koniec IV roku Harry’ego.",
+          "context": "Dumbledore mówi uczniom prawdę o śmierci Cedrika z ręki Voldemorta.",
+          "analysis": [
+            "Waga chwili może wykluczać żart i uniki."
+          ],
+          "limits": [
+            "Publiczność zdobywa wiedzę dopiero, gdy ta wypowiedź rzeczywiście padnie w kampanii."
+          ],
+          "voice_situations": [
+            "presja",
+            "sprzeciw"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-neville-longbottom-sytuacja-papierek",
+      "title": "Neville — prywatna więź bez przemowy",
+      "characters": [
+        "neville-longbottom"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-neville-longbottom-sytuacja-papierek",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Neville — prywatna więź bez przemowy. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-neville-longbottom-sytuacja-papierek",
+          "character": "neville-longbottom",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Order of the Phoenix",
+            "volume": 5
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/unsung-heroes-of-harry-potter-stories-frank-and-alice-longbottom",
+            "title": "Unsung heroes of the Harry Potter stories: Frank and Alice Longbottom",
+            "section": "Wizyta u rodziców",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "V rok Neville’a; szpital Świętego Munga.",
+          "context": "Neville zachowuje papierek podarowany mu przez matkę.",
+          "analysis": [
+            "Znaczenie więzi może ujawnić się w dyskretnym działaniu."
+          ],
+          "limits": [
+            "Prywatna historia rodziny nie staje się wiedzą wszystkich NPC."
+          ],
+          "voice_situations": [
+            "troska",
+            "cisza"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-neville-longbottom-sytuacja-przepowiednia",
+      "title": "Neville — sprzeciw mimo zagrożenia",
+      "characters": [
+        "neville-longbottom"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-neville-longbottom-sytuacja-przepowiednia",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Neville — sprzeciw mimo zagrożenia. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-neville-longbottom-sytuacja-przepowiednia",
+          "character": "neville-longbottom",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Order of the Phoenix",
+            "volume": 5
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/unsung-heroes-of-harry-potter-stories-frank-and-alice-longbottom",
+            "title": "Unsung heroes of the Harry Potter stories: Frank and Alice Longbottom",
+            "section": "Groźby Bellatrix",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Koniec V roku Neville’a; Departament Tajemnic.",
+          "context": "Mimo gróźb Bellatrix Neville sprzeciwia się oddaniu przepowiedni.",
+          "analysis": [
+            "Odwaga może wymagać wysiłku i nie usuwa strachu."
+          ],
+          "limits": [
+            "Nie przenoś późniejszej pewności siebie na każdą wcześniejszą scenę."
+          ],
+          "voice_situations": [
+            "sprzeciw",
+            "presja"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-remus-lupin-sytuacja-herbata",
+      "title": "Lupin — spokojna rozmowa mimo niedyspozycji",
+      "characters": [
+        "remus-lupin"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-remus-lupin-sytuacja-herbata",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Lupin — spokojna rozmowa mimo niedyspozycji. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-remus-lupin-sytuacja-herbata",
+          "character": "remus-lupin",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "volume": 3
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/the-chapter-that-made-us-fall-in-love-with-remus-lupin",
+            "title": "The chapter that made us fall in love with… Remus Lupin",
+            "section": "Flight of the Fat Lady",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosły nauczyciel; III rok Harry’ego, Flight of the Fat Lady.",
+          "context": "Lupin rozmawia z Harrym przy herbacie i nie podejmuje podsuwanej niechęci wobec Snape’a.",
+          "analysis": [
+            "Uprzejmość nie musi oznaczać podzielenia opinii rozmówcy."
+          ],
+          "limits": [
+            "Niedyspozycja ma własny kontekst; nie utożsamiaj jej automatycznie ze zmęczeniem."
+          ],
+          "voice_situations": [
+            "zwykla_rozmowa"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-remus-lupin-sytuacja-pociag",
+      "title": "Lupin — odpoczynek przerwany zagrożeniem",
+      "characters": [
+        "remus-lupin"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-remus-lupin-sytuacja-pociag",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Lupin — odpoczynek przerwany zagrożeniem. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-remus-lupin-sytuacja-pociag",
+          "character": "remus-lupin",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "volume": 3
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/the-chapter-that-made-us-fall-in-love-with-remus-lupin",
+            "title": "The chapter that made us fall in love with… Remus Lupin",
+            "section": "Before the chapter",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosły nauczyciel; pociąg na początku III roku Harry’ego.",
+          "context": "Śpiący, zmęczony Lupin budzi się i reaguje na dementora, potem pomaga uczniom.",
+          "analysis": [
+            "Odpoczynek nie wyklucza rzeczowego działania, gdy wymaga go sytuacja."
+          ],
+          "limits": [
+            "Relacja Hermiony o interwencji nie jest jej własnym doświadczeniem myśli Lupina."
+          ],
+          "voice_situations": [
+            "zmeczenie",
+            "presja"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-rubeus-hagrid-sytuacja-maxime",
+      "title": "Hagrid — osobista rozmowa",
+      "characters": [
+        "rubeus-hagrid"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-rubeus-hagrid-sytuacja-maxime",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Hagrid — osobista rozmowa. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-rubeus-hagrid-sytuacja-maxime",
+          "character": "rubeus-hagrid",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Goblet of Fire",
+            "volume": 4
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/why-we-wish-wed-seen-more-of-hagrid-and-madame-maxime",
+            "title": "Why we wish we’d seen more of Hagrid and Madame Maxime",
+            "section": "Rozmowa o dzieciństwie",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosły Hagrid; Bal Bożonarodzeniowy IV roku Harry’ego.",
+          "context": "Hagrid opowiada Madame Maxime o swoim dzieciństwie, uważając rozmowę za prywatną.",
+          "analysis": [
+            "Otwartość wobec wybranej osoby różni się od mówienia do uczniów."
+          ],
+          "limits": [
+            "Nie przenoś podsłuchanej wiedzy na osoby nieobecne."
+          ],
+          "voice_situations": [
+            "zwykla_rozmowa"
+          ]
+        }
+      ],
+      "voice_situations": []
+    },
+    {
+      "id": "glos-rubeus-hagrid-sytuacja-rita",
+      "title": "Hagrid — wycofanie po ujawnieniu sekretu",
+      "characters": [
+        "rubeus-hagrid"
+      ],
+      "context": "Kontekst źródłowy w book_references: kanon-rubeus-hagrid-sytuacja-rita",
+      "quote": null,
+      "sources": [],
+      "signals": [
+        "Dobierz reakcję do sytuacji, odbiorcy i aktualnego etapu."
+      ],
+      "limits": [
+        "Wzorzec nie dopisuje wydarzeń ani wiedzy do kampanii."
+      ],
+      "status": "WZORZEC_KSIĄŻKOWY",
+      "summary": "Hagrid — wycofanie po ujawnieniu sekretu. Oznaczone omówienie sceny; szczegóły i granice w źródle książkowym.",
+      "period": null,
+      "as_of": null,
+      "book_references": [
+        {
+          "id": "kanon-rubeus-hagrid-sytuacja-rita",
+          "character": "rubeus-hagrid",
+          "kind": "OMÓWIENIE_SCENY_KSIĄŻKOWEJ",
+          "work": {
+            "author": "J.K. Rowling",
+            "title": "Harry Potter and the Goblet of Fire",
+            "volume": 4
+          },
+          "language": "en",
+          "fragments": [],
+          "translation_note": "Własne polskie omówienie i interpretacja; bez cytatu ani przypisania do polskiego przekładu.",
+          "source": {
+            "url": "https://www.harrypotter.com/features/harry-potter-characters-who-prove-you-dont-need-to-worry-what-other-people-think",
+            "title": "Harry Potter characters who prove you don’t need to worry what other people think",
+            "section": "Pochodzenie Hagrida",
+            "additional_urls": []
+          },
+          "verification": {
+            "method": "Sprawdzono opis lub przytoczenie sceny w oficjalnym artykule. To nie oznacza odczytu całej książki; analysis jest interpretacją zachowania.",
+            "verified_on": "2026-11-07",
+            "chapter": null,
+            "page": null,
+            "edition": null
+          },
+          "stage": "Dorosły Hagrid; publikacja Rity w IV roku Harry’ego.",
+          "context": "Po ujawnieniu pochodzenia Hagrid wycofuje się; wsparcie przyjaciół pomaga mu wrócić.",
+          "analysis": [
+            "Silne emocje mogą ograniczyć gotowość do kontaktu."
+          ],
+          "limits": [
+            "Nie traktuj każdego milczenia jako wstydu ani rezygnacji."
+          ],
+          "voice_situations": [
+            "presja"
+          ]
+        }
+      ],
+      "voice_situations": []
     }
   ]
 }

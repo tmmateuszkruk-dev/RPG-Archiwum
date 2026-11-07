@@ -32,3 +32,5 @@ Wzorce kanonicznego głosu: `book_references` w odpowiednich wpisach [modelu rea
 - 14 II udzielił Ricie Skeeter wywiadu organizowanego z pomocą Hermiony i Luny do Żonglera; James nie uczestniczył w tej rozmowie. Źródła C15-M0419–M0420.
 - Kierował Gwardią Dumbledore'a i doświadczył konsekwencji jej ujawnienia w kwietniu. Źródła C15-M0727–M0750.
 - 20 VI uczestniczył w wyprawie do Departamentu Tajemnic i stracił Syriusza za zasłoną; zachować jego żałobę i własną perspektywę. Źródła C15-M0920–M1010.
+
+Dobór sytuacji: sprawdź wszystkie wpisy tej postaci w `model_reakcji.json`, także `glos-harry-potter-sytuacja-*`. Oznaczenia `voice_situations` odnoszą się osobno do próbki kampanii i każdego wzorca książkowego. Wybierz przykład pasujący do obecnego celu, odbiorcy, wieku i obciążenia; brak kategorii jest luką źródłową, nie cechą postaci. Cisza nie wymaga puenty.

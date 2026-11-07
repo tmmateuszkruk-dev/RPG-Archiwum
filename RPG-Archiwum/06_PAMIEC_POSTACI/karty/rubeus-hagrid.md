@@ -14,3 +14,5 @@ Granice wiedzy: Nie dopisywać pewnej historii powrotu z misji.
 ## Przykłady głosu
 
 Źródłowe wzorce: [model reakcji](../model_reakcji.json), wpisy `glos-rubeus-hagrid-ksiazka`. Odróżniaj cytat książkowy, omówienie sceny i próbkę kampanii; stosuj etap życia oraz ograniczenia z wpisu.
+
+Dobór sytuacji: sprawdź wszystkie wpisy tej postaci w `model_reakcji.json`, także `glos-rubeus-hagrid-sytuacja-*`. Oznaczenia `voice_situations` odnoszą się osobno do próbki kampanii i każdego wzorca książkowego. Wybierz przykład pasujący do obecnego celu, odbiorcy, wieku i obciążenia; brak kategorii jest luką źródłową, nie cechą postaci. Cisza nie wymaga puenty.
